@@ -1,0 +1,64 @@
+{
+  "en": {
+    "id": "alive-day-11",
+    "alias": "alive-day-11",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-11",
+        "alias": "alive-day-11",
+        "nextConversationId": "alive-day-12",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 11",
+        "lessonlastDay": false,
+        "task": {
+          "id": "aliveDay11rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 9,
+          "title": "Alive Day 11 Mission",
+          "body": "Over the next few hours, share something with someone that might interest them (e.g., a story, useful information, or a web-link)."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 11 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-11",
+    "alias": "alive-day-11",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-11",
+        "alias": "alive-day-11",
+        "nextConversationId": "alive-day-12",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 11",
+        "lessonlastDay": false,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 11",
+          "body": "Over the next few hours, share something with someone that might interest them (e.g., a story, useful information, or a web-link)."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 11 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

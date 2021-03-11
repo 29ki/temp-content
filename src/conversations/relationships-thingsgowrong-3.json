@@ -1,0 +1,126 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-3",
+    "alias": "relationships-thingsgowrong-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Next level\n\nYour mind is like a friend, always looking out for you, constantly sending warnings and tips. But just as you wouldn't always do what your friends tell you, you don't always need to react to a thought you have. \n\nThoughts are thoughts – they are not always true."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Got it",
+                "conversationId": "relationships-thingsgowrong-3",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Practice **allowing** a thought to pass like yet another cloud in the sky.\n\nSometimes you will need to act on your thoughts to look after yourself, but not always. Sometimes it is just your mind trying to help you out – even if  you didn't ask for it."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-3",
+    "alias": "relationships-thingsgowrong-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Jobbiga tankar\n\nDina tankar är som en vän som alltid ser efter dig och ständigt kommer med varningar och tips. \n\nMen precis som du inte alltid skulle göra exakt som dina vänner säger till dig, behöver du inte heller alltid göra som tankarna säger. \n\nTankar är tankar – de är inte alltid sanna."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-3",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Öva på att **tillåta** genom att låta tankar komma och gå, precis som moln gör på himlen.\n\nOfta är tankar bara din hjärna som försöker hjälpa dig – även fast du inte bett om det.\n\nIbland måste du agera på dina tankar för att ta hand om dig själv, men inte alltid. Kom ihåg att valet är ditt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

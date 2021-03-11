@@ -1,0 +1,202 @@
+{
+  "en": {
+    "id": "din-kropp-ditt-hem",
+    "alias": "din-kropp-ditt-hem",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/aa7b2df4-5a83-468b-87dd-4f78767cfd26/din-kropp-ditt-hem_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Your body, your home"
+              },
+              {
+                "component": "Text",
+                "content": "Sometimes it feels like we just want to get rid of difficult feelings and thoughts that come up. Practice giving space and accepting everything that is you, in your body."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's go",
+                "conversationId": "din-kropp-ditt-hem",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/din-kropp-ditt-hem.mp3",
+              "duration": 252
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "din-kropp-ditt-hem",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "You have just thought about how and where things feel in your body and trained to make room for what is going on inside - even for what we may not want."
+              },
+              {
+                "component": "Text",
+                "content": "Well done. You can use this exercise at any time in everyday life when you notice that life feels difficult."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "End",
+                "conversationId": "din-kropp-ditt-hem"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "din-kropp-ditt-hem",
+    "alias": "din-kropp-ditt-hem",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/aa7b2df4-5a83-468b-87dd-4f78767cfd26/din-kropp-ditt-hem_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Din kropp, ditt hem"
+              },
+              {
+                "component": "Text",
+                "content": "Ibland kan det kännas som att vi bara vill bli av med alla jobbiga känslor och tankar som dyker upp. Träna på att ge plats och acceptera allt det som är du, i just din kropp."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "din-kropp-ditt-hem",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/din-kropp-ditt-hem.mp3",
+              "duration": 253
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "din-kropp-ditt-hem",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du har just funderat över hur och var saker känns i din kropp samt tränat på att ge plats åt det som pågår på insidan – även åt det som vi kanske inte vill ha. "
+              },
+              {
+                "component": "Text",
+                "content": "Fint jobbat. Den här övningen kan du använda när som helst i vardagen när du märker att livet känns svårt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "din-kropp-ditt-hem"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

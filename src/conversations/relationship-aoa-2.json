@@ -1,0 +1,288 @@
+{
+  "en": {
+    "type": "lesson",
+    "root": "1",
+    "id": "relationship-aoa-2",
+    "alias": "relationship-aoa-2",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Friendship super skills**\n\nIn the last challenge you learned to master the skill of taking a breathing pause – a simple little pause that helps you be less reactive.\n\nNow we’ll build on it with two more skills – awareness and allowing."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "2",
+                "conversationId": "relationship-aoa-2",
+                "content": "Go on"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Think of awareness and allowing as skills for life. Along with the breathing pause, these skills will help you with your friendships. \n\nIt will give you a space to separate your own thoughts from truths and go about with important actions even in the presence of difficult feelings."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "3",
+                "conversationId": "relationship-aoa-2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Awareness** is:\n\nNoticing what is happening in your body\n\nNoticing what sensations you are experiencing"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "4",
+                "conversationId": "relationship-aoa-2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Allowing is:**\n\nSeeing thoughts and feelings as coming and going without grabbing or judging them\n\nSeeing thoughts and feelings as messengers, knowing they are not dangerous like knives or guns"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Got it",
+                "sectionId": "5",
+                "conversationId": "relationship-aoa-2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Becoming aware of and allowing your inner sensations are two great skills in helping with friendships. How? Well, you’ll end up less likely to say and do things you will regret later on.\n\nGet ready for a two minute practice to get you on your way."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "I'm ready",
+                "conversationId": "relationships-aoa-3",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "root": "1",
+    "id": "relationship-aoa-2",
+    "alias": "relationship-aoa-2",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Superfärdigheter i kompisrelationer\n\nI den förra utmaningen lärde du dig andningspausen – en kort liten paus som hjälper dig att tänka efter innan du reagerar.\n\nNu ska vi bygga på den färdigheten med två nya – medveten och tillåtande."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-aoa-2",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Tänk på medveten och tillåtande som två verktyg. Tillsammans med andningspausen kommer de att hjälpa dig skapa utrymme för att lättare kunna skilja dina egna tankar från fakta. \n\nDessutom kommer du lättare kunna fortsätta med viktiga beteenden även när det dyker upp jobbiga känslor."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-aoa-2",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Medvetenhet** är att:\n\n* Lägga märke till vad som händer i kroppen\n* Lägga märke till vilka upplevelser du har på insidan\n* Om du vill, sätta ord på tankar, känslor och upplevelser"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationship-aoa-2",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att **tillåta** är att:\n\n* Låta tankar och känslor komma och gå, som en ständig ström av meddelanden från knopp och kropp.\n* Låta tankar och känslor vara som de är – utan att fånga, värdera eller försöka förändra dem"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Uppfattat",
+                "conversationId": "relationship-aoa-2",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att vara medveten om och tillåtande mot dina inre upplevelser är två viktiga färdigheter när det kommer till kompisrelationer. Risken att du ska säga eller göra saker du senare kanske ångrar, minskar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är redo",
+                "conversationId": "relationships-aoa-3",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "en": {
+    "id": "alive-day-1",
+    "alias": "alive-day-1",
+    "type": "lesson",
+    "root": "welcome",
+    "sections": [
+      {
+        "id": "alive-day-1",
+        "alias": "alive-day-1",
+        "nextConversationId": "alive-day-2",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 1",
+        "lessonlastDay": false,
+        "initialDay": true,
+        "task": {
+          "id": "aliveDay1rev1",
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 1 Mission",
+          "body": "Over the next few hours, what action can you take to feel more connected to even one other person (e.g. by listening to them)?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 1 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-1",
+    "alias": "alive-day-1",
+    "type": "lesson",
+    "root": "welcome",
+    "sections": [
+      {
+        "id": "alive-day-1",
+        "alias": "alive-day-1",
+        "nextConversationId": "alive-day-2",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 1",
+        "lessonlastDay": false,
+
+        "initialDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 1",
+          "body": "Over the next few hours, what action can you take to feel more connected to even one other person (e.g. by listening to them)?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 1 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

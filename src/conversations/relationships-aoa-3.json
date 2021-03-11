@@ -1,0 +1,122 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-aoa-3",
+    "alias": "relationships-aoa-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Practicing super skills aware and allow\n\nWe’ll guide you through a two minute exercise on being aware and allowing in a positive interaction."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's start",
+                "sectionId": "2",
+                "conversationId": "relationships-aoa-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "audiofile-aoa",
+              "duration": 7
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Next",
+                "conversationId": "relationships-aoa-4",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-aoa-3",
+    "alias": "relationships-aoa-3",
+    "root": "1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Öva på superfärdigheterna \"medveten och tillåtande\"\n\nDu ska få prova en övning som handlar om att vara medveten och tillåtande. Den tar ungefär två minuter."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Sätt igång",
+                "conversationId": "relationships-aoa-3",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/medveten-tillatande-1.mp3",
+              "duration": 2
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-aoa-4",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

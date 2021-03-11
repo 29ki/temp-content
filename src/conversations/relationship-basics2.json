@@ -1,0 +1,264 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationship-basics-2",
+    "alias": "relationship-basics-2",
+    "root": "Section1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## The pause skill"
+              },
+              {
+                "component": "Text",
+                "content": "We’re going to dive right in and teach you a skill that can help with friendships. It’s a skill that shines a light on what is happening inside you. It stops you from making big mistakes."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "url": "d",
+              "duration": 0
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Don’t be fooled by the simplicity of a breathing pause. It is really useful when you are with other people and about to blurt out something, or when you are about to put your foot in it. It’s also useful if you feel hurt or sad by something someone has done. Pausing and taking a slow breath is backed by science as a super mindfulness skill (and we love science here at 29k)."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section4",
+        "alias": "Section4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now, with your pausing skill on board.\n\nAre you ready to learn some more about friendships? Take our quiz and discover what kind of friendship matters."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Go on",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationship-basics-2",
+    "alias": "relationship-basics-2",
+    "root": "Section1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Andningspaus"
+              },
+              {
+                "component": "Text",
+                "content": "Vi börjar med ett verktyg som kan hjälpa dig att vara den du vill i dina relationer. Det är ett enkelt sätt att göra dig uppmärksam på det som händer på insidan, och kan hindra dig från att göra stora misstag."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är redo",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/andningspaus.mp3",
+              "duration": 1
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Låt dig inte luras av enkelheten i att ta en andningspaus. Den är verkligen användbar när du är med andra och håller på att säga något du inte menar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "Section4",
+        "alias": "Section4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "En andningspaus är också bra att ta till när du känner dig sårad eller är ledsen över något som hänt. Det finns forskning som visar att en andningspaus är hjälpsam i många situationer (och vi älskar forskning här på 29k)."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "Section5",
+                "content": "Fortsätt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Section5",
+        "alias": "Section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Okej, nu har du tränat in andningspausen. Nästa steg är att upptäcka vad som är viktig för dig i dina relationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Fortsätt",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

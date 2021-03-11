@@ -1,0 +1,64 @@
+{
+  "en": {
+    "id": "alive-day-3",
+    "alias": "alive-day-3",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-3",
+        "alias": "alive-day-3",
+        "nextConversationId": "alive-day-4",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 3",
+        "lessonlastDay": false,
+        "task": {
+          "id": "aliveDay3rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 5,
+          "title": "Alive Day 3 Mission",
+          "body": "Over the next few hours, introduce yourself to someone who you see on a fairly frequent basis but don’t know their name."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 3 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-3",
+    "alias": "alive-day-3",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-3",
+        "alias": "alive-day-3",
+        "nextConversationId": "alive-day-4",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 3",
+        "lessonlastDay": false,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 3",
+          "body": "Over the next few hours, introduce yourself to someone who you see on a fairly frequent basis but don’t know their name."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 3 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-insideoutside-4",
+    "alias": "relationships-insideoutside-4",
+    "root": "1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Practice\n\nIt's time to build your inside-outside vision.\n\nOver the next three days, we want you to practice asking people who are close to you, how they are doing today."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "1. First, look at them and take a guess at how they might be doing today.\n\nRemember that you need to use the awareness **inside** **you** to guess what is **inside** **them**.\n\n2. Then, ask them:\n\n”How are you doing today?”\n\n”How are you feeling today?”"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Remember to take the time to **pause** and really listen to their answer.\n\nSome key listening behaviors you can practice:\n\n\\-Focus on listening actively to the other one\n\n\\-Ask questions if you need to, to understand what the other one is experiencing\n\n\\-Do not give advice or try to fix stuff."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "You’ll find two things happen:\n\n1. You’ll discover there are times when your guess is wrong. Often, to understand and be understood we need to use another's perspective.\n\n2. You’ll find out that people love it when they are asked about how they feel **IF** the person really listens to them. They’ll feel more connected to you."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Don't assume you can guess what's going on inside of others by just *looking* at them from the *outside*. Access the *inside* by *asking*.\n\nThe same is true for your experience - help others understand you by letting them know. Mind-reading is a useful skill, but it needs to be checked out."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "More",
+                "conversationId": "relationships-insideoutside-5",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": []
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-insideoutside-4",
+    "alias": "relationships-insideoutside-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Öva**\n\nNu är det dags att träna din insidan-utsidan-koll.\n\nDu ska få ett uppdrag. I tre dagar vill vi att du frågar personer som står dig nära hur de har det i dag. På riktigt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Börja med att titta på den andra personen och gissa hur hen mår.\n\nKom ihåg att en bra gissning **utgår ifrån dig** själv, hur du skulle känna dig om du var i den andras situation**.**"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Sedan vill vi att du frågar den andra hur hen mår i dag – *på riktigt.*\n\n* Hur känner du dig i dag?\n* Berätta mer om vad som pågår inuti dig! Vad har du för tankar och känslor i dag?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Kom ihåg att ta dig **tid** att verkligen lyssna på  svaret. Här är några tips:\n\n* Fokusera, lyssna **aktivt** på vad den andra säger.\n* Titta den andra i ögonen.\n* **Fråga mer** om du behöver veta mer för att förstå vad den andra personen upplever.\n* Ge inte råd, trösta eller försök att fixa problemet. Bara lyssna och ta in."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mer",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "a"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "a",
+        "alias": "a",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du kommer att upptäcka att två saker händer:\n\n* Ibland kommer din gissning att vara fel. För att förstå och bli förstådd behöver vi ofta fråga efter andras perspektiv.\n* De flesta av oss tycker om att berätta vad vi känner och tänker **när vi blir lyssnade på**, på riktigt. När du lyssnar aktivt ökar du  chansen till samhörighet."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_emilia.mp4",
+                "title": "Emilia",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_emilia.jpg"
+              },
+              {
+                "title": "Sebastian",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_sebastian.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sebastian.jpg"
+              },
+              {
+                "title": "Sofia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_sofia.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sofia.jpg"
+              },
+              {
+                "title": "Ummawa",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_ummawa.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_ummawa.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ofta är det svårt att gissa vad som pågår på insidan när vi bara ser utsidan. Du kan få tillgång till insidan genom att fråga. \n\nDetsamma gäller för din egen upplevelse – hjälp andra förstå genom att berätta hur du har det. Tankeläsning är en användbar färdighet, men den behöver dubbelkollas :)"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-insideoutside-5",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

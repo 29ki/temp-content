@@ -1,0 +1,190 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
+    "alias": "YA Stress: Att säga nej och ja",
+    "root": "69d7984f-d051-4701-9de8-a0a44fcce4f0",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "69d7984f-d051-4701-9de8-a0a44fcce4f0",
+        "content": "Att sätta gränser är en förutsättning för att få tid till återhämtning. Det är också grunden i bra relationer. Om vi inte kan känna av och sätta våra egna gränser — eller inte kommunicera dem till andra — leder det ofta till stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "c46b90b3-03f6-43de-add1-49739f6ce42c"
+          }
+        ],
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_header.png"
+      },
+      {
+        "type": "defaultSection",
+        "id": "c46b90b3-03f6-43de-add1-49739f6ce42c",
+        "alias": "Du kommer lära dig",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### I den här lektionen får du lära dig mer om:\n\n* Sätta gränser\n* Sluta säga ja när du egentligen menar nej\n* Hur du lättare kan säga nej"
+              }
+            ]
+          },
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "2f93659f-6e77-46f0-8cf1-cee81f124cf8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2f93659f-6e77-46f0-8cf1-cee81f124cf8",
+        "content": "När vi är stressade är det vanligt att vi säger ja till för många saker. Vi gör det av alla möjliga anledningar. Höga krav på oss själva. Rädsla för att missa något. Svårigheter att hantera att andra blir arga eller besvikna.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "bc2ace2a-ae31-46f9-9987-85f7e0ec41e0"
+          }
+        ],
+        "alias": "Att säga ja men mena nej",
+        "topImageUri": "",
+        "title": "Att säga ja men mena nej"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bc2ace2a-ae31-46f9-9987-85f7e0ec41e0",
+        "content": "Förmågan att säga nej är en viktig färdighet för att ta hand om oss, *särskilt* när vi är stressade. Men att säga nej kan vara läskigt och ovant. Därför händer det att vi istället undviker det, eller blir arga när någon ber oss om något som vi inte vill eller orkar.",
+        "title": "Ja-fällan",
+        "alias": "Ja-fällan",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "480a4db9-83f5-4851-878a-93718a64dfe6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "480a4db9-83f5-4851-878a-93718a64dfe6",
+        "content": "När vi undviker brukar vi låta bli att säga någonting, gå därifrån eller hålla med — bara för att slippa en konflikt. När vi blir arga, kan vi upplevas som hotfulla eller aggressiva. Både undvikande och ilska kan ibland fungera på *kort sikt,* men känns ofta inte särskilt bra i längden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+            "sectionId": "root"
+          }
+        ],
+        "alias": "4"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
+    "alias": "YA Stress: Att säga nej och ja",
+    "root": "2804b593-572a-4523-84c9-5117126894be",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "2804b593-572a-4523-84c9-5117126894be",
+        "alias": "Intro",
+        "content": "Att sätta gränser är en förutsättning för att få tid till återhämtning. Det är också grunden i bra relationer. Om vi inte kan känna av och sätta våra egna gränser — eller inte kommunicera dem till andra — leder det ofta till stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "78f68a58-9652-4f1c-945a-7dc13ae046b6"
+          }
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_header.png"
+      },
+      {
+        "type": "defaultSection",
+        "id": "78f68a58-9652-4f1c-945a-7dc13ae046b6",
+        "alias": "Du kommer lära dig",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### I den här lektionen får du lära dig mer om:\n\n* Sätta gränser\n* Sluta säga ja när du egentligen menar nej\n* Hur du lättare kan säga nej"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "3d864d03-9086-47cf-a60e-d02ee2b512cd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3d864d03-9086-47cf-a60e-d02ee2b512cd",
+        "alias": "Att säga ja men mena nej",
+        "title": "Att säga ja men mena nej",
+        "content": "När vi är stressade är det vanligt att vi säger ja till för många saker. Vi gör det av alla möjliga anledningar. Höga krav på oss själva. Rädsla för att missa något. Svårigheter att hantera att andra blir arga eller besvikna.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "c07eb822-2d38-47a6-8a3e-af339f6ee256"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c07eb822-2d38-47a6-8a3e-af339f6ee256",
+        "alias": "Ja-fällan",
+        "title": "Ja-fällan",
+        "content": "Förmågan att säga nej är en viktig färdighet för att ta hand om oss, *särskilt* när vi är stressade. Men att säga nej kan vara läskigt och ovant. Därför händer det att vi istället undviker det, eller blir arga när någon ber oss om något som vi inte vill eller orkar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "c2b9863a-385a-4359-afc7-b47c5d181938"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "c2b9863a-385a-4359-afc7-b47c5d181938",
+        "alias": "x",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När vi undviker brukar vi låta bli att säga någonting, gå därifrån eller hålla med — bara för att slippa en konflikt. När vi blir arga, kan vi upplevas som hotfulla eller aggressiva. Både undvikande och ilska kan ibland fungera på *kort sikt,* men känns ofta inte särskilt bra i längden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

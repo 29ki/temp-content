@@ -1,0 +1,316 @@
+{
+  "en": {
+    "id": "kroppen-2",
+    "alias": "kroppen-2",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Body surcharge"
+              },
+              {
+                "component": "Text",
+                "content": "Our bodies are equipped with a super-efficient defense system: stress. When we experience something that is threatening, the brain quickly switches to focusing on escaping or fighting."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I want to know more",
+                "conversationId": "kroppen-2",
+                "sectionId": "section2"
+              },
+              {
+                "component": "NextConversationButton",
+                "content": "Skip",
+                "conversationId": "kroppen-3",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "It can happen that the heart beats fast, we sweat, tense muscles, get tunnel vision or breathe faster than usual."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "kroppen-2",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "It is a natural reaction to stress, and helped our ancestors survive in situations where it was important to quickly get away from a saber-toothed tiger or fight back against a rival tribe."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "kroppen-2",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "We still react the same way, but the threats we face are a little different: get the task done on time or handle a difficult comment on a forum."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "kroppen-2",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Well done"
+              },
+              {
+                "component": "Text",
+                "content": "Now you have learned more about how stress works in the body. In a stressful situation, we may need to be extra kind to ourselves."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Next",
+                "conversationId": "kroppen-3",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "kroppen-2",
+    "alias": "kroppen-2",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Kroppens påslag"
+              },
+              {
+                "component": "Text",
+                "content": "Våra kroppar är utrustade med ett supereffektivt försvarssystem: stress. När vi upplever något som hotfullt ställer hjärnan snabbt om till att fokusera på att fly eller slåss."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag vill veta mer",
+                "conversationId": "kroppen-2",
+                "sectionId": "section2"
+              },
+              {
+                "component": "NextConversationButton",
+                "content": "Hoppa över",
+                "conversationId": "kroppen-3",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det kan hända att hjärtat slår snabbt, vi svettas, spänner musklerna, får tunnelseende eller andas snabbare än vanligt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "kroppen-2",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det är en naturlig reaktion på stress, och hjälpte våra förfäder att överleva i situationer där det var viktigt att snabbt komma undan från en sabeltandad tiger eller slå tillbaka mot en rivaliserande stam."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "kroppen-2",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vi reagerar fortfarande likadant, men de hot vi möter är lite annorlunda: bli klar med uppgiften i tid eller hantera en jobbig kommentar på ett forum."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "kroppen-2",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Fint jobbat"
+              },
+              {
+                "component": "Text",
+                "content": "Nu har du lärt dig mer om hur stress funkar i kroppen. I en stressig situation kan vi behöva vara extra snälla mot oss själva."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Nästa",
+                "conversationId": "kroppen-3",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

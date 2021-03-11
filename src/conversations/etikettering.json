@@ -1,0 +1,502 @@
+{
+  "en": {
+    "id": "etikettering",
+    "alias": "etikettering",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/2b931128-374a-494c-a877-00f4de56ef05/etikettering_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Labeling"
+              },
+              {
+                "component": "Text",
+                "content": "Sometimes it can feel like one's behavior is completely controlled by things that appear on the inside, such as difficult thoughts or difficult emotions."
+              },
+              {
+                "component": "Text",
+                "content": "In this exercise, you get to practice gaining distance to what is going on inside, so that you can choose for yourself in which direction you want to go in life."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's go",
+                "conversationId": "etikettering",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Thoughts and feelings can sometimes make us avoid things that are important to us, but at the same time difficult."
+              },
+              {
+                "component": "Text",
+                "content": "One way to practice breaking emotions and thoughts' influence on our behavior is to notice that they are just thoughts and feelings by putting labels on them."
+              },
+              {
+                "component": "ButtonGroup",
+                "content": [
+                  {
+                    "component": "Button",
+                    "content": "continue",
+                    "conversationId": "etikettering",
+                    "sectionId": "section3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "Write down some difficult things that are going on inside you right now. It can be hard thoughts or feelings, maybe things you really do not want."
+              },
+              {
+                "component": "Text",
+                "content": "Some common examples are:\n\"I am stupid\"\n\"I will not make it\"\n\"IM worthless\"\n\"I'm empty\"\n"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm finished",
+                "conversationId": "etikettering",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "Before each sentence, write: Now I got the idea (or feeling) that ..."
+              },
+              {
+                "component": "Text",
+                "content": "For example"
+              },
+              {
+                "component": "Text",
+                "content": "\"Now I got the idea that I'm useless\""
+              },
+              {
+                "component": "Text",
+                "content": "\"Now I got the idea that I will not be able to do this\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm finished",
+                "conversationId": "etikettering",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Read your new sentences silently to yourself."
+              },
+              {
+                "component": "Text",
+                "content": "How will it be? Is there anything that will be different from before?"
+              },
+              {
+                "component": "Text",
+                "content": "Write your reflection in the same place where you wrote your sentences."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm finished",
+                "conversationId": "etikettering",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Try adding these little words in front of your thoughts and feelings from time to time for a few days to come:"
+              },
+              {
+                "component": "Text",
+                "content": "\"Now I got the idea / feeling that ...\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "etikettering",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Good work. You have now tested an exercise that is about giving yourself some space between you and your thoughts and feelings. A space that you can use to choose what you want to do instead of letting emotions and thoughts decide."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "End",
+                "conversationId": "etikettering"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "etikettering",
+    "alias": "etikettering",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/2b931128-374a-494c-a877-00f4de56ef05/etikettering_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Etikettering"
+              },
+              {
+                "component": "Text",
+                "content": "Ibland kan det kännas som att ens beteende är helt styrt av saker som dyker upp på insidan, som jobbiga tankar eller svåra känslor."
+              },
+              {
+                "component": "Text",
+                "content": "I den här övningen får du träna på att skaffa distans till det som pågår på insidan, så att du kan välja själv i vilken riktning du vill gå i livet."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "etikettering",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Tankar och känslor kan ibland få oss att undvika sådant som är svårt men samtidigt viktigt för oss."
+              },
+              {
+                "component": "Text",
+                "content": "Ett sätt att träna sig i att bryta känslor och tankars påverkan på vårt beteende är att lägga märke till att de är just tankar och känslor genom att sätta etiketter på dem."
+              },
+              {
+                "component": "ButtonGroup",
+                "content": [
+                  {
+                    "component": "Button",
+                    "content": "Fortsätt",
+                    "conversationId": "etikettering",
+                    "sectionId": "section3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Övning"
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner några svåra saker som pågår på insidan hos dig just nu. Det kan vara jobbiga tankar eller känslor, kanske sånt du egentligen inte skulle vilja ha."
+              },
+              {
+                "component": "Text",
+                "content": "Några vanliga exempel är:\n”Jag är dum”\n”Jag kommer inte klara det”\n”Jag är värdelös”\n”Jag är tom”\n"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "etikettering",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Övning"
+              },
+              {
+                "component": "Text",
+                "content": "Framför varje mening, skriv: Nu fick jag tanken (eller känslan) att ..."
+              },
+              {
+                "component": "Text",
+                "content": "Till exempel"
+              },
+              {
+                "component": "Text",
+                "content": "”Nu fick jag tanken att jag är värdelös”"
+              },
+              {
+                "component": "Text",
+                "content": "”Nu fick jag tanken att jag inte kommer att klara detta”"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "etikettering",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Läs dina nya meningar tyst för dig själv."
+              },
+              {
+                "component": "Text",
+                "content": "Hur blir det? Finns det något som blir annorlunda mot tidigare?"
+              },
+              {
+                "component": "Text",
+                "content": "Skriv in din reflektion på samma plats där du skrev dina meningar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "etikettering",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Prova att lägga till de här små orden framför dina tankar och känslor då och då under några dagar framöver: "
+              },
+              {
+                "component": "Text",
+                "content": "”Nu fick jag tanken/känslan att...”"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "etikettering",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat. Du har nu testat en övning som handlar om att ge dig själv lite utrymme mellan dig och dina tankar och känslor. Ett utrymme som du kan använda till att välja vad du vill göra i stället för att låta känslor och tankar bestämma."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "etikettering"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

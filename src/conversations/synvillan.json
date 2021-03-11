@@ -1,0 +1,846 @@
+{
+  "en": {
+    "id": "synvillan",
+    "alias": "synvillan",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "If you do not do so much of what is important to you in life - perhaps because anxiety stands in the way - then there is a great risk that your anxiety takes up a large place in life."
+              },
+              {
+                "component": "Text",
+                "content": "In the same way that we interpret the right center circle as larger."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "synvillan",
+                "sectionId": "section11"
+              }
+            ]
+          }
+        ],
+        "id": "section10",
+        "alias": "section10",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "If anxiety takes up a lot of space in life, you can change what the brain compares to - that is, do more of what you like, even if you also have anxiety."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Move on",
+                "conversationId": "synvillan",
+                "sectionId": "section12"
+              }
+            ]
+          }
+        ],
+        "id": "section11",
+        "alias": "section11",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "If what is important to you in life is given more space and time, anxiety will take up less space in relation to the rest of life. In the same way as we perceive the left center circle."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "synvillan",
+                "sectionId": "section13"
+              }
+            ]
+          }
+        ],
+        "id": "section12",
+        "alias": "section12",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "You are now finished with the exercise visual illusion and have trained to gain some distance to the brain's interpretations and that anxiety in life can feel less if we increase other activities."
+              },
+              {
+                "component": "Text",
+                "content": "Good work!"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "End",
+                "conversationId": "synvillan"
+              }
+            ]
+          }
+        ],
+        "id": "section13",
+        "alias": "section13",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Visibility"
+              },
+              {
+                "component": "Text",
+                "content": "Our brains take shortcuts in life, and sometimes it doesn't work out."
+              },
+              {
+                "component": "Text",
+                "content": "In this exercise, you get to practice being skeptical of thoughts and think about how big a place anxiety takes in life."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start",
+                "conversationId": "synvillan",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+            },
+            "props": {
+              "resizeMode": "cover"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Look closely at the center circles of these two figures. Which center circle is largest?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "synvillan",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "The most common is that we perceive the right center circle as larger. But in fact, they are exactly the same size."
+              },
+              {
+                "component": "Text",
+                "content": "Why does the brain fool us like this?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Move on",
+                "conversationId": "synvillan",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Our brains are programmed to constantly compare with what is around."
+              },
+              {
+                "component": "Text",
+                "content": "In comparison with the small balls, the right center circle appears larger."
+              },
+              {
+                "component": "Text",
+                "content": "In comparison with the large balls, the left center circle appears smaller."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "synvillan",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Our brain saves time and energy by taking shortcuts. And even when it comes to simple things - like comparing a group of circles - the brain sometimes draws conclusions that are not true."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "synvillan",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "More complicated things - like what others think, how it should go for us in the future or what we need to do to get along with a friend - are even harder for our brains to deal with."
+              },
+              {
+                "component": "Text",
+                "content": "The risk that our conclusions and thoughts are not correct is great."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "synvillan",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "Do you recognize that your brain sometimes draws hasty conclusions?"
+              },
+              {
+                "component": "Text",
+                "content": "Describe for yourself a situation last week when your brain interpreted something wrong, and what the interpretation made you do."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm finished",
+                "conversationId": "synvillan",
+                "sectionId": "section8"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "The next time you notice that your brain is drawing a quick conclusion that may not be true, what would you like to do then? Think of an alternative behavior."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm finished",
+                "conversationId": "synvillan",
+                "sectionId": "section9"
+              }
+            ]
+          }
+        ],
+        "id": "section8",
+        "alias": "section8",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+            },
+            "props": {
+              "resizeMode": "cover"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Good work. Now we are back at the visual field again. We can use it in more ways. Now imagine that the center circles are anxiety and the circles around are the rest of life."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay",
+                "conversationId": "synvillan",
+                "sectionId": "section10"
+              }
+            ]
+          }
+        ],
+        "id": "section9",
+        "alias": "section9",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "synvillan",
+    "alias": "synvillan",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om du inte gör så mycket av sådant som är viktigt för dig i livet – kanske för att ångesten står i vägen – så är det stor risk att din ångest tar upp stor plats i tillvaron."
+              },
+              {
+                "component": "Text",
+                "content": "På samma sätt som att vi tolkar den högra mittcirkeln som större."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "synvillan",
+                "sectionId": "section11"
+              }
+            ]
+          }
+        ],
+        "id": "section10",
+        "alias": "section10",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om ångest tar stor plats i livet så kan du ändra på det hjärnan jämför med – alltså göra mer av sådant du tycker om, även om du samtidigt har ångest."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "synvillan",
+                "sectionId": "section12"
+              }
+            ]
+          }
+        ],
+        "id": "section11",
+        "alias": "section11",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om det som är viktigt för dig i livet får mer utrymme och tid så kommer ångesten att ta mindre plats i relation till resten av livet. På samma sätt som vi uppfattar den vänstra mittcirkeln."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "synvillan",
+                "sectionId": "section13"
+              }
+            ]
+          }
+        ],
+        "id": "section12",
+        "alias": "section12",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du är nu klar med övningen synvillan och har tränat på att skaffa lite distans till hjärnans tolkningar och att ångest i livet kan kännas mindre om vi ökar på andra aktiviteter."
+              },
+              {
+                "component": "Text",
+                "content": "Bra jobbat!"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "synvillan"
+              }
+            ]
+          }
+        ],
+        "id": "section13",
+        "alias": "section13",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Synvillan"
+              },
+              {
+                "component": "Text",
+                "content": "Våra hjärnor tar genvägar i tillvaron, och ibland blir det inte rätt. "
+              },
+              {
+                "component": "Text",
+                "content": "I den här övningen får du träna på att vara skeptisk mot tankar och fundera på hur stor plats ångest tar i tillvaron."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Börja",
+                "conversationId": "synvillan",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+            },
+            "props": {
+              "resizeMode": "cover"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Titta noga på mittcirklarna i de här båda figurerna. Vilken mittcirkel är störst?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "synvillan",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det vanligaste är att vi uppfattar den högra mittcirkeln som större. Men i själva verket så är de exakt lika stora."
+              },
+              {
+                "component": "Text",
+                "content": "Varför lurar hjärnan oss så här?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "synvillan",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Våra hjärnor är programmerade att ständigt jämföra med det som finns runt omkring."
+              },
+              {
+                "component": "Text",
+                "content": "I jämförelse med de små bollarna framstår den högra mittcirkeln som större."
+              },
+              {
+                "component": "Text",
+                "content": "I jämförelse med de stora bollarna framstår den vänstra mittcirkeln som mindre."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "synvillan",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vår hjärna sparar tid och energi genom att ta genvägar. Och även när det gäller enkla saker – som att jämföra en grupp med cirklar – så drar hjärnan ibland slutsatser som inte stämmer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "synvillan",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Mer komplicerade saker – som vad andra tänker, hur det ska gå för oss i framtiden eller vad vi behöver göra för att bli sams med en kompis – är ännu svårare för våra hjärnor att hantera."
+              },
+              {
+                "component": "Text",
+                "content": "Risken att våra slutsatser och tankar inte stämmer är stor."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "synvillan",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "Känner du igen att din hjärna drar förhastade slutsatser ibland?"
+              },
+              {
+                "component": "Text",
+                "content": "Beskriv för dig själv en situation senaste veckan när din hjärna tolkade något fel, och vad tolkningen fick dig att göra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "synvillan",
+                "sectionId": "section8"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nästa gång du märker att din hjärna drar en snabb slutsats som kanske inte stämmer, vad skulle du vilja gör då? Fundera ut ett alternativt beteende."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "synvillan",
+                "sectionId": "section9"
+              }
+            ]
+          }
+        ],
+        "id": "section8",
+        "alias": "section8",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+            },
+            "props": {
+              "resizeMode": "cover"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat. Nu är vi tillbaka vid synvillan igen. Vi kan nämligen använda den på fler sätt. Tänk dig nu att mittcirklarna är ångest och cirklarna runt omkring är resten av livet."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "synvillan",
+                "sectionId": "section10"
+              }
+            ]
+          }
+        ],
+        "id": "section9",
+        "alias": "section9",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

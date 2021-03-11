@@ -1,0 +1,310 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-2",
+    "alias": "relationships-thingsgowrong-2",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now you’ll practice your **aware** and **allow** skills, but with difficult thoughts and feelings. People often find this a lot harder.\n\nDon’t worry, it won't be *too* difficult. The most important part is that you give it a try. Why? Well, we learn best in small steps. Remember it’s necessary to learn how to walk before you can run a marathon."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's go",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "url": "awareandallowtake2",
+              "duration": 5
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Reflect** for a moment:\n\nWhat happened with your feelings?\n\nWhat happened with your thoughts?\n\n\n\nWrite it down somewhere only you can see."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm done",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Good stuff!\n\n Here’s the thing – by just doing this practice and writing a few words, you’ve already gotten better at awareness and allowing."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "See others' experiences",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://drive.google.com/drive/folders/1Y5GGn2u8uodZU2duhMwhOCmxBkmaiURX?usp=sharing",
+                "duration": 1,
+                "imageUri": "t"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Go on",
+                "conversationId": "relationships-thingsgowrong-3",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-2",
+    "alias": "relationships-thingsgowrong-2",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nu ska du få öva på att vara **medveten** och **tillåtande** – men med **jobbiga** tankar och känslor. Det är vanligt att tycka att det är svårare än med positiva känslor och tankar. Vi tar det i små steg."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Sätt igång",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du ska få lyssna på en ljudfil."
+              }
+            ]
+          },
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/medveten-och-tillatande-2.mp3",
+              "duration": 5
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nu vill vi att du funderar på följande:\n\nVad hände med dina känslor när du gjorde den här övningen?\n\nMed dina tankar?\n\nSkriv ner ditt svar någonstans där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Bra jobbat!\n\nBara genom att uttrycka din upplevelse har du redan blivit bättre på att vara medveten och tillåtande."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se vad andra säger",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_emilia.mp4",
+                "title": "Emilia",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_emilia.jpg"
+              },
+              {
+                "title": "Sebastian",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sebastian.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sebastian.jpg"
+              },
+              {
+                "title": "Sofia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sofia.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sofia.jpg"
+              },
+              {
+                "title": "Ummawa",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_ummawa.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_ummawa.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-3",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

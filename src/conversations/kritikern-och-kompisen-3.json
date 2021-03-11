@@ -1,0 +1,474 @@
+{
+  "en": {
+    "id": "kritikern-och-kompisen-3",
+    "alias": "kritikern-och-kompisen-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_vad_sager.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# What do you say to a friend?"
+              },
+              {
+                "component": "Text",
+                "content": "Imagine that you have a friend who is in the same situation as you just described, that the friend does not live up to the high demands he has on himself."
+              },
+              {
+                "component": "Text",
+                "content": "Think about what you would say to your friend."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "What do others say?",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 44,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.jpg"
+              },
+              {
+                "title": "Isaac, 20",
+                "duration": 61,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Move on",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Our inner friend"
+              },
+              {
+                "component": "Text",
+                "content": "What many do not know is that we also have our own inner friend. A friend who is on our side and wants us well."
+              },
+              {
+                "component": "Text",
+                "content": "Our inner critic is often self-reliant, while it can take some time to find his own inner friend."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "what-would-your-best-friend-say",
+            "exerciseTitle": "What would a best friend say?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# What would a best friend say?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Now think back to the situation that made your inner critic start to gape."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "What would a best friend - someone who really cares about you - say to you in this situation?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "A best friend would say that it's okay to make a mistake and that he likes me anyway."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write down your answer where only you can see it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section5",
+                "content": "I'm finished"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Our inner friend accepts all our mistakes and mistakes. That we are not perfect. You have now explored your inner friend and thought about what he would say to you in difficult situations."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Good job with the critic & friend."
+              },
+              {
+                "component": "Text",
+                "content": "In situations where you notice that your inner critic is getting started, you can help yourself by also thinking about what your inner friend would say."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "End",
+                "conversationId": "kritikern-och-kompisen-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "kritikern-och-kompisen-3",
+    "alias": "kritikern-och-kompisen-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_vad_sager.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Vad säger du till en kompis?"
+              },
+              {
+                "component": "Text",
+                "content": "Tänk dig att du har en kompis som är i samma situation som du beskrev nyss, att kompisen inte lever upp till de höga krav hen har på sig."
+              },
+              {
+                "component": "Text",
+                "content": "Fundera på vad du skulle säga till din kompis."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vad säger andra?",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 44,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.jpg"
+              },
+              {
+                "title": "Isaac, 20",
+                "duration": 61,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Vår inre kompis"
+              },
+              {
+                "component": "Text",
+                "content": "Vad många inte vet är att vi också har vår egen inre kompis. En kompis som är på vår sida och vill oss väl."
+              },
+              {
+                "component": "Text",
+                "content": "Vår inre kritiker är ofta självgående, medan det kan ta lite tid att hitta sin egen inre kompis."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "what-would-your-best-friend-say",
+            "exerciseTitle": "Vad skulle en bästa kompis säga?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# Vad skulle en bästa kompis säga?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Tänk nu tillbaka på situationen som fick din inre kritiker att börja gapa."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Vad skulle en bästa vän – någon som verkligen bryr sig om dig – säga till dig i den här situationen?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "En bästa kompis skulle säga att det är okej att göra fel och att hen tycker om mig ändå."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Skriv ner ditt svar där bara du kan se det."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section5",
+                "content": "Jag är klar"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vår inre kompis accepterar alla våra fel och misstag. Att vi inte är perfekta. Du har nu utforskat din inre kompis och funderat på vad hen skulle säga till dig i svåra situationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "kritikern-och-kompisen-3",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat med kritikern & kompisen."
+              },
+              {
+                "component": "Text",
+                "content": "I situationer när du märker att din inre kritiker drar igång, kan du hjälpa dig själv genom att också fundera på vad din inre kompis skulle säga. "
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "kritikern-och-kompisen-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

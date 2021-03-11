@@ -1,0 +1,114 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+    "alias": "YA stress här och nu 2",
+    "root": "44272647-aec9-4d2e-9988-4533ddd6deff",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "44272647-aec9-4d2e-9988-4533ddd6deff",
+        "content": "Att fokusera på det som pågår här och nu är som en muskel som blir starkare genom träning. Att steg för steg träna på att vara i nuet när vi *inte* är stressade, hjälper oss i svårare situationer. Det är ungefär som att vi behöver träna kortare distanser innan vi kan springa ett maraton.",
+        "title": "Fokus-muskler",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "b2783fec-9ca7-41f0-a434-cb000c4472bf"
+          }
+        ],
+        "alias": "Tre saker"
+      },
+      {
+        "type": "audio",
+        "id": "b2783fec-9ca7-41f0-a434-cb000c4472bf",
+        "alias": "Fokusövning",
+        "title": "Tre saker",
+        "description": "Du ska få lyssna på en övning som hjälper dig träna dina fokus-muskler. \n\nDina tankar kommer förmodligen vandra iväg under den här övningen. Det är helt okej. Det händer oss alla. När det händer, för vänligt tillbaka din uppmärksamhet till här och nu. Övningen tar ungefär tre minuter.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "71c87ec4-c241-4d74-b0b0-3b966a598eef"
+          }
+        ],
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "71c87ec4-c241-4d74-b0b0-3b966a598eef",
+        "content": "Bra jobbat! Testa gärna att göra den här övningen igen när du känner dig ofokuserad, kommer hem från skolan eller jobbet, eller när du vill skifta fokus från en uppgift till en annan.",
+        "alias": "Post-exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "root"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+    "alias": "YA stress här och nu 2",
+    "root": "0489da20-f5a3-485d-b156-b41bf3ba3511",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0489da20-f5a3-485d-b156-b41bf3ba3511",
+        "alias": "Tre saker",
+        "title": "Fokus-muskler",
+        "content": "Att fokusera på det som pågår här och nu är som en muskel som blir starkare genom träning.  Det är ungefär som att vi behöver träna kortare distanser innan vi kan springa ett maraton. Att steg för steg träna på att vara i nuet när vi *inte* är stressade, hjälper oss i svårare situationer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "9ef26f72-a0b2-4bb4-85fd-f15ac03ecb26"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "9ef26f72-a0b2-4bb4-85fd-f15ac03ecb26",
+        "description": "Du ska få lyssna på en övning som hjälper dig träna dina fokus-muskler. \n\nDina tankar kommer förmodligen vandra iväg under den här övningen. Det är helt okej. Det händer oss alla. När det händer, för vänligt tillbaka din uppmärksamhet till här och nu. Övningen tar ungefär tre minuter.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "f2da2c59-c5ce-490b-b96f-3a266f5428b0"
+          }
+        ],
+        "alias": "Fokusövning",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3"
+      },
+      {
+        "type": "defaultSection",
+        "id": "f2da2c59-c5ce-490b-b96f-3a266f5428b0",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat! Testa gärna att göra den här övningen igen när du vill träna dina fokus-muskler."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d"
+              }
+            ]
+          }
+        ],
+        "alias": "Post-exercise"
+      }
+    ]
+  }
+}

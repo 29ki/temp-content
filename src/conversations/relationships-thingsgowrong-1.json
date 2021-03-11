@@ -1,0 +1,455 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-1",
+    "alias": "relationships-thingsgowrong-1",
+    "root": "1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "We’re glad to see you ready to step it up. In this challenge you will learn:\n\n* Coping with difficult thoughts and feelings\n* Aware and allow in challenging situations"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Recap\n\nRemember the breathing pause and the aware and allow skills we've talked about? They will help you get better at having friendships that include your friendship values.\n\nToday we'll step up the challenge with aware and allow in difficult situations."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okey",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# The big deal\n\nBeing aware of and allowing our inner thoughts and feelings is especially important (and hard) when interacting with others. \n\nHowever – it can mean the difference between acting in ways that are friendly, and being impulsive and reactive. Sometimes friendship exchanges happen so quickly we end up making a mess of things."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Got it",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Being **aware** helps you interact with people in ways that matter to you in the long term. Being **allowing** helps you befriend and accept whatever is going on inside of you. \n\nTogether they give you more **control** to act in ways that are **important** to you."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "What happens when you get reactive?\n\nWrite it down somewhere only you can see, like this:\n\n\"When I get reactive, I tend to ...\"\n\nExample: I tend to say mean things I don't really mean."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Build yourself and your friendships\n\nSometimes allowing get's mixed up with being passive. But allowing doesn't mean you don't respond. Neither does it mean that you're a doormat that let's everyone walk all over you."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "More",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "It means that you’ll get better and better at responding in ways that are consistent with how you want to be as a person and as a friend. \n\nAllowing is letting things be as they are, without controlling, changing or judging."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Got it",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-1",
+    "alias": "relationships-thingsgowrong-1",
+    "root": "1a",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1a",
+        "alias": "1a",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# När det blir fel\n\nDet kan kännas lätt att hantera relationer när allt flyter på fint. Men ibland gör vi misstag. I den här utmaningen får du lära dig att öka chansen att du beter dig som **du** vill."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Den här utmaningen innehåller:\n\n* När det blir fel\n* Medveten och tillåtande i svåra situationer\n* Jobbiga tankar\n* Öva"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Kommer du ihåg andningspausen? Och färdigheterna **medveten** och **tillåtande** som vi har pratat om? De hjälper dig att skapa relationer som utgår från vad som är viktigt för dig.\n\nIdag ska du få prova att vara **medveten** och **tillåtande** även i **svåra** situationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att vara medveten om och tillåta jobbiga tankar och känslor är extra viktigt (och svårt) när vi umgås med andra. \n\nSamtidigt kan det hjälpa dig att göra mer av det du vill göra på ett schysst sätt. Men i många situationer går det fort och det är lätt hänt att vi ställer till det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att vara **medveten** hjälper dig att vara med andra på det sätt som du vill. Att vara **tillåtande** hjälper dig acceptera allt som händer inuti dig. \n\nTillsammans ger de dig mer **kontroll** så du kan göra det som är **viktigt** för dig."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "Exercise",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Men det är ju inte alltid saker blir som vi vill. Vad brukar du göra när du reagerar impulsivt? Skriv ned ditt svar där bara du kan se det, så här:\n\n”När jag reagerar impulsivt brukar jag...”"
+                  }
+                ]
+              }
+            ],
+            "exerciseId": "relationships-things-go-wrong",
+            "exerciseTitle": "När det blir fel"
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Guiding",
+                "content": "Exempel: När jag reagerar impulsivt brukar jag säga saker jag egentligen inte menar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat. Nu vet du vad du brukar göra när det blir fel."
+              },
+              {
+                "component": "Text",
+                "content": "Att vara tillåtande mot det som händer på insidan innebär ofta att vi blir bättre på att hantera situationer på ett sätt som vi kan känna oss nöjda med efteråt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-1",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ibland blandar vi ihop ”tillåtande” med ”passiv”. Men att tillåta är inte samma sak som att inte reagera. Det är inte heller att låta andra bete sig hur som helst mot oss. \n\nAtt tillåta är att låta saker på **insidan** vara som de är, utan att försöka kontrollera, ändra eller döma dem."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

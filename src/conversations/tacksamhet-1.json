@@ -1,0 +1,479 @@
+{
+  "en": {
+    "id": "tacksamhet-1",
+    "alias": "tacksamhet-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Tacksamhet"
+              },
+              {
+                "component": "Text",
+                "content": "Ibland kan det kännas som att dagarna passerar, utan att vi lägger märke till att det är dom som är livet. Att göra-listor, aktiviteter, kompisar, familj och beslut fyller lätt upp vardagen och vi funderar kanske sällan på vad det är som gör livet meningsfullt."
+              },
+              {
+                "component": "Text",
+                "content": "I den här utmaningen får du stanna upp och fundera över olika saker som du är tacksam över i ditt liv."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Låter bra",
+                "sectionId": "section2",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Den här utmaningen innehåller tre delar:"
+              },
+              {
+                "component": "Text",
+                "content": "* Tacksamhetsbrev ett\n* Fokusövning\n* Tacksamhetsbrev två"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "sectionId": "section3",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Vad är du tacksam för?"
+              },
+              {
+                "component": "Text",
+                "content": "Välj en person som du uppskattar. Fundera på vad den här personen gör som du gillar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "ok",
+                "sectionId": "section4",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se om du kan komma på exempel på vad personen gjort som du känner tacksamhet för. Det kan till exempel handla om att någon lyssnade på dig när du behövde det, att någon hjälpte dig med läxan eller att någon frågade om du ville följa med och fika. Stort eller smått spelar ingen roll."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se andra berätta",
+                "sectionId": "section5",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Isaac, 20",
+                "duration": 53,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 48,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 46,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "section6",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "Formulera nu ett brev eller meddelande till den här personen, där du berättar varför du är tacksam för att hen finns i ditt liv. Beskriv vad personen betyder för dig. Tänk dig att du ska skicka ett brev eller ett meddelande, men skriv eller spela in dig själv någonstans där bara du kan se det. "
+              },
+              {
+                "component": "Text",
+                "content": "Om du vill kan du börja med ”Kära ...”"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "sectionId": "section7",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat, det var modigt av dig att formulera din tacksamhet mot den här personen."
+              }
+            ]
+          },
+          {
+            "component": "NextConversationButton",
+            "content": "Next step",
+            "sectionId": "section1",
+            "conversationId": "tacksamhet-2"
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "tacksamhet-1",
+    "alias": "tacksamhet-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Tacksamhet"
+              },
+              {
+                "component": "Text",
+                "content": "Ibland kan det kännas som att dagarna passerar, utan att vi lägger märke till att det är dom som är livet. Att göra-listor, aktiviteter, kompisar, familj och beslut fyller lätt upp vardagen och vi funderar kanske sällan på vad det är som gör livet meningsfullt."
+              },
+              {
+                "component": "Text",
+                "content": "I den här utmaningen får du stanna upp och fundera över olika saker som du är tacksam över i ditt liv."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Låter bra",
+                "sectionId": "section2",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Den här utmaningen innehåller tre delar:"
+              },
+              {
+                "component": "Text",
+                "content": "* Tacksamhetsbrev ett\n* Fokusövning\n* Tacksamhetsbrev två"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "sectionId": "section3",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Vad är du tacksam för?"
+              },
+              {
+                "component": "Text",
+                "content": "Välj en person som du uppskattar. Fundera på vad den här personen gör som du gillar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "ok",
+                "sectionId": "section4",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se om du kan komma på exempel på vad personen gjort som du känner tacksamhet för. Det kan till exempel handla om att någon lyssnade på dig när du behövde det, att någon hjälpte dig med läxan eller att någon frågade om du ville följa med och fika. Stort eller smått spelar ingen roll."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se andra berätta",
+                "sectionId": "section5",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Isaac, 20",
+                "duration": 53,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 48,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 46,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "section6",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "Formulera nu ett brev eller meddelande till den här personen, där du berättar varför du är tacksam för att hen finns i ditt liv. Beskriv vad personen betyder för dig. Tänk dig att du ska skicka ett brev eller ett meddelande, men skriv eller spela in dig själv någonstans där bara du kan se det. "
+              },
+              {
+                "component": "Text",
+                "content": "Om du vill kan du börja med ”Kära ...”"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "sectionId": "section7",
+                "conversationId": "tacksamhet-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat, det var modigt av dig att formulera din tacksamhet mot den här personen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Next step",
+                "sectionId": "section1",
+                "conversationId": "tacksamhet-2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

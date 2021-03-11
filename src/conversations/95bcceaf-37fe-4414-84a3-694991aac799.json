@@ -1,0 +1,100 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "95bcceaf-37fe-4414-84a3-694991aac799",
+    "alias": "YA Stress - Hur du fortsätter hantera stress 2",
+    "root": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
+        "alias": "Fortsätt öva",
+        "title": "Fortsätt öva",
+        "content": "Att lära sig hantera stress är en förmåga vi kan jobba på resten av våra liv. Du har nu tagit dina första steg mot ett mindre stressigt liv, så att du istället har tid att göra sånt som är viktigt för dig och som du mår bra av.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Okej",
+            "sectionId": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb",
+        "alias": "Övning",
+        "title": "Övning",
+        "content": "1. Bestäm två eller tre saker du lärt dig i den här utmaningen som du vill fortsätta med framöver. Skriv ned dina svar där bara du kan se dem. \n2. Sätt en påminnelse i mobilen eller skriv ned det vad du bestämt i din kalender för att påminna dig själv om vad du arbetar på, och när du ska göra det. Försök vara specifik:\n\n* Vad vill jag fortsätta med?\n* Varför är det viktigt för mig?\n* Hur ska jag göra det?\n* När ska jag öva?\n\n*Exempel: träffa en kompis en gång i månaden, träna två gånger i veckan, göra en fokusövning när jag blir stressad, använda mig av problemlösning i situationer där jag kan påverka problemet, tacka ja om någon bjuder med mig till en fest.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d",
+        "alias": "Grymt jobbat! ",
+        "title": "Grymt jobbat! ",
+        "content": "Du har verkligen gjort någonting fint för dig själv. Du kan alltid gå tillbaka till lektionerna eller hela kursen om du vill eller behöver det.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "95bcceaf-37fe-4414-84a3-694991aac799",
+    "alias": "YA Stress - Hur du fortsätter hantera stress 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
+        "alias": "Fortsätt öva",
+        "title": "Fortsätt öva",
+        "content": "Att lära sig hantera stress är en förmåga vi kan jobba på resten av våra liv. Du har nu tagit dina första steg mot ett mindre stressigt liv, så att du istället har tid att göra sånt som är viktigt för dig och som du mår bra av.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Okej",
+            "sectionId": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb",
+        "alias": "Övning",
+        "title": "Övning",
+        "content": "1. Bestäm två eller tre saker du lärt dig i den här utmaningen som du vill fortsätta med framöver. Skriv ned dina svar där bara du kan se dem. \n2. Sätt en påminnelse i mobilen eller skriv ned det vad du bestämt i din kalender för att påminna dig själv om vad du arbetar på, och när du ska göra det. Försök vara specifik:\n\n* Vad vill jag fortsätta med?\n* Varför är det viktigt för mig?\n* Hur ska jag göra det?\n* När ska jag öva?\n\n*Exempel: träffa en kompis en gång i månaden, träna två gånger i veckan, göra en fokusövning när jag blir stressad, använda mig av problemlösning i situationer där jag kan påverka problemet, tacka ja om någon bjuder med mig till en fest.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d",
+        "alias": "Grymt jobbat! ",
+        "title": "Grymt jobbat! ",
+        "content": "Du har verkligen gjort någonting fint för dig själv. Du kan alltid gå tillbaka till lektionerna eller hela kursen om du vill eller behöver det.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ],
+    "root": "db657c66-3dfd-46d8-9ec1-7e875945e5db"
+  }
+}

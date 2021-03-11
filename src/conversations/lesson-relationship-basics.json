@@ -1,0 +1,370 @@
+{
+  "en": {
+    "type": "lesson",
+    "root": "1",
+    "id": "relationship-basics-1",
+    "alias": "relationship-basics-1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Aware and allow\n\nWe’re glad to see you back here. In this challenge you will learn:\n\n* Truth versus idea\n* Friendship super skills\n* Aware and allow\n* Practice"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Truth versus idea\n\nThe context around us often gives us ideas about how things should be – ideas that sometimes are mistaken for truths. Ideas on what you should and shouldn’t do with your thoughts and feelings could be helpful, but oftentimes they are not. \n\nInstead, they can make our lives harder."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Which of the following **are truths?**\n\n* It’s best to hide your thoughts and feelings from others\n* If you are sad, you should control that feeling\n* It’s best to tell others if they did something you don’t like\n* It’s best to be happy around others all of the time"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Show me!",
+                "sectionId": "4",
+                "conversationId": "relationship-basics-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "In fact – they’re all *ideas*. But still most people are taught these ideas as truths. They’re everywhere.\n\nAt 29k, we use science to distinguish between truths and ideas. Not because ideas necessarily are bad – they’re great for entertaining stories and being creative. But psychologists have spent decades studying how to best handle thoughts and feelings. \n\nAlong the way they’ve discovered that a lot of the things we assume are truths, actually are *ideas*."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Got it!",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "root": "Section1",
+    "id": "relationship-basics-1",
+    "alias": "relationship-basics-1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Relationer – så funkar det"
+              },
+              {
+                "component": "Text",
+                "content": "Fint att du är här och vill lära dig mer om relationer. I den här utmaningen får du fundera på vad som är viktigt för dig, och hur du kan göra för att förbättra dina relationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Content"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Content",
+        "alias": "Content",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Den här utmaningen innehåller:**\n\n* Varför vi bryr oss om vad andra tycker\n* Andningspaus\n* Vad är viktigt i kompisrelationer\n* Träna på att bygga relationer"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Varför vi bryr oss"
+              },
+              {
+                "component": "Text",
+                "content": "Tänk dig en hund som står utanför dörren i regnet, och en människa som sitter inne i ett varmt rum fullt av andra personer.\n\nVem tänker “Varför tycker folk inte om mig?”"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Hunden",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section4"
+              },
+              {
+                "component": "Button",
+                "content": "Människan",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det stämmer. Vi människor ägnar en massa tid åt att oroa oss och fundera på vad andra tycker om oss. Vi kan vara tillsammans med andra, och samtidigt någon helt annanstans i tankarna. Din hund, den funderar inte på varför du lämnade den ute i regnet. Den blir glad i samma sekund som du släpper in den."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Berätta mer",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vi förstår varför du valde hunden, men det rätta svaret är människan. Vi ägnar mycket tid åt att oroa oss eller fundera på vad andra tycker om oss. Din hund däremot tänker inte på såna saker – den blir glad i samma sekund som du släpper in den."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Berätta mer",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section5"
+              }
+            ]
+          }
+        ],
+        "id": "Section4",
+        "alias": "Section4",
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section5",
+        "alias": "Section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Varför vi bryr oss så mycket"
+              },
+              {
+                "component": "Text",
+                "content": "Okej, människor oroar sig alltså för vad andra tycker och tänker. Eftersom vi alltid har behövt jobba tillsammans för att överleva, är det supersmart av våra hjärnor att oroa sig för om vi får vara med eller inte. Det har varit en fråga om liv eller död."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section7",
+        "alias": "Section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Men ibland är det just vår oro, våra tankar eller föreställningar som ställer till det. När något går fel anklagar vi oss själva eller någon annan, ältar och oroar oss för att det ska bli fel igen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag fattar",
+                "conversationId": "relationship-basics-1",
+                "sectionId": "Section8"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section8",
+        "alias": "Section8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nu när du vet det behöver du inte oroa dig för att du oroar dig så mycket för vad andra tycker. Det är helt enkelt naturligt att göra det. Okej, då kan vi fokusera på  att bygga relationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Sätt igång",
+                "conversationId": "relationship-basics-2",
+                "sectionId": "Section1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

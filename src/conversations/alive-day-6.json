@@ -1,0 +1,66 @@
+{
+  "en": {
+    "id": "alive-day-6",
+    "alias": "alive-day-6",
+    "type": "lesson",
+    "root": "allowPNs",
+    "sections": [
+      {
+        "id": "alive-day-6",
+        "alias": "alive-day-6",
+        "nextConversationId": "alive-day-7",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 6",
+        "lessonlastDay": true,
+
+        "task": {
+          "id": "aliveDay6rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 11,
+          "title": "Alive Day 6 Mission",
+          "body": "Over the next few hours, ask someone their opinion before giving yours (e.g., ‘How do you think she answered that question?’)"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 6 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-6",
+    "alias": "alive-day-6",
+    "type": "lesson",
+    "root": "allowPNs",
+    "sections": [
+      {
+        "id": "alive-day-6",
+        "alias": "alive-day-6",
+        "nextConversationId": "alive-day-7",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 6",
+        "lessonlastDay": true,
+
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 6",
+          "body": "Over the next few hours, ask someone their opinion before giving yours (e.g., ‘How do you think she answered that question?’)"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 6 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+    "alias": "YA Stress Förändra det som inte fungerar 2",
+    "root": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
+        "alias": "Problemlösning",
+        "title": "",
+        "content": "**Problemlösning**\\\nNär vi är stressade kan våra problem kännas otydliga. Förvirrande. Kraven brukar vara många, och det är svårt att komma på möjliga lösningar. Samtidigt blir vår hjärna påverkad —  vår förmåga att lösa problem blir faktiskt *sämre* när vi är väldigt stressade.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mer",
+            "sectionId": "77aae570-b274-41b1-a67c-30b4fce4bdbb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77aae570-b274-41b1-a67c-30b4fce4bdbb",
+        "alias": "Förändra steg för steg",
+        "title": "",
+        "content": "**Förändra steg för steg**\\\nI den här övningen kommer du få utforska en situation som stressar dig just nu och kartlägga vad du kan göra annorlunda — från att komma på lösningar, till att planera konkreta steg.\n\nInnan vi börjar vill vi be dig att skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad).\n\nSkriv ner ditt svar där bara du kan se det.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b2d03b84-201f-4220-ac11-c90a23a1da22",
+        "alias": "Övning - steg ett",
+        "content": "1. Definiera ett problem som stressar dig just nu. Försök vara så konkret och ärlig som möjligt. Välj gärna ett problem som är lagom utmanande.\n\nExempel som  *”Jag känner mig otillräcklig”* blir lätt för otydliga, medan *\"Jag kan inte fokusera på mina läxor eftersom jag ofta kollar på mobilen istället\"* är mer konkret.\n\nSkriv ner ditt svar och spara det, du kommer att behöva det igen.",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Gå vidare",
+            "sectionId": "d38f4877-3e44-4f29-82a2-a5a2c891d858"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d38f4877-3e44-4f29-82a2-a5a2c891d858",
+        "content": "2. Kom på en massa tänkbara lösningar på ditt problem.\n\nHär finns det plats för vilda, galna, tråkiga, tokiga och roliga idéer, så kör på. \n\nSkriv ner *alla* dina idéer.",
+        "alias": "Steg två",
+        "title": "Lösningar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "c515e14f-9a95-4306-80bc-f9e927b3badc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c515e14f-9a95-4306-80bc-f9e927b3badc",
+        "alias": "Steg tre",
+        "title": "Poängsätt",
+        "content": "3. Ge varje idé en poäng mellan noll och tio, beroende på hur bra du tror att respektive idé skulle kunna lösa problemet *(10 = kommer sannolikt funka, 0 = osannolikt att det kommer funka).* \n\nSkriv återigen ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "67a781dc-c63d-441a-94f1-a81f6431eeb8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "67a781dc-c63d-441a-94f1-a81f6431eeb8",
+        "alias": "Steg fyra",
+        "title": "Testa lösningen",
+        "content": "\n\n4. Välj en idé att **testa**, och en tidpunkt när du ska testa den (inom närmaste veckan). \n5. Bestäm ett mål, eller hur du ska utvärdera din idé. Det viktiga här är att det är möjligt att mäta om du har nått ditt mål (*med ett enkelt ja, nej, eller delvis*). Exempel på mål kan vara:\n\n   * Lämnat in läxan\n   * Sökt tre jobb",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "2a7e0450-66a4-42c5-8185-73c676ef5a2d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2a7e0450-66a4-42c5-8185-73c676ef5a2d",
+        "alias": "Steg fem",
+        "title": "Påminn och utvärdera",
+        "content": "5. Sätt en påminnelse om en vecka och utvärdera ditt lösningsförslag enligt följande:\n\n* Nådde du ditt mål?\n* Är du nöjd med din lösning?\n* Om ja, vilket område i ditt liv har blivit bättre och hur?\n* Om nej, testa en annan idé från din lista eller ändra lite på den idé du testade och prova igen.\n\nTa en printscreen på den här bilden om du vill ha hjälp att komma ihåg.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "23e18229-b608-4bdf-8350-0816d94592ef"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "23e18229-b608-4bdf-8350-0816d94592ef",
+        "content": "Tänk på problemet och lösningen du precis valt. Du har nu tagit mer kontroll över situationen, och är redo att förändra någonting du kan påverka. \n\n6. Skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad). Skriv ned svaret, och jämför det med siffran du satte innan övningen. \n\nKanske känner du dig lite lugnare, kanske kommer du känna dig lite lugnare efter du testat din lösning. *Oavsett är du på väg mot att lösa ett problem.*",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "8875b873-2dcd-4daa-92e8-4619f7f3c70b"
+          }
+        ],
+        "title": "Skatta igen"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8875b873-2dcd-4daa-92e8-4619f7f3c70b",
+        "alias": "Bra gjort!",
+        "title": "",
+        "content": "Bra gjort! Du är nu klar med **Förändra det som inte fungerar.**\n\nIdag har du lärt dig att problemlösa situationer som går att förändra genom att strukturerat gå igenom olika lösningar. Använd dig av den här sortens problemlösning när du känner att du fastnar i att oroa dig kring ett problem. Eller när du har svårt att ta tag i ett problem.\n\n**Stegen du har lärt dig är:**\n\n* Sortera ut ett problem som du har kontroll över\n* Definiera problemet tydligt\n* Hitta på idéer\n* Utvärdera idéerna 0-10\n* Välj en idé och planera in när du ska testa\n* Utvärdera\n\nUtvärdera",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finished"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+    "alias": "YA Stress Förändra det som inte fungerar 2",
+    "root": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
+        "alias": "Problemlösning",
+        "title": "",
+        "content": "**Problemlösning**\\\nNär vi är stressade kan våra problem kännas otydliga. Förvirrande. Kraven brukar vara många, och det är svårt att komma på möjliga lösningar. Samtidigt blir vår hjärna påverkad —  vår förmåga att lösa problem blir faktiskt *sämre* när vi är väldigt stressade.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mer",
+            "sectionId": "77aae570-b274-41b1-a67c-30b4fce4bdbb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77aae570-b274-41b1-a67c-30b4fce4bdbb",
+        "alias": "Förändra steg för steg",
+        "title": "",
+        "content": "**Förändra steg för steg**\\\nI den här övningen kommer du få utforska en situation som stressar dig just nu och kartlägga vad du kan göra annorlunda — från att komma på lösningar, till att planera konkreta steg.\n\nInnan vi börjar vill vi be dig att skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad).\n\nSkriv ner ditt svar där bara du kan se det.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b2d03b84-201f-4220-ac11-c90a23a1da22",
+        "alias": "Övning - steg ett",
+        "content": "1. Definiera ett problem som stressar dig just nu. Försök vara så konkret och ärlig som möjligt. \n\nExempel som  *”Jag känner mig otillräcklig”* blir lätt för otydliga, medan *\"Jag kan inte fokusera på mina läxor eftersom jag ofta kollar på mobilen istället\"* är mer konkret.\n\nSkriv ner ditt svar och spara det, du kommer att behöva det igen.",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Gå vidare",
+            "sectionId": "d38f4877-3e44-4f29-82a2-a5a2c891d858"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d38f4877-3e44-4f29-82a2-a5a2c891d858",
+        "content": "2. Kom på en massa tänkbara lösningar på ditt problem.\n\nHär finns det plats för vilda, galna, tråkiga, tokiga och roliga idéer, så kör på. \n\nSkriv ner *alla* dina idéer.",
+        "alias": "Steg två",
+        "title": "Lösningar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "c515e14f-9a95-4306-80bc-f9e927b3badc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c515e14f-9a95-4306-80bc-f9e927b3badc",
+        "alias": "Steg tre",
+        "title": "Poängsätt",
+        "content": "3. Ge varje idé en poäng mellan noll och tio, beroende på hur bra du tror att respektive idé skulle kunna lösa problemet *(10 = kommer sannolikt funka, 0 = osannolikt att det kommer funka).* \n\nSkriv återigen ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "67a781dc-c63d-441a-94f1-a81f6431eeb8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "67a781dc-c63d-441a-94f1-a81f6431eeb8",
+        "alias": "Steg fyra",
+        "title": "Testa lösningen",
+        "content": "4. Välj en idé att **testa**, och en tidpunkt när du ska testa den (inom närmaste veckan). \n5. Bestäm ett mål, eller hur du ska utvärdera din idé. Det viktiga här är att det är möjligt att mäta om du har nått ditt mål (*med ett enkelt ja, nej, eller delvis*). Exempel på mål kan vara:\n\n   * Lämnat in läxan\n   * Sökt tre jobb",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "2a7e0450-66a4-42c5-8185-73c676ef5a2d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2a7e0450-66a4-42c5-8185-73c676ef5a2d",
+        "alias": "Steg fem",
+        "title": "Påminn och utvärdera",
+        "content": "5. Sätt en påminnelse i mobilen om exakt en vecka. Utvärdera ditt lösningsförslag:\n\n* Nådde du ditt mål?\n* Är du nöjd med din lösning?\n* Om ja, vad har blivit bättre i ditt liv och hur?\n* Om nej, testa en annan idé från din lista eller ändra lite på den idé du testade och prova igen. Ibland behöver vi testa flera lösningar innan vi hittar en som fungerar.\n\nTa en printscreen på den här skärmen om du vill ha hjälp att komma ihåg frågorna.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "23e18229-b608-4bdf-8350-0816d94592ef"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "23e18229-b608-4bdf-8350-0816d94592ef",
+        "content": "Tänk på problemet och lösningen du precis valt. Du har nu tagit mer kontroll över situationen, och är redo att förändra någonting du kan påverka. \n\n* Skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad). Skriv ned svaret, och jämför det med siffran du satte innan övningen. \n\nKanske känner du dig lite lugnare, kanske kommer du känna dig lite lugnare efter du testat din lösning. *Oavsett är du på väg mot att lösa ett problem.*",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "8875b873-2dcd-4daa-92e8-4619f7f3c70b"
+          }
+        ],
+        "title": "Skatta igen"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8875b873-2dcd-4daa-92e8-4619f7f3c70b",
+        "alias": "Bra gjort!",
+        "title": "",
+        "content": "Bra gjort! Du är nu klar med **Förändra det som inte fungerar.**\n\nIdag har du lärt dig att problemlösa situationer som går att förändra. Stegen du har lärt dig är:\n\n* Sortera ut ett problem som du har kontroll över\n* Definiera problemet tydligt\n* Hitta på idéer\n* Utvärdera idéerna 0-10\n* Välj en idé och planera in när du ska testa\n* Utvärdera",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Slut"
+          }
+        ]
+      }
+    ]
+  }
+}

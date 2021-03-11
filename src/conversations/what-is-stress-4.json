@@ -1,0 +1,183 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "what-is-stress-4",
+    "alias": "What is stress - 4",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "I stressiga perioder kan vi behöva hjälpa oss själva göra plats för återhämtning. Stress i sig självt är som sagt inte farligt — men brist på återhämtning kan vara det. \n\nForskning visar att fysisk aktivitet både förebygger och minskar stress. Men det finns många andra saker vi också kan göra för att må bättre. Du ska nu få fundera på vilka aktiviteter som får dig att må bra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Hur återhämtar jag mig?**\\\nÅterhämtning handlar om mer än att vila eller sova. Det handlar om vad som ger dig energi. Allt som får dig att må bra, helt enkelt. \n\n1. Skriv ner mellan tre och fem aktiviteter som ger just dig återhämtning. \\\n   \\\n   *Exempelvis: måla, ta en promenad, kolla på en bra serie, träna, hänga med kompisar, fika med familjen, läsa.*\n2. Planera in en av aktiviteterna i din kalender för den kommande veckan."
+              }
+            ]
+          },
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "7cb4e5f2-dda5-4904-aca9-3a3b3a0c16ee"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "7cb4e5f2-dda5-4904-aca9-3a3b3a0c16ee",
+        "alias": "Sharing question",
+        "question": "What was it like doing this lesson?",
+        "exampleText": "Good. Realized that I sometimes do things I later regret. And that I often believe in all my thoughts.",
+        "nextSection": "3"
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### **Bra gjort!**\n\nDu är nu klar med **Stress — så funkar det**.\n\nDu har lärt dig om varför vi blir stressade, och hur du kan märka när det blir för mycket. Även om vi inte kan ta bort stress från våra liv så kan vi återhämta oss från stressiga händelser genom att plocka bort vissa aktiviteter, och istället göra saker som ger oss energin tillbaka."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Finished"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "what-is-stress-4",
+    "alias": "What is stress - 4",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "I stressiga perioder kan vi behöva hjälpa oss själva göra plats för återhämtning. Stress i sig självt är som sagt inte farligt — men brist på återhämtning kan vara det. \n\nForskning visar att fysisk aktivitet både förebygger och minskar stress. Men det finns många andra saker vi också kan göra för att må bättre. Du ska nu få fundera på vilka aktiviteter som får dig att må bra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Hur återhämtar jag mig?**\\\n\\\nÅterhämtning handlar om mer än att vila eller sova. Det handlar om vad som ger dig energi. Allt som får dig att må bra, helt enkelt. \n\n1. Skriv ner mellan tre och fem aktiviteter som ger just dig återhämtning. \\\n   \\\n   *Exempelvis: måla, ta en promenad, kolla på en bra serie, träna, hänga med kompisar, fika med familjen, läsa.*\n2. Planera in en av aktiviteterna i din kalender för den kommande veckan."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Färdig",
+                "sectionId": "1a40c442-90ce-4324-9489-fc208c6b822d"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "1a40c442-90ce-4324-9489-fc208c6b822d",
+        "alias": "Sharing question",
+        "question": "Hur kändes det att göra den här lektionen?",
+        "exampleText": "Bra. Insåg att jag ibland gör saker jag sedan ångrar. Och att jag ofta tror på mina tankar.",
+        "nextSection": "3"
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### **Bra gjort!**\n\nDu är nu klar med **Stress — så funkar det**.\n\nDu har lärt dig om varför vi blir stressade, och hur du kan märka när det blir för mycket. Även om vi inte kan ta bort stress från våra liv så kan vi återhämta oss från stressiga händelser genom att plocka bort vissa aktiviteter, och istället göra saker som ger oss energin tillbaka."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Klar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

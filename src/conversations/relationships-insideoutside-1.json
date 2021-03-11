@@ -1,0 +1,248 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-insideoutside-1",
+    "alias": "relationships-insideoutside-1",
+    "root": "1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Welcome back! Glad to see you again. In this challenge you'll learn:\n\n* Inside-outside-view\n* What others may think\n* Practice asking\n\nSo far you’ve learned these skills: **pause**, **aware** and **allow.** In this challenge we’ll add the skill of **inside-outside vision**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "conversationId": "relationships-insideoutside-1",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "It is a super skill for learning to connect with others and understanding them better. How? Inside-outside is all about looking at things from *different perspectives*. It can also help you be understood.\n\nPractice it, and you’ll learn to connect better with others - and jump to less faulty conclusions."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's start",
+                "conversationId": "relationships-insideoutside-1",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Inside-outside vision**\n\nWe humans have evolved to try to read other people – kinda like mind-reading. We guess what they might think or feel about us.\n\nBeing social is so important to humans that our brains are constantly trying to guess what others feel and whether they like us, or will be kind to us. This helps us decide if we like people, and whether they seem to like us or not."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Go on",
+                "conversationId": "relationships-insideoutside-1",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Mind-reading is a great ability.\n\nExcept when you’re wrong.\n\nWhich, statistically, is most of the time.\n\nWith inside-outside vision you'll learn how to use your existing mind-reading skill - but in your favor. It will help build relationships instead of risking to tear them apart."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-insideoutside-2",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-insideoutside-1",
+    "alias": "relationships-insideoutside-1",
+    "root": "1a",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "title": "Insidan-utsidan",
+        "id": "1a",
+        "alias": "1a",
+        "content": "Hittills har du tränat på att **pausa**, dina **kompisbeteenden** och att vara **medveten** och **tillåtande**. I den här utmaningen kommer får du testa **insidan-utsidan**-kollen – ett sätt att förstå både andra och sig själv bättre.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "1"
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Den här utmaningen innehåller\n\n* Tankeläsning\n* Insidan-utsidan-kollen\n* Vad tänker andra?\n* Öva på att fråga\n* Bygg relationer i fem steg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "relationships-insideoutside-1",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Insidan-utsidan-kollen är en superfärdighet för att känna samhörighet med andra och förstå dem bättre. Det handlar om att ta olika **perspektiv** och kan också hjälpa dig att bli **förstådd** av andra.\n\nOm du övar på insidan-utsidan-kollen kommer du både att kunna känna dig närmre andra – och dra färre felaktiga slutsatser."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "relationships-insideoutside-1",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Tankeläsning\n\nVi människor har utvecklats för att vara superbra på att läsa av andra människor, ungefär som tankeläsning. Vi **gissar** vad andra tänker eller tycker om oss – hela tiden. \n\nAtt få vara med i flocken är så viktigt för oss att våra hjärnor **konstant** försöker förstå om andra gillar oss eller kommer att vara snälla."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-insideoutside-1",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Tankeläsning är en superbra grej.\n\nUtom när vi har fel.\n\nVilket vi faktiskt har för det mesta.\n\nI dag ska du få testa **insidan-utsidan-kolle**n, ett smart sätt att få tankeläsningsförmågan vi redan har att **hjälpa till** i våra relationer, i stället för att förstöra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "1",
+                "conversationId": "relationships-insideoutside-2",
+                "content": "Gå vidare"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

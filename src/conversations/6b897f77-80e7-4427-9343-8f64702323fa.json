@@ -1,0 +1,317 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "6b897f77-80e7-4427-9343-8f64702323fa",
+    "alias": "YA Stress - Hur du fortsätter hantera stress 1",
+    "root": "806ea92c-70e2-4d98-8761-d6902609b0c9",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "806ea92c-70e2-4d98-8761-d6902609b0c9",
+        "alias": "Ett mindre stressigt liv",
+        "title": "Ett mindre stressigt liv",
+        "content": "I början av kursen ställde vi frågan: Hur skulle livet se ut om det var mindre stressigt? Förhoppningvis har du nu fått några verktyg för att hantera stress och börjat ta steg mot ett liv där du gör mer av det du tycker om, och mindre av det som stressar dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "8d3f65f0-0ba0-4d20-9c65-cd71b7a1d103"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8d3f65f0-0ba0-4d20-9c65-cd71b7a1d103",
+        "content": "Det kan vara svårt att minnas allt vi gått igenom i kursen. Målet med dagens övning är att du ska få en kort sammanfattning av alla fyra lektionerna. I slutet av övningen kommer du få välja vad du vill fortsätta jobba med för att utveckla din förmåga att hantera stress.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "85ae10df-3e78-40ac-993a-711d7f1d7698"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "85ae10df-3e78-40ac-993a-711d7f1d7698",
+        "content": "### Du lär dig om:\n\n* Stress – så funkar det\n* Att vara här och nu\n* Att säga ja — och nej\n* Förändra det som inte fungerar\n* Fortsätt öva på att hantera stress",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "b94c8200-6b28-433b-a482-e0bff46d0b06"
+          }
+        ],
+        "alias": "Table of Contents"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b94c8200-6b28-433b-a482-e0bff46d0b06",
+        "content": "Stress är en uråldrig reaktion som aktiverar kroppen och hjärnan. Kortvarig stress i lagom doser är faktiskt vår vän. Stress i sig självt är alltså inte farligt – men långvarig stress och en brist på återhämtning är det. ",
+        "title": "Lektion ett: Stress — så funkar det",
+        "alias": "Lektion 1: Stress — så funkar det",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "f7041efe-872f-4da7-875a-308f82ac0097"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f7041efe-872f-4da7-875a-308f82ac0097",
+        "content": "Vår hjärna är byggd för att hela tiden ta in information och tänka negativt. När vi är stressade befinner vi oss ofta i framtiden. Att vara närvarande i stunden blir extra svårt, och det är vanligt att vi tappar fokus och börjar tänka på annat.",
+        "title": "Lektion två: Att vara här och nu",
+        "alias": "Lektion 2: Att vara här och nu",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "e515d22f-eabf-4b90-bb94-2941b964363f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e515d22f-eabf-4b90-bb94-2941b964363f",
+        "content": "Men det går att träna upp vår fokus-muskel. Genom att träna vår förmåga att fokusera på det som sker här och nu blir vi bättre och bättre på att skapa distans till våra tankar. \n\nDet hjälper oss se att *tankar bara är tankar*. Oavsett vad tankarna innehåller kan vi alltid välja hur vi vill göra. Med andra ord handlar förmågan att fokusera på nuet om *frihet*.",
+        "alias": "y",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "5bd1de06-44d1-4613-9dc3-eaee70c161d6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5bd1de06-44d1-4613-9dc3-eaee70c161d6",
+        "title": "Lektion tre: Förändra det som inte fungerar",
+        "alias": "Lektion 3: Förändra det som inte fungerar",
+        "content": "I livet möter vi många stressande och jobbiga situationer. Det går inte att undvika hur mycket vi än planerar. \n\nNär vi är stressade kan våra problem kännas otydliga, och det kan verka svårt att komma på möjliga lösningar. Men det finns situationer där vi kan göra förändringar. Där vi kan problemlösa.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "40b18095-433a-4caa-857c-60763a88be02"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "40b18095-433a-4caa-857c-60763a88be02",
+        "content": "Att vara mer konkret kan vara svårt, men det hjälper verkligen. Framför allt när du har svårt att ta ett första steg i rätt riktning. \n\nStrukturerad problemlösning går ut på att: \n\n* tydligt definiera problemet\n* komma på tänkbara lösningar\n* utvärdera förslagen med 0-10\n* planera in den valda lösningen och se hur det fungerade",
+        "alias": "z",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "05dc4c02-d752-4a18-960e-6fb0f0d500f3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "05dc4c02-d752-4a18-960e-6fb0f0d500f3",
+        "alias": "Lektion 4: Att säga nej — och ja",
+        "title": "Lektion fyra: Att säga nej — och ja",
+        "content": "När vi säger ja till för många saker kan det göra oss stressade. Förmågan att säga nej är en viktig färdighet för att ta hand om oss, särskilt när vi är stressade. \n\nMen att säga nej kan vara läskigt och ovant. Därför kan det vara hjälpsamt att fundera över vilka situationer du skulle må bra av att säga nej till, och hur du ska säga det.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "51fe5ce0-a21e-42e0-88eb-4e50bfa302fe"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "51fe5ce0-a21e-42e0-88eb-4e50bfa302fe",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi faktiskt vill göra och mår bra av. Sakerna som verkligen spelar roll i det långa loppet. \n\nIstället för att bygga på ditt schema, se om du kan byta ut aktiviteter så att du gör mer av det du tycker om och mår bra av — utan att få ett ännu mer fullspäckat schema."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "95bcceaf-37fe-4414-84a3-694991aac799",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "alias": "z"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "6b897f77-80e7-4427-9343-8f64702323fa",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "806ea92c-70e2-4d98-8761-d6902609b0c9",
+        "alias": "Ett mindre stressigt liv",
+        "title": "Ett mindre stressigt liv",
+        "content": "I början av kursen ställde vi frågan: Hur skulle livet se ut om det var mindre stressigt? \n\nFörhoppningvis har du nu fått några verktyg för att hantera stress och börjat ta steg mot ett liv där du gör mer av det du tycker om, och mindre av det som stressar dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "8d3f65f0-0ba0-4d20-9c65-cd71b7a1d103"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8d3f65f0-0ba0-4d20-9c65-cd71b7a1d103",
+        "content": "Det kan vara svårt att minnas allt vi gått igenom i kursen. Målet med dagens övning är att du ska få en kort sammanfattning av alla fyra lektionerna. I slutet av övningen kommer du få välja vad du vill fortsätta jobba med för att utveckla din förmåga att hantera stress.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "85ae10df-3e78-40ac-993a-711d7f1d7698"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "85ae10df-3e78-40ac-993a-711d7f1d7698",
+        "content": "**I den här lektionen lär du dig mer om:**\n\n* Stress – så funkar det\n* Att vara här och nu\n* Förändra det som inte fungerar \n* Att säga ja — och nej\n* Hur du fortsätter öva på att hantera stress",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "b94c8200-6b28-433b-a482-e0bff46d0b06"
+          }
+        ],
+        "alias": "Table of Contents"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b94c8200-6b28-433b-a482-e0bff46d0b06",
+        "content": "Stress är en uråldrig reaktion som aktiverar kroppen och hjärnan. Kortvarig stress i lagom doser är faktiskt vår vän. Stress i sig självt är alltså inte farligt – men långvarig stress och en brist på återhämtning är det. ",
+        "title": "Lektion ett: Stress — så funkar det",
+        "alias": "Lektion 1: Stress — så funkar det",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "f7041efe-872f-4da7-875a-308f82ac0097"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f7041efe-872f-4da7-875a-308f82ac0097",
+        "content": "Vår hjärna är byggd för att hela tiden ta in information och tänka negativt. När vi är stressade befinner vi oss ofta i framtiden. Att vara närvarande i stunden blir extra svårt, och det är vanligt att vi tappar fokus och börjar tänka på annat.",
+        "title": "Lektion två: Att vara här och nu",
+        "alias": "Lektion 2: Att vara här och nu",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "e515d22f-eabf-4b90-bb94-2941b964363f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e515d22f-eabf-4b90-bb94-2941b964363f",
+        "content": "Men det går att träna upp vår fokus-muskel. Genom att träna vår förmåga att fokusera på det som sker här och nu blir vi bättre och bättre på att skapa distans till våra tankar. \n\nDet hjälper oss se att *tankar bara är tankar*. Oavsett vad tankarna innehåller kan vi alltid välja hur vi vill göra. Med andra ord handlar förmågan att fokusera på nuet om *frihet*.",
+        "alias": "y",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "5bd1de06-44d1-4613-9dc3-eaee70c161d6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5bd1de06-44d1-4613-9dc3-eaee70c161d6",
+        "title": "Lektion tre: Förändra det som inte fungerar",
+        "alias": "Lektion 3: Förändra det som inte fungerar",
+        "content": "I livet möter vi många stressande och jobbiga situationer. Det går inte att undvika hur mycket vi än planerar. \n\nNär vi är stressade kan våra problem kännas otydliga, och det kan verka svårt att komma på möjliga lösningar. Men det finns situationer där vi kan göra förändringar. Där vi kan problemlösa.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "40b18095-433a-4caa-857c-60763a88be02"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "40b18095-433a-4caa-857c-60763a88be02",
+        "content": "Att vara mer konkret kan vara svårt, men det hjälper verkligen. Framför allt när du har svårt att ta ett första steg i rätt riktning. \n\nStrukturerad problemlösning går ut på att: \n\n* tydligt definiera problemet\n* komma på tänkbara lösningar\n* utvärdera förslagen med 0-10\n* planera in den valda lösningen och se hur det fungerade",
+        "alias": "z",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "05dc4c02-d752-4a18-960e-6fb0f0d500f3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "05dc4c02-d752-4a18-960e-6fb0f0d500f3",
+        "alias": "Lektion 4: Att säga nej — och ja",
+        "title": "Lektion fyra: Att säga nej — och ja",
+        "content": "När vi säger ja till för många saker kan det göra oss stressade. Förmågan att säga nej är en viktig färdighet för att ta hand om oss, särskilt när vi är stressade. \n\nMen att säga nej kan vara läskigt och ovant. Därför kan det vara hjälpsamt att fundera över vilka situationer du skulle må bra av att säga nej till, och hur du ska säga det.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "51fe5ce0-a21e-42e0-88eb-4e50bfa302fe"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "51fe5ce0-a21e-42e0-88eb-4e50bfa302fe",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi faktiskt vill göra och mår bra av. Sakerna som verkligen spelar roll i det långa loppet. \n\nIstället för att bygga på ditt schema, se om du kan byta ut aktiviteter så att du gör mer av det du tycker om och mår bra av — utan att få ett ännu mer fullspäckat schema."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "95bcceaf-37fe-4414-84a3-694991aac799"
+              }
+            ]
+          }
+        ],
+        "alias": "z"
+      }
+    ],
+    "alias": "YA Stress - Hur du fortsätter hantera stress 1",
+    "root": "806ea92c-70e2-4d98-8761-d6902609b0c9"
+  }
+}

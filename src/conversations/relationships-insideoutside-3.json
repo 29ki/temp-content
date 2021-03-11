@@ -1,0 +1,234 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-insideoutside-3",
+    "alias": "relationships-insideoutside-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Test your friendship super skill\n\nWatch this picture for a minute. See if you can guess what the persons are thinking and feeling.\n\n\n\nINSERT PICTURE WHEN CLEARED WE CAN USE THAT ONE"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "conversationId": "relationships-insideoutside-3",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now, ask yourself *how* you guessed what the persons are experiencing.\n\nIt is likely that you had to rely on how YOU would feel in the same situation. That’s what we all do. We rely on how we'd feel in the same situation when guessing how others feel."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-insideoutside-3",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ask yourself, have you ever found out that a friend was really sad and it shocked you because you couldn't tell?\n\nHave you distanced yourself from another person because your mind-reading skills told you they didn't like you or didn't agree with you, but you never checked it out?\n\nHow about in reverse – has there been a time when you were not understood because people thought you looked ok?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Go on",
+                "conversationId": "relationships-insideoutside-3",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Inside-outside vision** is about moving beyond blind guesses – it's learning to *check it out.*\n\nIt's time to change that. Here’s how:"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-insideoutside-3",
+    "alias": "relationships-insideoutside-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Testa dig själv\n\nTitta på den här bilden en stund. Se om du kan gissa vad personerna i bilden tänker och känner.\n\nINSERT PICTURE WHEN CLEARED WE CAN USE THAT ONE"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är redo",
+                "conversationId": "relationships-insideoutside-3",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Fråga dig själv *hur* du gjorde för att gissa vad personerna upplever.\n\nDet är ganska troligt att du behövde utgå från hur *du* hade känt dig i samma situation. Det är så vi alla gör - vi utgår från hur vi hade känt i samma situation när vi försöker förstå hur andra känner."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "3",
+                "content": "Nästa",
+                "conversationId": "relationships-insideoutside-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Har du någon gång upptäckt att en kompis mått riktigt dåligt, trots att du inte hade en aning om det?\n\nHar du någon gång tagit avstånd från någon annan för att du trodde att hen inte gillade dig eller tyckte annorlunda, utan att kolla om det stämde?\n\nEller det omvända – har det funnits tillfällen när andra inte har förstått dig för att du haft en glad fasad?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mer",
+                "conversationId": "relationships-insideoutside-3",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det är dags att ändra på det. **Insidan-utsidan-kollen** handlar om att göra mer än att bara gissa. Det handlar om att *undersöka* – och ibland *ändra* på - sina gissningar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-insideoutside-4",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

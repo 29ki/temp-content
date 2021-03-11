@@ -1,0 +1,150 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+    "alias": "YA att vara här och nu 3",
+    "root": "966bbdd7-6329-4348-a619-8452f1d430a4",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "966bbdd7-6329-4348-a619-8452f1d430a4",
+        "title": "",
+        "alias": "Koppla ur autopiloten",
+        "longDescription": "Vi ska nu fortsätta med en kort övning som handlar om en situation där du inte var närvarande i stunden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "69a58efa-d7a6-4b33-96c6-9e91747a51ff"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "69a58efa-d7a6-4b33-96c6-9e91747a51ff",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Övning:\n\nSkriv ner dina alla svar någonstans där bara du kan se dem.\n\n1. Beskriv en situation då du var stressad, där du gjorde något impulsivt eller automatiskt och där resultat inte blev så bra.\n\n*Exempelvis: sa någonting jag sedan ångrade, undvek att göra någonting som kändes obehagligt i stunden, sa ja fast jag egentligen inte ville.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Done",
+                "sectionId": "9aac9201-3959-4aab-a263-c4e5e6fe1b6c"
+              }
+            ]
+          }
+        ],
+        "alias": "Exercise"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9aac9201-3959-4aab-a263-c4e5e6fe1b6c",
+        "alias": "Övning del 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "ee211fa6-6382-46cd-8a31-8a1c47698fdb"
+          }
+        ],
+        "content": "2.  Vad skulle du ha gjort annorlunda om du hade varit mer närvarande i det ögonblicket? Hur hade du önskat att du hade bettet dig? \n\n*Exempelvis: tänkt efter innan jag sa någonting, inte undvikit situationen bara för att det kändes jobbigt i stunden, sagt nej.* \n\n3. Titta igenom dina svar. Vad kan du försöka göra annorlunda nästa gång du är stressad?\n\n*Exempelvis: ta fem andetag för att hinna få lite tid att tänka innan jag reagerar, tacka ja till festen, prata med en kompis, be om råd.*"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ee211fa6-6382-46cd-8a31-8a1c47698fdb",
+        "title": "Bra gjort!",
+        "content": "Du är nu klar med **Att vara här och nu.**\n\nDu har lärt dig att vår hjärna är byggd för att hela tiden komma med nya (oftast negativa) tankar. Och att det går att träna sin hjärna att se tankar som tankar. Det är normalt att tankar vandrar, och med övning kan vi bli bättre på att vara här och nu.\n\nAtt lära sig att vara mer i nuet är en väldigt användbar förmåga som hjälper oss att kunna välja hur vi vill bete oss.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finished"
+          }
+        ],
+        "alias": "Bra gjort!"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+    "alias": "YA att vara här och nu 3",
+    "root": "f6a9e7fd-d658-4900-a26d-3efd7b6210b5",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "f6a9e7fd-d658-4900-a26d-3efd7b6210b5",
+        "alias": "Koppla ur autopiloten",
+        "title": "",
+        "longDescription": "Vi ska nu fortsätta med nästa övning som handlar om en situation där du var stressad och inte var närvarande i stunden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "84467b41-b0b8-40d3-aad2-3cd9429a1f0e"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "84467b41-b0b8-40d3-aad2-3cd9429a1f0e",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Övning:\n\nSkriv ner alla dina svar någonstans där bara du kan se dem.\n\n1. Beskriv en situation då du var stressad, där du gjorde något impulsivt eller automatiskt och där resultat inte blev så bra.\n\n*Exempelvis: sa någonting jag sedan ångrade, undvek att göra någonting som kändes obehagligt i stunden, sa ja fast jag egentligen inte ville.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Färdig",
+                "sectionId": "062b7124-7d61-4f3d-b7d4-f1125d73e049"
+              }
+            ]
+          }
+        ],
+        "alias": "Övning"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "062b7124-7d61-4f3d-b7d4-f1125d73e049",
+        "alias": "Övning del 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "5b8a6438-db15-43e4-8169-7b8f1fe741fe"
+          }
+        ],
+        "content": "2. Vad skulle du ha gjort annorlunda om du varit mer närvarande i det ögonblicket? Hur hade du önskat att du bettet dig? \n\n*Exempelvis: tänkt efter innan jag sa någonting, inte undvikit situationen bara för att det kändes jobbigt i stunden, sagt nej.* \n\n3. Titta igenom dina svar. Vad kan du försöka göra annorlunda nästa gång du är stressad?\n\n*Exempelvis: ta fem andetag för att hinna få lite tid att tänka innan jag reagerar, tacka ja till festen, prata med en kompis, be om råd.*"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5b8a6438-db15-43e4-8169-7b8f1fe741fe",
+        "alias": "Bra gjort!",
+        "title": "Bra gjort!",
+        "content": "Du är nu klar med **Att vara här och nu.**\n\nDu har lärt dig att vår hjärna är byggd för att hela tiden komma med nya — oftast negativa — tankar. Och att det går att träna sin hjärna att se tankar som tankar. Det är normalt att tankar vandrar. Med övning kan vi bli bättre på att vara här och nu.\n\nAtt vara i nuet är väldigt användbart. Det hjälper oss välja våra beteenden istället för att reagera automatiskt och impulsivt.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Slut"
+          }
+        ]
+      }
+    ]
+  }
+}

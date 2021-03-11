@@ -1,0 +1,64 @@
+{
+  "en": {
+    "id": "alive-day-8",
+    "alias": "alive-day-8",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-8",
+        "alias": "alive-day-8",
+        "nextConversationId": "alive-day-9",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 8",
+        "lessonlastDay": false,
+        "task": {
+          "id": "aliveDay8rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 26,
+          "title": "Alive Day 8 Mission",
+          "body": "Today, ask someone if they can show you how the way they do a task you both do regularly. Did this show you new ways to go about it?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 8 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-8",
+    "alias": "alive-day-8",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-8",
+        "alias": "alive-day-8",
+        "nextConversationId": "alive-day-9",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 8",
+        "lessonlastDay": false,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 8",
+          "body": "Today, ask someone if they can show you how the way they do a task you both do regularly. Did this show you new ways to go about it?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 8 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

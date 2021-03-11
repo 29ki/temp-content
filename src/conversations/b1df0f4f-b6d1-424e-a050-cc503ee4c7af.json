@@ -1,0 +1,54 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af",
+    "alias": "leadership-reframe-2",
+    "root": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9",
+        "content": "We form habits for a good reason, for example to save us time and energy. However not all habits we form serve us long-term. \\\n\\\n**Can you think of a work habit which you struggle with frequently?**\n\n*For example: Checking my email out-of-hours and on weekends.*",
+        "alias": "Benefits of habits",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next ",
+            "sectionId": "de31bc3c-a63d-4edf-aab6-fb0bf52aa034"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "de31bc3c-a63d-4edf-aab6-fb0bf52aa034",
+        "alias": "Benefits of habits 2",
+        "content": "When it comes to your habit,\n\n* In what way is it helpful?\n* In what way is it unhelpful?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Done"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af",
+    "alias": "leadership-reframe-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1608626c-cf37-486e-ae7b-fdaeca1f047f",
+        "alias": "Placeholder",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Placeholder"
+          }
+        ]
+      }
+    ],
+    "root": "1608626c-cf37-486e-ae7b-fdaeca1f047f"
+  }
+}

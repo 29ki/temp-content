@@ -1,0 +1,696 @@
+{
+  "en": {
+    "id": "kroppen-1",
+    "alias": "kroppen-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# The body"
+              },
+              {
+                "component": "Text",
+                "content": "Stress, fear and love - everything is felt in the body. In this challenge, you will learn to notice how experiences in the body affect you, and how you can practice accepting difficult experiences instead of trying to get rid of them."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Sounds good",
+                "conversationId": "kroppen-1",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "The body contains 3 steps"
+              },
+              {
+                "component": "Text",
+                "content": "* Your stress reaction\n* Body surcharge\n* Your body, your home"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start!",
+                "conversationId": "kroppen-1",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Your stress reaction"
+              },
+              {
+                "component": "Text",
+                "content": "You should now be able to describe a stressful or difficult situation you have experienced in the past week. A situation where you lost your inner friend or did not hear what he said."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay, keep going",
+                "conversationId": "kroppen-1",
+                "sectionId": "stressfulSituationVideos"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "id": "stressfulSituationVideos",
+        "alias": "stressfulSituationVideos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Isaac, 20",
+                "duration": 57,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 60,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 43,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "kroppen-1",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "My stressful situation part 1"
+              },
+              {
+                "component": "Text",
+                "content": "Where were you? Who were there? Why were you there? What happened that made you stressed?"
+              },
+              {
+                "component": "Quote",
+                "content": "I was home myself and did my math homework. I had several errors and it felt like I was stupid and slow and would get my grade lowered."
+              },
+              {
+                "component": "Text",
+                "content": "Write down your answer where only you can see it."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "kroppen-1",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "# My stressful situation part 2"
+              },
+              {
+                "component": "Text",
+                "content": "How did it feel in the body? Common examples are tense muscles, tremors, tremors, sweating, nausea and palpitations."
+              },
+              {
+                "component": "Quote",
+                "content": "I was sweating, palpitating and feeling unwell."
+              },
+              {
+                "component": "Text",
+                "content": "Write down your answer where only you can see it."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "kroppen-1",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "# My stressful situation part 3"
+              },
+              {
+                "component": "Text",
+                "content": "What feelings did you have? Afraid, angry, frustrated, ashamed or maybe sad? What feeling did you experience most strongly?"
+              },
+              {
+                "component": "Quote",
+                "content": "I was scared and angry at myself. most scared perhaps."
+              },
+              {
+                "component": "Text",
+                "content": "Write down your answer where only you can see it."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "kroppen-1",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "# My stressful situation part 4"
+              },
+              {
+                "component": "Text",
+                "content": "If you close your eyes and think about the situation, where in your body was this feeling strongest? In the chest, head, stomach or something else? Can you describe the experience in the body?"
+              },
+              {
+                "component": "Quote",
+                "content": "It felt most in the stomach. Heavy, like a big cold globe."
+              },
+              {
+                "component": "Text",
+                "content": "Write down your answer where only you can see it."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm finished",
+                "conversationId": "kroppen-1",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nice that you dared to face your feelings and experiences in a difficult situation."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Next",
+                "conversationId": "kroppen-2",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "kroppen-1",
+    "alias": "kroppen-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Kroppen"
+              },
+              {
+                "component": "Text",
+                "content": "Stress, rädsla och kärlek – allt känns i kroppen. I den här utmaningen lär du dig att lägga märke till hur upplevelser i kroppen påverkar dig, och hur du kan träna på att acceptera jobbiga upplevelser i stället för att försöka bli av med dem."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Låter bra",
+                "conversationId": "kroppen-1",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Kroppen innehåller 3 steg"
+              },
+              {
+                "component": "Text",
+                "content": "* Din stressreaktion\n* Kroppens påslag\n* Din kropp, ditt hem"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Börja!",
+                "conversationId": "kroppen-1",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Din stressreaktion"
+              },
+              {
+                "component": "Text",
+                "content": "Du ska nu få beskriva en stressig eller svår situation du har upplevt senaste veckan. En situation där du tappade bort din inre kompis eller inte hörde vad hen sa."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej, fortsätt",
+                "conversationId": "kroppen-1",
+                "sectionId": "stressfulSituationVideos"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "id": "stressfulSituationVideos",
+        "alias": "stressfulSituationVideos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Isaac, 20",
+                "duration": 57,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 60,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 43,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "kroppen-1",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "# Min stressiga situation del 1"
+              },
+              {
+                "component": "Text",
+                "content": "Var befann du dig? Vilka var där? Varför var du där? Vad hände som gjorde dig stressad?"
+              },
+              {
+                "component": "Quote",
+                "content": "Jag var hemma själv och gjorde matteläxan. Jag hade flera fel och det kändes som att jag var korkad och långsam och skulle få sänkt betyg."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner ditt svar där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "kroppen-1",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "# Min stressiga situation del 2"
+              },
+              {
+                "component": "Text",
+                "content": "Hur kändes det i kroppen? Vanliga exempel är spända muskler, skakningar, rysningar, svettningar, illamående och hjärtklappning. "
+              },
+              {
+                "component": "Quote",
+                "content": "Jag svettades, hade hjärtklappning och mådde illa."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner ditt svar där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "kroppen-1",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "# Min stressiga situation del 3"
+              },
+              {
+                "component": "Text",
+                "content": "Vilka känslor hade du? Rädd, arg, frustrerad, skamsen eller kanske ledsen? Vilken känsla upplevde du starkast? "
+              },
+              {
+                "component": "Quote",
+                "content": "Jag var rädd och arg på mig själv. mest rädd kanske."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner ditt svar där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "kroppen-1",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Övning"
+              },
+              {
+                "component": "Text",
+                "content": "# Min stressiga situation del 4"
+              },
+              {
+                "component": "Text",
+                "content": "Om du blundar och tänker dig in i situationen, var i din kropp var den här känslan starkast? I bröstet, huvudet, magen eller något annat? Kan du beskriva upplevelsen i kroppen?"
+              },
+              {
+                "component": "Quote",
+                "content": "Det kändes mest i magen. Tungt, som ett stort kallt klot."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner ditt svar där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "kroppen-1",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Fint att du vågade möta dina känslor och upplevelser i en jobbig situation."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Nästa",
+                "conversationId": "kroppen-2",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

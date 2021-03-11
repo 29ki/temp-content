@@ -1,0 +1,64 @@
+{
+  "en": {
+    "id": "alive-day-9",
+    "alias": "alive-day-9",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-9",
+        "alias": "alive-day-9",
+        "nextConversationId": "alive-day-10",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 9",
+        "lessonlastDay": false,
+        "task": {
+          "id": "aliveDay9rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 11,
+          "title": "Alive Day 9 Mission",
+          "body": "Recall a great time you had with someone. How were you being yourself? Please write down 3 ways you can be that type of person, now."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 9 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-9",
+    "alias": "alive-day-9",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-9",
+        "alias": "alive-day-9",
+        "nextConversationId": "alive-day-10",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 9",
+        "lessonlastDay": false,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 9",
+          "body": "Recall a great time you had with someone. How were you being yourself? Please write down 3 ways you can be that type of person, now."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 9 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

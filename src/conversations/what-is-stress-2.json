@@ -1,0 +1,227 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "what-is-stress-2",
+    "alias": "What is stress - 2",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Kortvarig stress**\\\nKortvarig stress i lagom doser är faktiskt vår vän. Utan ett stresspåslag skulle vi inte passa tider, bli färdiga med läxorna, eller klara av svåra situationer. \n\nDet kallas för *positiv stress* och hjälper oss att fokusera och få saker gjorda."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det är när stressen blir långvarig och kroppen inte hinner återhämta sig emellan som vi kan få fysiska och psykiska problem. \n\nOch det är den typen av stress vi kommer att fokusera på i den här utmaningen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Så, hur vet vi om vi är för stressade? Här är några exempel:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg\n* **Beteenden:** Alltid bråttom, äter fort, försöker effektivisera, hinner inte pausa"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om du känner igen dessa eller liknande symtom, är det din kropps sätt att säga att du behöver **återhämtning** — något som fyller på reserverna igen.\n\nDet knepiga är att när uppgifterna vi ”måste” göra blir för många så brukar de saker som vi *egentligen* skulle må bra av *inte bli av*. Då tycker vi ofta att vi inte hinner vila, träffa kompisar eller träna."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "More",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "what-is-stress-2",
+    "alias": "What is stress - 2",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Kortvarig stress**\\\nKortvarig stress i lagom doser är faktiskt vår vän. Utan ett stresspåslag skulle vi inte passa tider, bli färdiga med läxorna, eller klara av svåra situationer. \n\nDet kallas för *positiv stress* och hjälper oss att fokusera och få saker gjorda."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Långvarig stress**\\\nDet är när stressen blir *långvarig* och kroppen inte hinner återhämta sig som vi kan få fysiska och psykiska problem. \n\nOch det är den typen av stress vi kommer att fokusera på i den här lektionen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Så, hur vet vi om vi är för stressade? Här är några exempel:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler.\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam.\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg.\n* **Beteenden:** Alltid bråttom, äter fort, försöker effektivisera, hinner inte pausa."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om du känner igen dessa eller liknande symtom, är det din kropps sätt att säga att du behöver **återhämtning** — något som fyller på reserverna igen.\n\nDet knepiga är att när uppgifterna vi ”måste” göra blir för många så brukar de saker som vi *egentligen* skulle må bra av *inte bli av*. Då tycker vi ofta att vi inte hinner vila, träffa kompisar eller träna."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mer",
+                "conversationId": "what-is-stress-3",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

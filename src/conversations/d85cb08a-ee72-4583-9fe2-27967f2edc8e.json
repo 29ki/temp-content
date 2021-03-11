@@ -1,0 +1,205 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+    "alias": "Stress YA Att säga Nej och ja 2",
+    "root": "0923429b-6f61-4b14-8e34-1f7e4e8d4554",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0923429b-6f61-4b14-8e34-1f7e4e8d4554",
+        "alias": "Undersök vad du vill",
+        "title": "Vad vill du?",
+        "content": "Ett skäl till att vi inte sätter gränser är att vi ibland inte själva vet vad vi vill. Så vi gör det som andra föreslår. Ett viktigt steg är därför att undersöka vad *du vill*, särskilt i situationer där du vet att du har svårt att säga nej.\n\nSå, nu ska du få titta inåt och fundera på ett område där du skulle vilja sätta tydligare gränser. Situationer där det kan vara lätt att säga ja, fast du egentligen vill säga nej.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är redo",
+            "sectionId": "96c9d572-4aa0-420e-a437-698c3a46361d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "96c9d572-4aa0-420e-a437-698c3a46361d",
+        "title": "Övning: Dina gränser",
+        "alias": "Övning: Dina gränser",
+        "content": "1. Tänk på en situation där du sa ja till något fast att du egentligen inte ville, och som kanske fick dig att må dåligt eller hindrade dig att göra något annat som du tycker är viktigt.\n\nSkriv ner ditt svar någonstans där bara du ser det.\n\n*Exempelvis: när du testade på någonting fastän du egentligen inte ville, när du föll för grupptryck, när du tog på dig att fixa någonting åt en annan person fast du inte hade tid för det.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "9e05d689-0f74-40db-9d60-8dadc4cddca0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9e05d689-0f74-40db-9d60-8dadc4cddca0",
+        "content": "2. Tänk nu på en situation i ditt liv där du skulle vilja säga nej. Gör konkreta planer för hur du vill svara när du får frågan. \n\n3. Om du säger nej till det här, vilka andra saker skulle det bli lättare att säga ja till?\n\nSkriv ner dina svar någonstans där bara du ser det.",
+        "alias": "Övning: Dina gränser 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "24e8b7d8-b563-47e2-a24c-6779a97f18ea"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "24e8b7d8-b563-47e2-a24c-6779a97f18ea",
+        "alias": "Att säga nej",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det kan som sagt vara svårt att säga nej, därför har vi samlat några råd som kan vara användbara om du vill öva på att säga nej."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Visa mig",
+                "sectionId": "f71e44a6-809c-4d50-96a5-a7e9e18570ae"
+              },
+              {
+                "component": "Button",
+                "content": "Hoppa över",
+                "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f71e44a6-809c-4d50-96a5-a7e9e18570ae",
+        "content": "* Var lugn och tydlig. Det innebär till exempel att prata i normal ton. Behålla avslappnad ögonkontakt. Vara beskrivande snarare än anklaga när du tar upp ett problem.\n* Inled med ett tack, och sedan ett nej: ”Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.”\n* Om du är osäker, be om lite betänketid: \"Tack för att du frågar, funkar det om jag svarar imorgon?\"\n* Se om du kan vara lite mer ärlig istället för att dra en vit lögn: \"Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu.\"",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+            "sectionId": "root"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+    "alias": "Stress YA Att säga Nej och ja 2",
+    "root": "a0e6973b-3430-47a7-a673-c5cd9c642ef7",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a0e6973b-3430-47a7-a673-c5cd9c642ef7",
+        "alias": "Undersök vad du vill",
+        "title": "Vad vill du?",
+        "content": "Ett skäl till att vi inte sätter gränser är att vi ibland inte själva vet vad vi vill. Så vi gör det som andra föreslår. Ett viktigt steg är därför att undersöka vad *du vill*, särskilt i situationer där du vet att du har svårt att säga nej.\n\nSå, nu ska du få titta inåt och fundera på ett område där du skulle vilja sätta tydligare gränser. Situationer där det kan vara lätt att säga ja, fast du egentligen vill säga nej.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är redo",
+            "sectionId": "932ab8bd-8120-4181-87f7-7df489e9d832"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "932ab8bd-8120-4181-87f7-7df489e9d832",
+        "alias": "Övning: Dina gränser",
+        "title": "Övning: Dina gränser",
+        "content": "1. Tänk på en situation där du sa ja till något fast att du egentligen inte ville, och som kanske fick dig att må dåligt eller hindrade dig att göra något annat som du tycker är viktigt.\n\nSkriv ner ditt svar någonstans där bara du ser det.\n\n*Exempelvis: när du testade på någonting fastän du egentligen inte ville, när du föll för grupptryck, när du tog på dig att fixa någonting åt en annan person fast du inte hade tid för det.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "f6dc7042-3a42-4b44-b661-1457d8dd936f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f6dc7042-3a42-4b44-b661-1457d8dd936f",
+        "alias": "Övning: Dina gränser 2",
+        "content": "2. Tänk nu på en situation i ditt liv där du skulle vilja säga nej. Gör konkreta planer för hur du vill svara när du får frågan. \n\n3. Om du säger nej till det här, vilka andra saker skulle det bli lättare att säga ja till?\n\nSkriv ner dina svar någonstans där bara du ser det.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "4c8a23cf-9685-4005-b0c2-0c45b4dcc8fd"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4c8a23cf-9685-4005-b0c2-0c45b4dcc8fd",
+        "alias": "Att säga nej",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det kan som sagt vara svårt att säga nej, därför har vi samlat några råd som kan vara användbara om du vill öva på att säga nej."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Visa mig",
+                "sectionId": "70fb88e0-f18c-4d99-ab53-459b8f4b1773"
+              },
+              {
+                "component": "Button",
+                "content": "Hoppa över",
+                "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "70fb88e0-f18c-4d99-ab53-459b8f4b1773",
+        "alias": "Visa mig",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "* Var lugn och tydlig. Det innebär till exempel att prata i normal ton. Behålla avslappnad ögonkontakt. Vara beskrivande snarare än anklaga när du tar upp ett problem.\n* Inled med ett tack, och sedan ett nej: ”Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.”\n* Om du är osäker, be om lite betänketid: \"Tack för att du frågar, funkar det om jag svarar imorgon?\"\n* Se om du kan vara lite mer ärlig istället för att dra en vit lögn: \"Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu.\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

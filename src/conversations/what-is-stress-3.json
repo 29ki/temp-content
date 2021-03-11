@@ -1,0 +1,176 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "what-is-stress-3",
+    "alias": "What is stress - 3",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Övning del ett:**\n\nSkriv ner svaren någonstans där bara du kan se dem.\n\n1. Tänk nu på en period i ditt liv som var särskilt stressig. Beskriv situationen kort för dig själv.\n\n2. Vilka saker som var viktiga för dig slutade du göra under den perioden?\n\n*Exempel: hoppade över lunchen, slutade träna, slutade träffa kompisar, gick och la mig sent.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Övning del två:**\\\nSkriv ned dina svar.\n\n3. Vilka aktiviteter eller relationer hjälpte dig, eller gav dig energi under den perioden?\n\n*Exempel: ringa en kompis, gå på en promenad, lyssna på musik, vila.*\n\n4. När du tänker tillbaka på den här stressiga perioden, lärde du dig något som kan vara till hjälp för dig idag? Vad brukar oftast stressa dig? Hur märker du att du är stressad? \n\n*Exempel: att jag brukar bli stressad av skolan, att jag brukar bli stressad av att jag alltid vill göra bra ifrån mig, att jag ofta får ont i magen och huvudet, att jag isolerar mig.*\n\n*Exempel: att det hjälper att ha rutiner, att jag brukar må bättre av att berätta för någon jag litar på hur jag mår.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Övning del tre:**\n\n5. Titta igenom dina svar. Se om du kan få en bättre bild över vilka aktiviteter som ofta faller bort när du är stressad, och vilka saker som hjälper dig att må bra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm done",
+                "conversationId": "what-is-stress-4",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "what-is-stress-3",
+    "alias": "What is stress - 3",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Övning del ett:**\\\nSkriv ner svaren någonstans där bara du kan se dem.\n\n1. Tänk nu på en period i ditt liv som var särskilt stressig. Beskriv situationen kort för dig själv.\n2. Vilka saker som var viktiga för dig slutade du göra under den perioden?\n\n*Exempel: hoppade över lunchen, slutade träna, slutade träffa kompisar, gick och la mig sent.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Övning del två:**\\\nSkriv ned dina svar.\n\n3. Vilka aktiviteter eller relationer hjälpte dig, eller gav dig energi under den perioden?\n\n*Exempel: ringa en kompis, gå på en promenad, lyssna på musik, vila.*\n\n4. När du tänker tillbaka på den här stressiga perioden, lärde du dig något som kan vara till hjälp för dig idag? Vad brukar oftast stressa dig? Hur märker du att du är stressad? \n\n*Exempel: att jag brukar bli stressad av skolan, att jag brukar bli stressad av att jag alltid vill göra bra ifrån mig, att jag ofta får ont i magen och huvudet, att jag isolerar mig.*\n\n*Exempel: att det hjälper att ha rutiner, att jag brukar må bättre av att berätta för någon jag litar på hur jag mår.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Övning del tre:**\n\n5. Titta igenom dina svar. Se om du kan få en bättre bild över vilka aktiviteter som ofta faller bort när du är stressad, och vilka saker som hjälper dig att må bra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är färdig",
+                "sectionId": "1",
+                "conversationId": "what-is-stress-4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

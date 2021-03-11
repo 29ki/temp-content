@@ -1,0 +1,239 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "what-is-stress-1",
+    "alias": "What is stress - 1",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Stress – så funkar det**\n\nHur skulle livet se ut om det var mindre stressigt? Många känner stress i sin vardag, och har svårt att få ihop alla krav, måsten och borden. Att lära sig hantera stress kan vi alla ha nytta av, oavsett vad som pågår runt omkring oss."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**I den här lektionen får du lära dig mer om:**\n\n* Vad som händer i kroppen när vi blir stressade\n* När stress är hjälpsamt, och när det kan vara skadligt \n* Att hantera stress \n* Hur du gör mer av det du mår bra av"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's go",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**You are not alone**\n\nIbland känns livet som en enda lång att göra-lista. Som att det inte finns tid för saker som verkligen betyder något – som att umgås med familj och vänner, lära sig någonting nytt, eller bara få lite välförtjänt vila."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Oavsett vilken stressig situation du befinner dig i så är det helt normalt att bli påverkad av den.\n\nStress är kroppens sätt att reagera på en potentiell fara eller ett hot. Det är en uråldrig reaktion som aktiverar kroppen och hjärnan. Vi gör oss redo för att slåss eller fly — för att överleva."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Got it",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "what-is-stress-1",
+    "alias": "What is stress - 1",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Stress – så funkar det**\n\nHur skulle livet se ut om det var mindre stressigt? Många känner stress i sin vardag, och har svårt att få ihop alla krav, måsten och borden. Att lära sig hantera stress kan vi alla ha nytta av, oavsett vad som pågår runt omkring oss."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**I den här lektionen får du lära dig mer om:**\n\n* Intro till stress\n* Positiv och negativ stress\n* En stressig period i ditt liv\n* Återhämtning"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Sätt igång",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Du är inte ensam**\n\nIbland känns livet som en enda lång att göra-lista. Som att det inte finns tid för saker som verkligen betyder något – som att umgås med familj och vänner, lära sig någonting nytt, eller bara få lite välförtjänt vila."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Oavsett vilken stressig situation du befinner dig i så är det helt normalt att bli påverkad av den.\n\nStress är kroppens sätt att reagera på en potentiell fara eller ett hot. Det är en uråldrig reaktion som aktiverar kroppen och hjärnan. Vi gör oss redo för att slåss eller fly — för att överleva."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Förstått",
+                "conversationId": "what-is-stress-2",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

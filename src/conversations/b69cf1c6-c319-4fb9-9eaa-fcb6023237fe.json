@@ -1,0 +1,154 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+    "alias": "YA Stress Att säga nej och ja 3",
+    "root": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
+        "alias": "Att säga ja till det du vill",
+        "title": "Att säga ja till det du vill",
+        "content": "Att säga nej hela tiden är inte heller en bra och långsiktig strategi – det hindrar oss från att göra saker vi tycker är viktiga och vill göra.\n\nNär vi är stressade är det lätt att vi automatiskt säger nej till saker som skulle kunna ladda våra batterier. Som att ta lunchrast, en promenad med en kompis, träna, eller sociala aktiviteter.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "1169b39d-370a-477d-9e3d-d4d232212002"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1169b39d-370a-477d-9e3d-d4d232212002",
+        "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi faktiskt vill göra och mår bra av. Sakerna som spelar roll i längden.\n\nDitt nästa steg är att undersöka vad du faktiskt vill i situationer. Den här gången, se om du kan hitta ett område där det skulle vara bra för dig att säga ja oftare.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
+        "alias": "Övning: Att säga ja",
+        "title": "Övning: Att säga ja",
+        "content": "1. Tänk på en situation där du sa nej till något trots att det var något som du skulle mått bra av på lång sikt. Beskriv vad som hände och om det hindrade dig från att göra något du tycker om.\n2. Hur kan du i framtiden påminna dig själv om att det här är något du tycker är viktigt och egentligen vill säga ja till?\n\nSkriv ner dina svar någonstans där bara du kan se dem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "bfa79f50-bfc4-4698-a987-443740941af6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bfa79f50-bfc4-4698-a987-443740941af6",
+        "content": "Titta igenom dina svar. Finns det situationer där du skulle må bra av att säga nej, och vilka situationer skulle du må bra av att säga ja till oftare? Tänk på att ett nej ger dig tid för ett annat ja. \n\nIstället för att bygga på ditt schema, se om du kan *byta ut* aktiviteter så du gör mer av det du tycker om och mår bra av — utan att få ett ännu tajtare schema.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "f20d66be-9965-4d0a-988a-b020af37f568"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f20d66be-9965-4d0a-988a-b020af37f568",
+        "alias": "Bra gjort!",
+        "title": "Bra gjort!",
+        "content": "Du har nu gjort klart **Säga nej – och ja.**\n\nDu har undersökt situationer där du vill ändra på hur du svarar och gjort en plan för att säga ja till något som är viktigt för dig på lång sikt. Det kan hjälpa dig att minska känslor av stress, och få dig att må bättre.\n\nIbland kan vi också behöver säga nej till sådant vi egentligen skulle vilja göra. För att vi inte hinner eller inte mår bra av att göra för många saker på en dag.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Slut"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+    "alias": "YA Stress Att säga nej och ja 3",
+    "root": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
+        "alias": "Att säga ja till det du vill",
+        "title": "Att säga ja till det du vill",
+        "content": "Att säga nej hela tiden är inte heller en bra och långsiktig strategi – det hindrar oss från att göra saker vi tycker är viktiga och vill göra.\n\nNär vi är stressade är det lätt att vi automatiskt säger nej till saker som skulle kunna ladda våra batterier. Som att ta lunchrast, en promenad med en kompis, träna, eller sociala aktiviteter.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "1169b39d-370a-477d-9e3d-d4d232212002"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1169b39d-370a-477d-9e3d-d4d232212002",
+        "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi faktiskt vill göra och mår bra av. Sakerna som spelar roll i längden.\n\nDitt nästa steg är att undersöka vad du faktiskt vill i situationer. Den här gången, se om du kan hitta ett område där det skulle vara bra för dig att säga ja oftare.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
+        "alias": "Övning: Att säga ja",
+        "title": "Övning: Att säga ja",
+        "content": "1. Tänk på en situation där du sa nej till något trots att det var något som du skulle mått bra av på lång sikt. Beskriv vad som hände och om det hindrade dig från att göra något du tycker om.\n2. Hur kan du påminna dig själv i framtiden om att det här är något du tycker är viktigt och egentligen vill säga ja till?\n\nSkriv ner dina svar någonstans där bara du kan se dem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "bfa79f50-bfc4-4698-a987-443740941af6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bfa79f50-bfc4-4698-a987-443740941af6",
+        "content": "3. Titta igenom dina svar. Finns det situationer där du skulle må bra av att säga nej, och vilka situationer skulle du må bra av att säga ja till oftare? Tänk på att ett nej ger dig tid för ett annat ja. \n\nIstället för att bygga på ditt schema, se om du kan *byta ut* aktiviteter så du gör mer av det du tycker om och mår bra av — utan att få ett ännu tajtare schema.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "f20d66be-9965-4d0a-988a-b020af37f568"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f20d66be-9965-4d0a-988a-b020af37f568",
+        "alias": "Bra gjort!",
+        "title": "Bra gjort!",
+        "content": "Du har nu gjort klart **Säga nej – och ja.**\n\nDu har undersökt situationer där du vill ändra på hur du svarar och gjort en plan för att säga ja till något som är viktigt för dig på lång sikt. Det kan hjälpa dig att minska känslor av stress, och få dig att må bättre.\n\nIbland kan vi också behöver säga nej till sådant vi egentligen skulle vilja göra. För att vi inte hinner eller inte mår bra av att göra för många saker på en dag.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Slut"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-4",
+    "alias": "relationships-thingsgowrong-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Practice\n\nIn the first challenge in this series of friendship challenges, remember the qualities you most liked in your friends.\n\nThis is also what you value when it comes to how you yourself would like to act in a friendship."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "By practicing awareness of what is happening inside you and allowing it, you’ll be on the road to being able to be the kind of friend you hope to be.\n\nWhen you are less impulsive and reactive, you stand a better chance to choose your actions. How cool is it to know that these skills are not so hard?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "In the next three days, whenever you find yourself in a challenging or upsetting situation:\n\n1. **Pause**.\n2. Be **aware** of yourself\n3. **Allow** thoughts and feelings to be there, and to pass.\n\nYou can take a print-screen of this to help remind you of the steps."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Got it",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Reflection on friendship skills\n\nIn theory, being aware and allowing may sound kind of easy. But in real life, it can actually be pretty hard! Earlier we said that these are skills for life that will help you build friendships. \n\nHow, you might wonder? Well, if we don’t know how to do this, we can often be reactive, impulsive or lash out."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Good job! \n\nGive yourself a pat on the back. You're now ready to choose to give yourself a chance to respond (instead of avoiding or lashing out)."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Done",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "Sharingquestion10"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "Sharingquestion10",
+        "alias": "Sharingquestion10",
+        "title": "Sharingquestionwhenthingsgowrong",
+        "question": "How did allowing difficult thoughts and feelings go? ",
+        "exampleText": "Naturally, it was difficult, but I'm really glad I stuck with it. Having coming out the other side my body just feels lighter, somehow."
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-thingsgowrong-4",
+    "alias": "relationships-thingsgowrong-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Dags att öva**\n\nNu är det dags för en utmaning. Kommer du ihåg att vi bad dig fundera på vad du uppskattar mest hos dina kompisar? Du minns säker att det du tycker är viktigt hos andra, också betyder att det är så du själv vill bete dig mot dina kompisar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Genom att träna på att bli medveten och tillåtande gentemot det som händer inuti dig, är du på god väg att kunna vara den kompis du vill vara.\n\nNär du är mindre impulsiv har du större chans att själv kunna välja hur du vill bete dig."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ditt uppdrag nu är att i tre dagar lägga märke till när du befinner dig i en situation som är svår eller när du blir upprörd, och där och då göra följande:\n\n1. **Pausa**\n2. Bli **medveten** om vad som pågår på insidan\n3. **Tillåt** tankar och känslor att finnas där. Låt dem komma och gå.\n\nTa en print-screen av listan om du vill ha hjälp att komma ihåg stegen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "I teorin kanske medveten och tillåtande låter enkelt. I praktiken kan det vara svårt. Men kom ihåg att det blir lättare ju mer du övar. Och ju mer du blir medveten och tillåtande och ger dig själv utrymme att välja beteende, desto mer är du den kompis just du vill vara."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Bra jobbat!\n\nNu är du redo att ge dig själv en chans att bete dig på sätt som du vill, istället för att råka göra eller säga någonting du senare kommer ångra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Klar",
+                "conversationId": "relationships-thingsgowrong-4",
+                "sectionId": "Sharingquestion10"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "Sharingquestion10",
+        "alias": "Sharingquestion10",
+        "question": "Hur gick det att tillåta svåra tankar och känslor?",
+        "title": "Sharingquestionwhenthingsgowrong",
+        "exampleText": "Det var svårt, man jag är så tacksam mot mig själv att jag gjorde övningen. Det var skönt att äntligen bearbeta svåra tankar jag undvikit så länge."
+      }
+    ]
+  }
+}

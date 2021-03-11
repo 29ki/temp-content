@@ -1,0 +1,64 @@
+{
+  "en": {
+    "id": "alive-day-7",
+    "alias": "alive-day-7",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-7",
+        "alias": "alive-day-7",
+        "nextConversationId": "alive-day-8",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 7",
+        "lessonlastDay": false,
+        "task": {
+          "id": "aliveDay7rev1",
+          "days": 1,
+          "hours": 8,
+          "minutes": 3,
+          "title": "Alive Day 7 Mission",
+          "body": "Over the next few hours, intentionally interact with someone in a way that shows that you respect or care for them. Did you learn anything?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 7 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-7",
+    "alias": "alive-day-7",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-7",
+        "alias": "alive-day-7",
+        "nextConversationId": "alive-day-8",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 7",
+        "lessonlastDay": false,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 7",
+          "body": "Over the next few hours, intentionally interact with someone in a way that shows that you respect or care for them. Did you learn anything?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 7 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

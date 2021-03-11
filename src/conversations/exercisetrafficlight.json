@@ -1,0 +1,588 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "Exercisechoosehowyouact",
+    "alias": "Exercisechoosehowyouact",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Emotions**\\\n\\\nEmotions can be seen as sources of information. Our emotions are connected with different behaviors. If you're sad, you often want to withdraw. If you're happy, you often want to share your joy. If you are afraid, you prepare to either fight or flee."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "A lot of our behaviours are automatic. The signals travel fast and sometimes — without us even having time to think about what we really want to do — we have already done something.\n\nThe exercise will help you create some distance to your experience. This way, you'll have time to notice what you're experiencing, and then choose how you want to act."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "More",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Creating distance from our thoughts can help us act more in accordance with our values. It also reduces the risk of us accidentally saying or doing something we later will regret. \n\nIn today's exercise we'll be using the metaphor of a traffic light to help guide our behavior in challenging situations."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**You'll learn more about:**\n\n* Creating distance to your thoughts\n* Becoming less impulsive\n* Choosing how you want to act"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Red light**\n\nImagine a traffic light. Here we find the colors red, yellow and green.\n\nThe first step is red light. Here we stop and become aware of what is going on right now.\n\nCheck in with your body and mind. How does your breathing feel? Are you tense? Just notice what is happening inside you."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Try it",
+                "sectionId": "4c312818-4892-4352-a80f-d94559d64b2b"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4c312818-4892-4352-a80f-d94559d64b2b",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Föreställ dig att någon kritiserar dig. Kanske en kompis, en familjemedlem, eller en lärare. Se om du verkligen kan gå in i tankarna och känslorna som dyker upp.\n\nStanna bara upp och lägg märke till vad som pågår inom dig. Hur känns kroppen? Andningen?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Yellow light**\\\n\\\nThe second step is yellow light. Here we begin to put into words what it is we're experiencing. \n\nHow are you feeling? What kind of thoughts are spinning? What impulses do you have?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Try it",
+                "sectionId": "fe8ceba6-6c3e-43a7-9ffe-e627754aa3a6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "fe8ceba6-6c3e-43a7-9ffe-e627754aa3a6",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Gå tillbaka till situationen du precis föreställde dig, där någon kritiserar dig eller någonting du har gjort.\n\nVilka tankar dyker upp? Hur känns det? Vilka impulser har du?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Green light**\n\nIt's go-time — but not *anywhere*. Think about how you want to act, and what the consequences of your behavior will be both short and long term. \n\nThen, after you've had a chance to cool down, act accord to your values."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "0a547300-a1f9-4100-80e0-a61cfe4bfaa0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "0a547300-a1f9-4100-80e0-a61cfe4bfaa0",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Gå tillbaka till situationen. Välj nu hur du vill reagera när någon kritiserar dig.\n\nVad är bäst att göra? Hur skulle du vilja bete dig? Skiljer det sig något från impulsen du hade tidigare? Kan du kanske testa på ett nytt beteende?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "8",
+                "content": "Finished"
+              }
+            ]
+          }
+        ],
+        "alias": "8"
+      },
+      {
+        "type": "defaultSection",
+        "id": "8",
+        "alias": "8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Good job!**\n\nToday you have learned the traffic light exercise. At red we stop, at yellow we get ready by checking in with what is going on inside and outside of us, and at green we drive on in the direction that is important to us. \n\nYou can use this exercise in situations where you notice you're having a strong reaction and are about to act impulsively."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "Finished"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "Exercisechoosehowyouact",
+    "alias": "Exercisechoosehowyouact",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Känslor**\\\n\\\nDet går att se känslor som informationskällor. Våra känslor hänger nämligen ihop med olika beteenden. Är du ledsen vill du ofta dra dig undan. Är du glad vill du ofta dela med dig av det. Är du rädd förbereder du dig för att antingen fly eller slåss.\n\nDu kan använda dig av den här övningen i situationer där du märker att du reagerar starkt och är på väg att agera impulsivt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Många av våra beteenden sker per automatik. Det går snabbt och ibland — utan att vi ens hunnit tänka på vad vi egentligen vill göra — *har vi redan gjort något.* \n\nDen här övningen hjälper dig skapa avstånd till din upplevelse. Då hinner du tänka efter kring vad det är du upplever. Därefter kan du *välja* ditt beteende."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mer",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Du kommer få lära dig att:**\n\n* Få distans till dina tankar\n* Bli mindre impulsiv\n* Välja hur du vill agera"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att skapa avstånd till våra tankar kan hjälpa oss få kontroll över hur vi beter oss. Det minskar risken för att vi råkar säga eller göra någonting vi senare ångrar. \n\nI dag kommer vi använda ett trafikljus som metafor för att hjälpa oss styra vårt beteende i utmanande situationer. Så att vi kan göra det som blir bäst för oss på både kort och lång sikt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är redo",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Rött ljus**\n\nFöreställ dig ett trafikljus. Här finns färgerna rött, gult och grönt.\n\nDet första steget är *rött ljus*. Här stannar vi upp, och blir uppmärksamma på vad det är som pågår just nu. \n\nChecka av kroppen och tankarna. Hur känns andningen? Spänner du dig? Bara lägg märke till vad som händer inom dig."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Testa",
+                "sectionId": "6dda0f70-1096-44b6-949c-a481f07c4d15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "6dda0f70-1096-44b6-949c-a481f07c4d15",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Föreställ dig att någon kritiserar dig. Kanske en kompis, en familjemedlem, eller en lärare. Se om du verkligen kan gå in i tankarna och känslorna som dyker upp.\n\nStanna bara upp och lägg märke till vad som pågår inom dig. Hur känns kroppen? Andningen? \n\nSkriv ned ditt svar om du vill, annars räcker det att tänka igenom svaren."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Gult ljus**\n\nDet andra steget är *gult ljus*. Här börjar vi sätta ord på vad det är vi upplever. \n\nVad känner du? Vad är det för tankar som snurrar? Vad har du för impulser?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Testa",
+                "sectionId": "3986759d-c714-49d6-a522-f287827d813c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3986759d-c714-49d6-a522-f287827d813c",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Gå tillbaka till situationen du precis föreställde dig, där någon kritiserar dig eller någonting du har gjort.\n\nVilka tankar dyker upp? Hur känns det? Vilka impulser har du?\n\nSkriv ned ditt svar om du vill, annars räcker det att tänka igenom svaren."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Grönt ljus**\n\nDet är dags att tuta och köra — men *inte var som helst.* Tänk igenom *hur* du vill agera, och vad ditt beteende kommer få för konsekvenser både på kort och lite längre sikt. \n\nAgera därefter på det sätt du faktiskt *vill,* efter tankarna och känslorna har fått möjlighet att stilla sig något."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "27ae4609-1806-46ff-b8fd-cd0f25a9e625"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "27ae4609-1806-46ff-b8fd-cd0f25a9e625",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Gå tillbaka till situationen. Välj nu hur du vill reagera när någon kritiserar dig.\n\nVad är bäst att göra? Hur skulle du vilja bete dig? Skiljer det sig något från impulsen du hade tidigare? Kan du kanske testa på ett nytt beteende?\n\nSkriv ned ditt svar om du vill, annars räcker det att tänka igenom svaren."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "8",
+                "content": "Färdig"
+              }
+            ]
+          }
+        ],
+        "alias": "8"
+      },
+      {
+        "type": "defaultSection",
+        "id": "8",
+        "alias": "9",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Bra jobbat!**\n\nIdag har du lärt dig att välja ditt beteende. \n\nVid rött stannar vi upp, vid gult gör vi oss redo genom att checka av vad som pågår inom och utanför oss, och på grönt kör vi vidare i den riktning som är viktig för oss."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "ExerciseCompleteButton",
+                "content": "Klar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

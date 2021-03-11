@@ -1,0 +1,231 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationships-aoa-4",
+    "alias": "relationships-aoa-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "You are now ready to begin your next practice task. We think you’ll find this one is pretty easy.\n\nFor the next three days, we’ll send you a notification inviting you to practice awareness and allowing – in the moment."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "More",
+                "sectionId": "2",
+                "conversationId": "relationships-aoa-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "All you need to do when you get the notification is:\n\nPause.\n\nBe aware of yourself, notice what's going on inside your mind and body.\n\nAllow whatever thoughts and feelings you have to be there, and pass.\n\nAllow your inner experiences to come and go like the weather."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay",
+                "sectionId": "3",
+                "conversationId": "relationships-aoa-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Good job!\n\nYou've now acquired two more skills: awareness and allowing.\n\nPracticing becoming aware of and allowing whatever is going on inside of you is helpful when it comes to friendships."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "More",
+                "sectionId": "4",
+                "conversationId": "relationships-aoa-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "It creates a possibility to choose your response, making you less likely to say and do things you will regret later on. You will also be more likely to have your own values guide your decisions, rather than difficult thoughts or feelings."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Great, I'm done!",
+                "conversationId": "relationships-aoa-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationships-aoa-4",
+    "alias": "relationships-aoa-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nu är du redo för nästa steg.\n\nAnvänd telefonens kalender eller påminnelser och skicka en notis till dig själv på valfri tid, tre dagar i sträck. När du får påminnelsen är ditt uppdrag att stanna upp i några sekunder och att vara medveten och tillåtande i just det ögonblick där du befinner dig."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-aoa-4",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När du får notisen, gör följande:\n\n1. Pausa.\n2. Bli medveten om dig själv, lägg märke till vad som pågår både i kropp och knopp.\n3. Tillåt alla tankar och känslor som du upplever. Låt dem komma och gå, ungefär som vädret."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "relationships-aoa-4",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Bra jobbat!**\n\nDu har nu lärt dig två grejer till: medveten och tillåtande.\n\nAtt öva på att vara medveten om och tillåtande för allt som händer inom dig kan vara väldigt användbart när det kommer till vänskapsrelationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationships-aoa-4",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att vara medveten och tillåtande ger oss en chans att **välja** hur vi vill reagera. Det minskar risken att vi säger eller gör saker vi senare kommer att ångra, och det ökar möjligheten att vara den kompis en vill vara – att låta värderingar styra våra beslut i stället för jobbiga tankar eller känslor."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

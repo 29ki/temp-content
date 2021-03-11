@@ -1,0 +1,440 @@
+{
+  "en": {
+    "id": "ta-hand-om-dig-sjalv-1",
+    "alias": "ta-hand-om-dig-sjalv-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Utifrån och in"
+              },
+              {
+                "component": "Text",
+                "content": "Även om vi ibland önskar det, så går det inte att komma undan att livet ibland är tufft. På samma sätt som att påfrestningar märks i kroppen, kan vi också använda kroppen för att ta hand om oss själva."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Den här utmaningen innehåller tre delar"
+              },
+              {
+                "component": "Text",
+                "content": "* Utifrån och in\n* Fokusövning\n* Ta hand om dig själv"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Utifrån och in"
+              },
+              {
+                "component": "Text",
+                "content": "Stress, jobbiga känslor och påfrestningar är en del av vad det innebär att vara människa. Ofta vill vi inte känna det som är jobbigt på insidan, utan gör en massa grejer för att försöka undvika det jobbiga. Att undvika något svårt brukar dock sällan funka särskilt bra i längden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Istället för att försöka fly undan det som är jobbigt på insidan finns det andra val att göra: låta det jobbiga få vara jobbigt, vara snälla mot oss själva, plocka fram vår inre kompis och ta hjälp av den."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att ta hjälp av sin kropp är också ett smart trick för att utifrån och in påverka hur saker känns. Det kan verka lite bakvänt – testa gärna hur det blir för dig:"
+              },
+              {
+                "component": "Text",
+                "content": "Knyt båda händerna hårt, håll upp dem framför dig och gör en arg min. Håll kvar i 20 sekunder och lägg märke till hur det känns."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ta nu i stället ett par djupa andetag och lägg en öppen hand på ditt hjärta. Håll kvar i 20 sekunder och notera hur det känns."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vi gillar som du kanske har förstått forskning här på 29k, och det visar sig att samma sköna varma känsla som vi kan få när vi gosar med ett husdjur eller får en kram av en vän, kan också framkallas när vi ger oss själva en vänlig fysisk gest."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-2",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "ta-hand-om-dig-sjalv-1",
+    "alias": "ta-hand-om-dig-sjalv-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Utifrån och in"
+              },
+              {
+                "component": "Text",
+                "content": "Även om vi ibland önskar det, så går det inte att komma undan att livet ibland är tufft. På samma sätt som att påfrestningar märks i kroppen, kan vi också använda kroppen för att ta hand om oss själva."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Den här utmaningen innehåller tre delar"
+              },
+              {
+                "component": "Text",
+                "content": "* Utifrån och in\n* Fokusövning\n* Ta hand om dig själv"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Utifrån och in"
+              },
+              {
+                "component": "Text",
+                "content": "Stress, jobbiga känslor och påfrestningar är en del av vad det innebär att vara människa. Ofta vill vi inte känna det som är jobbigt på insidan, utan gör en massa grejer för att försöka undvika det jobbiga. Att undvika något svårt brukar dock sällan funka särskilt bra i längden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Istället för att försöka fly undan det som är jobbigt på insidan finns det andra val att göra: låta det jobbiga få vara jobbigt, vara snälla mot oss själva, plocka fram vår inre kompis och ta hjälp av den."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Att ta hjälp av sin kropp är också ett smart trick för att utifrån och in påverka hur saker känns. Det kan verka lite bakvänt – testa gärna hur det blir för dig:"
+              },
+              {
+                "component": "Text",
+                "content": "Knyt båda händerna hårt, håll upp dem framför dig och gör en arg min. Håll kvar i 20 sekunder och lägg märke till hur det känns."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ta nu i stället ett par djupa andetag och lägg en öppen hand på ditt hjärta. Håll kvar i 20 sekunder och notera hur det känns."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vi gillar som du kanske har förstått forskning här på 29k, och det visar sig att samma sköna varma känsla som vi kan få när vi gosar med ett husdjur eller får en kram av en vän, kan också framkallas när vi ger oss själva en vänlig fysisk gest."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-2",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

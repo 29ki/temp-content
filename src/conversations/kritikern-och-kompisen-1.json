@@ -1,0 +1,606 @@
+{
+  "en": {
+    "id": "kritikern-och-kompisen-1",
+    "alias": "kritikern-och-kompisen-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Critics & buddy"
+              },
+              {
+                "component": "Text",
+                "content": "Every human being has both a critic and a friend within him."
+              },
+              {
+                "component": "Text",
+                "content": "In this challenge, you get to know them both, so that it becomes easier to pick out your inner friend when you need it best."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Sounds good",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "The critic & friend contains 3 steps:"
+              },
+              {
+                "component": "Text",
+                "content": "* Internal critic\n* Focus exercise\n* Inner buddy"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let's go!",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Our inner critic"
+              },
+              {
+                "component": "Text",
+                "content": "We often have high demands on ourselves. At school, at training, or when we are with our friends."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay, keep going",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "If we do not live up to the requirements, our inner critic often goes ahead and says that we are not good enough, nothing can or is bad."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "See others tell",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "",
+                "duration": 49,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.jpg"
+              },
+              {
+                "title": "",
+                "duration": 72,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.1.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.1.jpg"
+              },
+              {
+                "title": "",
+                "duration": 45,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continue",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Most of us do not even notice when our inner critic starts. It may have always been there as an obvious part of what we experience every day."
+              },
+              {
+                "component": "Text",
+                "content": "So, now you have to look inward and find your own inner critic."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay, keep going",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "when-do-you-feel-inadequate",
+            "exerciseTitle": "In what situations does your inner critic start?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# In what situations does your inner critic start?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "My inner critic starts when I feel left out or when I fail at something."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write down your answer where only you can see it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section7",
+                "content": "I'm finished"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "what-does-your-inner-critic-sound-like",
+            "exerciseTitle": "And how does your inner critic sound?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# And how does your inner critic sound?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "My inner critic says that I am stupid, stupid, nothing can or is not worth anything."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write down your answer where only you can see it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "I'm finished",
+                "conversationId": "kritikern-och-kompisen-2",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "kritikern-och-kompisen-1",
+    "alias": "kritikern-och-kompisen-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Kritikern & kompisen"
+              },
+              {
+                "component": "Text",
+                "content": "Varje människa har både en kritiker och en kompis inom sig."
+              },
+              {
+                "component": "Text",
+                "content": "I den här utmaningen får du lära känna dem båda, så att det blir lättare att plocka fram din inre kompis när du behöver den som bäst."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Låter bra",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Kritikern & kompisen innehåller 3 steg:"
+              },
+              {
+                "component": "Text",
+                "content": "* Inre kritiker\n* Fokusövning\n* Inre kompis"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Kör igång!",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Vår inre kritiker"
+              },
+              {
+                "component": "Text",
+                "content": "Ofta har vi höga krav på oss själva. I skolan, på träningen, eller när vi är med våra kompisar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej, fortsätt",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om vi inte lever upp till kraven så går vår inre kritiker ofta igång och säger att vi inte duger, inget kan eller är dåliga."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se andra berätta",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "",
+                "duration": 49,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.jpg"
+              },
+              {
+                "title": "",
+                "duration": 72,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.1.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.1.jpg"
+              },
+              {
+                "title": "",
+                "duration": 45,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "De flesta av oss märker inte ens när vår inre kritiker går igång. Den har kanske alltid funnits där som en självklar del av det vi upplever varje dag."
+              },
+              {
+                "component": "Text",
+                "content": "Så, nu ska du få titta inåt och hitta din egen inre kritiker."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej, fortsätt",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "when-do-you-feel-inadequate",
+            "exerciseTitle": "I vilka situationer går din inre kritiker igång?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# I vilka situationer går din inre kritiker igång?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "Min inre kritiker går igång när jag känner mig utanför eller när jag misslyckas med något."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Skriv ner ditt svar där bara du kan se det."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "conversationId": "kritikern-och-kompisen-1",
+                "sectionId": "section7",
+                "content": "Jag är klar"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "what-does-your-inner-critic-sound-like",
+            "exerciseTitle": "Och hur låter din inre kritiker?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# Och hur låter din inre kritiker?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "Min inre kritiker säger att jag är korkad, dum, inget kan eller inte är nåt värd."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Skriv ner ditt svar där bara du kan se det."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Jag är klar",
+                "conversationId": "kritikern-och-kompisen-2",
+                "sectionId": "section1"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

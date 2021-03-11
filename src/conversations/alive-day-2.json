@@ -1,0 +1,65 @@
+{
+  "en": {
+    "id": "alive-day-2",
+    "alias": "alive-day-2",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 2",
+        "task": {
+          "id": "aliveDay2rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 23,
+          "title": "Alive Day 2 Mission",
+          "body": "Over the next few hours, do something that gives you a sense of satisfaction or contentment. Notice if it tells you something about yourself."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 2 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-2",
+        "nextConversationId": "alive-day-3",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "alive-day-2"
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-2",
+    "alias": "alive-day-2",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 2",
+        "askForPNs": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 2",
+          "body": "Over the next few hours, do something that gives you a sense of satisfaction or contentment. Notice if it tells you something about yourself."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 2 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-2",
+        "nextConversationId": "alive-day-3",
+        "type": "microInterventionDay",
+        "id": "alive-day-2"
+      }
+    ]
+  }
+}

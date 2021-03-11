@@ -1,0 +1,63 @@
+{
+  "en": {
+    "id": "alive-day-12",
+    "alias": "alive-day-12",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-12",
+        "alias": "alive-day-12",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 12",
+        "lessonlastDay": true,
+        "task": {
+          "id": "aliveDay12rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "title": "Alive Day 12 Mission",
+          "body": "Over the next few hours, shake up your routine by changing at least one way you go about your day. Did you learn anything about yourself?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Alive Day 12 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "alive-day-12",
+    "alias": "alive-day-12",
+    "type": "lesson",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-12",
+        "alias": "alive-day-12",
+        "type": "microInterventionDay",
+        "askForPNs": true,
+        "welcomeHeading": "Welcome to Day 12",
+        "lessonlastDay": true,
+
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Alive Day 12",
+          "body": "Over the next few hours, shake up your routine by changing at least one way you go about your day. Did you learn anything about yourself?"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Alive Day 12 Check-in",
+          "body": "Time to check-in with your today’s mission!"
+        }
+      }
+    ]
+  }
+}

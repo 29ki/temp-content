@@ -1,0 +1,394 @@
+{
+  "en": {
+    "id": "ta-hand-om-dig-sjalv-3",
+    "alias": "ta-hand-om-dig-sjalv-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "För att du ska må bra i livet och tycka om dig själv behöver du – om du är som de flesta andra – då och då göra saker för att ta hand om dig."
+              },
+              {
+                "component": "Text",
+                "content": "Att ta hand om dig själv kan delas in i fem områden"
+              },
+              {
+                "component": "Text",
+                "content": "* Ta hand om kroppen\n* Vårda viktiga relationer\n* Beskriva och uttrycka känslor\n* Känna mening i tillvaron\n* Lära dig nya saker"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Ta hand om dig själv-kollen"
+              },
+              {
+                "component": "Text",
+                "content": "Senaste veckan har jag tagit hand om:"
+              },
+              {
+                "component": "Text",
+                "content": "* Min kropp (1 inte alls –  5 på det sätt jag vill)\n* Mina relationer  (1  –  5)\n* Lagt märke till och uttryckt mina känslor (1 – 5)\n* Gjort meningsfulla saker (1  – 5]\n* Lärt mig nya saker  (1 –  5)"
+              },
+              {
+                "component": "Text",
+                "content": "Anteckna någonstans hur det har varit för dig senaste veckan."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När du nu tittar på din ta hand om mig själv-koll, välj ett område som inte har fått så mycket uppmärksamhet senaste veckan."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv upp det område du har valt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du ska nu få tänka ut något litet som du kan göra inom det område som du valt. Du kan till exempel ta en kort promenad, ringa en vän, berätta hur du känner för någon, hjälpa någon som behöver det eller träna på att skjuta bollen i krysset. Det behöver inte vara dyrt eller storslaget. Det handlar om att finnas där för dig själv, att du behöver något som du kan hjälpa dig själv med."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner beteendet du ska göra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra gjort. Fint att du ställer upp för dig själv. Gör gärna om Ta hand om mig själv-kollen då och då för att upptäcka vad du kan göra för dig själv."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okey",
+                "sectionId": "Section6",
+                "conversationId": "ta-hand-om-dig-sjalv-3"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section6",
+        "alias": "Section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du är nu klar med **Ta hand om dig själv** och har lärt dig att använda kroppen för att påverka hur saker känns, och att det finns olika sätt att ta hand om sig själv – och vi behöver dem alla."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "I'm done"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "ta-hand-om-dig-sjalv-3",
+    "alias": "ta-hand-om-dig-sjalv-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "För att du ska må bra i livet och tycka om dig själv behöver du – om du är som de flesta andra – då och då göra saker för att ta hand om dig."
+              },
+              {
+                "component": "Text",
+                "content": "Att ta hand om dig själv kan delas in i fem områden"
+              },
+              {
+                "component": "Text",
+                "content": "* Ta hand om kroppen\n* Vårda viktiga relationer\n* Beskriva och uttrycka känslor\n* Känna mening i tillvaron\n* Lära dig nya saker"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Ta hand om dig själv-kollen"
+              },
+              {
+                "component": "Text",
+                "content": "Skatta nu hur du har tagit hand om dig själv senaste veckan på en skala från ett till fem (1 = inte alls, 5 = exakt på det sätt jag vill). \n\nSätt en siffra för varje område:"
+              },
+              {
+                "component": "Text",
+                "content": "* Min kropp\n* Mina relationer\n* Lagt märke till och uttryckt mina känslor\n* Gjort meningsfulla saker\n* Lärt mig nya saker"
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ditt svar någonstans där bara du ser det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När du nu tittar på din ta hand om mig själv-koll, välj ett område som inte har fått så mycket uppmärksamhet senaste veckan."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv upp det område du har valt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du ska nu få tänka ut något litet som du kan göra inom det område som du valt. Du kan till exempel ta en kort promenad, ringa en vän, berätta hur du känner, hjälpa någon eller träna på att skjuta bollen i krysset. Det behöver inte vara dyrt eller storslaget. Det handlar om att finnas där för dig själv."
+              },
+              {
+                "component": "Text",
+                "content": "Skriv ner beteendet du ska göra."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra gjort. Fint att du ställer upp för dig själv. Gör gärna om Ta hand om mig själv-kollen då och då för att upptäcka vad du kan göra för dig själv."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "Section6",
+                "content": "Nästa",
+                "conversationId": "ta-hand-om-dig-sjalv-3"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section6",
+        "alias": "Section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du är nu klar med **Ta hand om dig själv** och har lärt dig att använda kroppen för att påverka hur saker känns, och att det finns olika sätt att ta hand om sig själv – och vi behöver dem alla."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

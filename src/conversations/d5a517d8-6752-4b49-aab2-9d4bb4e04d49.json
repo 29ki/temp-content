@@ -1,0 +1,310 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
+    "alias": "YA Stress - Här och nu",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "db26634e-367a-4145-980c-1efc32c1d8d5",
+        "alias": "Being here and now",
+        "title": "Being here and now",
+        "content": "När vi är stressade är det lätt hänt att vi hela tiden tänker på framtiden. Planerar vad som behöver göras. Oroar oss över hur vi ska hinna med allt.\n\nDet blir extra svårt att fokusera på det som händer här och nu när vi fastnar i framtiden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "ef7c3e5d-dfe1-4888-b9a1-aa268846ddb0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ef7c3e5d-dfe1-4888-b9a1-aa268846ddb0",
+        "content": "**I den här lektionen får du lära dig mer om:** \n\n* Vara här och nu\n* Skapa distans till dina tankar\n* Fokusera på en sak i taget\n* Bli mindre impulsiv",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "3db91ac8-fd68-48f2-82e2-18e524b8fc8d"
+          }
+        ],
+        "alias": "Du kommer lära dig"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3db91ac8-fd68-48f2-82e2-18e524b8fc8d",
+        "title": "",
+        "alias": "Tankar är bara tankar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "5eb9f026-9604-4d90-aca0-94c034506d15"
+          }
+        ],
+        "content": "**Våra tankar**\n\nEn av hjärnans uppgifter är att skapa tankar. Den är superbra på att ge oss tips och varningar, lösa problem och upptäcka misstag. \n\nDet har nämligen varit viktigt för vår överlevnad att upptäcka faror. Därför har vår hjärna utvecklat ett smart sätt att fungera på: nämligen att fokusera på det som är negativt eller det som inte fungerar. \n\nNär vi är stressade fokuserar vi *ännu mer* på möjliga faror."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5eb9f026-9604-4d90-aca0-94c034506d15",
+        "alias": "Tankar är bara tankar 2",
+        "content": "Ett annat problem med den här överlevnadsförmågan är att våra negativa tankar kan *hindra oss*. Det är vanligt att vi tolkar våra tankar **som om de vore verkliga**. \n\nOm vi får tanken \"jag klarar det inte\" kan det hända att vi tror att **tanken är sann**, att vi **känner** oss dåliga och dessutom börjar **bete** oss som om tanken vore sann.\n\nDet kan också leda till att vi blir *ännu mer* stressade. Det blir också svårare att hitta en lösning på vårat problem — eftersom vi *tror* på tanken att vi \"inte klarar av det\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "acb9f099-44e4-4154-81cb-275883d40504"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "acb9f099-44e4-4154-81cb-275883d40504",
+        "alias": "4",
+        "content": "**Tankar är bara tankar**\\\nNär vi övar förmågan att fokusera på det som sker *här och nu* kan vi istället skapa lite **avstånd** till våra tankar. \n\nDet kan hjälpa oss att lägga märke till att vi har oerhört många tankar varje dag, och att se tankar för vad de faktiskt är — tankar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt ",
+            "sectionId": "e8bea890-1cfd-427e-93aa-5fabaef269d5"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "e8bea890-1cfd-427e-93aa-5fabaef269d5",
+        "alias": "Vanliga utmaningar",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När vi försöker fokusera på det som händer i stunden, är det vanligt att uppleva utmaningar med:\n\n1. Koncentration \n2. Att det känns obehagligt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Läs mer",
+                "sectionId": "b16653bd-9d6d-4899-a1e0-ab35654f75b4"
+              },
+              {
+                "component": "Button",
+                "content": "Gå till övningen",
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b16653bd-9d6d-4899-a1e0-ab35654f75b4",
+        "content": "**Jag kan inte koncentrera mig**\\\nVår hjärna är specialist på att ta emot intryck och associera. När vi övar på att vara här och nu är det därför vanligt att vi tappar fokus och börjar tänka på annat. Vad vi ska äta till middag, eller vilka som kommer att vara med på festen i helgen.  \n\nMen — att dina tankar vandrar iväg är **inte** samma sak som att du inte klarar av att fokusera på nuet. Varje gång du lägger märke till att du vandrat iväg i tankar så har du faktiskt fokuserat på det som pågår i stunden!",
+        "alias": "Read more",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "8db3ba93-443d-44bc-8181-5a595cc0ca1b"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "8db3ba93-443d-44bc-8181-5a595cc0ca1b",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Det känns obehagligt och jag kan inte slappna av**\\\nAtt fokusera på här och nu är inte samma sak som avslappning. Istället handlar det om att vara medveten om *vad* du upplever. \n\nIbland kanske du blir mer avslappnad. Ibland kanske du märker att du är spänd och stressad. Målet är att lägga märke till det som händer här och nu, inte att förändra eller bli av med sånt som känns jobbigt på insidan."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+                "content": "Continue",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "alias": "Read more 2"
+      }
+    ],
+    "root": "db26634e-367a-4145-980c-1efc32c1d8d5"
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
+    "alias": "YA Stress - Här och nu",
+    "root": "69813b4b-d39f-4faa-971c-1e6f00ba563c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "69813b4b-d39f-4faa-971c-1e6f00ba563c",
+        "alias": "Att vara här och nu",
+        "title": "Att vara här och nu",
+        "content": "När vi är stressade är det lätt hänt att vi hela tiden tänker på framtiden. Planerar vad som behöver göras. Oroar oss över hur vi ska hinna med allt.\n\nDet blir extra svårt att fokusera på det som händer här och nu när vi fastnar i framtiden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "77dd91ad-bc5a-41c1-98d0-f3532dc1b633"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77dd91ad-bc5a-41c1-98d0-f3532dc1b633",
+        "content": "**I den här lektionen får du lära dig mer om:** \n\n* Vara här och nu\n* Skapa distans till dina tankar\n* Fokusera på en sak i taget\n* Bli mindre impulsiv",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "69f8bb5e-ecaf-42dc-baec-a25926b9d034"
+          }
+        ],
+        "alias": "Du kommer lära dig"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "69f8bb5e-ecaf-42dc-baec-a25926b9d034",
+        "title": "",
+        "alias": "Tankar är bara tankar",
+        "content": "**Våra tankar**\n\nEn av hjärnans uppgifter är att skapa tankar. Den är superbra på att lösa problem, upptäcka misstag och ge oss varningar. \n\nDet har varit viktigt för vår överlevnad att upptäcka faror. Därför har vår hjärna utvecklat ett smart sätt att fungera på: att fokusera på det som är negativt eller det som inte fungerar. \n\nNär vi är stressade fokuserar vi *ännu mer* på möjliga faror.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "b042c6c2-055b-4ecd-9bd7-7def47dee448"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b042c6c2-055b-4ecd-9bd7-7def47dee448",
+        "alias": "Tankar är bara tankar 2",
+        "content": "Ett annat problem med den här överlevnadsförmågan är att våra negativa tankar kan *hindra oss*. Det är vanligt att vi tolkar våra tankar **som om de vore verkliga**. \n\nOm vi får tanken \"jag klarar det inte\" kan det hända att vi **tror** på tanken, att vi **känner** oss dåliga och dessutom börjar **bete** oss som om tanken vore sann.\n\nDet kan leda till att vi blir *mer* stressade. Och att det blir svårare att hitta en lösning på vårat problem, eftersom vi *tror* på tanken att vi \"inte klarar av det\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "36a3852d-b955-45fc-8cff-81a0f2cf2407"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "36a3852d-b955-45fc-8cff-81a0f2cf2407",
+        "alias": "4",
+        "content": "**Tankar är bara tankar**\\\n\\\nNär vi övar vår förmåga att fokusera på det som sker *här och nu* kan vi istället skapa lite **avstånd** till våra tankar. \n\nDet kan hjälpa oss att lägga märke till att vi har oerhört många tankar varje dag, och att se tankar för vad de faktiskt är — tankar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "b4d088e2-7b99-4fe1-8008-5daa765b0a48"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "b4d088e2-7b99-4fe1-8008-5daa765b0a48",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När vi försöker fokusera på det som händer i stunden, är det vanligt att uppleva utmaningar med:\n\n1. Koncentrationen\n2. Att det känns obehagligt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Läs mer",
+                "sectionId": "f7663986-6a66-4f5b-89f2-8d57196c5206"
+              },
+              {
+                "component": "Button",
+                "content": "Gå till övningen",
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec"
+              }
+            ]
+          }
+        ],
+        "alias": "Vanliga utmaningar"
+      },
+      {
+        "type": "defaultSection",
+        "id": "f7663986-6a66-4f5b-89f2-8d57196c5206",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Jag kan inte koncentrera mig**\\\n\\\nVår hjärna är specialist på att ta emot intryck och dra liknelser. När vi övar på att vara här och nu är det därför vanligt att vi *tappar fokus*. Vi börjar tänka på annat. Vad vi ska äta till middag. Vilka som kommer att vara med på festen i helgen.  \n\nMen — att dina tankar vandrar iväg är *inte* samma sak som att du inte klarar av att fokusera på nuet. Varje gång du lägger märke till att dina tankar vandrat så har du faktiskt fokuserat på det som pågår i stunden!"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "",
+                "sectionId": "47a429f6-cee7-4c2d-b174-ea7dd40999a1"
+              }
+            ]
+          }
+        ],
+        "alias": "Vanliga utmaningar"
+      },
+      {
+        "type": "defaultSection",
+        "id": "47a429f6-cee7-4c2d-b174-ea7dd40999a1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Det känns obehagligt**\\\n\\\nAtt fokusera på här och nu är inte samma sak som avslappning. Istället handlar det om att vara medveten om *vad* du upplever. \n\nIbland kanske du blir mer avslappnad. Ibland kanske du märker att du är spänd och stressad. Målet är att lägga märke till det som händer här och nu, inte att förändra eller bli av med sånt som känns jobbigt på insidan."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+                "content": "Fortsätt"
+              }
+            ]
+          }
+        ],
+        "alias": "Read more 2"
+      }
+    ]
+  }
+}

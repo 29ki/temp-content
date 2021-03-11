@@ -1,0 +1,328 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationship-basics-4",
+    "alias": "relationship-basics-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now, take a look at your list of super skills and choose two skills you can practice in the next few days. Write them down where only you can see them."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm done",
+                "sectionId": "2",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "The next step is to decide on a behavior that matches the skill you have chosen. Like this:"
+              },
+              {
+                "component": "Text",
+                "content": "This week I am going to improve my friendship skill ..., by doing ..."
+              },
+              {
+                "component": "Text",
+                "content": "For example: This week I am going to improve my friendship skill loyalty, by keeping my friend's secret."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm done",
+                "sectionId": "Sharingquestion",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "When you look at this action you are about to take you might have feelings of doubt or critical judgements. It’s normal to be a bit nervous. Have faith. You can do this."
+              },
+              {
+                "component": "Text",
+                "content": "Pause and breath out slow."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready for the challenge",
+                "sectionId": "4",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "By next week you’ll feel super proud that you’ve taken your first step on the road to being a good friend and knowing that you have built some skills.\n\nYou can do this!!"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "5",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Good job!\n\nToday you've learned that relations are extremely important for us humans (and dogs won't hold grudge, but humans may). You've practiced your pause skills, so when something happens you can try to be in the moment. And you've identified friendship skills that matter to you, and decided to take action on two of them."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "I'm done",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "Sharingquestion",
+        "alias": "Sharingquestion",
+        "title": "Relationshipbasics",
+        "question": "What skills did you choose, and how will you practice them?",
+        "nextSection": "3",
+        "exampleText": "This week I am going to improve my friendship skill loyalty, by keeping my friend's secret."
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationship-basics-4",
+    "alias": "relationship-basics-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Fundera nu på din lista med vad du värderar i relationer från övningen här innan. Välj två värden som känns extra viktiga för dig att träna på."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "sectionId": "2",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nästa steg är att bestämma ett beteende – något du kan göra – som handlar om att träna på det värde du valt. Så här:"
+              },
+              {
+                "component": "Text",
+                "content": "Den här veckan ska jag träna på ..., genom att göra ..."
+              },
+              {
+                "component": "Guiding",
+                "content": "Till exempel: Den här veckan ska jag träna på **att vara snäll** genom att **fråga någon som är utanför om hen vill äta lunch ihop**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är redo",
+                "sectionId": "Sharingquestion",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "Sharingquestion",
+        "alias": "Sharingquestion",
+        "title": "Relationshipbasics",
+        "question": "Vilka beteenden ska du träna på, och hur? ",
+        "nextSection": "3",
+        "exampleText": "Den här veckan ska jag träna på att vara snäll genom att fråga någon som är utanför om hen vill följa med och äta lunch."
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "När du nu tänker på det du har bestämt dig för att göra, kan det dyka upp tvivel eller kritiska tankar. Det är vanligt när en testar nya beteenden att hjärnan varnar och larmar för att det är okänd mark. Det är okej. Dina tankar bestämmer inte. Det gör du."
+              },
+              {
+                "component": "Text",
+                "content": "Kom ihåg andningspausen: Pausa, andas in, och andas ut långsamt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "sectionId": "4",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nästa vecka kommer du känna dig stolt över att ha tagit dina första steg mot att vara den kompis just du vill vara, och samtidigt veta att du har lärt dig saker på vägen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "5",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bra jobbat!\n\nIdag har du lärt dig att relationer är extremt viktiga för människor, och att hundar inte oroar sig, men människor gör det. Du har tränat in andningspausen, som du kan använda för att lägga märke till det som händer här och nu. Du har också valt dina viktiga kompis-värden, och gett dig själv i uppgift att träna på två nya viktiga beteenden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationship-basics-3",
+    "alias": "relationship-basics-3",
+    "root": "Section1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "The first friendship skill is learned by stepping into other people’s shoes (not literally because other people’s shoes can be stinky). \n\nBut understanding others comes from shining a light on what’s happening inside you and inside others."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Have you ever wondered what makes someone a good friend? Why do some people have lots? What is their secret?"
+              },
+              {
+                "component": "Text",
+                "content": "It can be a little different for everyone but knowing what kind of friends you like is the place to start. It helps to know what others do that makes you feel great."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "friendship-list",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "From the list on next screen, choose your top six characteristics that you like to see in a friend. You might think of someone you know and use that as a way to answer. Don’t worry about being ‘right’ here, it’s a long list because people are so diverse."
+                  }
+                ]
+              }
+            ],
+            "exerciseTitle": "The friendship quiz"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Show me the list",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section4",
+        "alias": "Section4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Pick six things you like in a friend"
+              }
+            ]
+          },
+          {
+            "component": "MultiSelect",
+            "storageKey": "friendship-list",
+            "options": [
+              "Interesting",
+              "Fun",
+              "Popular",
+              "Sporty",
+              "Listens",
+              "Makes me laugh",
+              "Loyal",
+              "Is forgiving",
+              "Is upbeat",
+              "Shares my interests",
+              "Smart",
+              "Attractive",
+              "Share feelings",
+              "Doesn't judge",
+              "Helps me feel better",
+              "Kind",
+              "Supportive",
+              "Creative"
+            ],
+            "maxSelections": "6"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section5",
+        "alias": "Section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Well done"
+              },
+              {
+                "component": "Text",
+                "content": "When you have a friend, you love it when they are:\n"
+              }
+            ]
+          },
+          {
+            "component": "MultiSelectResult",
+            "storageKey": "friendship-list"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section6",
+        "alias": "Section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Just notice how amazing your list is. Now, we need to be real too. That list is probably too amazing for one person to display all of the time right? No one’s that perfect. Besides, you don’t want perfect friends, it’s just too hard to keep up with perfect people."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section7",
+        "alias": "Section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now, what your list tells you is what **you value** in terms of connection.\n\nSo, let’s turn that selfie view around on to yourself."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section8"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section8",
+        "alias": "Section8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now, pause (remember that step, super important)."
+              },
+              {
+                "component": "Text",
+                "content": "Ask yourself, do you act in some of these ways towards your friends too? Are you being ..."
+              }
+            ]
+          },
+          {
+            "component": "MultiSelectResult",
+            "storageKey": "friendship-list"
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "... at least sometimes?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Yes, sometimes",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section10"
+              },
+              {
+                "component": "Button",
+                "content": "No, I don't",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section9"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section9",
+        "alias": "Section9",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "If you’ve become aware that you don’t act like this as often as you’d hope, then good for you for being honest with yourself. You deserve a bravery star for being honest."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section10"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section10",
+        "alias": "Section10",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Good friends share the same behaviours. They act the same way. So if you value being respectful, that’s some you’ll get in a friend by acting respectfully too."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section11"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "Section11",
+        "alias": "Section11",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "If you do the kind of valued friendship behaviour that you care about, then you are making a big step toward building friendships."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "Section12",
+                "conversationId": "relationship-basics-3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Section12",
+        "alias": "Section12",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "You don’t have to do it all of the time, just sometimes. And remember perfect friends are people that make you feel connected and cared for. Not in competition."
+              },
+              {
+                "component": "Text",
+                "content": "Now, let's begin practicing your friendship skills."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "I'm ready for action",
+                "conversationId": "relationship-basics-4",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationship-basics-3",
+    "alias": "relationship-basics-3",
+    "root": "Section1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Det första kompisbeteendet du ska få träna på är att gå i andra människors skor en stund (inte bokstavligen – andras skor kan som du säkert vet lukta skunk)."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vad är det som gör någon till en bra kompis, tycker du?"
+              },
+              {
+                "component": "Text",
+                "content": "Det är olika för alla, så att veta vilken typ av kompis just du uppskattar är en bra utgångspunkt. \n\nVad är det andra gör som får dig att må bra?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "friendship-list",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "På nästa sida hittar du en lista. Där vill vi att du väljer sex egenskaper som du vill att en kompis ska ha. Du kan tänka på någon du redan känner eller drömma fritt. \n\nDet finns inget rätt svar här. Det är en lång lista eftersom människor är så olika."
+                  }
+                ]
+              }
+            ],
+            "exerciseTitle": "Kompislistan"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Visa mig listan",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section4",
+        "alias": "Section4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Välj sex saker du uppskattar med en kompis:"
+              }
+            ]
+          },
+          {
+            "component": "MultiSelect",
+            "storageKey": "friendship-list",
+            "options": [
+              "Pålitlig",
+              "Intressant",
+              "Populär",
+              "Lyssnar på mig",
+              "Lojal",
+              "Förlåtande",
+              "Optimistisk",
+              "Delar mina intressen",
+              "Smart",
+              "Attraktiv",
+              "Delar tankar och känslor",
+              "Är icke-dömande",
+              "Hjälper mig må bättre",
+              "Snäll",
+              "Stöttande",
+              "Kreativ",
+              "Sportig",
+              "Rolig"
+            ],
+            "maxSelections": "6"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section5",
+        "alias": "Section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Bra jobbat"
+              },
+              {
+                "component": "Text",
+                "content": "Du älskar när en kompis är:"
+              }
+            ]
+          },
+          {
+            "component": "MultiSelectResult",
+            "storageKey": "friendship-list"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section6",
+        "alias": "Section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bara lägg märke till hur fantastisk din lista är. Förmodligen lite för fantastisk för att en person ska kunna leva upp till den hela tiden, eller hur? Ingen är perfekt och det är så det ska vara."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section7",
+        "alias": "Section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vad din lista berättar är vad du **värderar** i en relation."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se vad andra värderar",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section13"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "Section13",
+        "alias": "Section13",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_amir.mp4",
+                "title": "Amir",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_amir.jpg"
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_noa.mp4",
+                "title": "Noa",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_noa.jpg"
+              },
+              {
+                "title": "Zara",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_zara.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_zara.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Section8",
+        "alias": "Section8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Pausa (kom ihåg det här steget, superviktigt)."
+              },
+              {
+                "component": "Text",
+                "content": "Nu är frågan, gör du något av det här för dina kompisar? Är du ..."
+              }
+            ]
+          },
+          {
+            "component": "MultiSelectResult",
+            "storageKey": "friendship-list"
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "... åtminstone ibland?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Ja, ibland",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section10"
+              },
+              {
+                "component": "Button",
+                "content": "Nej",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section9"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section9",
+        "alias": "Section9",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om du nu lagt märke till att du inte gör dina viktiga kompisbeteenden så ofta som du hade önskat – modigt av dig att våga vara ärlig."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section10"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section10",
+        "alias": "Section10",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Kompisar härmar ofta varandras beteenden. Så om du exempelvis uppskattar respektfulla kompisar, är det större chans att dina kompisar behandlar dig med respekt om du själv också respekterar dem."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "conversationId": "relationship-basics-3",
+                "sectionId": "Section11"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "Section11",
+        "alias": "Section11",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Om du fokuserar på att själv göra beteenden som du tycker är viktiga hos en bra kompis, tar du samtidigt ett stort steg mot att bygga relationer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "Section12",
+                "conversationId": "relationship-basics-3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Section12",
+        "alias": "Section12",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du behöver inte göra det hela tiden, bara ibland. Och kom ihåg att en perfekt kompis är en som du känner dig nära, som får dig att känna dig sedd, hörd och omhändertagen."
+              },
+              {
+                "component": "Text",
+                "content": "Nu ska du få öva på just dina kompisbeteenden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Sätt igång!",
+                "conversationId": "relationship-basics-4",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

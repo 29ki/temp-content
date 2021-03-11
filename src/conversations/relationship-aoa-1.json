@@ -1,0 +1,335 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "relationship-aoa-1",
+    "alias": "relationship-aoa-1",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Aware and allow\n\nWe’re glad to see you back here. In this challenge you will learn:\n\n* Truth versus idea\n* Friendship super skills\n* Aware and allow\n* Practice"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm ready",
+                "sectionId": "2",
+                "conversationId": "relationship-aoa-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Truth versus idea\n\nThe context around us often gives us ideas about how things should be – ideas that sometimes are mistaken for truths. Ideas on what you should and shouldn’t do with your thoughts and feelings could be helpful, but oftentimes they are not. \n\nInstead, they can make our lives harder."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "3",
+                "conversationId": "relationship-aoa-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Which of the following **are truths?**\n\n* It’s best to hide your thoughts and feelings from others\n* If you are sad, you should control that feeling\n* It’s best to tell others if they did something you don’t like\n* It’s best to be happy around others all of the time"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Show me!",
+                "sectionId": "4",
+                "conversationId": "relationship-aoa-1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "In fact – they’re all *ideas*. But still most people are taught these ideas as truths. They’re everywhere.\n\nAt 29k, we use science to distinguish between truths and ideas. Not because ideas necessarily are bad – they’re great for entertaining stories and being creative. But psychologists have spent decades studying how to best handle thoughts and feelings. \n\nAlong the way they’ve discovered that a lot of the things we assume are truths, actually are *ideas*."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Got it!",
+                "conversationId": "relationship-aoa-2",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "relationship-aoa-1",
+    "alias": "relationship-aoa-1",
+    "root": "section1a",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "section1a",
+        "alias": "section1a",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Medveten och tillåtande"
+              },
+              {
+                "component": "Text",
+                "content": "Det kan vara knepigt att veta vad som är sant och vad som är fake news även när det gäller relationer. Här får du lära dig mer om smarta strategier för att kunna vara den kompis du vill vara. Tips: spana inåt!"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Gå vidare",
+                "sectionId": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Den här utmaningen innehåller:\n\n* Fakta eller idé\n* Superfärdigheter i relationer\n* Medveten och tillåtande\n* Öva"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är redo",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "type": "defaultSection",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Fakta eller idé**\n\nVår omgivning ger oss ofta idéer kring hur saker *borde* vara – idéer som ibland förväxlas med fakta. Idéer om vad du ska och inte ska göra med dina tankar och känslor kan vara hjälpsamma. Men oftast är det faktiskt tvärtom – de gör våra liv *svårare*."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vilka av följande är **fakta**?\n\n* Det är bäst att dölja tankar och känslor från andra\n* Om en känner sig ledsen är det bäst att genast försöka känna sig glad igen\n* Det är bäst att inte berätta för andra när de gjort något en inte gillar\n* Det är bäst att alltid vara glad när en är bland folk"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Visa mig fakta",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection",
+        "id": "3"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "type": "defaultSection",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Faktum är att alla är *idéer*. Däremot har många människor fått lära sig att de här idéerna är fakta. Inte konstigt att det kan bli förvirrande."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okej",
+                "sectionId": "section4b"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "section4b",
+        "alias": "section4b",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "På 29k använder vi oss av vetenskap för att skilja idéer från fakta. Inte för att idéer i sig är dåliga – de är utmärkta för att berätta historier, och när vi vill vara kreativa. Men psykologer har ägnat årtionden åt att förstå hur vi bäst hanterar tankar och känslor. Längs vägen har de upptäckt att många av de saker vi tror är fakta, faktiskt är idéer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "videos",
+                "content": "Se vad andra säger"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "videos",
+        "alias": "videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_amir.mp4",
+                "title": "Amir",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_amir.jpg"
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_noa.mp4",
+                "title": "Noa",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_noa.jpg"
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_zara.mp4",
+                "title": "Zara",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_zara.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Gå vidare",
+                "conversationId": "relationship-aoa-2",
+                "sectionId": "root"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

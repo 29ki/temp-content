@@ -1,0 +1,63 @@
+{
+  "en": {
+    "type": "lesson",
+    "id": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
+    "alias": "leadership-reframe-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "28fdd3d3-506f-43cf-8e3f-014fc1a6b375",
+        "alias": "Cost of habits",
+        "content": "When we develop habits, we also develop expectations - how we want things and people to be. \n\nHabits and expectations take the pain and fear out of having to listen, observe, speak to people and support them to succeed. \n\n**But at what cost?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "73a34c8f-59b1-4ee8-8810-141986e9f4fa"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "73a34c8f-59b1-4ee8-8810-141986e9f4fa",
+        "alias": "Cost of habits 2",
+        "content": "While people and situations change, our habits and expectations can soon become outdated. \\\n\\\nIn other words, by clinging to your, communications habits tightly, you may find yourself more and more distant from others.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "94531e31-3c3d-46a3-a32f-961c1076e2cc"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "94531e31-3c3d-46a3-a32f-961c1076e2cc",
+        "alias": "Cost of habits 3",
+        "longDescription": "* What does relating in such a ‘closed off’ way cost you and your colleagues? \n* How much does it limit your ability to see ways to create a skilled team who find meaning in their work?",
+        "question": "Take a moment to consider",
+        "buttons": []
+      }
+    ],
+    "root": "28fdd3d3-506f-43cf-8e3f-014fc1a6b375"
+  },
+  "sv": {
+    "type": "lesson",
+    "id": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
+    "alias": "leadership-reframe-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "f099945d-d502-4bef-ae1b-405a69d53428",
+        "alias": "Placeholder",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Placeholder"
+          }
+        ]
+      }
+    ],
+    "root": "f099945d-d502-4bef-ae1b-405a69d53428"
+  }
+}

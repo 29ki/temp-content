@@ -1,0 +1,290 @@
+{
+  "en": {
+    "id": "kroppen-3",
+    "alias": "kroppen-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Focus exercise"
+              },
+              {
+                "component": "Text",
+                "content": "Now you should try a focus exercise with the body and your experiences in the center."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Move on",
+                "conversationId": "kroppen-3",
+                "sectionId": "yourBodyYourHomeVideos"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "yourBodyYourHomeVideos",
+        "alias": "yourBodyYourHomeVideos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Isaac, 20",
+                "duration": 47,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 34,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 33,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "conversationId": "kroppen-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Your body, your home"
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv%2Fdin-kropp-ditt-hem.mp3",
+                  "duration": 256
+                }
+              },
+              {
+                "component": "ButtonGroup",
+                "content": [
+                  {
+                    "component": "Button",
+                    "content": "Next",
+                    "conversationId": "kroppen-3",
+                    "sectionId": "section3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now you are done with this challenge about emotions, the body and the stress boost."
+              },
+              {
+                "component": "Text",
+                "content": "In situations where you notice that your body is triggering a surcharge, you can help yourself by noticing what is happening and being extra kind to yourself."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "End",
+                "conversationId": "kroppen-3"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "kroppen-3",
+    "alias": "kroppen-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Fokusövning"
+              },
+              {
+                "component": "Text",
+                "content": "Snart ska du få prova en fokusövning med kroppen och dina upplevelser i centrum."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Hör andra berätta",
+                "conversationId": "kroppen-3",
+                "sectionId": "yourBodyYourHomeVideos"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "yourBodyYourHomeVideos",
+        "alias": "yourBodyYourHomeVideos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Isaac, 20",
+                "duration": 47,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.jpg"
+              },
+              {
+                "title": "Emelia, 17",
+                "duration": 34,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 33,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "kroppen-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Din kropp, ditt hem"
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv%2Fdin-kropp-ditt-hem.mp3",
+                  "duration": 256
+                }
+              },
+              {
+                "component": "ButtonGroup",
+                "content": [
+                  {
+                    "component": "Button",
+                    "content": "Nästa",
+                    "conversationId": "kroppen-3",
+                    "sectionId": "section3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nu är du klar med den här utmaningen om känslor, kroppen och stresspåslaget."
+              },
+              {
+                "component": "Text",
+                "content": "I situationer när du märker att din kropp drar igång ett påslag, kan du hjälpa dig själv genom att lägga märke till vad som händer och vara extra snäll mot dig själv."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "kroppen-3"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}

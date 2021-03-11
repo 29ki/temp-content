@@ -1,0 +1,350 @@
+{
+  "en": {
+    "id": "tacksamhet-3",
+    "alias": "tacksamhet-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_vad_sager.png"
+                }
+              },
+              {
+                "component": "Text",
+                "content": "# Tacksamhetsbrev två"
+              },
+              {
+                "component": "Text",
+                "content": "Tänk om vi kunde uppskatta oss själva på samma sätt som vi uppskattar andra? "
+              },
+              {
+                "component": "Text",
+                "content": "Tacksamhet mot andra kan stärka relationer och få andra att känna sig sedda. De flesta av oss har inte för vana att göra oss själva samma tjänst."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se andra berätta",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Emelia, 17",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.jpg"
+              },
+              {
+                "title": "Isaac, 20",
+                "duration": 29,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Tacksamhetsbrev till dig själv"
+              },
+              {
+                "component": "Text",
+                "content": "Vänd nu samma blick inåt som du förut riktade utåt. Välj ut några saker som du uppskattar med dig själv. Det kan vara saker du har gjort som du är stolt över, beslut du har fattat som du känner dig tacksam för, eller något som du har åstadkommit."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Formulera nu ett tacksamhetsmeddelande till dig själv där du berättar vad du uppskattar med dig själv. Var snäll mot dig själv, och kom ihåg att hålla ditt tacksamma perspektiv genom hela meddelandet. Skriv eller spela in någonstans där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du har nu formulerat två tacksamhetsmeddelanden, ett till någon annan och ett till dig själv. Bra jobbat. Om du känner dig redo för en extra utmaning kan du läsa upp eller visa ditt första tacksamhetsmeddelande, det till någon annan, för den du gjorde det till."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "tacksamhet-3"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "tacksamhet-3",
+    "alias": "tacksamhet-3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_vad_sager.png"
+                }
+              },
+              {
+                "component": "Text",
+                "content": "# Tacksamhetsbrev två"
+              },
+              {
+                "component": "Text",
+                "content": "Tänk om vi kunde uppskatta oss själva på samma sätt som vi uppskattar andra? "
+              },
+              {
+                "component": "Text",
+                "content": "Tacksamhet mot andra kan stärka relationer och få andra att känna sig sedda. De flesta av oss har inte för vana att göra oss själva samma tjänst."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Se andra berätta",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Emelia, 17",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.jpg"
+              },
+              {
+                "title": "Isaac, 20",
+                "duration": 29,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.jpg"
+              },
+              {
+                "title": "Laila",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Tacksamhetsbrev till dig själv"
+              },
+              {
+                "component": "Text",
+                "content": "Vänd nu samma blick inåt som du förut riktade utåt. Välj ut några saker som du uppskattar med dig själv. Det kan vara saker du har gjort som du är stolt över, beslut du har fattat som du känner dig tacksam för, eller något som du har åstadkommit."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Nästa",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Formulera nu ett tacksamhetsmeddelande till dig själv där du berättar vad du uppskattar med dig själv. Var snäll mot dig själv, och kom ihåg att hålla ditt tacksamma perspektiv genom hela meddelandet. Skriv eller spela in någonstans där bara du kan se det."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är klar",
+                "conversationId": "tacksamhet-3",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Du har nu formulerat två tacksamhetsmeddelanden, ett till någon annan och ett till dig själv. Bra jobbat. Om du känner dig redo för en extra utmaning kan du läsa upp eller visa ditt första tacksamhetsmeddelande, det till någon annan, för den du gjorde det till."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Avsluta",
+                "conversationId": "tacksamhet-3"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      }
+    ]
+  }
+}
