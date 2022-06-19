@@ -2,12 +2,12 @@
   "en": {
     "getStarted": [
       {
-        "type": "challenge",
-        "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
-      },
-      {
         "type": "single",
         "id": "68f40033-6954-4955-b2fb-55625cc593d2"
+      },
+      {
+        "type": "challenge",
+        "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
       },
       {
         "type": "challenge",
