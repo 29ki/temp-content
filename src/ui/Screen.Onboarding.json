@@ -1,0 +1,65 @@
+{
+  "en": {
+    "pages": [
+      {
+        "heading__markdown": "# Your journey ~~starts here~~",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/runner_nv0xqz.json",
+        "body": "Just downloading this app, is a BIG step towards inner development."
+      },
+      {
+        "heading__markdown": "# Bite-sized or ~~deep dive~~",
+        "body": "Do an exercise, complete a course or participate in sharing groups.",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/head_bfeqac.json"
+      },
+      {
+        "heading__markdown": "# Real growth ~~takes time~~",
+        "body": "Real change takes time and effort. Your future self will thank you.",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/blocks_ect2zl.json"
+      }
+    ],
+    "button_next": "Next",
+    "button_done": "Let's go"
+  },
+  "sv": {
+    "pages": [
+      {
+        "heading__markdown": "# Din resa ~~börjar här~~",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/runner_nv0xqz.json",
+        "body": "Bara genom att ladda ner den här appen har du påbörjat en inre upptäcktsfärd."
+      },
+      {
+        "heading__markdown": "# Provsmaka ~~eller djupdyk~~",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/head_bfeqac.json",
+        "body": "Gör en övning, gå en kurs eller dela dina tankar i en grupp."
+      },
+      {
+        "heading__markdown": "# Att utvecklas ~~tar tid~~",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/blocks_ect2zl.json",
+        "body": "Förändring händer inte över en natt. Det tar både tid och ansträngning men det kommer vara värt det!"
+      }
+    ],
+    "button_next": "Nästa",
+    "button_done": "Jag är redo"
+  },
+  "pt": {
+    "pages": [
+      {
+        "heading__markdown": "# A tua viagem ~~começa aqui~~",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/runner_nv0xqz.json",
+        "body": "Só o facto de descarregares esta aplicação, é um passo ENORME para o teu desenvolvimento interior."
+      },
+      {
+        "heading__markdown": "# Quer mergulhes de ~~cabeça, quer vás devagar~~",
+        "body": "Faz um exercício, completa um curso ou participa em grupos de partilha.",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/head_bfeqac.json"
+      },
+      {
+        "heading__markdown": "# O crescimento ~~leva tempo~~",
+        "lottie__file": "https://res.cloudinary.com/twentyninek/raw/upload/v1644436134/Onboarding/blocks_ect2zl.json",
+        "body": "A mudança leva tempo e trabalho. O teu futuro eu vai agradecer-te."
+      }
+    ],
+    "button_next": "Próximo",
+    "button_done": "Vamos lá!"
+  }
+}

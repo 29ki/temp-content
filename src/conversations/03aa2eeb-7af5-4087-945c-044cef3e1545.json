@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "03aa2eeb-7af5-4087-945c-044cef3e1545",
+    "alias": "Leadership-styles-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a74b2eac-ed80-45b5-a090-439126312a27",
+        "alias": "Inspirational motivation",
+        "title": "Inspirational Motivation",
+        "content": "The third transformational skill, **inspirational motivation**, involves leading others in a way that spurs them on to perform at the top of their game. \n\nUsing this skill allows us to inspire others to perform at a higher level by increasing their expectations of what's possible to achieve.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me an example",
+            "sectionId": "ae9b3f8d-d9fe-4666-8047-bda3a71a19c7"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ae9b3f8d-d9fe-4666-8047-bda3a71a19c7",
+        "content": "One of the key ways you can do this as a leader is by communicating an exciting vision of the future that makes others feel they can work together with you towards it. \n\nFor example:\n\n* Communicate your vision for the future of the organization or team in a way that seems achievable to others\n* Drawing on the skills you've learned thus far: tuning-in to your current situation and engaging with it and asking people how they see it. This will help you see how you can adapt and communicate your mission in a way that resonates.",
+        "title": "How can I use inspirational motivation in the real world?",
+        "alias": "Inspirational Motivation 2",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b"
+          }
+        ]
+      }
+    ],
+    "root": "a74b2eac-ed80-45b5-a090-439126312a27"
+  },
+  "sv": {
+    "id": "03aa2eeb-7af5-4087-945c-044cef3e1545",
+    "alias": "Leadership-styles-4"
+  },
+  "pt": {
+    "id": "03aa2eeb-7af5-4087-945c-044cef3e1545",
+    "alias": "Leadership-styles-4",
+    "root": "a74b2eac-ed80-45b5-a090-439126312a27",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a74b2eac-ed80-45b5-a090-439126312a27",
+        "alias": "Inspirational motivation",
+        "title": "Motivação inspiracional ",
+        "content": "A terceira competência transformadora, **motivação inspiracional**, envolve liderar os outros de uma forma que os estimule a ter o melhor desempenho possível.\n\nUsar essa competência permite-nos inspirar outros a ter um desempenho a um nível mais elevado, aumentando as suas expectativas sobre o que é possível conquistar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me um exemplo ",
+            "sectionId": "ae9b3f8d-d9fe-4666-8047-bda3a71a19c7"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ae9b3f8d-d9fe-4666-8047-bda3a71a19c7",
+        "content": "Como líder uma das principais formas de o fazer é comunicando uma visão empolgante do futuro. Esta forma de liderança faz com que os outros sintam que podem trabalhar contigo nesse sentido.\n\nPor exemplo:\n\n* Comunica a tua visão para o futuro da organização ou equipa de uma forma que pareça alcançável para os outros\n* Utilizando as competências que aprendeste até agora: sintonizares-te com a tua situação atual, interagir e perguntar às pessoas como elas a veem. Isto vai ajudar-te a ver como poderás adaptar-te e comunicar a tua missão de forma a que os outros se identifiquem com ela.",
+        "title": "Como posso usar a motivação inspiracional no mundo real? ",
+        "alias": "Inspirational Motivation 2",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b"
+          }
+        ]
+      }
+    ]
+  }
+}

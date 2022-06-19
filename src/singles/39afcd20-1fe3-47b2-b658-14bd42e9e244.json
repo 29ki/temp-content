@@ -1,0 +1,95 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Body scan for sleep",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620304875/Illustrations_Meditations/Thumbnail_Opening_up_a4ojnd.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 13
+    },
+    "version": 1,
+    "tags": [
+      "Sleep"
+    ],
+    "type": "meditation",
+    "id": "39afcd20-1fe3-47b2-b658-14bd42e9e244",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": 3
+    },
+    "wip": false,
+    "stations": [
+      {
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "c9a9e342-200a-4b64-8768-8e7e759c5544",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620303406/Illustrations_Meditations/Heading_Opening_up_uemxce.png",
+            "title": "Body scan for sleep",
+            "description": "This is a guided body scan meditation that can help prepare you for sleep.\n\nFind a comfortable place to lay down, and press play to start.\n\n*Created by Diana Winston for the [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/), ©2011- 2022 The UC Regents.*",
+            "buttonText": "I'm done",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1654688081/Meditations/Body-Scan-for-Sleep_svrtg7.mp3"
+          }
+        ],
+        "id": "8b9090f8-e901-4bfd-a524-9578e9ca6455",
+        "name": "Body scan for sleep"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "duration": {
+      "type": "minute",
+      "count": 13
+    },
+    "type": "meditation",
+    "id": "39afcd20-1fe3-47b2-b658-14bd42e9e244",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "duration": {
+      "type": "minute",
+      "count": 13
+    },
+    "type": "meditation",
+    "id": "39afcd20-1fe3-47b2-b658-14bd42e9e244",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  }
+}

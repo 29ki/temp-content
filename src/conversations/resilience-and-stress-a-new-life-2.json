@@ -1,0 +1,236 @@
+{
+  "en": {
+    "id": "resilience-and-stress-a-new-life-2",
+    "alias": "resilience-and-stress-a-new-life-2",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Life from now on",
+        "content": "Througout this course, you've been asked to reflect on what matters most in your life. \n\nNow it's time to see how those values can be implemented in your life in a way that will create **real change.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "7739c9b5-8725-4660-b8df-d84d0b56faad"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628079395/Stress/karine-avetisyan-ipuiM-36tAg-unsplash_uqrtjl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7739c9b5-8725-4660-b8df-d84d0b56faad",
+        "content": "When we want to make life changes, we can take certain steps to make it easier. \n\nWe start by reflecting on our deepest **values**, then we set up **goals**, then we take concrete **actions.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's do it",
+            "sectionId": "section5"
+          }
+        ],
+        "alias": "Intro 2"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "longDescription": "Write down your answers. Our suggestion is that you use them as a manual for how to live your life going forward.\n\n1. Think about an **area** in your life that needs **change**.\n2. Is there a specific life **value** that could **guide** you?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "de7fec4f-2c23-494e-a428-eacc472cc5bd"
+          }
+        ],
+        "shortDescription": ""
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "de7fec4f-2c23-494e-a428-eacc472cc5bd",
+        "longDescription": "3. Related to that value, name a **concrete** **goal** you'd like to complete in one year’s time. Remember that good goals are **specific** and can be ticked off. \n4. How would reaching the goal **impact** your life?\n5. Identify what specific **behaviors** you need to start doing today, that will help you achieve your goal (or a sub-goal).",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Exercise pt2"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "Your plan",
+        "content": "So now you’ve made a **plan** for where you want to be in a year, and what you need to do to get there. That’s great!\n\nBy rticulating **specific** **behaviors** towards long-term goals and values, you are one step closer to achieving them.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continue",
+            "conversationId": "resilience-and-stress-a-new-life-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-a-new-life-2",
+    "alias": "resilience-and-stress-a-new-life-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Livet från och med idag",
+        "content": "Under kursens gång har du fått reflektera över vad som är viktigast i ditt liv. \n\nNu är det dags att se hur dessa livsvärden kan omsättas så att de leder till **verklig** **förändring**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "6c616e21-712b-4a0b-92dd-589e27a8e3f1"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628079395/Stress/karine-avetisyan-ipuiM-36tAg-unsplash_uqrtjl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6c616e21-712b-4a0b-92dd-589e27a8e3f1",
+        "content": "När vi vill göra **livsförändringar** kan vi ta vissa steg för att göra det enklare för oss.\n\nVi börjar med att reflektera över våra djupaste **värderingar**, sätter sedan upp **mål** och slutligen genomför vi konkreta **handlingar**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Intro 2"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "writing",
+        "title": "Övning",
+        "time": "",
+        "longDescription": "Skriv ner dina svar. Vårt förslag är att du använder dem framöver som en manual för hur du vill leva ditt liv.\n\n1. Tänk på ett **område** i ditt liv som behöver **förändring**. \n2. Finns det en specifik **värdering** som kan **vägleda** dig?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "0a66b758-c757-456d-a238-22abbf82ff6d"
+          }
+        ],
+        "shortDescription": ""
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "0a66b758-c757-456d-a238-22abbf82ff6d",
+        "longDescription": "3. Baserat på den värderingen, sätt ord på ett **konkret** **mål** du skulle vilja ha uppnått inom ett år. Kom ihåg att bra mål är **specifika** och kan bockas av. \n4. Om du uppnådde ditt mål, hur skulle det **påverka** ditt liv?\n5. Identifiera de specifika **beteenden** du behöver göra från och med idag som skulle kunna hjälpa dig att uppnå ditt mål (eller ett delmål).",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "video",
+        "title": "Jag om ett år från idag",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "7df9ad1a-f884-4595-bed1-3b75a35c71b3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_ettnyttliv_ovning.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622489638/Hantera%20Stress%20Adult/ettnyttliv_o%CC%88vning_c5wigu.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7df9ad1a-f884-4595-bed1-3b75a35c71b3",
+        "content": "Nu har du skapat en **plan** för dig själv. En plan för vad du vill ha uppnått inom ett år, och vad du behöver göra för att komma dit. Strålande! \n\nAtt tydliggöra **konkreta** **handlingar** som hjälper dig nå dina långsiktiga mål och värderingar är ett steg närmare mot att faktiskt uppnå dem.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Nästa",
+            "conversationId": "resilience-and-stress-a-new-life-3"
+          }
+        ],
+        "title": "Din plan"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-a-new-life-2",
+    "alias": "resilience-and-stress-a-new-life-2",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "A vida a partir de agora",
+        "content": "Anteriormente, refletiste sobre o que é mais importante na tua vida. Agora está na altura de ver como podes implementar esses valores na tua vida de forma a que tragam uma mudança real.\n\nQuando queremos fazer mudanças na vida, podemos olhar para elas como uma sequência. Podemos começar por refletir sobre os nossos valores mais profundos e deixar que estes decidam os nossos objetivos e ações concretas.\n\nAgora, pensa numa área da vida onde sentes uma necessidade de mudança. O intervalo de tempo, neste caso, será daqui a um ano, ou mais, se achares que é necessário.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "writing",
+        "title": "Eu daqui a um ano",
+        "time": "10 min",
+        "longDescription": "1. Pensa numa área da tua vida que precisa de mudar. Algum valor em específico poderá guiar o teu caminho?\n2. Agora, define um objetivo relacionado que gostarias de concluir num ano. Lembra-te de que os objetivos bem definidos são específicos e podem ser riscados de uma lista. Além disso, pensa como é que a tua vida seria afetada ao atingires esse objetivo. \n3. Identifica os comportamentos específicos que precisas de ter, a partir de hoje, para atingires um dos teus objetivos ou sub-objetivos. Talvez precises de procurar alguma informação na Internet ou ligar a uma amiga ou a um amigo.\n\nEscreve as tuas respostas numa folha de papel como se fossem instruções para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "O teu plano",
+        "content": "Agora já tens um plano para ti que define onde queres estar daqui a um ano e o que precisas de fazer para lá chegar. Isso é ótimo. Articular comportamentos específicos em direção a objetivos e valores a longo prazo é um passo muito importante para os alcançar.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-a-new-life-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

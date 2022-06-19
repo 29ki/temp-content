@@ -1,0 +1,413 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "(Russian) Coping with crisis",
+    "about": {
+      "body": "**Вы не одиноки.** Иногда мы находимся в ситуациях, которых никогда не ожидали. Это могут быть личные проблемы, события в мире или и те, и другие одновременно.\n\nКогда это **происходит,** то нет ничего странного в том, что вы испытываете сильные эмоции, например – **беспокойство.**\n\n**Переживание трудных эмоций** может подтолкнуть нас к созидательным действиям. Но зачастую мы застреваем в нашем беспокойстве и ведём себя так, что в итоге чувствуем себя ещё хуже.\n\nВ этом курсе вы изучите ряд **психологических инструментов,** которые гарантировано снижают последствия смятения, беспокойства и стресса.",
+      "howThisWorks": "### Как это действует\n\n* этот курс состоит из 3 уроков\n* Один урок в неделю\n* Один видеобмен в неделю",
+      "courseValue": "### Чему я научусь?\n\n* Повысите пособность решать проблемы\n* Получите навык воспринимать ситуацию такой, какова она есть\n* Ввстречать трудные эмоции и переживания",
+      "createdBy": {
+        "text": "Курс **Как справиться с кризисом** основан на методе **Терапия принятия и обязательств** (ACT), который разработан профессором Стивеном Хэйзом и его коллегами.   \n\nКурс был создан психологами в компании **29k** в сотрудничестве с преподавателями и исследователями из Каролинского института в Стокгольме, Швеция.",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Как справиться с кризисом\n\nВы находитесь в затруднительном положении, опасаясь того, что несёт с собой будущее? Этот курс даст вам инструменты для того, чтобы лучше справиться с изменением и поступать разумно.",
+
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "80bf6753-ec5c-444e-946e-81dcc96965c0",
+    "lessons": [
+      {
+        "version": 1,
+        "wip": false,
+        "id": "60de456c-6544-4b67-b9cc-9f8d900775c5",
+        "conversations": [
+          {
+            "title": "Вы не одиноки",
+            "conversationId": "95a4c3a6-bfb3-4c43-ad54-467c70c12cbc"
+          },
+          {
+            "title": "Не кормите чудовище",
+            "conversationId": "e781141c-04e2-4015-b88f-763e56038700"
+          },
+          {
+            "title": "Вырваться из петли беспокойства",
+            "conversationId": "21af69f0-901f-4115-99b4-f1ef0e66b141"
+          }
+        ],
+        "name": "Вырваться из петли беспокойства",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        },
+        "description": "Узнай эффективные методы борьбы с беспокойством"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "9f30d922-b2c3-4783-ac02-4b2643177909",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        },
+        "name": "Принять то, что мы не можем изменить",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Принять жизнь",
+            "conversationId": "182c4397-ef6c-46d4-977e-f7272e67232c"
+          },
+          {
+            "title": "Наши эмоции не могут навредить нам",
+            "conversationId": "e8a57c79-650f-400a-95f4-ba85497897da"
+          },
+          {
+            "title": "Выгоды от открытости эмоциям",
+            "conversationId": "082b2fbb-4feb-4ff8-990e-2a954118b6e2"
+          }
+        ],
+        "description": "Найдите пути, как принять трудные и болезненные переживания"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "58fac1cd-7e9a-45ad-871c-d15480b34dfb",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        },
+        "name": "Действуй, чтобы измениться",
+        "description": "Сделайте шаги в осознанном направлении, когда вы столкнулись с препятствиями.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Действуй, чтобы измениться 1",
+            "conversationId": "d12e3558-86e3-456a-a31f-0f6b6ac24b28"
+          },
+          {
+            "title": "Действуй, чтобы измениться 2",
+            "conversationId": "5a5c9207-0779-443e-8e36-d682f4400d0c"
+          },
+          {
+            "title": "Действуй, чтобы измениться 3",
+            "conversationId": "5b9e28d9-430f-434c-82f0-c800a3b3f836"
+          }
+        ]
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "name": "(Russian) Coping with crisis",
+    "about": {
+      "body": "**Вы не одиноки.** Иногда мы находимся в ситуациях, которых никогда не ожидали. Это могут быть личные проблемы, события в мире или и те, и другие одновременно.\n\nКогда это **происходит,** то нет ничего странного в том, что вы испытываете сильные эмоции, например – **беспокойство.**\n\n**Переживание трудных эмоций** может подтолкнуть нас к созидательным действиям. Но зачастую мы застреваем в нашем беспокойстве и ведём себя так, что в итоге чувствуем себя ещё хуже.\n\nВ этом курсе вы изучите ряд **психологических инструментов,** которые гарантировано снижают последствия смятения, беспокойства и стресса.",
+      "howThisWorks": "### Как это действует\n\n* этот курс состоит из 3 уроков\n* Один урок в неделю\n* Один видеобмен в неделю",
+      "courseValue": "### Чему я научусь?\n\n* Повысите пособность решать проблемы\n* Получите навык воспринимать ситуацию такой, какова она есть\n* Ввстречать трудные эмоции и переживания",
+      "createdBy": {
+        "text": "Курс **Как справиться с кризисом** основан на методе **Терапия принятия и обязательств** (ACT), который разработан профессором Стивеном Хэйзом и его коллегами.   \n\nКурс был создан психологами в компании **29k** в сотрудничестве с преподавателями и исследователями из Каролинского института в Стокгольме, Швеция.",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Как справиться с кризисом\n\nВы находитесь в затруднительном положении, опасаясь того, что несёт с собой будущее? Этот курс даст вам инструменты для того, чтобы лучше справиться с изменением и поступать разумно.",
+
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "80bf6753-ec5c-444e-946e-81dcc96965c0",
+    "lessons": [
+      {
+        "version": 1,
+        "wip": false,
+        "id": "60de456c-6544-4b67-b9cc-9f8d900775c5",
+        "conversations": [
+          {
+            "title": "Вы не одиноки",
+            "conversationId": "95a4c3a6-bfb3-4c43-ad54-467c70c12cbc"
+          },
+          {
+            "title": "Не кормите чудовище",
+            "conversationId": "e781141c-04e2-4015-b88f-763e56038700"
+          },
+          {
+            "title": "Вырваться из петли беспокойства",
+            "conversationId": "21af69f0-901f-4115-99b4-f1ef0e66b141"
+          }
+        ],
+        "name": "Вырваться из петли беспокойства",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        },
+        "description": "Узнай эффективные методы борьбы с беспокойством"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "9f30d922-b2c3-4783-ac02-4b2643177909",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        },
+        "name": "Принять то, что мы не можем изменить",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Принять жизнь",
+            "conversationId": "182c4397-ef6c-46d4-977e-f7272e67232c"
+          },
+          {
+            "title": "Наши эмоции не могут навредить нам",
+            "conversationId": "e8a57c79-650f-400a-95f4-ba85497897da"
+          },
+          {
+            "title": "Выгоды от открытости эмоциям",
+            "conversationId": "082b2fbb-4feb-4ff8-990e-2a954118b6e2"
+          }
+        ],
+        "description": "Найдите пути, как принять трудные и болезненные переживания"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "58fac1cd-7e9a-45ad-871c-d15480b34dfb",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        },
+        "name": "Действуй, чтобы измениться",
+        "description": "Сделайте шаги в осознанном направлении, когда вы столкнулись с препятствиями.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Действуй, чтобы измениться 1",
+            "conversationId": "d12e3558-86e3-456a-a31f-0f6b6ac24b28"
+          },
+          {
+            "title": "Действуй, чтобы измениться 2",
+            "conversationId": "5a5c9207-0779-443e-8e36-d682f4400d0c"
+          },
+          {
+            "title": "Действуй, чтобы измениться 3",
+            "conversationId": "5b9e28d9-430f-434c-82f0-c800a3b3f836"
+          }
+        ]
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+
+    "name": "(Russian) Coping with crisis",
+    "about": {
+      "body": "**Вы не одиноки.** Иногда мы находимся в ситуациях, которых никогда не ожидали. Это могут быть личные проблемы, события в мире или и те, и другие одновременно.\n\nКогда это **происходит,** то нет ничего странного в том, что вы испытываете сильные эмоции, например – **беспокойство.**\n\n**Переживание трудных эмоций** может подтолкнуть нас к созидательным действиям. Но зачастую мы застреваем в нашем беспокойстве и ведём себя так, что в итоге чувствуем себя ещё хуже.\n\nВ этом курсе вы изучите ряд **психологических инструментов,** которые гарантировано снижают последствия смятения, беспокойства и стресса.",
+      "howThisWorks": "### Как это действует\n\n* этот курс состоит из 3 уроков\n* Один урок в неделю\n* Один видеобмен в неделю",
+      "courseValue": "### Чему я научусь?\n\n* Повысите пособность решать проблемы\n* Получите навык воспринимать ситуацию такой, какова она есть\n* Ввстречать трудные эмоции и переживания",
+      "createdBy": {
+        "text": "Курс **Как справиться с кризисом** основан на методе **Терапия принятия и обязательств** (ACT), который разработан профессором Стивеном Хэйзом и его коллегами.   \n\nКурс был создан психологами в компании **29k** в сотрудничестве с преподавателями и исследователями из Каролинского института в Стокгольме, Швеция.",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Как справиться с кризисом\n\nВы находитесь в затруднительном положении, опасаясь того, что несёт с собой будущее? Этот курс даст вам инструменты для того, чтобы лучше справиться с изменением и поступать разумно.",
+
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "80bf6753-ec5c-444e-946e-81dcc96965c0",
+    "lessons": [
+      {
+        "version": 1,
+        "wip": false,
+        "id": "60de456c-6544-4b67-b9cc-9f8d900775c5",
+        "conversations": [
+          {
+            "title": "Вы не одиноки",
+            "conversationId": "95a4c3a6-bfb3-4c43-ad54-467c70c12cbc"
+          },
+          {
+            "title": "Не кормите чудовище",
+            "conversationId": "e781141c-04e2-4015-b88f-763e56038700"
+          },
+          {
+            "title": "Вырваться из петли беспокойства",
+            "conversationId": "21af69f0-901f-4115-99b4-f1ef0e66b141"
+          }
+        ],
+        "name": "Вырваться из петли беспокойства",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        },
+        "description": "Узнай эффективные методы борьбы с беспокойством"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "9f30d922-b2c3-4783-ac02-4b2643177909",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        },
+        "name": "Принять то, что мы не можем изменить",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Принять жизнь",
+            "conversationId": "182c4397-ef6c-46d4-977e-f7272e67232c"
+          },
+          {
+            "title": "Наши эмоции не могут навредить нам",
+            "conversationId": "e8a57c79-650f-400a-95f4-ba85497897da"
+          },
+          {
+            "title": "Выгоды от открытости эмоциям",
+            "conversationId": "082b2fbb-4feb-4ff8-990e-2a954118b6e2"
+          }
+        ],
+        "description": "Найдите пути, как принять трудные и болезненные переживания"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "58fac1cd-7e9a-45ad-871c-d15480b34dfb",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        },
+        "name": "Действуй, чтобы измениться",
+        "description": "Сделайте шаги в осознанном направлении, когда вы столкнулись с препятствиями.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Действуй, чтобы измениться 1",
+            "conversationId": "d12e3558-86e3-456a-a31f-0f6b6ac24b28"
+          },
+          {
+            "title": "Действуй, чтобы измениться 2",
+            "conversationId": "5a5c9207-0779-443e-8e36-d682f4400d0c"
+          },
+          {
+            "title": "Действуй, чтобы измениться 3",
+            "conversationId": "5b9e28d9-430f-434c-82f0-c800a3b3f836"
+          }
+        ]
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  }
+}

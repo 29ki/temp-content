@@ -1,0 +1,351 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "Meaning-making in a crisis",
+    "about": {
+      "courseValue": "#### What will I learn?\n\n* Guide to finding your values\n* Live a more meaningful life\n* Acceptance\n* Opening up to life\n",
+      "howThisWorks": "#### How this works\n\n* This course takes 4 weeks to complete\n* One lesson per week\n* One video sharing per week",
+      "body": "In our everyday life, we can easily lose touch with what matters to us, especially when we’re dealing with a challenging situation or going through a crisis. That is also when we tend to give up on activities that recharge our batteries.\n\nConnecting to our deepest values is a powerful tool that helps us take meaningful actions in any area of our life. Even when the world around us seems ‘upside down’, we have the opportunity to reboot our lives and lead them in a more meaningful direction.",
+      "createdBy": {
+        "text": ""
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Meaning_making_in_a_crisis_oercey.png"
+    },
+    "cta": "Take the first step on a journey to a more meaningful life in these times of turmoil, based on what really matters to you.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "a7c3b6cd-8b69-43ce-992e-ad19b00161b9",
+    "lessons": [
+      {
+        "id": "6521d17a-0e3a-43c5-82b2-bf289bc1bda1",
+        "name": "Finding meaning",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081207/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Finding%20meaning.png"
+        },
+        "index": 0,
+        "description": "This lesson is about connecting to your values and learning how to live in close alignment with what matters to you the most. Let’s dive right in!",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "XJ1RY67jbHe9Cu44tbtfBn",
+            "title": "Finding meaning"
+          }
+        ]
+      },
+      {
+        "id": "43d1d1e2-fb68-42d0-800e-eb61aa72360a",
+        "name": "Navigating stormy seas",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Navigating%20stormy%20seas.png"
+        },
+        "index": 1,
+        "description": "In this second lesson, you will be encouraged to put in writing what’s most important to you and how you want to be in life. Connecting to your values will help you calibrate your inner compass and navigate through the stormy seas.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "QajZF5P5DVy8wdjN4qVjk3",
+            "title": "Navigating stormy seas"
+          }
+        ]
+      },
+      {
+        "id": "b4ee034a-3bbc-4e1d-9b59-789f762c05bf",
+        "name": "Acceptance",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Acceptance.png"
+        },
+        "index": 2,
+        "description": "In this lesson, you will explore how to drive your life in your chosen direction, even in the face of adversity.",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "9Csy1WUmCjgtanJJ9NhgXM",
+            "title": "Acceptance"
+          }
+        ]
+      },
+      {
+        "id": "7c3069a9-9ba8-4b70-b3cd-d3f0c16a53af",
+        "name": "Making change",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Making%20change.png"
+        },
+        "index": 3,
+        "description": "This lesson is about turning your values into concrete actions and driving positive change in this world.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "HFjEHiYQQE8a4v7UxgMrZn",
+            "title": "Making change"
+          }
+        ]
+      }
+    ],
+    "difficulty": "Beginner",
+    "rating": {
+      "count": 30,
+      "rating": 4.6
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Meaning_making_in_a_crisis_oercey.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "name": "Hitta mening när livet vänder",
+    "about": {
+      "courseValue": "#### Vad lär jag mig?\n\n* Hitta dina värderingar\n* Leva ett mer meningsfullt liv\n* Acceptera det som pågår på insidan\n* Att öppna dig för det livet erbjuder",
+      "howThisWorks": "#### Så fungerar det\n\n* Kursen tar fyra veckor\n* En lektion per vecka\n* En gruppdelning per vecka",
+      "body": "I vardagen kan vi lätt tappa kontakt med det som betyder något för oss, särskilt när vi är i en utmanande situation eller en kris. Det är också då vi tenderar att ge upp aktiviteter som annars laddar våra batterier.\n\nAtt låta värderingar styra våra beteenden kan hjälpa oss att leva ett mer meningsfullt liv, även när världen omkring oss känns upp och ner."
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Meaning_making_in_a_crisis_oercey.png"
+    },
+    "cta": "Ta steg mot ett mer meningsfullt liv även i oroliga tider",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "a7c3b6cd-8b69-43ce-992e-ad19b00161b9",
+    "lessons": [
+      {
+        "id": "6521d17a-0e3a-43c5-82b2-bf289bc1bda1",
+        "name": "Ett meningsfullt liv",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081207/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Finding%20meaning.png"
+        },
+        "index": 0,
+        "description": "Identifiera dina värderingar",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "XJ1RY67jbHe9Cu44tbtfBn",
+            "title": "Ett meningsfullt liv"
+          }
+        ]
+      },
+      {
+        "id": "43d1d1e2-fb68-42d0-800e-eb61aa72360a",
+        "name": "Navigera på stormiga hav",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Navigating%20stormy%20seas.png"
+        },
+        "index": 1,
+        "description": "Fundera på vad som är viktigt för dig i livet och navigera efter din inre kompass",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "QajZF5P5DVy8wdjN4qVjk3",
+            "title": "Navigera på stormiga hav"
+          }
+        ]
+      },
+      {
+        "id": "b4ee034a-3bbc-4e1d-9b59-789f762c05bf",
+        "name": "Acceptans",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Acceptance.png"
+        },
+        "index": 2,
+        "description": "Styr ditt liv i den riktning du har valt, även när du möter motgångar",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "9Csy1WUmCjgtanJJ9NhgXM",
+            "title": "Acceptans"
+          }
+        ]
+      },
+      {
+        "id": "7c3069a9-9ba8-4b70-b3cd-d3f0c16a53af",
+        "name": "Förändra",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Making%20change.png"
+        },
+        "index": 3,
+        "description": "Omvandla värderingar till konkreta beteenden",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "HFjEHiYQQE8a4v7UxgMrZn",
+            "title": "Förändra"
+          }
+        ]
+      }
+    ],
+    "difficulty": "Beginner",
+    "rating": {
+      "count": 30,
+      "rating": 4.6
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Meaning_making_in_a_crisis_oercey.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "Carlos Oliveira",
+      "name": "Carlos Oliveira"
+    },
+    "name": "Encontrar significado nas dificuldades",
+    "about": {
+      "courseValue": "#### O que vou aprender?\n\n* Um guia para encontrares os teus valores\n* Viver uma vida com mais significado\n* Aceitação\n* Fazer a mudança",
+      "howThisWorks": "#### Como funciona o curso\n\n* Este curso demora 4 semanas a completar\n* Uma lição por semana\n* Uma sessão de partilha por vídeo todas as semanas",
+      "body": "Na nossa vida diária, facilmente perdemos a noção do que é realmente importante para nós, principalmente quando estamos a lidar com uma situação complicada ou a atravessar uma crise. É nestas alturas que temos tendência para abandonar as atividades que nos permitem recarregar as baterias.\n\nConectarmo-nos com os nossos valores mais profundos é uma ferramenta poderosa que nos ajuda a adotar ações com mais significado em qualquer área da nossa vida. Mesmo quando o mundo à nossa volta parece estar de cabeça para baixo, temos a oportunidade de reiniciar a nossa vida levando-a numa direção com mais significado.",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com Carlos Oliveira"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958192/29k%20FJN/Courses/Menu%20Thumbnails/Carlos_Menu01final_vhvbai.jpg"
+    },
+    "cta": "Nestes tempos difíceis, dá o primeiro passo na caminhada para uma vida com mais significado e baseada no que é realmente importante para ti.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "a7c3b6cd-8b69-43ce-992e-ad19b00161b9",
+    "lessons": [
+      {
+        "id": "6521d17a-0e3a-43c5-82b2-bf289bc1bda1",
+        "name": "Um guia para encontrares os teus valores",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081207/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Finding%20meaning.png"
+        },
+        "index": 0,
+        "description": "Esta lição é sobre como te ligares aos teus valores e viveres alinhada/o com o que é mais importante para ti. Vamos começar!",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "XJ1RY67jbHe9Cu44tbtfBn",
+            "title": "Um guia para encontrares os teus valores"
+          }
+        ]
+      },
+      {
+        "id": "43d1d1e2-fb68-42d0-800e-eb61aa72360a",
+        "name": "Viver uma vida com mais significado",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Navigating%20stormy%20seas.png"
+        },
+        "index": 1,
+        "description": "Nesta segunda lição, vais ser encorajada/o a descrever o que é mais importante para ti e como desejas estar na vida. Conectares-te aos teus valores vai ajudar-te a calibrares a tua bússola interna e a navegar por mares tempestuosos.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "QajZF5P5DVy8wdjN4qVjk3",
+            "title": "Viver uma vida com mais significado"
+          }
+        ]
+      },
+      {
+        "id": "b4ee034a-3bbc-4e1d-9b59-789f762c05bf",
+        "name": "Aceitação",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Acceptance.png"
+        },
+        "index": 2,
+        "description": "Nesta lição, vais explorar como conduzir a tua vida na direção que escolheste, mesmo que isso represente enfrentar um conjunto de adversidades.",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "9Csy1WUmCjgtanJJ9NhgXM",
+            "title": "Aceitação"
+          }
+        ]
+      },
+      {
+        "id": "7c3069a9-9ba8-4b70-b3cd-d3f0c16a53af",
+        "name": "Fazer a mudança",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081206/New_images/courses%20png/Meaning-Making%20in%20a%20Crisis%20-%20lesson%20illustrations/Making%20change.png"
+        },
+        "index": 3,
+        "description": "Nesta lição, vais focar-te na transformação dos teus valores em ações concretas para gerar mudanças positivas no mundo.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "HFjEHiYQQE8a4v7UxgMrZn",
+            "title": "Fazer a mudança"
+          }
+        ]
+      }
+    ],
+    "difficulty": "Beginner",
+    "rating": {
+      "count": 30,
+      "rating": 4.6
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855830/29k%20FJN/Courses/Meaning%20Making/Photos/coursecover_meaningmakinginacrisis_grloye.jpg"
+    }
+  }
+}

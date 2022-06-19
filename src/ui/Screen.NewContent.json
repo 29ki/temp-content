@@ -1,0 +1,38 @@
+{
+  "en": {
+    "screenTitle": "New",
+    "sectionTitles": {
+      "exercise": "Exercises",
+      "course": "Courses",
+      "meditation": "Meditations",
+      "test": "Tests",
+      "lesson": "Lessons",
+      "challenge": "Challenges",
+      "checkin": "Check-ins"
+    }
+  },
+  "sv": {
+    "screenTitle": "Nytt",
+    "sectionTitles": {
+      "exercise": "Övningar",
+      "course": "Kurser",
+      "meditation": "Meditationer",
+      "test": "Tester",
+      "lesson": "Lektioner",
+      "challenge": "Utmaningar",
+      "checkin": "Check-ins"
+    }
+  },
+  "pt": {
+    "screenTitle": "Novo",
+    "sectionTitles": {
+      "exercise": "Exercícios",
+      "course": "Cursos",
+      "meditation": "Meditações",
+      "test": "Testes",
+      "lesson": "Lições",
+      "challenge": "Desafios",
+      "checkin": "Check-ins"
+    }
+  }
+}

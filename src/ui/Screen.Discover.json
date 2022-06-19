@@ -1,0 +1,81 @@
+{
+  "en": {
+    "sectionTitles": {
+      "all": "All",
+      "lesson": "Lesson",
+      "meditation": "Meditations",
+      "course": "Courses",
+      "exercise": "Exercises",
+      "test": "Tests",
+      "challenge": "Challenges",
+      "checkin": "Check-ins"
+    },
+    "new": "New",
+    "started": "Started",
+    "suggested": "Suggested",
+    "suggestions": "Suggestions",
+    "noStartedContentImage": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1655459420/New_images/UI/noStartedContentImage_jn12x6.png",
+    "missing": {
+      "text": "Missing something?",
+      "cta": "Let us know"
+    },
+    "completed": "Completed",
+    "screenTitle": "Discover",
+    "seeAll": "See all",
+    "paused": "Paused",
+    "favorites": "Favorites",
+    "recents": "Recents"
+  },
+  "sv": {
+    "sectionTitles": {
+      "all": "Alla",
+      "lesson": "Lektioner",
+      "meditation": "Meditationer",
+      "course": "Kurser",
+      "exercise": "Övningar",
+      "test": "Tester",
+      "challenge": "Utmaningar",
+      "checkin": "Check-ins"
+    },
+    "new": "Nytt",
+    "started": "Startade",
+    "suggested": "Förslag",
+    "suggestions": "Förslag",
+    "missing": {
+      "text": "Saknar du något?",
+      "cta": "Hör av dig"
+    },
+    "completed": "Avslutade",
+    "screenTitle": "Upptäck",
+    "seeAll": "Se alla",
+    "paused": "Pausade",
+    "favorites": "Favoriter",
+    "recents": "Senaste"
+  },
+  "pt": {
+    "sectionTitles": {
+      "all": "Tudo",
+      "lesson": "Lições",
+      "meditation": "Meditações",
+      "course": "Cursos",
+      "exercise": "Exercícios",
+      "test": "Testes",
+      "challenge": "Desafios",
+      "checkin": "Check-ins"
+    },
+    "new": "Novo",
+    "started": "Iniciado",
+    "suggested": "Sugestões",
+    "suggestions": "Sugestões",
+    "missing": {
+      "text": "Falta-te alguma coisa?",
+      "cta": "Diz-nos"
+    },
+    "completed": "Completo",
+    "screenTitle": "Explora",
+    "seeAll": "Ver tudo",
+    "paused": "Em pausa",
+    "favorites": "Favoritos",
+    "recents": "Recentes"
+  }
+}

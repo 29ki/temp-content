@@ -1,0 +1,209 @@
+{
+  "en": {
+    "id": "95a4c3a6-bfb3-4c43-ad54-467c70c12cbc",
+    "alias": "RUS: Coping with crisis 1: Snap out of anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg",
+        "title": "Вы не одиноки",
+        "content": "Иногда мы находимся в ситуациях, которых **мы не ожидали**. Это могут быть личные проблемы, события в мире или и те, и другие одновременно.\n\nКогда это происходит, **то нет ничего странного** в том, что вы испытываете **сильные эмоции**, например – беспокойство.\n\nСегодня вы сможете узнать о психологических инструментах, которые гарантировано снижают смятение, беспокойство и стресс.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готов",
+            "sectionId": "e44477ff-f7c9-438d-9ff4-d540540100c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e44477ff-f7c9-438d-9ff4-d540540100c4",
+        "alias": "Table of content",
+        "content": "### Узнать больше:\n\n* Осознанное дыхание\n* Не кормите чудовище\n* Вырвитесь из петли беспокойства\n\n### Вам понадобятся:\n\n* 20 минут\n* Бумага и ручка",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Поехали!",
+            "sectionId": "cfac664e-d9d5-4f46-9903-1d1494fca6f9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "cfac664e-d9d5-4f46-9903-1d1494fca6f9",
+        "longDescription": "Уделите минутку на то, чтобы **настроиться на** себя.\n\n* Как вы **чувствуете себя** именно в этот момент? \n* Что у вас на **уме?** \n* Как вы ощущаете своё **тело?** \n* Как вы ощущаете себя в вашей **жизни?**\n\nЗапишите свои ответы.",
+        "alias": "Writing exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продолжить",
+            "sectionId": "1e9f7964-bba2-4a8f-b297-0242b06d2003"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1e9f7964-bba2-4a8f-b297-0242b06d2003",
+        "alias": "Meditation",
+        "title": "Размышление",
+        "description": "Когда мы находимся в состоянии стресса и беспокойства, **осознанное дыхание** помогает нам постепенно успокоиться, сосредоточиться на текущем моменте и достичь ясности.\n\nНажмите **играть,** чтобы начать.",
+        "duration": 202,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/1_Slow_full_breathing_-_Russian_xzgadf.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "e781141c-04e2-4015-b88f-763e56038700",
+            "content": "Я завершил"
+          }
+        ]
+      }
+    ],
+    "root": "9ceae336-07ae-4fb6-9583-e1eb09564dd4"
+  },
+  "sv": {
+    "id": "95a4c3a6-bfb3-4c43-ad54-467c70c12cbc",
+    "alias": "RUS: Coping with crisis 1: Snap out of anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg",
+        "title": "Вы не одиноки",
+        "content": "Иногда мы находимся в ситуациях, которых **мы не ожидали**. Это могут быть личные проблемы, события в мире или и те, и другие одновременно.\n\nКогда это происходит, **то нет ничего странного** в том, что вы испытываете **сильные эмоции**, например – беспокойство.\n\nСегодня вы сможете узнать о психологических инструментах, которые гарантировано снижают смятение, беспокойство и стресс.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готов",
+            "sectionId": "e44477ff-f7c9-438d-9ff4-d540540100c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e44477ff-f7c9-438d-9ff4-d540540100c4",
+        "alias": "Table of content",
+        "content": "### Узнать больше:\n\n* Осознанное дыхание\n* Не кормите чудовище\n* Вырвитесь из петли беспокойства\n\n### Вам понадобятся:\n\n* 20 минут\n* Бумага и ручка",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Поехали!",
+            "sectionId": "cfac664e-d9d5-4f46-9903-1d1494fca6f9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "cfac664e-d9d5-4f46-9903-1d1494fca6f9",
+        "longDescription": "Уделите минутку на то, чтобы **настроиться на** себя.\n\n* Как вы **чувствуете себя** именно в этот момент? \n* Что у вас на **уме?** \n* Как вы ощущаете своё **тело?** \n* Как вы ощущаете себя в вашей **жизни?**\n\nЗапишите свои ответы.",
+        "alias": "Writing exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продолжить",
+            "sectionId": "1e9f7964-bba2-4a8f-b297-0242b06d2003"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1e9f7964-bba2-4a8f-b297-0242b06d2003",
+        "alias": "Meditation",
+        "title": "Размышление",
+        "description": "Когда мы находимся в состоянии стресса и беспокойства, **осознанное дыхание** помогает нам постепенно успокоиться, сосредоточиться на текущем моменте и достичь ясности.\n\nНажмите **играть,** чтобы начать.",
+        "duration": 202,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/1_Slow_full_breathing_-_Russian_xzgadf.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "e781141c-04e2-4015-b88f-763e56038700",
+            "content": "Я завершил"
+          }
+        ]
+      }
+    ],
+    "root": "9ceae336-07ae-4fb6-9583-e1eb09564dd4"
+  },
+  "pt": {
+    "id": "95a4c3a6-bfb3-4c43-ad54-467c70c12cbc",
+    "alias": "RUS: Coping with crisis 1: Snap out of anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg",
+        "title": "Вы не одиноки",
+        "content": "Иногда мы находимся в ситуациях, которых **мы не ожидали**. Это могут быть личные проблемы, события в мире или и те, и другие одновременно.\n\nКогда это происходит, **то нет ничего странного** в том, что вы испытываете **сильные эмоции**, например – беспокойство.\n\nСегодня вы сможете узнать о психологических инструментах, которые гарантировано снижают смятение, беспокойство и стресс.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готов",
+            "sectionId": "e44477ff-f7c9-438d-9ff4-d540540100c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e44477ff-f7c9-438d-9ff4-d540540100c4",
+        "alias": "Table of content",
+        "content": "### Узнать больше:\n\n* Осознанное дыхание\n* Не кормите чудовище\n* Вырвитесь из петли беспокойства\n\n### Вам понадобятся:\n\n* 20 минут\n* Бумага и ручка",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Поехали!",
+            "sectionId": "cfac664e-d9d5-4f46-9903-1d1494fca6f9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "cfac664e-d9d5-4f46-9903-1d1494fca6f9",
+        "longDescription": "Уделите минутку на то, чтобы **настроиться на** себя.\n\n* Как вы **чувствуете себя** именно в этот момент? \n* Что у вас на **уме?** \n* Как вы ощущаете своё **тело?** \n* Как вы ощущаете себя в вашей **жизни?**\n\nЗапишите свои ответы.",
+        "alias": "Writing exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продолжить",
+            "sectionId": "1e9f7964-bba2-4a8f-b297-0242b06d2003"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1e9f7964-bba2-4a8f-b297-0242b06d2003",
+        "alias": "Meditation",
+        "title": "Размышление",
+        "description": "Когда мы находимся в состоянии стресса и беспокойства, **осознанное дыхание** помогает нам постепенно успокоиться, сосредоточиться на текущем моменте и достичь ясности.\n\nНажмите **играть,** чтобы начать.",
+        "duration": 202,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/1_Slow_full_breathing_-_Russian_xzgadf.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "e781141c-04e2-4015-b88f-763e56038700",
+            "content": "Я завершил"
+          }
+        ]
+      }
+    ],
+    "root": "9ceae336-07ae-4fb6-9583-e1eb09564dd4"
+  }
+}

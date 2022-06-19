@@ -1,0 +1,15 @@
+
+{
+  "en": {
+    "question": "Rate this test",
+    "detailedQuestion": "What did you think about it?"
+  },
+  "sv": {
+    "question": "Sätt betyg på utvärderingen",
+    "detailedQuestion": "Vad tyckte du om testet?"
+  },
+  "pt": {
+    "question": "Avalia esta teste",
+    "detailedQuestion": "O que você achou do teste?"
+  }
+}

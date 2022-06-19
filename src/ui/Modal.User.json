@@ -1,0 +1,11 @@
+{
+  "en": {
+    "missingUser": "User is no longer part of the group"
+  },
+  "sv": {
+    "missingUser": "Användaren tillhör inte längre gruppen"
+  },
+  "pt": {
+    "missingUser": "Este membro já não faz parte do grupo"
+  }
+}

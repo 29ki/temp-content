@@ -1,0 +1,782 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "byline": "Created by 19 researchers & psychologists",
+    "author": {
+      "name": "Rachel Brathen",
+      "nickname": "Yoga Girl",
+      "instagram": "yoga_girl",
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647352233/New_images/courses%20png/Yoga_girl_wio3i4.jpg"
+    },
+    "name": "Self compassion",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Self_compassion_o5ldph.png"
+    },
+    "about": {
+      "body": "This course is designed to change your life through changing your relationship with yourself - by working through exercises drawn from the leading research on self-compassion.\n\nYou will learn how to identify when you are overly critical of yourself, understand why you do it and how it affects you. Most importantly you will explore a more constructive way of relating to yourself.\n\nThese exercises have been proven to help in many aspects of everyday life, from work and education to parenthood and self-esteem.\n\nPractising self-compassion has been proven to increase happiness and motivation, decrease anxiety and depressive symptoms as well as decrease narcissism and increase altruism.",
+      "courseValue": "#### What will i learn?\n\n* Turn self-criticism into self-compassion\n* Learn to increase happiness and motivation\n* Decrease anxiety and depressive symptoms",
+      "howThisWorks": "#### How does it work?\n\n* This course takes 7 weeks to complete\n* One lesson per week\n* One video sharing per week\n* Engage and practice with your group",
+      "createdBy": {
+        "text": "#### Who created this course?\nThis course has been co-created by 19 researchers and psychologists",
+        "profiles": [
+          {
+            "name": "Center for Mindful self-compassion",
+            "linkUri": "https://centerformsc.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/MSC.jpg"
+          },
+          {
+            "name": "Chris Germer PhD",
+            "linkUri": "https://chrisgermer.com/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Germer.jpg"
+          },
+          {
+            "name": "Kristin Neff PhD",
+            "linkUri": "https://self-compassion.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Neff.jpg"
+          }
+        ]
+      }
+    },
+    "cta": "Take the first step on a journey towards a more constructive and loving relationship with yourself.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Self_compassion_o5ldph.png"
+    },
+    "duration": {
+      "count": 7,
+      "type": "lesson"
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "trailerUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/yg_self_compassion/yogagirl29k_selfcompassiontrailer_desktop_60s_nosubtitles_3mbps.mp4",
+    "id": "1e312c02-8c79-44a8-b1cc-b74554cf391f",
+    "lessons": [
+      {
+        "name": "Inner critic",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Inner_Critic_lmcfcu.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-1",
+            "title": "Introduction"
+          },
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-2",
+            "title": "Inner critic "
+          },
+          {
+            "title": "Inner friend",
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-3"
+          },
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-4",
+            "title": "Summary"
+          }
+        ],
+        "index": 0,
+        "botMessages": [],
+        "id": "aa14fbdf-7244-493c-8eba-b82a4858bb16",
+        "description": "Learn how to become your own amazing friend in critical situations."
+      },
+      {
+        "name": "Intention",
+        "duration": {
+          "count": 45,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Intention_oof30p.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-1",
+            "title": "Introduction"
+          },
+          {
+            "title": "Self-compassion test",
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-2"
+          },
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-3",
+            "title": "Why it matters"
+          },
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-4",
+            "title": "My intention"
+          },
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-5",
+            "title": "Summary"
+          }
+        ],
+        "index": 1,
+        "botMessages": [],
+        "id": "4d72dcc1-13ab-46db-94e9-f92231d8b60b",
+        "description": "Get insights into how you relate to yourself & set your intention."
+      },
+      {
+        "name": "Shame",
+        "duration": {
+          "count": 1,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Shame_n3warn.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-1",
+            "title": "Intro"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-2",
+            "title": "Shame"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-3",
+            "title": "3 Perspectives"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-4",
+            "title": "Reflections"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-5",
+            "title": "Summary"
+          }
+        ],
+        "index": 2,
+        "botMessages": [],
+        "id": "e9a7780a-e9cc-429c-b16b-4a868f3f7d43",
+        "description": "Find your way to hold and work with feelings of shame and inadequacy."
+      },
+      {
+        "name": "Body",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Body_dd1jio.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-1",
+            "title": "Introduction"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-2",
+            "title": "Our body"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-3",
+            "title": "The stress reaction"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-4",
+            "title": "Exercise"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-5",
+            "title": "Self-soothing"
+          },
+          {
+            "title": "Summary",
+            "conversationId": "9cc0b577-521f-4d60-8622-3c4b93a7a88b"
+          }
+        ],
+        "index": 3,
+        "botMessages": [],
+        "id": "c8046638-9465-4af2-a6e5-f96b4cc98cfc",
+        "description": "Explore your body as a powerful doorway to presence and compassion."
+      },
+      {
+        "name": "Self-care tool",
+        "duration": {
+          "count": 1,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Salf_care_tool_wojnsi.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "K12W56Qapx57nppRtyzioE-1",
+            "title": "Introduction"
+          },
+          {
+            "title": "Self-care",
+            "conversationId": "K12W56Qapx57nppRtyzioE-2"
+          },
+          {
+            "title": "Loosing our footing",
+            "conversationId": "K12W56Qapx57nppRtyzioE-3"
+          },
+          {
+            "title": "My self-care tool",
+            "conversationId": "K12W56Qapx57nppRtyzioE-4"
+          },
+          {
+            "conversationId": "K12W56Qapx57nppRtyzioE-5",
+            "title": "Summary"
+          }
+        ],
+        "index": 4,
+        "botMessages": [],
+        "id": "b153c768-aab6-4746-9bbd-e17c2c95b438",
+        "description": "Create a toolbox for noticing suffering and coming back to self-compassion."
+      },
+      {
+        "id": "1790e505-bfaf-4c38-b58d-ae04a4eecc1c",
+        "name": "Gratitude",
+        "index": 5,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Reflect on what you are grateful for in your life, in yourself and in the people you cherish.",
+        "botMessages": [],
+        "conversations": [
+          {
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-1",
+            "title": "Introduction"
+          },
+          {
+            "title": "Being grateful",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-2"
+          },
+          {
+            "title": "A letter of gratitude",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-3"
+          },
+          {
+            "title": "Summary",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-4"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Gratitude_wnjjz6.png"
+        }
+      },
+      {
+        "id": "8e2d403c-a952-450c-8f04-680e93b4d9e0",
+        "name": "Closing",
+        "index": 6,
+        "description": "Reflect on your journey so far and find your path forward.",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-1",
+            "title": "Welcome back"
+          },
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-2",
+            "title": "Closing"
+          },
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-3",
+            "title": "My journey"
+          },
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-4",
+            "title": "Summary"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Closing_hubu1a.png"
+        }
+      }
+    ],
+    "difficulty": "Beginner",
+    "description": "This course explores how to be less stressed and happier through becoming the person you have been waiting for.",
+    "rating": {
+      "count": 6225,
+      "rating": 4.6
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "byline": "Skapad av 19 forskare och psykologer",
+    "author": {
+      "name": "Rachel Brathen",
+      "nickname": "Yoga Girl",
+      "instagram": "yoga_girl",
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647352233/New_images/courses%20png/Yoga_girl_wio3i4.jpg"
+    },
+    "name": "Självmedkänsla",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Self_compassion_o5ldph.png"
+    },
+    "about": {
+      "body": "Förändra ditt liv genom att ändra ditt förhållande till dig själv med övningar från den senaste forskningen om självmedkänsla.\n\nDu får lära dig att identifiera när du är självkritisk, förstå varför du är det och hur det påverkar dig. Viktigast av allt är att du utforskar **ett mer konstruktivt sätt att förhålla dig till dig själv**.\n\nÖvningarna har visat sig **vara till nytta på många sätt i vardagen**: i allt från arbete och utbildning till föräldraskap och självkänsla.\n\nAtt öva självmedkänsla har visat sig **öka lycka och motivation, minska ångest och depressiva symtom samt minska självupptagenhet och öka omtanke om andra**.",
+      "courseValue": "#### Vad får jag lära mig?\n\n* Förvandla självkritik till självmedkänsla\n* Lära dig att öka lycka och motivation\n* Minska ångest och depressiva symtom",
+      "howThisWorks": "#### Hur fungerar det?\n\n* Kursen tar 7 veckor att genomföra\n* En lektion i veckan\n* En videodelning i veckan\n* Daglig övning i gruppchatt",
+      "createdBy": {
+        "text": "Kursen har tagits fram av 19 forskare och psykologer tillsammans. Redaktör för kursen har varit 29k-psykologen Fredrik Livheim.",
+        "profiles": [
+          {
+            "name": "Center for Mindful self-compassion",
+            "linkUri": "https://centerformsc.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/MSC.jpg"
+          },
+          {
+            "name": "Chris Germer PhD",
+            "linkUri": "https://chrisgermer.com/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Germer.jpg"
+          },
+          {
+            "name": "Kristin Neff PhD",
+            "linkUri": "https://self-compassion.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Neff.jpg"
+          }
+        ]
+      }
+    },
+    "cta": "Ta det första steget på en resa mot en mer konstruktiv och kärleksfull relation med dig själv.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Self_compassion_o5ldph.png"
+    },
+    "duration": {
+      "count": 7,
+      "type": "lesson"
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "trailerUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/yg_self_compassion/yogagirl29k_selfcompassiontrailer_desktop_60s_nosubtitles_3mbps.mp4",
+    "id": "1e312c02-8c79-44a8-b1cc-b74554cf391f",
+    "lessons": [
+      {
+        "name": "Den inre kritikern",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Inner_Critic_lmcfcu.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-1",
+            "title": "Introduktion"
+          },
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-2",
+            "title": "Din inre kritiker"
+          },
+          {
+            "title": "Din inre vän",
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-3"
+          },
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-4",
+            "title": "Sammanfattning"
+          }
+        ],
+        "index": 0,
+        "botMessages": [],
+        "id": "aa14fbdf-7244-493c-8eba-b82a4858bb16",
+        "description": "Bli din egen bästa vän när livet är svårt. "
+      },
+      {
+        "name": "Avsikt",
+        "duration": {
+          "count": 45,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Intention_oof30p.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-1",
+            "title": "Introduktion"
+          },
+          {
+            "title": "Testa din självmedkänsla",
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-2"
+          },
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-3",
+            "title": "Vad spelar det för roll?"
+          },
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-4",
+            "title": "Min avsikt"
+          },
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-5",
+            "title": "Sammanfattning"
+          }
+        ],
+        "index": 1,
+        "botMessages": [],
+        "id": "4d72dcc1-13ab-46db-94e9-f92231d8b60b",
+        "description": "Lär dig mer om hur du förhåller dig till dig själv och vart du är på väg."
+      },
+      {
+        "name": "Skam",
+        "duration": {
+          "count": 45,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Shame_n3warn.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-1",
+            "title": "Introduktion"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-2",
+            "title": "Skam"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-3",
+            "title": "Tre perspektiv"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-4",
+            "title": "Reflektera"
+          },
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-5",
+            "title": "Sammanfattning"
+          }
+        ],
+        "index": 2,
+        "botMessages": [],
+        "id": "e9a7780a-e9cc-429c-b16b-4a868f3f7d43",
+        "description": "Arbeta med känslor av skam och otillräcklighet"
+      },
+      {
+        "name": "Kroppen",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Body_dd1jio.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-1",
+            "title": "Introduktion"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-2",
+            "title": "Vår kropp"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-3",
+            "title": "Stressreaktionen"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-4",
+            "title": "Övning"
+          },
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-5",
+            "title": "Att lugna sig själv"
+          },
+          {
+            "title": "Sammanfattning",
+            "conversationId": "9cc0b577-521f-4d60-8622-3c4b93a7a88b"
+          }
+        ],
+        "index": 3,
+        "botMessages": [],
+        "id": "c8046638-9465-4af2-a6e5-f96b4cc98cfc",
+        "description": "Utforska kroppen som plats för närvaro och medkänsla. "
+      },
+      {
+        "name": "Ta hand om dig själv",
+        "duration": {
+          "count": 35,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Salf_care_tool_wojnsi.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "K12W56Qapx57nppRtyzioE-1",
+            "title": "Introduktion"
+          },
+          {
+            "title": "Ta hand om dig själv",
+            "conversationId": "K12W56Qapx57nppRtyzioE-2"
+          },
+          {
+            "title": "Att tappa fotfästet",
+            "conversationId": "K12W56Qapx57nppRtyzioE-3"
+          },
+          {
+            "title": "Ta hand om dig själv-verktyg",
+            "conversationId": "K12W56Qapx57nppRtyzioE-4"
+          },
+          {
+            "conversationId": "K12W56Qapx57nppRtyzioE-5",
+            "title": "Sammanfattning"
+          }
+        ],
+        "index": 4,
+        "botMessages": [],
+        "id": "b153c768-aab6-4746-9bbd-e17c2c95b438",
+        "description": "Skapa en verktygslåda för att öka din självmedkänsla"
+      },
+      {
+        "id": "1790e505-bfaf-4c38-b58d-ae04a4eecc1c",
+        "name": "Tacksamhet",
+        "index": 5,
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Vad är du tacksam för i ditt liv?",
+        "botMessages": [],
+        "conversations": [
+          {
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-1",
+            "title": "Introduktion"
+          },
+          {
+            "title": "Att vara tacksam",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-2"
+          },
+          {
+            "title": "Tacksamhetsövning",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-3"
+          },
+          {
+            "title": "Sammanfattning",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-4"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Gratitude_wnjjz6.png"
+        }
+      },
+      {
+        "id": "8e2d403c-a952-450c-8f04-680e93b4d9e0",
+        "name": "Avslutning",
+        "index": 6,
+        "description": "Reflektera över din resa och hitta din väg framåt ",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-1",
+            "title": "Välkommen tillbaka"
+          },
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-2",
+            "title": "Avslutning"
+          },
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-3",
+            "title": "Min resa"
+          },
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-4",
+            "title": "Sammanfattning"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652187909/New_images/courses%20png/Self%20compassion/Closing_hubu1a.png"
+        }
+      }
+    ],
+    "difficulty": "Beginner",
+    "description": "Den här kursen utforskar hur man blir mindre stressad och lyckligare genom att bli den person du har väntat på.",
+    "rating": {
+      "count": 6225,
+      "rating": 4.6
+    },
+    "wip": false
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "byline": "Created by 19 researchers & psychologists",
+    "author": {
+      "name": "Fátima Lopes",
+      "nickname": "Fátima Lopes"
+    },
+    "name": "Autocompaixão",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621536297/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/coverfatimaMARGEMEMCIMAnomax_kjxy9k.jpg"
+    },
+    "about": {
+      "body": "Este curso foi concebido para mudar a tua vida através da mudança da tua relação contigo - vais trabalhar em exercícios validados por investigação de topo em autocompaixão. \n\nVais aprender a identificar quando és demasiado crítica ou demasiado critíco contigo, compreendendo porque o fazes e como isso te afeta. Mais importante ainda, vais explorar uma forma mais construtiva de te relacionares contigo.\n\nEstes exercícios têm sido comprovadamente úteis em muitos aspetos do dia-a-dia, desde o trabalho e a escola até à parentalidade e à autoestima.\n\nExiste evidência de que a prática da autocompaixão aumenta a felicidade e a motivação, diminui a ansiedade e sintomas depressivos, bem como diminui o narcisismo e aumenta o altruísmo.",
+      "courseValue": "#### O que vou aprender?\n\n* A transformar a autocrítica em autocompaixão\n* A aumentar a felicidade e a motivação\n* A diminuir a ansiedade e os sintomas depressivos",
+      "howThisWorks": "#### Como funciona este curso?\n\n* Este curso demora 7 semanas a concluir\n* Uma sessão por semana\n* Um vídeo partilhado a cada semana\n* Partilha com o teu grupo",
+      "createdBy": {
+        "text": "#### Quem criou este curso?\n\nEste curso foi co-criado por 19 investigadores e psicólogos",
+        "profiles": [
+          {
+            "name": "Center for Mindful Self-Compassion",
+            "linkUri": "https://centerformsc.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/MSC.jpg"
+          },
+          {
+            "name": "Dr. Chris Germer",
+            "linkUri": "https://chrisgermer.com/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Germer.jpg"
+          },
+          {
+            "name": "Dra. Kristin Neff",
+            "linkUri": "https://self-compassion.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Neff.jpg"
+          },
+          {
+            "name": "Com Fátima Lopes"
+          }
+        ]
+      }
+    },
+    "cta": "Dá o primeiro passo da viagem rumo a uma relação mais construtiva e afetuosa com o teu eu interior.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958192/29k%20FJN/Courses/Menu%20Thumbnails/Fatima_MENU01final_z4zmle.jpg"
+    },
+    "duration": {
+      "count": 7,
+      "type": "lesson"
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "trailerUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/yg_self_compassion/yogagirl29k_selfcompassiontrailer_desktop_60s_nosubtitles_3mbps.mp4",
+    "id": "1e312c02-8c79-44a8-b1cc-b74554cf391f",
+    "lessons": [
+      {
+        "name": "A crítica interior",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-1",
+            "title": "A crítica interior"
+          }
+        ],
+        "index": 0,
+        "botMessages": [],
+        "id": "aa14fbdf-7244-493c-8eba-b82a4858bb16",
+        "description": "Aprende a tornar-te a tua melhor amiga ou o teu melhor amigo em situações críticas."
+      },
+      {
+        "name": "Intenção",
+        "duration": {
+          "count": 45,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-1",
+            "title": "Intenção"
+          }
+        ],
+        "index": 1,
+        "botMessages": [],
+        "id": "4d72dcc1-13ab-46db-94e9-f92231d8b60b",
+        "description": "Descobre como te relacionas contigo e define a tua intenção."
+      },
+      {
+        "name": "Vergonha",
+        "duration": {
+          "count": 1,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-1",
+            "title": "Vergonha"
+          }
+        ],
+        "index": 2,
+        "botMessages": [],
+        "id": "e9a7780a-e9cc-429c-b16b-4a868f3f7d43",
+        "description": "Encontra a tua forma de lidar e trabalhar com sentimentos de vergonha e inadequação."
+      },
+      {
+        "name": "Corpo",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "J7Fbebitm2XBmCsm3NT6Vo-1",
+            "title": "Corpo"
+          }
+        ],
+        "index": 3,
+        "botMessages": [],
+        "id": "c8046638-9465-4af2-a6e5-f96b4cc98cfc",
+        "description": "Explora o teu corpo como uma porta poderosa para a presença e a compaixão."
+      },
+      {
+        "name": "Ferramentas de autocuidado",
+        "duration": {
+          "count": 1,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "K12W56Qapx57nppRtyzioE-1",
+            "title": "Ferramentas de autocuidado"
+          }
+        ],
+        "index": 4,
+        "botMessages": [],
+        "id": "b153c768-aab6-4746-9bbd-e17c2c95b438",
+        "description": "Constrói uma caixa de ferramentas para notares o sofrimento e voltares à autocompaixão."
+      },
+      {
+        "id": "1790e505-bfaf-4c38-b58d-ae04a4eecc1c",
+        "name": "Gratidão",
+        "index": 5,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Reflete sobre aquilo por que estás grata/o na tua vida, em ti própria/o e nas pessoas que estimas.",
+        "botMessages": [],
+        "conversations": [
+          {
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-1",
+            "title": "Gratidão"
+          }
+        ]
+      },
+      {
+        "id": "8e2d403c-a952-450c-8f04-680e93b4d9e0",
+        "name": "Encerramento",
+        "index": 6,
+        "description": "Pensa na tua jornada até agora e encontra o caminho a seguir.",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-1",
+            "title": "Encerramento"
+          }
+        ]
+      }
+    ],
+    "difficulty": "Beginner",
+    "description": "This course explores how to be less stressed and happier through becoming the person you have been waiting for.",
+    "rating": {
+      "count": 6225,
+      "rating": 4.6
+    }
+  }
+}

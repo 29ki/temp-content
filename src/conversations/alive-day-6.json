@@ -2,64 +2,106 @@
   "en": {
     "id": "alive-day-6",
     "alias": "alive-day-6",
-    "type": "lesson",
     "root": "allowPNs",
     "sections": [
       {
-        "id": "alive-day-6",
-        "alias": "alive-day-6",
-        "nextConversationId": "alive-day-7",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 6",
-        "lessonlastDay": true,
-
         "task": {
           "id": "aliveDay6rev1",
           "days": 0,
           "hours": 8,
           "minutes": 11,
-          "title": "Alive Day 6 Mission",
-          "body": "Over the next few hours, ask someone their opinion before giving yours (e.g., ‘How do you think she answered that question?’)"
+          "title": "Alive Day 6 Quest",
+          "body": "Over the next few hours, trust your gut feelings when deciding something pretty obvious. How does it feel trusting yourself?"
+        },
+        "sharingWall": {
+          "question": "How did it feel trusting yourself?",
+          "exampleText": "It felt good to trust my gut."
         },
         "followUp": {
+          "id": "followUpDay6",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 6 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-6",
+        "nextConversationId": "alive-day-7",
+        "type": "microInterventionDay",
+        "id": "alive-day-6"
       }
     ]
   },
   "sv": {
     "id": "alive-day-6",
     "alias": "alive-day-6",
-    "type": "lesson",
     "root": "allowPNs",
     "sections": [
       {
-        "id": "alive-day-6",
-        "alias": "alive-day-6",
-        "nextConversationId": "alive-day-7",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 6",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 6",
-        "lessonlastDay": true,
-
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 6",
-          "body": "Over the next few hours, ask someone their opinion before giving yours (e.g., ‘How do you think she answered that question?’)"
+          "title": "Uppdrag dag 6",
+          "body": "Under de närmaste timmarna, lita på din magkänsla när du bestämmer dig för något som är ganska uppenbart. Hur känns det att lita på sig själv?",
+          "id": "aliveDay6rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur kändes det att lita på dig själv?",
+          "exampleText": "Det kändes bra att lita på min magkänsla."
         },
         "followUp": {
+          "id": "followUpDay6",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 6 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 6 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-6",
+        "nextConversationId": "alive-day-7",
+        "type": "microInterventionDay",
+        "id": "alive-day-6"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-6",
+    "alias": "alive-day-6",
+    "root": "allowPNs",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 6",
+        "task": {
+          "id": "aliveDay6rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 11,
+          "title": "Desafio ALIVE dia 6",
+          "body": "Durante as próximas horas, confia nos teus sentimentos ao decidir acerca de uma coisa bastante óbvia. Qual é a sensação de confiares em ti mesma/o?"
+        },
+        "sharingWall": {
+          "question": "Qual foi a sensação de confiares em ti própria/o?",
+          "exampleText": "Foi bom confiar nos meus sentimentos."
+        },
+        "followUp": {
+          "id": "followUpDay6",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 6 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-6",
+        "nextConversationId": "alive-day-7",
+        "type": "microInterventionDay",
+        "id": "alive-day-6"
       }
     ]
   }

@@ -2,7 +2,7 @@
   "en": {
     "id": "feeling-lost-4",
     "alias": "feeling-lost-4",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -25,9 +25,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Final step",
-                "conversationId": "feeling-lost-5",
-                "sectionId": "section1"
+                "conversationId": "feeling-lost-5"
               }
             ]
           }
@@ -41,7 +41,7 @@
   "sv": {
     "id": "feeling-lost-4",
     "alias": "feeling-lost-4",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -64,9 +64,48 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Final step",
-                "conversationId": "feeling-lost-5",
-                "sectionId": "section1"
+                "conversationId": "feeling-lost-5"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "feeling-lost-4",
+    "alias": "feeling-lost-4",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "## Reflect on your two letters & answer a few questions"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Final step",
+                "conversationId": "feeling-lost-5"
               }
             ]
           }

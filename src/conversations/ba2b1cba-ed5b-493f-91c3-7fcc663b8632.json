@@ -1,0 +1,368 @@
+{
+  "en": {
+    "id": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632",
+    "alias": "Coping with crisis 2: Facing what we can't change 1",
+    "root": "f8521a69-1821-4c0b-824d-53def1c5a37f",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "f8521a69-1821-4c0b-824d-53def1c5a37f",
+        "alias": "Facing life",
+        "title": "Facing life",
+        "content": "No amount of planning and preparation can prevent us from **experiencing** **difficult** **situations** **and the emotional pain** that follows.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "More",
+            "sectionId": "40dfb182-ef79-47a6-88ef-55606a7f096b"
+          }
+        ],
+        "topImageUri": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "40dfb182-ef79-47a6-88ef-55606a7f096b",
+        "content": "In other words, the experience of loss, sadness, loneliness, break up, conflict and other types of challenge are a part of the **human** **experience**.\n\nIn this lesson, we’ll look at how our willingness to face the inevitable challenges in life can increase our ability to deal with them.",
+        "alias": "human experience",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "08e9bde5-7ce8-4536-90ca-87b8a5c88f57"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "08e9bde5-7ce8-4536-90ca-87b8a5c88f57",
+        "content": "### Learn more about:\n\n* Acceptance and acknowledging what is happening\n* The healing hand\n* Opening up to emotions\n\n### You’ll need:\n\n* 20 minutes\n* Pen and paper",
+        "alias": "Today's lesson",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "6c6ce116-aed8-4f9d-810d-69dcfb292d3b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6c6ce116-aed8-4f9d-810d-69dcfb292d3b",
+        "alias": "anxiety",
+        "title": "",
+        "content": "When we go through difficult periods in life, we almost undoubtedly experience some level of anxiety.\n\nWhile completely common, anxiety can be unpleasant to experience. It can make us feel stuck or wanting to avoid what we are feeling altogether",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Learn more",
+            "sectionId": "d639b834-b490-4214-8cef-b34939ff6ce5"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d639b834-b490-4214-8cef-b34939ff6ce5",
+        "content": "In the grip of anxiety, it can be **difficult to see the way forward** or distinguish things we can change from those we can't change, making everything fall into one bucket.\n\nHowever, thanks to research, we know that we can cope better with challenging situations by seeing things as they are. This can be referred to as acceptance.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "f4324bca-32ed-4e73-8960-d0e5dbaf684e",
+            "content": "Continue"
+          }
+        ],
+        "alias": "acceptance",
+        "description": "Acceptance"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f4324bca-32ed-4e73-8960-d0e5dbaf684e",
+        "alias": "acceptance 2",
+        "content": "Acceptance doesn't mean giving up or passively putting up with whatever is going on.\n\nRather, acceptance is **recognizing that the situation is as it is,** even if we rightly don't like it.\n\nThis enables us to spend our precious energy on things we can control.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Tell me more",
+            "sectionId": "5c1db2cb-f493-4558-b897-d81103d452e5"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5c1db2cb-f493-4558-b897-d81103d452e5",
+        "alias": "acceptance 3",
+        "content": "Every situation we find ourselves in will **trigger a host of emotions**. During challenging times, we may experience anger, sadness or worry. Know that our emotions, whatever they are, are normal and automatic reactions. We can't choose not to have them, and they can’t harm us.\n\nWhat we can change, however, is how we respond to them.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "831f195d-a696-453a-913a-f261aa8caa75"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "831f195d-a696-453a-913a-f261aa8caa75",
+        "alias": "Opening up",
+        "content": "By opening up to our emotions instead of trying to control them, we allow them to be present for a period of time, **without letting them dominate our life**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632",
+    "alias": "Coping with crisis 2: Facing what we can't change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "c11804da-1168-471d-a3c2-6b6ac7617d30",
+        "alias": "Att möta livet",
+        "title": "Att möta livet",
+        "content": "Det finns ingen möjlighet för oss att planera eller förebygga att **livet bjuder oss på svåra situationer.** Eller den emotionella smärta som kommer på köpet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "247ade87-8b5e-46a5-9017-7efacd485fdf"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445074/julien-di-majo-cwL_DmFQTMI-unsplash_ube8by.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "247ade87-8b5e-46a5-9017-7efacd485fdf",
+        "alias": "den mänskliga upplevelsen",
+        "content": "Att uppleva sorg, ledsamhet, ensamhet, uppbrott eller konflikter är en del av **vad det innebär att vara människa**.\n\nI den här lektionen tittar på på hur vår villighet att möta de utmaningar livet ger oss kan öka vår förmåga att hantera dem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Gå vidare",
+            "sectionId": "f261328d-d079-4b39-84c1-20ab8d655d1e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f261328d-d079-4b39-84c1-20ab8d655d1e",
+        "content": "### Lektionen innehåller:\n\n* Erkänna det som händer\n* Den helande handen\n* Låta känslor vara\n\n### Du behöver:\n\n* 20 minuter\n* Penna och papper",
+        "alias": "Dagens lektion",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "69f30af2-a004-4f50-9b7c-b5e617da0a6e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "69f30af2-a004-4f50-9b7c-b5e617da0a6e",
+        "alias": "Ångest",
+        "content": "När vi upplever svåra perioder i livet är det väldigt vanligt att känna ångest över det som pågår. \n\nÅngest är obehagligt, och brukar göra att vi anstränger oss för att bli av med den.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "2d290174-2e00-458c-b12c-f7dff8f34349"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2d290174-2e00-458c-b12c-f7dff8f34349",
+        "content": "När ångesten har oss i sitt grepp är det ofta **svårt att se någon väg framåt.** Vi kan också ha problem att särskilja det vi kan påverka från sådant som är utanför vår kontroll – alla problem och all ångest hamnar i samma kategori: svårt och jobbigt.\n\nTack vare forskningen har vi lärt oss hur vi kan hantera utmanande situationer bättre genom att ta dem för vad de faktiskt är. Det kallas ibland för acceptans.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "d7ecbb2d-f24c-4a0f-81cf-eac8eea0be03"
+          }
+        ],
+        "alias": "acceptans"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7ecbb2d-f24c-4a0f-81cf-eac8eea0be03",
+        "content": "Acceptans betyder inte att ge upp eller att passivt stå ut med allt som pågår.\n\nDet handlar om **att våga se situationen i vitögat** – även om vi inte gillar den.\n\nPå så vis kan vi använda vår dyrbara energi till att påverka det vi faktiskt kan påverka.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "11c6505e-0fd4-4933-8ba2-805f21697f86"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "11c6505e-0fd4-4933-8ba2-805f21697f86",
+        "alias": "acceptans 3",
+        "content": "Alla situationer vi möter i livet sätter igång en rad olika känslor. I svåra tider kanske vi känner ilska, ledsamhet eller oro. \n\nVåra känslor – hur svåra de än är – är en helt normal och automatisk reaktion på det som händer. Vi kan inte välja att inte ha dem. Men våra känslor – hur hemska de än är – kan aldrig skada oss.\n\nDet vi kan ändra är **vad vi gör med våra känslor.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "2ea3cb9f-dd78-4004-be0c-1498f97a6e56"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2ea3cb9f-dd78-4004-be0c-1498f97a6e56",
+        "content": "Genom att låta känslor komma och gå utan att försöka kontrollera dem, låter vi dem vara med oss en stund. **Utan att låta dem ta över livet** eller bestämma vad vi ska göra.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108",
+            "content": "Gå vidare"
+          }
+        ]
+      }
+    ],
+    "root": "c11804da-1168-471d-a3c2-6b6ac7617d30"
+  },
+  "pt": {
+    "id": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632",
+    "alias": "Coping with crisis 2: Facing what we can't change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "404f56c2-95c5-418c-8467-fa054e2ffe4e",
+        "alias": "Enfrentar a vida",
+        "title": "Enfrentar a vida",
+        "content": "Nenhuma quantidade de planeamento e preparação nos pode impedir de **experimentar situações difíceis e a dor emocional** que se segue.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "89edf273-e614-4ac3-8c22-165ba7bd8cf7"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1642762398/hendrik-morkel-WBib0qzjCw4-unsplash_hmwx15.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "89edf273-e614-4ac3-8c22-165ba7bd8cf7",
+        "alias": "Experiência humana",
+        "content": "Por outras palavras, a experiência de perda, tristeza, solidão, rutura, conflito e outros tipos de desafios fazem parte da **experiência humana**.\n\nNesta lição, vamos ver como a nossa disposição para enfrentar os inevitáveis desafios da vida pode aumentar a nossa capacidade de lidar com eles.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "1b482000-3f52-4b6f-b74f-80671c0db26c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b482000-3f52-4b6f-b74f-80671c0db26c",
+        "content": "### Vais aprender mais acerca de:\n\n* Aceitação e reconhecimento do que está a acontecer\n* A mão que cura\n* Abrires-te às emoções\n\n### Vais precisar de:\n\n* 20 min de sossego sem interrupções \n* Papel e caneta",
+        "alias": "A lição de hoje",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5b999a51-314c-41f2-8f42-997dc09f34ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5b999a51-314c-41f2-8f42-997dc09f34ca",
+        "alias": "Ansiedade",
+        "title": "",
+        "content": "Quando passamos por períodos difíceis na vida, quase sempre experimentamos algum nível de ansiedade.\n\nEmbora sendo comum, a ansiedade pode ser desagradável de experimentar. Pode fazer-nos sentir bloqueados ou querer evitar completamente o que estamos a sentir.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Saber mais",
+            "sectionId": "a85bf400-133e-404d-85ea-ede3b0fe1cad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a85bf400-133e-404d-85ea-ede3b0fe1cad",
+        "alias": "Aceitação",
+        "content": "No aperto da ansiedade, pode ser **difícil ver o caminho a seguir** ou distinguir as coisas que podemos mudar daquelas que não podemos mudar, fazendo com que tudo faça parte de um mesmo todo que não conseguimos gerir.\n\nNo entanto, graças à investigação, sabemos que podemos lidar melhor com as situações desafiadoras vendo as coisas como elas são. A isso chamamos aceitação.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "60bcf3b3-7c46-4235-9812-77b41fda4947"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60bcf3b3-7c46-4235-9812-77b41fda4947",
+        "alias": "Aceitação 2",
+        "content": "Aceitação não significa desistir ou tolerar passivamente o que quer que esteja a acontecer.\n\nEm vez disso, aceitação é **reconhecer que a situação é como é**, mesmo que não gostemos dela.\n\nIsso permite-nos gastar a nossa preciosa energia nas coisas que podemos controlar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "60a45046-8500-4676-8bde-6669e4463edd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60a45046-8500-4676-8bde-6669e4463edd",
+        "alias": "Aceitação 3",
+        "title": "",
+        "content": "Cada situação em que nos encontramos vai **desencadear uma série de emoções**. Durante os tempos difíceis, podemos sentir raiva, tristeza ou preocupação. É importante saber que as nossas emoções, sejam elas quais forem, são reações normais e automáticas. Não podemos escolher não as ter, e elas não nos podem prejudicar.\n\nO que podemos mudar é a forma como lhes respondemos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "968f8274-0291-4680-8ea2-3ece6fbe15f6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "968f8274-0291-4680-8ea2-3ece6fbe15f6",
+        "alias": "Abrindo-nos às nossas emoções",
+        "content": "Se em vez de tentarmos controlar, nos abrirmos às nossas emoções, permitimos que elas estejam presentes por um período de tempo, **sem deixar que dominem a nossa vida**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Terminar",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108"
+          }
+        ]
+      }
+    ],
+    "root": "404f56c2-95c5-418c-8467-fa054e2ffe4e"
+  }
+}

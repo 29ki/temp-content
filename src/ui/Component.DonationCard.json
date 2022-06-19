@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Help keep 29k free",
+    "subtitle": "Donate a one-off or monthly donation",
+    "donateUri": "https://donorbox.org/29k-foundation"
+  },
+  "sv": {
+    "title": "Stötta 29k",
+    "subtitle": "Donera en engångs- eller månadsdonation",
+    "donateUri": "https://donorbox.org/stiftelesen-29k"
+  },
+  "pt": {
+    "title": "Queres apoiar a 29k?",
+    "subtitle": "Faz uma doação única ou mensal",
+    "donateUri": "https://www.paypal.com/donate/?hosted_button_id=V7ZV5NDEFHW48"
+  }
+}

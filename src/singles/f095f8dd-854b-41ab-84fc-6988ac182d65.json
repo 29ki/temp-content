@@ -1,0 +1,166 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Shame meditation",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652880383/New_images/meditations%20png/Vergonha_eyhgyp.png"
+    },
+    "duration": {
+      "count": 6,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "f095f8dd-854b-41ab-84fc-6988ac182d65",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "f095f8dd-854b-41ab-84fc-6988ac182d65",
+        "root": "section1",
+        "alias": "Meditation: Shame meditation",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Shame",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652880383/New_images/meditations%20png/Vergonha_eyhgyp.png",
+            "title": "Shame",
+            "content": "*6 minutes*\n\nFind your way to hold and work with the feeling of shame and inadequacy by embodying The Compassionate Observer.\n\n*Guided by Rachel Brathen (Yoga Girl), based on research, co-created by Ph.D F. Livheim.*",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You’re invited to a short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/shame/yogagirl_meditation_Lesson_05_Shame.mp3",
+            "alias": "Meditation",
+            "duration": "05:04",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f095f8dd-854b-41ab-84fc-6988ac182d65/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "You’ve just done a wonderful thing for yourself",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Shame meditation",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Skam",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652880383/New_images/meditations%20png/Vergonha_eyhgyp.png"
+    },
+    "duration": {
+      "count": 6,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "f095f8dd-854b-41ab-84fc-6988ac182d65",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "f095f8dd-854b-41ab-84fc-6988ac182d65",
+        "root": "section1",
+        "alias": "Meditation: Shame meditation",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Skam",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652880383/New_images/meditations%20png/Vergonha_eyhgyp.png",
+            "title": "Skam",
+            "content": "* 6 minuter *\n\nHitta ditt sätt att hålla och arbeta med känslan av skam och otillräcklighet genom att förkroppsliga The Compassionate Observer.\n\n* Guidad av Rachel Brathen (Yoga Girl), baserad på forskning, medskapad av Ph.D F. Livheim. *",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Du är inbjuden till en kort meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/shame/yogagirl_meditation_Lesson_05_Shame.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f095f8dd-854b-41ab-84fc-6988ac182d65/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Du har precis gjort en underbar sak för dig själv",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Skam",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Vergonha",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652880383/New_images/meditations%20png/Vergonha_eyhgyp.png"
+    },
+    "duration": {
+      "count": 6,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "f095f8dd-854b-41ab-84fc-6988ac182d65",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "f095f8dd-854b-41ab-84fc-6988ac182d65",
+        "root": "section1",
+        "alias": "Meditation: Shame meditation",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Vergonha",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652880383/New_images/meditations%20png/Vergonha_eyhgyp.png",
+            "title": "Vergonha",
+            "content": "*10:16 minutos*\n\nEsta meditação permite-te olhares para ti com a autocompaixão que mereces, para que assim, possas encarar os teus erros e os momentos que te causam vergonha  como oportunidades de crescimento.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para uma meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1633947033/29k%20FJN/Meditations/20210928%20Cristina%20New%20/Medita%C3%A7%C3%A3o_da_Vergonha_v2_swvh6h.mp3",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f095f8dd-854b-41ab-84fc-6988ac182d65/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Acabaste de fazer uma coisa maravilhosa pelo teu bem-estar",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Vergonha",
+        "type": "station"
+      }
+    ]
+  }
+}

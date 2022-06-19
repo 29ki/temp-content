@@ -1,0 +1,14 @@
+{
+  "en": {
+    "question": "Rate this lesson",
+    "detailedQuestion": "What did you think about it?"
+  },
+  "sv": {
+    "question": "Betygsätt lektionen",
+    "detailedQuestion": "Vad tyckte du om den?"
+  },
+  "pt": {
+    "question": "Avalia esta lição",
+    "detailedQuestion": "Qual é a tua opinião acerca da lição?"
+  }
+}

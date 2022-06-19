@@ -1,0 +1,485 @@
+{
+  "en": {
+    "id": "value-based-action-actions-you-are-proud-of",
+    "root": "2ab78ddf-9bb9-41e2-8269-0fca8ae75573",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "2ab78ddf-9bb9-41e2-8269-0fca8ae75573",
+        "alias": "Section 1",
+        "content": "Each and every day, we make hundreds of decisions – big and small – about how we want to show up and act in the world.\n\nThese actions can fall on a spectrum between those we think we **should** do to **please** others and those that we **genuinely** find important.\n\nLet's learn how to **tune-in** to your values and **act** on them.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "01790aa4-a3ba-43db-b4f4-11d10c6d1719"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635760964/toby-elliott-w-Io35Fv2t4-unsplash_ordjdy.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "01790aa4-a3ba-43db-b4f4-11d10c6d1719",
+        "content": "### Learn more about:\n\n* Not acting on my values\n* Acting on my values\n* Actions I'm proud of\n\n### You'll need:\n\n* 20 minutes\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "d95528df-ed2a-4ccf-956f-89535f2c244d",
+            "content": "Let's go"
+          }
+        ],
+        "alias": "Section 2"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d95528df-ed2a-4ccf-956f-89535f2c244d",
+        "alias": "Section 3",
+        "content": "At times, we have all acted to:\n\n* **Please** other people\n* Do what’s **expected** of us\n* **Avoid** or **escape** unwanted **feelings**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "01babb0b-c536-4cec-9c91-3f51513bb02b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "01babb0b-c536-4cec-9c91-3f51513bb02b",
+        "alias": "Section 4",
+        "content": "This is **normal**. And we act this way for all kinds of reasons, for example **fear** of **letting** other people **down** or **not** being **accepted** as we are.\n\nAnother reason we don't set **boundaries** or stay **true** to ourselves it that we **don't** **know** what we want. So we do what others **suggest**. That's why understanding what we **want** is **important**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "abe62206-3299-497c-91c3-ba45006a9070"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "abe62206-3299-497c-91c3-ba45006a9070",
+        "alias": "Section 5",
+        "longDescription": "Write down your answers.\n\n1. Think of a **situation** where you **didn’t** **listen** to what you felt was important to you.\n2. Describe that experience. What did you **do**? How did it **feel**? What were you **thinking**?\n3. In that particular situation, **what** **guided** your **actions**?",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "a35e13c9-fe4d-48ee-b7a7-9d0d6b8f68de"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a35e13c9-fe4d-48ee-b7a7-9d0d6b8f68de",
+        "content": "**Good job** listening in to something that you may not be proud of.\n\nYour reflection can help you understand **how** to take value-based **action** when faced with similar situations in the **future**.\n\nNow it's time to tune into taking **acting** according to your **values**.",
+        "alias": "Section 6",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "f484ffe5-c153-4a9c-8658-164aaa4e1ad9",
+            "content": "I'm done"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "f484ffe5-c153-4a9c-8658-164aaa4e1ad9",
+        "longDescription": "Write down your answers.\n\n1. Think of a situation when you **did** listen to what you felt was **important** to you.\n2. How was that **experience**? What did you **do**? How did it **feel**? What were you **thinking**?\n3. What **guided** your **actions**?",
+        "alias": "Section 7",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "6e53e342-e559-4d8b-9283-bc33356be62f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6e53e342-e559-4d8b-9283-bc33356be62f",
+        "content": "Moments in which we let our values **guide** **our actions** can be easy or joyful. But other times they can be difficult and painful.\n\nDoing what **matters** to us is **not** always the **easy** choice. We might have to **confront** a **fear** of **failing** or decide to do something that's **uncomfortable** but important.",
+        "alias": "Section 8",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Move on",
+            "conversationId": "fac26f5d-6695-4cea-b630-9f0cdc8ea807"
+          }
+        ]
+      }
+    ],
+    "alias": "Acting with purpose 2: Actions I'm proud of-1"
+  },
+  "sv": {
+    "id": "value-based-action-actions-you-are-proud-of",
+    "root": "2ab78ddf-9bb9-41e2-8269-0fca8ae75573",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "2ab78ddf-9bb9-41e2-8269-0fca8ae75573",
+        "alias": "Section 1",
+        "content": "Varje dag fattar vi hundratals beslut – stora som små – om **hur vi vill vara och agera i världen**.\n\nDet kan handla om vitt skilda saker: sånt vi tycker att vi borde göra för att tillfredsställa andra och sånt vi verkligen tycker är viktigt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Okej",
+            "sectionId": "01790aa4-a3ba-43db-b4f4-11d10c6d1719"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635760964/toby-elliott-w-Io35Fv2t4-unsplash_ordjdy.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "01790aa4-a3ba-43db-b4f4-11d10c6d1719",
+        "content": "### Lär dig mer om\n\n* Att **inte** lyssna inåt\n* Att lyssna inåt\n* Värdebaserade beteenden\n\n### Du behöver:\n\n* 20 minuter\n* Penna och papper",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "d95528df-ed2a-4ccf-956f-89535f2c244d",
+            "content": "Nu kör vi"
+          }
+        ],
+        "alias": "Section 2"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d95528df-ed2a-4ccf-956f-89535f2c244d",
+        "alias": "Section 3",
+        "content": "Ibland har vi alla gjort något för att\n\n* Tillfredsställa andra.\n* Göra det som förväntas av oss.\n* Undvika eller slippa oönskade känslor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "01babb0b-c536-4cec-9c91-3f51513bb02b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "01babb0b-c536-4cec-9c91-3f51513bb02b",
+        "alias": "Section 4",
+        "content": "Vi gör det av många skäl: rädsla för att svika andra, eller kanske för att inte accepteras som vi är.\n\nEtt annat skäl till att vi inte sätter gränser eller är sanna mot oss själva är att vi inte vet vad vi vill. Så vi gör som andra föreslår. Det är därför det är **viktigt att förstå vad vi** **vill**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "abe62206-3299-497c-91c3-ba45006a9070"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "abe62206-3299-497c-91c3-ba45006a9070",
+        "alias": "Section 5",
+        "longDescription": "Skriv ned dina svar.\n\n1. Tänk på en **situation** **där du inte** **lyssnade** på det du kände var viktigt för dig.\n2. **Beskriv upplevelsen**. Vad gjorde du? Hur kändes det? Vad tänkte du?\n3. I just den situationen, **vad styrde dina handlingar**?",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "a35e13c9-fe4d-48ee-b7a7-9d0d6b8f68de"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a35e13c9-fe4d-48ee-b7a7-9d0d6b8f68de",
+        "content": "Modigt av dig att titta närmare på något du kanske inte är stolt över.\n\nDet kan hjälpa oss att förstå **hur vi kan göra mer av det som är viktigt** när vi hamnar i liknande situationer i framtiden.\n\nNu är det dags att titta på en annan situation.",
+        "alias": "Section 6",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "f484ffe5-c153-4a9c-8658-164aaa4e1ad9",
+            "content": "Jag är redo"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "f484ffe5-c153-4a9c-8658-164aaa4e1ad9",
+        "longDescription": "Skriv ned dina svar.\n\n1. Tänk på en situation där du **lyssnade** **till det som var viktigt för dig**.\n2. **Hur var den upplevelsen?** Vad gjorde du? Hur kändes det? Vad tänkte du?\n3. Vad **styrde** **dina** **handlingar**?",
+        "alias": "Section 7",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "6e53e342-e559-4d8b-9283-bc33356be62f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6e53e342-e559-4d8b-9283-bc33356be62f",
+        "content": "Situationer där vi låter värderingar styra våra handlingar kan vara lätta eller roliga. Andra gånger kan de vara svåra och jobbiga.\n\n**Att göra det som är viktigt är inte alltid det lätta valet.** Vi kanske måste möta en rädsla för att misslyckas, eller besluta oss för att göra något som är obekvämt men viktigt.",
+        "alias": "Section 8",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "fac26f5d-6695-4cea-b630-9f0cdc8ea807"
+          }
+        ]
+      }
+    ],
+    "alias": "Acting with purpose 2: Actions I'm proud of-1"
+  },
+  "pt": {
+    "id": "value-based-action-actions-you-are-proud-of",
+    "alias": "Acting with purpose 2: Actions I'm proud of-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "alias": "Ações de que te orgulhas",
+        "title": "Ações de que te orgulhas",
+        "description": "Dependendo das situações, agimos mais da forma como sentimos que devemos ser ou mais de acordo com o que realmente importa para nós. \n\nAprende a sintonizar-te e a agir de acordo com os teus valores.\n\nNesta lição vais aprender a:\n\n* Como *não* agir segundo os valores\n* Como agir segundo os valores\n* Como olhar para uma escolha que tens de fazer",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015819/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L2_Value-based_action_V1_-_9x16_wztel1.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015892/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L2P1Actionsyouareproud_mvjk6j.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Não agir segundo os teus valores",
+        "title": "Não agir segundo os teus valores",
+        "content": "Pensa numa situação em que não ligaste ao que sentias ser importante para ti. Como foi essa experiência?\n\nReflete durante uns momentos, reconhecendo o que fizeste, como te sentiste, no que estavas a pensar e no que guiou as tuas ações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Bom trabalho!",
+        "title": "Bom trabalho!",
+        "content": "Refletiste sobre uma coisa de que podes não te orgulhar. Em diferentes situações da nossa vida, todos sabemos o que é agir por razões como:\n\n* Agradar a outras pessoas;\n* Fazer o que é esperado de nós;\n* Evitar sentimentos de preocupação, solidão, ansiedade ou desespero.\n\nEm situações difíceis, muitas vezes agimos de acordo com o que achamos que devemos fazer ou tentamos escapar a sentimentos indesejados. Os pensamentos e sentimentos que acabaste de identificar podem ajudar-te a definir as tuas ações e mostrar-te como viver uma vida com mais significado para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Agir segundo os valores",
+        "title": "Agir segundo os valores",
+        "description": "\"É uma satisfação enorme de ver a concretização das coisas.\"",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015819/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L2_Value-based_action_V2_-_9x16_lwic6s.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015891/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L2P4Actionsyouareproud_nu2dus.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Reflexão",
+        "title": "Reflexão",
+        "content": "Em todas as situações que enfrentamos, podemos perguntar a nós próprios:\n\nSe fizer isto, é porque é realmente importante para mim em termos pessoais?\n\nAgora pensa numa situação em que seguiste o que sentiste ser importante para ti. Como foi essa experiência?\n\nSintoniza-te com o que fizeste, com o que sentiste, com o que estavas a pensar e com o que guiou as tuas ações. Reflete nisto por uns momentos antes de continuares.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Enfrenta o medo",
+        "title": "Enfrenta o medo",
+        "content": "Boa, sintonizaste-te com uma situação em que deixaste os teus valores guiarem as tuas ações. Por vezes, estes momentos são os mais felizes, outras vezes os mais difíceis. Fazer o que é importante para nós nem sempre é a escolha mais fácil. Podemos enfrentar o medo de falhar ou decidir ter uma conversa desconfortável, mas importante.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "O teu dia...",
+        "title": "O teu dia...",
+        "longDescription": "Considera o teu dia até agora. Onde te posicionas na escala abaixo neste momento?\n\n1. Hoje agi como achava que devia.\n2. ...\n3. ...\n4. ...\n5. ...\n6. Hoje agi segundo o que era realmente importante para mim.\n\nA maioria de nós encontra-se em pontos diferentes desta escala em diferentes situações de vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "A tua escolha",
+        "title": "A tua escolha",
+        "longDescription": "Agora, pensa na escolha que tens de enfrentar.\n\nQual é?\n\nO que sentes acerca dela?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Se agires como é esperado",
+        "title": "Se agires como é esperado",
+        "longDescription": "Como seria se agisses de acordo com o que achas que deverias ser ou com o que é esperado de ti na situação em que estás? O que farias? Como te sentirias?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Se agires com o coração",
+        "title": "Se agires com o coração",
+        "longDescription": "Como seria se agisses de acordo com o que é importante para ti na escolha que enfrentas hoje? O que farias? Como te sentirias?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "alias": "Compara linhas de ação",
+        "title": "Compara linhas de ação",
+        "longDescription": "Quais são as diferenças entre estas duas linhas de ação na escolha que estás a fazer?\n\nEscreve a tua resposta numa folha de papel.\n\nGuarda as tuas notas, vais poder partilhá-las daqui a pouco.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Escolhas",
+        "title": "Escolhas",
+        "description": "\"Isso de agradar às outras pessoas não existe para mim. Agradar para mim é agradar aquilo que é o meu contexto empresarial e às pessoas que colaboram connosco.\"",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015841/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L2_Value-based_action_V3_-_9x16_nhljce.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015891/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L2P13Actionsyouareproud_pokod1.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "alias": "Agir e avaliar",
+        "title": "Agir e avaliar",
+        "content": "Ao enfrentares esta escolha, o caminho a seguir pode não ser logo evidente. Às vezes, evitar escolher pode ser inteligente. Por vezes, valores diferentes podem puxar as tuas ações em direções opostas. A única forma de encontrar qual é o caminho a seguir é experimentar estas ações na vida real. Sugerimos-te fazer isso e depois refletir sobre o resultado.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "Encerramento",
+        "title": "Encerramento",
+        "content": "Nesta lição aprendeste a:\n\n* Como *não* agir segundo os valores\n* Como agir segundo os valores\n* Como olhar para uma escolha que tens de fazer\n\nSintonizares-te com a sensação de agir de maneiras diferentes pode ajudar-te a viver de uma forma que é importante para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Se estiveres preparado, chegou o momento da partilha com o teu grupo. As perguntas para partilhar dizem respeito às escolhas que enfrentas neste momento.\n\n* Como seria se tivesses de agir da forma como sentes que deverias ser? Ou, pelo que é esperado de ti?\n* Como seria se tivesses de agir de acordo com o que é importante para ti?\n* Que diferenças existem entre estas duas linhas de ação?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

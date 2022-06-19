@@ -1,0 +1,66 @@
+{
+  "en": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 4",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "This meditation will help you feel more mindful and in the present moment.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 4",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "writing",
+        "title": "Övning",
+        "time": "5-10 min",
+        "question": "Vad finns det för små beteenden du kan göra varje dag för att sträva mot din värdering? Tänk ut så många små vardagliga beteenden som möjligt.",
+        "shortDescription": "",
+        "longDescription": "Utgå ifrån samma värde som du arbetade med nyss. Vad finns det för beteenden du kan göra **varje** dag för att regelbundet göra saker i linje med din värdering? \n\nTänk ut så många små dagliga beteenden som möjligt, och skriv ned dem på ett papper.\n\nKlar?\n\nVälj nu ut två beteenden från din lista, ett som du ska göra i dag, och ett som du ska göra i morgon. Skriv ner dem också.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 4",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Ações diárias",
+        "content": "As ações diárias tornam os nossos objetivos mais fáceis de alcançar. No entanto, mudar o nosso comportamento é difícil e às vezes parece que estamos a falhar até nas coisas mais simples.\n\nQuando tentamos atingir um objetivo, é importante não nos culparmos. Em vez disso, pensa em como poderias simplificar as tuas ações diárias para que o objetivo fosse mais fácil de alcançar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      }
+    ]
+  }
+}

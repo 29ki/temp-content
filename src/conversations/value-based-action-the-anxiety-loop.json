@@ -1,0 +1,329 @@
+{
+  "en": {
+    "id": "value-based-action-the-anxiety-loop",
+    "root": "ab273ea1-2190-4086-afff-bd3dcf3350a8",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ab273ea1-2190-4086-afff-bd3dcf3350a8",
+        "alias": "Section 1",
+        "title": "You are not alone",
+        "content": "Sometimes we find ourselves in situations we **did not expect.** \n\nIt might have to do with personal issues, global events — or both at the same time.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "911e8107-2c93-40c3-b696-9f36c30f5df0"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635760871/simon-joseph-BfO4iJPdHhI-unsplash_a79ogr.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "911e8107-2c93-40c3-b696-9f36c30f5df0",
+        "alias": "Intro 2",
+        "content": "When this happens, it's **normal** to experience **powerful** **emotions** such as anxiety. \n\nLearning psychological **tools** that are proven to **reduce** **overwhelm** and **anxiety** is the final ingredient that helps you live a value-based life also in challenging times.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "f31a1dd5-f151-4c24-8297-12b3dd1db28a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f31a1dd5-f151-4c24-8297-12b3dd1db28a",
+        "content": "### Learn more about:\n\n* Mindful breathing\n* Don’t feed the monster\n* Snap out of the anxiety loop\n* Keep practicing\n\n### You’ll need:\n\n* 20 minutes\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "d5c2f5b8-a169-4b20-bd18-76a08e08f907"
+          }
+        ],
+        "alias": "Section 2"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d5c2f5b8-a169-4b20-bd18-76a08e08f907",
+        "content": "Take a moment to **tune** **in** with yourself.\n\nHow are you **feeling** in this very moment? What's on your **mind**? How are you feeling in your **body**? Where are you at in your **life**?",
+        "alias": "Section 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "9f2025e3-004f-43c6-8a38-9d89ad766377"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "9f2025e3-004f-43c6-8a38-9d89ad766377",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/slow-full-breathing.mp3",
+        "duration": "3:29",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4"
+          }
+        ],
+        "alias": "Section 4",
+        "title": "Meditation",
+        "description": "Begin the lesson with this short meditation.\n\nPress **play** to start."
+      }
+    ],
+    "alias": "Acting with purpose 3: The anxiety loop-1"
+  },
+  "sv": {
+    "id": "value-based-action-the-anxiety-loop",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "description": "Du är inte ensam. Ibland placerar livet oss i situationer som vi inte förväntade oss. När man möter en utmaning är det helt normalt att uppleva starka känslor som stress, oro och ångest. Det är vår kropp och hjärna som säger att något är fel.\n\nI den här lektionen lär du dig\n\n* Uppmärksam andning\n* Mata inte monsteret\n* Kläm ut ur ångestslingan",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_intro.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_intro.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3.jpg",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ],
+        "content": "\"Jag var trött och gjorde ett stort misstag, ett stort misslyckande, och jag trodde att min diplomatiska karriär var över\""
+      },
+      {
+        "id": "section3",
+        "type": "audio",
+        "description": "När vi är stressade och oroliga hjälper uppmärksam andning oss att luta sig ner, komma i kontakt med nuet och få klarhet. Börja lektionen med denna korta meditation.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/slow-full-breathing.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4",
+            "content": "Fortsätt"
+          }
+        ]
+      }
+    ],
+    "alias": "Acting with purpose 3: The anxiety loop-1"
+  },
+  "pt": {
+    "id": "value-based-action-the-anxiety-loop",
+    "alias": "Acting with purpose 3: The anxiety loop-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "alias": "O ciclo da ansiedade",
+        "title": "O ciclo da ansiedade",
+        "description": "Não estás só. Por vezes a vida coloca-nos em situações inesperadas. Quando somos confrontados com um desafio, é perfeitamente normal sentirmos emoções fortes como stress, preocupação e ansiedade. São o nosso corpo e o nosso cérebro a alertarem-nos de que algo está errado.\n\nNesta lição vais aprender como:\n\n* Ter uma respiração *mindfulness*\n* Não alimentar o monstro\n* Sair do ciclo de ansiedade",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015832/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L3_Value-based_action_V1_-_9x16_tk2z4e.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015891/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L3P1Theanxietyloop_wyzuc7.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Quando estamos stressados e ansiosos, uma respiração consciente ajuda-nos a acalmar, a conectarmo-nos ao momento presente e a ganhar clareza. Começa a lição com esta meditação breve.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013514/29k%20FJN/Meditations/Cristina%20Final/RESPIRAR_LENTA_E_PROFUNDAMENTE_-_04_33_xaptrr.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "As ações míopes",
+        "title": "As ações míopes",
+        "description": "\"Stress extremo, assunto extremo… Foco total!\"",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015833/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L3_Value-based_action_V2_-_9x16_tuvqjc.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015892/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L3P4Theanxietyloop_juh25z.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Não alimentes o monstro",
+        "title": "Não alimentes o monstro",
+        "content": "Digamos que estás preocupada/o com a situação atual. Podes passar a maior parte do tempo em que estás acordada/o a ler notícias ou a ver documentários acerca do assunto. Este comportamento faz-te sentir bem no momento porque te dá uma sensação de controlo. Mas o que estás efetivamente a fazer é alimentar o monstro da ansiedade.\n\nQuando dedicamos muito tempo e energia a controlar a nossa ansiedade, ela pode dominar-nos, afetando o sono, as relações e todos os outros aspetos importantes para o nosso bem-estar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "longDescription": "Agora tenta lembrar-te de uma altura em que tenhas agido com base no stress, no cansaço ou na ansiedade. Descreve essa situação, os teus pensamentos, os teus sentimentos e o que fizeste.\n\nUsa 5 minutos para escreveres a tua resposta numa folha de papel antes de proseguires.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "alias": "O ciclo da ansiedade",
+        "title": "O ciclo da ansiedade",
+        "description": "\"Eu tenho diferentes interlocutores para diferentes tipos de problemas.\"",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015844/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L3_Value-based_action_V3_-_9x16_zxirey.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015892/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L3P7Theanxietyloop_c8tyzt.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Imagina o que os outros precisam",
+        "title": "Imagina o que os outros precisam",
+        "content": "Pensa acerca das necessidades de outra pessoa. Pode ser alguém próximo ou um estranho. Partindo da perspetiva dela, pensa se há alguma coisa que possas fazer para a ajudar ou que ela apreciasse de alguma forma.\n\nPor exemplo, podes agradecer à tua mãe, enviar uma mensagem a um amigo ou oferecer o teu lugar a uma pessoa mais velha?\n\nEscolhe uma ação simples que possas fazer imediatamente e depois volta para aqui.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "longDescription": "O que fizeste e por quem?\n\nO que aconteceu à tua ansiedade enquanto pensaste nas necessidades dessa pessoa?\n\nComo te sentiste depois de fazeres uma coisa para outra pessoa?\n\nEscreve as tuas respostas e guarda as tuas notas. Poderás partilhá-las daqui a pouco.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Quebrar o ciclo da ansiedade",
+        "title": "Quebrar o ciclo da ansiedade",
+        "content": "Quando o monstro da ansiedade assume o controlo, o melhor que tens a fazer é quebrar o seu ciclo.\n\nUma das formas de o fazer é mudando o teu comportamento. Por exemplo, podes limitar a leitura de notícias a meia hora por dia. Se os teus pensamentos continuam a regressar às tuas preocupações, interpreta isso como algo que tens de mudar: torna-te mais presente no teu corpo, conversa com alguém, faz exercício ou medita.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Encerramento",
+        "title": "Encerramento",
+        "content": "O que aprendeste:\n\n* A focar-te na tua respiração em vez de te deixares levar pelas emoções difíceis;\n* A identificar quando alimentas a ansiedade ou o monstro da preocupação;\n* Que focares-te nas necessidades dos outros pode aliviar o teu fardo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Agora já podes partilhar com o teu grupo.\n\nLembra-te do que vais partilhar.\n\n1. O que escolheste fazer e por quem?\n2. Qual era o teu estado de ansiedade quando pensaste acerca das necessidades dessa pessoa?\n3. Como te sentiste depois?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

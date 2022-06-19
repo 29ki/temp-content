@@ -1,0 +1,164 @@
+{
+  "en": {
+    "id": "53440372-6c44-45bb-a0f8-a8e1b5520b66",
+    "alias": "Leadership-pursuegoals-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "d9bd48a7-4703-4379-bc3a-cd9dba5af763",
+        "content": "It doesn’t matter how good a plan is, or what goals are achieved if it doesn't **matter to you personally**.\n\nSo before you set out to plan your next project, it’s important to connect to why and how it matters.",
+        "title": "Yes, it matters",
+        "alias": "Yes, it matters",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "ecf050cb-e64b-40cd-9567-69915b945990",
+            "content": "Let's give it a try"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "ecf050cb-e64b-40cd-9567-69915b945990",
+        "alias": "Mind Map",
+        "title": "Think of a project or a challenge you are working towards",
+        "longDescription": "* What thoughts, feelings and questions come up for you when you think about this project?\n\nTake a moment to explore these questions in a form of **a mind map.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "bdc03608-1c32-4be7-881c-e64502e74644"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "bdc03608-1c32-4be7-881c-e64502e74644",
+        "longDescription": "* What is the most important thing you and your organization want to achieve by pursuing this goal?",
+        "question": "As you draw your mind map, consider:",
+        "alias": "Q1",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "f70c6481-64eb-41fe-bc67-3161faf79602"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "f70c6481-64eb-41fe-bc67-3161faf79602",
+        "alias": "Q2",
+        "longDescription": "* When carrying out work-related goals, is there a way or style of doing so that matters to you?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "ffac6b91-662b-45b2-abc7-b99f97425f87"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "ffac6b91-662b-45b2-abc7-b99f97425f87",
+        "alias": "Q3",
+        "longDescription": "* How do you want to feel when accomplishing a project at work?\n* What about your organisation, colleagues, stakeholders and clients?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "4173b6c6-6210-400d-b243-1346e99b3d52",
+            "sectionId": "root"
+          }
+        ]
+      }
+    ],
+    "root": "d9bd48a7-4703-4379-bc3a-cd9dba5af763"
+  },
+  "sv": {
+    "id": "53440372-6c44-45bb-a0f8-a8e1b5520b66",
+    "alias": "Leadership-pursuegoals-2"
+  },
+  "pt": {
+    "id": "53440372-6c44-45bb-a0f8-a8e1b5520b66",
+    "alias": "Leadership-pursuegoals-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "d9bd48a7-4703-4379-bc3a-cd9dba5af763",
+        "content": "Não importa quão bom seja um plano, ou que objetivos vão ser alcançados, se isso não for **relevante para ti a nível pessoal.** \n\nPortanto, antes de planeares o teu próximo projeto, é importante saberes por que razão e de que forma é relevante.",
+        "title": "Sim, é importante",
+        "alias": "Sim, é importante",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "ecf050cb-e64b-40cd-9567-69915b945990",
+            "content": "Vamos tentar "
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "ecf050cb-e64b-40cd-9567-69915b945990",
+        "alias": "Mind Map",
+        "title": "Pensa num projeto ou desafio no qual estás a trabalhar",
+        "longDescription": "* Que pensamentos, sentimentos e perguntas te surgem quando pensas neste projeto?\n\nTira um momento para explorar essas questões com um **mapa mental.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei ",
+            "sectionId": "bdc03608-1c32-4be7-881c-e64502e74644"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "bdc03608-1c32-4be7-881c-e64502e74644",
+        "longDescription": "* Qual é a coisa mais importante que tu e a tua organização querem alcançar ao perseguirem este objetivo?",
+        "question": "Ao desenhar o teu mapa mental, tem em conta:",
+        "alias": "Q1",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí",
+            "sectionId": "f70c6481-64eb-41fe-bc67-3161faf79602"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "f70c6481-64eb-41fe-bc67-3161faf79602",
+        "alias": "Q2",
+        "longDescription": "* Ao cumprir objetivos profissionais, há alguma maneira ou estilo de o fazer para que seja relevante para ti?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "ffac6b91-662b-45b2-abc7-b99f97425f87"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "ffac6b91-662b-45b2-abc7-b99f97425f87",
+        "alias": "Q3",
+        "longDescription": "* Como queres sentir-te ao realizar um projeto no trabalho?\n* E no que diz respeito à tua organização, colegas, intervenientes e clientes?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Terminei ",
+            "conversationId": "4173b6c6-6210-400d-b243-1346e99b3d52",
+            "sectionId": "root"
+          }
+        ]
+      }
+    ],
+    "root": "d9bd48a7-4703-4379-bc3a-cd9dba5af763"
+  }
+}

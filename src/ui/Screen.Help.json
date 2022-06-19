@@ -1,0 +1,71 @@
+{
+  "en": {
+    "screenTitle": "Help",
+    "noEmailClientAlert": {
+      "title": "We couldn't detect an email client on your device.",
+      "message": "Do you want to copy our email to your clipboard?"
+    },
+    "rowButtons": {
+      "faq": "Frequently Asked Questions",
+      "needHelp": {
+        "label": "help@29k.org",
+        "email": "help@29k.org",
+        "subject": "I need help"
+      },
+      "helpLines": {
+        "label": "Crisis helplines",
+        "url": "https://29k.org/helplines"
+      },
+      "yourData": "Privacy",
+      "calmDown": "Calm down",
+      "safetyToolkit": "Get help",
+      "reportMisconduct": "Report misconduct"
+    }
+  },
+  "sv": {
+    "screenTitle": "Hjälp",
+    "noEmailClientAlert": {
+      "title": "Vi kunde inte hitta en email-klient.",
+      "message": "Vill du kopiera vår email?"
+    },
+    "rowButtons": {
+      "faq": "Svar på vanliga frågor",
+      "needHelp": {
+        "label": "help+sv@29k.org",
+        "email": "help+sv@29k.org",
+        "subject": "Jag behöver hjälp"
+      },
+      "helpLines": {
+        "label": "Hjälplinjer",
+        "url": "https://29k.org/helplines"
+      },
+      "yourData": "Din integritet",
+      "safetyToolkit": "Få hjälp",
+      "calmDown": "Bli lugn nu",
+      "reportMisconduct": "Rapportera problem"
+    }
+  },
+  "pt": {
+    "screenTitle": "Ajuda",
+    "noEmailClientAlert": {
+      "title": "Não conseguimos detetar um email de cliente no teu dispositivo.",
+      "message": "Queres copiar o nosso email para a área de transferência?"
+    },
+    "rowButtons": {
+      "faq": "Perguntas frequentes",
+      "needHelp": {
+        "label": "help+fjn@29k.org",
+        "email": "help+fjn@29k.org",
+        "subject": "Eu preciso de ajuda"
+      },
+      "helpLines": {
+        "label": "Linhas de apoio para emergências",
+        "url": "https://joseneves.org/pt/29-k-fjn-linhas-de-ajuda"
+      },
+      "yourData": "Privacidade",
+      "calmDown": "Acalmar",
+      "safetyToolkit": "Obter ajuda",
+      "reportMisconduct": "Reportar problema"
+    }
+  }
+}

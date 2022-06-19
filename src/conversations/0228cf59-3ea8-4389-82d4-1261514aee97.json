@@ -1,0 +1,65 @@
+{
+  "en": {
+    "id": "0228cf59-3ea8-4389-82d4-1261514aee97",
+    "alias": "Navigating stormy seas 2 (Become present)",
+    "root": "section16",
+    "sections": [
+      {
+        "id": "section16",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "This short meditation will help you connect to the present moment and prepare you for the final step in this lesson — the group sharing.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/slow-full-breathing.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section17"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "0228cf59-3ea8-4389-82d4-1261514aee97",
+    "alias": "Navigating stormy seas 2 (Become present)",
+    "root": "section16",
+    "sections": [
+      {
+        "id": "section16",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Den här korta meditationen hjälper dig att landa i nuet.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621585394/Meditations/slow_full_breathing_svenska_-_2021-05-20_08_va7svn.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section17"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "0228cf59-3ea8-4389-82d4-1261514aee97",
+    "alias": "Navigating stormy seas 2 (Become present)",
+    "root": "section16",
+    "sections": [
+      {
+        "id": "section16",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta pequena meditação vai ajudar-te a conectares-te com o momento presente para preparares o passo final desta lição — a partilha em grupo.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section17"
+          }
+        ]
+      }
+    ]
+  }
+}

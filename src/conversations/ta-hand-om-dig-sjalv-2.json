@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "ta-hand-om-dig-sjalv-2",
-    "alias": "ta-hand-om-dig-sjalv-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 3-Selfcare-2",
     "root": "section1",
     "sections": [
       {
@@ -12,11 +11,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Fokusövning"
+                "content": "# Focus exercise"
               },
               {
                 "component": "Text",
-                "content": "Du ska nu få testa en fokusövning som handlar om att låta värmen från din hand hjälpa dig att göra plats för det som är svårt på insidan."
+                "content": "Now you'll try a focus exercise that is about letting the warmth from your hand help you make room for what's difficult on the inside."
               }
             ]
           },
@@ -25,8 +24,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "ta-hand-om-dig-sjalv-2",
+                "content": "Continue",
                 "sectionId": "section2"
               }
             ]
@@ -41,7 +39,7 @@
           {
             "component": "AudioPlayer",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv/gora-plats.mp3",
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624637214/Become%20friends%20with%20yourself/sound%20files/YA_Make_Friends_L3_Meditation_y23gsz.mp4",
               "duration": 208
             }
           },
@@ -51,7 +49,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-2",
                 "sectionId": "section3"
               }
             ]
@@ -68,7 +65,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Bra jobbat, nu är du redo för nästa steg."
+                "content": "Well done, you're ready for the next step."
               }
             ]
           },
@@ -77,9 +74,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
-                "sectionId": "section1"
+                "variant": "primary",
+                "content": "Next",
+                "conversationId": "ta-hand-om-dig-sjalv-3"
               }
             ]
           }
@@ -92,8 +89,7 @@
   },
   "sv": {
     "id": "ta-hand-om-dig-sjalv-2",
-    "alias": "ta-hand-om-dig-sjalv-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 3-Selfcare-2",
     "root": "section1",
     "sections": [
       {
@@ -117,7 +113,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "ta-hand-om-dig-sjalv-2",
                 "sectionId": "section2"
               }
             ]
@@ -142,7 +137,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-2",
                 "sectionId": "section3"
               }
             ]
@@ -168,9 +162,97 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
-                "sectionId": "section1"
+                "conversationId": "ta-hand-om-dig-sjalv-3"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "ta-hand-om-dig-sjalv-2",
+    "alias": "YA Become friends: 3-Selfcare-2",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Exercício de foco"
+              },
+              {
+                "component": "Text",
+                "content": "Agora vais tentar um exercício de foco que consiste em deixar o calor da tua mão ajudar-te a abrir espaço para o que é difícil por dentro."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893836/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Meditations%20Exercises%20Audio/S%C3%AA_teu_amigo_-_Toma_conta_de_ti_-_EXERCICIO_DE_FOCO_-_03_25_gu8mov.mp3",
+              "duration": 3
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Muito bem, estás pronto/a para o próximo passo."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte ",
+                "conversationId": "ta-hand-om-dig-sjalv-3"
               }
             ]
           }

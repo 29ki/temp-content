@@ -1,0 +1,259 @@
+{
+  "en": {
+    "id": "fa807001-4bee-431f-a68c-27f5d23161b2",
+    "alias": "Nourishing relationships 3: Being there for others-4",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "This meditation will help you **respond** to **vulnerability** from a loving and compassionate place.\n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_openingup.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section9"
+          }
+        ],
+        "alias": "8",
+        "duration": "06:52"
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "longDescription": "Write down your answers.\n\n1. How would you **respond** to someone being vulnerable with you in a loving, open-hearted way if you felt completely **safe**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "1fc75daa-cfd3-4daf-9baa-3628cfad5889"
+          }
+        ],
+        "alias": "Exercise"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1fc75daa-cfd3-4daf-9baa-3628cfad5889",
+        "title": "Keep practicing",
+        "content": "In this short course you've become **equipped** with **tools** for **nourishing** your **relationships**.\n\nSince practice over time is crucial, we highly recommend that you continue practicing your tools over and over again.\n\nThus, the next step on this path is to set **goals** for how you want to continue going forward.",
+        "alias": "Keep practicing",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "a6bb5486-4c00-4534-99a6-476bc2d3e9ed"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a6bb5486-4c00-4534-99a6-476bc2d3e9ed",
+        "content": "Write down your answers.\n\n1. What can you continue doing to nourish your relationships? \n2. Why is it important to you to **keep** **working** on your relationships? \n3. What are the most **important** **learnings** you want to carry with you?",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "a3fa8261-0027-4226-b00d-9e6c1d2cf1fb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a3fa8261-0027-4226-b00d-9e6c1d2cf1fb",
+        "alias": "Summary",
+        "title": "",
+        "content": "Well done for completing the course **Nourishing relationships.**\n\nTo continue your practice, we recommend **incorporating** the **tools** you've found helpful into your everyday life. \n\nYou may also like to check out our other courses, for examples on **values** and **self-compassion**. We also have a lot of **need-based** exercises and meditations.\n\nFor the **research** behind this course, you’ll find **references** on our [website](https://29k.org/). \n\nLet’s continue the journey together!\n\nLove,\n\nThe 29k-team",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next step",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember the questions:\n\n1. What can you continue doing to nourish your relationships? \n2. Why is it important to you to **keep** **working** on your relationships? \n3. What are the most **important** **learnings** you want to carry with you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finished"
+          }
+        ],
+        "alias": "Sharing"
+      }
+    ]
+  },
+  "sv": {
+    "id": "fa807001-4bee-431f-a68c-27f5d23161b2",
+    "alias": "Nourishing relationships 3: Being there for others-4",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Den här meditationen hjälper dig **bemöta** **sårbarhet** på ett kärleksfullt och empatiskt sätt.\n\nTryck på play-knappen för att börja.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1619103782/Meditations/Opening_up_svenska_-_2021-04-22_15.23_vkm4oi.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "678c151d-52c2-46b5-9afd-7226a157cb45"
+          }
+        ],
+        "alias": "8",
+        "duration": "09:14"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "678c151d-52c2-46b5-9afd-7226a157cb45",
+        "alias": "Exercise",
+        "title": "Övning",
+        "longDescription": "Skriv ned dina svar.\n\n1. Hur skulle du **bemöta** någon som är **sårbar** inför dig på ett kärleksfullt och öppet sätt om du kände dig helt **trygg**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "a0e46c66-4065-41ba-9c43-36dde77ffe1f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a0e46c66-4065-41ba-9c43-36dde77ffe1f",
+        "title": "Fortsätt öva",
+        "content": "Under den här korta kursen har du blivit **utrustad med verktyg** för att bättre kunna **ta** **hand** om dina **relationer**.\n\nVi rekommenderar starkt att du fortsätter öva på dina verktyg om och om igen.\n\nNästa steg på den här resan är därför att sätta upp **mål** för hur du vill fortsätta framåt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "2e8f4855-1bfb-4f31-a909-f9bac6165846"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2e8f4855-1bfb-4f31-a909-f9bac6165846",
+        "content": "Skriv ner dina svar.\n\n1. Vilka **verktyg** hjälper dig ta hand om dina relationer?\n2. Varför är det viktigt för dig att **fortsätta** arbeta på dina relationer?\n3. Vilka är de **viktigaste lärdomarna** du tar med dig?",
+        "alias": "Övning",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "5e70bf81-1c61-4a53-bb4d-2c9921479871"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5e70bf81-1c61-4a53-bb4d-2c9921479871",
+        "alias": "Sammanfattning",
+        "title": "",
+        "content": "Bra jobbat, du har nu slutfört kursen **Ta hand om dina relationer**.\n\nFör att fortsätta din resa rekommenderar vi att du använder och övar på **verktygen** som du tycker har varit **hjälpsamma** i din **vardag**. \n\nDu kanske även vill spana in våra andra kurser, exempelvis om **värderingar** och **självmedkänsla**. Vi har även många **behovsbaserade** övningar och meditationer.\n\n**Forskningen** bakom denna kurs hittar du på vår [hemsida](https://29k.org/research). \n\nLåt oss fortsätta resan tillsammans!\n\nKärlek,\n\n29k-teamet",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa steg",
+            "sectionId": "49ed156f-d420-47a7-af6f-a4f662c4fd1a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "49ed156f-d420-47a7-af6f-a4f662c4fd1a",
+        "alias": "Sharing",
+        "content": "Du är nu redo för nästa steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Vilka **verktyg** hjälper dig ta hand om dina relationer?\n2. Varför är det viktigt för dig att **fortsätta** arbeta på dina relationer?\n3. Vilka är de **viktigaste lärdomarna** du tar med dig?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "fa807001-4bee-431f-a68c-27f5d23161b2",
+    "alias": "Nourishing relationships 3: Being there for others-4",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai-te ajudar a abrires-te à vulnerabilidade e a reagir a partir de um lugar verdadeiro, compassivo e de amor.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523410/29k%20FJN/Meditations/Joanna%20Final/Opening_Up_tsqxb2.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "longDescription": "Se alguém se mostrasse vulnerável de uma forma amável e de coração aberto, como reagirias se te sentisses completamente segura/o?\n\nEscreve as tuas respostas. Poderás partilhar estas reflexões com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "title": "Reflexão sobre o curso",
+        "description": "“Se as pessoas estivessem bem resolvidas com elas, em paz interior (…) não existiriam tantos conflitos.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621406588/29k%20FJN/Courses/Nourishing%20Relationships/Photos/3nourishingrelationships_reframing_beuhsl.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621936365/29k%20FJN/Courses/Nourishing%20Relationships/Videos%20Final/L3_Nourishing_relationships_in_times_of_turmoil_V2_blfnpg.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por teres completado esta sessão e este curso.\n\nAgora já podes dar o próximo passo - a partilha em grupo.\n\nPartilha as tuas respostas e reflexões sobre este exercício:\n\nSe tivesses de dar um último presente à pessoa em questão e se te sentisses completamente segura/o:\n\n* Como te aproximarias dessa pessoa de uma forma compassiva?\n* O que é que lhe dirias?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

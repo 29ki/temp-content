@@ -1,0 +1,29 @@
+{
+  "en": {
+    "update": "Update",
+    "update_active": "Updating",
+    "readMore_collapsed": "Read more",
+    "readMore": "Read less",
+    "optional": "Optional",
+    "forExample": "For example",
+    "and": "and"
+  },
+  "sv": {
+    "update": "Uppdatera",
+    "update_active": "Uppdaterar",
+    "readMore_collapsed": "Läs mer",
+    "readMore": "Läs mindre",
+    "optional": "Frivilligt",
+    "forExample": "Till exempel",
+    "and": "och"
+  },
+  "pt": {
+    "update": "Atualizar",
+    "update_active": "A atualizar",
+    "readMore_collapsed": "Ler mais",
+    "readMore": "Ler menos",
+    "optional": "Opcional",
+    "forExample": "Por exemplo",
+    "and": "e"
+  }
+}

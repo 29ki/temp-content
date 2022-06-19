@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Leave this challenge",
+    "text": "Are you sure you want to leave this challenge?",
+    "cancelButton": "Stay",
+    "confirmButton": "Leave"
+  },
+  "sv": {
+    "title": "Lämna utmaningen",
+    "text": "Är du säker på att du vill lämna utmaningen?",
+    "cancelButton": "Stanna",
+    "confirmButton": "Lämna"
+  },
+  "pt": {
+    "title": "Sair do desafio",
+    "text": "Tens a certeza que queres sair do desafio?",
+    "cancelButton": "Ficar",
+    "confirmButton": "Sair"
+  }
+}

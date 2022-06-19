@@ -2,7 +2,7 @@
   "en": {
     "id": "feeling-lost-1",
     "alias": "feeling-lost-1",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -38,13 +38,11 @@
               {
                 "component": "Button",
                 "content": "Let’s do it",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "section2"
               },
               {
                 "component": "Button",
                 "content": "Nah, not for me",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "END"
               }
             ]
@@ -75,7 +73,6 @@
               {
                 "component": "Button",
                 "content": "Get in the mood to start",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "section3"
               }
             ]
@@ -114,7 +111,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "section4"
               }
             ]
@@ -140,10 +136,15 @@
             ]
           },
           {
-            "component": "NextConversationButton",
-            "content": "Next step",
-            "conversationId": "feeling-lost-2",
-            "sectionId": "section1"
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "feeling-lost-2"
+              }
+            ]
           }
         ],
         "id": "section4",
@@ -155,7 +156,7 @@
   "sv": {
     "id": "feeling-lost-1",
     "alias": "feeling-lost-1",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -191,13 +192,11 @@
               {
                 "component": "Button",
                 "content": "Let’s do it",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "section2"
               },
               {
                 "component": "Button",
                 "content": "Nah, not for me",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "END"
               }
             ]
@@ -228,7 +227,6 @@
               {
                 "component": "Button",
                 "content": "Get in the mood to start",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "section3"
               }
             ]
@@ -267,7 +265,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "feeling-lost-1",
                 "sectionId": "section4"
               }
             ]
@@ -293,10 +290,169 @@
             ]
           },
           {
-            "component": "NextConversationButton",
-            "content": "Next step",
-            "conversationId": "feeling-lost-2",
-            "sectionId": "section1"
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "feeling-lost-2"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "feeling-lost-1",
+    "alias": "feeling-lost-1",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "** This lesson contains: ** 3 exercises"
+              },
+              {
+                "component": "Text",
+                "content": "** Time: ** approx. 45 min"
+              },
+              {
+                "component": "Text",
+                "content": "** You will learn: ** here is a sentence about what you will learn and take with you in this course."
+              },
+              {
+                "component": "Text",
+                "content": "** Notice: ** You will document your thoughts by writing by hand, in the app or record your voice. You decide what you prefer. No one but you will be able to see it."
+              },
+              {
+                "component": "Text",
+                "content": "** Tip: ** We suggest using real pen and paper when writing since it is proven to give a better psychological effect."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Let’s do it",
+                "sectionId": "section2"
+              },
+              {
+                "component": "Button",
+                "content": "Nah, not for me",
+                "sectionId": "END"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "This lesson contains"
+              },
+              {
+                "component": "Text",
+                "content": "* Intro\n* Explore feeling lost\n* Explore feeling purposeful\n* Reflect on the difference\n* Summary"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Get in the mood to start",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "\"Which road do I take?\" Alice asked"
+              },
+              {
+                "component": "Text",
+                "content": "\"Where do you want to go?\" the cat replied"
+              },
+              {
+                "component": "Text",
+                "content": "\"I do not know\", Alice answered"
+              },
+              {
+                "component": "Text",
+                "content": "\"Then\", said the cat, \"it does not matter\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Where are you heading?"
+              },
+              {
+                "component": "Text",
+                "content": "### Most of us lack direction in life at some time. Identifying values can serve as a compass, guiding your steps in everyday life as well as in times of trouble."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "feeling-lost-2"
+              }
+            ]
           }
         ],
         "id": "section4",

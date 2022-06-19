@@ -1,0 +1,509 @@
+{
+  "en": {
+    "segments": ["YOUNG_ADULTS"],
+
+    "name": "Building relationships",
+    "about": {
+      "body": ".",
+      "howThisWorks": "This course has four lessons where you'll learn more about how relationships work. In the lessons you get to do exercises, reflect, listen to others' experiences and—if you want to—share your own.",
+      "courseValue": "Relationships—how they work\n\nRelationships are super important to humans—and can often be hard to handle. This course is about:\n\n* What's important in relationships to you?\n* Concrete tools to improve relationships\n* Practice your skills to build relationships",
+      "createdBy": {
+        "text": "This course was based on the works of Australian psychologist and PhD Louise Hayes. The content has been co-created by Louise Hayes and the 29k team, and was edited by 29k psychologist Jenny Rickardsson.",
+        "profiles": [
+          {
+            "name": "Louise Hayes, psychologist, PhD",
+            "linkUri": "https://www.louisehayes.com.au/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620653669/Illustrations_Exercises/Thumbnail_Acting_in_a_way_I_can_be_proud_of_xvgv4v.png"
+          },
+          {
+            "name": "Jenny Rickardsson, psychologist, PhD",
+            "linkUri": "https://careers.29k.org/people/654164-jenny-rickardsson",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620653669/Illustrations_Exercises/Thumbnail_The_healing_hand_exercise_av6i2a.png"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648566092/New_images/courses%20young%20adults/building_realationship_rggkm4.png"
+    },
+    "cta": "Relationships—how they work.",
+    "duration": {
+      "type": "lesson",
+      "count": 4
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "be5f7a9d-6cd4-47cc-94a5-2d70d9952ac5",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "3edf6221-95a6-4f40-ba80-953ca075b4af",
+        "name": "Relationships – The basics",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Why we care",
+            "conversationId": "relationship-basics-1"
+          },
+          {
+            "title": "To pause",
+            "conversationId": "relationship-basics-2"
+          },
+          {
+            "title": "What is important?",
+            "conversationId": "relationship-basics-3"
+          },
+          {
+            "title": "Practice",
+            "conversationId": "relationship-basics-4"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619607700/Building%20Relationships/relationship-basics_lession_xamzzf.png"
+        },
+        "description": "What is important to you in a friend?"
+      },
+      {
+        "wip": false,
+        "id": "0ca811c9-5c06-479a-9736-bbb1a1765dff",
+        "name": "Aware and allowing",
+        "conversations": [
+          {
+            "title": "Truth or idea",
+            "conversationId": "relationship-aoa-1"
+          },
+          {
+            "title": "Friendship super skills",
+            "conversationId": "relationship-aoa-2"
+          },
+          {
+            "title": "Aware and allowing",
+            "conversationId": "relationships-aoa-3"
+          },
+          {
+            "title": "Practice",
+            "conversationId": "relationships-aoa-4"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610657/Building%20Relationships/aware-allow_lession_d7aoct.png"
+        },
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Practice to be able to choose your behaviour"
+      },
+      {
+        "wip": false,
+        "id": "5402006f-b645-4ae8-8f2d-db6c48b6ec59",
+        "conversations": [
+          {
+            "title": "When things go wrong",
+            "conversationId": "relationships-thingsgowrong-1"
+          },
+          {
+            "title": "Aware and allowing in challenging situations",
+            "conversationId": "relationships-thingsgowrong-2"
+          },
+          {
+            "title": "Difficult thoughts",
+            "conversationId": "relationships-thingsgowrong-3"
+          },
+          {
+            "title": "Practice",
+            "conversationId": "relationships-thingsgowrong-4"
+          }
+        ],
+        "name": "When it's hard",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610720/Building%20Relationships/when-things-go-wrong_lession_ulfvyx.png"
+        },
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Handle challenging situations"
+      },
+      {
+        "wip": false,
+        "id": "36d22e80-5449-4f5e-a52f-7f35bb633714",
+        "name": "Inside-outside",
+        "conversations": [
+          {
+            "title": "Inside-outside",
+            "conversationId": "relationships-insideoutside-1"
+          },
+          {
+            "title": "Exercise one",
+            "conversationId": "relationships-insideoutside-2"
+          },
+          {
+            "title": "Test your friendship skill",
+            "conversationId": "relationships-insideoutside-3"
+          },
+          {
+            "title": "Practice",
+            "conversationId": "relationships-insideoutside-4"
+          },
+          {
+            "title": "Build friendships with these steps",
+            "conversationId": "relationships-insideoutside-5"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610758/Building%20Relationships/inside-outside_lession_voxu2r.png"
+        },
+        "description": "Understand yourself – and others"
+      }
+    ],
+    "difficulty": "Beginner",
+
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/be5f7a9d-6cd4-47cc-94a5-2d70d9952ac5/bygga-relationer_header.png"
+    }
+  },
+  "sv": {
+    "segments": ["YOUNG_ADULTS"],
+
+    "name": "Bygga relationer",
+    "about": {
+      "body": "",
+      "howThisWorks": "Den här kursen har fyra lektioner där du får lära dig mer om hur relationer fungerar. I lektionerna får du göra övningar, reflektera, ta del av andras erfarenheter och – om du vill – dela dina egna.",
+      "courseValue": "## Så funkar det\n\nRelationer är superviktiga för oss människor – och ibland kan de vara svåra att hantera. Den här utmaningen innehåller:\n\n* Vad är viktigt för just dig i relationer?\n* Konkreta verktyg för att främja relationer\n* Träna din förmåga att hantera relationer",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Louise Hayes, psykolog, PhD"
+          },
+          {
+            "name": "Jenny Rickardsson, psykolog, PhD"
+          }
+        ],
+        "text": "Den här kursen är baserad på forskning och kliniskt arbete av den australiensiska psykologen och forskaren Louise Hayes. Innehållet har skapats tillsammans av Louise Hayes och 29k. Redaktör för kursen har varit 29k-psykologen Jenny Rickardsson."
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648566092/New_images/courses%20young%20adults/building_realationship_rggkm4.png"
+    },
+    "cta": "Relationer – så funkar det",
+    "duration": {
+      "type": "lesson",
+      "count": 4
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "be5f7a9d-6cd4-47cc-94a5-2d70d9952ac5",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "3edf6221-95a6-4f40-ba80-953ca075b4af",
+        "name": "Grunderna",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Varför vi bryr oss",
+            "conversationId": "relationship-basics-1"
+          },
+          {
+            "title": "Pausa",
+            "conversationId": "relationship-basics-2"
+          },
+          {
+            "title": "Vad är viktigt?",
+            "conversationId": "relationship-basics-3"
+          },
+          {
+            "title": "Öva",
+            "conversationId": "relationship-basics-4"
+          }
+        ],
+        "description": "Vad är viktigt hos en kompis?",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619607700/Building%20Relationships/relationship-basics_lession_xamzzf.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "0ca811c9-5c06-479a-9736-bbb1a1765dff",
+        "name": "Medveten & tillåtande",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Fakta eller idé",
+            "conversationId": "relationship-aoa-1"
+          },
+          {
+            "title": "Superfärdigheter i kompisrelationer ",
+            "conversationId": "relationship-aoa-2"
+          },
+          {
+            "title": "Medveten och tillåtande ",
+            "conversationId": "relationships-aoa-3"
+          },
+          {
+            "title": "Öva",
+            "conversationId": "relationships-aoa-4"
+          }
+        ],
+        "description": "Att kunna välja beteende",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610657/Building%20Relationships/aware-allow_lession_d7aoct.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "5402006f-b645-4ae8-8f2d-db6c48b6ec59",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "När det blir fel",
+            "conversationId": "relationships-thingsgowrong-1"
+          },
+          {
+            "title": "Medveten och tillåtande i svåra situationer",
+            "conversationId": "relationships-thingsgowrong-2"
+          },
+          {
+            "title": "Jobbiga tankar",
+            "conversationId": "relationships-thingsgowrong-3"
+          },
+          {
+            "title": "Öva",
+            "conversationId": "relationships-thingsgowrong-4"
+          }
+        ],
+        "name": "När det är svårt",
+        "description": "Hantera utmanande situationer",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610720/Building%20Relationships/when-things-go-wrong_lession_ulfvyx.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "36d22e80-5449-4f5e-a52f-7f35bb633714",
+        "name": "Insidan-utsidan",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Insidan-utsidan",
+            "conversationId": "relationships-insideoutside-1"
+          },
+          {
+            "title": "Övning ett",
+            "conversationId": "relationships-insideoutside-2"
+          },
+          {
+            "title": "Testa dina vänskapsfärdigheter",
+            "conversationId": "relationships-insideoutside-3"
+          },
+          {
+            "title": "Öva",
+            "conversationId": "relationships-insideoutside-4"
+          },
+          {
+            "title": "Bygg relationer steg för steg",
+            "conversationId": "relationships-insideoutside-5"
+          }
+        ],
+        "description": "Förstå dig själv och andra",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610758/Building%20Relationships/inside-outside_lession_voxu2r.png"
+        }
+      }
+    ],
+    "difficulty": "Beginner",
+
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/be5f7a9d-6cd4-47cc-94a5-2d70d9952ac5/bygga-relationer_header.png"
+    }
+  },
+  "pt": {
+    "segments": ["YOUNG_ADULTS", "ADULTS"],
+    "author": {
+      "nickname": "Nenny",
+      "name": "Nenny"
+    },
+    "name": "Construir relações",
+    "about": {
+      "body": "",
+      "howThisWorks": "Este curso tem quatro lições onde vais aprender mais sobre como as relações funcionam. Nas lições, fazes exercícios, refletes, ouves as experiências dos outros e, se quiseres, partilhas as tuas.",
+      "courseValue": "As relações são super importantes para as pessoas - e muitas vezes é um tema com o qual é difícil lidar. Este curso vais aprender:\n\n* O que é importante para ti nas relações\n* Ferramentas concretas para melhorar as relações\n* A praticar as tuas competências para construir relações",
+      "createdBy": {
+        "text": "Este curso foi baseado nos trabalhos da psicóloga e PhD australiana Louise Hayes. O conteúdo foi co-criado por Louise Hayes e a equipa da 29k, e foi editado pela psicóloga da 29k Jenny Rickardsson.",
+        "profiles": [
+          {
+            "name": "Louise Hayes, psicóloga, PhD",
+            "linkUri": "https://www.louisehayes.com.au/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620653669/Illustrations_Exercises/Thumbnail_Acting_in_a_way_I_can_be_proud_of_xvgv4v.png"
+          },
+          {
+            "name": "Jenny Rickardsson, psicóloga, PhD",
+            "linkUri": "https://careers.29k.org/people/654164-jenny-rickardsson",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620653669/Illustrations_Exercises/Thumbnail_The_healing_hand_exercise_av6i2a.png"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650376575/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Menu_v2_weyslz.jpg"
+    },
+    "cta": "Relações - como funcionam",
+    "duration": {
+      "type": "lesson",
+      "count": 4
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "be5f7a9d-6cd4-47cc-94a5-2d70d9952ac5",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "3edf6221-95a6-4f40-ba80-953ca075b4af",
+        "name": "Relações – O básico",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Porque nos importamos ",
+            "conversationId": "relationship-basics-1"
+          },
+          {
+            "title": "Fazer uma pausa",
+            "conversationId": "relationship-basics-2"
+          },
+          {
+            "title": "O que é importante?",
+            "conversationId": "relationship-basics-3"
+          },
+          {
+            "title": "Prática",
+            "conversationId": "relationship-basics-4"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619607700/Building%20Relationships/relationship-basics_lession_xamzzf.png"
+        },
+        "description": "O que é importante para ti num/a amigo/a?"
+      },
+      {
+        "wip": false,
+        "id": "0ca811c9-5c06-479a-9736-bbb1a1765dff",
+        "name": "Consciência e aceitação ",
+        "conversations": [
+          {
+            "title": "Verdade ou ideia",
+            "conversationId": "relationship-aoa-1"
+          },
+          {
+            "title": "As super competências da amizade",
+            "conversationId": "relationship-aoa-2"
+          },
+          {
+            "title": "Consciente e aceitando",
+            "conversationId": "relationships-aoa-3"
+          },
+          {
+            "title": "Prática",
+            "conversationId": "relationships-aoa-4"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610657/Building%20Relationships/aware-allow_lession_d7aoct.png"
+        },
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Pratica seres capaz de escolher o teu comportamento"
+      },
+      {
+        "wip": false,
+        "id": "5402006f-b645-4ae8-8f2d-db6c48b6ec59",
+        "conversations": [
+          {
+            "title": "Quando as coisas correm mal",
+            "conversationId": "relationships-thingsgowrong-1"
+          },
+          {
+            "title": "Consciente e aceitando situações desafiantes",
+            "conversationId": "relationships-thingsgowrong-2"
+          },
+          {
+            "title": "Pensamentos difíceis",
+            "conversationId": "relationships-thingsgowrong-3"
+          },
+          {
+            "title": "Prática",
+            "conversationId": "relationships-thingsgowrong-4"
+          }
+        ],
+        "name": "Quando é dificil",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610720/Building%20Relationships/when-things-go-wrong_lession_ulfvyx.png"
+        },
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Lidar com situações desafiantes"
+      },
+      {
+        "wip": false,
+        "id": "36d22e80-5449-4f5e-a52f-7f35bb633714",
+        "name": "Cá dentro - lá fora",
+        "conversations": [
+          {
+            "title": "Cá dentro - lá fora",
+            "conversationId": "relationships-insideoutside-1"
+          },
+          {
+            "title": "Exercício um",
+            "conversationId": "relationships-insideoutside-2"
+          },
+          {
+            "title": "Testa a tua competência da amizade",
+            "conversationId": "relationships-insideoutside-3"
+          },
+          {
+            "title": "Prática",
+            "conversationId": "relationships-insideoutside-4"
+          },
+          {
+            "title": "Constrói relações com estes passos",
+            "conversationId": "relationships-insideoutside-5"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610758/Building%20Relationships/inside-outside_lession_voxu2r.png"
+        },
+        "description": "Compreendende-te a ti mesma/o – e aos outros"
+      }
+    ],
+    "difficulty": "Beginner",
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650376900/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Capa_v2_eat4fa.jpg"
+    }
+  }
+}

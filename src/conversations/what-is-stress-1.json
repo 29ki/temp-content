@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "what-is-stress-1",
-    "alias": "What is stress - 1",
+    "alias": "Stress YA: What is stress - 1",
     "root": "1",
     "sections": [
       {
@@ -13,7 +12,7 @@
           {
             "component": "HeaderImage",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_header.png"
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1615991331/Stress/stress_header_lnrhcd.png"
             }
           },
           {
@@ -21,7 +20,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Stress – så funkar det**\n\nHur skulle livet se ut om det var mindre stressigt? Många känner stress i sin vardag, och har svårt att få ihop alla krav, måsten och borden. Att lära sig hantera stress kan vi alla ha nytta av, oavsett vad som pågår runt omkring oss."
+                "content": "# Stress — how it works\n\nWhat would your life be like if it was **less** **stressful**? \\\n\\\nMany people feel stress in their everyday life and find it difficult to manage all of the demands. Everything that \"must\" or \"should\" get done. \n\nRegardless of what's going on around us, we can all benefit from getting better at **dealing with stress.**"
               }
             ]
           },
@@ -47,7 +46,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**I den här lektionen får du lära dig mer om:**\n\n* Vad som händer i kroppen när vi blir stressade\n* När stress är hjälpsamt, och när det kan vara skadligt \n* Att hantera stress \n* Hur du gör mer av det du mår bra av"
+                "content": "## Learn more about:\n\n* What is stress\n* Positive and negative stress\n* A stressful period in your life\n* Rest and recovery"
               }
             ]
           },
@@ -73,7 +72,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**You are not alone**\n\nIbland känns livet som en enda lång att göra-lista. Som att det inte finns tid för saker som verkligen betyder något – som att umgås med familj och vänner, lära sig någonting nytt, eller bara få lite välförtjänt vila."
+                "content": "## You're not alone\n\nSometimes life feels like one long to-do list. Like there's **no time** for the things that **really** **matter.** No time to just hang out with friends and family, learn something new or get some well-deserved rest."
               }
             ]
           },
@@ -99,7 +98,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Oavsett vilken stressig situation du befinner dig i så är det helt normalt att bli påverkad av den.\n\nStress är kroppens sätt att reagera på en potentiell fara eller ett hot. Det är en uråldrig reaktion som aktiverar kroppen och hjärnan. Vi gör oss redo för att slåss eller fly — för att överleva."
+                "content": "Regardless of the stressful situation we find ourselves in, it's **perfectly** **normal** to be **affected** by it.\n\nStress is an **ancient** **reaction** where our body reacts to potential **dangers** and threats. We get ready to fight or flee — to **survive**."
               }
             ]
           },
@@ -107,9 +106,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
-                "content": "Got it",
-                "sectionId": "1"
+                "component": "NextConversationButton",
+                "content": "More",
+                "conversationId": "what-is-stress-2",
+                "variant": "primary"
               }
             ]
           }
@@ -118,9 +118,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "what-is-stress-1",
-    "alias": "What is stress - 1",
+    "alias": "Stress YA: What is stress - 1",
     "root": "1",
     "sections": [
       {
@@ -129,9 +128,9 @@
         "alias": "1",
         "content": [
           {
-            "component": "HeaderImage",
+            "component": "Image",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_header.png"
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/v1616138277/Stress/What_is_stress_-1_oanlkn.png"
             }
           },
           {
@@ -139,7 +138,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Stress – så funkar det**\n\nHur skulle livet se ut om det var mindre stressigt? Många känner stress i sin vardag, och har svårt att få ihop alla krav, måsten och borden. Att lära sig hantera stress kan vi alla ha nytta av, oavsett vad som pågår runt omkring oss."
+                "content": "# Stress — så funkar det\n\nHur skulle livet se ut om det var **mindre** **stressigt**? \\\n\\\nDet är många som känner stress i sin vardag och har svårt att möta alla krav. Allt som \"måste\" och \"borde\" göras.\n\nOavsett vad som pågår runt omkring oss kan vi alla bli hjälpta och må bättre av att lära oss **hantera stress.**"
               }
             ]
           },
@@ -165,7 +164,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**I den här lektionen får du lära dig mer om:**\n\n* Intro till stress\n* Positiv och negativ stress\n* En stressig period i ditt liv\n* Återhämtning"
+                "content": "## Lär dig mer om:\n\n* Vad stress är\n* Positiv och negativ stress\n* En stressig period i ditt liv\n* Återhämtning"
               }
             ]
           },
@@ -191,7 +190,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Du är inte ensam**\n\nIbland känns livet som en enda lång att göra-lista. Som att det inte finns tid för saker som verkligen betyder något – som att umgås med familj och vänner, lära sig någonting nytt, eller bara få lite välförtjänt vila."
+                "content": "## Du är inte ensam.\n\nIbland känns livet som en enda lång att göra-lista. Som att det **inte finns tid** för saker som **verkligen** **betyder** något. Tid för att umgås med vänner och familj, lära sig någonting nytt eller bara få lite välförtjänt vila."
               }
             ]
           },
@@ -217,7 +216,47 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Oavsett vilken stressig situation du befinner dig i så är det helt normalt att bli påverkad av den.\n\nStress är kroppens sätt att reagera på en potentiell fara eller ett hot. Det är en uråldrig reaktion som aktiverar kroppen och hjärnan. Vi gör oss redo för att slåss eller fly — för att överleva."
+                "content": "Oavsett vilken stressig situation vi befinner oss i är det **helt** **normalt** att bli **påverkad** av den.\n\nStress är en **uråldrig** **reaktion** där vår kropp reagerar på en potentiell **fara** eller ett hot. Vi gör oss redo för att slåss eller fly — för att **överleva**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Mer",
+                "conversationId": "what-is-stress-2",
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "what-is-stress-1",
+    "alias": "Stress YA: What is stress - 1",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1615991331/Stress/stress_header_lnrhcd.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Stress - como funciona\n\nComo seria a tua vida se fosse **menos** **stressante**? \\\n\\\nMuitas pessoas sentem stress no seu quotidiano e acham difícil gerir todas as solicitações. Tudo o que \"deve\" ou \"tem\" que ser feito.\n\nIndependentemente do que está a acontecer à nossa volta, todos nós podemos beneficiar ao melhorar a forma como **lidamos com o stress**."
               }
             ]
           },
@@ -226,9 +265,87 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Förstått",
+                "content": "Continuar",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Aprender mais acerca de:\n\n* O que é o stress\n* Stress positivo e negativo\n* Um período stressante na tua vida\n* Descanso e recuperação"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos lá",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Não estás sozinha/o\n\nÀs vezes, a vida parece uma lista interminável de tarefas. Como se **não houvesse tempo** para as coisas que **realmente** **importam**.\n\nNão há tempo para estar com os amigos e a família, nem aprender algo novo ou descansar um pouco, como merecemos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Independentemente da situação stressante em que nos encontramos, é **perfeitamente** **normal** sermos **afetadas/os** por ela.\n\nO stress é uma **reação que já vem de há muito tempo**, durante a qual o nosso corpo reage a potenciais **perigos** e ameaças. Preparamo-nos para lutar ou fugir (pela nossa **sobrevivência**)."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Mais ",
                 "conversationId": "what-is-stress-2",
-                "sectionId": "1"
+                "variant": "primary"
               }
             ]
           }

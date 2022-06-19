@@ -1,0 +1,212 @@
+{
+  "en": {
+    "id": "cc3c8808-ec2f-4525-9089-181c72c5de0e",
+    "alias": "Leadership-coursesummary-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "046faefe-165b-46d5-a274-e3a5248160e2",
+        "alias": "Intro to exercise",
+        "content": "### Before we wrap-up, let's take a final moment to reflect on your own learning throughout the course",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's dive in",
+            "sectionId": "0c06a76a-8c1f-4bcb-b07b-4a42b262ea94"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "0c06a76a-8c1f-4bcb-b07b-4a42b262ea94",
+        "alias": "Frank's summary video",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "f39ac749-2c92-4567-949a-0f5bb79e6472"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1634206128/Leadership/frank_lesson8_oqvr8j.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575206/Leadership/Subtitles/lesson8_video1_eng_js11p4.vtt"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "f39ac749-2c92-4567-949a-0f5bb79e6472",
+        "alias": "Exercise",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "b75d0dc7-0ecc-4991-ae3e-d259ee841ac0",
+            "content": "Let's wrap this up"
+          }
+        ],
+        "longDescription": "1. What is the biggest insight you have gained from this course?\n2. What impact did this course have on you, how you lead, work and relate to others?"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b75d0dc7-0ecc-4991-ae3e-d259ee841ac0",
+        "alias": "Summary",
+        "title": "Well done you!",
+        "content": "## You've now reached the end of the course.\n\nOver the past 8 weeks you've learned the techniques used by the most successful leaders to help you succeed in whatever you wish to pursue in your life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Thanks",
+            "sectionId": "ef40f85c-85e8-4eea-99e6-e602029ffe07"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ef40f85c-85e8-4eea-99e6-e602029ffe07",
+        "alias": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "title": "Further reading",
+        "content": "1. Fadde, P., Klein, K. (2012). Accelerating Expertise Using Action Learning Activities. Cognitive Technology, 17(1), 11-18.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "8217cf61-126a-4d5e-a32a-5d1fa739efbf"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8217cf61-126a-4d5e-a32a-5d1fa739efbf",
+        "alias": "Sharing Exercise",
+        "title": "You are now ready to share",
+        "content": "1. What key insights helped you make sense of your situation, pursue purpose, or succeed this week?\n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-8-reframe",
+            "content": "What happens next?"
+          }
+        ]
+      }
+    ],
+    "root": "046faefe-165b-46d5-a274-e3a5248160e2"
+  },
+  "sv": {
+    "id": "cc3c8808-ec2f-4525-9089-181c72c5de0e",
+    "alias": "Leadership-coursesummary-4"
+  },
+  "pt": {
+    "id": "cc3c8808-ec2f-4525-9089-181c72c5de0e",
+    "alias": "Leadership-coursesummary-4",
+    "root": "046faefe-165b-46d5-a274-e3a5248160e2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "046faefe-165b-46d5-a274-e3a5248160e2",
+        "alias": "Intro to exercise",
+        "content": "### Antes de encerrarmos, vamos tirar um último momento para refletir sobre a tua própria aprendizagem ao longo do curso",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos mergulhar ",
+            "sectionId": "0c06a76a-8c1f-4bcb-b07b-4a42b262ea94"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "0c06a76a-8c1f-4bcb-b07b-4a42b262ea94",
+        "alias": "AHO summary video",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei ",
+            "sectionId": "f39ac749-2c92-4567-949a-0f5bb79e6472"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652374297/29k%20FJN/Courses/Purposeful%20Leadership/Photos/li%C3%A7%C3%A3o_8_-_video_3_bgqywo.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179127/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L8V3_vcnpos.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "f39ac749-2c92-4567-949a-0f5bb79e6472",
+        "alias": "Exercise",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "b75d0dc7-0ecc-4991-ae3e-d259ee841ac0",
+            "content": "Vamos concluir "
+          }
+        ],
+        "longDescription": "1. Qual foi o maior *insight* que ganhaste com este curso?\n2. Que impacto teve este curso em ti, como lideras, como trabalhas e como te relacionas com os outros?"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b75d0dc7-0ecc-4991-ae3e-d259ee841ac0",
+        "alias": "Summary",
+        "title": "Muito bem! ",
+        "content": "## Chegaste ao fim do curso! \n\nNas últimas 8 semanas, aprendeste as técnicas usadas pelos líderes mais bem sucedidos para ajudar-te a ter sucesso em tudo o que desejas alcançar na vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada ",
+            "sectionId": "ef40f85c-85e8-4eea-99e6-e602029ffe07"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ef40f85c-85e8-4eea-99e6-e602029ffe07",
+        "alias": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "title": "Leitura adicional ",
+        "content": "1. Fadde, P., Klein, K. (2012). Accelerating Expertise Using Action Learning Activities. Cognitive Technology, 17(1), 11-18.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi!",
+            "sectionId": "8217cf61-126a-4d5e-a32a-5d1fa739efbf"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8217cf61-126a-4d5e-a32a-5d1fa739efbf",
+        "alias": "Sharing Exercise",
+        "title": "Agora estás pronto/a para partilhar ",
+        "content": "1. Que ideias-chave te ajudaram a entender a tua situação, procurar um propósito ou ter sucesso esta semana?\n\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, da prática das competências que aprendeste percebendo quais ressoam em ti de forma diferente.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-8-reframe",
+            "content": "O que acontece a seguir?"
+          }
+        ]
+      }
+    ]
+  }
+}

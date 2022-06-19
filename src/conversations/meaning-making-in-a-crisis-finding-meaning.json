@@ -1,0 +1,66 @@
+{
+  "en": {
+    "id": "meaning-making-in-a-crisis-finding-meaning",
+    "alias": "Meaning-making in a crisis: Finding meaning 1",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Feeling lost",
+        "content": "You’re about to take a step back in time and explore why living in line with your values matters.\n\n### Today’s lesson has three parts:\n\n* Feeling lost\n* Tackling avoidance\n* Feeling purposeful\n\n### You’ll need:\n\n* 30 min of undisturbed time\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continue",
+            "conversationId": "b4efca46-80a6-4243-9e3a-3619b2241656"
+          }
+        ],
+        "alias": "section1"
+      }
+    ]
+  },
+  "sv": {
+    "id": "meaning-making-in-a-crisis-finding-meaning",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Att känna sig vilse",
+        "content": "Du ska nu ta ett steg tillbaka i tiden för att utforska varför det är viktigt att leva i linje med sina värderingar.\n\n### Den här lektionen har tre delar:\n\n* Vara vilse\n* Att sluta undvika\n* Känna mening\n\n### Du behöver:\n\n* 30 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Fortsätt",
+            "conversationId": "b4efca46-80a6-4243-9e3a-3619b2241656"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis: Finding meaning 1"
+  },
+  "pt": {
+    "id": "meaning-making-in-a-crisis-finding-meaning",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Sentir-me perdida/o",
+        "content": "Estás prestes a dar um passo atrás no tempo para explorares e confirmares a importância de viver de acordo com os teus valores.\n\n### A lição de hoje tem três partes:\n\n* Sentir-me perdida/o\n* Lidar com o ato de evitar\n* Sentir que tenho um propósito\n\n### Vais precisar:\n\n* 30 min de sossego sem interrupções\n* Caneta e papel",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "b4efca46-80a6-4243-9e3a-3619b2241656"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis: Finding meaning 1"
+  }
+}

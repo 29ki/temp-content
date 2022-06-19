@@ -1,0 +1,20 @@
+{
+  "en": {
+    "report": {
+      "title": "Report",
+      "description": "Feedback / Tech issues / Misbehaviour "
+    }
+  },
+  "sv": {
+    "report": {
+      "title": "Rapportera problem",
+      "description": "Tyck till / Tekniska problem / Dåligt uppförande"
+    }
+  },
+  "pt": {
+    "report": {
+      "title": "Ocorrência",
+      "description": "Comentário / Problemas técnicos / Má conduta"
+    }
+  }
+}

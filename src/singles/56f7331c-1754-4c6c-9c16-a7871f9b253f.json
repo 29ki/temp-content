@@ -1,0 +1,461 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Body scan",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646986179/New_images/meditations%20png/body_scan_mptnnz.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-Bodyscan-new",
+        "alias": "Meditation Bodyscan-new",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/56f7331c-1754-4c6c-9c16-a7871f9b253f/body-scan_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Body scan**\n\nToday we are doing a so-called body scan — a meditation where we will go through our body. \\\n\\\nThe exercise is designed to help us notice what is going on in our bodies."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "By doing so, we can tune in to what's going on in the moment and learn to listen to our body's signals. \\\n\\\nResearch shows that this kind of practice can help reduce stress and improve well-being."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### You'll learn more about:\n\n* Tuning in to your body\n* Being present\n* Relaxing"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Today you'll get to try a body scan, an exercise for both body and soul. \\\n\\\nAll you have to do is listen to the audio file and follow the instructions."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 3,
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630392453/Meditations/Body-Scan_r3xykq.mp3"
+                }
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nWalking through the body helps you tune in with whatever is going on inside. Some people prefer to do this exercise right before going to bed, other's rather do it during the day. \n\nChoose a time that you prefer."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "If you don't have time for a longer body scan, try to just shortly check in with yourself by **naming** a body part. Start with your head (by just thinking \"head\"), and continue your journey down from there.\n\nBy doing so, you'll direct your attention and become aware of how it feels."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "7",
+            "alias": "7",
+            "question": "What did you experience?",
+            "exampleText": "I noticed I was tense in my shoulders and that I clench my jaws."
+          }
+        ],
+        "name": "Body scan",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Gå igenom kroppen",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646986179/New_images/meditations%20png/body_scan_mptnnz.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-Bodyscan-new",
+        "alias": "Meditation Bodyscan-new",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/56f7331c-1754-4c6c-9c16-a7871f9b253f/body-scan_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Gå igenom kroppen**\n\nAtt gå igenom kroppen hjälper oss stanna upp och lägga märke till hur det känns just nu. Kanske upptäcker vi att vi är spända, eller att vi har ont någonstans."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Syftet med övningen är att känna efter vad som pågår på insidan och träna på att bara låta det vara, utan att fly. Forskning visar att den här sortens övning kan minska stress och få oss att må bättre."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Kör igång"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Du lär dig mer om att:\n\n* Känna in kroppen\n* Landa i nuet\n* Slappna av"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Nu ska du få testa en kroppsscanning. Allt du behöver göra är att lyssna på ljudfilen och följa instruktionerna."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 10,
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6638388-f298-4173-bba1-e11dc530114a/Body%20scan.jpg"
+                }
+              }
+            ],
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!**\n\nAtt vandra genom kroppen hjälper dig stanna upp och lägga märke till hur det känns på insidan. Vissa föredrar att göra övningen innan läggdags, andra inte. Gör övningen när det känns bäst för dig."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Om du inte har tid för en längre kroppsvandring, testa att kort stämma av hur kroppen känns genom att namnge kroppsdelarna. \n\nPå så sätt riktar du din uppmärksamhet och blir varse om hur det känns just nu. Du kan börja med huvudet (och då tänka ”huvudet”), och sedan vandra nedåt."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "7",
+            "alias": "7",
+            "question": "Vad upptäckte du i kroppen?",
+            "exampleText": "Jag märkte att jag var spänd i nacken och käken."
+          }
+        ],
+        "name": "Gå igenom kroppen",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Body scan",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646986179/New_images/meditations%20png/body_scan_mptnnz.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f",
+    "wip": true,
+    "stations": [
+      {
+        "id": "Exercise-Bodyscan-new",
+        "alias": "Meditation Bodyscan-new",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/56f7331c-1754-4c6c-9c16-a7871f9b253f/body-scan_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Body scan**\n\nToday we are doing a so-called body scan - a meditation where we will go wander through our body. The exercise is designed to help us develop an awareness of our bodily sensations - in other words, to notice what is going on in our bodies."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "By doing so, we can tune in to what is going on in the moment and learn to listen to our body's signals. We can also become more connected to our physical selves. Research shows that this kind of practice can help reduce stress and improve well-being."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**You'll learn more about:**\n\n* Tuning in to your body\n* Being present\n* Relaxing"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Today you'll get to try a body scan, an exercise for both body and soul. All you have to do is listen to the audio file and follow the instructions."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 10,
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6638388-f298-4173-bba1-e11dc530114a/Body%20scan.jpg"
+                }
+              }
+            ],
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nTo wander through the body will help you tune in with whatever is going on and notice how it feels on the inside. Some prefer doing the exercise before going to bed, other's during the day. Choose a time that you prefer."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "If you don't have time for a longer body scan, try to just short check in with yourself by naming a body part. By doing so, you'll direct your attention and become aware of how it feels. \n\nYou might notice a tension in your body that you can relax. Start with your head (by just thinking \"head\"), and continue your journey down from there."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "7",
+            "alias": "7",
+            "question": "What did you experience?",
+            "exampleText": "I noticed I was tense in my shoulders."
+          }
+        ],
+        "name": "Body scan",
+        "type": "station"
+      }
+    ]
+  }
+}

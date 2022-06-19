@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Join the challenge",
+    "text": "You are only one step from getting started",
+    "cancelButton": "Not now",
+    "confirmButton": "Yes join!"
+  },
+  "sv": {
+    "title": "Gå med i utmaningen",
+    "text": "Bara ett litet steg för att komma igång.",
+    "cancelButton": "Inte nu",
+    "confirmButton": "Ja, gå med!"
+  },
+  "pt": {
+    "title": "Entra no desafio",
+    "text": "Só falta um passo para começares",
+    "cancelButton": "Agora não",
+    "confirmButton": "Sim, vamos lá!"
+  }
+}

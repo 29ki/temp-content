@@ -1,0 +1,252 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Gratitude",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652880283/New_images/exercises%20png/1024x1024/Gratidao_vhmrb4.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "caa7dfa7-55c2-400b-99af-13441386eebc",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "caa7dfa7-55c2-400b-99af-13441386eebc",
+        "root": "section1",
+        "alias": "Exercise: Gratitude ",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Gratitude",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652880283/New_images/exercises%20png/1024x1024/Gratidao_vhmrb4.png",
+            "title": "Gratitude",
+            "content": "*8 - 15 minutes*\n\nBeing human often means that our brain is like teflon to positivity and like velcro to negativity.\n\nThis sucks.\n\nWith this exercise , we’ll add some balance and connect with our gratitude towards life, ourselves and others.\n\n*Based on research from Ph.D S. Lyubomirsky.*",
+            "infoItems": [],
+            "buttonText": "Let’s do this"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+            "id": "ad851c8e-cf37-4100-8a4b-79e2560f719f",
+            "alias": "Use pen and paper",
+            "title": "Use pen and paper",
+            "longDescription": "Write down three things that you’re grateful for.\n\n> I realize that it’s been a while since I’ve been sick and that I take my health for granted, so I’m grateful for that.\n>\n> Thinking about my parent’s harsh past, I feel grateful for the effort they’ve put into giving me the love I needed.\n>\n> I’m grateful for a good hair day (I’m not bald, yet)",
+            "buttonText": "Next"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Why are you grateful",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "For the things you wrote, write down an explanation for why you feel grateful.\n\nBe as detailed as possible.\n\n> I feel grateful because...",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "video",
+            "id": "b7dd5051-651f-42cd-acfb-971bdf7b65fe",
+            "alias": "Sandro sharing",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646755956/Challenges/Sandro_Gratitiude_bw2qpk.mp4"
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "3fb74819-f14e-4918-9db4-ddebab96d470",
+            "alias": "Sharing wall: Gratitude adults",
+            "exampleText": "I feel a sense of pleasure in my body and an energy moving me to spend time with my loved ones.",
+            "question": "How does your body feel now that you've spent time thinking about what you're grateful for?",
+            "nextSection": "section4"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/caa7dfa7-55c2-400b-99af-13441386eebc/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Well done!",
+            "content": "Take a deep breath and allow yourself to be with what you wrote for a few more minutes if possible, you just did a wonderful thing for yourself.\n\nGiving gifts like this to yourself is a great way to grow.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Gratitude",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Tacksamhet",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652880283/New_images/exercises%20png/1024x1024/Gratidao_vhmrb4.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "caa7dfa7-55c2-400b-99af-13441386eebc",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "caa7dfa7-55c2-400b-99af-13441386eebc",
+        "root": "section1",
+        "alias": "Exercise: Gratitude ",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Tacksamhet",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653687/Illustrations_Exercises/Heading_Gratitude_exercise_wgyxmz.png",
+            "title": "Tacksamhet",
+            "content": "Att vara människa innebär ofta att våra hjärnor är som teflon för positiva saker och som kardborreband för negativa saker.\n\nDet suger.\n\nI den här övningen vill vi försöka hitta en balans och komma i kontakt med tacksamhet inför livet, mot oss själva och gentemot andra.\n\n* Baserad på forskning av Ph.D S. Lyubomirsky.",
+            "buttonText": "Nu kör vi"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Använd penna och papper",
+            "title": "Använd penna och papper",
+            "time": "",
+            "question": "",
+            "longDescription": "Skriv ner tre saker du är tacksam för.\n\n* Jag inser att det har gått ett tag sen jag har varit sjuk och att jag tagit min hälsa för givet, så det är jag tacksam för.\n* Jag känner stor tacksamhet för att mina föräldrar, trots deras egen historia, har kunnat ge mig omtänksamhet och kärlek.\n* Jag är tacksam för en \"good hair day\" (Jag är ju inte skallig än, trots allt).",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "För de saker du skrev ner, förklara **varför** du känner dig tacksam.\n\nFörsök att vara så detaljerad du kan.\n\n> Jag känner mig tacksam för att...",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "video",
+            "id": "6f2c3ef5-a9e5-4204-b811-d306645aeb8d",
+            "alias": "Sandro delning",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646756005/Challenges/Sandro_Tacksamhet_f34iqn.mp4"
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "fd351231-1059-4c6f-8201-72c868f6f6c5",
+            "alias": "Sharing wall: gratitude adults sv",
+            "question": "Hur känns det i kroppen nu efter du har tänkt på vad du är tacksam för?",
+            "exampleText": "Jag känner positiv energi i kroppen och glädje att få spendera tid med mina nära och kära.",
+            "nextSection": "section4"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/caa7dfa7-55c2-400b-99af-13441386eebc/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Bra jobbat!",
+            "content": "Ta ett djupt andetag och ge dig själv en stund att reflektera över det du precis har skrivit. \n\nAtt unna sig såna här stunder är ett sätt att växa på.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Tacksamhet",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Gratidão",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652880283/New_images/exercises%20png/1024x1024/Gratidao_vhmrb4.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "caa7dfa7-55c2-400b-99af-13441386eebc",
+    "description": "",
+    "stations": [
+      {
+        "id": "caa7dfa7-55c2-400b-99af-13441386eebc",
+        "root": "section1",
+        "alias": "Exercise: Gratitude ",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Gratidão",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653687/Illustrations_Exercises/Heading_Gratitude_exercise_wgyxmz.png",
+            "title": "Gratidão",
+            "content": "*8 - 15 minutos*\n\nSer humano significa frequentemente que o nosso cérebro age como um repelente para as coisas positivas e como um íman para as negativas.\n\nIsto é um problema.\n\nCom este exercício, vamos adicionar algum equilíbrio estabelecendo uma ligação à gratidão para com a nossa vida, para connosco e para com os outros.\n\n*Baseado no trabalho de investigação do Dr. S. Lyubomirsky.*",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "longDescription": "Escreve três coisas pelas quais estás grata/o.\n\n> Dou-me conta que já há algum tempo que não estou doente e de que assumo a minha saúde como garantida, então estou grata/o por isso. \n>\n> Ao pensar no passado duro dos meus pais, sinto-me grata/o pelo esforço que fizeram para me dar o amor que eu precisava.\n>\n> Estou grata/o por hoje o meu cabelo estar bonito (ainda tenho cabelo).",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+            "question": "",
+            "time": "",
+            "alias": "Usa caneta e papel",
+            "title": "Usa caneta e papel",
+            "type": "writing",
+            "id": "section2",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Why are you grateful",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Para as coisas que escreveste, acrescenta uma explicação do porquê de te sentires grata/o por elas.\n\nSê o mais detalhada/o possível. \n\n> Sinto-me grata/o porque...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/caa7dfa7-55c2-400b-99af-13441386eebc/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Parabéns!",
+            "content": "Respira fundo e se possível deixa-te estar com o que escreveste por mais alguns minutos. Acabaste de fazer algo maravilhoso por ti!\n\nDar presentes como este a ti própria/o é uma ótima maneira de crescer.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "a4eee241-5e4d-479d-8bfa-c575cf30294c",
+            "alias": "Sharing wall: Gratitude adults",
+            "question": "Como sentes o teu corpo depois de passares este tempo a pensar acerca das coisas pelas quais estás grata/o?",
+            "exampleText": "Sinto uma sensação de prazer e uma energia que me motiva a passar mais tempo com os meus entes queridos."
+          }
+        ],
+        "name": "Gratidão",
+        "type": "station"
+      }
+    ]
+  }
+}

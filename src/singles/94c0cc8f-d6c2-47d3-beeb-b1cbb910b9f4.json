@@ -1,0 +1,396 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Focus on here and now",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Focus_on_here_and_now_be6x54.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "94c0cc8f-d6c2-47d3-beeb-b1cbb910b9f4",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisethreesenses",
+        "root": "1",
+        "alias": "Exercise Focus on here and now",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1652794365/New_images/meditations%20png/1024x1024/Focus_on_here_and_now_be6x54.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "## One thing at a time\n\n\\\nSometimes we are taught that the best and most effective thing to do is to **multitask** — that is, doing many things at the same time. But research is showing the opposite. Doing one thing at a time is better."
+                  }
+                ]
+              }
+            ],
+            "alias": "1",
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Your ability to focus on one thing at a time can **improve** with practice. By bringing your attention to what is going on right here, right now.\n\nUse this exercise when you feel stressed or when you're having a hard time focusing. For example when you're about to study or do something you're nervous about."
+                  }
+                ]
+              }
+            ],
+            "alias": "2 for young_adult",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "69fe10da-88b2-4d22-8519-ec1b8744040c",
+            "alias": "2 for adult",
+            "content": "Your ability to focus on one thing at a time can improve with practice. By bringing your attention to what is going on right here, right now.\n\nYou can use this exercise when you feel stressed or when you're having a hard time focusing. For example when you're about to do something you feel nervous about, or before starting your working day.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**You'll learn to:**\n\n* Shift your attention\n* Focus on one thing at a time\n* Notice what is going on inside and outside of your body"
+                  }
+                ]
+              }
+            ],
+            "alias": "3",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sit down in a comfortable position. Press the play-button to start."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 5,
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1620637176/hereandnow_oxfnmf.mp3"
+                }
+              }
+            ],
+            "alias": "4",
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nPracticing noticing what is going on in the moment can help us focus on one thing at a time.\n\nIt can also help us become aware of how we're doing, and what is going on in our surroundings. You can use this exercise when you feel a need to refocus or when you're getting carried away by intrusive thoughts or emotions."
+                  }
+                ]
+              }
+            ],
+            "alias": "5",
+            "buttonText": "Finished"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "0fd701e1-897c-43c8-9999-dd6af1b8b97c",
+            "question": "What did you learn from this exercise.",
+            "exampleText": "That it is better to focus on one thing at a time. ",
+            "alias": "Sharing wall - question"
+          }
+        ],
+        "name": "Here and now",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Fokusera på här och nu",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Focus_on_here_and_now_be6x54.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "94c0cc8f-d6c2-47d3-beeb-b1cbb910b9f4",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisethreesenses",
+        "root": "1",
+        "alias": "Exercise Focus on here and now",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1652794365/New_images/meditations%20png/1024x1024/Focus_on_here_and_now_be6x54.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "## En sak i taget\n\n\\\nIbland får vi höra att det är bäst och mest effektivt att **multitaska** — alltså att göra flera saker samtidigt. Men forskning visar motsatsen. Att göra en sak i taget är bättre."
+                  }
+                ]
+              }
+            ],
+            "alias": "1",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Det går att träna upp sin förmåga att fokusera på en sak i taget. Bland annat genom att rikta sin uppmärksamhet mot vad som händer *här och nu.*\n\nDen här övningen kan du använda när du känner dig stressad eller har svårt att fokusera. Exempelvis när du ska plugga eller göra någonting du är nervös inför."
+                  }
+                ]
+              }
+            ],
+            "alias": "2 for young_adults",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "eac21110-f8df-406d-9d38-6949f6c6331c",
+            "alias": "2 for adult",
+            "content": "Det går att träna upp sin förmåga att fokusera på en sak i taget. Bland annat genom att rikta sin uppmärksamhet mot vad som händer *här och nu.*\n\nDen här övningen kan du använda när du känner dig stressad eller har svårt att fokusera. Exempelvis när du ska göra någonting du är nervös inför, eller innan en arbetsdag.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Du kommer få lära dig att:**\n\n* Rikta din uppmärksamhet\n* Fokusera på en sak i taget\n* Lägga märke till vad som händer i kroppen och utanför dig"
+                  }
+                ]
+              }
+            ],
+            "alias": "3",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "audio",
+            "id": "adf5a0a6-7bec-4e20-8560-af82b2278b14",
+            "alias": "Audioplayer",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3",
+            "description": "Sätt dig bekvämt. Tryck på play-knappen för att sätta igång.",
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra gjort!** \n\nAtt öva på att lägga märke till vad som faktiskt händer i stunden kan hjälpa oss fokusera på **en sak i taget**. \n\n\n\nDet kan också vara bra för att uppmärksamma hur vi mår, och vad som pågår utanför oss. Du kan använda övningen när du känner att du behöver fokusera om, eller när tankar och känslor farit iväg."
+                  }
+                ]
+              }
+            ],
+            "alias": "5",
+            "buttonText": "Klar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "2df1a9a2-8467-49f9-9058-51632a0831d1",
+            "question": "Vad har du lärt dig från den här övningen?",
+            "exampleText": "Jag har lärt mig att fokusera på en sak i taget. ",
+            "alias": "Sharing wall - question"
+          }
+        ],
+        "name": "Här och nu",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Here and now",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Focus_on_here_and_now_be6x54.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "94c0cc8f-d6c2-47d3-beeb-b1cbb910b9f4",
+    "wip": true,
+    "stations": [
+      {
+        "id": "Exercisethreesenses",
+        "root": "1",
+        "alias": "Exercise Focus on here and now",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1652794365/New_images/meditations%20png/1024x1024/Focus_on_here_and_now_be6x54.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**One thing at a time**\\\n\\\nMany humans struggle with doing one thing at a time. Which, actually, isn't that weird, given that most of us have been taught that doing many things at the same time - multitasking - is the way to go."
+                  }
+                ]
+              }
+            ],
+            "alias": "2",
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "By bringing our awareness to what is going on *right here, right now,* we can cultivate a more mindful way of thinking and acting.\n\nThis mindfulness practice is called 3-2-1, as we'll use our senses to focus on *three* sensations, then *two*, and finally *one*."
+                  }
+                ]
+              }
+            ],
+            "alias": "4",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Today's challenge:**\n\n* Focus\n* Do one thing at a time\n\n\n\n**You'll need:**\n\n* 5 minutes"
+                  }
+                ]
+              }
+            ],
+            "alias": "5",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 5,
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3"
+                }
+              }
+            ],
+            "alias": "3",
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nPracticing noticing what is going on in the moment can help us re-connect to the present instead of getting caught up in thoughts or feelings. \n\nYou can use the 3-2-1-exercise whenever and wherever you feel a need to refocus, or you feel like you're getting carried away by intrusive thoughts or emotions."
+                  }
+                ]
+              }
+            ],
+            "alias": "6",
+            "buttonText": "Finished"
+          }
+        ],
+        "name": "Here and now",
+        "type": "station"
+      }
+    ]
+  }
+}

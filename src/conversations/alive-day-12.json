@@ -2,7 +2,6 @@
   "en": {
     "id": "alive-day-12",
     "alias": "alive-day-12",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
@@ -16,15 +15,20 @@
           "days": 0,
           "hours": 8,
           "minutes": 52,
-          "title": "Alive Day 12 Mission",
-          "body": "Over the next few hours, shake up your routine by changing at least one way you go about your day. Did you learn anything about yourself?"
+          "title": "Alive Day 12 Quest",
+          "body": "Over the next few hours, shake up your routine by changing one way you go about your day. See if you notice anything different."
         },
         "followUp": {
+          "id": "followUpDay12",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 12 Check-in",
-          "body": "Time to check-in with your today’s mission!"
+          "body": "Time to check-in with today’s quest!"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I...."
         }
       }
     ]
@@ -32,30 +36,67 @@
   "sv": {
     "id": "alive-day-12",
     "alias": "alive-day-12",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
         "id": "alive-day-12",
         "alias": "alive-day-12",
         "type": "microInterventionDay",
-        "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 12",
+        "welcomeHeading": "Välkommen till dag 12",
         "lessonlastDay": true,
-
         "task": {
-          "days": 1,
+          "id": "aliveDay12rev1",
+          "days": 0,
           "hours": 8,
-          "minutes": 15,
-          "title": "Alive Day 12",
-          "body": "Over the next few hours, shake up your routine by changing at least one way you go about your day. Did you learn anything about yourself?"
+          "minutes": 42,
+          "title": "Uppdrag dag 12",
+          "body": "De närmaste timmarna, gör något annorlunda i en rutin du har. Se om du lägger märke till något nytt."
         },
         "followUp": {
+          "id": "followUpDay12",
           "days": 0,
-          "hours": 10,
+          "hours": 18,
           "minutes": 0,
-          "title": "Alive Day 12 Check-in",
-          "body": "Time to check-in with your today’s mission!"
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "sharingWall": {
+          "question": "Vad – om något – lärde du dig om dig själv?",
+          "exampleText": "Jag har väldigt mycket vanor och rutiner, och det gör mig ouppmärksam på annat i livet:)"
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-12",
+    "alias": "alive-day-12",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "alive-day-12",
+        "alias": "alive-day-12",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Welcome to Day 12",
+        "lessonlastDay": true,
+        "task": {
+          "id": "aliveDay12rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "title": "Desafio ALIVE dia 12",
+          "body": "Durante as próximas horas, altera a tua rotina mudando a forma como conduzes o teu dia. Tenta aperceber-te do que está a ser diferente."
+        },
+        "followUp": {
+          "id": "followUpDay12",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 12 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "sharingWall": {
+          "question": "Aprendeste alguma coisa nova acerca de ti?",
+          "exampleText": "Hoje eu..."
         }
       }
     ]

@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Logout",
+    "text": "Are you sure you want to logout?",
+    "cancelButton": "Cancel",
+    "confirmButton": "Confirm"
+  },
+  "sv": {
+    "title": "Logga ut",
+    "text": "Är du säker på att du vill logga ut?",
+    "cancelButton": "Avbryt",
+    "confirmButton": "Bekräfta"
+  },
+  "pt": {
+    "title": "Sair",
+    "text": "Tens a certeza que queres sair?",
+    "cancelButton": "Cancelar",
+    "confirmButton": "Confirmar"
+  }
+}

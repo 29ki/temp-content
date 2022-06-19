@@ -1,0 +1,213 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Breathing anchor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/breathing_anchor_ynhhum.png"
+    },
+    "duration": {
+      "count": 9,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+    "description": "Return to a present moment of peace and calm.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+        "root": "section1",
+        "alias": "Meditaton: Breathing anchor",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Breathing Anchor",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/breathing_anchor_ynhhum.png",
+            "title": "Breathing anchor",
+            "content": "This meditation helps you mindfully explore your present feelings and sensations.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Press play to start.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
+            "alias": "meditation audio: Breathing anchor",
+            "duration": "06:45",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/96d3d3eb-2ace-4bb6-a858-90a3da917b14/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "",
+            "content": "Well done for completing this meditation.\n\nYou can use mindful breathing anytime to feel present and connected to your life.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "85024073-2ec9-44e2-814f-09c1d00b1114",
+            "question": "What do you notice after finishing this meditation?",
+            "alias": "Sharing wall: breathing anchor",
+            "exampleText": "I notice my breathing being a bit deeper and I feel more aware to my emotions."
+          }
+        ],
+        "name": "Breathing anchor",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Andningsankaret",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/breathing_anchor_ynhhum.png"
+    },
+    "duration": {
+      "count": 9,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+    "description": "Använd din andning för att landa här och nu.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+        "root": "section1",
+        "alias": "Meditaton: Breathing anchor",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Andningsankaret",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/breathing_anchor_ynhhum.png",
+            "title": "Andningsankaret",
+            "content": "Den här meditationen hjälper dig utforska dina känslor och upplevelser just här, just nu.",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Tryck på play-knappen för att börja.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1620819842/Meditations/Breathing_anchor_SWE_so0zq1.mp3",
+            "alias": "meditation audio: Breathing anchor",
+            "duration": "08:55",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/96d3d3eb-2ace-4bb6-a858-90a3da917b14/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Du är nu klar med övningen, bra gjort!",
+            "content": "Du kan fokusera på andningen när som helst, för att bli mer närvarande här och nu.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "85024073-2ec9-44e2-814f-09c1d00b1114",
+            "question": "Hur upplevde du den här meditationen?",
+            "alias": "Reflektion: andningsankaret",
+            "exampleText": "Jag märkte att min andning blev djupare och jag blev mer medveten om mina känslor."
+          }
+        ],
+        "name": "Andningsankaret",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "A respiração como âncora",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/breathing_anchor_ynhhum.png"
+    },
+    "duration": {
+      "count": 9,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+    "description": "Volta ao momento presente de calma e paz.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+        "root": "section1",
+        "alias": "Meditaton: Breathing anchor",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "A respiração como âncora",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/breathing_anchor_ynhhum.png",
+            "title": "A respiração como âncora",
+            "content": "*7:16 minutos*\n\nPratica a atenção plena usando a respiração como uma ferramenta para navegar através dos sentimentos e sensações corporais.\n\n*Criado por Dr. F. Livheim.*",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para esta meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013523/29k%20FJN/Meditations/Cristina%20Final/A_ANCORA_DA_RESPIRACAO_-_07_16_ic8tnb.mp3",
+            "duration": "07:16",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/d4fb898a-e64a-4068-bada-2f40d629f287/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Acabaste de fazer uma coisa maravilhosa pelo teu bem-estar.\n\nPodes utilizar a respiração consciente em qualquer momento para te sentires presente e mais conectada/o à tua vida.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "e26746e4-cd08-45bb-8ace-c3469645a211",
+            "alias": "Sharing wall: breathing anchor",
+            "question": "O que sentiste depois de terminar esta meditação?",
+            "exampleText": "A minha respiração ficou um pouco mais profunda e tomei consciência das minhas emoções."
+          }
+        ],
+        "name": "A respiração como âncora",
+        "type": "station"
+      }
+    ]
+  }
+}

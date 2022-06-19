@@ -1,0 +1,196 @@
+{
+  "en": {
+    "challenge": {
+      "notStartedTitle": "Join a challenge",
+      "startedTitle": "Your next mission",
+      "startedTitle_plural": "Your next missions",
+      "cta": "Challenge overview"
+    },
+    "community": {
+      "title": "What others are doing"
+    },
+    "suggestions": [
+      {
+        "contentId": "3867da58-6579-45da-93e0-c74d3fbfc04c",
+        "segmentSuggestions": [
+          {
+            "segment": "Good",
+            "contentIds": [
+              "db7b8ede-4965-4618-9cc9-382d81b479d8",
+              "ccc0dd08-549f-4120-a194-07d258b3093f",
+              "3eb09052-5270-4fef-92e1-5ccdd4461312",
+              "e4905ff8-c67b-4396-bb4d-12994554199f"
+            ]
+          },
+          {
+            "segment": "OK",
+            "contentIds": [
+              "af8eade3-482d-48a3-8845-2bd992fe3792",
+              "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+              "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+              "66ee3178-014e-4bea-86e8-965bbe377eb3"
+            ]
+          },
+          {
+            "segment": "Bad",
+            "contentIds": [
+              "744d2467-b66c-488f-850c-a20155f0ba91",
+              "cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+              "62d53200-c8df-40cb-94f8-58c7fe85c427",
+              "89ba5bd7-d73e-462a-b621-cb468b482653",
+              "c251a229-b80b-4153-adb9-b1160bfa84ab"
+            ]
+          }
+        ]
+      }
+    ],
+    "discoverTitle": "Try something else",
+    "suggestionTitle": "Based on your check-in",
+    "forYou": {
+      "heading": "Check-in",
+      "yourCheckIns": "View all",
+      "exerciseIds": ["3867da58-6579-45da-93e0-c74d3fbfc04c"]
+    },
+    "title": "Hello",
+    "when": "{{date}}",
+    "bookmarks": {
+      "title": "Favorites"
+    },
+    "commitments": {
+      "nextLesson": "Your next lesson",
+      "sharingSoon": "Your next sharing",
+      "sharingNow": "Your sharing is about to start",
+      "noCommitmentImage": "https://res.cloudinary.com/twentyninek/image/upload/v1646061249/Illustrations_Tests/take-test_c4qa3u.png",
+      "noCommitmentDiscover": "What do you want to work on?"
+    }
+  },
+  "sv": {
+    "challenge": {
+      "notStartedTitle": "Gå med i en utmaning",
+      "startedTitle": "Nästa uppdrag",
+      "startedTitle_plural": "Nästa uppdrag"
+    },
+    "community": {
+      "title": "Vad andra gör"
+    },
+    "suggestions": [
+      {
+        "contentId": "3867da58-6579-45da-93e0-c74d3fbfc04c",
+        "segmentSuggestions": [
+          {
+            "segment": "Bra",
+            "contentIds": [
+              "db7b8ede-4965-4618-9cc9-382d81b479d8",
+              "ccc0dd08-549f-4120-a194-07d258b3093f",
+              "3eb09052-5270-4fef-92e1-5ccdd4461312",
+              "e4905ff8-c67b-4396-bb4d-12994554199f"
+            ]
+          },
+          {
+            "segment": "Okej",
+            "contentIds": [
+              "af8eade3-482d-48a3-8845-2bd992fe3792",
+              "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+              "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+              "66ee3178-014e-4bea-86e8-965bbe377eb3"
+            ]
+          },
+          {
+            "segment": "Dåligt",
+            "contentIds": [
+              "744d2467-b66c-488f-850c-a20155f0ba91",
+              "cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+              "62d53200-c8df-40cb-94f8-58c7fe85c427",
+              "89ba5bd7-d73e-462a-b621-cb468b482653",
+              "c251a229-b80b-4153-adb9-b1160bfa84ab"
+            ]
+          }
+        ]
+      }
+    ],
+    "discoverTitle": "Testa något annat",
+    "suggestionTitle": "Baserat på din incheckning",
+    "forYou": {
+      "heading": "Checka in",
+      "yourCheckIns": "Visa alla",
+      "exerciseIds": ["3867da58-6579-45da-93e0-c74d3fbfc04c"]
+    },
+    "title": "Hej",
+    "when": "{{date}}",
+    "bookmarks": {
+      "title": "Favoriter"
+    },
+    "commitments": {
+      "nextLesson": "Nästa lektion",
+      "sharingSoon": "Nästa gruppsamtal",
+      "sharingNow": "Ditt gruppsamtal börjar snart",
+      "noCommitmentImage": "https://res.cloudinary.com/twentyninek/image/upload/v1646061249/Illustrations_Tests/take-test_c4qa3u.png",
+      "noCommitmentDiscover": "Vad vill du jobba på?"
+    }
+  },
+  "pt": {
+    "challenge": {
+      "notStartedTitle": "Junta-te a um desafio",
+      "startedTitle": "Missão de hoje",
+      "startedTitle_plural": "Missão de hoje",
+      "cta": "Resumo do desafio"
+    },
+    "community": {
+      "title": "O que os outros estão a partilhar"
+    },
+    "suggestions": [
+      {
+        "contentId": "3867da58-6579-45da-93e0-c74d3fbfc04c",
+        "segmentSuggestions": [
+          {
+            "segment": "Muito bem",
+            "contentIds": [
+              "db7b8ede-4965-4618-9cc9-382d81b479d8",
+              "ccc0dd08-549f-4120-a194-07d258b3093f",
+              "3eb09052-5270-4fef-92e1-5ccdd4461312",
+              "e4905ff8-c67b-4396-bb4d-12994554199f"
+            ]
+          },
+          {
+            "segment": "Bem",
+            "contentIds": [
+              "af8eade3-482d-48a3-8845-2bd992fe3792",
+              "96d3d3eb-2ace-4bb6-a858-90a3da917b14",
+              "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+              "66ee3178-014e-4bea-86e8-965bbe377eb3"
+            ]
+          },
+          {
+            "segment": "Não muito bem",
+            "contentIds": [
+              "744d2467-b66c-488f-850c-a20155f0ba91",
+              "cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+              "62d53200-c8df-40cb-94f8-58c7fe85c427",
+              "89ba5bd7-d73e-462a-b621-cb468b482653",
+              "c251a229-b80b-4153-adb9-b1160bfa84ab"
+            ]
+          }
+        ]
+      }
+    ],
+    "discoverTitle": "Experimenta outros conteúdos",
+    "suggestionTitle": "Para ti agora",
+    "forYou": {
+      "heading": "Check-in",
+      "yourCheckIns": "Vê os teus check-ins",
+      "exerciseIds": ["3867da58-6579-45da-93e0-c74d3fbfc04c"]
+    },
+    "title": "Olá",
+    "when": "{{date}}",
+    "bookmarks": {
+      "title": "Favoritos"
+    },
+    "commitments": {
+      "nextLesson": "Preparada/o para a tua próxima lição?",
+      "sharingSoon": "Tens uma sessão de partilha próxima",
+      "sharingNow": "A tua partilha está quase a começar",
+      "noCommitmentImage": "https://res.cloudinary.com/twentyninek/image/upload/v1646061249/Illustrations_Tests/take-test_c4qa3u.png",
+      "noCommitmentDiscover": "Começa por aqui"
+    }
+  }
+}

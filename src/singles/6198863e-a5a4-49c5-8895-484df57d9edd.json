@@ -1,0 +1,321 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Catch the sleep train",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/catch_the_sleep_train_jozdww.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "version": 1,
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "exercise",
+    "id": "6198863e-a5a4-49c5-8895-484df57d9edd",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-6198863e-a5a4-49c5-8895-484df57d9edd",
+        "name": "Catch the sleep train",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "09d116b5-2265-4cc0-a08a-ce32771a1082",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/catch_the_sleep_train_jozdww.png",
+            "title": "Catch the sleep train",
+            "content": "All human experiences tend to **come** and **go** in **waves**.\n\n**Sleepiness** is no exception. In order to fall asleep, sometimes all we have to do is **stop** **trying** so hard.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "aea4280a-c1a6-47cf-94ff-88af2275171a",
+            "content": "**Learn more about:**\n\n* The 15-minute rule\n* Break negative thought-loops\n\n**You'll need:**\n\n* 10 minutes\n* Pen and paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2b040bc2-0980-4054-bee5-5b212a5a727a",
+            "content": "Sometimes it's really **hard** to fall **asleep**. We can spend hours in bed **twisting** and **turning** **without** ever **achieving** our desired goal.\n\nIn those situations it's **common** to have t**houghts** like: \n\n* *I really have to sleep now!*\n* *What if I won't be able to fall back asleep tonight again?*\n* *If I don't fall asleep now, I'll only get X hours of sleep.*",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3c9ecd7a-9c32-4b46-b7bb-024f202be3c5",
+            "content": "But the **thoughts** and **behaviors** we engage in as we're trying to **control** our sleep often work **contrary** to what we **intended** — they actually **prevent** us from falling **asleep**.",
+            "buttonText": "How?"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "749322a2-8677-4e58-bf97-dc5791f4df87",
+            "content": "It can be helpful to use an analogy of a **train**. If we miss one, it won't help if we get all stressed out when the timetable says that there's half an hour left until the next one is supposed to come along.\n\nIn such situations, it may be a good idea to **do** something **else** while **waiting** for the next sleep train to arrive.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d10f49e6-7274-4033-972e-574b147e69aa",
+            "content": "On top of this, the **bedroom** can become a place **associated** with **worry** and **anxiety.** That's where the so-called **15-minute rule** can come in handy.\n\nThe rule is **applicable** both when you're first **going** to **bed** and if you **wake** **up** **during** the night without being able to fall **back** **asleep**.",
+            "buttonText": "Tell me more"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c6ccba31-c13a-42fa-9d88-0203bb440dfe",
+            "content": "The 15-minute rule aims at making the **association** between your **bed** and **sleep** as **strong** as possible while also **breaking** the anxiety **loop**.\n\nThis is done by **minimizing** the **time** you spend in bed **without** actually **sleeping and** instead **engaging** in a **calming** **activity** until the next sleep train comes around.",
+            "buttonText": "Show me"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f2f6cc8f-6d0c-4094-8bca-8876ab18cae3",
+            "content": "This is how the 15-minute rule works:\n\n1. If you aren't **asleep** after **15 minutes** in bed, **get out** of your bed. You don't need to look at your watch, just **estimate** the **time.**\n2. Instead, **engage** in a **calm activity** like reading a book, folding laundry or drawing a picture.\n3. When you notice signs of being **sleepy** again, go **back** to **bed.**\n4. If you can't fall asleep after about **15** **minutes** in bed, **get up again** and wait for the **next** sleep **train** to come along. We may have to do this several times a night.",
+            "buttonText": "Go on"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "789a6e2d-14bb-4f37-a36d-d0a595f4f440",
+            "title": "Exercise",
+            "content": "Plan your calming activity in advance so you don't have to think about it in the middle of the night.\n\n1. Write your own list of **4-6 calm activities.**\n2. Is there **anything** you need to **prepare**?\n3. **Decide** **where** you'll do your planned activity (for example in the kitchen or the living room).",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c1c3b0d4-1c00-4dc0-960e-a2d21b549a9a",
+            "content": "Good. You're now prepared. Try using the rule every night for at least a week, even if it's **hard** to **change** the **behavior**.\n\nInitially the 15-minute rule can contribute to **less** **sleep**, which further increases your lack of sleep. The good thing is that our bodies naturally **compensate** for this by increasing our **sleep** **efficiency** the following nights.",
+            "buttonText": "Continue "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "038b9d91-1d67-4e3f-bc12-2be97b5fc38e",
+            "content": "After using the 15-minute rule every night for at least a week, it's time to evaluate.\n\n* **How** has it affected your sleep?\n\nRemember: the **purpose** is not always to fall **asleep** **quicker**, but rather to minimize the amount of time we spend **laying** **awake** in bed. To stop trying so hard can also help **break** **negative** **thoughts** and **increase** **chances** of us actually falling **asleep**.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "961e015b-7b1f-4959-bce4-94e174325007",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Well done on completing this exercise!",
+            "content": "Jumping on the **sleep train** while it's actually at the station **increases** the chance of you **getting** onboard. The more **carefully** you **follow** the rule, the **faster** your **brain** and **body** will **learn** the new pattern.\n\nFeel free to **return** to your list of calm activities and **add** more **alternatives**.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Hoppa på sömntåget",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/catch_the_sleep_train_jozdww.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "exercise",
+    "id": "6198863e-a5a4-49c5-8895-484df57d9edd",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-6198863e-a5a4-49c5-8895-484df57d9edd",
+        "name": "Hoppa på sömntåget",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "09d116b5-2265-4cc0-a08a-ce32771a1082",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/catch_the_sleep_train_jozdww.png",
+            "title": "Hoppa på sömntåget",
+            "content": "Alla våra **inre upplevelser** kommer och går i vågor. **Trötthet** är inget undantag. För att vi ska kunna somna behöver vi ibland sluta **försöka.**",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4a644268-4d54-4328-b11b-65c8efeb0431",
+            "content": "**Lär dig mer om:**\n\n* 15-minutersregeln\n* Avbryta negativa tankar\n\n**Du behöver:**\n\n* Tio minuter\n* Papper och penna",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "46c8ae22-7fae-4c68-b8ef-d0b45837410a",
+            "content": "Ibland är det **svårt** att **somna** in. Det kan hända att vi ligger i sängen och vrider och vänder på oss i timmar — utan önskat resultat.\n\nI sådana situationer är det vanligt med tankar som: \n\n* J*ag måste verkligen sova nu!*\n* *Tänk om jag inte kommer kunna sova i natt igen?*\n* *Om jag inte somnar nu kommer jag bara få X timmars sömn.*",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cc61d295-31cb-4d22-bd8e-d2d747461e38",
+            "content": "Men de **tankar** och **beteenden** vi ägnar oss åt när vi försöker **kontrollera** vår **sömn** fungerar ofta **tvärtemot** vad vi **tänkt** oss — de **hindrar** oss från att **somna.**",
+            "buttonText": "Hur då?"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "38a7d9fd-0e29-4af5-a519-9626032f548a",
+            "content": "Vi kan likna **trötthet** vid ett **tåg.** Om vi missar ett **hjälper** det **inte** att **stressa** upp sig och hoppas på att det dyker upp ett nytt tåg när tidtabellen säger att det är en halvtimme kvar till nästa. I sådana lägen kan det vara bra att **göra** något annat i väntan på att **nästa sömntåg** ska **komma.**",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5c734267-0d32-4815-a739-232d6a5c62a5",
+            "content": "Dessutom kan **sängen** bli **förknippad** med **oro** och **ångest om vi spenderar mycket tid med att ligga där och inte kunna somna**.\n\nDet är här **15-minutersregeln** kommer in. Den går att **använda** både vid **sänggående** och om du **vaknar** under **natten** och har svårt att **somna** **om**.",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "46619b69-7834-40be-82d4-685b9b5c2674",
+            "content": "**15-minutersregeln** används för att stärka **kopplingen** mellan **säng** och **sömn** så mycket som möjligt, samtidigt som den hjälper oss **bryta** **negativa** **tankemönster**.\n\nDet görs genom att **minimera** **tiden** du **tillbringar** i **sängen** **utan** att faktiskt **sova**, och **istället** ägna dig åt en **lugn** **aktivitet** tills **nästa** **sömntåg** kommer.",
+            "buttonText": "Visa mig"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "36030f19-320b-4ffb-9f73-6139bad4320c",
+            "content": "Så här funkar 15-minutersregeln:\n\n1. Om du inte **somnat** efter **15** minuter, **gå upp** ur sängen. Du behöver inte titta på klockan, uppskatta bara tiden.\n2. **Ägna** **dig** i stället åt en **lugn aktivitet**, som att läsa en bok, vika tvätt eller rita.\n3. När du märker **tecken** på att du är **sömnig**, gå och **lägg** **dig igen**.\n4. Om du **inte** **somnat** efter **15** minuter, **gå upp** ur sängen igen och vänta på nästa sömntåg. Vi kan behöva göra det här **flera** **gånger** per **natt**.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3baa1c18-99dd-41d0-8f46-cf20794c5420",
+            "title": "Övning",
+            "content": "**Planera** **lugna** **aktiviteter** i förväg, så att du inte behöver tänka ut något mitt i natten.\n\n1. Skriv din egen **lista** på **4-6 lugna** **aktiviteter**.\n2. Finns det någonting du behöver **förbereda** eller lägga fram?\n3. Bestäm **var** du ska **utföra** aktiviteten (till exempel i vardagsrummet eller vid köksbordet).",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4034d11b-953d-45c6-bd9c-e33778c5de94",
+            "content": "Bra. Nu är du förberedd. **Testa** att använda regeln **varje** **kväll** under minst **en** **veckas** tid, även om det är **svårt** att **ändra** **beteende.**\n\nTill en början kan 15-minutersregeln leda till **minskad** **sömn och tillfälligt** öka **sömnbrist**. Då kan det vara bra att veta att våra kroppar **automatiskt** **kompenserar** för det genom att **öka** vår **sömneffektivitet** följande nätter.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f89518e7-76e6-4d33-8280-abd8a48627c9",
+            "content": "När du använt 15-minutersregeln varje natt under **en** **veckas** tid, är det dags att **utvärdera.**\n\n* **Hur** har den **påverkat** din **sömn?**\n\nKom ihåg: syftet med regeln är **inte** alltid att somna **snabbare**, utan att **minska** på **tiden** vi ligger **vakna** i sängen. Att sluta **försöka** kan också **minska** **negativa** **tankar** och **öka** möjligheterna att vi faktiskt **somnar**.",
+            "buttonText": "Fortsätt",
+            "title": "Utvärdera och anpassa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "961e015b-7b1f-4959-bce4-94e174325007",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Bra jobbat, du är färdig med övningen! ",
+            "content": "Att hoppa på **sömntåget** medan det faktiskt står på **din** **station** ökar **chansen** att du kommer **ombord**. Ju **noggrannare** du **följer** 15-minutersregeln, desto **snabbare** kommer din kropp och hjärna **lära** **sig** det nya **mönstret**.\n\n**Återkom** gärna till din **lista** med lugna aktiviteter och **fyll** på vid behov.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "Apanha o comboio do sono",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/catch_the_sleep_train_jozdww.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "exercise",
+    "id": "6198863e-a5a4-49c5-8895-484df57d9edd",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-6198863e-a5a4-49c5-8895-484df57d9edd",
+        "name": "Apanha o comboio do sono",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "09d116b5-2265-4cc0-a08a-ce32771a1082",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/catch_the_sleep_train_jozdww.png",
+            "title": "Apanha o comboio do sono",
+            "content": "Todas as experiências humanas tendem a **ir** e **vir** em **ondas** .\n\nA **sonolência** não é exceção. Para adormecer, às vezes tudo o que temos que fazer é **parar de tentar** tanto.",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "aea4280a-c1a6-47cf-94ff-88af2275171a",
+            "content": "**Fica a saber mais sobre:**\n\n* A regra dos 15 minutos\n* Quebra os ciclos de pensamentos negativos\n\n**Vais precisar de:**\n\n* 10 minutos\n* Caneta e papel",
+            "buttonText": "Vamos lá "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2b040bc2-0980-4054-bee5-5b212a5a727a",
+            "content": "Às vezes é mesmo **difícil** adormecer**.** Podemos passar horas na cama **às voltas para um lado e para o outro sem** conseguirmos **atingir** o nosso tão desejado objetivo.\n\nNessas situações, é **comum** ter pensamentos destes:\n\n* *Tenho mesmo de dormir agora!*\n* *E se eu não conseguir voltar a adormecer novamente esta noite?*\n* *Se não adormecer agora, só vou dormir X horas.*",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3c9ecd7a-9c32-4b46-b7bb-024f202be3c5",
+            "content": "Mas os **pensamentos** e **comportamentos** em que nos envolvemos ao tentar **controlar** o nosso sono geralmente têm o **efeito inverso** daquilo que **queremos**— na verdade, **impedem-nos** de adormecer.",
+            "buttonText": "Como?"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "749322a2-8677-4e58-bf97-dc5791f4df87",
+            "content": "Pode ser útil usar uma analogia de um **comboio**. Se perdermos um, não vai ajudar nada  ficarmos stressados quando no horário vemos que falta meia hora até o seguinte chegar.\n\nNessas situações, pode ser uma boa ideia **fazer** **outra** coisa enquanto **esperamos** a chegada do próximo comboio do sono.",
+            "buttonText": "Seguinte"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d10f49e6-7274-4033-972e-574b147e69aa",
+            "content": "Além disso, o **quarto** pode tornar-se um lugar **associado** à **preocupação** e **ansiedade.** É aí que a chamada **regra dos 15 minutos** pode dar jeito.\n\nA regra é **aplicável** tanto na **hora de deitar,** como quando **acordas durante** a noite e não consegues **voltar a**  **adormecer**.",
+            "buttonText": "Contem-me mais "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c6ccba31-c13a-42fa-9d88-0203bb440dfe",
+            "content": "A regra dos 15 minutos visa tornar a **associação** entre a tua **cama** e o teu **sono** o mais **forte** possível, além de **quebrar** o **ciclo** de ansiedade.\n\nIsso é feito **minimizando** o **tempo** que passas na cama **sem** estar a **dormir e** em vez disso **envolveres-te** numa **atividade** **calmante** até o próximo comboio do sono chegar.",
+            "buttonText": "Mostrem-me"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f2f6cc8f-6d0c-4094-8bca-8876ab18cae3",
+            "content": "É assim que a regra dos 15 minutos funciona:\n\n1. Se não estiveres a **dormir** passados **15 minutos** depois de estares na cama, **sai** da cama. Não tens de  olhar para o relógio, basta que **calcules** o **tempo por alto.**\n2. Vai fazer uma **atividade calma**, como ler um livro, dobrar roupa lavada ou desenhar.\n3. Quando tiveres sinais de estar **sonolento** novamente, **volta** para a **cama**.\n4. Se não conseguires dormir depois de aproximadamente **15** **minutos** na cama, **levanta-te novamente** e espera o **próximo** comboio do sono. Podemos ter de fazer isso várias vezes por noite.",
+            "buttonText": "Continuemos"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "789a6e2d-14bb-4f37-a36d-d0a595f4f440",
+            "title": "Exercício",
+            "content": "Planeia a  tua atividade calmante com antecedência para não teres de  pensar nisso a meio da noite.\n\n1. Escreve a  tua própria lista de **4-6 atividades tranquilas**.\n2. Há **alguma coisa** que tenhas de **preparar**?\n3. **Decide** **onde** vais fazer a tua atividade planeada (por exemplo, na cozinha ou na sala de estar).",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "buttonText": "Concluí"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c1c3b0d4-1c00-4dc0-960e-a2d21b549a9a",
+            "content": "Boa. Agora estás preparada/o. Tenta usar a regra todas as noites por pelo menos uma semana, mesmo que seja **difícil** **mudar** o teu **comportamento**.\n\nInicialmente, a regra de 15 minutos pode contribuir para **dormires menos**, o que aumenta ainda mais as tuas carências de sono. O bom é que o nosso corpo naturalmente **compensa** isso aumentando a **eficácia do sono** nas noites seguintes.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "038b9d91-1d67-4e3f-bc12-2be97b5fc38e",
+            "content": "Depois de usares a regra dos 15 minutos todas as noites durante pelo menos uma semana, é hora de avaliar.\n\n* **Como** é que isso afetou o teu sono?\n\nLembra-te: o **propósito** nem sempre é adormecer **mais depressa**, mas sim minimizar o tempo que passamos **deitadas/os** **acordadas/os** na cama. Parar de te esforçares também pode ajudar a **interromper** **pensamentos** negativos **e** aumentar realmente **as chances** de adormeceres.",
+            "buttonText": "Percebi"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "961e015b-7b1f-4959-bce4-94e174325007",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Parabéns por completares o exercício!",
+            "content": "Saltar para o **comboio  do sono** enquanto ele está na estação **aumenta** a hipótese de **entrares** a bordo. Quanto mais **cuidadosamente** **seguires** a regra, **mais rápido** o teu **cérebro** e o teu **corpo** **vão aprender** o novo padrão.\n\nSente-te  à vontade para **voltares** à tua lista de atividades tranquilas e **adicionar** mais **alternativas**.",
+            "buttonText": "Acabei"
+          }
+        ]
+      }
+    ]
+  }
+}

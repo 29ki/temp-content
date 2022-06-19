@@ -1,0 +1,276 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Self-care cups",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_cups_bnaaic.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "66ee3178-014e-4bea-86e8-965bbe377eb3",
+    "description": "Adopt a new way of looking after yourself.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "66ee3178-014e-4bea-86e8-965bbe377eb3",
+        "root": "section1",
+        "alias": "Exercise: Self-care",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Self-care",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_cups_bnaaic.png",
+            "title": "Self-care",
+            "content": "**Self-care** means taking care of yourself and includes:\n\n* Exercise\n* Getting enough sleep\n* Spending time with others\n* Reading\n* Eating healthy foods\n* Spending time on activities you enjoy",
+            "buttonText": "Tell me more"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0daa963e-66bb-4729-8de3-0f6d84b668a1",
+            "content": " Taking care of ourselves helps us **achieve** and **maintain** health and **prevent** and **deal** with illness (WHO). As our **needs** **vary**, so does the types of self-care. \n\nYou can think of it as an **ecosystem** — the more **diverse** the ecosystem, the **better** for your well-being.",
+            "alias": "Intro II",
+            "buttonText": "Show examples"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Self-care",
+            "topImageUri": "",
+            "title": "",
+            "content": "While your self-care needs change over time, they can be broken down into the following types:\n\n* **Physical self-care:** taking care of your physical health.\n* **Emotional self-care:** being able to express yourself fully without judgement.\n* **Social self-care:** engaging in supportive relationships.\n* **Spiritual self-care:** having a purpose in life.\n* **Intellectual self-care:** learning, reading, reflecting.",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d18ce491-a83d-4a2b-b3e6-f73e80e8cf0b",
+            "content": "**Imagine** that each type of self-care is represented by **a cup of water.**\n\nAs you go about your daily life, you gradually **use up** your **resources.** Self-care is about **replenishing** them **before** you start running on **empty.**\n\nIn other words, spending time for self-care is like **pouring water** into each of your cups.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1651738015/Illustrations_Exercises/five-cups_lxhspz.png",
+            "alias": "Cups",
+            "buttonText": "Try it out"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Self-care check-up",
+            "topImageUri": "",
+            "title": "Exercise",
+            "content": "1. Draw **5** equally large **cups**, each representing **one type** of self-care (physical, emotional, social, spiritual and intellectual).\n2. **Mark** an area in each cup depending on **how full it feels.**\n3. Which cup feels particularly **empty** for you right now?",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercise II",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "4. Think of an action that will replenish your cup and that is doable within the next **15 minutes.** It doesn’t have to be large, expensive, perfect — what matters is that **you** simply **show up for yourself** and **meet** your needs.",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/66ee3178-014e-4bea-86e8-965bbe377eb3/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "",
+            "content": "How great that you’ve dedicated this moment to take care of yourself today! It's now time to **carry** **out** the **action** you chose. \n\nTaking care of yourself doesn't have to be yet another thing on your to-do-list. With time and practice is can become a **natural part** of your everyday life.\n\nTo continue with your practice, find a moment **each day** and ask **yourself** — which cup feels **empty** right now, and what can I do to **meet** my **needs**?",
+            "buttonText": "Finish"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "b75c60e1-29c0-4d7c-9425-f4b652a1594f",
+            "alias": "Sharing wall: self-care",
+            "question": "What are some examples of self-care you can enjoy with loved ones?",
+            "exampleText": "I can play a board game with my kids to relax and have fun or go on a walk with friends to get exercise."
+          }
+        ],
+        "name": "Self-care exercise",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Ta hand om dig själv",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_cups_bnaaic.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "66ee3178-014e-4bea-86e8-965bbe377eb3",
+    "description": "Hitta nya sätt att ta hand om dig själv.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "66ee3178-014e-4bea-86e8-965bbe377eb3",
+        "root": "section1",
+        "alias": "Exercise: Self-care",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Self-care",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_cups_bnaaic.png",
+            "title": "",
+            "content": "Den engelska termen \"self-care\" innebär att **ta hand om sig själv**. Det innefattar bland annat att:\n\n* Träna\n* Få tillräckligt med sömn\n* Tillbringa tid med andra\n* Lära sig nya saker\n* Äta hälsosamt\n* Ägna sig åt njutbara aktiviteter",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5897846c-ffcc-4a71-be95-8a7546f77c13",
+            "content": "Att ta hand om sig själv hjälper oss bibehålla vår **hälsa** och **hantera** **utmaningar** bättre (WHO). Exakt vad self-care innebär kan variera, just eftersom våra **behov** **varierar.** \n\nDu kan tänka på det som ett **ekosystem** — desto mer **varierat** ekosystemet är, desto **bättre** för din hälsa.",
+            "buttonText": "Visa exempel"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0a30bc98-fcda-42fc-806f-1f7f5a1b4e6d",
+            "content": "Så, även om dina behov ändras över tid kan de brytas ned i olika **kategorier**:\n\n* **Fysisk** self-care: att ta hand om din fysiska hälsa.\n* **Emotionell** self-care: att inte döma eller klanka ner på sig själv.\n* **Social** self-care: att engagera sig i stöttande relationer.\n* **Spirituell** self-care: att ha ett syfte med sitt liv.\n* **Intellektuell** self-care: att lära sig nya saker, läsa och reflektera.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Self-care",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1651738015/Illustrations_Exercises/five-cups_lxhspz.png",
+            "title": "",
+            "content": "Föreställ dig att att varje typ av self-care representeras av ett **glas** med vatten. \n\nUnder dina dagar **använder** du stegvis upp dina **resurser.** Self-care handlar om att **fylla på** glasen innan de tar slut.",
+            "buttonText": "Testa på"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Self-care koll",
+            "topImageUri": "",
+            "title": "Övning",
+            "content": "1. Rita **5** lika stora **glas** som var och en representerar **en typ** av self-care (fysisk, emotionell, social, spirituell och intellektuell).\n2. **Fyll** i varje glas med pennan beroende på **hur fullt det känns**.\n3. Vilket glas känns särskilt **tomt** för dig just nu?",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "baadd1a7-329a-4063-a3b3-418fe4b224fe",
+            "content": "4. Tänk ut **vad** du kan göra under de kommande **15 minuterna** för att **fylla på** det glaset. Det behöver varken ta lång tid, vara dyrt eller perfekt – det som betyder något är att **du** helt enkelt ställer upp för dig **själv** och **möter** dina **behov**.",
+            "alias": "Övning II",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/66ee3178-014e-4bea-86e8-965bbe377eb3/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "",
+            "content": "Vad fint att du har ägnat den här stunden åt dig själv. Det är nu dags att **genomföra** handlingen du valt.\n\nAtt ta hand om sig själv behöver inte vara något på din \"att-göra-lista\". Med lite tid och övning kan det bli en **naturlig** **del** av ditt dagliga liv. \n\nFör att fortsätta öva, hitta en stund **varje dag** där du **frågar** dig själv – vilket **glas** känns **tomt** just nu, och vad kan jag **göra** för att **möta** mina **behov**?",
+            "buttonText": "Avsluta"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "c4fa120c-eb37-4608-a964-2c93daca395a",
+            "alias": "Sharing wall: self-care",
+            "exampleText": "Jag kan spela sällskapsspel med mina barn för att slappna av eller gå på en promenad med vänner för att motionera. ",
+            "question": "Vad för typ av self-care kan du njuta av tillsammans med dina nära och kära?"
+          }
+        ],
+        "name": "Ta hand om dig själv",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Autocuidado",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_cups_bnaaic.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "66ee3178-014e-4bea-86e8-965bbe377eb3",
+    "description": "Adota uma nova forma de cuidares de ti.",
+    "stations": [
+      {
+        "id": "66ee3178-014e-4bea-86e8-965bbe377eb3",
+        "root": "section1",
+        "alias": "Exercise: Self-care",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Autocuidado",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_cups_bnaaic.png",
+            "title": "Autocuidado",
+            "content": "*10 - 15 minutos*\n\nAutocuidado significa, cuidares de ti para consiguires alcançar e manter a saúde e assim, prevenires e lidares com a doença (OMS).\n\nFazeres exercício, dormires o suficiente, relacionares-te com os outros, ler e comer alimentos à base de plantas são exemplos de autocuidado.\n\nEmbora possas pensar em autocuidado como uma rotina de saúde, na verdade é um ecossistema vivo de ações baseadas nas tuas necessidades. E, quanto mais diversificado for o ecossistema, melhor para o teu bem-estar.\n\n*Cocriado por 6 psicólogos e investigadores.*",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Autocuidado",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1651738015/Illustrations_Exercises/five-cups_lxhspz.png",
+            "title": "Autocuidado",
+            "content": "Imagina que cada tipo de autocuidado é representado por um copo de água.\n\nTal como a quantidade de água de que necessitamos, também as tuas necessidades de autocuidado podem alterar-se com o tempo. Apesar das necessidades de autocuidado mudarem ao longo do tempo, podem ser divididas nos seguintes tipos:\n\n* Autocuidado físico: cuidar da tua saúde física\n* Autocuidado emocional: ser capaz de expressar-se plenamente, sem julgamento\n* Autocuidado social: envolver-se em relações de apoio \n* Autocuidado espiritual: ter um propósito na vida \n* Autocuidado intelectual: aprender, ler, refletir\n\nÀ medida que vais avançando na tua vida diária, vais gastando gradualmente os teus recursos. O autocuidado consiste em reabastecê-los antes que se esgotem.\n\nPor outras palavras, dedicar tempo ao autocuidado é como encher cada um dos teus copos.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Verificação do autocuidado ",
+            "topImageUri": "",
+            "title": "Verificação do autocuidado ",
+            "content": "Agora é contigo! \nPega numa caneta e numa folha de papel e desenha 5 copos iguais, cada um representando um tipo de autocuidado: \n\n* Físico\n* Emocional\n* Social\n* Espiritual\n* Intelectual\n\nDe acordo com a tua sensação de plenitude, faz uma marca em cada copo.\n\nAgora, podes ver de uma só vez onde estás em relação ao autocuidado. Que copo te parece particularmente vazio neste momento?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Durante os próximos 15 minutos, escolhe uma ação que podes fazer agora mesmo para reabastecer o teu copo. Relembra-te que o autocuidado em si não é o objetivo final - o teu bem-estar é que é. \n\nA ação que escolheres não tem de ser longa, cara ou perfeita. O mais importante é que simplesmente estejas disponível para ti e que vás de encontro às tuas necessidades. \n\nQuando olhares para o autocuidado nesta nova perspetiva holística, tornar-se-á muito mais fácil de implementar. O autocuidado já não será mais uma coisa na tua lista de tarefas. Em vez disso, será uma parte da tua vida diária, em constante evolução e que te ajuda a prosperar.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/66ee3178-014e-4bea-86e8-965bbe377eb3/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Que bom teres dedicado este tempo ao autocuidado hoje. \n\nPara continuares com a tua prática, encontra um momento todos os dias e pergunta-te – “onde me sinto vazio neste momento e o que posso fazer para responder às minhas necessidades?”",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "173d1c03-eb7d-4080-b8ae-3448bb09bf6d",
+            "alias": "Sharing wall: self-care",
+            "question": "Quais são alguns exemplos de autocuidado que podes desfrutar com os teus entes queridos?",
+            "exampleText": "Posso jogar um jogo de tabuleiro com os meus filhos para relaxar e me divertir ou fazer uma caminhada com os amigos para fazer exercício."
+          }
+        ],
+        "name": "Autocuidado",
+        "type": "station"
+      }
+    ]
+  }
+}

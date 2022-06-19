@@ -1,0 +1,191 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Open up to compassion",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/open_up_to_compassion_rc8mma.png"
+    },
+    "duration": {
+      "count": 7,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "7ae26570-1be8-41d9-bf1c-e6c6d3d3793c",
+    "description": "Turn down the inner critic and practice kindness to yourself.",
+    "stations": [
+      {
+        "id": "7ae26570-1be8-41d9-bf1c-e6c6d3d3793c",
+        "root": "section1",
+        "alias": "Meditation: Open up to compassion",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Open up to compassion",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/open_up_to_compassion_rc8mma.png",
+            "title": "Open up to compassion",
+            "content": "*06:58 minutes*\n\nThis meditation helps you shift your thoughts from self-criticism to self-compassion.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "7 minute meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/body/yogagirl_meditation_Lesson_03_Body_and_Footing.mp3",
+            "alias": "meditation audio",
+            "duration": "6:56",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7ae26570-1be8-41d9-bf1c-e6c6d3d3793c/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nUsing your breath is a powerful way to create space, love and support for yourself in challenging situations.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "9044854f-68c0-422a-8d0f-529cd77b144b",
+            "alias": "sharing wall opening up to compassion",
+            "question": "How do you think showing up with kindness could make a difference for you?",
+            "exampleText": "Being less hard on myself can make me dare more. Do more."
+          }
+        ],
+        "name": "Open up to compassion",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Öppna upp för medkänsla",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/open_up_to_compassion_rc8mma.png"
+    },
+    "duration": {
+      "count": 7,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "7ae26570-1be8-41d9-bf1c-e6c6d3d3793c",
+    "description": "Avvisa den inre kritikern och öva vänlighet mot dig själv.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "7ae26570-1be8-41d9-bf1c-e6c6d3d3793c",
+        "root": "section1",
+        "alias": "Meditation: Open up to compassion",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Öppna upp för medkänsla",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/open_up_to_compassion_rc8mma.png",
+            "title": "Öppna upp för medkänsla",
+            "content": "*06:58 minuter*\n\nDenna meditation hjälper dig att flytta dina tankar från självkritik till självmedkänsla.",
+            "buttonText": "Börja meditationen"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "7 minuters meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/body/yogagirl_meditation_Lesson_03_Body_and_Footing.mp3",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7ae26570-1be8-41d9-bf1c-e6c6d3d3793c/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Du är nu klar",
+            "content": "Bra gjort för att slutföra denna meditation.\n\nAtt använda din andning är ett kraftfullt sätt att skapa utrymme, kärlek och stöd för dig själv i utmanande situationer.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "6c9b9c49-81af-4d1d-8122-9d38878e78a1",
+            "alias": "Sharing wall öppna upp för medkänsla",
+            "question": "Hur skulle ditt liv förändras om du hade varit mer omtänksam mot dig själv?",
+            "exampleText": "Jag skulle våga göra mer och låta mina känslor hitta utrymme i kroppen. "
+          }
+        ],
+        "name": "Öppna upp för medkänsla",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "id": "7ae26570-1be8-41d9-bf1c-e6c6d3d3793c",
+    "name": "Dá espaço à compaixão",
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "duration": {
+      "count": 7,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/open_up_to_compassion_rc8mma.png"
+    },
+    "description": "Rejeita a tua crítica ou o teu crítico interior e pratica a bondade para contigo.",
+    "stations": [
+      {
+        "id": "7ae26570-1be8-41d9-bf1c-e6c6d3d3793c",
+        "root": "section1",
+        "alias": "Meditation: Open up to compassion",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Encontra espaço para a compaixão",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/open_up_to_compassion_rc8mma.png",
+            "title": "Encontra espaço para a compaixão",
+            "content": "*06:56 minutos*\n\nEsta meditação ajuda-te a mudar os teus pensamentos de autocrítica para autocompaixão.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Meditação de 06:56 minutos",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523415/29k%20FJN/Meditations/Joanna%20Final/Opening_Space_to_Compassion_amzllt.mp3",
+            "duration": "6:56",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7ae26570-1be8-41d9-bf1c-e6c6d3d3793c/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por completares esta meditação.\n\nUtilizar a respiração é uma forma poderosa de criar espaço, amor e apoio para ti própria/o em situações desafiantes.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "92ac845b-d573-4fec-848e-bc7b92770544",
+            "alias": "sharing wall opening up to compassion",
+            "question": "Como achas que seres gentil contigo própria/o pode fazer diferença no teu dia a dia?",
+            "exampleText": "Seres menos dura/o comigo mesma/o pode levar-me a ser mais confiante e fazer mais."
+          }
+        ],
+        "name": "Dá espaço à compaixão",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-8-reframe",
+    "alias": "pl-8-reframe",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-8-reframe",
+        "alias": "pl-8-reframe",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Reframe",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-8-reframe-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Reframe",
+          "body": "Over the next few hours, choose two thoughts or feelings you're grappling with at work at the moment. \n\nThen list one way in which you can view them more usefully. (e.g., I resent their success. What can I do differently to achieve more positive impact?)"
+        },
+        "followUp": {
+          "id": "pl-8-reframe-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "What did you notice by reframing your thoughts and feelings?",
+          "exampleText": "I felt a sudden sense of optimism where before I felt more negative."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-8-reframe",
+    "alias": "pl-8-reframe",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-8-reframe",
+        "alias": "pl-8-reframe",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Reframe",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Reframe",
+          "body": "Over the next few hours, choose two unwanted thoughts or feelings you’ve had. List one way in which you can view each of those unwanted experiences more usefully. (e.g., I resent their success, what can I do now do to take responsibility to do better myself and achieve success.)"
+        },
+        "followUp": {
+          "id": "pl-8-reframe-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "..."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-8-reframe",
+    "alias": "pl-8-reframe",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-8-reframe",
+        "alias": "pl-8-reframe",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Reframe",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-8-reframe-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Reenquadrar ",
+          "body": "Nas próximas horas, escolhe dois pensamentos ou sentimentos com os quais estejas a debater-te neste momento.\n\nEm seguida, lista uma maneira pela qual possas vê-los de forma mais útil. \n\n*Por exemplo, eu ressinto-me do sucesso deles. O que posso fazer de maneira diferente para obter um impacto mais positivo?*"
+        },
+        "followUp": {
+          "id": "pl-8-reframe-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "O que sentiste ao ter reenquadrado os teus pensamentos e sentimentos? ",
+          "exampleText": "Senti-me subitamente optimista, quando antes me sentia mais negativo/a."
+        }
+      }
+    ]
+  }
+}

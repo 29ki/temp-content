@@ -1,0 +1,560 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Stop-skill",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919864/New_images/exercises%20png/stop-skill_qfwuj4.png",
+      "lottie": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415275/Illustrations_Exercises/stop_qltamb.json"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "e6cf480e-9b4d-458a-88bd-6d88093c5918",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Stop-skill",
+        "alias": "Exercise Stop-skill",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415275/Illustrations_Exercises/stop_qltamb.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Much of human behaviour is automatic responses.** That's one of the reasons we occasionally say and do things we later regret. \n\nAnd sometimes we experience emotions that are so strong that we feel like we can't control them - we just have to act on them right away!"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Next time you feel like you're getting carried away by strong emotions or intrusive thoughts, try using the STOP-skill. It can prevent you from acting impulsively.\n\n**STOP** consists of: \n\n**S** = stop\n\n**T**= take a step back\n\n**O** = observe\n\n**P** = proceed mindfully"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Show me"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415275/Illustrations_Exercises/stop_qltamb.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 1. S for Stop\n\nNext time a strong feeling or a negative thought starts to carry you away - start by just stopping. \\\n\\\nTake a couple of deep breaths. **Stop yourself and control any impulses you have.**"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415669/Illustrations_Exercises/step_back_cc3i14.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 2. T for Take a step back\n\n**Take a step back mentally, and sometimes physically**. Create some distance between yourself and your experience. \\\n\\\nWe often don't have to act right away. It's okay to give yourself some time to think about how you'd like to act."
+                  }
+                ]
+              }
+            ],
+            "id": "5",
+            "alias": "5",
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415725/Illustrations_Exercises/observe_wi8e2w.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 3. O for Observe\n\nSee if you can **observe the situation objectively**. Try to gain perspective on what's going on. \\\n\\\nBe curious and explore your thoughts, feelings and sensations. This helps you gain a better understanding of the situation."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415875/Illustrations_Exercises/proceed_mindfully_kk2ryu.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 4. P for Proceed mindfully\n\nNow you can now **choose how you want to act instead of just reacting impulsively.** \n\nYou might notice that you've just reacted based off of old habits. Or you might decide that your thought or feeling really was accurate. Regardless, you can now choose to do what you want to do. Sometimes that means doing nothing at all."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Got it"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nYou've now learnt the STOP-skill. By stopping, taking a step back, observing and proceeding mindfully you can now **choose your actions**.\n\nThe STOP-skill can help you be less impulsive. Instead, you can act in ways that are important to you."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "9",
+            "alias": "9",
+            "question": "In what way do you think the STOP-skill could be helpful to you?",
+            "exampleText": "I wouldn't withdraw and isolate myself every time I feel sad."
+          }
+        ],
+        "name": "STOP skill",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "STOP-färdigheten",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919864/New_images/exercises%20png/stop-skill_qfwuj4.png",
+      "lottie": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415275/Illustrations_Exercises/stop_qltamb.json"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "e6cf480e-9b4d-458a-88bd-6d88093c5918",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Stop-skill",
+        "alias": "Exercise Stop-skill",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415275/Illustrations_Exercises/stop_qltamb.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Mycket av det vi människor gör är automatiska beteenden**. Därför händer det att vi säger och gör saker vi sedan ångrar. \n\nOch ibland upplever vi att våra känslor är så starka att vi känner att vi inte kan kontrollera oss själva — vi bara måste agera direkt!"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "När vi upplever att känslor eller tankar håller på att ta över kan vi använda STOP-färdigheten. Den kan hindra oss från att agera impulsivt. \n\n**STOP** består av att: \n\n**S** = stanna\\\n\\\n**T**= ta ett steg tillbaka\n\n**O** = observera\n\n**P** = prioritera"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Visa mig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415275/Illustrations_Exercises/stop_qltamb.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 1. S för Stanna\n\nNästa gång det kommer en stark känsla eller en jobbig tanke som vill dra iväg med dig — börja med att bara stanna upp. \n\nTa några djupa andetag. **Hejda dig själv och låt dina impulser vara.**"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415669/Illustrations_Exercises/step_back_cc3i14.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 2. T för Ta ett steg tillbaka\n\n**Ta ett steg tillbaka mentalt, och ibland även fysiskt.** Skapa distans mellan dig själv och din upplevelse. \n\nOftast behöver vi inte agera direkt, så det är helt okej att ge dig själv lite tid att fundera kring vad du vill göra."
+                  }
+                ]
+              }
+            ],
+            "id": "5",
+            "buttonText": "Mer"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415725/Illustrations_Exercises/observe_wi8e2w.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 3. O för Observera\n\nSe om du kan **observera situationen objektivt.** Försök få perspektiv på vad det är som händer. \\\n\\\nUndersök dina tankar, känslor och hur det känns i kroppen. Det hjälper dig få en bättre uppfattning av situationen."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "Lottie",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/raw/upload/v1652415875/Illustrations_Exercises/proceed_mindfully_kk2ryu.json"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 4. P för Prioritera\n\nNu kan du **prioritera det du vill göra istället för att agera impulsivt och reaktivt**. \n\nKanske märker du att du bara reagerat på gamla invanda mönster. Kanske tycker du fortfarande att du borde lyssna på din känsla eller tanke. Oavsett vad kan du nu välja att göra det du vill*.* Ibland innebär det att inte göra någonting alls."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Förstått"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!**\n\nDu har nu lärt dig STOP-färdigheten. Genom att stanna upp, ta ett steg tillbaka, observera och prioritera kan du **själv välja hur du agerar.** \n\nSTOP-färdigheten kan hjälpa dig vara mindre impulsiv och istället prioritera att göra det som är viktigt för dig."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "9",
+            "alias": "9",
+            "question": " På vilket sätt tror du STOP-färdigheten skulle kunna vara hjälpsam för dig?",
+            "exampleText": "Jag skulle inte dra mig undan varje gång jag blir ledsen."
+          }
+        ],
+        "name": "STOP-färdigheten",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Parar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919864/New_images/exercises%20png/stop-skill_qfwuj4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "e6cf480e-9b4d-458a-88bd-6d88093c5918",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Stop-skill",
+        "alias": "Exercise Stop-skill",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/e6cf480e-9b4d-458a-88bd-6d88093c5918/stop_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Muito do comportamento humano consiste em respostas **automáticas**. Essa é uma das razões pelas quais ocasionalmente dizemos e fazemos coisas das quais nos arrependemos mais tarde.\n\nPor vezes experimentamos emoções tão fortes que sentimos que não as podemos controlar - sentimos apenas que *temos* de agir imediatamente!"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Vais aprender a:\n\n* Dar um passo atrás\n* Tornares-te menos impulsivo\n* Escolher como queres agir"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Quando experimentamos emoções fortes ou pensamentos intrusivos, podemos utilizar a competência STOP.\n\n**STOP**  consiste na seguinte sequência:\n\n**S**  = stop (para)\n\n**T**  = tenta dar um passo atrás\n\n**O**  = observa\n\n**P**  = prossegue com atenção plena"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 1. S para Stop (parar):\n\nDa próxima vez que um sentimento forte ou um pensamento negativo te consumir, começa apenas por **pará-lo**.\n\nRespira fundo algumas vezes. Para e controla quaisquer impulsos que tenhas."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 2. T para Tenta dar um passo atrás:\n\nDá um passo atrás, mentalmente e por vezes, fisicamente. Cria alguma distância entre ti e a tua experiência.\n\nNa maioria das vezes não precisamos de agir de imediato. Não há problema em dares um tempo para pensar em como *gostarias de agir*."
+                  }
+                ]
+              }
+            ],
+            "id": "5",
+            "alias": "5",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 3. O para Observar:\n\nVê se consegues observar a situação **objetivamente**. Tenta ter uma perspetiva do que está a acontecer.\n\nSê curioso e aberto na exploração dos teus pensamentos, sentimentos e sensações. Isso vai ajudar-te a ter uma perspetiva melhor da situação."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### 4. P para Prosseguir com atenção plena:\n\nAgora podes **escolher** como desejas agir, em vez de apenas reagir de forma impulsiva. Podes aperceber-te que ias reagir com base em velhos hábitos, ou podes decidir que o teu pensamento ou sentimento era realmente correto.\n\nIndependentemente disso, agora podes escolher o que desejas efetivamente fazer. Às vezes, isso pode significar *apenas não fazer*."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Compreendi"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nAprendeste a competência STOP. Parar, observar, tentar dar um passo atrás e prosseguir com atenção plena permite-te **escolher as tuas ações** de forma consciente e alinhadas com o que realmente é importante para ti.\n\nO STOP vai ajudar-te a ser menos impulsiva/o. Vais poder agir de acordo com o que é *importante* para ti."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Terminar"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "9",
+            "alias": "9",
+            "question": "De que forma achas que a competência STOP pode ser útil para ti?",
+            "exampleText": "Não me vou afastar nem isolar sempre que me sentir triste."
+          }
+        ],
+        "name": "STOP",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "en": {
+    "id": "XJ1RY67jbHe9Cu44tbtfBn",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Feeling lost",
+        "title": "Feeling lost",
+        "content": "You’re about to take a step back in time and explore why living in line with your values matters.\n\n### Today’s lesson has three parts:\n\n* Feeling lost\n* Tackling avoidance\n* Feeling purposeful\n\n### You’ll need:\n\n* 30 min of undisturbed time\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Everyone feels lost at times",
+        "title": "Everyone feels lost at times",
+        "content": "Feeling lost is a natural part of life, especially when we’re in a middle of a crisis. But when we feel lost most of the time, it’s a sign that we could benefit from some changes.\n\nSometimes we don’t recognize when or how we’ve gotten off track in the first place. All we notice is that things don’t feel meaningful anymore, perhaps even painful. Other times it’s quite clear why we’re lost.\n\nOur feelings can inform us about our situation and also motivate us to respond. They reflect how we interpret what’s happening in our life.\n\nThis is why, as difficult as it can be, feeling lost can actually be a good thing. What?! Yes, you read it right. It means you’re aware of being lost, which is the first step to living a more meaningful life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Looking a monster in the eye",
+        "title": "Looking a monster in the eye",
+        "content": "Sometimes the reason why we feel lost is unknown or scary to us. This can make us shy away from it. We call it avoidance.\n\nThough avoidance makes us feel safe in the short run, it can also make us feel even more lost in the long run. Just as you may hesitate to tell your secret crush that you have feelings for him or her in fear of being rejected. But if you don’t express your feelings, what then?\n\nIf noticing that you’re lost is the first step, then tackling avoidance is the second step in figuring out how to live a more meaningful life. It means looking the scary monster right in the eye.\n\nIn this exercise you will explore avoidance.\nThink back to a time in your life when you felt lost and dissatisfied with the way your life was going. For example: “When I was working a lot at that office, I lost contact with some good friends and ended up feeling very lonely”. This can be a recent episode or something that happened a while ago.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Feeling lost",
+        "title": "Feeling lost",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_1/L1-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_1/S1_02_feeling_lost.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down.",
+        "longDescription": "1. Think of a time in your life when you felt lost and dissatisfied.\n\n2. Write a letter to yourself, starting with  “Hi” and describe in detail how you felt, what you did and what was happening in your life at that time. Try to paint a detailed picture of the situation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Exploring your feelings",
+        "title": "Exploring your feelings",
+        "content": "Good work! That was the hardest part. The upside of feelings is that they also tell us when we’re on the right track.\n\nHow did you feel when going to bed last night? Were you filled with a sense of purpose and meaning? Your answer is likely a reflection of what you did that day and what’s happening in your life in general.\n\nNow, try to think of a time in your life when you felt more meaning and purpose. For example “Last year when I worked less and could spend more time with my family.” This can be a recent episode or something that happened a while ago.\n\nYou might even think, “Oh no! I’ve never felt a sense of meaning and purpose! ”Know that this is not a feeling you either have or don’t have. All of us are somewhere between feeling “a lot of meaning” or “a little meaning”. The important thing is to recall a time when you felt it more.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "alias": "Finding that special place in time",
+        "title": "Finding that special place in time",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_1/L1-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_1/S1_03_meaning_purpose.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "time": "Take 5-10 minutes",
+        "question": "Hold on to your letter. This is what you’ll be offered to share at the end of this lesson.",
+        "longDescription": "1. Think of a time in your life when you felt a sense of meaning and purpose.\n\n2. Write a letter to yourself, starting with “Hi” and describe in detail what you did, how you felt and what was happening in your life at that time.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Finding that special place in time",
+        "title": "Finding that special place in time",
+        "content": "You have now written two letters, the second one being in stark contrast to the first. Take a moment to read through both of them. Do they remind you of anything that’s really important to you or you want to do more of in life?\n\nBy writing these letters you’ve added a tool to your toolbox. You can use it to recognise situations you avoid as well as what makes you tick! This will give you an important clue as to what really matters to you. Try to act as a supportive friend who stands by your side and gives you a pat on the back every now and then. We all need it!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing Finding meaning. You’ve just done a wonderful thing for yourself.\n\nIf you’re participating in a group sharing, please keep your notes handy.\n\nYou’re being invited to share about a time in your life when you felt a sense of meaning and purpose.\n\nConsider the following questions\n* What was going on in your life at that time?\n* How did you feel as a result of having more meaning and purpose?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis - Finding meaning"
+  },
+  "sv": {
+    "id": "XJ1RY67jbHe9Cu44tbtfBn",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Att känna sig vilse",
+        "title": "Att känna sig vilse",
+        "content": "Du ska nu ta ett steg tillbaka i tiden för att utforska varför det är viktigt att leva i linje med sina värderingar.\n\n### Den här lektionen har tre delar:\n\n* Vara vilse\n* Att sluta undvika\n* Känna mening\n\n### Du behöver:\n\n* 30 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Alla känner sig vilse ibland",
+        "title": "Alla känner sig vilse ibland",
+        "content": "Att känna sig **vilse** är en naturlig del av livet, särskilt när vi befinner oss i en kris. Men när vi känner oss vilse **större** del av tiden är det ett tecken på att vi kan kan behöva göra förändringar.\n\nIbland inser vi inte när eller hur vi hamnade snett. Allt vi märker är att saker inte känns meningsfulla längre, kanske till och med smärtsamma. Andra gånger är det helt klart varför vi är vilse.\n\nVåra känslor kan hjälpa oss att förstå och också motivera oss att göra något. På så vis, hur jobbigt det än må vara, kan det faktiskt vara bra att känna sig vilsen. Det betyder att vi är medvetna om att vi går vilse – vilket är det första steget mot ett mer meningsfullt liv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Att se monstret i vitögat",
+        "title": "Att se monstret i vitögat",
+        "content": "Ibland kan anledningen till att vi känner oss vilse vara okänd eller läskig. Detta kan få oss att skygga för den, att försöka undvika känslan för att liksom slippa den.\n\nÄven om undvikande kan ge en känsla av trygghet på kort sikt, kan det också få oss att känna oss ännu mer vilsna på lång sikt. Som när vi tvekar att berätta att vi har känslor för någon vi är hemligt förälskade i, av rädsla för att bli avvisad. Men om vi inte uttrycker våra känslor, vad händer då?\n\nOm det första steget är att märka att vi är vilse, är det andra steget att ta reda på hur vi kan leva ett mer meningsfullt liv. Det vill säga att se det läskiga monstret i vitögat.\n\nI denna övning kommer du att utforska undvikande.\nTänk tillbaka på en tid i ditt liv då du kände dig vilse och missnöjd med hur ditt liv gick. \n\nTill exempel: ”När jag arbetade mycket på det kontoret tappade jag kontakten med några goda vänner och jag blev mycket ensam”. \n\nDet här kan vara något nyligen eller något som hände för ett tag sedan.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Övning",
+        "title": "Övning",
+        "time": "5-10 minuter",
+        "question": "Skriv ner dina svar på följande frågor.",
+        "longDescription": "1. Tänk på en tid i livet då du kände dig vilse och missnöjd.\n2. Skriv ett brev till dig själv. Börja med ”Hej...” och beskriv i detalj hur du kände, vad du gjorde och vad som hände i ditt liv under den tiden. Försök att måla en detaljerad bild av situationen.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Utforska dina känslor",
+        "title": "Utforska dina känslor",
+        "content": "Bra jobbat! Det var den svåraste delen. En fördel med känslor är att de också säger till oss när vi är på rätt väg.\n\nHur kände du dig när du gick och la dig i går kväll? Var du fylld av en känsla av syfte och mening? Ditt svar är sannolikt en återspegling av vad du gjorde den dagen och vad som hände i ditt liv i går.\n\nFörsök nu att tänka på en tid i ditt liv då du kände mer mening och syfte. Till exempel ”Förra året när jag arbetade mindre och kunde spendera mer tid med min familj.” Du kan välja något som hände för länge sedan, eller något som pågår just nu.\n\nNu kanske det dyker upp tankar som, ”Åh nej! Jag har aldrig känt mening och syfte i mitt liv!” Du är inte ensam om den upplevelsen. Samtidigt, upplevelser är sällan något vi antingen har eller inte har. Vi är alla någonstans mellan att känna mycket mening eller lite mening. Försök minnas en tid då du kände det mer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Övning",
+        "title": "Övning",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "Skriv nu ett nytt brev till dig själv, där du tänker på en tid i ditt liv då du kände mening och betydelse.\n\n1. Skriv ett brev till dig själv och börja med ”Hej...”. Beskriv i detalj vad du gjorde, hur du kände och vad som hände i ditt liv vid den tiden.\n\nSpara brevet. Detta är vad du kommer att erbjudas att dela med din grupp i slutet av den här lektionen.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Bra jobbat",
+        "title": "Bra jobbat",
+        "content": "Du har nu skrivit två brev, om två helt olika situationer i livet. Läs igenom båda breven och fundera på följande: \n\n* Påminner de dig om vad som verkligen är viktigt för dig eller om vad du vill göra mer av i livet?\n\nGenom att skriva dessa brev har du lagt till ett verktyg i din verktygslåda. Du kan använda det för att känna igen situationer du undviker, samt vad som får dig att må bra. Detta ger dig viktiga ledtrådar till sånt som verkligen betyder något för dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat. Du har precis gjort en fin sak för dig själv.\n\nOm du deltar i en grupp, ha dina anteckningar från övningen där du upplevde mening och syfte nära till hands.\n\nFörbered dig genom att svara på följande frågor\n\n* Vad hände i ditt liv vid den tiden?\n* Hur mådde du när du kände mer mening och syfte?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis - Finding meaning"
+  },
+  "pt": {
+    "id": "XJ1RY67jbHe9Cu44tbtfBn",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Sentir-me perdida/o",
+        "title": "Sentir-me perdida/o",
+        "content": "Estás prestes a dar um passo atrás no tempo para explorares e confirmares a importância de viver de acordo com os teus valores.\n\n### A lição de hoje tem três partes:\n\n* Sentir-me perdida/o\n* Lidar com o ato de evitar\n* Sentir que tenho um propósito\n\n### Vais precisar:\n\n* 30 min de sossego sem interrupções\n* Caneta e papel",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Quando nos sentimos perdidos",
+        "title": "Quando nos sentimos perdidos",
+        "content": "Sentirmo-nos perdidos é uma parte natural da nossa vida, principalmente quando estamos no meio de uma crise. Mas, na maioria das vezes, quando nos sentimos perdidos é um sinal de que podemos beneficiar de algumas mudanças.\n\nMuitas vezes, não reconhecemos logo quando ou como nos perdemos. O que notamos é que as coisas já não têm significado e até podem ser dolorosas. Outras vezes, temos perfeita noção do porquê de estarmos perdidos.\n\nOs nossos sentimentos podem informar-nos acerca destas situações e podem também motivar-nos a responder. Eles refletem a nossa interpretação do que está a acontecer na nossa vida.\n\nÉ por isto que, apesar de parecer difícil, sentirmo-nos perdidos pode ser na verdade algo positivo. O quê? Sim, leste bem. Isto significa que tens consciência de que estás perdida/o. É este o primeiro passo para viver uma vida com mais significado.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Olhar um monstro nos olhos",
+        "title": "Olhar um monstro nos olhos",
+        "content": "Por vezes, a razão de nos sentirmos perdidos é desconhecida ou assusta-nos. Isto pode levar-nos a fugir dela. Chamamos a isto o ato de evitar.\n\nEmbora o ato de evitar nos faça sentir seguros a curto prazo, pode fazer-nos sentir ainda mais inseguros a longo prazo. Da mesma forma que o medo da rejeição pode levar-te a hesitar dizer à pessoa de quem gostas o que sentes por ela.\n\nSe perceber que estás perdida/o é o primeiro passo, lidar com o ato de evitar é o segundo passo para viveres uma vida com mais significado. Significa olhar um monstro aterrador diretamente nos olhos.\n\nNeste exercício, vais explorar o ato de evitar.\nPensa numa altura do passado em que te tenhas sentido perdida/o e insatisfeita/o com a forma como a tua vida estava a correr.  Por exemplo: “Quando estava a trabalhar muitas horas no escritório, perdi o contacto com as minhas amigas ou com os meus amigos e senti-me muito sozinha/o”. Pode ser um episódio recente ou algo que aconteceu há muito tempo atrás.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "Sentir-me perdido",
+        "title": "Sentir-me perdido",
+        "description": "“Foi a morte da minha mãe (…), como é que é agora o mundo sem a minha mãe?”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020944/29k%20FJN/Courses/Meaning%20Making/Thumbnails%209:16/L1P4MEANINGMAKING_vrfoad.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021043/29k%20FJN/Courses/Meaning%20Making/Videos%209:16/L1_Meaning_making_in_a_crisis_V1_-_9x16_b3qzi0.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "time": "Tira 5-10 minutos",
+        "question": "Escreve as tuas respostas às seguintes perguntas:",
+        "longDescription": "1. Pensa numa altura da tua vida em que te tenhas sentido perdida/o e insatisfeita/o.\n2. Escreve uma carta para ti começando por “Olá” e descreve em detalhe como te sentiste, o que fizeste e o que estava a acontecer na tua vida nessa altura. Tenta descrever essa situação com detalhe.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Explora os teus sentimentos",
+        "title": "Explora os teus sentimentos",
+        "content": "Parabéns! Esta foi a parte mais difícil. O lado positivo dos sentimentos é que também nos dizem quando estamos no caminho certo.\n\nComo te sentiste quando te foste deitar ontem à noite? Estavas preenchida/o por um sentido de propósito e significado? A tua resposta é como uma reflexão do que fizeste nesse dia e do que está a acontecer na tua vida de uma forma geral.\n\nAgora, tenta pensar numa fase da tua vida em que sentiste muito propósito e significado. Por exemplo \"No último ano, trabalhei menos e pude passar mais tempo com a minha família.\" Pode ser um episódio recente ou algo que aconteceu há algum tempo atrás.\n\nAté podes pensar \"Oh, não! Num tive um sentimento de propósito e significado!”. Isto não é um sentimento que tens ou não tens. Todos nós estamos entre sentir “muito significado” ou “pouco significado”. O mais importante é recordares uma altura em que sentiste mais.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Encontrar aquele lugar especial",
+        "title": "Encontrar aquele lugar especial",
+        "description": "“No fim do dia, acho que o que importa é nós sentirmo-nos bem com nós próprios. (…) Para mim, isso reflete tudo o resto.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020944/29k%20FJN/Courses/Meaning%20Making/Thumbnails%209:16/L1P7FINDINGMEANING_jej28o.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021056/29k%20FJN/Courses/Meaning%20Making/Videos%209:16/L1_Meaning_making_in_a_crisis_V2_-_9x16_bqyj3w.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Guarda a tua carta perto de ti. É o que vais partilhar no fim desta lição.",
+        "longDescription": "1. Pensa numa altura da tua vida em que tenhas sentido significado e propósito.\n2. Escreve uma carta para ti, começando por “Olá”, e descreve em detalhe o que fizeste, como te sentiste e o que estava a acontecer na tua vida nessa altura.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Encontrar aquele lugar especial",
+        "title": "Encontrar aquele lugar especial",
+        "content": "Neste momento, tens duas cartas escritas e a segunda contrasta completamente com a primeira. Reserva um momento para ler as duas. Representam aspetos que são realmente importantes para ti ou o que desejas fazer na vida?\n\nAo escrever estas cartas, adicionaste uma ferramenta à tua caixa de ferramentas. Podes utilizá-la para reconheceres as situações que evitas, bem como as que te motivam! Isso vai dar-te pistas importantes sobre o que realmente é importante para ti. Tenta agir como uma amiga solidária ou um amigo solidário que fica ao teu lado e te dá uma palmadinha nas costas de vez em quando. Todos precisamos disso!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares **Encontrar significado**. Acabaste de fazer uma coisa maravilhosa pelo teu bem-estar.\n\nSe estiveres a participar num grupo de partilha, mantém as tuas notas à mão.\n\nVais ser convidada/o a partilhar uma fase da tua vida em que tiveste uma sensação de significado e propósito.\n\nConsidera as seguintes perguntas\n\n* O que se estava a passar na tua vida nessa altura?\n* O que sentiste por encontrares mais significado e propósito?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis - Finding meaning"
+  }
+}

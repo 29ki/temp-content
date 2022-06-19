@@ -1,0 +1,14 @@
+{
+  "en": {
+    "title": "Introduction",
+    "text__markdown": "Let the other group members know what you hope to gain from this experience.\n\n**For example:**\n*I'm here to connect deeper with myself and others.*\n\n*I'm here to understand myself better.*\n\n*I'm here to slow down and refocus on whats important in life.*"
+  },
+  "sv": {
+    "title": "Presentation",
+    "text__markdown": "Berätta för de andra i gruppen vad du önskar få ut av upplevelsen.\n\n**Till exempel:**\n*Jag är här för att möta mig själv och andra.*\n\n*Jag är här för att bättre förstå mig själv.*\n\n*Jag är här för att sakta ner och fokusera på det som är viktigt i livet.*"
+  },
+  "pt": {
+    "title": "Introdução",
+    "text__markdown": "Diz aos outros membros do grupo o que esperas ganhar com esta experiência.\n\n**Por exemplo:**\n*Estou aqui para procurar uma ligação mais profunda comigo e com os outros.*\n\n*Estou aqui para me compreender melhor.*\n\n*Estou aqui para acalmar e focar no que é importante na vida.*"
+  }
+}

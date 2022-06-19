@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-aoa-4",
-    "alias": "relationships-aoa-4",
+    "alias": "YA building relationships 2: aware-allow 4",
     "root": "1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "You are now ready to begin your next practice task. We think you’ll find this one is pretty easy.\n\nFor the next three days, we’ll send you a notification inviting you to practice awareness and allowing – in the moment."
+                "content": "Now you are ready for the next step.\n\nUse the phone's calendar or reminder and send a note to yourself at any time, three days in a row. When you receive the reminder, your mission is to stop for a few seconds and to be aware and allowing at that very moment, wherever you are."
               }
             ]
           },
@@ -24,8 +23,7 @@
               {
                 "component": "Button",
                 "content": "More",
-                "sectionId": "2",
-                "conversationId": "relationships-aoa-4"
+                "sectionId": "2"
               }
             ]
           }
@@ -41,7 +39,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "All you need to do when you get the notification is:\n\nPause.\n\nBe aware of yourself, notice what's going on inside your mind and body.\n\nAllow whatever thoughts and feelings you have to be there, and pass.\n\nAllow your inner experiences to come and go like the weather."
+                "content": "When you receive the notification, do the following:\n\n1. **Pause**.\n2. Become **aware** of yourself, notice what is going on in both body and mind.\n3. **Allow** all the thoughts and feelings you are experiencing. Let them come and go, just like the weather."
               }
             ]
           },
@@ -51,8 +49,7 @@
               {
                 "component": "Button",
                 "content": "Okay",
-                "sectionId": "3",
-                "conversationId": "relationships-aoa-4"
+                "sectionId": "3"
               }
             ]
           }
@@ -68,7 +65,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Good job!\n\nYou've now acquired two more skills: awareness and allowing.\n\nPracticing becoming aware of and allowing whatever is going on inside of you is helpful when it comes to friendships."
+                "content": "# Good job!\n\nYou've now acquired two more skills: awareness and allowing.\n\nPracticing becoming aware and allowing of whatever is going on inside of you can be very helpful when it comes to friendships."
               }
             ]
           },
@@ -78,8 +75,7 @@
               {
                 "component": "Button",
                 "content": "More",
-                "sectionId": "4",
-                "conversationId": "relationships-aoa-4"
+                "sectionId": "4"
               }
             ]
           }
@@ -95,7 +91,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "It creates a possibility to choose your response, making you less likely to say and do things you will regret later on. You will also be more likely to have your own values guide your decisions, rather than difficult thoughts or feelings."
+                "content": "Being aware and allowing gives us a chance to **choose** how we want to react. It reduces the risk that we say or do things we will later regret, and it increases the possibility of being the **friend** one wants to be – letting **values** ​​guide our decisions instead of difficult thoughts or feelings."
               }
             ]
           },
@@ -115,9 +111,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-aoa-4",
-    "alias": "relationships-aoa-4",
+    "alias": "YA building relationships 2: aware-allow 4",
     "root": "1",
     "sections": [
       {
@@ -139,7 +134,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-aoa-4",
                 "sectionId": "2"
               }
             ]
@@ -166,7 +160,6 @@
               {
                 "component": "Button",
                 "content": "Okej",
-                "conversationId": "relationships-aoa-4",
                 "sectionId": "3"
               }
             ]
@@ -193,7 +186,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-aoa-4",
                 "sectionId": "4"
               }
             ]
@@ -220,6 +212,117 @@
               {
                 "component": "LessonCompleteButton",
                 "content": "Avsluta"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-aoa-4",
+    "alias": "YA building relationships 2: aware-allow 4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora estás pronta/o para o próximo passo.\n\nUsa o calendário ou um lembrete do telefone e envia uma nota para ti mesma/o a qualquer momento, durante três dias seguidos. Quando receberes o lembrete, a tua missão é parar por alguns segundos, estar consciente e aceitar aquele exato momento, onde quer que estejas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mais",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ao receber a notificação, faz o seguinte:\n\n1. **Pausa**.\n2. Torna-te **consciente** de ti mesma/o, observa o que está a acontecer no teu corpo e na tua mente.\n3. **Aceita** todos os pensamentos e sentimentos que estejas a experienciar. Deixa-os ir e vir, assim como as ondas do mar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Bom trabalho!\n\nAgora adquiriste mais duas competências: consciência e aceitação.\n\nPraticar tornares-te consciente e aceitares o que quer que esteja a acontecer dentro de ti pode ser muito útil quando se trata de amizades."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mais",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Estar consciente e aceitar dá-nos a hipótese de **escolher** como queremos reagir. Reduz o risco de dizermos ou fazermos coisas das quais podemos vir a arrepender-nos mais tarde e aumenta a possibilidade de ser a/o **amiga/o** que se quer ser – deixando os **valores** guiar as nossas decisões em vez dos pensamentos ou sentimentos difíceis ."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Boa! Já acabei",
+                "conversationId": "relationships-aoa-4"
               }
             ]
           }

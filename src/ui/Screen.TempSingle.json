@@ -1,0 +1,67 @@
+{
+  "en": {
+    "screenTitle": "Safety Toolkit",
+    "description__markdown": "# ~~Calm~~ Down\n\nEveryone experiences times when we feel anxious, stressed or overwhelmed.\nThese techniques are designed to help you feel calm and present.\n\n* Begin by finding somewhere quiet and comfortable to sit with your feet firmly on the ground\n* Slowly push your feet hard against the floor\n* Slowly press your fingertips together\n* Take 10 slow, deep breaths\n\n## Meditations\n\nIf you would like to continue, try one of the following meditations",
+    "meditations": [
+      {
+        "title": "Dropping anchor",
+        "byLine": "by Russ Harris",
+        "length": "0:41",
+        "poster__image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/placeholders/CalmDown-medidation.jpg",
+        "source__file": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/Drop-Anchor-Audio-Exercise-40-secs.mp3"
+      },
+      {
+        "title": "Dropping anchor",
+        "byLine": "by Russ Harris",
+        "length": "1:56",
+        "poster__image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/placeholders/CalmDown-medidation.jpg",
+        "source__file": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/Drop-Anchor-Audio-Exercise-2-minutes-1.mp3"
+      },
+      {
+        "title": "Dropping anchor",
+        "byLine": "by Russ Harris",
+        "length": "6:57",
+        "poster__image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/placeholders/CalmDown-medidation.jpg",
+        "source__file": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/Drop-Anchor-Audio-Exercise-7-minutes.mp3"
+      },
+      {
+        "title": "Self Care",
+        "byLine": "by Rachel Brathen",
+        "length": "8:07",
+        "poster__image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/placeholders/CalmDown-medidation.jpg",
+        "source__file": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/self_care_tool/yogagirl_meditation_self_care_tool.mp3"
+      }
+    ]
+  },
+  "sv": {
+    "screenTitle": "Trygghet",
+    "description__markdown": "# ~~Lugn~~\n\nGör dessa tekniker för att känna lugn och närvaro.\n\n* Hitta en tyst och bekväm plats där du kan sitta med fötterna stadigt på marken\n* Tryck långsamt fötterna hårt mot golvet\n* Tryck långsamt ihop fingertopparna \n* Ta 10 djupa och långsamma andetag\n\n## Prova en av dessa övningar"
+  },
+  "pt": {
+    "screenTitle": "Kit de Ferramentas de Segurança",
+    "description__markdown": "# ~~Acalmar~~\n\nTodos temos momentos em que nos sentimos ansiosos, stressados ou assoberbados.\nPartilhamos contigo estas técnicas que foram desenhadas propositadamente para te sentires calma/o e focada/o no presente. Estão disponíveis para ti a qualquer hora, em qualquer lugar. Usa-as sempre que precisares. \n\n* Começa por encontrar um local sossegado e confortável para te sentares. Apoia os pés com firmeza no chão\n* Empurra lentamente, de forma gradual e firme os pés contra o chão\n* Pressiona lentamente as pontas dos dedos\n* Faz 10 respirações lentas e profundas\n\n## Meditações\n\nSe quiseres continuar, experimenta uma das seguintes meditações:",
+    "meditations": [
+      {
+        "title": "Ancorar",
+        "poster__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620373988/Illustrations_Meditations/Header_Breathing_anchor_r6k0z3.png",
+        "source__file": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622015119/29k%20FJN/Security%20Kit/ANCORAR_01_-_01_28_yziyhk.mp3",
+        "length": "1:28",
+        "byLine": "Versão curta"
+      },
+      {
+        "title": "Ancorar",
+        "byLine": "Versão média",
+        "source__file": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622015121/29k%20FJN/Security%20Kit/ANCORAR_02_-_03_35_xycr96.mp3",
+        "length": "3:35",
+        "poster__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620373988/Illustrations_Meditations/Header_Breathing_anchor_r6k0z3.png"
+      },
+      {
+        "title": "Ancorar",
+        "byLine": "Versão longa",
+        "poster__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620373988/Illustrations_Meditations/Header_Breathing_anchor_r6k0z3.png",
+        "source__file": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622015126/29k%20FJN/Security%20Kit/ANCORAR_03_-_11_40_cizqe5.mp3",
+        "length": "11:41"
+      }
+    ]
+  }
+}

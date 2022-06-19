@@ -1,0 +1,14 @@
+{
+  "en": {
+    "question": "Tell us about your experience",
+    "detailedQuestion": "Why did you leave the group?"
+  },
+  "sv": {
+    "question": "Berätta om din upplevelse",
+    "detailedQuestion": "Varför lämnade du gruppen?"
+  },
+  "pt": {
+    "question": "Partilha a tua experiência connosco",
+    "detailedQuestion": "Porque saíste do grupo?"
+  }
+}

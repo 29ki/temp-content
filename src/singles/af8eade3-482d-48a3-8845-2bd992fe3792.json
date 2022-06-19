@@ -1,0 +1,201 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Self-care check-in",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_check_in_dwvt3x.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "version": 1,
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "exercise",
+    "id": "af8eade3-482d-48a3-8845-2bd992fe3792",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-af8eade3-482d-48a3-8845-2bd992fe3792",
+        "name": "Self-care check-in",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "5dd87fbf-ada9-4c88-9874-1a2bb16607cd",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_check_in_dwvt3x.png",
+            "title": "What do I need today?",
+            "content": "In order for us to **feel** **good** and be **satisfied** with our life, every now and then we need to **take care of ourselves** — just as we take care of others.\n\nSelf-care can be divided into **five** **categories**.",
+            "buttonText": "Show me"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "69392694-67a7-4a43-a72f-702db42d4552",
+            "content": "* **Caring** for your **body**\n* Nourishing **relationships**\n* **Describing** and **expressing** **feelings**\n* Finding **meaning** in life\n* **Learning** new things",
+            "buttonText": "Let's try it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1f99e9e3-e6b4-4656-a3d0-5b7692c574b1",
+            "content": "1. **Set** a **number** for how much you **agree** with the following **statements** on a scale of one to five (1 = not at all, 5 = exactly the way I want). Write down your answers:\n\n* I took care of my body\n* I nourished my relationships\n* I noticed and expressed my feelings\n* I did meaningful activities\n* I learned new things",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "939c5d0a-64a6-4102-ad5f-cc1f6910682e",
+            "content": "2. Look at your answers and choose a **category** that **hasn't** **received** much **attention** in the past week.\n2. Now, **think** of something **small** you can **do** within the category you've chosen. It doesn't have to be expensive or grand — it's just about **being** **there** for yourself.\n3. Write down the behavior you're going to do.\n\nFor example: *take a short walk, call a friend, explain how you feel, shut of your phone for an hour, help someone, or work out.*",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f475d98f-e735-46e1-b2d7-56f0dbf0a663",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "How nice of you to show up for yourself!",
+            "content": "It's now time to **complete** the **action** you've chosen.\n\nTo **continue** **practicing**, find a moment **each** **week** where you **ask** yourself: which **area** hasn't received much **attention** lately, and what **can** I **do** to take care of myself right now?",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Vad behöver jag idag?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_check_in_dwvt3x.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "exercise",
+    "id": "af8eade3-482d-48a3-8845-2bd992fe3792",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-af8eade3-482d-48a3-8845-2bd992fe3792",
+        "name": "Vad behöver jag idag?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "5dd87fbf-ada9-4c88-9874-1a2bb16607cd",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_check_in_dwvt3x.png",
+            "title": "Vad behöver jag idag?",
+            "content": "För att vi ska **må** **bra** och vara **tillfreds** behöver vi då och då göra saker för att **ta** **hand** om **oss** **själva** — precis som vi tar hand om andra.\n\nAtt ta hand om sig själv kan delas in i **fem** **områden**.",
+            "buttonText": "Visa mig"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "69392694-67a7-4a43-a72f-702db42d4552",
+            "content": "* Ta hand om **kroppen**\n* Vårda viktiga **relationer**\n* Beskriva och uttrycka **känslor**\n* Känna **mening** i tillvaron\n* **Lära** **sig** nya saker",
+            "buttonText": "Testa på"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1f99e9e3-e6b4-4656-a3d0-5b7692c574b1",
+            "content": "1. **Skatta** hur du har **tagit** **hand** **om** **dig** själv inom respektive område den senaste veckan på en skala från ett till fem (1 = inte alls, 5 = exakt på det sätt jag vill). Skriv ned dina svar:\n\n* Min kropp\n* Mina relationer\n* Lagt märke till och uttryckt mina känslor\n* Gjort meningsfulla saker\n* Lärt mig nya saker",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "939c5d0a-64a6-4102-ad5f-cc1f6910682e",
+            "content": "2. Titta på dina svar och **välj** **ett** **område** som **inte** **fått** så mycket **uppmärksamhet** senaste veckan.\n3. Tänk ut något **litet** du kan **göra** inom **området** du valt. Det behöver inte vara dyrt eller storslaget — det handlar om att **finnas** **där** för dig själv. Skriv ner **beteendet** du ska göra.\n\nTill exempel: *ta en kort promenad, ringa en vän, berätta hur du känner, stänga av telefonen en timme, hjälpa någon eller träna.*",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f475d98f-e735-46e1-b2d7-56f0dbf0a663",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Vad fint att du ställer upp för dig själv!",
+            "content": "Det är nu dags att **genomföra** handlingen du valt.\n\nFör att fortsätta öva, hitta en stund **varje vecka** där du frågar dig själv: vilket **område** har **inte** fått så mycket **uppmärksamhet** på senaste, och **vad** kan jag **göra** för att **ta** **hand** om **mig** själv just nu?",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "Autocuidado (check-up)",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_check_in_dwvt3x.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "exercise",
+    "id": "af8eade3-482d-48a3-8845-2bd992fe3792",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-af8eade3-482d-48a3-8845-2bd992fe3792",
+        "name": "Autocuidado (check-up)",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "5dd87fbf-ada9-4c88-9874-1a2bb16607cd",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/self-care_check_in_dwvt3x.png",
+            "title": "O que preciso hoje?",
+            "content": "Para que possamos **sentir-nos bem** e estar **satisfeita/os** com a nossa vida, por vezes temos de **cuidar de nós mesmos** - da mesma forma que cuidamos dos outros.\n\nO autocuidado pode ser dividido em **cinco categorias** .",
+            "buttonText": "Mostra-me"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "69392694-67a7-4a43-a72f-702db42d4552",
+            "content": "* **Cuidar** do nosso **corpo**\n* Nutrir **relações**\n* **Descrever** e **exprimir emoções**\n* Encontrar **significado** na vida\n* **Aprender** coisas novas",
+            "buttonText": "Vamos experimentar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1f99e9e3-e6b4-4656-a3d0-5b7692c574b1",
+            "content": "1. **Escolhe** um **número** para o teu nível de **concordância** com as seguintes **afirmações**  numa escala de um a cinco (1 = nada, 5 = exatamente como eu quero). Escreve as tuas respostas:\n\n* Cuidei do meu corpo\n* Nutri as minhas relações\n* Percebi e expressei os meus sentimentos\n* Fiz atividades relevantes para mim\n* Aprendi coisas novas",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "939c5d0a-64a6-4102-ad5f-cc1f6910682e",
+            "content": "2. Analisa as tuas respostas e escolhe uma **categoria** que **não tenha recebido** muita **atenção** na semana passada.\n3. Agora, **pensa** numa ação **simples** que possas **fazer** dentro dessa categoria. Não tem de ser nada complicado - trata-se apenas de dares **atenção** a algo pessoal e **estares lá para ti.** \n4. Escreve  o comportamento que vais adotar.\n\nPor exemplo: *fazer uma caminhada curta, ligar a uma amiga ou amigo, descrever o que estás a sentir, desligar o telefone por uma hora, ajudar alguém ou fazer exercício físico.*",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f475d98f-e735-46e1-b2d7-56f0dbf0a663",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Que bom assumires este desafio por ti!",
+            "content": "Agora é o momento de **concluíres** a **ação** que escolheste.\n\nPara **continuares a praticar**, encontra um momento **todas as semanas** onde te perguntas a ti mesma/o: a que  **área** tenho dado pouca **atenção** ultimamente, e o que **posso fazer** para lhe dar mais atenção e cuidar melhor de mim?",
+            "buttonText": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "en": {
+    "title": "Safety tool kit",
+    "faq": {
+      "title": "Answers to your questions",
+      "description": ""
+    },
+    "calmDown": {
+      "title": "Calm down",
+      "description": "Things you can do on your own"
+    },
+    "report": {
+      "title": "Report",
+      "description": "Feedback / Tech issues / Misbehaviour "
+    },
+    "help": {
+      "title": "Emergency Help",
+      "description": "Get external help",
+      "url": "https://29k.org/helplines"
+    }
+  },
+  "sv": {
+    "title": "Trygghetsfunktioner",
+    "faq": {
+      "title": "Svar på dina frågor",
+      "description": ""
+    },
+    "calmDown": {
+      "title": "Bli lugn nu",
+      "description": "Ta ett djupt andetag och välj något du kan göra själv"
+    },
+    "report": {
+      "title": "Rapportera problem",
+      "description": "Tyck till / Tekniska problem / Dåligt uppförande"
+    },
+    "help": {
+      "title": "Akut hjälp",
+      "description": "Få extern hjälp",
+      "url": "https://29k.org/helplines"
+    }
+  },
+  "pt": {
+    "title": "Kit de Ferramentas de Segurança",
+    "faq": {
+      "title": "Respostas às tuas perguntas",
+      "description": ""
+    },
+    "calmDown": {
+      "title": "Acalmar",
+      "description": "Coisas que podes fazer individualmente"
+    },
+    "report": {
+      "title": "Ocorrência",
+      "description": "Comentário / Problemas técnicos / Má conduta"
+    },
+    "help": {
+      "title": "Ajuda de emergência",
+      "description": "Obtém ajuda externa",
+      "url": "https://joseneves.org/pt/29-k-fjn-linhas-de-ajuda"
+    }
+  }
+}

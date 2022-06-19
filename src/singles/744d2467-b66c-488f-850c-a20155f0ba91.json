@@ -1,0 +1,303 @@
+{
+  "en": {
+    "id": "744d2467-b66c-488f-850c-a20155f0ba91",
+    "name": "Dancing with difficulty",
+    "type": "exercise",
+    "segments": [
+      "ADULTS"
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/dancing_with_difficulty_jpebvc.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "description": "Learn a new way to deal with difficult emotions.",
+    "stations": [
+      {
+        "id": "744d2467-b66c-488f-850c-a20155f0ba91",
+        "root": "section1",
+        "alias": "Exercise: Dancing with difficulty ",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Dancing with difficulty",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/dancing_with_difficulty_jpebvc.png",
+            "title": "Dancing with difficulty",
+            "content": "### Engaging my emotions to do what matters to me\n\nWhen dealing with difficult emotions, focusing on what matters to you can really help us recover, but sometimes these emotions  come back like a boomerang despite our best efforts.\n\nWhen difficult emotions arise, you can open up to those feelings by dancing with them rather than avoiding or struggling against them. Dancing with difficult emotions can help you see and then do what matters most to you.",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Grab a pen and paper, and answer the following questions",
+            "topImageUri": "",
+            "title": "Grab a pen and paper, and answer the following questions",
+            "content": "Take a moment to tune in to how you’re feeling right now.\n\n1. What do you feel — who is your partner in this dance? Try to think of two feelings it might be and compare them. Start big (e.g. am I feeling scared OR does this feel more like panic — Am I angry OR am I more frustrated).",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "2. Of the words or phrases you choose, which more accurately describes how you feel?",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Try to surface a deeper layer",
+            "title": "Try to surface a deeper layer",
+            "time": "",
+            "question": "",
+            "longDescription": "Now, let’s examine the word or phrase that you feel better matches your feeling and put it under a magnifying glass to really get a better sense of it.\n\nTake a few moments to see it more clearly or in greater detail. Write down this more fine-grained description about how you feel in this situation.\n\nFor example, ask yourself: If I feel nervous, am I nervous about something specific OR something unknown?",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "writing exercise: dancing with difficulty",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "With this more detailed understanding or description of how you feel, ask yourself the following questions:\n\nHow does this feeling help me to understand what I can do that makes sense or matters to me in this situation?\n\nDoes this feeling help me to see anything I can do that might be important or matter to me in this situation?",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Doing what matters to makes sense",
+            "title": "Doing what matters to makes sense",
+            "time": "",
+            "question": "",
+            "longDescription": "Your feelings are guides that help you make sense of your situation. They can also help you see ways of living that make sense or matter to you in each and every situation your in, even when times are difficult or changing.\n\nHaving tuned in to how you feel in this situation, what do your emotions indicate that you could do right now that matters to you?",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done!",
+            "content": "Tuning in is a skill you can use in every situation you find yourself in, no matter how tough it seems.\n\nAfter you finish this exercise, try to do one thing, no matter how small it seems, that matters to you, and remember that tuning in to what you feel can help you do this.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "41143b00-586d-4cee-a5f0-cb99bae91297",
+            "question": "What small thing can you do right now that matters to you?",
+            "exampleText": "I can call or text a loved one to let them know that I appreciate their presence in my life.",
+            "alias": "sharing wall: Dancing with difficulty"
+          }
+        ],
+        "name": "Dancing with difficulty",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Dans med svårighet",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/dancing_with_difficulty_jpebvc.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "744d2467-b66c-488f-850c-a20155f0ba91",
+    "description": "Lär dig ett nytt sätt att hantera svåra känslor.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "744d2467-b66c-488f-850c-a20155f0ba91",
+        "root": "section1",
+        "alias": "Exercise: Dancing with difficulty ",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Dans med svårighet",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/dancing_with_difficulty_jpebvc.png",
+            "title": "Dans med svårighet",
+            "content": "### Att engagera mina känslor för att göra det som betyder något för mig\n\nNär du hanterar svåra känslor kan det verkligen hjälpa att fokusera på att göra det som är viktigt för dig personligen, men ibland kan dessa känslor komma tillbaka som en boomerang.\n\nI dessa situationer kan du öppna för dessa känslor genom att dansa tillsammans med dem på ett sätt som hjälper dem att leda dig till att se och göra det som kan betyda för dig personligen, snarare än att undvika eller kämpa mot dem.\n\n",
+            "buttonText": "Nu kör vi"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Ta en penna och ett papper och svara på följande frågor",
+            "topImageUri": "",
+            "title": "Ta en penna och ett papper och svara på följande frågor",
+            "content": "Ta en stund och försök att anpassa dig till hur du känner dig just nu i din nuvarande situation.\n\n1. Vad känner du, vem är din partner i den här dansen? Försök att tänka på två saker det kan vara, och jämför dem. Börja stort (t.ex. känner jag mig rädd ELLER känns det mer som panik ... ELLER är jag arg ELLER är jag mer frustrerad).\n",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Träning",
+            "title": "Träning",
+            "time": "",
+            "question": "",
+            "longDescription": "2. Vilken av de ord eller fraser du väljer, som kändes mer som hur du verkligen känner? '\n",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Försök att yta ett djupare lager",
+            "title": "Försök att yta ett djupare lager",
+            "time": "",
+            "question": "",
+            "longDescription": "Låt oss nu undersöka ordet eller frasen som du känner dig bättre matchar din känsla och lägga det under ett förstoringsglas för att verkligen få en bättre känsla av det.\n\nTa några ögonblick för att se det tydligare eller mer detaljerat. Skriv ner denna mer detaljerade beskrivning om hur du mår i den här situationen.\n\nTill exempel, om jag känner mig nervös, är jag nervös för något specifikt ELLER något okänt.",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Med denna mer detaljerade förståelse eller beskrivning av hur du mår, ställ dig själv följande fråga\n\nHur hjälper den här känslan att förstå vad jag kan göra som är meningsfullt eller viktigt för mig personligen i denna situation?\n\nHjälper den här känslan mig att se någonting jag kan göra som kan vara viktigt eller som spelar någon roll för mig personligen i denna situation?",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Att göra det som är viktigt är vettigt",
+            "title": "Att göra det som är viktigt är vettigt",
+            "time": "",
+            "question": "",
+            "longDescription": "Dina känslor är guider som hjälper dig att förstå din situation och se sätt att leva ett liv som är vettigt eller viktigt för dig personligen i varje situation du befinner dig i, även saker är svåra eller förändras.\n\nEfter att ha anpassat dig till hur du känner dig i denna situation, vad hjälper din guide dig att se att du kan göra just nu som är vettigt eller viktigt för dig personligen?\n",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "",
+            "title": "Bra gjort!",
+            "content": "Den färdighet du har övat i den här övningen, tuning-in, är en du kan använda i varje situation du befinner dig, oavsett hur tuff situationen verkar.\n\nNär du har lämnat denna övning, försök att göra en sak, oavsett hur liten den verkar, som är vettig eller viktig för dig, och kom ihåg att inställningen på vad du känner kan hjälpa dig att göra detta.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Dans med svårighet",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "id": "744d2467-b66c-488f-850c-a20155f0ba91",
+    "name": "Dançar com as Dificuldades",
+    "type": "exercise",
+    "segments": [
+      "ADULTS"
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/dancing_with_difficulty_jpebvc.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "description": "Aprende uma nova forma de lidares com as emoções difíceis.",
+    "stations": [
+      {
+        "id": "744d2467-b66c-488f-850c-a20155f0ba91",
+        "root": "section1",
+        "alias": "Exercise: Dancing with difficulty ",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Dança com as dificuldades",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/dancing_with_difficulty_jpebvc.png",
+            "title": "Dança com as dificuldades",
+            "content": "### Interagir com as minhas emoções para fazer o que é importante para mim\n\nQuando lidas com emoções difíceis, concentrares-te em fazer o que é importante para ti pode ajudar, mas, por vezes, estas emoções podem voltar como um boomerang.\n\nNessas situações, podes abrir-te a estes sentimentos, dançando com eles, de forma a que os deixes guiarem-te para veres e fazeres aquilo que é importante para ti, em vez de os evitares ou lutares contra eles.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Pega numa caneta e num papel e responde às seguintes perguntas",
+            "topImageUri": "",
+            "title": "Pega numa caneta e num papel e responde às seguintes perguntas",
+            "content": "Dedica um momento para te ligares ao que estás a sentir neste momento. Escreve as tuas respostas numa folha de papel.\n\n1. O que é que sentes? Quem é o teu parceiro ou a tua parceira nesta dança? Tenta pensar em duas coisas que o poderiam ser e compara-as. Começa em grande (por exemplo, estou a sentir-me assustada/o OU isto parece-me mais pânico… OU estou com raiva OU estou mais frustrada/o).",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "2. Das palavras ou frases que escolheste, qual foi a mais parecida com o que estás a sentir?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Traz à superfície uma camada mais profunda",
+            "title": "Traz à superfície uma camada mais profunda",
+            "time": "",
+            "question": "",
+            "longDescription": "Agora vamos analisar a palavra ou frase que melhor corresponde ao que sentes e vamos colocá-la sob uma lupa, para que faça mais sentido.\n\nDedica algum tempo para a veres mais nitidamente ou com maior detalhe. Escreve sobre como te sentes nesta situação da forma mais minuciosa possível.\n\nPor exemplo, se eu me sinto nervosa/o, estou nervosa/o com algo específico OU com algo desconhecido.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Perante este entendimento ou descrição mais detalhada de como te sentes, faz a seguinte pergunta a ti própria/o:\n\nComo é que este sentimento me ajuda a compreender o que posso fazer ou o que faz sentido para mim nesta situação?\n\nEste sentimento ajuda-me a ver tudo o que posso fazer que seja importante ou relevante nesta situação para mim?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Fazer o que importa para ter sentido",
+            "title": "Fazer o que importa para ter sentido",
+            "time": "",
+            "question": "",
+            "longDescription": "Os teus sentimentos são guias que te ajudam a dar sentido à tua situação atual e a encontrar formas de viver uma vida que faz sentido ou que é importante para ti em cada situação, mesmo quando as coisas são difíceis ou estão a mudar.\n\nDepois de te teres ligado ao que sentes nesta situação, como é que o teu guia te ajuda a ver o que podes fazer agora que faça sentido e que seja importante para ti?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Neste exercício treinaste a tua capacidade de te ligares e podes usá-la em qualquer situação em que te encontres, por mais difícil que a situação pareça.\n\nDepois de terminares este exercício, tenta fazer alguma coisa que faça sentido ou que seja importante para ti, por muito pequena que pareça, e lembra-te que ligares-te ao que estiveres a sentir pode ajudar-te a fazer isto.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "c4dae3d1-e29c-4e18-9cbc-d7c96568fcfc",
+            "alias": "sharing wall: Dancing with difficulty",
+            "question": "Que pequena coisa, importante para ti, podes fazer imediatamente?",
+            "exampleText": "Posso telefonar ou enviar uma mensagem a alguém de quem gosto a dizer o quanto aprecio a sua presença na minha vida"
+          }
+        ],
+        "name": "Dançar com as Dificuldades",
+        "type": "station"
+      }
+    ]
+  }
+}

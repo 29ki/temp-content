@@ -1,0 +1,252 @@
+{
+  "en": {
+    "id": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0",
+    "alias": "Leadership-leadpurposefully-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0ad6fbc0-2e46-4f9b-a418-6f41d4e0088f",
+        "title": "Find novelty in the normal",
+        "alias": "Find novelty in the normal",
+        "content": "Most of us live from the neck up, thinking about the past or the future and rarely noticing the world around us.\\\n\\\nBut what if you could see, hear, touch and feel the life that’s happening around you?\n\nWould it help you to relate to yourself, others, and your world in a different way? Would it make you more likely to open up to new people?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's give it a go",
+            "sectionId": "e2dd4c12-e461-4576-b7b8-fb36702949a8"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "e2dd4c12-e461-4576-b7b8-fb36702949a8",
+        "alias": "Noticing the world around you",
+        "title": "Noticing the world around you",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "8e1aa189-e385-4410-9f28-6a3a8def4394"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/f_auto,q_auto,t_global/v1619187317/Leadership/Question_1_noticing_qq9ejb.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575206/Leadership/Subtitles/question_1_noticing_eng_ezihtm.vtt"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8e1aa189-e385-4410-9f28-6a3a8def4394",
+        "alias": "Find the novel 2",
+        "content": "Maybe it's walking a dog, showing up in a meeting, giving someone a call or preparing a cup of coffee.\n\nGo ahead and perform this activity. As you do so, pay attention to what you see, hear, smell or touch.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "e103a52e-80a4-449c-82be-ddca4ead1c56",
+            "content": "Continue"
+          }
+        ],
+        "title": "Think of a short action you take on a regular basis"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "For example, the color of the café door next to your work; how smooth the butter feels as you butter your toast; the unexpected box of flowers blooming in the heart of a busy street.\n\n### The 3 things I've noticed are:\n\n1. *...*\n2. *...*\n3. *...*",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "f11e8703-8067-4a18-a9c6-0bf693a7dbcc",
+            "content": "I'm done"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "alias": "Exercise",
+        "title": "Can you notice 3 new details about this activity?",
+        "type": "writing",
+        "id": "e103a52e-80a4-449c-82be-ddca4ead1c56"
+      },
+      {
+        "type": "video",
+        "id": "f11e8703-8067-4a18-a9c6-0bf693a7dbcc",
+        "alias": "Feeling ALIVE",
+        "title": "Feeling ALIVE",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "7c359946-332e-412f-ab13-85c10160d73b"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/f_auto,q_auto,t_global/v1619188317/Leadership/Question_1_noticing20years_gbbqrv.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575206/Leadership/Subtitles/question_1_20years_eng_aero0n.vtt"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "7c359946-332e-412f-ab13-85c10160d73b",
+        "longDescription": "For example a sense of curiosity, wonder, distaste etc.\n\nHave a go at identifying any feelings that showed up for you as you were performing this exercise.",
+        "question": "",
+        "alias": "Exercise 2",
+        "title": "How did you feel noticing the world around you?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me an example",
+            "sectionId": "be3de29a-53e1-408a-b217-ec2c9f123915"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "be3de29a-53e1-408a-b217-ec2c9f123915",
+        "alias": "Jonathan's example",
+        "title": "A view from my window",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1616948748/Leadership/smiley_face_ncklrs.webp",
+        "content": "*I wonder how long this smilie face was hiding in the attic across the road, but I never noticed it before. Even though I could physically see less out of my window than usual with the repair works, I actually saw more by doing this exercise. I felt a sense of fun and surprise seeing the face which reminded me during a hard week that there's fun out there and not everything has to be so serious.*",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5"
+          }
+        ]
+      }
+    ],
+    "root": "0ad6fbc0-2e46-4f9b-a418-6f41d4e0088f"
+  },
+  "sv": {
+    "id": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0",
+    "alias": "Leadership-leadpurposefully-3"
+  },
+  "pt": {
+    "id": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0",
+    "alias": "Leadership-leadpurposefully-3",
+    "root": "0ad6fbc0-2e46-4f9b-a418-6f41d4e0088f",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0ad6fbc0-2e46-4f9b-a418-6f41d4e0088f",
+        "title": "Encontrar novidade no habitual",
+        "alias": "Encontrar novidade no habitual",
+        "content": "A maioria de nós vive do pescoço para cima, ou seja, focado nos nossos pensamentos, a pensar no passado ou a imaginar o futuro . Contudo, raramente tomamos consciência do mundo à nossa volta. \n\nMas, e se pudesses ver, ouvir, tocar e sentir a vida que está a acontecer ao teu redor? \n\nAjudar-te-ia a relacionares-te contigo mesmo/a, com os outros e com o mundo de maneira diferente? Isso aumentaria a probabilidade de te abrires com pessoas novas?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos experimentar ",
+            "sectionId": "e2dd4c12-e461-4576-b7b8-fb36702949a8"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "e2dd4c12-e461-4576-b7b8-fb36702949a8",
+        "alias": "Noticing the world around you",
+        "title": "Tomar consciência do mundo à tua volta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí",
+            "sectionId": "8e1aa189-e385-4410-9f28-6a3a8def4394"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179045/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_1._Liderar_com_prop%C3%B3sito_-_video_1_iovifk.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179130/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L1V1_btum9b.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8e1aa189-e385-4410-9f28-6a3a8def4394",
+        "alias": "Encontra o novo 2",
+        "content": "Pode ser passear o cão, comparecer a uma reunião, fazer uma chamada para alguém ou preparar um café. \n\nVai e concretiza a atividade. Ao fazê-lo, presta atenção ao que vês, ouves, cheiras ou tocas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "e103a52e-80a4-449c-82be-ddca4ead1c56",
+            "content": "Continuar"
+          }
+        ],
+        "title": "Pensa numa ação simples que possas levar a cabo de forma regular"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Por exemplo, a cor da porta do café ao lado do teu trabalho; ou como a manteiga se derrete ao barrares a tua torrada; uma floreira a florir naquela rua movimentada. \n\n### As 3 coisas que detetei foram:\n\n1 ... \n\n2 ... \n\n3 ...",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "f11e8703-8067-4a18-a9c6-0bf693a7dbcc",
+            "content": "Concluí "
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "alias": "Exercício",
+        "title": "Consegues detectar 3 novos detalhes nesta atividade?",
+        "type": "writing",
+        "id": "e103a52e-80a4-449c-82be-ddca4ead1c56"
+      },
+      {
+        "type": "video",
+        "id": "f11e8703-8067-4a18-a9c6-0bf693a7dbcc",
+        "alias": "Feeling ALIVE",
+        "title": "Sentir-me ALIVE (VIVO/A)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí ",
+            "sectionId": "7c359946-332e-412f-ab13-85c10160d73b"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179046/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_1._Liderar_com_prop%C3%B3sito_-_video_2_oayjf2.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179130/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L1V2_phreyi.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "7c359946-332e-412f-ab13-85c10160d73b",
+        "longDescription": "Por exemplo, um sentido de curiosidade, admiração, aversão, etc. \n\nTenta identificar todos as emoções que te surgiram durante a realização deste exercício.",
+        "question": "",
+        "alias": "Exercise 2",
+        "title": "Como te sentiste ao dares conta do mundo ao teu redor?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me um exemplo",
+            "sectionId": "be3de29a-53e1-408a-b217-ec2c9f123915"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "be3de29a-53e1-408a-b217-ec2c9f123915",
+        "alias": "Jonathan's example",
+        "title": "A vista da minha janela",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1616948748/Leadership/smiley_face_ncklrs.webp",
+        "content": "*Pergunto-me há quanto tempo este rosto sorridente estava escondido no sótão do outro lado da rua e eu nunca me tinha apercebido disso antes. Embora eu conseguisse ver menos pela minha janela do que o normal, devido às obras de manutenção, na verdade, vi mais ao fazer este exercício. Tive uma sensação de alegria e surpresa ao ver aquele rosto que me lembrou, durante uma semana difícil, que há sempre algo divertido e que nem tudo tem de ser tão sério.*",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar ",
+            "conversationId": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5"
+          }
+        ]
+      }
+    ]
+  }
+}

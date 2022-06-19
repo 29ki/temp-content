@@ -1,0 +1,44 @@
+{
+  "en": {
+    "edit_name": "Edit",
+    "screenTitle": "Profile",
+    "textLengthError": "Minimum {{charLength}} characters",
+    "rowButtons": {
+      "testResults": "Test results",
+      "privacy": "Privacy",
+      "language": "Language",
+      "contact": "Contact",
+      "help": "Help",
+      "logout": "Logout",
+      "deleteAccount": "Delete Account"
+    }
+  },
+  "sv": {
+    "edit_name": "Redigera",
+    "screenTitle": "Profil",
+    "textLengthError": "Minst {{charLength}} karaktärer",
+    "rowButtons": {
+      "testResults": "Testresultat",
+      "privacy": "Integritet",
+      "language": "Språk",
+      "contact": "Kontakt",
+      "help": "Hjälp",
+      "logout": "Logga ut",
+      "deleteAccount": "Radera konto"
+    }
+  },
+  "pt": {
+    "edit_name": "Editar",
+    "screenTitle": "Perfil",
+    "textLengthError": "Mínimo de {{charLength}} caracteres",
+    "rowButtons": {
+      "testResults": "Resultado dos testes",
+      "privacy": "Privacidade",
+      "language": "Idioma",
+      "contact": "Contactos",
+      "help": "Ajuda",
+      "logout": "Sair",
+      "deleteAccount": "Remover conta"
+    }
+  }
+}

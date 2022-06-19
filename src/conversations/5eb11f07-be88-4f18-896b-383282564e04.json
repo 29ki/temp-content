@@ -1,0 +1,110 @@
+{
+  "en": {
+    "id": "5eb11f07-be88-4f18-896b-383282564e04",
+    "alias": "alive-day-17",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 17",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay17rev1",
+          "title": "Alive Day 17 Quest",
+          "body": "Over the next few hours, discover and discuss one common interest you didn’t know you had with someone."
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I...."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay17",
+          "title": "Alive Day 17 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-17",
+        "nextConversationId": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "d16e62f6-ad4a-4808-9134-8a3a49fd8918"
+      }
+    ]
+  },
+  "sv": {
+    "id": "5eb11f07-be88-4f18-896b-383282564e04",
+    "alias": "alive-day-17",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 17",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay17rev1",
+          "title": "Uppdrag dag 17",
+          "body": "De närmaste timmarna, utforska och diskutera ett intresse du inte visste att du hade gemensamt med någon."
+        },
+        "sharingWall": {
+          "question": "Vad – om något – upptäckte du om dig själv?",
+          "exampleText": "Att det inte är så svårt att prata med min kollega som jag trott."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay17",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-17",
+        "nextConversationId": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "d16e62f6-ad4a-4808-9134-8a3a49fd8918"
+      }
+    ]
+  },
+  "pt": {
+    "id": "5eb11f07-be88-4f18-896b-383282564e04",
+    "alias": "alive-day-17",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 17",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay17rev1",
+          "title": "Desafio ALIVE dia 17",
+          "body": "Nas próximas horas, descobre um interesse comum com alguém e discute-o com essa pessoa. Um interesse que ainda não conhecias."
+        },
+        "sharingWall": {
+          "question": "O que aprendeste acerca de ti própria/o? ",
+          "exampleText": "Hoje eu..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay17",
+          "title": "Check-in Dia 17 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-17",
+        "nextConversationId": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "d16e62f6-ad4a-4808-9134-8a3a49fd8918"
+      }
+    ]
+  }
+}

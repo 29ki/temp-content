@@ -1,0 +1,377 @@
+{
+  "en": {
+    "id": "61486062-f19e-4409-844d-55e6865828b6",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b3a3906f-eb61-44f5-acd3-b8073641cee2",
+        "alias": "Don’t feed the monster",
+        "title": "Don’t feed the monster",
+        "content": "When we’re anxious, we tend to do things that **make us feel better in the moment**, and that also make things worse in the long run. This throws us in an endless loop.\n\nAnd the more we do to overcome the state we're in, the more anxious we feel. We call this **feeding the anxiety monster**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Read more",
+            "sectionId": "22f52ad2-5a36-4859-9b3a-eba1b86d8203"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "22f52ad2-5a36-4859-9b3a-eba1b86d8203",
+        "content": "For example, say you’re worried about an external event such as war or pandemic. As a way of coping, you are constantly listening to the news or go on Google several times a day to read every possible article about the issue. Before you know it, you've spent hours and hours and instead of feeling more informed, **you feel more** **anxious**.\n\nThe reason why we engage in these kinds of behaviors is because they make us feel good in the moment. They give us a **false sense of being in control.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "ae1e0a65-4e39-413e-aa5c-171a7e267e1d"
+          }
+        ],
+        "alias": "Don't feed the monster II"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ae1e0a65-4e39-413e-aa5c-171a7e267e1d",
+        "content": "However, when we spend a lot of time and energy trying to control anxiety, **it tends to take over our lives instead**.\n\nFor example, you may find yourself struggling to sleep, be present or focus on what matters to you, thus negatively impacting your well-being.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "a618e471-2b37-4e65-92a0-132c52014a8e"
+          }
+        ],
+        "alias": "Don't feed the monster III"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "a618e471-2b37-4e65-92a0-132c52014a8e",
+        "nextSection": "cf06efbf-34e1-4c68-b688-63f61a2f74ba",
+        "alias": "Sharing question",
+        "exampleText": "I spend a lot of time trying to control things I can't change. I avoid a lot of situations and postpone important things that needed to get done.",
+        "question": "In what ways do you feed the anxiety monster?",
+        "previewSharings": false,
+        "enableEarlySkip": true
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cf06efbf-34e1-4c68-b688-63f61a2f74ba",
+        "title": "",
+        "alias": "Snap out of the anxiety loop",
+        "content": "When the anxiety monster takes over your life, the most helpful thing you can do is to **break the anxiety loop.**\n\nOne way of doing so is by understanding your needs and **changing your behaviors** accordingly.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Learn more",
+            "sectionId": "e89053b5-2338-43d6-b692-975b8f6ae8f0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e89053b5-2338-43d6-b692-975b8f6ae8f0",
+        "title": "My needs",
+        "alias": "My needs",
+        "content": "In the previous segment, you've identified a situation which causes you anxiety at the moment. While unpleasant, feeling anxious can also be sign of an unexpressed or unmet need.\n\nIn other words, whenever you notice your thoughts constantly returning to the issue you're worried about, read it as a signal that **it's time to tend to your own needs**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "c185f144-ce6c-4a88-a62b-7b8f5c8c80ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c185f144-ce6c-4a88-a62b-7b8f5c8c80ca",
+        "content": "Take a moment to reflect. Write down your answers.\n\n1. What do I **need** right now?\n2. What can I do to **take care** of myself right now?\n3. If you find it hard to identify your needs, try asking yourself: If a friend of mine was in the same situation, what advice would I give them?",
+        "title": "",
+        "alias": "Reflect",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "30a6221d-d755-4e0f-9529-de57a1c0ff16"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "30a6221d-d755-4e0f-9529-de57a1c0ff16",
+        "alias": "Exercise",
+        "title": "",
+        "content": "Now that you've identified your needs, take a moment to come up with a list of **alternative behaviors which could help you** break the anxiety loop.\n\n1. List three to five alternative behaviors in line with your needs.\n2. Choose one simple action that you can do right now.\n3. Plan when and where you'll do it.\n4. Save the list somewhere you can access easily and use it whenever you need.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Examples",
+            "description": "*Only read about the issue 5 minutes per day, practice acceptance, take a walk before work.*"
+          }
+        ]
+      }
+    ],
+    "root": "b3a3906f-eb61-44f5-acd3-b8073641cee2"
+  },
+  "sv": {
+    "id": "61486062-f19e-4409-844d-55e6865828b6",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1f4b3272-6191-4a88-9967-9fa8bd90d28d",
+        "alias": "Mata inte monstret",
+        "title": "Mata inte monstret",
+        "content": "När vi är oroliga tenderar vi att göra saker som får oss att **må bättre på kort sikt.** Ägnar mycket tid och energi åt att försöka kontrollera ångesten. Problemet med det är att den kommer tillbaka – ibland blir den till och med värre och värre.\n\nVi kallar det för att **mata ångestmonstret.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "fc505eeb-cdd2-4aca-9f1c-38bd5c40b3ce"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc505eeb-cdd2-4aca-9f1c-38bd5c40b3ce",
+        "content": "Säg att vi är oroliga över situationen i världen – pandemi, väpnad konflikt, klimatet eller människor på flykt. Som ett sätt att hantera oron kanske vi konstant lyssnar på nyheter och följer uppdateringar minut för minut på internet för att ha koll på precis allt som händer. Plötsligt har vi spenderat timmar med att håla oss uppdaterade men i stället för att känna oss informerade kanske **vi känner större ångest än innan**.\n\nSkälet till att vi gör det är enkelt – det känns bra i stunden.\n\nDet ger oss **en falsk känsla av kontroll.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "7162b288-02ac-423e-88ad-20c3b6dcf57b"
+          }
+        ],
+        "alias": "Mata inte monstret II"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7162b288-02ac-423e-88ad-20c3b6dcf57b",
+        "content": "Ju mer tid och energi vi ägnar åt att försöka kontrollera ångest, **desto mer tenderar den att ta över våra liv.**\n\nTill exempel kanske vi får **problem att sova, koncentrera oss eller göra sånt som är viktigt**. På så sätt får ångesten tentakler som påverkar vårt välmående på flera sätt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "2c0478fd-3769-413f-9dc5-3bfa168a413d"
+          }
+        ],
+        "alias": "Mata inte monstret III"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "2c0478fd-3769-413f-9dc5-3bfa168a413d",
+        "nextSection": "f52ef464-d348-4675-a3ba-90dab7a7827b",
+        "alias": "Sharing question",
+        "exampleText": "Jag har ägnat mycket tid åt att försöka kontrollera saker jag inte kan påverka. Jag har undvikit många situationer och skjutit upp viktiga saker som behövt göras.",
+        "question": "På vilket eller vilka sätt matar du ditt ångestmonster?"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f52ef464-d348-4675-a3ba-90dab7a7827b",
+        "alias": "Ta dig ur ångestspiralen",
+        "content": "När ångestmonstret tagit över vårt liv är det bästa vi kan göra **att bryta ångestspiralen.**\n\nEtt sätt att göra det är att förstå vad vi behöver och ändra beteende därefter.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "b03eed07-3217-4ffa-a080-82f00735142c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b03eed07-3217-4ffa-a080-82f00735142c",
+        "content": "Nyss identifierade du en situation som gör dig stressad eller ångestfylld, och hur det känns för för dig. Ångest är ofta obehagligt. Ibland är ångest ett tecken på att våra behov inte är eller kan tillfredsställas just nu.\n\nOm du märker att dina tankar ständigt återvänder till de saker du oroar dig för, använd det som en **signal** **för att göra något annorlunda** istället.",
+        "title": "Mina behov",
+        "alias": "Mina behov",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "f2eb2ac7-2323-43f0-98fb-6bcb10feadc2"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "f2eb2ac7-2323-43f0-98fb-6bcb10feadc2",
+        "longDescription": "Reflektera över dina behov en kort stund. Skriv ned dina svar.\n\n1. Vad behöver jag just nu?\n2. Vad kan jag göra för att ta hand om mig själv i den här situationen?\n3. Om det är svårt att identifiera dina behov, testa att fråga dig själv vad du skulle göra om en vän var i samma situation. Vad skulle du ge hen för råd?",
+        "title": "Övning",
+        "time": "5 minuter",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "d1fc256a-c83c-441c-8c4d-78fa61e18bef",
+            "content": "Fortsätt"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d1fc256a-c83c-441c-8c4d-78fa61e18bef",
+        "content": "Nu när du har identifierat vad du behöver, tänk ut några **alternativa beteenden** du kan göra dig i för att bryta din ångestspiral.\n\n1. Skriv ned tre till fem alternativa beteenden som kan hjälpa dig att ta hand om dina egna behov.\n2. Välj ett beteende som du kan göra här och nu.\n3. Planera var och när du ska göra ditt alternativa beteende.\n4. Spara listan och använd den som stöd nästa gång du behöver det.",
+        "infoItems": [
+          {
+            "title": "Exempel",
+            "description": "*Följa nyheterna max en kvart om dagen, träna på acceptans av det jag inte kan påverka, ta en promenad.*"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ]
+      }
+    ],
+    "root": "1f4b3272-6191-4a88-9967-9fa8bd90d28d"
+  },
+  "pt": {
+    "id": "61486062-f19e-4409-844d-55e6865828b6",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "55410abe-2723-4c13-b351-875c22c5a486",
+        "alias": "Não alimentes o monstro",
+        "title": "Não alimentes o monstro",
+        "content": "Quando estamos ansiosos, temos tendência a fazer coisas que nos fazem sentir melhor **no momento**, mas que podem tornar as coisas piores a longo prazo. Isto lança-nos num ciclo interminável. \n\nE quanto mais fazemos para superar o estado em que estamos, mais ansiosos nos sentimos. A isto chamamos **alimentar o monstro da ansiedade**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+            "content": "Continuar"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+        "alias": "Não alimentes o monstro II",
+        "content": "Por exemplo, digamos que estás preocupada/o com um evento externo, como uma guerra ou uma pandemia. Umas das formas de lidar com a situação é estar constantemente a ouvir as notícias ou a procurar no Google várias vezes ao dia para conseguir ler todos os artigos possíveis acerca do tema. Sem te aperceberes passaste horas e horas neste ciclo e em vez de te sentires mais informada/o, **sentes-te mais ansiosa/o**.\n\nA razão pela qual nos envolvemos neste tipo de comportamentos é porque eles nos fazem sentir bem no momento. Dão-nos uma **falsa sensação de estar no controlo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Saber mais",
+            "sectionId": "d7766c01-4dd2-48e9-b771-cf87e88fe65f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7766c01-4dd2-48e9-b771-cf87e88fe65f",
+        "alias": "Não alimentes o monstro III",
+        "content": "No entanto, quando gastamos muito tempo e energia a tentar controlar a nossa ansiedade, **acaba por ser ela a dominar as nossas vidas**.\n\nPor exemplo, o teu bem-estar pode estar a ser impactado negativamente por estares a ter dificuldades em dormir, estar presente ou concentrares-te no que é importante para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e702ef7e-074a-42c7-b3df-6d2f6cad899d"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "e702ef7e-074a-42c7-b3df-6d2f6cad899d",
+        "alias": "Questão para partilha",
+        "exampleText": "Passei muito tempo a tentar controlar coisas que não posso mudar. Evitei muitas situações e adiei coisas importantes que precisavam de ser feitas.",
+        "question": "Já alguma vez alimentaste o monstro da ansiedade? De que forma(s)?",
+        "nextSection": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2",
+        "enableEarlySkip": true
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39"
+          }
+        ],
+        "alias": "Sair do ciclo da ansiedade",
+        "title": "",
+        "content": "Quando o monstro da ansiedade assume o controlo da tua vida, o melhor que tens a fazer é **quebrar o seu ciclo.**\n\nUma das formas de fazê-lo é **mudar** o teu **comportamento** – por exemplo, podes limitar a leitura de notícias a meia hora por dia."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39",
+        "alias": "As minhas necessidades",
+        "title": "As minhas necessidades",
+        "content": "Na secção anterior, identificaste uma situação que te causa ansiedade neste momento. Embora desagradável, sentires-te ansiosa/o também pode ser sinal de uma necessidade não expressa ou não atendida.\n\nNoutras palavras, sempre que te aperceberes que os teus pensamentos estão constantemente a voltar ao assunto que te preocupa, interpreta isso como um sinal de que **está na hora de atenderes às tuas próprias necessidades**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "1ba58384-0abb-4c61-abca-f7d8a1f514bc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1ba58384-0abb-4c61-abca-f7d8a1f514bc",
+        "alias": "Reflexão",
+        "content": "Reserva um momento para refletir. Escreve as tuas respostas.\n\n1. O que **preciso** agora?\n2. O que posso fazer para **cuidar** de mim mesma/o agora?\n3. Se achares difícil identificar as tuas necessidades, tenta responder a esta pergunta: se um amigo meu estivesse na mesma situação, que conselho lhe daria?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei",
+            "sectionId": "d8762e61-c49e-47de-ae8a-4f7295b23852"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8762e61-c49e-47de-ae8a-4f7295b23852",
+        "title": "",
+        "content": "Agora que identificaste as tuas necessidades, reserva um momento para criares uma lista de **comportamentos alternativos que te podem ajudar** a quebrar o ciclo da ansiedade..\n\n1. Lista três a cinco comportamentos alternativos de acordo com as tuas necessidades.\n2. Escolhe uma ação simples que possas fazer agora.\n3. Planeia quando e onde a farás.\n4. Guarda a lista num lugar de fácil acesso e usa-a sempre que precisares.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ],
+        "alias": "Exercício",
+        "infoItems": [
+          {
+            "title": "Exemplos",
+            "description": "*Lê apenas 5 minutos por dia acerca do assunto, faz uma caminhada antes de ires trabalhar, respira de forma lenta e profunda, pratica a aceitação.*"
+          }
+        ]
+      }
+    ],
+    "root": "55410abe-2723-4c13-b351-875c22c5a486"
+  }
+}

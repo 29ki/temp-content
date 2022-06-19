@@ -1,0 +1,232 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Feeling purpose",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/feeling_purpose_vntfib.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "version": 1,
+    "type": "exercise",
+    "id": "57842f75-3350-4adf-a53a-ab8baa561248",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-57842f75-3350-4adf-a53a-ab8baa561248",
+        "name": "Feeling purpose",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "16cc2a32-2ace-43c4-a111-e78deff497f2",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/feeling_purpose_vntfib.png",
+            "title": "Everyone feels lost at some point.",
+            "content": "This can often show up when we’re faced with uncertainty, go through a key transition or realize that the things we do just don’t feel so meaningful anymore.\n\nThis exercise explores what it means to feel purpose in life.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4c7ca59d-2278-4ab5-adaa-98cff1a1605c",
+            "title": "",
+            "content": "**You'll learn how to:**\n\n* Act from a place of meaning and purpose\n\n**You'll need:**\n\n* 10 minutes\n* Pen & paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1eba2fdb-1a3b-4909-94cd-b70cc6daa356",
+            "content": "Realizing that our life could be different can be uncomfortable at first. We are naturally hard-wired to stick to what’s familiar, which makes it hard to make the leap.\n\nBut feeling lost can also motivate us to act differently. After all, if everything was fine, there would be no need to change.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c82d2496-f4d5-45b9-80cc-4f4c61ec8039",
+            "content": "Think back to a time in your life when you’ve felt a sense of meaning and purpose. One example could be a time when you were working towards something that really mattered to you.\n\nRecall a snapshot from that time. \n\n* What was the situation?\n* Where were you?\n* Was anyone with you?",
+            "buttonText": "I'm done",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d64605d8-8ffd-4a92-b9ea-2af5c0ce7c68",
+            "content": "Using pen & paper, note down your thoughts, feelings and actions from that time you’ve felt a sense of meaning or purpose.\n\n> * I felt...\n> * I thought...\n> * I did...",
+            "buttonText": "I'm done",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646661673/Illustrations_Exercises/Polaroid_hxecmo.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "61074fd7-a3a6-4f38-81c7-8474dd88709d",
+            "content": "Now take a moment to explore your thoughts, feelings and actions today.\n\n> * I feel...\n> * I think...\n> * I do...",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "24dba0bf-2b63-4338-8ad8-0613e039e6a5",
+            "question": " Compare the two situations. What, if anything, is different?",
+            "buttonText": "I'm done",
+            "exampleText": "It's like everything was happening more in a flow back in that situation. "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7edb3dc7-bcf1-406f-a57b-4c68310d1407",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Summary",
+            "content": "Our emotions can be a window into what matters to us in life.\n\nWhen we connect to what gives us a sense of meaning and purpose, we experience life differently than when we are on autopilot. This helps us to show up for and act on what truly matters.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Känna mening",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/feeling_purpose_vntfib.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "57842f75-3350-4adf-a53a-ab8baa561248",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-57842f75-3350-4adf-a53a-ab8baa561248",
+        "name": "Känna mening",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "16cc2a32-2ace-43c4-a111-e78deff497f2",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/feeling_purpose_vntfib.png",
+            "title": "Vi kan alla känna oss vilsna ibland.",
+            "content": "Känslan av osäkerhet dyker ofta upp när vi står inför större förändringar eller när vi inser att det vi håller på med inte känns så meningsfullt längre.\n\nI den här övningen kommer du få utforska vad meningsfullhet betyder för dig.",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4c7ca59d-2278-4ab5-adaa-98cff1a1605c",
+            "title": "",
+            "content": "**Du lär dig:**\n\n* Att välja beteenden och handlingar som känns meningsfulla.\n\n**Du behöver:**\n\n* 10 minuter\n* Penna och papper",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1eba2fdb-1a3b-4909-94cd-b70cc6daa356",
+            "content": "Det kan vara obekvämt att inse att våra liv skulle kunna se annorlunda ut. Vi är programmerade att hålla oss till det vi känner till och är vana vid, vilket gör att det kan kännas svårt att ta steget.\n\nMen vilsenhet kan också motivera oss till förändring. Vore det inte för den där gnagande känslan så skulle det ju inte finnas någon anledning att ändra på något.",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c82d2496-f4d5-45b9-80cc-4f4c61ec8039",
+            "content": "Tänk tillbaks på ett tillfälle eller en period i livet som kändes meningsfull för dig. Kanske jobbade du på någonting som verkligen kändes betydelsefullt? \n\nTänk dig att du tar en stillbild av situationen. \n\n* Vad hände?\n* Var befann du dig någonstans?\n* Var det några andra personer där med dig?",
+            "buttonText": "Jag är klar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d64605d8-8ffd-4a92-b9ea-2af5c0ce7c68",
+            "content": "Ta fram penna och papper. Skriv ner dina tankar, känslor och handlingar från den perioden eller situationen.\n\n> * Jag kände mig...\n> * Jag tänkte...\n> * Jag gjorde...",
+            "buttonText": "Jag är klar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646661673/Illustrations_Exercises/Polaroid_hxecmo.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "61074fd7-a3a6-4f38-81c7-8474dd88709d",
+            "content": "Nu är det dags att utforska de tankar, känslor och handlingar du upplever idag.\n\n> * Jag känner mig...\n> * Jag tänker...\n> * Jag gör...",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "13d2732e-26d0-493a-aa4c-52a335ca6821",
+            "question": "Jämför situationen nu och då. Vad är annorlunda idag?",
+            "buttonText": "Jag är klar",
+            "exampleText": "Det var som att allt bara gick som på räls då. Flowigt liksom."
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7edb3dc7-bcf1-406f-a57b-4c68310d1407",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Sammanfattning",
+            "content": "Våra känslor kan hjälpa oss förstå vad som är betydelsefullt för oss. \n\nNär vi medvetet ägnar oss åt något som känns meningsfullt upplever vi livet annorlunda än när vi går på autopilot. Genom att lyssna på våra känslor kan vi alltså få hjälp att leva och agera på ett sätt som känns betydelsefullt och gör skillnad på riktigt.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/feeling_purpose_vntfib.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "57842f75-3350-4adf-a53a-ab8baa561248",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-57842f75-3350-4adf-a53a-ab8baa561248",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "153baa9a-b864-4154-ac1a-7242c4160c6c",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "16cc2a32-2ace-43c4-a111-e78deff497f2",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7edb3dc7-bcf1-406f-a57b-4c68310d1407",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

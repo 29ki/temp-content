@@ -1,0 +1,161 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "How are you feeling?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/how_are_you_feeling_aij7hs.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 2
+    },
+    "type": "checkin",
+    "id": "3867da58-6579-45da-93e0-c74d3fbfc04c",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-3867da58-6579-45da-93e0-c74d3fbfc04c",
+        "name": "How are you feeling?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "segmentedSharingExercise",
+            "enableEarlySkip": true,
+            "id": "af7d7f8b-06be-4acb-b160-7f1d40249ab3",
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "text": "Good",
+                "exampleText": "I'm feeling powerful today. Lots of energy flowing!",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639744103/Emojis/good_mnzvbq.png"
+              },
+              {
+                "text": "OK",
+                "exampleText": "I'm feeling OK. Not that much energy or joy - but that's OK. Sometimes that's just fine.",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639744103/Emojis/ok_wmc4zw.png"
+              },
+              {
+                "text": "Bad",
+                "exampleText": "I'm feeling a bit numb. Long for passion and intensity.",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639747894/Emojis/sucks_phgkq2.png"
+              }
+            ],
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Hur mår du just nu?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/how_are_you_feeling_aij7hs.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 2
+    },
+    "type": "checkin",
+    "id": "3867da58-6579-45da-93e0-c74d3fbfc04c",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-3867da58-6579-45da-93e0-c74d3fbfc04c",
+        "name": "Hur mår du just nu?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "segmentedSharingExercise",
+            "enableEarlySkip": true,
+            "id": "62b1af07-1692-4555-ba72-762c1d8cb601",
+            "question": "Hur mår du just nu?",
+            "answers": [
+              {
+                "text": "Bra",
+                "exampleText": "Jag känner mig full av kraft idag. Lite ostoppbar ;) ",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639744103/Emojis/good_mnzvbq.png"
+              },
+              {
+                "text": "Okej",
+                "exampleText": "Jag mår okej. Lite låg på energi. Men det är faktiskt helt okej.",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639744103/Emojis/ok_wmc4zw.png"
+              },
+              {
+                "text": "Dåligt",
+                "exampleText": "Jag känner mig tom. Längtar efter att känna mer. ",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639747894/Emojis/sucks_phgkq2.png"
+              }
+            ],
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Como te estás a sentir?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/how_are_you_feeling_aij7hs.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 2
+    },
+    "type": "checkin",
+    "id": "3867da58-6579-45da-93e0-c74d3fbfc04c",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-3867da58-6579-45da-93e0-c74d3fbfc04c",
+        "name": "Como te estás a sentir?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "segmentedSharingExercise",
+            "enableEarlySkip": true,
+            "id": "eceffd50-7a55-444f-aef7-93e1362f96b1",
+            "question": "Como te estás a sentir?",
+            "answers": [
+              {
+                "text": "Muito bem",
+                "exampleText": "Estou feliz e com imensa energia!",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639744103/Emojis/good_mnzvbq.png"
+              },
+              {
+                "text": "Bem",
+                "exampleText": "Estou-me a sentir bem. Não com tanta energia ou alegria como gostaria, mas com as suficientes.",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639744103/Emojis/ok_wmc4zw.png"
+              },
+              {
+                "text": "Não muito bem",
+                "exampleText": "Estou-me a sentir um pouco entorpecida/o. Anseio por paixão e intensidade na minha vida.",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1639747894/Emojis/sucks_phgkq2.png"
+              }
+            ],
+            "buttonText": "Terminei"
+          }
+        ]
+      }
+    ]
+  }
+}

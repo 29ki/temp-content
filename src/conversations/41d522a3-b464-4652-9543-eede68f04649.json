@@ -1,0 +1,144 @@
+{
+  "en": {
+    "id": "41d522a3-b464-4652-9543-eede68f04649",
+    "alias": "Leadership-styles-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "500aaad7-5486-484e-a822-a99f550c4910",
+        "alias": "Individualized consideration",
+        "title": "Individualized consideration",
+        "content": "Try to think of the **best leaders you've ever had**. What were they like? How did they lead? How did they interact with you?\n\nWhen doing this exercise many people think of a **leader who shows individualized consideration**, the first of the four transformational skills. When people use this skill, they show concern for others and treat them like a person and not a resource, someone who has thoughts, feelings, ideas, and aspirations.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "0c9091e4-b6f8-4250-a532-6ed0a27a4934"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0c9091e4-b6f8-4250-a532-6ed0a27a4934",
+        "content": "A big part of this involves something that is often overlooked - **talking to people and really listening** to them. \n\nCommunicating with people in this way helps us better understand others and the situation by getting a sense of their interests, professional and developmental needs and goals, strengths, what they see as important, and what matters to them personally.",
+        "alias": "Individualized consideration 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me an example",
+            "sectionId": "d7f8f938-db8a-4aef-b997-bc7da2e03225"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "d7f8f938-db8a-4aef-b997-bc7da2e03225",
+        "alias": "And what do you think?",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "803c5ee0-1715-4ca6-a49c-94b09df8b780"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/f_auto,q_auto,t_global/v1619188951/Leadership/Question_2_aproject_oci1h0.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "803c5ee0-1715-4ca6-a49c-94b09df8b780",
+        "alias": "Individualized consideration 3",
+        "content": "* Ask questions to understand how others are seeing a situation\n* Listen carefully to what someone is saying\n* Tune-in to notice meaningful differences about the person you're leading, what are their strengths, weaknesses, interests. If in doubt, don't mind read, ask them instead! \n* Share your ideas **and** be genuinely open to their ideas, it's a 2 way exchange\n* Ask others about their hopes for the future\n* Encourage people to develop in ways that may help them achieve success and a sense of fulfillment",
+        "title": "How can I use individualized consideration in the real world?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "a43149fe-e80c-4b8f-a735-9f89be3b79d9",
+            "content": "Continue"
+          }
+        ]
+      }
+    ],
+    "root": "500aaad7-5486-484e-a822-a99f550c4910"
+  },
+  "sv": {
+    "id": "41d522a3-b464-4652-9543-eede68f04649",
+    "alias": "Leadership-styles-2"
+  },
+  "pt": {
+    "id": "41d522a3-b464-4652-9543-eede68f04649",
+    "alias": "Leadership-styles-2",
+    "root": "500aaad7-5486-484e-a822-a99f550c4910",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "500aaad7-5486-484e-a822-a99f550c4910",
+        "alias": "Individualized consideration",
+        "title": "Consideração individualizada",
+        "content": "Tenta lembrar-te **dos melhores líderes que já tiveste**. Como eram? Como lideravam? Como interagiam contigo?\n\nAo fazer este exercício, muitas pessoas pensam num **líder que demonstra consideração individualizada,** a primeira das quatro competências transformativas. Quando as pessoas usam esta competência, demonstram preocupação com os outros, tratam-nos como uma pessoa e não um recurso, alguém que tem pensamentos, sentimentos, ideias e aspirações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem-me mais",
+            "sectionId": "0c9091e4-b6f8-4250-a532-6ed0a27a4934"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0c9091e4-b6f8-4250-a532-6ed0a27a4934",
+        "content": "Grande parte disto envolve algo que muitas vezes é desvalorizado - **falar com as pessoas e ouvi-las verdadeiramente.**\n\nComunicar com as pessoas desta forma ajuda-nos a entender melhor os outros e as situações, tendo uma noção dos seus interesses, necessidades, objetivos profissionais e de desenvolvimento, pontos fortes e o que eles consideram importante a nível profissional e pessoal.",
+        "alias": "Individualized consideration 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me um  exemplo",
+            "sectionId": "d7f8f938-db8a-4aef-b997-bc7da2e03225"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "d7f8f938-db8a-4aef-b997-bc7da2e03225",
+        "alias": "And what do you think?",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Acabei ",
+            "sectionId": "803c5ee0-1715-4ca6-a49c-94b09df8b780"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179048/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o2._Lideran%C3%A7a_transformativa_-_video_1_uvzpiu.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179148/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L2V1_tj0a1t.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "803c5ee0-1715-4ca6-a49c-94b09df8b780",
+        "alias": "Individualized consideration 3",
+        "content": "* Faz perguntas para entender como os outros estão a ver determinada situação\n* Ouve com atenção o que as pessoas dizem\n* Sintoniza-te para perceberes as diferenças significativas sobre a pessoa que estás a liderar, quais são seus pontos fortes, pontos fracos e interesses. Em caso de dúvida, não faças nenhuma leitura ou dedução, pergunta-lhes diretamente!\n* Partilha as tuas ideias e fica genuinamente aberto/a às ideias delas, é uma via de 2 sentidos\n* Pergunta aos outros sobre as suas esperanças para o futuro\n* Incentiva as pessoas a desenvolverem-se de formas que as possa ajudar a alcançar o sucesso e um sentido de realização",
+        "title": "Como posso usar a consideração individualizada no mundo real?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "a43149fe-e80c-4b8f-a735-9f89be3b79d9",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

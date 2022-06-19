@@ -1,0 +1,259 @@
+{
+  "en": {
+    "id": "fac26f5d-6695-4cea-b630-9f0cdc8ea807",
+    "alias": "Acting with purpose 2: Actions I'm proud of-2",
+    "root": "740b481b-ad62-4ced-bb62-ef9da861fd8e",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "740b481b-ad62-4ced-bb62-ef9da861fd8e",
+        "alias": "Section 1",
+        "content": "Consider your day so far. **Where** on the **scale** above do you place yourself right now?\n\nRemember that it's **natural** to **move** up and down the scale at throughout our day-to-day lives.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "155b7841-71b0-4031-ba10-2f6c76abffa8"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1636117634/scale_exercise_r7zfyy.png"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "155b7841-71b0-4031-ba10-2f6c76abffa8",
+        "alias": "Section 2",
+        "longDescription": "Write down your answers.\n\n1. Think about a **current** **choice** you’re facing. What is it? How do you **feel** about it?\n2. If you were to act based on your fear of failure or based on the **expectations** and **desires** of **others,** what would you do? How would that make you feel?",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "1e22898e-f61a-42ab-91f3-f5bbf31d21f0"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "1e22898e-f61a-42ab-91f3-f5bbf31d21f0",
+        "alias": "Section 3",
+        "longDescription": "3. If you were to act according to what **matters most** to you, what would you **do**? How would that make you **feel**?\n4. **Compare** possible courses of **action**. What **differences** are there between the two lines of actions in this choice you’re facing?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "b85f2ee2-eb1a-4516-889a-ce0c09e1f045"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b85f2ee2-eb1a-4516-889a-ce0c09e1f045",
+        "alias": "Section 4",
+        "content": "As you face your current choice, the way **forward** may not become instantly **clear**. Sometimes **different** **values** may seem to **pull** your actions in different directions.\n\nYou have now **compared** different courses of action. The only way to find out which way to go is to **try them out** in real life and **reflect** on the results **afterwards**.",
+        "title": "Act and evaluate",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "348e6b79-1d15-4157-9488-52760f2c4acd"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "348e6b79-1d15-4157-9488-52760f2c4acd",
+        "question": "What challenges, if any, do you foresee when it comes to acting on what's important to you? ",
+        "alias": "Section 5",
+        "exampleText": "Focusing less on meaningless things. ",
+        "nextSection": "a9dfb7f2-d825-4036-a444-8c3b3977bc57"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a9dfb7f2-d825-4036-a444-8c3b3977bc57",
+        "alias": "Section 6",
+        "content": "Well done on completing **Actions I'm proud of**.\n\nIn every situation we face, we can ask ourselves: If I do this, is it because it's **important** to me personally? It's easy to become **disconnected** from our values, and comparing the **thoughts** and **feelings** that arise when we don't act on our values versus when we do can help us live a value-based life.\n\nRemember: you only have **control** over **your** own **behavior**, not others'. If it doesn't end the way you want it to this time, you've still done what you can to make a **meaningful** decision and you can be **proud** of that.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "What's next",
+            "sectionId": "8d74e33f-ea30-46fe-b3c9-7b01acc69ae2"
+          }
+        ],
+        "title": "Summary",
+        "infoItems": []
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8d74e33f-ea30-46fe-b3c9-7b01acc69ae2",
+        "content": "You are now ready for the next important step — sharing with your group.\n\nRemember the questions:\n\n1. What did this exercise **evoke** in you?\n2. What **differences** are there between the two lines of actions in this choice you’re facing?\n3. What **challenges**, if any, do you **foresee** when it comes to **acting** on what's **important** to you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finished"
+          }
+        ],
+        "alias": "Section 7"
+      }
+    ]
+  },
+  "sv": {
+    "id": "fac26f5d-6695-4cea-b630-9f0cdc8ea807",
+    "alias": "Acting with purpose 2: Actions I'm proud of-2",
+    "root": "740b481b-ad62-4ced-bb62-ef9da861fd8e",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "740b481b-ad62-4ced-bb62-ef9da861fd8e",
+        "alias": "Section 1",
+        "content": "Hur har din dag varit hittills? Var på skalan ovan befinner du dig just nu?\n\nKom ihåg att vi alla rör oss uppåt och nedåt på skalan mest hela tiden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "155b7841-71b0-4031-ba10-2f6c76abffa8"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1636117634/scale_exercise_r7zfyy.png"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "155b7841-71b0-4031-ba10-2f6c76abffa8",
+        "alias": "Section 2",
+        "longDescription": "Skriv ned dina svar.\n\n1. Tänk på ett aktuellt val du står inför. Vilket är det? **Hur känner du inför det?**\n2. Om du skulle agera utifrån din rädsla för att misslyckas eller utifrån **andras förväntningar** **och önskningar**, vad skulle du göra? Hur känns det?",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "1e22898e-f61a-42ab-91f3-f5bbf31d21f0"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "1e22898e-f61a-42ab-91f3-f5bbf31d21f0",
+        "alias": "Section 3",
+        "longDescription": "3. Om du skulle agera enligt det som är viktigt för dig, **vad skulle du göra då?** Hur får det dig att känna dig?\n4. Jämför dina svar. **Vilka skillnader ser du** mellan de båda sätten att agera i det val du står inför?\n5. **Vilka utmaningar ser du** när det gäller att agera utifrån det som är viktigt för dig?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "b85f2ee2-eb1a-4516-889a-ce0c09e1f045"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b85f2ee2-eb1a-4516-889a-ce0c09e1f045",
+        "alias": "Section 4",
+        "content": "När vi står inför ett val är vägen framåt inte alltid tydlig. Ibland verkar olika värderingar dra i oss åt olika håll.\n\nDu har nu jämfört två olika sätt att agera. För att ta reda på vilken väg du bör ta; **prova dem och reflektera över resultatet efteråt**.",
+        "title": "Testa och utvärdera",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "348e6b79-1d15-4157-9488-52760f2c4acd"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "348e6b79-1d15-4157-9488-52760f2c4acd",
+        "question": "Vilka utmaningar ser du – om några – för dig själv att agera mer efter dina värderingar i vardagen?",
+        "alias": "Section 5",
+        "exampleText": "Lätt att fokusera på meningslösa saker",
+        "nextSection": "a9dfb7f2-d825-4036-a444-8c3b3977bc57"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a9dfb7f2-d825-4036-a444-8c3b3977bc57",
+        "alias": "Section 6",
+        "content": "Bra jobbat med lektionen Känna stolthet.\n\nI varje situation vi står inför kan vi fråga oss:\n\n*Om jag gör det här, är det för att det är viktigt för mig?*\n\nDet är lätt att förlora kontakten med sina värderingar. Om vi jämför de **tankar och känslor som uppstår när vi inte** agerar efter våra värderingar **med när vi gör det** kan det bli lättare välja att följa våra värderingar.\n\nKom ihåg att vi enbart har kontroll över vårt eget beteende, inte över andras. Om det inte slutar som vi vill **har vi ändå gjort vad vi kan** för att fatta ett meningsfullt beslut. Och det kan vi vara stolta över.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vad händer nu?",
+            "sectionId": "8d74e33f-ea30-46fe-b3c9-7b01acc69ae2"
+          }
+        ],
+        "title": "Sammanfattning",
+        "infoItems": []
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8d74e33f-ea30-46fe-b3c9-7b01acc69ae2",
+        "content": "### Du är nu redo att dela med din grupp\n\nKom ihåg frågorna:\n\n1. **Vad** **väckte** den här övningen i dig?\n2. **Vilka** **skillnader** finns det mellan de två sätten att agera i det val du står inför?\n3. Vilka eventuella utmaningar ser du när det gäller att **agera** **utifrån det som är viktigt** för dig?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ],
+        "alias": "Section 7"
+      }
+    ]
+  },
+  "pt": {
+    "id": "fac26f5d-6695-4cea-b630-9f0cdc8ea807",
+    "alias": "Acting with purpose 2: Actions I'm proud of-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Reflexão",
+        "content": "Em todas as situações que enfrentamos, podemos perguntar a nós próprios:\n\nSe fizer isto, é porque é realmente importante para mim em termos pessoais?\n\nAgora pensa numa situação em que seguiste o que sentiste ser importante para ti. Como foi essa experiência?\n\nSintoniza-te com o que fizeste, com o que sentiste, com o que estavas a pensar e com o que guiou as tuas ações. Reflete nisto por uns momentos antes de continuares.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "title": "Enfrenta o medo",
+        "content": "Boa, sintonizaste-te com uma situação em que deixaste os teus valores guiarem as tuas ações. Por vezes, estes momentos são os mais felizes, outras vezes os mais difíceis. Fazer o que é importante para nós nem sempre é a escolha mais fácil. Podemos enfrentar o medo de falhar ou decidir ter uma conversa desconfortável, mas importante.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "title": "O teu dia...",
+        "longDescription": "Considera o teu dia até agora. Onde te posicionas na escala abaixo neste momento?\n\n1. Hoje agi como achava que devia.\n2. ...\n3. ...\n4. ...\n5. ...\n6. Hoje agi segundo o que era realmente importante para mim.\n\nA maioria de nós encontra-se em pontos diferentes desta escala em diferentes situações de vida.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "ab7df2e6-e445-4e63-8af5-9bb277940812",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

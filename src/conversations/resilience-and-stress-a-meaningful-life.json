@@ -2,7 +2,6 @@
   "en": {
     "id": "resilience-and-stress-a-meaningful-life",
     "alias": "resilience-and-stress-a-meaningful-life",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
@@ -11,11 +10,11 @@
         "type": "editorialWithImage",
         "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/meaningful.jpeg",
         "title": "A meaningful life",
-        "content": "In this lesson, you will discover what gives your life meaning and how your values can guide you to a less stressful life.",
+        "content": "In our everyday life, we can easily **lose** **touch** with **what** **matters** to us — especially when life feels tough.\n\nIn this lesson, you'll begin to discover what's **important** and **meaningful** to you, and how your **values** can help you live a less stressful life.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "I'm ready",
             "sectionId": "section2"
           }
         ]
@@ -25,11 +24,11 @@
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Today’s lesson has three parts:\n\n* What gives your life meaning\n* Your core values\n* Sharing\n\n### You’ll need:\n\n* 25 min of undisturbed time\n* Paper and pen",
+        "content": "### Learn more about:\n\n* Balance\n* What gives your life meaning\n* Your values\n\n### You'll need:\n\n* 25 minutes\n* Paper and pen",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Let's go",
             "sectionId": "section3"
           }
         ]
@@ -38,115 +37,28 @@
         "id": "section3",
         "alias": "section3",
         "type": "editorialWithImage",
-        "title": "What gives your life meaning?",
-        "content": "In our everyday life, we can easily lose touch with what matters to us, especially when we’re in a tough spot. \n\nThat’s also when we tend to prioritize our responsibilities, like work or taking care of a sick parent, while completely forgetting or ignoring the things that fill our cups, bring us joy and give us energy.\n\nConnecting to our core values is a powerful way of bringing meaning into our lives every day.",
+        "title": "",
+        "content": "When we are stressed we tend to **prioritize** our **responsibilities**, like work or taking care of a sick parent. \n\nAt the same time, we completely **forget** about — or even ignore — the things that renew our joy and energy.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
-            "sectionId": "section4"
+            "variant": "default",
+            "sectionId": "47f4d31d-3849-4156-bf57-f6477d7aed2a",
+            "content": "More"
           }
         ]
       },
       {
-        "id": "section4",
-        "alias": "section4",
         "type": "editorialWithImage",
-        "title": "What gives your life meaning?",
-        "content": "In 2012 Bronnie Ware, a palliative nurse, wrote a book about the top regrets she heard her patients say as they approached the end of life:\n\n* I wish I had been true to myself, not other’s expectations\n* I wish I hadn’t worked so hard\n* I wish I’d had the courage to express my feelings\n* I wish I’d stayed in touch with my friends\n* I wish I’d let myself be happier",
+        "id": "47f4d31d-3849-4156-bf57-f6477d7aed2a",
+        "alias": "section 4",
+        "content": "An effective way to create meaning in our everyday lives is getting in touch with what we think is **important** in life — our values.\n\nSimply put, our **values** represent what's important to us. They give our lives a sense of direction by guiding our actions.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Your core values",
-        "content": "Many people find late life accounts helpful in identifying what matters the most. How did Bronnie’s findings resonate with you?\n\nLet’s look inward and see if you can identify what’s most important to you in life. You can break it down into four categories: health, relationships, work/education and leisure.\n\nValues can refer to both what’s important to you already and what you wish to pursue in life. For example: \n\n* Work: Learning new things\n* Relationships: Being trustworthy",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "audio",
-        "title": "Meditation",
-        "description": "This meditation will help you feel more mindful and present and prepare you for the next step of the exercise.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/resilience/StressReduction_03-Slow-Full-Breathing.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "video",
-        "title": "Person modeling exercise",
-        "description": "",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/stressandresilience_lesson02.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/modeling_poster.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Exercise",
-        "time": "Take 5-10 min",
-        "question": "Think of one value that feels close to your heart. If you lived your life according to this value, what would you do less and more of?",
-        "longDescription": "Write down your answer. Keep your notes handy as you’ll need them later.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "editorialWithImage",
-        "title": "Summary",
-        "content": "You've now completed **A Meaningful Life.**\n\nIn this lesson you've connected to the core values in different areas of your life. You've also explored the practical steps you can take right now to live a value-driven, regret-free life.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "Well done for completing **Meaningful Life**. Getting in touch with your values gives you a powerful compass in life.\n\nYou are now ready for the next important step - sharing with your group.",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-a-meaningful-life-2",
+            "content": "Continue"
           }
         ]
       }
@@ -155,7 +67,6 @@
   "sv": {
     "id": "resilience-and-stress-a-meaningful-life",
     "alias": "resilience-and-stress-a-meaningful-life",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
@@ -164,11 +75,11 @@
         "type": "editorialWithImage",
         "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/meaningful.jpeg",
         "title": "Ett meningsfullt liv",
-        "content": "I den här lektionen kommer du att utforska vad som skänker ditt liv mening och hur dina värderingar kan vägleda dig till ett mindre stressigt liv.",
+        "content": "I vardagen är det lätt att **tappa** **kontakten** med det som är **viktigt** för oss — särkilt när livet känns tufft. \n\nI den här lektionen kommer du få utforska vad som är **viktigt** och **meningsfullt** för dig, och hur dina **värderingar** kan hjälpa dig leva ett mindre stressigt liv.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Jag är redo",
             "sectionId": "section2"
           }
         ]
@@ -178,11 +89,11 @@
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Dagens lektion har tre delar:\n\n* Vad ger ditt liv mening\n* Dina livsvärden\n* Delning\n\n### Du kommer att behöva:\n\n* 25 minuter\n* Papper och penna",
+        "content": "### Lär dig mer om:\n\n* Balans\n* Vad som är meningsfullt i ditt liv\n* Dina livsvärden\n\n### Du behöver:\n\n* 25 minuter\n* Papper och penna",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Sätt igång",
             "sectionId": "section3"
           }
         ]
@@ -191,115 +102,79 @@
         "id": "section3",
         "alias": "section3",
         "type": "editorialWithImage",
-        "title": "Vad ger ditt liv mening?",
-        "content": "I vardagen är det lätt att tappa kontakten med det som är viktigt för oss, särkilt när livet känns tufft. \n\nDet är också vid sådana tillfällen som vi har en tendens att prioritera ansvar som jobbet, eller att ta hand om en sjuk förälder, samtidigt som vi helt glömmer bort eller ignorerar  de saker som ger oss påfyllning, glädje och energi. \n\nAtt komma i kontakt med det vi tycker är viktigt, våra värderingar eller livsdrömmar är ett effektivt sätt att skapa mening i vardagen. För att göra det enkelt kallar vi detta för livsvärden hädanefter.",
+        "title": "",
+        "content": "När vi är stressade har vi en tendens att **prioritera** våra **ansvarsområden,** som jobb eller att ta hand om en sjuk förälder. \n\nSamtidigt **glömmer** (eller ignorerar) vi de saker som ger oss glädje och energi.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section4"
+            "variant": "default",
+            "sectionId": "e89f3a6f-fc22-47aa-a55f-66f62353ab3e",
+            "content": "Mer"
           }
         ]
       },
       {
-        "id": "section4",
-        "alias": "section4",
         "type": "editorialWithImage",
-        "title": "Vad ger ditt liv mening?",
-        "content": "Bronnie Ware är en sjuksköterska som jobbar med vård i livets slutskede. År 2012 skrev hon en bok om vad hennes patienter ångrade i sina liv när de nu närmade sig slutet:\n\n* Jag önskar att jag hade varit mer sann mot mig själv, inte mot andras förväntningar\n* Jag önskar att jag inte hade jobbat så hårt\n* Jag önskar att jag hade haft modet att uttrycka mina känslor\n* Jag önskar att jag hade hållit kontakten med mina vänner\n* Jag önskar att jag tillät mig själv att vara lyckligare",
+        "id": "e89f3a6f-fc22-47aa-a55f-66f62353ab3e",
+        "alias": "section 4",
+        "content": "Ett effektivt sätt att skapa mening i vardagen är att komma i kontakt med det vi tycker är **viktigt** i livet, med våra värderingar eller livsdrömmar.\n\nFör att göra det enkelt kallar vi allt detta för **\"livsvärden\"** från och med nu.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section5"
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-a-meaningful-life-2",
+            "content": "Fortsätt"
           }
         ]
-      },
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-a-meaningful-life",
+    "alias": "resilience-and-stress-a-meaningful-life",
+    "root": "section1",
+    "sections": [
       {
-        "id": "section5",
-        "alias": "section5",
+        "id": "section1",
+        "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Dina livsvärden",
-        "content": "Insikter från livets slutskede kan hjälpa oss att identifiera vad vi tycker är viktigast. Vad väckte Bronnies ord hos dig?\n\nLåt oss vända oss inåt och se om du kan identifiera vad som är viktigast för dig i livet. Du kan dela upp det i fyra kategorier: hälsa, relationer, arbete/utbildning och fritid.\n\nLivsvärden kan handla både om vad som är viktigt för dig idag men också vad du vill sträva mot. Till exempel:\n\n* Arbete: Lära dig nya saker\n* Relationer: Att vara pålitlig",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543795/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L2CAPAumavidacomsignificado_cskdps.jpg",
+        "title": "Uma vida com significado",
+        "content": "Nesta lição, vais descobrir o que dá sentido à tua vida e como os teus valores te podem conduzir a uma vida menos stressante.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section6"
+            "content": "Continuar",
+            "sectionId": "section2"
           }
         ]
       },
       {
-        "id": "section6",
-        "alias": "section6",
-        "type": "audio",
-        "title": "Meditation",
-        "description": "Den här meditationen kan hjälpa dig att landa i kroppen och förbereda dig för nästa steg i övningen genom att fokusera på din andning. Har du inte tillgång till en kudde kan du lägga en hand på magen.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Magandning.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "video",
-        "title": "Vilket livsvärde vill du leva mer efter?",
-        "description": "",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/sharing_2.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/sharing_2.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Övning",
-        "time": "Ta 5-10 min",
-        "question": "Tänk på ett livsvärde som ligger nära ditt hjärta. Om du levde ditt liv enligt det här livsvärdet, vad skulle du göra mer och mindre av?",
-        "longDescription": "Skriv ner ditt svar. Spara dina anteckningar i närheten, du kommer att behöva dem senare.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
+        "id": "section2",
+        "alias": "section2",
         "type": "editorialWithImage",
-        "title": "Sammanfattning",
-        "content": "Du har nu slutfört **Ett Meningsfullt Liv.** \n\nI den här lektionen har du kopplat an till kärnvärden i olika delar av ditt liv. Du har också utforskat de praktiska steg du kan ta just nu för att leva ett värderingsdrivet och meningsfullt liv.",
+        "title": "",
+        "content": "### A lição de hoje tem três partes:\n\n* O que dá significado à tua vida\n* Os teus valores fundamentais\n* Partilhar\n\n### Vais precisar de:\n\n* 25 min de sossego sem interrupções\n* Papel e caneta",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section10"
+            "content": "Continuar",
+            "sectionId": "section3"
           }
         ]
       },
       {
-        "id": "section10",
-        "alias": "section10",
+        "id": "section3",
+        "alias": "section3",
         "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Bra gjort! Du är nu klar med **Ett meningsfullt liv**. Att komma i kontakt med dina värderingar är en viktig kompass i livet.\n\nDu är nu redo för nästa steg - att dela med din grupp.",
+        "title": "O que dá significado à tua vida? ",
+        "content": "Na nossa vida quotidiana, podemos facilmente perder o contacto com o que é importante para nós, especialmente quando estamos numa situação difícil.\n\nÉ também nestas alturas que temos tendência a priorizar as nossas responsabilidades, como trabalhar ou cuidar de um pai doente, esquecendo completamente ou ignorando as coisas que nos completam, nos trazem alegria e nos dão energia.\n\nConectarmo-nos aos nossos valores fundamentais é uma forma poderosa de trazer significado às nossas vidas todos os dias.",
         "buttons": [
           {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-a-meaningful-life-2",
+            "variant": "primary"
           }
         ]
       }

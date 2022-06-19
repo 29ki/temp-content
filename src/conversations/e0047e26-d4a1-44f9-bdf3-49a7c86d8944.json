@@ -1,0 +1,365 @@
+{
+  "en": {
+    "id": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944",
+    "alias": "Pt special Coping with crisis 2:  Facing what we can't change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas:\n\n1. Que **emoções** sentiste durante a meditação?\n2. Conseguiste **aceitar** as emoções difíceis ou tentaste **evitá-las**?\n3. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitar, controlar ou suprimir?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "f864ce3a-6a4c-43d8-a2d2-02b397fef829"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "49642fd2-7f88-4b46-a86c-93033cd56808"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f864ce3a-6a4c-43d8-a2d2-02b397fef829",
+        "alias": "Enfrentar as emoções",
+        "content": "Aprendeste como **enfrentar** **emoções** e **experiências** difíceis. A maioria das vezes, é a forma mais eficaz de lidares elas ao invés de evitá-las.\n\nLembra-te que **as emoções não te podem magoar.** Elas irão eventualmente diminuir, não importa o quão fortes sejam.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "93a12fad-0f15-427c-b739-04347733a20a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "93a12fad-0f15-427c-b739-04347733a20a",
+        "alias": "Outro 1",
+        "title": "Continua a praticar",
+        "content": "Neste breve curso, ficaste **equipado com ferramentas** que te permitem lidar com a ansiedade e a preocupação numa crise.\n\nPraticares regularmente ao longo do tempo é crucial. Recomendamos que continues a praticar e utilizar estas ferramentas indefinidamente.\n\nNesse sentido, a próxima fase deste percurso é definires **objetivos claros** que orientem e permitam controlar e medir a tua evolução.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "c43800b1-7816-415f-832d-ec878dc3ddee"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "c43800b1-7816-415f-832d-ec878dc3ddee",
+        "alias": "Questão para partilha",
+        "question": "Que ferramentas vais continuar a utilizar e praticar?",
+        "exampleText": "Todas: meditação, quebrar o ciclo de ansiedade ao mudar as minhas ações ou ao ajudar outra pessoa. Aceitar as minhas emoções e a resolução estruturada de problemas.",
+        "nextSection": "8610e8b0-6b18-4e30-aeb0-924d84d9f452"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8610e8b0-6b18-4e30-aeb0-924d84d9f452",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Que **ferramentas** te ajudam a lidar com a ansiedade e a preocupação?\n2. Por que é importante **continuares a trabalhar** para lidares com a ansiedade e a preocupação?\n3. Quais são as **aprendizagens mais** **importantes** que levas contigo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "6c69f2b9-742b-49cc-98ea-54c840bdc0c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6c69f2b9-742b-49cc-98ea-54c840bdc0c4",
+        "alias": "Outro 2",
+        "title": "Parabéns por completares Enfrentar o que não podemos mudar!",
+        "content": "Para continuares a praticar, recomendamos que **revisites** regularmente os teus objetivos. Certifica-te que **incorporas** as **ferramentas** de que gostaste no teu quotidiano.\n\nExistem muitos exercícios de **meditação** e **atenção plena** que te podem ajudar a praticar. Nós na 29k FJN também temos exercícios e meditações baseadas nas tuas necessidades. E mais cursos muito importantes que te podem ajudar a ter uma vida mais feliz e realizada.\n\nUm abraço,\n\nA equipa de 29k FJN",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "cdf20385-84a0-4df9-9d3d-8b1bf6dfabce"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cdf20385-84a0-4df9-9d3d-8b1bf6dfabce",
+        "alias": "O teu contributo",
+        "title": "O teu contributo",
+        "content": "**Ajuda-nos a melhorar**\n\nO teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada",
+            "sectionId": "aaffba16-d902-4ba6-83a6-f9029eec954b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "aaffba16-d902-4ba6-83a6-f9029eec954b",
+        "content": "Estás pronto para o próximo passo  — partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitá-las, controlá-las ou suprimi-las?\n2. Por que é importante **continuares a praticar** para lidar com a ansiedade e a preocupação?\n3. Quais são as aprendizagens **mais** importantes que desejas levar contigo?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ],
+        "alias": "Partilha",
+        "title": "Partilha"
+      }
+    ],
+    "root": "49642fd2-7f88-4b46-a86c-93033cd56808"
+  },
+  "sv": {
+    "id": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944",
+    "alias": "Pt special Coping with crisis 2:  Facing what we can't change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas:\n\n1. Que **emoções** sentiste durante a meditação?\n2. Conseguiste **aceitar** as emoções difíceis ou tentaste **evitá-las**?\n3. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitar, controlar ou suprimir?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "f864ce3a-6a4c-43d8-a2d2-02b397fef829"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "49642fd2-7f88-4b46-a86c-93033cd56808"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f864ce3a-6a4c-43d8-a2d2-02b397fef829",
+        "alias": "Enfrentar as emoções",
+        "content": "Aprendeste como **enfrentar** **emoções** e **experiências** difíceis. A maioria das vezes, é a forma mais eficaz de lidares elas ao invés de evitá-las.\n\nLembra-te que **as emoções não te podem magoar.** Elas irão eventualmente diminuir, não importa o quão fortes sejam.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "93a12fad-0f15-427c-b739-04347733a20a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "93a12fad-0f15-427c-b739-04347733a20a",
+        "alias": "Outro 1",
+        "title": "Continua a praticar",
+        "content": "Neste breve curso, ficaste **equipado com ferramentas** que te permitem lidar com a ansiedade e a preocupação numa crise.\n\nPraticares regularmente ao longo do tempo é crucial. Recomendamos que continues a praticar e utilizar estas ferramentas indefinidamente.\n\nNesse sentido, a próxima fase deste percurso é definires **objetivos claros** que orientem e permitam controlar e medir a tua evolução.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "c43800b1-7816-415f-832d-ec878dc3ddee"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "c43800b1-7816-415f-832d-ec878dc3ddee",
+        "alias": "Questão para partilha",
+        "question": "Que ferramentas vais continuar a utilizar e praticar?",
+        "exampleText": "Todas: meditação, quebrar o ciclo de ansiedade ao mudar as minhas ações ou ao ajudar outra pessoa. Aceitar as minhas emoções e a resolução estruturada de problemas.",
+        "nextSection": "8610e8b0-6b18-4e30-aeb0-924d84d9f452"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8610e8b0-6b18-4e30-aeb0-924d84d9f452",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Que **ferramentas** te ajudam a lidar com a ansiedade e a preocupação?\n2. Por que é importante **continuares a trabalhar** para lidares com a ansiedade e a preocupação?\n3. Quais são as **aprendizagens mais** **importantes** que levas contigo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "6c69f2b9-742b-49cc-98ea-54c840bdc0c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6c69f2b9-742b-49cc-98ea-54c840bdc0c4",
+        "alias": "Outro 2",
+        "title": "Parabéns por completares Enfrentar o que não podemos mudar!",
+        "content": "Para continuares a praticar, recomendamos que **revisites** regularmente os teus objetivos. Certifica-te que **incorporas** as **ferramentas** de que gostaste no teu quotidiano.\n\nExistem muitos exercícios de **meditação** e **atenção plena** que te podem ajudar a praticar. Nós na 29k FJN também temos exercícios e meditações baseadas nas tuas necessidades. E mais cursos muito importantes que te podem ajudar a ter uma vida mais feliz e realizada.\n\nUm abraço,\n\nA equipa de 29k FJN",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "cdf20385-84a0-4df9-9d3d-8b1bf6dfabce"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cdf20385-84a0-4df9-9d3d-8b1bf6dfabce",
+        "alias": "O teu contributo",
+        "title": "O teu contributo",
+        "content": "**Ajuda-nos a melhorar**\n\nO teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada",
+            "sectionId": "aaffba16-d902-4ba6-83a6-f9029eec954b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "aaffba16-d902-4ba6-83a6-f9029eec954b",
+        "content": "Estás pronto para o próximo passo  — partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitá-las, controlá-las ou suprimi-las?\n2. Por que é importante **continuares a praticar** para lidar com a ansiedade e a preocupação?\n3. Quais são as aprendizagens **mais** importantes que desejas levar contigo?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ],
+        "alias": "Partilha",
+        "title": "Partilha"
+      }
+    ],
+    "root": "49642fd2-7f88-4b46-a86c-93033cd56808"
+  },
+  "pt": {
+    "id": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944",
+    "alias": "Pt special Coping with crisis 2:  Facing what we can't change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas:\n\n1. Que **emoções** sentiste durante a meditação?\n2. Conseguiste **aceitar** as emoções difíceis ou tentaste **evitá-las**?\n3. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitar, controlar ou suprimir?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "f864ce3a-6a4c-43d8-a2d2-02b397fef829"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "49642fd2-7f88-4b46-a86c-93033cd56808"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f864ce3a-6a4c-43d8-a2d2-02b397fef829",
+        "alias": "Enfrentar as emoções",
+        "content": "Aprendeste como **enfrentar** **emoções** e **experiências** difíceis. A maioria das vezes, é a forma mais eficaz de lidares elas ao invés de evitá-las.\n\nLembra-te que **as emoções não te podem magoar.** Elas irão eventualmente diminuir, não importa o quão fortes sejam.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "93a12fad-0f15-427c-b739-04347733a20a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "93a12fad-0f15-427c-b739-04347733a20a",
+        "alias": "Outro 1",
+        "title": "Continua a praticar",
+        "content": "Neste breve curso, ficaste **equipado com ferramentas** que te permitem lidar com a ansiedade e a preocupação numa crise.\n\nPraticares regularmente ao longo do tempo é crucial. Recomendamos que continues a praticar e utilizar estas ferramentas indefinidamente.\n\nNesse sentido, a próxima fase deste percurso é definires **objetivos claros** que orientem e permitam controlar e medir a tua evolução.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "c43800b1-7816-415f-832d-ec878dc3ddee"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "c43800b1-7816-415f-832d-ec878dc3ddee",
+        "alias": "Questão para partilha",
+        "question": "Que ferramentas vais continuar a utilizar e praticar?",
+        "exampleText": "Todas: meditação, quebrar o ciclo de ansiedade ao mudar as minhas ações ou ao ajudar outra pessoa. Aceitar as minhas emoções e a resolução estruturada de problemas.",
+        "nextSection": "8610e8b0-6b18-4e30-aeb0-924d84d9f452"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8610e8b0-6b18-4e30-aeb0-924d84d9f452",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Que **ferramentas** te ajudam a lidar com a ansiedade e a preocupação?\n2. Por que é importante **continuares a trabalhar** para lidares com a ansiedade e a preocupação?\n3. Quais são as **aprendizagens mais** **importantes** que levas contigo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "6c69f2b9-742b-49cc-98ea-54c840bdc0c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6c69f2b9-742b-49cc-98ea-54c840bdc0c4",
+        "alias": "Outro 2",
+        "title": "Parabéns por completares Enfrentar o que não podemos mudar!",
+        "content": "Para continuares a praticar, recomendamos que **revisites** regularmente os teus objetivos. Certifica-te que **incorporas** as **ferramentas** de que gostaste no teu quotidiano.\n\nExistem muitos exercícios de **meditação** e **atenção plena** que te podem ajudar a praticar. Nós na 29k FJN também temos exercícios e meditações baseadas nas tuas necessidades. E mais cursos muito importantes que te podem ajudar a ter uma vida mais feliz e realizada.\n\nUm abraço,\n\nA equipa de 29k FJN",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "cdf20385-84a0-4df9-9d3d-8b1bf6dfabce"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cdf20385-84a0-4df9-9d3d-8b1bf6dfabce",
+        "alias": "O teu contributo",
+        "title": "O teu contributo",
+        "content": "**Ajuda-nos a melhorar**\n\nO teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada",
+            "sectionId": "aaffba16-d902-4ba6-83a6-f9029eec954b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "aaffba16-d902-4ba6-83a6-f9029eec954b",
+        "content": "Estás pronto para o próximo passo  — partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitá-las, controlá-las ou suprimi-las?\n2. Por que é importante **continuares a praticar** para lidar com a ansiedade e a preocupação?\n3. Quais são as aprendizagens **mais** importantes que desejas levar contigo?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ],
+        "alias": "Partilha",
+        "title": "Partilha"
+      }
+    ],
+    "root": "49642fd2-7f88-4b46-a86c-93033cd56808"
+  }
+}

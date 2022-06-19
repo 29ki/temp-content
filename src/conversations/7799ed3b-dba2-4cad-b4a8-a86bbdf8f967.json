@@ -1,0 +1,224 @@
+{
+  "en": {
+    "id": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967",
+    "alias": "Leadership-Interactforapurpose-6",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "d910ed34-cc58-4aa6-aa44-6c3bb9288e2b",
+        "alias": "Intro to exercise",
+        "title": "Learning to Socially Interact for a Purpose",
+        "content": "A successful leader connects with people in ways that can help them pursue purpose. \n\nHow we connect with others is impacted by each of the interpersonal styles. They also provide the foundations upon which we can build and pursue purpose.\n\nLet's start by strengthening your core interpersonal style.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's do it",
+            "sectionId": "3e19cd35-b312-4738-84fd-7474fc91a735"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "3e19cd35-b312-4738-84fd-7474fc91a735",
+        "longDescription": "* Ask them how they see that situation\n* Observe your colleague's reaction. Is there anything that didn't land well with them?",
+        "question": "Tell a colleague about a purpose you're pursuing and one difficulty or barrier you're struggling with in this pursuit.",
+        "alias": "Exercise",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "d8f15024-1710-429f-a27f-f93da55cef19"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "d8f15024-1710-429f-a27f-f93da55cef19",
+        "alias": "Exercise 2",
+        "longDescription": "* Rephrase the part that didn't land quite well by using a metaphor or a reference that would resonate with them better\n* How does it feel to say it in this way?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "83efbacf-ece0-4644-aa56-42dd8a549cb8"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "83efbacf-ece0-4644-aa56-42dd8a549cb8",
+        "alias": "Exercise 3",
+        "longDescription": "* Ask your colleague if they have any further insights and if they can think of anyone who might be able to offer another perspective.\n* Reach out to the person suggested and notice their reaction when asking for advice.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "f6a19247-bab6-4923-a34e-aa4eaa02965f"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f6a19247-bab6-4923-a34e-aa4eaa02965f",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Well done for completing this lesson!\n\nThis week you’ve honed four evidence-based interpersonal skills to help you socially interact for a purpose:\n\n1. Interpersonal influence\n2. Social astuteness\n3. Showing sincerity\n4. Networking\n\nAs pursuing purpose almost always involves other people to some degree, these skills will help you achieve goals that make sense and matter to you and whilst helping cultivate a sense belonging and connection.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Thanks",
+            "sectionId": "22951ef0-34a7-4bf6-bccd-dcb42a506619"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "22951ef0-34a7-4bf6-bccd-dcb42a506619",
+        "alias": "Further reading",
+        "title": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Ferris, G. (2007). Political skill in organizations. Development and Learning in Organizations: An International Journal, 22(1). doi:10.1108/dlo.2008.08122aad.009\n2. Klein, G., Klein, H. A., Lande, B., Borders, J., & Whitacre, J. C. (2015). Police and Military as Good Strangers. Journal of Occupational and Organizational Psychology, 88(2), 231-250. doi:10.1111/joop.12110",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "50f632a7-c71e-4b94-b4cd-6443fa87e1b1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "50f632a7-c71e-4b94-b4cd-6443fa87e1b1",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "What happens next?",
+            "conversationId": "pl-4-ask-for-advice"
+          }
+        ],
+        "alias": "Sharing Exercise",
+        "title": "You are now ready to share",
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?**\n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently."
+      }
+    ],
+    "root": "d910ed34-cc58-4aa6-aa44-6c3bb9288e2b"
+  },
+  "sv": {
+    "id": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967",
+    "alias": "Leadership-Interactforapurpose-6"
+  },
+  "pt": {
+    "id": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967",
+    "alias": "Leadership-Interactforapurpose-6",
+    "root": "d910ed34-cc58-4aa6-aa44-6c3bb9288e2b",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "d910ed34-cc58-4aa6-aa44-6c3bb9288e2b",
+        "alias": "Intro to exercise",
+        "title": "Aprende a Interagir Socialmente com um Propósito",
+        "content": "Um líder de sucesso conecta-se com as pessoas de maneiras que podem ajudá-lo a atingir o seu propósito.\n\nO modo como nos conectamos com outras pessoas é afetado por cada um dos estilos interpessoais. Eles também fornecem as bases sobre as quais podemos construir e perseguir um propósito.\n\nVamos começar por fortalecer o teu estilo interpessoal principal.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos lá",
+            "sectionId": "3e19cd35-b312-4738-84fd-7474fc91a735"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "3e19cd35-b312-4738-84fd-7474fc91a735",
+        "longDescription": "* Pergunta-lhe como vê a situação.\n* Observa a reação desse teu colega. Há algo que não lhes tenha caído bem?",
+        "question": "Conversa com um colega sobre um propósito que estás a perseguir e uma dificuldade ou barreira que estás a tentar ultrapassar.",
+        "alias": "Exercise",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "d8f15024-1710-429f-a27f-f93da55cef19"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "d8f15024-1710-429f-a27f-f93da55cef19",
+        "alias": "Exercise 2",
+        "longDescription": "* Reformula a parte que não caiu muito bem usando uma metáfora ou uma referência com a qual se identificasse melhor.\n* Qual é a sensação de dizer isso desta nova forma?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Acabei ",
+            "sectionId": "83efbacf-ece0-4644-aa56-42dd8a549cb8"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "83efbacf-ece0-4644-aa56-42dd8a549cb8",
+        "alias": "Exercise 3",
+        "longDescription": "* Pergunta ao teu colega se tem mais ideias e se consegue pensar em alguém que possa oferecer outra perspectiva.\n* Fala com a pessoa sugerida e observa a sua reação ao pedires um conselho.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos concluir ",
+            "sectionId": "f6a19247-bab6-4923-a34e-aa4eaa02965f"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f6a19247-bab6-4923-a34e-aa4eaa02965f",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Bom trabalho por teres concluído esta lição!\n\nEsta semana, apuraste quatro competências interpessoais baseadas em evidências para te ajudar a interagir socialmente com um propósito:\n\n1. Influência interpesessoal\n2. Astúcia social\n3. Demonstrando sinceridade\n4. *Networking*\n\nComo a busca de propósito envolve, quase sempre, outras pessoas, estas competências vão ajudar-te a atingir objetivos que façam sentido e sejam relevantes para ti e, ao mesmo tempo, vão ajudar-te a cultivar um senso de pertença e conexão.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Obrigada ",
+            "sectionId": "22951ef0-34a7-4bf6-bccd-dcb42a506619"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "22951ef0-34a7-4bf6-bccd-dcb42a506619",
+        "alias": "Further reading",
+        "title": "Leituras adicionais ",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Ferris, G. (2007). Political skill in organizations. Development and Learning in Organizations: An International Journal, 22(1). doi:10.1108/dlo.2008.08122aad.009\n2. Klein, G., Klein, H. A., Lande, B., Borders, J., & Whitacre, J. C. (2015). Police and Military as Good Strangers. Journal of Occupational and Organizational Psychology, 88(2), 231-250. doi:10.1111/joop.12110",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi!",
+            "sectionId": "50f632a7-c71e-4b94-b4cd-6443fa87e1b1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "50f632a7-c71e-4b94-b4cd-6443fa87e1b1",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "O que acontece a seguir?",
+            "conversationId": "pl-4-ask-for-advice"
+          }
+        ],
+        "alias": "Sharing Exercise",
+        "title": "Estás pronta/o para partilhar ",
+        "content": "1. **Que ideias-chave te ajudaram a entender a tua situação, procurar um propósito ou ter sucesso esta semana?**\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, praticando as competências que aprendeste e percebendo quais ressoam em ti de forma diferente."
+      }
+    ]
+  }
+}

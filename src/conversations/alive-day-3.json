@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-3",
     "alias": "alive-day-3",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-3",
-        "alias": "alive-day-3",
-        "nextConversationId": "alive-day-4",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 3",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay3rev1",
           "days": 0,
           "hours": 8,
           "minutes": 5,
-          "title": "Alive Day 3 Mission",
+          "title": "Alive Day 3 Quest",
           "body": "Over the next few hours, introduce yourself to someone who you see on a fairly frequent basis but don’t know their name."
         },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "It was a bit uncomfortable, but also nice."
+        },
         "followUp": {
+          "id": "followUpDay3",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 3 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-3",
+        "nextConversationId": "alive-day-4",
+        "type": "microInterventionDay",
+        "id": "alive-day-3"
       }
     ]
   },
   "sv": {
     "id": "alive-day-3",
     "alias": "alive-day-3",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-3",
-        "alias": "alive-day-3",
-        "nextConversationId": "alive-day-4",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 3",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 3",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 3",
-          "body": "Over the next few hours, introduce yourself to someone who you see on a fairly frequent basis but don’t know their name."
+          "title": "Uppdrag dag 3",
+          "body": "Under de närmaste timmarna, presentera dig själv för någon du inte vet namnet på men som du ser ganska ofta.",
+          "id": "aliveDay3rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur kändes det att göra dagens uppdrag?",
+          "exampleText": "Det var lite obehagligt, men också tillfredsställande."
         },
         "followUp": {
+          "id": "followUpDay3",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 3 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 3 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-3",
+        "nextConversationId": "alive-day-4",
+        "type": "microInterventionDay",
+        "id": "alive-day-3"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-3",
+    "alias": "alive-day-3",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 3",
+        "task": {
+          "id": "aliveDay3rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 5,
+          "title": "Desafio ALIVE dia 3",
+          "body": "Durante as próximas horas, apresenta-te a alguém que vejas com bastante frequência, mas de quem ainda não sabes o nome."
+        },
+        "sharingWall": {
+          "question": "Como te sentiste ao fazer o desafio de hoje?",
+          "exampleText": "Foi um pouco desconfortável, mas ao mesmo tempo deu-me sensações agradáveis."
+        },
+        "followUp": {
+          "id": "followUpDay3",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 3 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-3",
+        "nextConversationId": "alive-day-4",
+        "type": "microInterventionDay",
+        "id": "alive-day-3"
       }
     ]
   }

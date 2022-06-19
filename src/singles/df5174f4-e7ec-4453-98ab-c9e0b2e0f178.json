@@ -1,0 +1,250 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Nighttime letting go",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/Nighttime_letting_go_sw2bsu.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "version": 1,
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "meditation",
+    "id": "df5174f4-e7ec-4453-98ab-c9e0b2e0f178",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-df5174f4-e7ec-4453-98ab-c9e0b2e0f178",
+        "name": "Nighttime letting go",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "7ba770d9-2010-4ad9-8de6-631c7408afca",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/Nighttime_letting_go_sw2bsu.png",
+            "title": "Nighttime letting go",
+            "content": "When we experience **sleep difficulties** over time, it's common to get **stuck** in a **negative loop** of thoughts **relating** to our **sleep**.\n\nIn this meditation you'll practice taking a **step** **back** from your **stream of thoughts** instead of engaging in more thoughts that actually makes it **harder** to fall **asleep**.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3cb9fe96-fd40-4cbc-9aef-5b7aab61d362",
+            "content": "**Learn more about:**\n\n* See thoughts as thoughts\n* Taking a step back\n* Observation\n\n**You'll need:**\n\n* 5-10 minutes of undisturbed time",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0d62599a-2523-4311-98cc-fbe5d4d8be7b",
+            "content": "As we lay awake at night trying to fall asleep, our **thoughts** may look like this: \n\n\"*I need to fall asleep now*\"; \"*Why am I not falling asleep*\"; \"*How many hours do I have until I need to get up*\"; or \"*What is wrong with me*?\".\n\nAnd the list goes on and on and on.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2400ba0a-b023-4697-b5a8-add234b2b954",
+            "content": "These thoughts may **seem** like **problem-solving**, but what they're actually **contributing** to is **increased** **worry** that makes it even harder to sleep.",
+            "infoItems": [
+              {
+                "title": "Show example",
+                "description": "Bad sleep —> Worry about it —> Body and mind get's all wind-up before going to bed —> Hard to fall asleep —> Bad sleep."
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "audio",
+            "id": "ef4c12c6-48f9-4b68-84fa-6a22c1cf4e46",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/v1618915453/Meditations/letyourthoughtsbe_b1qcxy.mp3",
+            "buttonText": "I'm done",
+            "description": "A more **helpful** **strategy** is to take a step back and just **practice** **observing** your stream of thoughts, **without** **engaging** in them, **judge** yourself or **do** what they tell you to.\n\nPress play to try it out."
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "4ffe8fbb-e605-4ec8-ada2-5c06789a4410",
+            "question": "What did you notice during the meditation?",
+            "exampleText": "My thoughts kept wandering off, but I was surprised to find that I did manage to place some thoughts on leaves and let them go.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "dec26a40-f482-4bca-ad1e-2c68427f56b2",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Well done for trying out this exercise!",
+            "content": "Learning to take a step back from our thoughts can be a **lifelong** **practice**.\n\nWith time you'll notice that **thoughts are just thoughts.** They **come** and **go** completely by themselves, and there's **nothing** we have to **do** about them.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Tankar som stör sömnen",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/Nighttime_letting_go_sw2bsu.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "meditation",
+    "id": "df5174f4-e7ec-4453-98ab-c9e0b2e0f178",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-df5174f4-e7ec-4453-98ab-c9e0b2e0f178",
+        "name": "Tankar som stör sömnen",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "7ba770d9-2010-4ad9-8de6-631c7408afca",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/Nighttime_letting_go_sw2bsu.png",
+            "title": "Tankar som stör sömnen",
+            "content": "När vi upplever **sömnsvårigheter** under längre perioder är det vanligt att vi **fastnar** i **negativa** **tankemönster**.\n\nI den här meditationen får du öva på att **ta** ett **steg** **tillbaka** från dina **tankar** istället för att **engagera** dig i fler tankar som i slutändan gör det **svårare** att **somna**.",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3d226613-1baa-42de-84b9-a1c4091420a6",
+            "content": "**Lär dig mer om:**\n\n* Se tankar som tankar\n* Ta ett steg tillbaka\n* Observera\n\n**Du behöver:**\n\n* 5-10 minuter ostörd tid",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4fc0422e-956b-4460-963d-f81fd93784e4",
+            "content": "När vi ligger **vakna** om **nätterna** och försöker sova kan våra **tankar** låta så här: \"*Jag måste somna nu*\"; \"*Varför somnar jag inte*\"; \"*Hur många timmar är det kvar tills jag måste gå upp*\"; eller \"*Vad är det för fel på mig*?\". \n\nOch listan kan göras längre.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0d62599a-2523-4311-98cc-fbe5d4d8be7b",
+            "content": "Även om det kan **verka** som att **tankarna** hjälper oss **problemlösa** bidrar de faktiskt till **ökad** **oro** — vilket i sin tur gör det ännu **svårare** att **sova**.",
+            "buttonText": "Nästa",
+            "infoItems": [
+              {
+                "title": "Visa exempel",
+                "description": "Vi sover dåligt —> Oroar oss över det —> Går upp i varv innan vi går och lägger oss —> Får svårt att somna —> Vi sover dåligt."
+              }
+            ],
+            "title": ""
+          },
+          {
+            "type": "audio",
+            "id": "8bb8f9fe-a3fa-4c51-bc58-7da88c0332b4",
+            "description": "En bättre **strategi** är att träna på att **observera** dina **tankar** utan att **engagera** sig i dem, **döma** sig själv eller **göra** vad de säger åt oss.\n\nTryck på play-knappen för att testa på.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1637163987/Meditations/lattankarnavara_sgivft.mp3",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "8e11faa2-4f74-4de0-b957-e2364bf7c072",
+            "question": "Vad la du märke till under meditationen?",
+            "exampleText": "Mina tankar vandrade iväg, men jag blev förvånad över att jag lyckades lägga några tankar på löven och sedan släppa dem.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "dec26a40-f482-4bca-ad1e-2c68427f56b2",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "",
+            "content": "**Bra gjort**, du har nu testat en meditation som kan vara **hjälpsam** när **tankarna** börjar **snurra**. \n\nAtt lära sig skapa **distans** till sina **tankar** är **svårt** och kan vara något vi behöver **öva** på **hela** **livet**. Med tiden kommer du märka att **tankar bara är tankar**. De **kommer** och **går** helt av sig **själva** — och det finns **inget** vi **behöver** **göra** åt dem.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "Desligar à noite",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/Nighttime_letting_go_sw2bsu.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "meditation",
+    "id": "df5174f4-e7ec-4453-98ab-c9e0b2e0f178",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-df5174f4-e7ec-4453-98ab-c9e0b2e0f178",
+        "name": "Desligar à noite",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "7ba770d9-2010-4ad9-8de6-631c7408afca",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/Nighttime_letting_go_sw2bsu.png",
+            "title": "Desligar à noite ",
+            "content": "Quando temos **dificuldades para dormir** ao longo de algum tempo, é comum ficarmos **presos** num **ciclo negativo** de pensamentos **relacionados** com o nosso **sono**.\n\nNesta meditação, vais praticar distanciares-te do teu **fluxo de pensamentos** em vez de te envolveres em mais pensamentos que realmente tornam mais difícil  **adormecer**.",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3cb9fe96-fd40-4cbc-9aef-5b7aab61d362",
+            "content": "**Saber mais sobre:**\n\n* Ver pensamentos como pensamentos\n* A distanciares-te\n* Observação\n\n**Vais pecisar de:**\n\n* 5-10 minutos sem interrupções",
+            "buttonText": "Vamos lá "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0d62599a-2523-4311-98cc-fbe5d4d8be7b",
+            "content": "Enquanto estamos acordados à noite a tentar adormecer, os nossos **pensamentos** podem parecer-se com isto:\n\n\"*Preciso de dormir agora*\"; \"*Por que não estou a dormir?*\"; \"*Quantas horas faltam até ter de me levantar?*\"; ou \"*O que há de errado comigo*?\".\n\nE a lista continua e continua e continua",
+            "buttonText": "Seguinte"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2400ba0a-b023-4697-b5a8-add234b2b954",
+            "content": "Esses pensamentos podem **parecer** a **solução para os teus problemas**, mas na verdade estão a **contribuir** para  **aumentar** a tua **preocupação,** o que te dificulta ainda mais o adormecer.",
+            "infoItems": [
+              {
+                "title": "Mostrar exemplo",
+                "description": "Durmo mal —> Preocupo-me com isso —> Corpo e mente ficam agitados antes de ir para a cama —> Difícil adormecer —> Durmo mal."
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "audio",
+            "id": "ef4c12c6-48f9-4b68-84fa-6a22c1cf4e46",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1632841132/29k%20FJN/Meditations/20210928%20Cristina%20New%20/Deixa_Os_Teus_Pensamentos_Fluir_Agua_-_4_00_epcvkb.mp3",
+            "buttonText": "Já fiz",
+            "description": "Uma **estratégia** que **ajuda** é distanciares-te  e apenas **praticar** a **observação** do teu fluxo de pensamentos, **sem** te **envolverers** neles, sem  **julgares,** nem **faças** o que eles te disserem para fazer. \n\nClica no play para experimentar."
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "7a8fbffb-54b3-4380-a932-b0bbbb18956f",
+            "buttonText": "Continuar",
+            "question": "O que sentiste durante a meditação?",
+            "exampleText": "Os meus pensamentos continuavam a divagar, mas foi bom descobrir que comecei a conseguir deixá-los ir."
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "dec26a40-f482-4bca-ad1e-2c68427f56b2",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Que bom que experimentaste este exercício!",
+            "content": "Aprender a distanciarmo-nos dos nossos pensamentos pode ser uma **prática** para toda a vida.\n\nCom o tempo, vais notar que os **pensamentos são apenas pensamentos.** Eles **vêm** e **vão** completamente por eles, e não há **nada** que tenhamos de **fazer** acerca disso.",
+            "buttonText": "Acabei "
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "en": {
+    "information": {
+      "course": {
+        "title__markdown": "# Do this course ~~with others!~~"
+      },
+      "challenge": {
+        "title__markdown": "# Do this challenge ~~with others!~~"
+      },
+      "text__markdown": "Sharing your journey with others will make your experience much more powerful.",
+      "joinGroupButton": "Choose your group",
+      "notReadyButton": "Learn more"
+    },
+    "suggestion": {
+      "text__markdown": "# Before you take this lesson\n\nTo get the most out of this lesson we highly recommend taking the full course and joining a group. That’s where the transformative experience is!\n\nWith that said, you’re welcome to proceed and try this lesson now.",
+      "takeCourse": "Join",
+      "takeLesson": "I want to do the lesson"
+    },
+    "findGroup": {
+      "dayDropdown": "Any Day",
+      "newGroupButton": "Create Group",
+      "preferences": "Preferences",
+      "text__markdown": "# Find your ~~group~~\n\nChoose a group for your **weekly** video sharings for the **{{courseName}}**.\nEach video call lasts about 45 minutes.",
+      "noAvailableGroups": "There are no available groups matching your preferences.",
+      "newGroupDescription": "Can’t find a group that meets your needs?",
+      "availableGroups": "Available groups",
+      "timeDropdown": "Any Time",
+      "groupDescriptionFallback": "Join {{displayName}} and others on {{weekday}}s at {{time}} in co-creating a safe and principled place for sharing and growth."
+    }
+  },
+  "sv": {
+    "information": {
+      "course": {
+        "title__markdown": "# Gör den här kursen ~~med andra!~~"
+      },
+      "challenge": {
+        "title__markdown": "# Gör den här utmaningen ~~med andra!~~"
+      },
+      "text__markdown": "Att göra den här kursen tillsammans med andra ge ofta en djupare och mer kraftfull upplevelse.",
+      "joinGroupButton": "Välj grupp",
+      "notReadyButton": "Jag vill veta mer"
+    },
+    "suggestion": {
+      "text__markdown": "# Innan du börjar \n\nVi rekommenderar att du går med i en grupp eftersom det skapar bättre förutsättningar för att utvecklas.\n\nMen du kan också välja att börja med en lektion utan att gå med i en grupp.",
+      "takeCourse": "Gå med i en grupp",
+      "takeLesson": "Gå direkt till lektionen"
+    },
+    "findGroup": {
+      "dayDropdown": "Alla dagar",
+      "newGroupButton": "Skapa ny grupp",
+      "preferences": "Inställningar",
+      "text__markdown": "# Hitta en ~~grupp~~\n\nVälj en delningsgrupp för **{{courseName}}**.\n\nVarje samtal är ungefär 45 minuter.",
+      "noAvailableGroups": "Det finns ingen grupp som matchar dina val",
+      "newGroupDescription": "Kan du inte hitta en grupp som passar dig?",
+      "availableGroups": "Tillgängliga grupper",
+      "timeDropdown": "Alla tider",
+      "groupDescriptionFallback": "Gå med {{displayName}} och andra på {{weekday}}ar vid {{time}} och skapa en säker plats för att dela och utvecklas tillsammans."
+    }
+  },
+  "pt": {
+    "information": {
+      "course": {
+        "title__markdown": "# Faz este curso ~~com outras pessoas!~~"
+      },
+      "challenge": {
+        "title__markdown": "# Faz este desafio ~~com outras pessoas!~~"
+      },
+      "text__markdown": "Partilhar a tua jornada com os outros tornará a tua experiência do curso muito mais poderosa.",
+      "joinGroupButton": "Escolhe o teu grupo",
+      "notReadyButton": "Sabe mais"
+    },
+    "suggestion": {
+      "text__markdown": "# Antes de fazeres esta lição\n\nPara obteres o máximo desta lição, recomendamos vivamente fazeres o curso todo e participares num grupo de partilha. É aí que a experiência de transformação ocorre!\n\nTendo feito esta recomendação, vamos lá iniciar a nossa lição.",
+      "takeCourse": "Participar",
+      "takeLesson": "Quero ver a lição"
+    },
+    "findGroup": {
+      "dayDropdown": "Qualquer dia",
+      "newGroupButton": "Criar grupo",
+      "preferences": "Preferências",
+      "text__markdown": "# Encontra o teu ~~grupo~~\n\nEscolhe um grupo para as tuas partilhas de vídeo **semanais** no curso **{{courseName}}**.\nCada videochamada demora aproximadamente 45 minutos.",
+      "noAvailableGroups": "Não existem grupos alinhados com as tuas preferências.",
+      "newGroupDescription": "Não consegues encontrar um grupo para as tuas necessidades?",
+      "availableGroups": "Grupos disponíveis",
+      "timeDropdown": "A qualquer hora",
+      "groupDescriptionFallback": "Junta-te a {{displayName}} e aos outros membros no dia {{weekday}}s às {{time}} na criação de um local seguro de crescimento e partilha."
+    }
+  }
+}

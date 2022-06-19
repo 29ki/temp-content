@@ -1,0 +1,45 @@
+{
+  "en": {
+    "id": "c4e966d2-2b76-4dc4-8481-12da40ab9f61",
+    "alias": "sleep-day-6",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome sleep-day-6",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 30,
+          "id": "task_sleep-day-6",
+          "title": "Title sleep-day-6",
+          "body": "Body sleep-day-6"
+        },
+        "sharingWall": {
+          "question": "Sharing Wall - sleep-day-6",
+          "exampleText": "Example - sleep-day-6"
+        },
+        "followUp": {
+          "days": 1,
+          "hours": 20,
+          "minutes": 0,
+          "id": "Follow Up sleep-day-6",
+          "title": "Title sleep-day-6",
+          "body": "Body sleep-day-6"
+        },
+        "lessonlastDay": true,
+        "alias": "sleep-day-6",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "b0d2e11b-91b6-49ee-b363-101b17e9ad2b"
+      }
+    ]
+  },
+  "sv": {
+    "id": "c4e966d2-2b76-4dc4-8481-12da40ab9f61",
+    "alias": "sleep-day-6"
+  },
+  "pt": {
+    "id": "c4e966d2-2b76-4dc4-8481-12da40ab9f61",
+    "alias": "sleep-day-6"
+  }
+}

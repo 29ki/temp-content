@@ -1,0 +1,176 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "author": {
+      "name": "Sandro Cavazza",
+      "nickname": "Sandro Cavazza",
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649318853/Challenges/Sandro_4.5_ft6w5t.png"
+    },
+    "outro": "Well done on completing this challenge!\n\nAs this particular trip is coming to an end, we encourage you to take a moment and reflect on what you’ve learned the past 10 days. Going on an inner journey and exploring your values can be a lifelong practice — and 29k wants to continue supporting you every step of the way.",
+    "name": "Find your values",
+    "intro": "Are you also ready to live by your values?\n\nJoin this challenge to explore your inner world, identify and apply your values and make your days count.\n\nOver the next 10 days, we’ll send you reminders to complete short daily exercises. All you have to do is show up.\n\nIt's time to become the captain of your own journey called life.",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+    },
+    "introVideo": {
+      "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646997309/Challenges/Sandro_Emotional_intro_rh40dq.mp4",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646997155/Challenges/Emotional_Sandro_cover_p2oich.png",
+      "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647334716/Challenges/Sandro%20subtitles/29k_FULL_ENG_SUBS_hbhjza.vtt"
+    },
+    "outroVideo": {
+      "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646757168/Challenges/Sandro_outro_pfrtvu.mp4",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646742631/Challenges/Sandro_video_cover_wide_shkcch.png",
+      "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647337671/Challenges/Sandro%20subtitles/ENG_OUTRO_16.9_svm9bq.vtt"
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+    },
+    "duration": {
+      "type": "day",
+      "count": 10
+    },
+    "content": [
+      {
+        "id": "ea3ec539-29f3-46ce-893b-f47c210fce0f",
+        "contentId": "57842f75-3350-4adf-a53a-ab8baa561248"
+      },
+      {
+        "id": "d6be1caa-345a-40a1-bad7-23699cd83db7",
+        "contentId": "4fb30c82-2dde-4ae6-bbd4-610d8cc086dc"
+      },
+      {
+        "id": "ccbc5431-d833-4b16-bcd3-a4385c91999d",
+        "contentId": "e4905ff8-c67b-4396-bb4d-12994554199f"
+      },
+      {
+        "id": "a785d6c0-044c-4fa2-ae9c-45187545645f",
+        "contentId": "3eb09052-5270-4fef-92e1-5ccdd4461312"
+      },
+      {
+        "id": "bce9b1b4-516b-4031-8b93-dc50e5e447a7",
+        "contentId": "ccc0dd08-549f-4120-a194-07d258b3093f"
+      },
+      {
+        "id": "18ae5756-837c-40bc-97ad-2463226554d2",
+        "contentId": "c14f0802-3acd-46af-860b-4d8b54c82004"
+      },
+      {
+        "id": "020804ea-075a-4654-adf0-4fac50856bf1",
+        "contentId": "d679ed16-1170-40c4-8aec-9121d21cf3bf"
+      },
+      {
+        "id": "15a1ddf8-5207-42af-9733-ef6734178bbb",
+        "contentId": "21c84b17-59f1-4a79-95e5-3c2ef20719db"
+      },
+      {
+        "id": "3cc5873e-e279-4946-99cf-6df8e466f800",
+        "contentId": "26ce61f5-115f-484a-ba4c-abba016570b3"
+      },
+      {
+        "id": "50b9c49a-21d2-4445-9d83-26e9767eb57d",
+        "contentId": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      }
+    ],
+    "type": "challenge",
+    "id": "a1135753-16ff-4b62-8e69-ffd2a7e0505c",
+    "wip": false,
+    "nextStep": "As a next step, we suggest you check out some of our exercises and meditations. For a longer and more profound experience we recommend our courses."
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "author": {
+      "name": "Sandro Cavazza",
+      "nickname": "Sandro Cavazza",
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649318853/Challenges/Sandro_4.5_ft6w5t.png"
+    },
+    "outro": "Du har nu slutfört den här utmaningen, bra jobbat!\n\nNu när den här resan börjar lida mot sitt slut vill vi uppmana dig att reflektera över vad du lärt dig de senaste 10 dagarna. Att göra en inre resa och utforska dina egna värderingar kan vara en livslång resa — och 29k finns här för att stötta dig längs vägen.",
+    "name": "Hitta dina värderingar",
+    "intro": "Är du också redo att leva mer utifrån dina egna värderingar?\n\nDen här utmaningen låter dig utforska din inre värld. Du får hjälp att hitta och använda dig av dina värderingar så att du kan fylla dina dagar med ännu mer mening.\n\nUnder de kommande 10 dagarna skickar vi en kort övning till dig varje dag. Allt du behöver göra är att ta dig an utmaningen!\n\nDet är dags att du tar över rodret och styr din livsresa.",
+    "introVideo": {
+      "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646997309/Challenges/Sandro_Emotional_intro_rh40dq.mp4",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646997155/Challenges/Emotional_Sandro_cover_p2oich.png",
+      "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647334738/Challenges/Sandro%20subtitles/29k_FULL_SWE_SUBS_mxtk7g.vtt"
+    },
+    "outroVideo": {
+      "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646757169/Challenges/Sandro_outro_SWE_vt8vsf.mp4",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646742631/Challenges/Sandro_video_cover_wide_shkcch.png",
+      "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647337671/Challenges/Sandro%20subtitles/SWE_OUTRO_16.9_cwxppr.vtt"
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+    },
+    "duration": {
+      "type": "day",
+      "count": 10
+    },
+    "content": [
+      {
+        "id": "59c19328-2fb8-4770-98ec-1258fee313b2",
+        "contentId": "57842f75-3350-4adf-a53a-ab8baa561248"
+      },
+      {
+        "id": "5d6fe792-7e14-4113-972c-2ab237923a01",
+        "contentId": "4fb30c82-2dde-4ae6-bbd4-610d8cc086dc"
+      },
+      {
+        "id": "0180ceef-e403-4b3e-a31e-acec5bef0b05",
+        "contentId": "e4905ff8-c67b-4396-bb4d-12994554199f"
+      },
+      {
+        "id": "18a33bd1-1337-4c4b-a744-a1dab9469fac",
+        "contentId": "3eb09052-5270-4fef-92e1-5ccdd4461312"
+      },
+      {
+        "id": "6d083bbb-af27-4752-97d5-f9f072f399b6",
+        "contentId": "ccc0dd08-549f-4120-a194-07d258b3093f"
+      },
+      {
+        "id": "218b100e-bc3e-4681-8c30-a4b84070e6b5",
+        "contentId": "c14f0802-3acd-46af-860b-4d8b54c82004"
+      },
+      {
+        "id": "9d4dae7c-1a83-466a-be6d-1e21c9ce1500",
+        "contentId": "d679ed16-1170-40c4-8aec-9121d21cf3bf"
+      },
+      {
+        "id": "84d63118-199d-489a-bb70-f6a7366dff7b",
+        "contentId": "21c84b17-59f1-4a79-95e5-3c2ef20719db"
+      },
+      {
+        "id": "2c63f85d-5daf-4bae-9911-efbb34c6b295",
+        "contentId": "26ce61f5-115f-484a-ba4c-abba016570b3"
+      },
+      {
+        "id": "abfd4872-1894-4bc7-9afa-605a2171d864",
+        "contentId": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      }
+    ],
+    "type": "challenge",
+    "id": "a1135753-16ff-4b62-8e69-ffd2a7e0505c",
+    "wip": false,
+    "nextStep": "Som ett nästa steg rekommenderar vi att du utforskar våra övningar och meditationer. Om du letar efter en längre och djupare upplevelse erbjuder vi kurser."
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Find your values",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1645784362/Challenges/Sandro_cover_bz5tet.png"
+    },
+    "duration": {
+      "type": "day",
+      "count": 10
+    },
+    "type": "challenge",
+    "id": "a1135753-16ff-4b62-8e69-ffd2a7e0505c",
+    "wip": true
+  }
+}

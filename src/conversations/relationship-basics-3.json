@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationship-basics-3",
-    "alias": "relationship-basics-3",
+    "alias": "YA building relationships 1: basics 3",
     "root": "Section1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "The first friendship skill is learned by stepping into other people’s shoes (not literally because other people’s shoes can be stinky). \n\nBut understanding others comes from shining a light on what’s happening inside you and inside others."
+                "content": "The first friendship skill you'll practice is to step into other people’s shoes for a while (not literally because other people’s shoes can be stinky)."
               }
             ]
           },
@@ -24,7 +23,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section2"
               }
             ]
@@ -41,11 +39,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Have you ever wondered what makes someone a good friend? Why do some people have lots? What is their secret?"
+                "content": "Have you ever wondered what makes someone a good friend?"
               },
               {
                 "component": "Text",
-                "content": "It can be a little different for everyone but knowing what kind of friends you like is the place to start. It helps to know what others do that makes you feel great."
+                "content": "It can be a little different for everyone but knowing what kind of friends **you** like is a good place to start.\n\nWhat is it others do that make you feel great?"
               }
             ]
           },
@@ -55,7 +53,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section3"
               }
             ]
@@ -76,7 +73,7 @@
                 "content": [
                   {
                     "component": "Text",
-                    "content": "From the list on next screen, choose your top six characteristics that you like to see in a friend. You might think of someone you know and use that as a way to answer. Don’t worry about being ‘right’ here, it’s a long list because people are so diverse."
+                    "content": "On the next screen, you'll find a list. we want you to choose six qualities that you want in a friend. You can think of someone you already know or dream up someone.\n\nThere is no right answer here. It's a long list because people are so different."
                   }
                 ]
               }
@@ -89,7 +86,6 @@
               {
                 "component": "Button",
                 "content": "Show me the list",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section4"
               }
             ]
@@ -106,7 +102,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Pick six things you like in a friend"
+                "content": "Pick six things you like in a friend:"
               }
             ]
           },
@@ -114,7 +110,6 @@
             "component": "MultiSelect",
             "storageKey": "friendship-list",
             "options": [
-              "Interesting",
               "Fun",
               "Popular",
               "Sporty",
@@ -131,9 +126,12 @@
               "Helps me feel better",
               "Kind",
               "Supportive",
-              "Creative"
+              "Creative",
+              "Dependable",
+              "Interesting",
+              "Listens to me"
             ],
-            "maxSelections": "6"
+            "maxSelections": 6
           },
           {
             "component": "ButtonGroup",
@@ -141,7 +139,6 @@
               {
                 "component": "Button",
                 "content": "I'm ready",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section5"
               }
             ]
@@ -162,7 +159,7 @@
               },
               {
                 "component": "Text",
-                "content": "When you have a friend, you love it when they are:\n"
+                "content": "You love when a friend is:"
               }
             ]
           },
@@ -176,7 +173,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section6"
               }
             ]
@@ -193,7 +189,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Just notice how amazing your list is. Now, we need to be real too. That list is probably too amazing for one person to display all of the time right? No one’s that perfect. Besides, you don’t want perfect friends, it’s just too hard to keep up with perfect people."
+                "content": "Just notice how amazing your list is. Now, we need to be real too. That list is probably too amazing for one person to display all of the time right? No one is perfect and that's the way it should be."
               }
             ]
           },
@@ -203,7 +199,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section7"
               }
             ]
@@ -220,7 +215,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Now, what your list tells you is what **you value** in terms of connection.\n\nSo, let’s turn that selfie view around on to yourself."
+                "content": "Now, what your list tells you is what **you value** in a relationship."
               }
             ]
           },
@@ -230,13 +225,55 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationship-basics-3",
-                "sectionId": "Section8"
+                "sectionId": "21b3351d-1730-4312-b599-e614d35abf87"
               }
             ]
           }
         ],
         "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "21b3351d-1730-4312-b599-e614d35abf87",
+        "alias": "Video",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_amir.mp4",
+                "title": "Amir",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_amir.jpg",
+                "duration": 57,
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759901/Hantera%20Stress%20YA/subtitles/minkompislista_amir-en_usl7d5.vtt"
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_noa.mp4",
+                "title": "Noa",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_noa.jpg",
+                "duration": 52,
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759927/Hantera%20Stress%20YA/subtitles/minkompislista_noa-en_mn4qui.vtt"
+              },
+              {
+                "title": "Zara",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_zara.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_zara.jpg",
+                "duration": 55,
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759950/Hantera%20Stress%20YA/subtitles/minkompislista_zara-en_edqxoc.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "Section8"
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "Section8",
@@ -251,7 +288,7 @@
               },
               {
                 "component": "Text",
-                "content": "Ask yourself, do you act in some of these ways towards your friends too? Are you being ..."
+                "content": "Ask yourself, do you do any of this  towards your friends too? Are you being ..."
               }
             ]
           },
@@ -274,13 +311,11 @@
               {
                 "component": "Button",
                 "content": "Yes, sometimes",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section10"
               },
               {
                 "component": "Button",
                 "content": "No, I don't",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section9"
               }
             ]
@@ -297,7 +332,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "If you’ve become aware that you don’t act like this as often as you’d hope, then good for you for being honest with yourself. You deserve a bravery star for being honest."
+                "content": "If you’ve become aware that you don’t act like this as often as you’d like, then good for you for being honest with yourself."
               }
             ]
           },
@@ -307,7 +342,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section10"
               }
             ]
@@ -324,7 +358,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Good friends share the same behaviours. They act the same way. So if you value being respectful, that’s some you’ll get in a friend by acting respectfully too."
+                "content": "Friends often imitate each other's behavior. So, for example, if you appreciate respectful friends, there's a greater chance that your friends will treat you with respect if you respect them as well."
               }
             ]
           },
@@ -334,7 +368,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section11"
               }
             ]
@@ -352,7 +385,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "If you do the kind of valued friendship behaviour that you care about, then you are making a big step toward building friendships."
+                "content": "If you focus on behaving the way **you** think is important in a good friend, you're also taking a big step towards building relationships."
               }
             ]
           },
@@ -362,8 +395,7 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "sectionId": "Section12",
-                "conversationId": "relationship-basics-3"
+                "sectionId": "Section12"
               }
             ]
           }
@@ -378,7 +410,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "You don’t have to do it all of the time, just sometimes. And remember perfect friends are people that make you feel connected and cared for. Not in competition."
+                "content": "You don’t have to do this all of the time, just sometimes. And remember that a perfect friend is someone you feel close to, who makes you feel seen, heard and cared for."
               },
               {
                 "component": "Text",
@@ -391,9 +423,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "I'm ready for action",
-                "conversationId": "relationship-basics-4",
-                "sectionId": "1"
+                "conversationId": "relationship-basics-4"
               }
             ]
           }
@@ -403,9 +435,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationship-basics-3",
-    "alias": "relationship-basics-3",
+    "alias": "YA building relationships 1: basics 3",
     "root": "Section1",
     "sections": [
       {
@@ -427,7 +458,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section2"
               }
             ]
@@ -458,7 +488,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section3"
               }
             ]
@@ -492,7 +521,6 @@
               {
                 "component": "Button",
                 "content": "Visa mig listan",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section4"
               }
             ]
@@ -536,7 +564,7 @@
               "Sportig",
               "Rolig"
             ],
-            "maxSelections": "6"
+            "maxSelections": 6
           },
           {
             "component": "ButtonGroup",
@@ -544,7 +572,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section5"
               }
             ]
@@ -579,7 +606,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section6"
               }
             ]
@@ -606,7 +632,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section7"
               }
             ]
@@ -633,7 +658,6 @@
               {
                 "component": "Button",
                 "content": "Se vad andra värderar",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section13"
               }
             ]
@@ -652,17 +676,21 @@
               {
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_amir.mp4",
                 "title": "Amir",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_amir.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_amir.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621597621/Building%20Relationships/subtitles/minkompislista_amir_ngujrw.vtt",
+                "duration": 10
               },
               {
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_noa.mp4",
                 "title": "Noa",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_noa.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_noa.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621597621/Building%20Relationships/subtitles/minkompislista_noa_j3ff2t.vtt"
               },
               {
                 "title": "Zara",
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/1_relationship_basics/1_zara.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_zara.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/1_relationship_basics/1_zara.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621597621/Building%20Relationships/subtitles/minkompislista_zara_ssfkaf.vtt"
               }
             ]
           },
@@ -672,7 +700,6 @@
               {
                 "component": "Button",
                 "content": "Gå vidare",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section8"
               }
             ]
@@ -715,13 +742,11 @@
               {
                 "component": "Button",
                 "content": "Ja, ibland",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section10"
               },
               {
                 "component": "Button",
                 "content": "Nej",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section9"
               }
             ]
@@ -748,7 +773,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section10"
               }
             ]
@@ -775,7 +799,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-basics-3",
                 "sectionId": "Section11"
               }
             ]
@@ -803,8 +826,7 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "sectionId": "Section12",
-                "conversationId": "relationship-basics-3"
+                "sectionId": "Section12"
               }
             ]
           }
@@ -832,9 +854,448 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Sätt igång!",
-                "conversationId": "relationship-basics-4",
-                "sectionId": "1"
+                "conversationId": "relationship-basics-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationship-basics-3",
+    "alias": "YA building relationships 1: basics 3",
+    "root": "Section1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "A primeira competência da amizade que vais praticar é colocares-te durante algum tempo no lugar das outras pessoas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Já te perguntaste o que faz de alguém um/a bom/a  amigo/a?"
+              },
+              {
+                "component": "Text",
+                "content": "Pode variar um pouco de pessoa para pessoa, como ponto de partida é importante saber de que tipo de amigos **tu** gostas.\n\nO que fazem os outros que te faça sentir bem?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "Amizade - uma lista",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "No próximo ecrã, vais encontrar uma lista. Queremos que escolhas seis qualidades que queres encontrar num amigo. Podes pensar em alguém que já conheças ou imaginar alguém.\n\nNão há uma resposta certa aqui. É uma longa lista porque as pessoas são muito diferentes."
+                  }
+                ]
+              }
+            ],
+            "exerciseTitle": "O questionário da amizade"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mostrem-me a lista",
+                "sectionId": "Section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section4",
+        "alias": "Section4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Escolhe seis coisas de que gostas num/a amigo/a"
+              }
+            ]
+          },
+          {
+            "component": "MultiSelect",
+            "storageKey": "friendship-list",
+            "options": [
+              "Divertido",
+              "Popular",
+              "Atraente",
+              "Partilha dos meus sentimentos",
+              "Não julga",
+              "Ajuda-me a sentir-me melhor",
+              "Bondosa/o",
+              "Solidária/o",
+              "Criativa/o",
+              "De confiança",
+              "Interessante",
+              "Ouve-me",
+              "Desportivo",
+              "Faz-me rir",
+              "É indulgente",
+              "Otimista",
+              "Partilha dos meus interesses",
+              "Esperta/o"
+            ],
+            "maxSelections": 6
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Estou pronta/o",
+                "sectionId": "Section5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section5",
+        "alias": "Section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Muito bem"
+              },
+              {
+                "component": "Text",
+                "content": "Tu adoras quando um/a amigo/a é:"
+              }
+            ]
+          },
+          {
+            "component": "MultiSelectResult",
+            "storageKey": "friendship-list"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "Section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section6",
+        "alias": "Section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Observa como a tua lista é incrível. Agora, temos de ser reais também. Esta lista é provavelmente incrível demais para uma pessoa demonstrar o tempo todo, certo? Ninguém é perfeito. E é assim que deve ser."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "Section7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section7",
+        "alias": "Section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora, o que a tua lista te diz é o que **valorizas** numa relação."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "21b3351d-1730-4312-b599-e614d35abf87"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "21b3351d-1730-4312-b599-e614d35abf87",
+        "alias": "Video",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359460/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Videos/Nenny_-_Construir_Rela%C3%A7%C3%B5es_L1V1_s3r859.mp4",
+                "title": "Nenny",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362084/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Photos/Li%C3%A7%C3%A3o_1_-_Rela%C3%A7%C3%B5es_-_O_B%C3%A1sico_-_Video_1_arckie.jpg",
+                "duration": 3,
+                "subtitleUri": ""
+              },
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360130/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Videos/Ana_-_Construir_Rela%C3%A7%C3%B5es_-_L1V1_ul8vh3.mp4",
+                "title": "Ana",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650363528/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Photos/Rela%C3%A7%C3%B5es_-_O_b%C3%A1sico_-_video_1_iw9x6w.jpg",
+                "duration": 41,
+                "subtitleUri": ""
+              },
+              {
+                "title": "Afonso",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359256/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Videos/L1V1_-_Afonso_Almeida_-_Construir_Rela%C3%A7%C3%B5es_ipayra.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362610/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Photos/Afonso_Almeida_-_Rela%C3%A7%C3%B5es_-_O_B%C3%A1sico_-_video_1_fffgo1.jpg",
+                "duration": 62,
+                "subtitleUri": ""
+              },
+              {
+                "title": "Isabel",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360067/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Videos/L1V1_-_Isabel_santos_-_Construir_Rela%C3%A7%C3%B5es_jg0fsb.mp4",
+                "duration": 111,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362487/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Photos/Isabel_Santos_-_Rela%C3%A7%C3%B5es_-_O_b%C3%A1sico_-_video_1_ucmag2.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "Section8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Section8",
+        "alias": "Section8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora, faz uma pausa (lembra-te desse passo, super importante)."
+              },
+              {
+                "component": "Text",
+                "content": "Pergunta a ti mesma/o se também fazes isso aos teus amigos. Estás a ser..."
+              }
+            ]
+          },
+          {
+            "component": "MultiSelectResult",
+            "storageKey": "friendship-list"
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": ",pelo menos de vez em quando?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Sim, de vez em quando",
+                "sectionId": "Section10"
+              },
+              {
+                "component": "Button",
+                "content": "Não, não estou ",
+                "sectionId": "Section9"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section9",
+        "alias": "Section9",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se percebeste que não ages assim com a frequência que gostarias, então é bom seres honesta/o contigo mesma/o."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "Section10"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section10",
+        "alias": "Section10",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "O/As amigo/as muitas vezes imitam o comportamento um/a do/a outro/a. Assim, por exemplo, se tu aprecias amigos/as respeitosos/as, há uma probabilidade maior de que o/as teus/tuas amigo/as te tratem com respeito se tu os respeitares também."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "Section11"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "Section11",
+        "alias": "Section11",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se te concentrares em te comportares da maneira que **tu** achas importante num/a bom/a amigo/a, também vais estar a dar um grande passo na construção de relações."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "Section12"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Section12",
+        "alias": "Section12",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Não tens de fazer isso o tempo todo, apenas às vezes. E lembra-te que um/a amigo/a perfeito/a é alguém de quem te sentes próxima/o, que te faz  sentir vista/o, ouvida/o e cuidada/o."
+              },
+              {
+                "component": "Text",
+                "content": "Agora, vamos começar a praticar as tuas competências de amizade."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Estou pronta/o para a acção",
+                "conversationId": "relationship-basics-4"
               }
             ]
           }

@@ -1,0 +1,14 @@
+{
+  "en": {
+    "question": "Rate this meditation",
+    "detailedQuestion": "What did you think about it?"
+  },
+  "sv": {
+    "question": "Betygsätt meditationen",
+    "detailedQuestion": "Vad tyckte du om meditationen?"
+  },
+  "pt": {
+    "question": "Avalie a meditação",
+    "detailedQuestion": "O que você achou da meditação?"
+  }
+}

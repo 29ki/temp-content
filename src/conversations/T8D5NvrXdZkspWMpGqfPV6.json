@@ -1,0 +1,515 @@
+{
+  "en": {
+    "id": "T8D5NvrXdZkspWMpGqfPV6",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Experience life",
+        "title": "Experience life",
+        "content": "Living a value-driven life requires being present. This lesson is about opening up to life and all of the experiences that it brings. You will also learn how meditation can help you achieve this.\n\n### Today’s lesson has three parts:\n\n* How to open up to experiences\n* Meditation: How to be here and now\n* What happens when you avoid experiences?\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Life is good and bad",
+        "title": "Life is good and bad",
+        "content": "### Life is not about being happy all the time.\n\nIn fact, both pleasant and difficult experiences are a part of life. \n\nBeing always happy is an unrealistic expectation and even if it were achievable, it wouldn’t be pleasant in the long run.\n\nThink of it as seeing everything in just one color for the rest of your life. You would soon grow tired of it. Being able to see in a range of colours is a lot more attractive to us, even if there are some colors we don’t really like.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Experiencing a full life",
+        "title": "Experiencing a full life",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_4/L4-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_4/S4_02_negative_emotions.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Life in full color",
+        "title": "Life in full color",
+        "content": "Taking things one step at a time, this exercise is aimed at opening up to seeing your life in all of its colors.\n\nBegin by identifying one of your values that currently awakens negative emotions, or that you have a hard time living in line with. Maybe it’s something you would like to do but makes you feel afraid of failure. Or something you can do but it seems difficult. Write down your answer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Life in full color",
+        "title": "Life in full color",
+        "time": "5-10 minutes",
+        "question": "",
+        "longDescription": "With your value now identified, imagine that you are working towards it, even though it seems hard. \n\n1. Describe the situation in more detail.\n2. What’s happening in the situation? \n3. What are you doing and how are you feeling?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Meditation: Training color vision",
+        "title": "Meditation: Training color vision",
+        "time": "5 minutes",
+        "longDescription": "This meditative exercise aims at training your awareness of the here and now. To experience everything that’s happening in your life, good and bad.\n\nIt’s called **3-3-3** and it goes like this:\n\n* Notice 3 things you can see right now\n* Notice 3 things you can hear right now \n* Lastly, notice 3 things you feel in your body right now\n\nThat’s it! This exercise is so simple you can do it several times a day.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Experiencing a full life",
+        "title": "Experiencing a full life",
+        "content": "**Sad, scary and confused feelings serve a purpose.** Your feelings indicate that things mean something to you. For example, your feelings can motivate you to act in order to keep an important relationship.\n\nIf you think about it, what’s the alternative? Striving to never experience difficult feelings would mean no relationships. Because with any relationship comes a risk of losing it. \n\nThis next exercise is about just that. Connect again to the value you find hard to live in line with because of the difficult emotions it brings up.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Experiencing a full life",
+        "title": "Experiencing a full life",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_4/L4-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_4/S4_01_avoiding_values.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Exploring what happens when you avoid your values",
+        "title": "Exploring what happens when you avoid your values",
+        "time": "5-10 minutes",
+        "question": "",
+        "longDescription": "Imagine that you're only striving for what makes you feel good, neglecting this value and avoiding your feelings. Looking into the future, imagine how you would feel having not strived for or lived in line with this value. \n\n1. Write down how you think you would feel, what situation you might be in and what your life would look like?\n\n   *“Choosing not to pursue this value would lead me to…”*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "Well done for completing **A colorful life.** \n\nChoosing to live in line with your values means being open to some negative experiences along the way. \n\nThough we can’t fully protect ourselves from emotional pain, a value-driven life is often less painful in the long run than constantly striving to avoid any pain.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "You're now ready to share.\n\n1. Looking at your compass, which of your values feel hard to pursue and in what way?\n2. What's the cost of not pursuing these values?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - A colorful life"
+  },
+  "sv": {
+    "id": "T8D5NvrXdZkspWMpGqfPV6",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Upplev livet",
+        "title": "Upplev livet",
+        "content": "Att leva ett värdedrivet liv kräver att vara närvarande. Den här lektionen handlar om att öppna upp för livet och alla de upplevelser det ger. Du lär dig också hur meditation kan hjälpa dig att uppnå detta.\n\n### Dagens lektion består av tre delar:\n\n* Hur man öppnar upp för upplevelse\n* Meditation: Hur man är här och nu\n* Vad händer när du undviker upplevelser?\n\n### Du kommer att behöva:\n\n* 40 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Livet handlar inte om att vara lycklig hela tiden",
+        "title": "Livet handlar inte om att vara lycklig hela tiden",
+        "content": "Faktum är att både trevliga och svåra upplevelser är en del av livet.\n\nAtt alltid vara lycklig är en orealistisk förväntan och även om det skulle vara möjligt skulle det inte vara trevligt i det långa loppet.\n\nTänk på det som att se allt i bara en färg för resten av ditt liv. Även om den färgen var gul, skulle du snart bli trött på den. Att kunna se hela paletten är mycket mer attraktivt för oss även om det finns några färger i den som vi inte riktigt gillar.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Uppleva ett fullt liv",
+        "title": "Uppleva ett fullt liv",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_4/L4-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_4/S4_02_negative_emotions.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Livet i färgfilm",
+        "title": "Livet i färgfilm",
+        "content": "Att ta saker och ting ett steg i taget, den här övningen syftar till att öppna upp för att se ditt liv i alla dess färger.\n\nBörja med att identifiera ett av dina värden som väcker negativa känslor eller som du har svårt att leva i linje med. Kanske är det något du vill göra men känner dig rädd för misslyckande. Eller något du kan göra men det verkar svårt.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Livet i färgfilm",
+        "title": "Livet i färgfilm",
+        "time": "Ta 5-10 minuter",
+        "question": "Skriv ner ditt svar på ett papper",
+        "longDescription": "Med ditt värde nu identifierat, föreställ dig att du arbetar mot det genom att göra det som verkar svårt att göra. Beskriv situationen mer detaljerat: Vad händer i situationen? Vad gör du och känner",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Meditation: Träna färgvision",
+        "title": "Meditation: Träna färgvision",
+        "time": "Ta 5-10 minuter",
+        "longDescription": "Denna meditativa övning syftar till att träna din medvetenhet om här och nu. Att uppleva allt som händer i ditt liv, gott och ont.\n\nDet heter 3-3-3 och det går så här:\n\n* Lägg märke till tre saker du kan se just nu\n* Lägg märke till tre saker du kan höra just nu Gör det nu, det är bra praxis!\n* Slutligen, lägg märke till tre saker du känner i din kropp just nu.\n\nMeditation behöver inte vara komplicerat, även om vissa människor låter det låta så.\n\nI själva verket är denna övning så enkel att du kan göra det flera gånger om dagen.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Alla dessa sorgliga, läskiga och förvirrade känslor tjänar ett syfte.",
+        "title": "Alla dessa sorgliga, läskiga och förvirrade känslor tjänar ett syfte.",
+        "content": "Dina känslor indikerar att saker betyder något för dig. Till exempel kan dina känslor motivera dig att agera för att behålla ett viktigt förhållande.\nOm du tänker på det, vad är alternativet? Att sträva efter att aldrig uppleva svåra känslor skulle innebära inga relationer. För med något förhållande kommer en risk att förlora den.\n\nDenna övning handlar om just det. Anslut igen till det värde du har svårt att leva i linje med på grund av de svåra känslor det kan väcka.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Undvik värden",
+        "title": "Undvik värden",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_4/L4-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_4/S4_01_avoiding_values.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Utforska vad som händer när du undviker dina värden",
+        "title": "Utforska vad som händer när du undviker dina värden",
+        "time": "Ta 5-10 minuter",
+        "question": "Skriv ner ditt svar på ett papper. Det här är vad du kommer att erbjudas att dela med din grupp.",
+        "longDescription": "Tänk dig att inte sträva efter detta svåra värde, undvika dina känslor och bara sträva efter vad du tror skulle framkalla goda känslor. Titta in i framtiden, föreställ dig hur du känner att du inte strävat efter och levt i linje med detta värde.\n\nSkriv ner hur du tror att du skulle känna dig, vilken situation du kan befinna dig i och hur ditt liv skulle se ut:\n\n\"Att inte leva i linje med detta värde skulle leda mig till ...\"\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "### Bra gjort för att slutföra upplevelser.\n\nAtt välja att leva i linje med dina värderingar innebär att vara öppen för några negativa upplevelser på vägen.\n\nÄven om vi inte helt kan skydda oss från känslomässig smärta, är ett värdedrivet liv ofta mindre smärtsamt på lång sikt än att undvika smärta.\n\nDu är nu redo för nästa viktiga steg - att dela med din grupp.\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - A colorful life"
+  },
+  "pt": {
+    "id": "T8D5NvrXdZkspWMpGqfPV6",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Experienciar a vida",
+        "title": "Experienciar a vida",
+        "content": "Viver uma vida orientada por valores requer estar presente. Esta lição é sobre como te abrires à vida e a todas as experiências que ela traz. Também aprenderás como a meditação te pode ajudar a atingir esse objetivo.\n\n### A lição de hoje tem três partes:\n\n* Como te abrires às experiências\n* Meditação: como estar presente aqui e agora\n* O que acontece quando evitas experiências?\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "A vida é boa e má",
+        "title": "A vida é boa e má",
+        "content": "### A vida não é estar sempre feliz.\n\nNa verdade, tanto as experiências agradáveis como as difíceis fazem parte da vida.\n\nEstar sempre feliz é uma expetativa irreal e, mesmo que fosse possível, não seria agradável a longo prazo.\n\nPensa nisto como ver tudo numa única cor para o resto da tua vida. Ficarias cansado rapidamente. Ser capaz de ver num espetro de cores é muito mais atrativo para nós, mesmo que haja algumas cores de que não gostamos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Viver uma vida completa",
+        "title": "Viver uma vida completa",
+        "description": "\"Não gostava muito de pisar palcos, não gostava de falar em publico (…) a primeira vez que eu reuni as 160 pessoas e me levantei para falar com as pessoas, as minha pernas tremiam que nem varas verdes (…)\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L4P3ACOLORFULLIFE_jeyt0c.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020672/29k%20FJN/Courses/Values/Videos%209:16/L4_Values_V1_-_9x16_hees2d.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "A vida com todas as cores",
+        "title": "A vida com todas as cores",
+        "content": "Este exercício tem como objetivo fazer-te desabrochar para veres a vida com todas as suas cores, dando um passo de cada vez.\n\nComeça por identificar um dos valores que está a despertar emoções negativas ou com o qual tens dificuldades em conviver. Talvez seja uma coisa que gostarias de fazer mas que te faz sentir medo de fracassar. Ou uma coisa que podes fazer mas que parece difícil. Escreve a tua resposta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "A vida com todas as cores",
+        "title": "A vida com todas as cores",
+        "time": "5-10 min",
+        "question": "",
+        "longDescription": "Com o teu valor já identificado, imagina que estás a trabalhar para o atingir, mesmo que pareça difícil. \n\n1. Descreve a situação com mais detalhe.\n2. O que está a acontecer nessa situação? \n3. O que estás a fazer e como te sentes?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Meditação: Treinar a visão a cores",
+        "title": "Meditação: Treinar a visão a cores",
+        "time": "5 min",
+        "longDescription": "Este exercício de meditação tem como objetivo treinar a tua consciência do aqui e agora. Para experienciares tudo o que está a acontecer na tua vida, bom e mau.\n\nChama-se **3-3-3** e funciona assim:\n\n* Toma consciência de 3 coisas que podes ver agora\n* Toma consciência de 3 coisas que podes ouvir agora \n* Por último, toma consciência de 3 coisas que sentes no teu corpo agora\n\nÉ isto! Este exercício é tão simples que o podes fazer várias vezes por dia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Viver uma vida completa",
+        "title": "Viver uma vida completa",
+        "content": "**Sentimentos tristes, assustadores e confusos têm um propósito.** Os teus sentimentos indicam que as coisas têm um significado para ti. Por exemplo, os sentimentos podem motivar-te a agir para manter uma relação importante.\n\nSe pensares bem, qual é a alternativa? Fazeres um esforço para nunca experienciar sentimentos difíceis significaria que não haveria relações, porque em qualquer relação existe o risco de que esta possa acabar.\n\nEste próximo exercício é precisamente sobre isso. Conecta-te novamente ao valor com o qual tens mais dificuldades em conviver devido às emoções difíceis que ele despoleta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Viver uma vida completa",
+        "title": "Viver uma vida completa",
+        "description": "“O sofrimento é como que o rail da auto-estrada.(…) se a meio da auto-estrada eu me distrair, posso colidir com os raills. Os rails não são o mal, os rails são o bem que está lá para não me deixarem ir borda fora.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L4P8ACOLORFULLIFE_zgoxcv.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020655/29k%20FJN/Courses/Values/Videos%209:16/L4_Values_V2_-_9x16_lhiuc8.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Explora o que acontece quando evitas os teus valores",
+        "title": "Explora o que acontece quando evitas os teus valores",
+        "time": "5-10 min",
+        "question": "",
+        "longDescription": "Imagina que te estás a esforçar apenas pelo que te faz sentir bem, negligenciando um valor e evitando os teus sentimentos. Olhando para o futuro, imagina como te sentirias por não te teres empenhado ou vivido de acordo com esse valor.\n\n1. Escreve como achas que te sentirias, em que situação poderias estar e como seria a tua vida.\n\n   *“Escolher não seguir esse valor ia levar-me a ...”*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **A vida com todas as cores**. \n\nEscolher viver de acordo com os teus valores significa estar aberto a algumas experiências negativas ao longo do caminho.\n\nEmbora não nos possamos proteger totalmente da dor emocional, uma vida orientada por valores costuma ser menos dolorosa a longo prazo do que lutar constantemente para evitar a dor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Agora já podes partilhar.\n\n1. Olhando para a tua bússola, quais dos teus valores parecem difíceis de seguir? De que forma? \n2. O que perdes por não seguires estes valores?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - A colorful life"
+  }
+}

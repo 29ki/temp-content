@@ -1,0 +1,182 @@
+{
+  "en": {
+    "id": "c110f553-2ea2-4d30-a53a-9b55caef155a",
+    "name": "The healing hand",
+    "type": "meditation",
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_healing_hand_lydkre.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "description": "",
+    "stations": [
+      {
+        "id": "c110f553-2ea2-4d30-a53a-9b55caef155a",
+        "root": "section1",
+        "alias": "Meditation: Healing Hand",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Healing hand meditation",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620308175/Illustrations_Meditations/Heading_Healing_jg8zhr.png",
+            "title": "Healing hand meditation",
+            "content": "*4 minutes*\n\nIntegration and growth involves welcoming our whole emotional spectrum, even the difficult ones.\n\nThis meditation invites us to experience feelings and emotions that are usually hard for us so we can heal with kindness and compassion.\n\n*Guided by Vanessa LaBrie, created by Ph.D F. Livheim.*",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation: Healing hand",
+            "description": "Welcome to this short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-healing-hand.mp3",
+            "duration": "04:11",
+            "alias": "meditation",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/c110f553-2ea2-4d30-a53a-9b55caef155a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "You’ve just done a wonderful thing for yourself.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "0a9a6d8b-5b62-4a97-bbfb-4f6ffa6d8b22",
+            "question": "How did you feel during this meditation? ",
+            "exampleText": "I was scared to feel my negative emotions, but I'm more aware of them now and hopeful for the future.",
+            "alias": "sharing wall: healing hand meditation"
+          }
+        ],
+        "name": "The healing hand",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Läker",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_healing_hand_lydkre.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "c110f553-2ea2-4d30-a53a-9b55caef155a",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "c110f553-2ea2-4d30-a53a-9b55caef155a",
+        "root": "section1",
+        "alias": "Meditation: Healing Hand",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Läker handmeditation",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/c110f553-2ea2-4d30-a53a-9b55caef155a/Healing.jpg",
+            "title": "Läker handmeditation",
+            "content": "*4 minuter*\n\nIntegration och tillväxt innebär att vi välkomnar hela vårt känslomässiga spektrum, även de svåra.\n\nDenna meditation uppmanar oss att uppleva känslor och känslor som vanligtvis är svåra för oss så att vi kan läka med vänlighet och medkänsla.\n\n* Guidad av Vanessa LaBrie, skapad av doktor F. Livheim. *",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Välkommen till denna korta meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-healing-hand.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/c110f553-2ea2-4d30-a53a-9b55caef155a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Du har precis gjort en underbar sak för dig själv.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Läker",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "A mão que cura",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_healing_hand_lydkre.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "c110f553-2ea2-4d30-a53a-9b55caef155a",
+    "description": "Cria espaço para os sentimentos e para as emoções difíceis.",
+    "stations": [
+      {
+        "id": "c110f553-2ea2-4d30-a53a-9b55caef155a",
+        "root": "section1",
+        "alias": "Meditation: Healing Hand",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "A mão que cura",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620308175/Illustrations_Meditations/Heading_Healing_jg8zhr.png",
+            "title": "A mão que cura",
+            "content": "*05:04 minutos*\n\nEsta meditação convida-te a abrires espaço para as tuas emoções e sentimentos difíceis, presentes neste momento, para que possas aceitá-los com bondade e compaixão.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Meditação com duração de 05:04 minutos",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013522/29k%20FJN/Meditations/Cristina%20Final/A_MEDITACAO_DA_MAO_QUE_CURA_-_05_03_av6zdh.mp3",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/5503c6e9-0918-4d44-a559-05be63693e2d/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "A integração e o crescimento envolvem acolher todo o nosso leque emocional, mesmo os sentimentos e emoções mais difíceis.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "424c0ce9-efdd-44ac-885d-207720d3328e",
+            "alias": "sharing wall: healing hand meditation",
+            "question": "Como te sentiste durante a meditação?",
+            "exampleText": "Estava com medo de sentir as minhas emoções negativas, mas agora estou mais consciente delas o que vai trazer mais equilíbrio às minhas reações futuras."
+          }
+        ],
+        "name": "A mão que cura",
+        "type": "station"
+      }
+    ]
+  }
+}

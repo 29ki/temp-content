@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-aoa-3",
-    "alias": "relationships-aoa-3",
+    "alias": "YA building relationships 2: aware-allow 3",
     "root": "1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Practicing super skills aware and allow\n\nWe’ll guide you through a two minute exercise on being aware and allowing in a positive interaction."
+                "content": "### Practicing the super skills aware and allow\n\nYou'll get to try an exercise on being aware and allowing. It takes about two minutes."
               }
             ]
           },
@@ -24,8 +23,7 @@
               {
                 "component": "Button",
                 "content": "Let's start",
-                "sectionId": "2",
-                "conversationId": "relationships-aoa-3"
+                "sectionId": "2"
               }
             ]
           }
@@ -39,8 +37,8 @@
           {
             "component": "AudioPlayer",
             "content": {
-              "uri": "audiofile-aoa",
-              "duration": 7
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622469452/Building%20Relationships/aware_and_allow_1_-_2021-05-31_15_mtqysn.mp3",
+              "duration": 4
             }
           },
           {
@@ -48,9 +46,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Next",
-                "conversationId": "relationships-aoa-4",
-                "sectionId": "root"
+                "conversationId": "relationships-aoa-4"
               }
             ]
           }
@@ -60,9 +58,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-aoa-3",
-    "alias": "relationships-aoa-3",
+    "alias": "YA building relationships 2: aware-allow 3",
     "root": "1",
     "sections": [
       {
@@ -82,7 +79,6 @@
               {
                 "component": "Button",
                 "content": "Sätt igång",
-                "conversationId": "relationships-aoa-3",
                 "sectionId": "2"
               }
             ]
@@ -107,10 +103,68 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Nästa",
-                "conversationId": "relationships-aoa-4",
-                "sectionId": "root"
+                "conversationId": "relationships-aoa-4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-aoa-3",
+    "alias": "YA building relationships 2: aware-allow 3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Praticar as super competências da consciência e aceitação\n\nVais tentar um exercício que consiste em estar consciente e aceitar. Demora cerca de dois minutos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos começar",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893990/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Meditations%20Exercises%20Audio/Construir_rela%C3%A7%C3%B5es_-_PRATICAR_AS_COMPETENCIAS_ESTAR_CONSCIENTE_E_ACEITAR_-_04_57_qhw5zm.mp3",
+              "duration": 5
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte",
+                "conversationId": "relationships-aoa-4"
               }
             ]
           }

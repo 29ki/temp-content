@@ -1,0 +1,20 @@
+{
+  "en": {
+    "id": "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+    "tag": "Stress",
+    "description": "What would your life look like if stress was less of a problem? Stress is an inevitable part of life. Creating balance between stress and recovery is key for our well-being. Change the things you can control and strengthen your resilience. ",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/stressres_nrmozw.png"
+  },
+  "sv": {
+    "id": "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+    "tag": "Stress",
+    "description": "Hur skulle ditt liv se ut om du var mindre stressad? Stress är en oundviklig del av livet. Att skapa balans mellan stress och återhämtning är nyckeln till att må bra på lång sikt. Ändra det du kan kontrollera och öka din stresstålighet.",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/stressres_nrmozw.png"
+  },
+  "pt": {
+    "id": "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+    "tag": "Stress",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/stressres_nrmozw.png",
+    "description": "Como seria a tua vida se o stress fosse um problema menor? O stress é uma parte inevitável da nossa vida. Criar equilíbrio entre o stress e a recuperação é a chave para o nosso bem-estar. Muda as coisas que podes controlar e fortalece a tua resiliência."
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "en": {
+    "id": "J7Fbebitm2XBmCsm3NT6Vo-5",
+    "alias": "Self compassion - Body 5",
+    "type": "lesson",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Quote",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642763150/jared-rice-NTyBbu66_SI-unsplash_tcgszb.jpg",
+        "title": "",
+        "content": "> \"Where the body goes the mind will follow\"\n>\n> ~ Unknown",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "eb02e6ef-0046-4c68-87d2-d9e8126d8d3b"
+          }
+        ],
+        "infoItems": []
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "eb02e6ef-0046-4c68-87d2-d9e8126d8d3b",
+        "content": "We can’t **escape** stressful situations in life, no matter how much we try. They are a part of being human and something we all share.\n\nWhat we can do is to increase our **ability** to be **self-compassionate** during stressful events. Guide yourself towards this by helping your body to open up to a more self-compassionate way of acting.\n\nWe all work differently and have our own ways of comforting ourselves.\nLet’s explore **yours**.",
+        "title": "The body can be of great help",
+        "infoItems": [
+          {
+            "title": "Self-soothing behaviors",
+            "description": "The psychologist and Ph.D., Paul Gilbert calls it self-soothing behaviors. It can be lowering your shoulders. Taking a deep breath. Closing your eyes. Or maybe to tense your muscles for half a minute, and thereafter relax them."
+          }
+        ],
+        "alias": "The body can be of great help",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's explore",
+            "sectionId": "65293bee-f34b-4f66-a6dd-d907295f508c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "65293bee-f34b-4f66-a6dd-d907295f508c",
+        "content": "What research now is finding is that your body is deeply connected with your mind. As well as you mind deeply interconnected with your body.\n\nAll you have to do is give this an honest try and see for yourself. Put your hand in a fist. How does that make you feel? Now relax. Take a deep breath and place your hand kindly over your heart. Notice the difference?",
+        "alias": "Why self-soothing works?",
+        "title": "Why self-soothing works?",
+        "infoItems": [
+          {
+            "title": "The role of oxytocin",
+            "description": "Oxytocin is one of the most powerful neurotransmitters for feeling love and relaxation and is released when we feel safe, held and cared for. Like when a close friend comfortingly put their hand on you. The cool thing is that recent findings show that the emotional and limbic system in the brain actually is activated in the same way when you give yourself a similar physical gesture. Pretty good stuff."
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Take a deep breath and place your hand kindly over your heart.\n\n1. Think back to a **challenging situation** when you needed support. What **gesture** or **self-soothing behavior** could be helpful when you need it the most?\n2. Try it out.\n3. Play with this and see what **feels best for you.**",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "9cc0b577-521f-4d60-8622-3c4b93a7a88b"
+          }
+        ],
+        "question": "",
+        "time": "5 minutes",
+        "alias": "Finding your gesture",
+        "title": "Finding your gesture",
+        "type": "writing",
+        "id": "section10"
+      }
+    ]
+  },
+  "sv": {
+    "id": "J7Fbebitm2XBmCsm3NT6Vo-5",
+    "alias": "Self compassion - Body 5",
+    "type": "lesson",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Quote",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642763150/jared-rice-NTyBbu66_SI-unsplash_tcgszb.jpg",
+        "title": "",
+        "content": "> \"Dit kroppen går följer medvetandet med.\"\n>\n> ~ Okänd",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "eb02e6ef-0046-4c68-87d2-d9e8126d8d3b"
+          }
+        ],
+        "infoItems": []
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "eb02e6ef-0046-4c68-87d2-d9e8126d8d3b",
+        "content": "**Vi kan inte helt undvika** stressiga situationer i livet, oavsett hur mycket vi än försöker. De är en del av vad det innebär att vara människa. Något vi alla delar.\n\nDet vi kan göra är att **öka vår förmåga att vara självmedkännande** i stressiga situationer. Stärka förmågan genom att hitta ett mer självmedkännande sätt att agera.\n\nAlla funkar olika och vi har egna sätt att trösta oss själva.\n\nLåt oss utforska dina **självlugnande beteenden.**",
+        "title": "Ta hjälp av kroppen",
+        "infoItems": [
+          {
+            "title": "Läs mer",
+            "description": "Psykologen Paul Gilbert, Ph.D, kallar det självlugnande beteenden. Till exempel att sänka axlarna. Ta ett djupt andetag. Blunda. Eller kanske spänna musklerna i en halv minut och sedan slappna av."
+          }
+        ],
+        "alias": "Kroppen som hjälp",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "65293bee-f34b-4f66-a6dd-d907295f508c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "65293bee-f34b-4f66-a6dd-d907295f508c",
+        "content": "Det kan kännas larvigt eller dumt. Men det fungerar faktiskt.\n\nDet forskningen kommit fram till är att **kroppen är djupt kopplad till medvetandet**. Samt att medvetandet är djupt kopplat till kroppen.\n\nKnyt handen. \n\nHur får det dig att känna dig?\n\nSlappna av nu. Ta ett djupt andetag och lägg handen lätt på hjärtat. \n\nMärker du skillnaden?",
+        "alias": "Vetenskapen om varför det fungerar att fysiskt lugna sig själv ",
+        "title": "Hur det fungerar att lugna sig själv ",
+        "infoItems": [
+          {
+            "title": "Berätta mer",
+            "description": "Oxytocin är en signalsubstans som får oss att **känna kärlek och bli avspända**. Den frigörs när vi känner oss trygga, säkra och omhändertagna. Som när en vän tröstande klappar dig. \n\nDet coola är att det emotionella, limbiska systemet i hjärnan aktiveras på samma sätt **när du ger dig själv en liknande beröring**."
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Hitta din egen självlugnande gest för svåra situationer.\n\nFörsök att komma ihåg en utmanande situation då du behövde stöd. **Vilken gest eller vilket självlugnande beteende kan vara till hjälp** när du behöver det som mest?\n\nTesta.\n\nLek med det här, utforska och se vad som känns bäst för dig. Skriv ned vad som är ditt nya verktyg för fysisk tröst.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "9cc0b577-521f-4d60-8622-3c4b93a7a88b"
+          }
+        ],
+        "question": "",
+        "time": "5 minuter",
+        "alias": "Finding your gesture",
+        "title": "Hitta din egen gest",
+        "type": "writing",
+        "id": "section10"
+      }
+    ]
+  },
+  "pt": {
+    "id": "J7Fbebitm2XBmCsm3NT6Vo-5",
+    "alias": "Self compassion - Body 5",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "alias": "Se pudesses mudar uma coisa...",
+        "title": "Se pudesses mudar uma coisa...",
+        "description": "“Comecei há uns anos a fazer um trabalho interior de aceitação cada vez maior do meu corpo e do meu rosto, porque comecei a preparar-me interiormente para envelhecer...”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448856/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4p1bodyautocompaixao_fohvlj.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895803/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L4_Self_compassion_V1_uia2xo.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Emoções incorporadas",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448856/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4p2bodyautocompaixao_aypggi.jpg",
+        "title": "Emoções incorporadas",
+        "content": "### É bom ter-te de volta.\n\nEsta sessão explora uma das ferramentas mais importante para a autocompaixão - o teu corpo. É a porta de entrada, quer para o momento presente, quer para te conheceres melhor, e uma ferramenta poderosa para a autocompaixão.\n\n### A investigação\n\nEsta sessão é inspirada na evidência do exercício do MSC \"O toque tranquilizador\".\n\n### A sessão de hoje tem 4 partes:\n\n* Dar conta de sensações em situações difíceis (Escrita)\n* O teu corpo, a tua casa (Meditação)\n* Gestos corporais úteis (Exercício)\n\n### Preparação para a sessão:\n\n* 30 min de tempo sem perturbação\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Emoções que se refletem no corpo",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448856/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4p3bodyautocompaixao_tr2ug6.jpg",
+        "title": "Emoções que se refletem no corpo",
+        "content": "Tomamo-lo como certo. Talvez porque está sempre lá.\n\nO nosso corpo.\n\nSe o notamos, é muitas vezes para o julgar: é demasiado grande, demasiado pequeno, demasiado magro, demasiado gordo. Ou é para o pressionar: mais esforço, mais rapidez, mais força.\n\nMas os nossos corpos são também o lugar de origem das nossas vidas emocionais. Tudo o que amamos e tudo o que tememos é sentido no nosso corpo. É a fonte da nossa existência e o ponto de partida para a autocompaixão.\n\nEsta sessão é sobre aprender a notar momentos de sofrimento no teu corpo e explorar como isto se pode tornar uma grande ferramenta para a autocompaixão e uma porta para viver uma ligação mais profunda contigo.\n\nEstás convidada/o para ver a Fátima a falar sobre um momento poderoso de stress e medo. Juntamente com ela, podes explorar a resposta do corpo a um evento stressante e as emoções difíceis que daí emergem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "A Fátima partilha medos que se refletem no corpo.",
+        "title": "A Fátima partilha medos que se refletem no corpo.",
+        "description": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448857/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P4bodyautocompaixao_rmj4lc.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895812/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L4_Self_compassion_V2_io8qrn.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "A reação ao stress",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448857/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P5bodyautocompaixao_mfpeo6.jpg",
+        "title": "A reação ao stress",
+        "content": "O corpo reage connosco e para nós.\n\nQuando enfrentas um acontecimento stressante, o teu corpo prepara-se para lidar com a situação. Para te ajudar da melhor maneira que sabe.\n\nO corpo liberta energia e entra em modo de luta ou fuga ou fica bloqueado. Tudo para nos proteger do que ele pensa serem ameaças externas.\n\nPodemos dar-nos conta disto porque o nosso ritmo cardíaco aumenta, ficamos mais tensos, ficamos com visão em túnel ou sentimo-nos angustiados ou até em pânico.\n\nSe os nossos corpos reagem desta forma, isso significa que estão saudáveis e a funcionar corretamente, tentando proteger-nos de todas as situações perigosas a que os nossos antepassados sobreviveram.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Exercício",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448857/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P6bodyautocompaixao_e2j0v3.jpg",
+        "title": "Exercício",
+        "content": "Muitas vezes, quando passamos por situações stressantes, ficamos tão envolvidos no momento que não nos damos conta do que está a acontecer dentro de nós. Perdemos a oportunidade de nos apoiarmos quando mais precisamos.\n\nPara te compreenderes melhor e cuidares de ti própria/o, este exercício explora como podes dar conta e reconhecer os momentos em que necessitas de autocompaixão.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "shortDescription": "Escreve a tua resposta numa folha de papel e guarda-a, vais precisar dela mais tarde.",
+        "longDescription": "1. Pensa numa situação stressante ou difícil da semana passada. Não tem de ser a situação mais desafiante, escolhe uma que seja suportável para te recordares agora mesmo. O que aconteceu? Quem disse ou fez o quê? O que se estava a passar?\n2. Que sensações fisiológicas tiveste (por exemplo, tensão, tremores, arrepios, suores, dormência, náuseas, visão em túnel ou outra)? \n3. Que emoção sentiste? Tenta escolher a emoção mais marcante (como angústia, medo, pânico, irritação, tristeza, raiva, vergonha ou outra).\n4. Tenta voltar a essa situação. Em que parte do teu corpo localizas essa emoção? No peito, na cabeça, no estômago ou noutra zona?\n\n   Se te sentires assoberbada/o ao recordar a situação, lembra-te que podes sempre sair deste exercício ou usar o kit de ferramentas de segurança disponível no canto superior direito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "question": "",
+        "time": "Tira 10 min",
+        "alias": "Olha profundamente para dentro de ti",
+        "title": "Olha profundamente para dentro de ti",
+        "type": "writing",
+        "id": "section7"
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Emoções no corpo",
+        "title": "Emoções no corpo",
+        "description": "“O nosso corpo é transparente. Ele diz-nos tudo sobre nós, ele diz-nos tudo.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448858/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P8bodyautocompaixao_maxwen.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895816/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L4_Self_compassion_V3_qowa3n.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Autotranquilizante",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448858/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P9bodyautocompaixao_eijlnj.jpg",
+        "title": "Autotranquilizante",
+        "content": "### O corpo pode ser uma grande ajuda\n\nNão conseguimos escapar às situações stressantes da vida, por muito que tentemos. Fazem parte de ser humano e são comuns a todos nós.\n\nO que podemos fazer é aumentar a nossa capacidade de sermos autocompassivos durante acontecimentos stressantes. Adota esta atitude, ajudando o teu corpo a abrir-se para uma forma de agir mais autocompassiva.\n\nO psicólogo Dr. Paul Gilbert dá-lhe o nome de comportamentos autotranquilizantes, que passam por relaxar os ombros, respirar fundo, fechar os olhos ou contrair os músculos durante meio minuto e depois relaxá-los.\n\nTodos nós somos diferentes e temos as nossas próprias formas de nos confortarmos.\nVamos explorar as tuas.\n\n### A ciência explica a necessidade de te acalmares fisicamente\n\nPode parecer patético ou estúpido, mas funciona.\n\nOs resultados científicos mostram que o teu corpo está profundamente ligado à tua mente. Tal como a tua mente está profundamente interligada com o teu corpo.\n\nTudo o que tens de fazer é experimentar e ver com os teus próprios olhos. Fecha a mão com força. Como é que isso te faz sentir? Agora relaxa. Respira fundo e coloca suavemente a tua mão sobre o coração. Notas a diferença?\n\nA oxitocina é um dos neurotransmissores mais poderosos para sentirmos amor e relaxamento e é libertada quando nos sentimos seguros, amparados e acarinhados. Como quando uma amiga ou um amigo próximo te dá um abraço. O mais interessante é que descobertas recentes mostram que os sistemas emocional e límbico do cérebro são ativados da mesma forma quando tens para contigo um gesto físico semelhante. Muito boas notícias!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "### Encontra o teu gesto autotranquilizante para os momentos de necessidade\n\nLembra-te de uma situação desafiante em que precisaste de apoio. Que gesto ou comportamento tranquilizador poderia ser útil nesta situação?\n\nExperimenta-o.\n\nExperimenta outros gestos e verifica qual te faz sentir melhor. Descreve a tua nova técnica para te acalmares fisicamente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "question": "",
+        "time": "Tira 5 min",
+        "alias": "Encontra o teu gesto",
+        "title": "Encontra o teu gesto",
+        "type": "writing",
+        "id": "section10"
+      },
+      {
+        "id": "section11",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai preparar-te para o próximo passo do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523413/29k%20FJN/Meditations/Joanna%20Final/Body_And_Footing_rsqkwh.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Refletir sobre as emoções físicas",
+        "title": "Refletir sobre as emoções físicas",
+        "description": "“Não é que eu tivesse saído de fábrica com este kit, (…) mas andei à procura dele (…) e encontrei aquilo que funciona comigo...”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448859/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P12bodyautocompaixao_y35wsm.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895795/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L4_Self_compassion_V4_g15c3f.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "alias": "Continua a praticar",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448859/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L4P13bodyautocompaixao_fbnddt.jpg",
+        "title": "Continua a praticar",
+        "content": "### Excelente trabalho.\n\nDeste grandes passos na caminhada rumo a uma relação mais compassiva contigo e com os outros.\n\nO caminho a seguir é continuar a notar os momentos de sofrimento no teu corpo, reconhecendo-os pelo que eles são e encontrando formas de te tranquilizares.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a lição **Corpo**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires participar numa partilha com o teu grupo, vais precisar de ter à mão estes exercícios:\n\n* Olha profundamente para dentro de ti\n* Encontra o teu gesto",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

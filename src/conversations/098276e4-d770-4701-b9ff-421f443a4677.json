@@ -1,0 +1,348 @@
+{
+  "en": {
+    "id": "098276e4-d770-4701-b9ff-421f443a4677",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 3",
+    "root": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg",
+        "id": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+        "alias": "Exercício - Parte 1",
+        "content": "Uma forma de quebrar o ciclo da ansiedade é **fazer alguma coisa pelos outros**.\n\nA **empatia** e **mudança de perspetiva** podem fazer-nos sair da nossa mente e ver as coisas através de uma lente diferente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "8db24a00-7178-499b-a49d-0a541db4ca95"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "8db24a00-7178-499b-a49d-0a541db4ca95",
+        "title": "Exercício",
+        "longDescription": "Escreve as tuas respostas.\n\n1. Pensa nas **necessidades** de **outra pessoa**. Pode ser alguém que te é próximo ou uma pessoa estranha.\n2. Coloca-te na **perspetiva** dessa pessoa. Há alguma coisa que possas fazer **para a ajudar** ou que ela **apreciasse**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a"
+          }
+        ],
+        "alias": "g"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a",
+        "alias": "Exercício",
+        "content": "3. **Escolhe** uma ação simples que possas fazer agora. Planeia quando e onde a irás realizar.\n\n*Por exemplo: vai às compras para um/a vizinho/a com dificuldades, expressa gratidão a um dos teus pais, envia uma mensagem de texto a um/a amigo/a, oferece o teu lugar a uma pessoa mais velha.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "c6256eb8-6adb-46bb-bca1-1999ec766587"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "c6256eb8-6adb-46bb-bca1-1999ec766587",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "longDescription": "Escreve as tuas respostas.\n\n**(1)** O que planeaste fazer e por quem?\n\n**(2)** O que **aconteceu** à tua **ansiedade** enquanto pensavas nas necessidades dessa pessoa?\n\n**(3)** Como te **sentiste** depois de planear fazer uma coisa por outra pessoa?",
+        "time": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "49880c90-5de4-4346-a74a-b9049918231b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "49880c90-5de4-4346-a74a-b9049918231b",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“Continuar a prestar atenção, dentro dos limites do possível, porque foi um período muito intenso, continuar a ser um bom companheiro, um bom pai, um ser humano construtivo e que ajuda os outros nas suas jornadas e a passar as suas dificuldades, ao mesmo tempo que estava a passar por esta situação, porque a vida continua.“",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "92d045dc-e267-47fa-9d84-9677984446ac"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334353/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L1P6snapoutcopingiwthanxiety_zgfenn.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334229/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L1_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_afp3sb.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "92d045dc-e267-47fa-9d84-9677984446ac",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **Sair do ciclo da ansiedade**.\n\nPor vezes, assumimos comportamentos que nos fazem sentir bem no momento. Dão-nos uma sensação de **controlo**. Mas o que estamos realmente a fazer é alimentar o monstro da ansiedade.\n\nA melhor coisa que podes fazer é quebrar o ciclo de ansiedade. Uma forma de o fazer é **mudando** o teu **comportamento**. Outra é **fazer alguma coisa pelos outros.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959",
+        "alias": "Partilha",
+        "content": "Agora já estás pronta/o para a sessão de partilha com o teu grupo.\n\n#### Recorda-te do que vais partilhar:\n\n1. O **que** escolheste fazer e por **quem**?\n2. O que **aconteceu** à tua **ansiedade** quando pensaste nas necessidades desta pessoa?\n3. Como te **sentiste** depois?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "098276e4-d770-4701-b9ff-421f443a4677",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 3",
+    "root": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg",
+        "id": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+        "alias": "Exercício - Parte 1",
+        "content": "Uma forma de quebrar o ciclo da ansiedade é **fazer alguma coisa pelos outros**.\n\nA **empatia** e **mudança de perspetiva** podem fazer-nos sair da nossa mente e ver as coisas através de uma lente diferente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "8db24a00-7178-499b-a49d-0a541db4ca95"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "8db24a00-7178-499b-a49d-0a541db4ca95",
+        "title": "Exercício",
+        "longDescription": "Escreve as tuas respostas.\n\n1. Pensa nas **necessidades** de **outra pessoa**. Pode ser alguém que te é próximo ou uma pessoa estranha.\n2. Coloca-te na **perspetiva** dessa pessoa. Há alguma coisa que possas fazer **para a ajudar** ou que ela **apreciasse**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a",
+        "alias": "Exercício",
+        "content": "3. **Escolhe** uma ação simples que possas fazer agora. Planeia quando e onde a irás realizar.\n\n*Por exemplo: vai às compras para um/a vizinho/a com dificuldades, expressa gratidão a um dos teus pais, envia uma mensagem de texto a um/a amigo/a, oferece o teu lugar a uma pessoa mais velha.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "c6256eb8-6adb-46bb-bca1-1999ec766587"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "c6256eb8-6adb-46bb-bca1-1999ec766587",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "longDescription": "Escreve as tuas respostas.\n\n**(1)** O que planeaste fazer e por quem?\n\n**(2)** O que **aconteceu** à tua **ansiedade** enquanto pensavas nas necessidades dessa pessoa?\n\n**(3)** Como te **sentiste** depois de planear fazer uma coisa por outra pessoa?",
+        "time": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "49880c90-5de4-4346-a74a-b9049918231b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "49880c90-5de4-4346-a74a-b9049918231b",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“Continuar a prestar atenção, dentro dos limites do possível, porque foi um período muito intenso, continuar a ser um bom companheiro, um bom pai, um ser humano construtivo e que ajuda os outros nas suas jornadas e a passar as suas dificuldades, ao mesmo tempo que estava a passar por esta situação, porque a vida continua.“",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "92d045dc-e267-47fa-9d84-9677984446ac"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334353/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L1P6snapoutcopingiwthanxiety_zgfenn.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334229/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L1_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_afp3sb.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "92d045dc-e267-47fa-9d84-9677984446ac",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **Sair do ciclo da ansiedade**.\n\nPor vezes, assumimos comportamentos que nos fazem sentir bem no momento. Dão-nos uma sensação de **controlo**. Mas o que estamos realmente a fazer é alimentar o monstro da ansiedade.\n\nA melhor coisa que podes fazer é quebrar o ciclo de ansiedade. Uma forma de o fazer é **mudando** o teu **comportamento**. Outra é **fazer alguma coisa pelos outros.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959",
+        "alias": "Partilha",
+        "content": "Agora já estás pronta/o para a sessão de partilha com o teu grupo.\n\n#### Recorda-te do que vais partilhar:\n\n1. O **que** escolheste fazer e por **quem**?\n2. O que **aconteceu** à tua **ansiedade** quando pensaste nas necessidades desta pessoa?\n3. Como te **sentiste** depois?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "098276e4-d770-4701-b9ff-421f443a4677",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 3",
+    "root": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg",
+        "id": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+        "alias": "Exercício - Parte 1",
+        "content": "Uma forma de quebrar o ciclo da ansiedade é **fazer alguma coisa pelos outros**.\n\nA **empatia** e **mudança de perspetiva** podem fazer-nos sair da nossa mente e ver as coisas através de uma lente diferente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "8db24a00-7178-499b-a49d-0a541db4ca95"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "8db24a00-7178-499b-a49d-0a541db4ca95",
+        "title": "Exercício",
+        "longDescription": "Escreve as tuas respostas.\n\n1. Pensa nas **necessidades** de **outra pessoa**. Pode ser alguém que te é próximo ou uma pessoa estranha.\n2. Coloca-te na **perspetiva** dessa pessoa. Há alguma coisa que possas fazer **para a ajudar** ou que ela **apreciasse**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a",
+        "alias": "Exercício",
+        "content": "3. **Escolhe** uma ação simples que possas fazer agora. Planeia quando e onde a irás realizar.\n\n*Por exemplo: vai às compras para um/a vizinho/a com dificuldades, expressa gratidão a um dos teus pais, envia uma mensagem de texto a um/a amigo/a, oferece o teu lugar a uma pessoa mais velha.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "c6256eb8-6adb-46bb-bca1-1999ec766587"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "c6256eb8-6adb-46bb-bca1-1999ec766587",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "longDescription": "Escreve as tuas respostas.\n\n**(1)** O que planeaste fazer e por quem?\n\n**(2)** O que **aconteceu** à tua **ansiedade** enquanto pensavas nas necessidades dessa pessoa?\n\n**(3)** Como te **sentiste** depois de planear fazer uma coisa por outra pessoa?",
+        "time": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "49880c90-5de4-4346-a74a-b9049918231b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "49880c90-5de4-4346-a74a-b9049918231b",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“Continuar a prestar atenção, dentro dos limites do possível, porque foi um período muito intenso, continuar a ser um bom companheiro, um bom pai, um ser humano construtivo e que ajuda os outros nas suas jornadas e a passar as suas dificuldades, ao mesmo tempo que estava a passar por esta situação, porque a vida continua.“",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "92d045dc-e267-47fa-9d84-9677984446ac"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334353/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L1P6snapoutcopingiwthanxiety_zgfenn.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334229/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L1_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_afp3sb.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "92d045dc-e267-47fa-9d84-9677984446ac",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **Sair do ciclo da ansiedade**.\n\nPor vezes, assumimos comportamentos que nos fazem sentir bem no momento. Dão-nos uma sensação de **controlo**. Mas o que estamos realmente a fazer é alimentar o monstro da ansiedade.\n\nA melhor coisa que podes fazer é quebrar o ciclo de ansiedade. Uma forma de o fazer é **mudando** o teu **comportamento**. Outra é **fazer alguma coisa pelos outros.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959",
+        "alias": "Partilha",
+        "content": "Agora já estás pronta/o para a sessão de partilha com o teu grupo.\n\n#### Recorda-te do que vais partilhar:\n\n1. O **que** escolheste fazer e por **quem**?\n2. O que **aconteceu** à tua **ansiedade** quando pensaste nas necessidades desta pessoa?\n3. Como te **sentiste** depois?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

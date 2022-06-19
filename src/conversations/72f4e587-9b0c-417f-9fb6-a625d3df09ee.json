@@ -1,0 +1,165 @@
+{
+  "en": {
+    "id": "72f4e587-9b0c-417f-9fb6-a625d3df09ee",
+    "alias": "2: Navigating stormy seas 3 (Personal values)",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "video",
+        "title": "Your personal values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_01_values_personal_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "title": "Exercise - Part 1",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "Write down a list of things you value in your personal life. This may include different aspects of personal development, or how you want to treat your mind and body.\n\n* What continuous activities would you like to start or resume doing?\n* How would you like to relax and enjoy yourself regularly in a healthy way?\n* What kind of person do you want to be towards yourself?\n\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Exercise - Part 2",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "On a scale of 1-5, how much do you feel that you live in line with each of your personal life values? (1 stands for “not at all in line” and 5 means “totally in line”). Write down a score next to each value.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "72f4e587-9b0c-417f-9fb6-a625d3df09ee",
+    "alias": "2: Navigating stormy seas 3 (Personal values)",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "video",
+        "title": "Mina värderingar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_01_values_personal_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "title": "Övning – del 1",
+        "time": "5-10 minuter",
+        "question": "Min värden – personliga",
+        "longDescription": "Skriv nu ner en lista över saker i livet som du värderar. Det kan vara olika aspekter av personlig utveckling, sånt du vill stå för, eller hur du vill behandla kropp och själ.\n\n* Vilka aktiviteter vill du börja med eller återuppta?\n* Hur vill du slappna av och njuta regelbundet på ett hälsosamt sätt?\n* Hur vill du behandla dig själv?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Övning –– del 2",
+        "question": "För följande frågor, skriv ner dina svar på ett papper.",
+        "longDescription": "På en skala från 1-5, hur mycket känner du att du lever i linje med var och en av dina personliga värderingar? (1 står för \"inte alls\" och 5 betyder \"helt i linje\"). Skriv ner en poäng bredvid varje värde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "72f4e587-9b0c-417f-9fb6-a625d3df09ee",
+    "alias": "2: Navigating stormy seas 3 (Personal values)",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "video",
+        "title": "Os teus valores pessoais",
+        "description": "“A ética, a justiça, (...) praticar o bem, o respeito, a seriedade, são tantos. Mas sentir-me bem comigo mesmo é o ponto de partida e de chegada.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855830/29k%20FJN/Courses/Meaning%20Making/Photos/L2P4NAVIGATINGSTORMYSEAS_l3grbv.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044090/29k%20FJN/Courses/Meaning%20Making/Videos/L2_Meaning_making_in_a_crisis_V1_enrgib.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "title": "Exercício - Parte 1",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Escreve uma lista de coisas que valorizas na tua vida pessoal. Podes incluir diferentes aspetos de desenvolvimento pessoal ou como queres tratar a tua mente e o teu corpo.\n\n* Que atividades recorrentes gostarias de começar ou reiniciar agora?\n* Como gostarias de relaxar e divertir-te de uma forma saudável?\n* Que tipo de pessoa gostarias de ser relativamente a ti própria/o?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Exercício - Parte 2",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Numa escala de 1-5, quanto achas que vives em linha com cada um dos teus valores pessoais? (1 significa “nada alinhada/o” e 5 significa “totalmente alinhada/o”). Escreve a pontuação junto a cada um dos teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  }
+}

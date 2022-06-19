@@ -1,0 +1,113 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "What are you grateful for today?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/what_are_you_grateful_for_today_vucuwl.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "d0186106-ad9f-4141-97bc-80e531f5de28",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-d0186106-ad9f-4141-97bc-80e531f5de28",
+        "name": "What are you grateful for today?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "78b5047b-ca4a-4c34-8042-e735abd97b29",
+            "exampleText": "I feel grateful for the people around me",
+            "question": "What are you grateful for today?",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Vad är du tacksam för idag?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/what_are_you_grateful_for_today_vucuwl.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "d0186106-ad9f-4141-97bc-80e531f5de28",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-d0186106-ad9f-4141-97bc-80e531f5de28",
+        "name": "Vad är du tacksam för idag?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "59d46b0f-009e-4f09-83ba-772c3e0d591c",
+            "exampleText": "Jag är tacksam för människorna runt omkring mig.",
+            "question": "Vad är du tacksam för idag?",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "O que agradeces hoje?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/what_are_you_grateful_for_today_vucuwl.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "d0186106-ad9f-4141-97bc-80e531f5de28",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-d0186106-ad9f-4141-97bc-80e531f5de28",
+        "name": "O que agradeces hoje?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "2de8b165-5db2-45ef-b7ae-cee9e0cc948c",
+            "question": "O que agradeces hoje?",
+            "exampleText": "Sinto-me agradecida/o pelas pessoas que me rodeiam",
+            "buttonText": "Terminei"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "en": {
+    "subject": "Goodbye for now! We deleted your 29k account.",
+    "body__markdown": "# Sorry. We’ve deleted your account because we haven’t seen you for a year.\n\nWe hope that you decide to come back soon. Users like you make 29k special. Remember, you can always register again by opening or re-installing the app by clicking on this link.",
+    "link": {
+      "text": "Open or re-install the 29k app",
+      "href": "https://app.29k.org/download"
+    }
+  },
+  "sv": {
+    "subject": "Hej då! Vi har nu raderat ditt 29k-konto.",
+    "body__markdown": "# Tack för den här tiden. Vi har avslutat ditt konto eftersom vi inte har setts på ett år.\n\nVi hoppas att du kommer tillbaka snart. Det är användare som du gör 29k speciellt. Du kan alltid registrera dig igen genom att öppna eller installera om appen via den här länken.",
+    "link": {
+      "text": "Öppna eller installera om 29k-appen",
+      "href": "https://app.29k.org/download"
+    }
+  },
+  "pt": {
+    "subject": "Adeus por agora! Removemos a tua conta da 29k FJN.",
+    "body__markdown": "# Desculpa. Removemos a tua conta porque não a utilizavas há mais de um ano.\n\nEsperamos que decidas voltar em breve. Utilizadores como tu fazem-nos sentir especiais. Lembra-te de que te podes registar de novo abrindo ou voltando a instalar a aplicação através desta ligação.",
+    "link": {
+      "text": "Abrir ou voltar a instalar a aplicação 29k FJN",
+      "href": "https://app.29k.org/download"
+    }
+  }
+}

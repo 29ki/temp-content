@@ -1,0 +1,14 @@
+{
+  "en": {
+    "label_plural": "{{count}} available groups",
+    "label": "{{count}} available group"
+  },
+  "sv": {
+    "label_plural": "{{count}} tillgängliga grupper",
+    "label": "{{count}} tillgänglig grupp"
+  },
+  "pt": {
+    "label_plural": "{{count}} grupos disponíveis",
+    "label": "{{count}} grupo disponível"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "en": {
+    "id": "b1b23916-27db-4e79-9efc-0330a1073d3a",
+    "alias": "Navigating stormy seas 5 (Work values)",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "Work & education - A huge part of our lives",
+        "content": "Regardless of how much you care about your work, we spend a good deal of time working.\n\nBut what if your work gave you a sense of meaning and purpose (in case it doesn’t feel this way already)?\n\nThis next exercise will explore just that. How, why and in what way can your work or education be more meaningful to you. ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "title": "Exploring your work values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_03_values_occupational_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "title": "Exercise - Part 1",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "When it comes to your work/education:\n\n* What personal qualities would you like to contribute?\n* What competencies, knowledge and personal qualities would you like to develop?\n* How would you like to behave towards others?\n* What kind of relationships would you like to build?\n\nTake a moment to reflect on these questions in writing.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "title": "Exercise - Part 2",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "On a scale of 1-5, how much do you feel that you live in line with each of your work-related values (1 stands for “not at all in line” and 5 for “totally in line”). Write down a score next to each value.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section15"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b1b23916-27db-4e79-9efc-0330a1073d3a",
+    "alias": "Navigating stormy seas 5 (Work values)",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "Arbete & utbildning – en stor del av våra liv",
+        "content": "Oavsett hur mycket eller lite vi bryr dig om vårt jobb, så lägger vi en hel del tid på det.\n\nMen tänk om arbete gav oss en känsla av mening och syfte (om det inte redan gör det)?\n\nNästa övning kommer att utforska just det. Hur, varför och på vilket sätt kan arbete eller utbildning vara mer meningsfullt?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "title": "Mina värderingar – arbete",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_03_values_occupational_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "title": "Övning – del 1",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "När det gäller ditt arbete/utbildning:\n\n* Vilka personliga egenskaper vill du bidra med?\n* Vilka kompetenser, kunskaper och personliga egenskaper vill du utveckla?\n* Hur skulle du vilja bete dig mot andra?\n* Vad vill du står för i dina relationer på jobbet?\n\nFundera en stund, skriv sedan ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "title": "Övning – del 2",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "På en skala från 1-5, hur mycket känner du att du lever i linje med var och en av dina värderingar när det gäller arbete/utbildning (1 står för \"inte alls\" och 5 för \"helt i linje\"). Skriv ner en siffra bredvid varje värdering.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section15"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b1b23916-27db-4e79-9efc-0330a1073d3a",
+    "alias": "Navigating stormy seas 5 (Work values)",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "Trabalho e Escola",
+        "content": "Independentemente do quanto nos preocupamos com o trabalho, passamos uma grande parte da nossa vida a trabalhar.\n\nMas e se o teu trabalho te trouxer significado e propósito?\n\nNeste próximo exercício, vais explorar exatamente isso. Como, porquê e de que forma o teu trabalho ou a escola podem ser mais significativos para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "title": "Os teus valores no trabalho",
+        "description": "“A ética, o respeito, o compromisso, o estar de corpo e alma, acho que é muito importante.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855831/29k%20FJN/Courses/Meaning%20Making/Photos/L2P12NAVIGATINGSTORMYSEAS_adsmip.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044038/29k%20FJN/Courses/Meaning%20Making/Videos/L2_Meaning_making_in_a_crisis_V3_1_hwqrd8.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "title": "Exercício - Parte 1",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "No que diz respeito ao teu trabalho/escola:\n\n* Com que qualidades pessoais gostarias de contribuir?\n* Que competências, conhecimentos e qualidades pessoais gostarias de desenvolver?\n* Como gostarias de te comportar relativamente aos outros?\n* Que tipo de relacionamentos gostarias de construir?\n\nReflete uns momentos por escrito sobre estas perguntas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "title": "Exercício - Parte 2",
+        "time": "Tira 5-10 min",
+        "question": "Responde às questões seguintes numa folha de papel.",
+        "longDescription": "Numa escala de 1-5, quanto achas que vives em linha com cada um dos teus valores relacionados com o trabalho? (1 significa “nada alinhada/o” e 5 significa “totalmente alinhada/o”). Escreve a pontuação junto a cada um dos teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ]
+      }
+    ]
+  }
+}

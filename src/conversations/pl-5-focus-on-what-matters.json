@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-5-focus-on-what-matters",
+    "alias": "pl-5-focus-on-what-matters",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-5-focus-on-what-matters",
+        "alias": "pl-5-focus-on-what-matters",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Focus on what matters",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-5-focus-on-what-matters-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Focus on what matters",
+          "body": "Today, ask a colleague ***“What’s the most crucial thing for us to work towards?\"***"
+        },
+        "followUp": {
+          "id": "pl-5-focus-on-what-matters-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "What did you learn by asking this question?",
+          "exampleText": "My colleague's insights have helped me realize that we don't take time to prioritize."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-5-focus-on-what-matters",
+    "alias": "pl-5-focus-on-what-matters",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-5-focus-on-what-matters",
+        "alias": "pl-5-focus-on-what-matters",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Focus on what matters",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Focus on what matters",
+          "body": "Today, ask a colleague “what’s the most crucial thing for us to work towards?"
+        },
+        "followUp": {
+          "id": "pl-5-focus-on-what-matters-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "..."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-5-focus-on-what-matters",
+    "alias": "pl-5-focus-on-what-matters",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-5-focus-on-what-matters",
+        "alias": "pl-5-focus-on-what-matters",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Foca-te no que realmente importa",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-5-focus-on-what-matters-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Foca-te no que verdadeiramente importa ",
+          "body": "Hoje pergunta a um/a colega \"**Qual é a coisa mais importante para a qual devemos trabalhar?\"**"
+        },
+        "followUp": {
+          "id": "pl-5-focus-on-what-matters-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Vamos fazer o check-in"
+        },
+        "sharingWall": {
+          "question": "O que aprendeste ao fazer esta questão?",
+          "exampleText": "Os insights do meu colega ajudaram-me a perceber que não tiramos tempo para priorizar."
+        }
+      }
+    ]
+  }
+}

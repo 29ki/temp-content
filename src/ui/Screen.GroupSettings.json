@@ -1,0 +1,68 @@
+{
+  "en": {
+    "leaveGroup": "Leave group",
+    "groupInvite": {
+      "title": "Group invite",
+      "share_link_label": "Invite someone"
+    },
+    "groupPrivacy": {
+      "hide_group": "Private group"
+    },
+    "name": "Name",
+    "screenTitle": "Group Settings",
+    "noTopic": "No topic",
+    "startDate": "Start date",
+    "selectTopic": "Select topic",
+    "textLengthError": "Minimum {{charLength}} characters",
+    "settingsTitle": "### Next sharing",
+    "groupLanguage": {
+      "title": "Language"
+    },
+    "members": "Members",
+    "groupTitle": "This group"
+  },
+  "sv": {
+    "leaveGroup": "Lämna grupp",
+    "groupInvite": {
+      "title": "Gruppinbjudan",
+      "share_link_label": "bjuda in någon"
+    },
+    "groupPrivacy": {
+      "hide_group": "Privat grupp"
+    },
+    "name": "Namn",
+    "screenTitle": "Gruppinställningar",
+    "noTopic": "Inget ämne",
+    "startDate": "Startdatum",
+    "selectTopic": "Välj ämne",
+    "textLengthError": "Minst {{charLength}} karaktärer",
+    "settingsTitle": "### Nästa gruppsamtal",
+    "groupLanguage": {
+      "title": "Språk"
+    },
+    "members": "Medlemmar",
+    "groupTitle": "Gruppen"
+  },
+  "pt": {
+    "leaveGroup": "Sair do grupo",
+    "groupInvite": {
+      "title": "Convite do grupo",
+      "share_link_label": "Convida alguém"
+    },
+    "groupPrivacy": {
+      "hide_group": "Privacidade do grupo"
+    },
+    "name": "Nome",
+    "screenTitle": "Configurações do Grupo",
+    "noTopic": "Nenhum tópico",
+    "startDate": "Data início",
+    "selectTopic": "Selecionar tópico",
+    "textLengthError": "Mínimo de {{charLength}} caracteres",
+    "settingsTitle": "### Próxima partilha",
+    "groupLanguage": {
+      "title": "Idioma"
+    },
+    "members": "Membros",
+    "groupTitle": "Este grupo"
+  }
+}

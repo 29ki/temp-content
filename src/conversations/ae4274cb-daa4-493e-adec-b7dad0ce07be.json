@@ -1,0 +1,209 @@
+{
+  "en": {
+    "id": "ae4274cb-daa4-493e-adec-b7dad0ce07be",
+    "alias": "Acting with purpose 3: The anxiety loop-3",
+    "root": "ccc8bfff-56e0-45e6-95e5-eed5b1322b41",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ccc8bfff-56e0-45e6-95e5-eed5b1322b41",
+        "alias": "Section 1",
+        "content": "While unpleasant, feeling **anxious** is normal. Remember that emotions can't harm you.\n\nAnxiety can be sign of an **unexpressed** or **unmet** **need**. In other words, whenever you notice your thoughts constantly returning to the issue you're worried about, read it as a **signal** that it's time to tend to your own needs.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "735c36fa-1d54-46c7-b3b8-1038e9820be0"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629900743/free-nature-stock-OQfuugXSfH0-unsplash_pxfizm.jpg",
+        "title": "My needs"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "735c36fa-1d54-46c7-b3b8-1038e9820be0",
+        "longDescription": "Take a moment to reflect. Write down your answers.\n\n1. What do I **need** right now?\n2. What can I do to **take care** of myself right now?\n3. If you find it hard to **identify** your needs, try asking yourself: If a **friend** of mine was in the same situation, what **advice** would I given them?",
+        "title": "Exercise",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "a0d171c3-0f8e-47c5-84a7-d6fb5f294d49"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a0d171c3-0f8e-47c5-84a7-d6fb5f294d49",
+        "alias": "Section 3",
+        "content": "4. List **3-5 alternative behaviors** that are in line with your **needs** and that would help break your anxiety loop.\n5. **Choose** **one** simple action that you can do right now.\n6. Plan **when** and **where** you'll do it.\n7. **Save** the list somewhere you can access easily and use it whenever you need.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "98a929c8-56ab-4595-96f3-784756ddb529"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Examples:",
+            "description": "*Practice acceptance, meditate before work, express my needs, set boundaries.*"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "98a929c8-56ab-4595-96f3-784756ddb529",
+        "alias": "Section 4",
+        "content": "Another way to break the anxiety loop is by **doing** **something** for **others**. We know that this might be **hard** when we're in the middle of a challenging situation.\n\nBut **empathy** and **perspective** taking can help us get out of our own head and see things through a different lense.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's try it",
+            "sectionId": "ae07353a-c324-4614-b9f6-1d9001d14a68"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "ae07353a-c324-4614-b9f6-1d9001d14a68",
+        "alias": "Section 5",
+        "title": "Exercise",
+        "longDescription": "Write down your answers.\n\n1. Think about the **needs** of **another** **person**. It can be someone close to you or a complete stranger.\n2. Thinking from their **perspective**, is there anything you can do for this person that would **help** them or that they would **appreciate**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "c4f6b45c-3fe6-4a2c-b47d-baf431be0bbc"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "c4f6b45c-3fe6-4a2c-b47d-baf431be0bbc",
+        "alias": "Section 6",
+        "title": "",
+        "longDescription": "3. **Choose** one simple action that you can do right now. Plan when and where you'll do it.\n\nFor example: *Go shopping for a neighbour, express gratitude to a parent, send a text to your friend, offer your seat to an older person.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "d2985929-519a-48f4-afdd-1735ad76cc13"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "d2985929-519a-48f4-afdd-1735ad76cc13",
+        "alias": "Sharing question",
+        "question": "What happened to your anxiety when you were thinking about the other persons needs?",
+        "exampleText": "I actually felt less anxious.",
+        "nextSection": "78db2d97-9dd0-4f1d-a896-61538cb0c5e7"
+      },
+      {
+        "type": "video",
+        "id": "78db2d97-9dd0-4f1d-a896-61538cb0c5e7",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "212e0b43-bb96-4b83-9e9a-dafbca787699"
+          }
+        ],
+        "alias": "Section 8",
+        "title": "My story",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635758138/Screenshot_2021-11-01_101444_japsag.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/lesson1.mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "212e0b43-bb96-4b83-9e9a-dafbca787699",
+        "alias": "Section 9",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "cb7ed006-f5d3-44bb-8807-426ee0120167",
+            "content": "Done"
+          }
+        ],
+        "title": "My story - Jan Eliasson",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635758361/Screenshot_2021-11-01_101902_k9sa9a.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_exercise2.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "ae4274cb-daa4-493e-adec-b7dad0ce07be",
+    "alias": "Acting with purpose 3: The anxiety loop-3",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "Stängning",
+        "content": "Du har lärt dig\n\n* Att fokusera på din andning istället för att springa med svåra känslor.\n* Att märka när du matar ångest- eller orosmonsteret.\n* Att fokusera på andras behov kan underlätta din egen börda.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ],
+        "alias": "section11"
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "Du är nu redo att dela med din grupp.\n\nKom ihåg de saker du kommer att dela\n\n1. Vad valde du att göra och för vem?\n2. Vad hände med din ångest när du tänkte på personens behov?\n3. Hur kändes det efteråt?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ],
+        "alias": "section12"
+      }
+    ]
+  },
+  "pt": {
+    "id": "ae4274cb-daa4-493e-adec-b7dad0ce07be",
+    "alias": "Acting with purpose 3: The anxiety loop-3",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Agora já podes partilhar com o teu grupo.\n\nLembra-te do que vais partilhar.\n\n1. O que escolheste fazer e por quem?\n2. Qual era o teu estado de ansiedade quando pensaste acerca das necessidades dessa pessoa?\n3. Como te sentiste depois?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

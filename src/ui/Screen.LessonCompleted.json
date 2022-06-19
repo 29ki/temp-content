@@ -1,0 +1,20 @@
+{
+  "en": {
+    "defaultContent__markdown": "Well done. You've completed the **{{lessonName}}** lesson, you’ve just done a wonderful thing for yourself.",
+    "defaultHeadline__markdown": "# Well ~~done!~~",
+    "shareWithFriend": "Share this exercise with a friend",
+    "close": "Close"
+  },
+  "sv": {
+    "defaultContent__markdown": "Bra jobbat, du har slutfört övningen **{{lessonName}}.** Du har gjort något värdefullt för dig själv.",
+    "defaultHeadline__markdown": "# Bra ~~jobbat!~~",
+    "shareWithFriend": "Dela övningen med en vän",
+    "close": "Stäng"
+  },
+  "pt": {
+    "defaultContent__markdown": "Parabéns. Completaste a lição **{{lessonName}}.** Mais um passo muito importante para o teu desenvolvimento e bem-estar.",
+    "defaultHeadline__markdown": "# ~~Parabéns!~~",
+    "shareWithFriend": "Partilha este exercício com uma amiga/o",
+    "close": "Fechar"
+  }
+}

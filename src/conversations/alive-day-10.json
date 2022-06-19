@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-10",
     "alias": "alive-day-10",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-10",
-        "alias": "alive-day-10",
-        "nextConversationId": "alive-day-11",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 10",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay10rev1",
           "days": 0,
           "hours": 8,
           "minutes": 49,
-          "title": "Alive Day 10 Mission",
-          "body": "Recall a great time you had with someone. How were you being yourself? Please write down 3 ways you can be that type of person, now."
+          "title": "Alive Day 10 Quest",
+          "body": "Today, when you’re unsure of how to do something, think of someone who’d be a natural at it and act like them. Notice why you found this helpful or unhelpful."
+        },
+        "sharingWall": {
+          "question": "Why was this helpful or unhelpful to do?",
+          "exampleText": "I felt like sort of a fake, but also realised that I could do it!"
         },
         "followUp": {
+          "id": "followUpDay10",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 10 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-10",
+        "nextConversationId": "alive-day-11",
+        "type": "microInterventionDay",
+        "id": "alive-day-10"
       }
     ]
   },
   "sv": {
     "id": "alive-day-10",
     "alias": "alive-day-10",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-10",
-        "alias": "alive-day-10",
-        "nextConversationId": "alive-day-11",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 10",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 10",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 10",
-          "body": "Recall a great time you had with someone. How were you being yourself? Please write down 3 ways you can be that type of person, now."
+          "title": "Uppdrag dag 10",
+          "body": "Under dagen, när du känner dig osäker på hur du ska göra något, låtsas att du är en naturbegåvning. Lägg märke till om du tyckte det var hjälpsamt.",
+          "id": "aliveDay10rev1swe"
+        },
+        "sharingWall": {
+          "question": "Var det här hjälpsamt för dig? Om ja, varför? Om nej, varför inte?",
+          "exampleText": "Jag kände mig som en bluff, men märkte också att jag kunde göra det!"
         },
         "followUp": {
+          "id": "followUpDay10",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 10 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 10 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-10",
+        "nextConversationId": "alive-day-11",
+        "type": "microInterventionDay",
+        "id": "alive-day-10"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-10",
+    "alias": "alive-day-10",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 10",
+        "task": {
+          "id": "aliveDay10rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 49,
+          "title": "Desafio ALIVE dia 10",
+          "body": "Hoje, quando estiveres insegura/o em como fazer uma coisa, pensa em alguém que a costuma fazer naturalmente e age como essa pessoa. Achaste esta atitude útil ou inútil?"
+        },
+        "sharingWall": {
+          "question": "Sentiste que esta estratégia foi útil?",
+          "exampleText": "Senti algum desconforto mas percebi que afinal conseguia fazer o que precisava."
+        },
+        "followUp": {
+          "id": "followUpDay10",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 10 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-10",
+        "nextConversationId": "alive-day-11",
+        "type": "microInterventionDay",
+        "id": "alive-day-10"
       }
     ]
   }

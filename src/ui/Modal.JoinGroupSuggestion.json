@@ -1,0 +1,17 @@
+{
+  "en": {
+    "body": "The next step is to share your experience with others.",
+    "tellGroup_button": "Tell your group how it felt",
+    "findGroup_button": "Choose your sharing group"
+  },
+  "sv": {
+    "body": "Nästa steg är att dela dina upplevelser med andra.",
+    "tellGroup_button": "Berätta för din grupp hur det kändes",
+    "findGroup_button": "Välj din delningsgrupp"
+  },
+  "pt": {
+    "body": "O próximo passo será partilhares as tuas experiências com os outros.",
+    "tellGroup_button": "Partilha com o grupo como te sentiste.",
+    "findGroup_button": "Escolhe o teu grupo de partilha."
+  }
+}

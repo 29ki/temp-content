@@ -1,0 +1,373 @@
+{
+  "en": {
+    "id": "resilience-and-stress-saying-no-and-yes-4",
+    "alias": "resilience-and-stress-saying-no-and-yes-4",
+    "root": "17961d5d-a261-4326-bbd2-c05ccca44ba5",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "17961d5d-a261-4326-bbd2-c05ccca44ba5",
+        "longDescription": "Write down your answers.\n\n1. Think of a **situation** where you said **yes** to something even though you **didn’t** really **want** to. Describe what **happened** and if it **stopped** you from doing something else that you value more.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "d1380a63-0f9e-4326-9299-b21240d96027"
+          }
+        ],
+        "shortDescription": "",
+        "title": "Exercise",
+        "alias": "Exercise pt1"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "d1380a63-0f9e-4326-9299-b21240d96027",
+        "longDescription": "2. Try to think of a situation or an area in your life where it would be **helpful** for you to say **no**. Make concrete plans about how you want to respond when you get the question.\n3. If you say no to this, what **other things** will you be able to say **yes** to?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Completed",
+            "sectionId": "49c90d99-53e3-4577-8386-416c23a896b1"
+          }
+        ],
+        "alias": "Exercise pt 2"
+      },
+      {
+        "type": "audio",
+        "id": "49c90d99-53e3-4577-8386-416c23a896b1",
+        "title": "The breathing anchor",
+        "alias": "The breathing anchor",
+        "description": "Before moving on, try this **meditation** to help you feel more **mindful** and **present.** It will **prepare** you for the next step of the lesson.\n\nPress the play-button to get started.",
+        "duration": "06:45",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Saying yes",
+        "content": "Just like we need to practice saying no to certain things, it's important to say yes to things we want to do. To the things that **matter** to us **in the long run.**\n\nIn stressful situations, many of us **automatically** **turn down** opportunities to recharge our batteries, such as taking a lunch break, a walk with a friend, exercising or other social activities.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "More",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "editorialWithImage",
+        "title": "Examine what you want",
+        "content": "Your next step is to **examine** what you're longing for in situations where you might be prone to say no when you actually want to say **yes**.\n\nSo, let’s look inwards again. This time, find an **area** where it would be useful for you to say yes more often.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's go",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "alias": "section14",
+        "type": "writing",
+        "title": "Exercise",
+        "longDescription": "Write down your answers.\n\n1. Think of a situation where you said **no** to something **even** **though** it was something that most likely would've **charged** your **batteries** in the long run. \n2. Describe what **happened** and how it impacted you.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "3297334e-af49-44aa-9df4-a54c679efb7d",
+        "longDescription": "3. Make a **plan** for the next time a similar situation comes up. **How** can you remind yourself that this is something you value, something that you really would **benefit** from saying yes to?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Finished",
+            "sectionId": "section15"
+          }
+        ],
+        "alias": "Exercise pt2"
+      },
+      {
+        "id": "section15",
+        "alias": "section15",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Good job on completing **Saying no and yes!**\n\nIn this lesson, you’ve committed to saying yes to what's important to you in the long run. Doing so can help you reduce feelings of stress and make you feel better.\n\nYou've also practiced saying no, either because you don't want to do something, or because your schedule is already full.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next step",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "alias": "section16",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next step — to share with your group. \n\nRemember the questions:\n\n1. A situation in your life where you said yes to something even though you really didn’t want to, and if it stopped you from doing something you valued.\n2. Something in your life that it would be helpful for you to say no to and your plan on how you want to respond. Also, your thoughts about what saying no will allow you to say yes to.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-saying-no-and-yes-4",
+    "alias": "resilience-and-stress-saying-no-and-yes-4",
+    "root": "section12",
+    "sections": [
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "writing",
+        "title": "Övning",
+        "question": "",
+        "longDescription": "Skriv ned dina svar.\n\n1. Tänk på en **situation** där du sa **ja** till något fast att du egentligen **inte** **ville.** Beskriv vad som **hände** och om det **hindrade** dig från att göra något annat som du tycker är viktigt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "a2265ebe-7bf3-48d6-b30b-ff139602f5c0"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "a2265ebe-7bf3-48d6-b30b-ff139602f5c0",
+        "longDescription": "2. Försök att tänka på en situation eller ett område i ditt liv där det skulle vara till **hjälp** för dig att säga **nej**. Gör konkreta planer för hur du vill svara när du får frågan.\n3. Om du säger nej till det här, vilka **andra** **saker** skulle du kunna säga **ja** till istället?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Färdig",
+            "sectionId": "f870aea6-5452-42c3-8215-f52e2e550be6"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "f870aea6-5452-42c3-8215-f52e2e550be6",
+        "alias": "Video",
+        "title": "Att behöva säga nej",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_attsaganejochja_ovning1.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622488770/Hantera Stress Adult/attsäganejochja_övning1_k99cc4.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "audio",
+        "title": "Andningsankret",
+        "description": "Innan du går vidare, prova den här **meditationen**. Den kan hjälpa dig bli mer **närvarande** i stunden och samtidigt **förbereda** dig för nästa steg i lektionen.\n\nTryck på play-knappen för att sätta igång.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv/Andningsankaret.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section14"
+          }
+        ],
+        "duration": "06:45"
+      },
+      {
+        "id": "section14",
+        "alias": "section14",
+        "type": "editorialWithImage",
+        "title": "Att säga ja",
+        "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi vill göra och mår bra av. Till sakerna som **spelar roll i längden.**\n\nNär vi är stressade är det lätt att vi **automatiskt** säger **nej** till saker som egentligen skulle kunna ladda våra batterier, som att ta lunchrast, en promenad med en vän, träna, eller sociala aktiviteter.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mer",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "alias": "section15",
+        "type": "editorialWithImage",
+        "title": "Undersök vad du vill",
+        "content": "Ditt nästa steg är att **undersöka** vad du faktiskt vill i situationer där det kan vara lätt att säga nej, fast du **egentligen** vill säga **ja**. \n\nSå, låt oss titta inåt igen. Den här gången, se om du kan hitta ett **område** där det skulle vara bra för dig att säga ja oftare.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "alias": "section16",
+        "type": "writing",
+        "title": "Övning",
+        "longDescription": "Skriv ned dina svar.\n\n1. Tänk på en situation där du sa **nej** till något **trots** att det var en aktivitet som förmodligen skulle ha **laddat** dina **batterier** på lång sikt. \n2. Beskriv vad som **hände** och hur det **påverkade** dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "section17"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "0dc0ef48-4d18-4d9e-98d2-11e17e868cfa",
+        "longDescription": "3. Gör en **plan** inför nästa gång du hamnar i en liknande situation. **Hur** kan du påminna dig själv om att det här är något du tycker är viktigt, något du egentligen vill säga ja till?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "section17"
+          }
+        ]
+      },
+      {
+        "id": "section17",
+        "alias": "section17",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Bra gjort, du har nu gjort klart **Att säga nej — och ja**.\n\nI den här lektionen har du övat på att sätta gränser och säga **nej** — antingen för att du inte vill göra något, eller för att ditt schema redan är **fullt**.\n\nDu har också bestämt dig för att försöka säga ja till det som är viktigt för dig i längden.  Det kan hjälpa dig att **minska** känslor av **stress** och få dig att **må bättre**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa steg",
+            "sectionId": "section18"
+          }
+        ]
+      },
+      {
+        "id": "section18",
+        "alias": "section18",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Du är nu redo för nästa steg — att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. En situation i ditt liv där du sade ja till något fast du egentligen inte ville, och som kanske hindrade dig att göra något annat som du tycker är viktigt. \n2. En situation i ditt liv där det skulle vara bra för dig att säga nej, och hur du kan säga nej. \n3. Dina tankar kring vad detta nej skulle hjälpa dig att säga ja till för andra saker.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-saying-no-and-yes-4",
+    "alias": "resilience-and-stress-saying-no-and-yes-4",
+    "root": "section12",
+    "sections": [
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Dizer sim ao que queres",
+        "content": "Dizer não nem sempre é uma boa estratégia a longo prazo - pode ser inflexível e impedir-nos de seguir os nossos valores.\n\nEm situações stressantes, muitos de nós recusamos automaticamente as oportunidades para recarregar as baterias, como fazer uma pausa para o almoço, caminhar com um/a amiga/o, fazer exercício ou ir a eventos sociais.\n\nTemos de dizer sim às coisas que realmente queremos, às coisas que valorizamos a longo prazo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "editorialWithImage",
+        "title": "Saberes o que queres",
+        "content": "A próxima etapa é examinar o que desejas nas situações em que tendas a dizer não, quando na verdade queres dizer sim.\n\nVamos olhar para o nosso interior novamente. Desta vez, encontra uma área onde seria útil dizeres sim com mais frequência.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "alias": "section14",
+        "type": "writing",
+        "title": " Dizer sim a atividades que valorizas",
+        "longDescription": "* Pensa numa situação em que disseste não a alguma coisa, embora essa coisa provavelmente te permitisse recarregar as baterias a longo prazo. Descreve o que aconteceu e se isso te impediu de fazer algo que valorizavas.\n* Faz um plano para a próxima vez em que surja uma situação semelhante. Como é que te podes lembrar que isso é algo que valorizas? Como vais lidar com isso da próxima vez?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "alias": "section15",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Parabéns, já concluíste **Dizer não - e sim**.\n\nAnalizaste uma situação em que gostarias de mudar a forma como definiste os teus limites e fizeste um plano para dizer sim a algo que é importante para ti a longo prazo. Estas competências são ótimas para melhorar as relações e diminuir os sentimentos de stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "alias": "section16",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Agora já podes partilhar com o teu grupo. Lembra-te das coisas que tens para partilhar:\n\n1. Uma situação na tua vida em que disseste sim a alguma coisa embora realmente não o quisesses fazer e se isso te impediu de fazeres algo que valorizavas.\n2. Alguma coisa na tua vida à qual seria útil dizeres que não e o teu plano para como desejas reagir. E ainda a tua reflexão acerca das coisas a que vais poder dizer sim como resultado desse não.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

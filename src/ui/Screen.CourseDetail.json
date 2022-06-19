@@ -1,0 +1,193 @@
+{
+  "en": {
+    "tryLessonButton": "Try",
+    "with": "with",
+    "about": {
+      "whatWillILearn": "",
+      "tabTitle": "About",
+      "readMore": {
+        "read": "Read",
+        "more": "more"
+      },
+      "howDoesItWork": {
+        "title": "How does it work?",
+        "sections": [
+          {
+            "title": "First...",
+            "steps": [
+              {
+                "text": "Join a sharing group by starting the course.",
+                "icon": "calendar"
+              }
+            ]
+          },
+          {
+            "title": "Then, each week...",
+            "steps": [
+              {
+                "text": "Take the lesson of the week.",
+                "icon": "exercise"
+              },
+              {
+                "text": "Get group support through your text-chat.",
+                "icon": "texting"
+              },
+              {
+                "text": "After 7 days there’s a live-video session with your group.",
+                "icon": "sharing"
+              }
+            ]
+          },
+          {
+            "title": "After {{courseDuration}} weeks...",
+            "steps": [
+              {
+                "text": "You have finished the course!",
+                "icon": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "courseStatus": {
+      "started": "Started",
+      "paused": "Paused",
+      "completed": "Finished"
+    },
+    "takeCourseButton": "Do this course with others",
+    "lessons": {
+      "tabTitle": "Lessons",
+      "availableSoon": "Available soon",
+      "sharingCompleted": "Sharing completed",
+      "sharingUpcoming": "Upcoming sharing",
+      "sharingUpcomingOn": "Sharing on"
+    }
+  },
+  "sv": {
+    "takeCourseButton": "Gå kursen med andra",
+    "tryLessonButton": "Prova",
+    "with": "med",
+    "lessons": {
+      "tabTitle": "Lektioner",
+      "availableSoon": "Kommer snart",
+      "sharingCompleted": "Delning klar",
+      "sharingUpcoming": "Kommande delning",
+      "sharingUpcomingOn": "Delning på"
+    },
+    "about": {
+      "whatWillILearn": "",
+      "tabTitle": "Om",
+      "readMore": {
+        "read": "Läs",
+        "more": "mer"
+      },
+      "howDoesItWork": {
+        "title": "Hur fungerar det?",
+        "sections": [
+          {
+            "title": "Först...",
+            "steps": [
+              {
+                "text": "Registrera dig på kursen och gå med i en delningsgrupp ",
+                "icon": "calendar"
+              }
+            ]
+          },
+          {
+            "title": "Varje vecka...",
+            "steps": [
+              {
+                "text": "Gör veckans lektion",
+                "icon": "exercise"
+              },
+              {
+                "text": "Diskutera med din grupp i chatten.",
+                "icon": "texting"
+              },
+              {
+                "text": "Varje vecka har du en videodelning tillsammans med din grupp.",
+                "icon": "sharing"
+              }
+            ]
+          },
+          {
+            "title": "Efter {{courseDuration}} veckor...",
+            "steps": [
+              {
+                "text": "Du är klar!",
+                "icon": ""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "pt": {
+    "tryLessonButton": "Experimenta",
+    "with": "com",
+    "about": {
+      "whatWillILearn": "",
+      "tabTitle": "Acerca",
+      "readMore": {
+        "read": "Ler",
+        "more": "mais"
+      },
+      "howDoesItWork": {
+        "title": "Como funciona?",
+        "sections": [
+          {
+            "title": "Primeiro...",
+            "steps": [
+              {
+                "text": "Ao iniciares o curso, junta-te a um grupo de partilha.",
+                "icon": "calendar"
+              }
+            ]
+          },
+          {
+            "title": "Depois, todas as semanas...",
+            "steps": [
+              {
+                "text": "Faz a lição da semana.",
+                "icon": "exercise"
+              },
+              {
+                "text": "Pratica diariamente e obtém apoio do grupo através das mensagens de chat.",
+                "icon": "texting"
+              },
+              {
+                "text": "Ao fim de 7 dias, tens uma sessão de partilha de vídeo ao vivo com o teu grupo.",
+                "icon": "sharing"
+              }
+            ]
+          },
+          {
+            "title": "Depois de {{courseDuration}} semanas...",
+            "steps": [
+              {
+                "text": "Terminas o curso!",
+                "icon": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "courseStatus": {
+      "started": "Iniciado",
+      "paused": "Em pausa",
+      "completed": "Completo"
+    },
+    "takeCourseButton": "Faz este curso com outras pessoas",
+    "lessons": {
+      "tabTitle": "Lições",
+      "availableSoon": "Disponível brevemente",
+      "sharingCompleted": "Partilha completa",
+      "sharingUpcoming": "Próxima partilha",
+      "sharingUpcomingOn": "Partilha em "
+    }
+  }
+}
+

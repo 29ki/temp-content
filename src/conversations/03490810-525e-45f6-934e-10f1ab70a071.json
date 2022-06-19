@@ -1,0 +1,300 @@
+{
+  "en": {
+    "id": "03490810-525e-45f6-934e-10f1ab70a071",
+    "alias": "Nourishing relationships 2: Reframing vulnerability-3",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "The following meditation will help you **expand** your **comfort** **zone** in a relationship.\n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_steppingoutofyourcomfortzone.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section7"
+          }
+        ],
+        "alias": "Meditation",
+        "duration": "06:07"
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "longDescription": "Write down your answers.\n\n1. Choose one **person** from your life that you want to have a better relationship with.\n2. Write down 3 things you **appreciate** about them.\n3. What **keeps** **you** from having a more meaningful relationship with this person?\n4. How do you think they would **react** if you expressed what you appreciate about them?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Finished",
+            "sectionId": "6abac30d-cae3-423e-aa9f-b87b25645aee"
+          }
+        ],
+        "alias": "Exercise I"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6abac30d-cae3-423e-aa9f-b87b25645aee",
+        "content": "5. What would **help** you **open** up to this person? (e.g., recognizing what I need to feel safe, taking baby steps such as by saying “*I like spending time with you*” rather than “*I love you*”).\n6. Now it's time to **reach** **out** to the person you have in mind. You can call, text, email, video call them or even meet up in person if your circumstances allow it.\n7. Afterwards, **reflect** on how you were received and how this made you feel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I've reached out",
+            "sectionId": "7be6dac6-809c-406b-83fe-f6911224928c"
+          }
+        ],
+        "alias": "Exercise II"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "7be6dac6-809c-406b-83fe-f6911224928c",
+        "alias": "Sharing question",
+        "exampleText": "A whirlwind of emotions, ranging from fear to happiness. I was scared about how they'd react and if they would reply. After reaching out I felt proud about breaking a pattern and trying something new. ",
+        "question": "What did you experience during this exercise?",
+        "nextSection": "section6"
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "title": "My story",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "52191bb0-6366-4d15-90a5-32dbf7c63a0a"
+          }
+        ],
+        "alias": "6",
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson2.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "52191bb0-6366-4d15-90a5-32dbf7c63a0a",
+        "content": "Well done for completing **Reframing Vulnerability.**\n\nBy learning to recognise your defense mechanisms, you've taken **concrete** steps towards **opening** up. \n\nYou've also opened up to another person, and by doing so increasing the chance of your trust in each other becoming greater.\n\nRemember that you only have **control** over **your** own **behaviour**, not others'. If it doesn't end the way you want it to this time, you've still done what you can to **deepen** the relationship. And you can be proud of that!",
+        "title": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next step",
+            "sectionId": "section8"
+          }
+        ],
+        "alias": "Summary"
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next important step — sharing with your group.\n\nRemember the questions:\n\n* Did you recognise any of the defense mechanisms?\n* Whom did you decide to reach out to?\n* What has kept you from reaching out to them before?\n* How did this person respond when you expressed your thoughts and feelings?\n* How did you feel after reaching out to this person?\n* What helps you open up to other people?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ],
+        "alias": "Sharing"
+      }
+    ]
+  },
+  "sv": {
+    "id": "03490810-525e-45f6-934e-10f1ab70a071",
+    "alias": "Nourishing relationships 2: Reframing vulnerability-3",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "8a869819-e17c-463a-88f0-5095e65f534f"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/973c6250-9136-4f24-a212-10532e42e2b3/photo-1432713643391-77a1b3f57e84.jpg",
+        "duration": "7:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1619103247/Meditations/Stepping_out_of_your_comfort_zone_swedish_-_2021-04-22_14.22_m4mbjy.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "9c09a060-e3f9-4355-a899-b2e7fda82a27",
+        "description": "Den här meditationen hjälper dig komma utanför din bekvämlighets-zon i en relation.\n\nTryck på play för att börja."
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "8a869819-e17c-463a-88f0-5095e65f534f",
+        "alias": "Exercise I",
+        "title": "Övning",
+        "longDescription": "Skriv ned dina svar.\n\n1. Välj en **person** i ditt liv som du vill ha en bättre relation med.\n2. Skriv ner tre saker du **uppskattar** med hen.\n3. Vad **hindrar** dig från att ha en mer meningsfull relation med den här personen?\n4. Hur tror du personen skulle **reagera** om du berättar vad det är du uppskattar med hen?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Färdig",
+            "sectionId": "8e24fd3a-11bc-4c6e-9eec-96a8a1ceb005"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8e24fd3a-11bc-4c6e-9eec-96a8a1ceb005",
+        "alias": "Exercise II",
+        "content": "5. Vad skulle **hjälpa** dig **öppna** dig för den här personen? (t.ex. tänka ut vad jag behöver för att känna mig trygg, ta små steg som att säga \"*Jag gillar att umgås med dig*\" snarare än \"*Jag älskar dig*\").\n6. Nu är det dags att kontakta **personen** du tänker på. Du kan ringa, sms:a, mejla, videosamtala eller träffas personligen om omständigheterna tillåter det.\n7. Efteråt: **reflektera** över hur du togs emot och hur det kändes för dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag har hört av mig",
+            "sectionId": "75ec2a2b-e7a0-4835-9cc9-bf91d6f54e66"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "75ec2a2b-e7a0-4835-9cc9-bf91d6f54e66",
+        "alias": "Sharing question",
+        "question": "Vad upplevde du under den här övningen?",
+        "exampleText": "En virvelvind av känslor, allt från rädsla till lycka. Jag var rädd för hur reaktionen och om jag skulle få något svar. Efter att ha hört av mig kände jag mig stolt över att ha brutit ett mönster och istället provat något nytt.",
+        "nextSection": "6636f93d-9935-4296-a8cf-50c28cb3f7f6"
+      },
+      {
+        "type": "video",
+        "id": "6636f93d-9935-4296-a8cf-50c28cb3f7f6",
+        "alias": "Min berättelse",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "8128d0e4-3523-478e-b6e6-a4ef31ed3723"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson2.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1625139120/Nourishing%20relationships%20in%20times%20of%20turmoil/Swedish%20subtitles/reframingvulnerability_xsba7q.vtt"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8128d0e4-3523-478e-b6e6-a4ef31ed3723",
+        "alias": "Sammanfattning",
+        "title": "Sammanfattning",
+        "content": "Du har precis gjort färdigt **Visa sårbarhet**, bra jobbat!\n\nGenom att lära dig känna igen dina försvarsmekanismer har du tagit **konkreta** steg mot att våga **öppna dig**.\n\nDu har också öppnat dig för en annan person och på så vis ökat chansen att ert gemensamma **förtroende** för varandra stiger.\n\nKom ihåg att du bara har **kontroll** över **ditt** eget **beteende**, inte andras. Om det inte slutar som du vill den här gången, så har du ändå gjort det **du** kan för att fördjupa er relation. Och det kan du vara stolt över.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "37e7d38a-6b26-4511-8da9-83b86ecbd0ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "37e7d38a-6b26-4511-8da9-83b86ecbd0ca",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ],
+        "alias": "Sharing",
+        "content": "Du är nu redo för nästa viktiga steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n* Kände du igen någon av **försvarsmekanismerna**?\n* Vem bestämde du dig för att **kontakta**?\n* Vad har **hindrat** dig från att nå ut till dem tidigare?\n* Hur **reagerade** den här personen när du uttryckte dina tankar och känslor?\n* Hur **kände** du dig efter att ha kontaktat den här personen?\n* Vad **hjälper** dig att öppna dig för andra människor?"
+      }
+    ],
+    "root": "9c09a060-e3f9-4355-a899-b2e7fda82a27"
+  },
+  "pt": {
+    "id": "03490810-525e-45f6-934e-10f1ab70a071",
+    "alias": "Nourishing relationships 2: Reframing vulnerability-3",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Expandir a tua zona de conforto",
+        "content": "A palavra \"coragem\" significa tradicionalmente \"dizer o que se pensa, abrindo o nosso coração\".\n\nIsto não significa que tenhas de revelar tudo o que está na tua cabeça neste momento. Na verdade, a coragem é abrires-te e correres pequenos riscos, mesmo que te sintas desconfortável.\n\nA meditação seguinte vai ajudar-te a expandir a tua zona de conforto numa relação e a correr riscos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação cria uma base para saíres da tua zona de conforto e te preparares para o próximo exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523413/29k%20FJN/Meditations/Joanna%20Final/Stepping_Out_of_your_Comfort_Zone_xyxirc.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "title": "A minha história",
+        "description": "\"Sinto que se dissesse a essa pessoa o que sinto, essa pessoa não ia entender e ia combater essa minha sensação e ia rebater os meus argumentos (…).\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621406588/29k%20FJN/Courses/Nourishing%20Relationships/Photos/3nourishingrelationships_reframing_beuhsl.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621936372/29k%20FJN/Courses/Nourishing%20Relationships/Videos%20Final/L2_Nourishing_relationships_in_times_of_turmoil_V1_ksp5al.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "longDescription": "1. Escolhe uma pessoa da tua vida com quem queiras ter uma relação melhor.\n2. Escreve 3 coisas pelas quais a aprecias.\n3. O que te impede de teres uma relação mais significativa com essa pessoa?\n4. Como achas que ela reagiria se expressasses que a aprecias?\n5. O que te poderia ajudar a abrires-te com essa pessoa? (por exemplo, reconhecer o que precisas para te sentires segura/o, dares passos pequeninos como dizer \"gosto de passar tempo contigo\" em vez de \"amo-te\").\n6. Contacta a pessoa em questão. Podes telefonar, enviar uma mensagem ou um email, fazer uma videochamada ou encontrará-la mesmo pessoalmente, se as circunstâncias o permitirem.\n7. Depois, reflete sobre como foste recebida/o e como isso te fez sentir.\n\nEscreve as tuas respostas - poderás partilhá-las com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares **Reformular a Vulnerabilidade**.\n\nAgora podes dar o passo seguinte - a partilha em grupo.\n\nPartilha as tuas respostas e reflexões sobre este exercício:\n\n* Quem decidiste contactar?\n* O que valorizas nessa pessoa?\n* O que te impediu de a contactares antes?\n* Como é que esta pessoa reagiu quando expressaste os teus pensamentos e sentimentos?\n* Fizeste alguma coisa que te ajudou a abrir mais facilmente?\n* Como te sentiste depois de contactares essa pessoa?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "en": {
+    "id": "K12W56Qapx57nppRtyzioE-2",
+    "alias": "Self compassion - Self-care tool 2",
+    "type": "lesson",
+    "root": "b4b86b6d-1268-46dd-8b45-8268be77c87c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b4b86b6d-1268-46dd-8b45-8268be77c87c",
+        "alias": "Quote",
+        "content": "> \"Maybe if I would practice this more in small situations, I would be more equipped to manage the really big stuff.\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1638795193/Self%20Compassion/Yoga_Girl_006655_hth48z.jpg"
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "When we struggle",
+        "topImageUri": "",
+        "title": "It’s when we struggle the most, we’re often the hardest on ourselves.",
+        "content": "It’s easy to believe that being nice to ourselves makes us weak. \n\nSoft. Unmotivated. \n\nSo we push. Harder.\n\n#### But research shows that the opposite is true.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "How so?",
+            "sectionId": "cc8a17ae-0f09-46cd-9c85-1e1c7e78c9ad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cc8a17ae-0f09-46cd-9c85-1e1c7e78c9ad",
+        "content": "#### **Compassion** makes us stronger, more motivated and resilient.\n\nTo train this ability, you start by noticing the small everyday situations when you lose your footing. Let’s start by listening to an example of when Rachel caught herself.",
+        "alias": "About compassion",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Rachel on being overwhelmed",
+        "title": "Becoming overwhelmed",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/self_care_tool/video-images/yogagirl_selfcaretool_exercise1.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622207139/Self%20Compassion/selfcaretool_exercise1_hsn2c3.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639739022/Self%20Compassion/Subtitles/selfcaretool-exercise1-hsn2c3_1_llxgnq.vtt"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Quote",
+        "topImageUri": "",
+        "title": "",
+        "content": "> \"It’s difficult for me to feel grounded when I feel overwhelmed, when I feel stress and pressure.\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "K12W56Qapx57nppRtyzioE-3"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "K12W56Qapx57nppRtyzioE-2",
+    "alias": "Self compassion - Self-care tool 2",
+    "type": "lesson",
+    "root": "b4b86b6d-1268-46dd-8b45-8268be77c87c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b4b86b6d-1268-46dd-8b45-8268be77c87c",
+        "alias": "Quote",
+        "content": "> ”Om jag skulle öva mer på detta i små situationer, skulle jag vara bättre rustad att hantera de riktigt stora grejerna”\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1638795193/Self%20Compassion/Yoga_Girl_006655_hth48z.jpg"
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "When we struggle",
+        "topImageUri": "",
+        "title": "Att vara hård mot sig själv",
+        "content": "När vi har det som jobbigast är vi ofta som hårdast mot oss själva. Det är lätt att tro att vara snälla mot oss själva gör oss svaga. \n\nMjuka. Omotiverade.\n\nSå vi pressar på. Hårdare.\n\n**Men forskning visar att det är precis tvärtom.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Hur då?",
+            "sectionId": "cc8a17ae-0f09-46cd-9c85-1e1c7e78c9ad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cc8a17ae-0f09-46cd-9c85-1e1c7e78c9ad",
+        "content": "**Självmedkänsla gör oss starkare, mer motiverade och motståndskraftiga.**\n\nFör att öva denna förmåga kan vi observera de små vardagssituationer när vi tappar fotfästet. Låt oss börja med att lyssna på ett exempel från Rachel.",
+        "alias": "Om medkänsla",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "section4"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Rachel on being overwhelmed",
+        "title": "Att bli överväldigad",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/self_care_tool/video-images/yogagirl_selfcaretool_exercise1.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622207139/Self%20Compassion/selfcaretool_exercise1_hsn2c3.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639739022/Self%20Compassion/Subtitles/selfcaretool-exercise1-hsn2c3_1_Swedish_erqdch.vtt"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Quote",
+        "topImageUri": "",
+        "title": "",
+        "content": "> \"Det är svårt för mig att känna fast mark under fötterna när jag blir överväldigad av något, när jag är stressad och känner mig pressad.\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "K12W56Qapx57nppRtyzioE-3"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "K12W56Qapx57nppRtyzioE-2",
+    "alias": "Self compassion - Self-care tool 2",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "alias": "Uma situação em que fico sem chão...",
+        "title": "Uma situação em que fico sem chão...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448859/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P1selfcareautocompaixao_mf6gg3.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622374570/29k%20FJN/Courses/Self%20Compassion/Videos%2020210530%20Update/FL_-_L5_Self_compassion_V1_anlygi.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "As ferramentas de autocuidado",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448859/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P2selfcareautocompaixao_h16jqa.jpg",
+        "title": "As ferramentas de autocuidado",
+        "content": "### É bom ter-te de volta.\n\nNesta sessão vais descobrir como podes melhorar a aperceberes-te de quando precisas de autocompaixão e como podes praticar o autocuidado durante tempos difíceis.\n\n### A investigação\n\nEsta sessão é inspirada no exercício do MSC \"A Pausa para a Autocompaixão\".\n\n### A sessão de hoje tem três partes:\n\n* Encontrar situações em que precisas de autocompaixão\n* Meditação para o autocuidado\n* Criar uma caixa de ferramentas para emergências\n\n### Preparação para esta sessão:\n\n* 30 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "As ferramentas de autocuidado",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448859/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P3selfcareautocompaixao_uzvukp.jpg",
+        "title": "As ferramentas de autocuidado",
+        "content": "### Muitas vezes, é nos momentos mais difíceis e desafiantes que somos mais duros para connosco.\n\nÉ fácil acreditarmos que sermos amáveis para connosco nos torna fracos, moles e desmotivados.\n\nPor isso, exigimos mais de nós. Cada vez mais.\n\nMas a investigação demonstra-nos precisamente o oposto. A autocompaixão torna-nos fortes, mais motivados e resilientes.\n\nPara desenvolver esta habilidade, primeiro tens de começar por notar quais são as pequenas situações diárias que te abalam. Vamos começar por ouvir um exemplo de quando a Fátima se apercebeu dessas situações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Ficar assoberbada/o",
+        "title": "Ficar assoberbada/o",
+        "description": "“É normal sentires o que estás a sentir. Só sentes isso porque tu não controlas e porque é imprevisível.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448859/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P4selcareyautocompaixao_jich0o.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895849/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L5_Self_compassion_V2_llnol2.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448860/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P5selfcareautocompaixao_jc5y6w.jpg",
+        "title": "Introdução",
+        "content": "Reflete sobre a tua última semana, procura escolher algumas situações em que perdeste a tua autocompaixão.\n\nTenta visualizar as situações e volta a elas, uma após a outra.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "### Completa as frases abaixo.\n\n* Uma situação em que senti que perdi o chão foi quando...\n* Normalmente sinto-me inadequada/o quando...\n* Quando mais preciso de autocuidado é quando...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ],
+        "question": "",
+        "time": "Tira 5 min",
+        "alias": "Perder o chão",
+        "title": "Perder o chão",
+        "type": "writing",
+        "id": "section6"
+      },
+      {
+        "id": "section7",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Convidamos-te para uma breve meditação que te vai preparar para a próxima parte da sessão.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523418/29k%20FJN/Meditations/Joanna%20Final/The_Way_Out_is_Throught_tgmfsb.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448860/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P8selfcareautocompaixao_fecgxg.jpg",
+        "title": "Introdução",
+        "content": "#### De que ferramentas estás a precisar?\n\nTodos nós somos colocados em situações em que nos é difícil cuidar de nós próprios.\n\nNessas alturas, é bom ter um plano. Uma caixa de ferramentas para emergências. Um conjunto de sugestões para lidar com uma situação desafiante, de uma forma que te permita ser autocompassiva/o.\n\nVamos então criar as tuas ferramentas. Vamos guiar-te através de três passos simples e pragmáticos, criados pelos Drs. Kristin Neff e Christopher Germer para o programa *Mindful Self-Compassion* (MSC). Vamos ajudar-te a criar as tuas próprias ferramentas.\n\nO que podes fazer para...\n\n1. Notar um momento de sofrimento\n2. Ver o sofrimento como uma parte de ser humano\n3. Agir com bondade para contigo",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "#### Constrói a tua caixa de ferramentas para emergências\n\n#### 1. Apercebe-te de um momento de sofrimento\n\nPrimeiro, escreve por palavras tuas:\n\nComo podes dar-te conta e reconhecer que estás num momento de sofrimento?\n\nExemplo:\n\n> “Sinto outra vez aquela sensação no meu peito.”\n\n- - -\n\n> “Ah, algo está a acontecer dentro de mim. Este é um momento doloroso para mim.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ],
+        "question": "",
+        "time": "Tira 3 min",
+        "alias": "Cria as tuas ferramentas de autocuidado",
+        "title": "Cria as tuas ferramentas de autocuidado",
+        "type": "writing",
+        "id": "section9"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "#### Constrói a tua caixa de ferramentas para emergências\n\n#### 2. Humanidade Comum\n\nAgora, escreve por palavras tuas:\n\n#### Como podes relembrar-te de que o sofrimento faz parte da vida e de que não estás sozinha/o?\n\nExemplo:\n\n> “O que estou a sentir agora faz parte de ser humano, ainda que pareça que estou sozinha/o nesta experiência dolorosa.\"\n\n- - -\n\n> “A dor faz parte da vida de todos os seres humanos. Não estou sozinha/o nisto.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "question": "",
+        "time": "Tira 3 min",
+        "alias": "Cria as tuas ferramentas de autocuidado",
+        "title": "Cria as tuas ferramentas de autocuidado",
+        "type": "writing",
+        "id": "section10"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "#### Constrói a tua caixa de ferramentas para emergências\n\n#### 3. Agir com bondade\n\nPor último, escreve por palavras tuas:\n\n#### Como podes ser amável para contigo?\n\nExemplo\n\n> “Posso fazer alguma coisa para cuidar de mim neste momento?\"\n\n- - -\n\n> “Estou a dar o meu melhor, isso é suficiente para mim.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ],
+        "question": "",
+        "time": "Tira 3 min",
+        "alias": "Cria as tuas ferramentas de autocuidado",
+        "title": "Cria as tuas ferramentas de autocuidado",
+        "type": "writing",
+        "id": "section11"
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "As ferramentas de autocuidado da Fátima",
+        "title": "As ferramentas de autocuidado da Fátima",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448860/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5P12bodyautocompaixao_ytn7cd.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622374512/29k%20FJN/Courses/Self%20Compassion/Videos%2020210530%20Update/FL_-_L5_Self_compassion_V3_mn2oy9.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "alias": "As ferramentas de autocuidado",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448860/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L5p13bodyautocompaixao_lv6c80.jpg",
+        "title": "As ferramentas de autocuidado",
+        "content": "#### Uau!\n\nFizeste um grande esforço para criar a tua própria caixa de ferramentas para emergências. Esperemos que venhas a beneficiar bastante dela, em momentos em que experiencies sentimentos difíceis e dolorosos.\n\n#### Usa a tua caixa de ferramentas quando mais precisares\n\nDa próxima vez que experienciares uma situação difícil ou desafiante, como as que descreveste durante esta sessão, experimenta a tua caixa de ferramentas para emergências.\n\nSente-te à vontade para lhe fazeres as alterações que achares necessárias, de acordo com as tuas experiências e do que sintas que está a resultar para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a sessão **Ferramentas de** **Autocuidado**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires partilhar com o teu grupo, vais precisar de ter à mão os seguintes exercícios:\n\n* Ficar sem chão\n* Criar a tuas ferramentas de autocuidado",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

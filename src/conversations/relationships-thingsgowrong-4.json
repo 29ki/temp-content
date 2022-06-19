@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-4",
-    "alias": "relationships-thingsgowrong-4",
+    "alias": "YA building relationships 3: thingsgowrong-4",
     "root": "1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Practice\n\nIn the first challenge in this series of friendship challenges, remember the qualities you most liked in your friends.\n\nThis is also what you value when it comes to how you yourself would like to act in a friendship."
+                "content": "# **Time to practice**\n\nNow it's time for a challenge. \n\nDo you remember that we asked you to think about what you **appreciate** most about your **friends**? You probably remember that what you think is **important** in others, also means that this is how **you** want to **behave** towards your friends."
               }
             ]
           },
@@ -24,7 +23,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +39,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "By practicing awareness of what is happening inside you and allowing it, you’ll be on the road to being able to be the kind of friend you hope to be.\n\nWhen you are less impulsive and reactive, you stand a better chance to choose your actions. How cool is it to know that these skills are not so hard?"
+                "content": "By practicing awareness of what is happening inside you and allowing it, you're on the way to be the kind of friend you want to be.\n\nWhen you are less impulsive and reactive, you stand a better chance to choose your actions."
               }
             ]
           },
@@ -51,7 +49,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "3"
               }
             ]
@@ -68,7 +65,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "In the next three days, whenever you find yourself in a challenging or upsetting situation:\n\n1. **Pause**.\n2. Be **aware** of yourself\n3. **Allow** thoughts and feelings to be there, and to pass.\n\nYou can take a print-screen of this to help remind you of the steps."
+                "content": "For the next three days, your task now is to notice when you're in a difficult situation or when you get upset, and do the following from time to time:\n\n1. **Pause**.\n2. Be **aware** of yourself\n3. **Allow** thoughts and feelings to be there, and to pass.\n\nTake a print-screen of this to help remind you of the steps."
               }
             ]
           },
@@ -78,7 +75,6 @@
               {
                 "component": "Button",
                 "content": "Got it",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "4"
               }
             ]
@@ -95,7 +91,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Reflection on friendship skills\n\nIn theory, being aware and allowing may sound kind of easy. But in real life, it can actually be pretty hard! Earlier we said that these are skills for life that will help you build friendships. \n\nHow, you might wonder? Well, if we don’t know how to do this, we can often be reactive, impulsive or lash out."
+                "content": "In theory, aware and allowing may **sound simple**. In practice, it can be **difficult**. But remember that the **more** you practice, the easier it will be. And the more you become aware and allowing and give yourself **space** to choose behavior, the more you'll be the friend you want to be."
               }
             ]
           },
@@ -105,7 +101,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "5"
               }
             ]
@@ -122,7 +117,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Good job! \n\nGive yourself a pat on the back. You're now ready to choose to give yourself a chance to respond (instead of avoiding or lashing out)."
+                "content": "# Good work!\n\nNow you're ready to give yourself a chance to behave the way you want, instead of accidentally doing or saying something you will later regret."
               }
             ]
           },
@@ -132,7 +127,6 @@
               {
                 "component": "Button",
                 "content": "Done",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "Sharingquestion10"
               }
             ]
@@ -146,14 +140,13 @@
         "alias": "Sharingquestion10",
         "title": "Sharingquestionwhenthingsgowrong",
         "question": "How did allowing difficult thoughts and feelings go? ",
-        "exampleText": "Naturally, it was difficult, but I'm really glad I stuck with it. Having coming out the other side my body just feels lighter, somehow."
+        "exampleText": "It was difficult, but I am so grateful to myself that I did the exercise. It was nice to finally face some difficult thoughts I had avoided for so long."
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-4",
-    "alias": "relationships-thingsgowrong-4",
+    "alias": "YA building relationships 3: thingsgowrong-4",
     "root": "1",
     "sections": [
       {
@@ -175,7 +168,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "2"
               }
             ]
@@ -202,7 +194,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "3"
               }
             ]
@@ -229,7 +220,6 @@
               {
                 "component": "Button",
                 "content": "Okej",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "4"
               }
             ]
@@ -256,7 +246,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "5"
               }
             ]
@@ -283,7 +272,6 @@
               {
                 "component": "Button",
                 "content": "Klar",
-                "conversationId": "relationships-thingsgowrong-4",
                 "sectionId": "Sharingquestion10"
               }
             ]
@@ -298,6 +286,151 @@
         "question": "Hur gick det att tillåta svåra tankar och känslor?",
         "title": "Sharingquestionwhenthingsgowrong",
         "exampleText": "Det var svårt, man jag är så tacksam mot mig själv att jag gjorde övningen. Det var skönt att äntligen bearbeta svåra tankar jag undvikit så länge."
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-thingsgowrong-4",
+    "alias": "YA building relationships 3: thingsgowrong-4",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Hora de praticar**\n\nAgora está na hora de um desafio.\n\nLembras-te que te pedimos que pensasses sobre o que mais **aprecias** nos/as teus/tuas **amigos/as**? Provavelmente recordas-te que o que achas **importante** nos outros representa também como tu **te** queres **comportar** com os teus amigos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ao praticar a consciência do que está a acontecer dentro de ti e aceitares  isso, estás a colocar-te no caminho para seres o tipo de amigo que queres ser.\n\nQuando és menos impulsivo e reativo, tens mais hipóteses de escolher as tuas ações."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Nos próximos três dias, a tua tarefa vai ser perceber quando estás numa situação difícil ou quando ficas irritada/o, reagindo da seguinte forma:\n\n1. **Pausa**.\n2. Sê **consciente** de ti mesma/o.\n3. **Aceita** que os pensamentos e as emoções estejam presentes e passem.\n\nFaz um *print-screen* disto para te ajudar a lembrar as etapas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Percebi",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Em teoria, estar consciente e aceitar pode **parecer simples**. Na prática, pode ser **difícil**. Mas lembra-te que quanto **mais** praticares, mais fácil será. E quanto mais consciente te tornares e aceitares, mais **espaço** vais dar para escolheres o teu comportamento e te permitires seres a/o amiga/o que queres ser."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Bom trabalho!\n\nAgora estás pronta/o para dares a ti mesma/o a hipótese de te comportares da maneira que quiseres, em vez de acidentalmente fazeres ou dizeres algo do qual te podes vir a arrepender mais tarde."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Feito",
+                "sectionId": "Sharingquestion10"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "Sharingquestion10",
+        "alias": "Sharingquestion10",
+        "title": "Sharingquestionwhenthingsgowrong",
+        "question": "Como correu o desafio de aceitar pensamentos e emoções difíceis?",
+        "exampleText": "Foi difícil, mas estou muito grata a mim mesma por ter feito o exercício. Foi bom finalmente enfrentar alguns pensamentos difíceis que andava a evitar há tanto tempo."
       }
     ]
   }

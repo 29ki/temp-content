@@ -1,0 +1,325 @@
+{
+  "en": {
+    "id": "nourishing-relationships-in-times-of-turmoil-nourishing-relationships",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "In times of **hardship**, few things are as important as **deep** **connection** to others. But in the midst of turmoil, we easily forget to **nourish** our relationships.\n\nIn this course you'll explore and practice powerful ways to strengthen and deepen your relationships.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm ready",
+            "sectionId": "dd4e99a3-fbe3-474e-a87c-c7337e33b491"
+          }
+        ],
+        "alias": "Intro",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629809553/srinivasan-venkataraman-Xer4EQQX5Ks-unsplash_awox3n.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "dd4e99a3-fbe3-474e-a87c-c7337e33b491",
+        "content": "### Learn more about:\n\n* Opening up to love\n* Relationship map\n* Taking action\n\n### You'll need:\n\n* 20 minutes\n* Pen and paper",
+        "alias": "Table of content",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "section2"
+          }
+        ],
+        "topImageUri": ""
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "For most of us, **relationships** can be **complicated**. They generate many different emotions — everything from love, respect and warmth, to envy, frustration and resentment.\n\nBut there are times in life where we experience **pure** **love**. Moments when the connection between you and the other person is natural and uncomplicated.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "f40e2e98-47d1-4caa-9273-2ee3cff199cd"
+          }
+        ],
+        "alias": "Introduction"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f40e2e98-47d1-4caa-9273-2ee3cff199cd",
+        "content": "Such moments are **precious**. Important. And they often **pass** by **quickly**. \n\nWhen we experience pure love:\n\n* Our body relaxes.\n* Stress hormones go down.\n* Our breathing becomes regular.\n* We feel warm, safe and connected.",
+        "alias": "Pure love ",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's try it",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "In this meditation, you'll be guided to **recall** a **memory** of pure and simple love.\n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_puresimplelove.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "a0406792-0aa3-43d9-8568-00fd221cc089"
+          }
+        ],
+        "alias": "Meditation",
+        "duration": "03:51"
+      }
+    ],
+    "alias": "Nourishing relationships 1: Nour rel-1"
+  },
+  "sv": {
+    "id": "nourishing-relationships-in-times-of-turmoil-nourishing-relationships",
+    "root": "009df4de-6d53-4975-bcc0-486fdead5ef5",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "009df4de-6d53-4975-bcc0-486fdead5ef5",
+        "alias": "Intro",
+        "title": "",
+        "content": "I svåra tider är få saker lika viktiga som **nära** **kontakt med andra** människor. Men det är också i utmanande tider som vi lätt glömmer att ta hand om våra relationer.\n\nI den här kursen kommer du få utforska och öva på kraftfulla sätt att stärka och fördjupa dina relationer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är redo",
+            "sectionId": "ec16fc4f-52f8-457c-ad39-39bb7fe43c17"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629809553/srinivasan-venkataraman-Xer4EQQX5Ks-unsplash_awox3n.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ec16fc4f-52f8-457c-ad39-39bb7fe43c17",
+        "content": "### Lär dig mer om:\n\n* Öppna upp för kärlek\n* Relationskartan\n* Agera för förändring\n\n### Du behöver:\n\n* 20 minuter\n* Papper och penna",
+        "alias": "Table of content",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "a616c497-1463-4486-b697-6d33d78b4efe"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a616c497-1463-4486-b697-6d33d78b4efe",
+        "alias": "Introduktion",
+        "title": "",
+        "content": "För de flesta av oss är **relationer** **komplicerade**. De ger upphov till många olika känslor — allt från kärlek, respekt och värme, till avund, frustration och avsky.\n\nMen det finns tillfällen i livet då vi **upplever känslor av stark kärlek.** Stunder då känslan av samhörighet mellan dig och en annan person är naturlig och okomplicerad.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c196213d-9bb1-4d5d-92d3-93066cc7a561",
+            "content": "Berätta mer"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c196213d-9bb1-4d5d-92d3-93066cc7a561",
+        "alias": "Äkta kärlek",
+        "content": "Sådana stunder är värdefulla**.** Viktiga. Och ofta kortvariga. \n\nNär vi upplever stunder av kärlek **känner vi samhörighet, värme och trygghet.** Det påverkar våra kroppar på flera sätt:\n\n* Kroppen slappnar av\n* Stresshormonerna sjunker\n* Andningen blir regelbunden",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Testa",
+            "sectionId": "1cc76a7c-9d5a-4c32-a21e-6f2115e9845d"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "a0406792-0aa3-43d9-8568-00fd221cc089"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "",
+        "duration": "4:57",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1619102739/Meditations/Pure_Simple_Love_svenska_-_2021-04-22_14.19_qywyi7.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "1cc76a7c-9d5a-4c32-a21e-6f2115e9845d",
+        "description": "I den här meditationen kommer du bli guidad till att **återuppleva** **ett minne** av enkel och okomplicerad kärlek.\n\nTryck på play för att börja."
+      }
+    ],
+    "alias": "Nourishing relationships 1: Nour rel-1"
+  },
+  "pt": {
+    "id": "nourishing-relationships-in-times-of-turmoil-nourishing-relationships",
+    "alias": "Nourishing relationships 1: Nour rel-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Nutrir relações",
+        "title": "Nutrir relações",
+        "content": "### A sessão de hoje tem três partes:\n\n* Amor puro e simples\n* Mapa das relações\n* Partilha\n\n#### Vais precisar de:\n\n* 30 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "title": "Introdução",
+        "content": "Para a maioria de nós, as relações são complicadas. Geram emoções muito distintas: desde amor, respeito e carinho até inveja, frustração e ressentimento, entre outras.\n\nMas há momentos em que experienciamos amor puro. Estes são momentos em que a ligação entre ti e a outra pessoa é simples e sem complicações. Momentos como estes são valiosos, significativos e passam muitas vezes rapidamente. Quando experienciamos amor puro, o nosso corpo relaxa, o nível das hormonas de stress desce, a nossa respiração é regular e sentimo-nos aconchegados, conectados e seguros.\n\nO próximo passo levar-te-á a recordar um destes momentos na tua vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai guiar-te a uma memória de amor puro e simples.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523417/29k%20FJN/Meditations/Joanna%20Final/Pure_Simple_Love_adg4a8.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Parabéns!",
+        "title": "Parabéns!",
+        "content": "Dá a ti própria/o algum amor e gratidão por teres a coragem de recordar um momento de uma ligação profunda.\n\nO próximo passo desta sessão é voltar atrás e desenhar um mapa das tuas relações com os outros.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos desenhar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "O mapa das relações",
+        "title": "O mapa das relações",
+        "content": "Um dos arrependimentos mais comuns das pessoas no fim da vida é terem dedicado demasiado tempo ao trabalho e muito pouco a cuidar das relações:\n\nSe continuares a viver a tua vida como vives agora, haveria alguma coisa de que te arrependerias? Com quem sentirias falta de passar tempo? Com quem te arrependerias de não teres partilhado os teus sentimentos?\n\nSerá que este momento pode ser uma oportunidade para restabeleceres o contacto com aqueles que são importantes para ti? No próximo exercício, serás guiada/o para teres uma visão panorâmica das tuas relações, de forma a dares passos mais conscientes para as nutrires.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“As relações precisam de ser regadas. Nós não podemos partir do princípio que a outra pessoa está sempre lá quando não demos um sinal de vida durante muito tempo.”",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640013052/29k%20FJN/Courses/Nourishing%20Relationships/Videos%209:16/L1_Nourishing_relationships_in_times_of_turmoil_V1-_en30jc.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640013075/29k%20FJN/Courses/Nourishing%20Relationships/Thumbnails%209:16/L1P6nourishingrelationships_yasafp.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "time": "Tira 15-20 min",
+        "question": "Pega numa folha de papel em branco e desenha um pequeno círculo no meio da folha. Escreve o teu nome dentro dele.",
+        "longDescription": "A tua tarefa é desenhar um mapa das tuas relações em diferentes áreas da tua vida. Está à vontade para escolheres o teu próprio esquema. Caso queiras, deixamos aqui algumas sugestões:\n\n* Mantém junto do teu nome as pessoas que te são mais próximas\n* Usa linhas para ligar o teu nome aos outros\n* Usa diferentes formatos de linha para simbolizar a qualidade de cada relação (por exemplo, uma linha tracejada para relações que necessitam de ser restabelecidas)\n* Agrupa as pessoas em diferentes áreas do mapa, de forma a que faça sentido para ti. Por exemplo: canto superior esquerdo = amigas ou amigos com quem desenvolves atividades, canto inferior direito = amigas ou amigos recentes\n* Desenha símbolos junto de cada nome, de forma a simbolizar algo à tua escolha. Por exemplo: coração = pessoa com quem podes partilhar emoções difíceis; sorriso = pessoa com quem me divirto muito; sol = pessoa que quero conhecer melhor\n* Usa diferentes cores e tipos de letra",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Preparação para partilhar",
+        "title": "Preparação para partilhar",
+        "time": "Tira 5 min",
+        "question": "Dedica um momento para refletires sobre este exercício:",
+        "longDescription": "* Quais são as tuas principais reflexões sobre este exercício?\n* Em que gostarias de te focar e porquê?\n* Quem gostarias de contactar hoje? Um telefonema, uma mensagem ou um email... tudo conta, especialmente se agora não for possível um encontro pessoal.\n* Como é que te sentiste depois de contactar essa pessoa?\n\nEscreve as tuas respostas. Serás convidada/o a partilhá-las com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por teres completado **O Mapa das Relações**.\n\nAgora já podes dar o próximo passo - a partilha em grupo.\n\nPartilha as tuas respostas e reflexões sobre este exercício:\n\n* Quais são as tuas principais reflexões sobre este exercício?\n* Em que gostarias de te focar e porquê?\n* Quem é que tentaste contactar?\n* Assim que contactaste essa pessoa, como é te sentiste?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

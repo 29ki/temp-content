@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-1",
-    "alias": "relationships-thingsgowrong-1",
+    "alias": "YA building relationships 3: thingsgowrong-1",
     "root": "1",
     "sections": [
       {
@@ -10,7 +9,7 @@
           {
             "component": "HeaderImage",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_header.png"
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779806/Building%20Relationships/when-things-go-wrong_header_hco9x7.png"
             }
           },
           {
@@ -18,7 +17,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "We’re glad to see you ready to step it up. In this challenge you will learn:\n\n* Coping with difficult thoughts and feelings\n* Aware and allow in challenging situations"
+                "content": "# When things go wrong\n\nIt can feel easy to handle relationships when everything is going well. But sometimes we make mistakes. In this lesson you will learn to increase the chance that you behave as **you** want."
               }
             ]
           },
@@ -27,9 +26,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "I'm ready",
-                "conversationId": "relationships-thingsgowrong-1",
-                "sectionId": "2"
+                "content": "Keep going",
+                "sectionId": "5f266d48-3e74-41f7-91f5-7acf6bb6850f"
               }
             ]
           }
@@ -37,6 +35,19 @@
         "id": "1",
         "alias": "1",
         "type": "defaultSection"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5f266d48-3e74-41f7-91f5-7acf6bb6850f",
+        "alias": "1b",
+        "content": "In this lesson you'll learn about:\n\n* When things go wrong\n* Aware and allow in hard situations\n* Difficult thoughts\n* Practice",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's go",
+            "sectionId": "2"
+          }
+        ]
       },
       {
         "id": "2",
@@ -47,7 +58,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Recap\n\nRemember the breathing pause and the aware and allow skills we've talked about? They will help you get better at having friendships that include your friendship values.\n\nToday we'll step up the challenge with aware and allow in difficult situations."
+                "content": "Do you remember the breathing pause? And the **aware** and **allow** skills we've been talking about? They help you create relationships based on what is important to you.\n\nToday you should try to be aware and allowing even in  **difficult**  situations."
               }
             ]
           },
@@ -57,7 +68,6 @@
               {
                 "component": "Button",
                 "content": "Okey",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "3"
               }
             ]
@@ -74,7 +84,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# The big deal\n\nBeing aware of and allowing our inner thoughts and feelings is especially important (and hard) when interacting with others. \n\nHowever – it can mean the difference between acting in ways that are friendly, and being impulsive and reactive. Sometimes friendship exchanges happen so quickly we end up making a mess of things."
+                "content": "Being aware and allowing of difficult thoughts and feelings is extra important (and difficult) when we socialise with others.\n\nAt the same time, it can help you do more of what you want to do in a nice way. But in many situations things happen quickly and it's easy to mess up."
               }
             ]
           },
@@ -84,7 +94,6 @@
               {
                 "component": "Button",
                 "content": "Got it",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "4"
               }
             ]
@@ -101,7 +110,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Being **aware** helps you interact with people in ways that matter to you in the long term. Being **allowing** helps you befriend and accept whatever is going on inside of you. \n\nTogether they give you more **control** to act in ways that are **important** to you."
+                "content": "Being **aware** helps you to be the way you want when you're with others. Being **allowing** helps you accept everything that happens inside you.\n\nTogether they give you more **control** so you can do what is **important** to you."
               }
             ]
           },
@@ -111,7 +120,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "5"
               }
             ]
@@ -128,7 +136,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "What happens when you get reactive?\n\nWrite it down somewhere only you can see, like this:\n\n\"When I get reactive, I tend to ...\"\n\nExample: I tend to say mean things I don't really mean."
+                "content": "But things don't always turn out the way we want. What do you usually do when you react impulsively? \n\nWrite down your answer where only you can see it, like this:\n\n\"When I react impulsively, I usually ...\""
               }
             ]
           },
@@ -138,7 +146,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "6"
               }
             ]
@@ -155,7 +162,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Build yourself and your friendships\n\nSometimes allowing get's mixed up with being passive. But allowing doesn't mean you don't respond. Neither does it mean that you're a doormat that let's everyone walk all over you."
+                "content": "Good job. Now you know what you usually do when things go wrong.\n\nBeing allowing towards what happens on the inside often means that we become better at handling situations in a way that we can feel satisfied with afterwards."
               }
             ]
           },
@@ -165,7 +172,6 @@
               {
                 "component": "Button",
                 "content": "More",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "7"
               }
             ]
@@ -182,7 +188,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "It means that you’ll get better and better at responding in ways that are consistent with how you want to be as a person and as a friend. \n\nAllowing is letting things be as they are, without controlling, changing or judging."
+                "content": "Sometimes we confuse \"allowing\" with \"passive.\" But allowing is not the same as not reacting. And it's not letting others behave in just any way toward us either.\n\nTo allow is to let things on the **inside** be as they are, without trying to control, change or judge them."
               }
             ]
           },
@@ -190,10 +196,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Got it",
                 "conversationId": "relationships-thingsgowrong-2",
-                "sectionId": "1"
+                "variant": "primary"
               }
             ]
           }
@@ -203,9 +209,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-1",
-    "alias": "relationships-thingsgowrong-1",
+    "alias": "YA building relationships 3: thingsgowrong-1",
     "root": "1a",
     "sections": [
       {
@@ -234,7 +239,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "1"
               }
             ]
@@ -250,7 +254,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Den här utmaningen innehåller:\n\n* När det blir fel\n* Medveten och tillåtande i svåra situationer\n* Jobbiga tankar\n* Öva"
+                "content": "I den här lektionen lär du dig om:\n\n* När det blir fel\n* Medveten och tillåtande i svåra situationer\n* Jobbiga tankar\n* Öva"
               }
             ]
           },
@@ -260,7 +264,6 @@
               {
                 "component": "Button",
                 "content": "Kör igång",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "2"
               }
             ]
@@ -287,7 +290,6 @@
               {
                 "component": "Button",
                 "content": "Okej",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "3"
               }
             ]
@@ -314,7 +316,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "4"
               }
             ]
@@ -341,7 +342,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "5"
               }
             ]
@@ -384,7 +384,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "6"
               }
             ]
@@ -415,7 +414,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-thingsgowrong-1",
                 "sectionId": "7"
               }
             ]
@@ -440,10 +438,219 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Gå vidare",
                 "conversationId": "relationships-thingsgowrong-2",
-                "sectionId": "1"
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-thingsgowrong-1",
+    "alias": "YA building relationships 3: thingsgowrong-1",
+    "root": "1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779806/Building%20Relationships/when-things-go-wrong_header_hco9x7.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Quando as coisas dão errado\n\nPode parecer fácil lidar com relações quando tudo está bem. Mas, às vezes, cometemos erros. Nesta lição, vais aprender a aumentar a hipótese de te comportares como **tu** queres."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "5f266d48-3e74-41f7-91f5-7acf6bb6850f"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5f266d48-3e74-41f7-91f5-7acf6bb6850f",
+        "alias": "1b",
+        "content": "Nesta lição vais aprender sobre:\n\n* Quando as coisas dão errado\n* Estar consciente e a aceitar situações difíceis\n* Pensamentos difíceis\n* Prática",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos lá ",
+            "sectionId": "2"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Lembras-te da pausa para respirar? E das competências **'consciência** e **aceitação'** sobre as quais falámos? Elas ajudam-te a criar relações com base no que é importante para ti.\n\nHoje deves tentar estar consciente e a aceitar mesmo nas situações **difíceis**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Estar consciente e a aceitar pensamentos/sentimentos difíceis é extremamente importante (e difícil) quando socializamos com os outros.\n\nAo mesmo tempo, pode ajudar-te a fazer mais as coisas que queres de uma maneira agradável. Mas, em muitas situações, as coisas acontecem muito depressa e é fácil errar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Percebi",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Estar **consciente** ajuda-te a seres como queres ser quando estás com os outros. **Aceitar** ajuda-te a lidar com tudo o que acontece dentro de ti.\n\nJuntos, eles conferem-te mais **controlo** para que possas fazer o que é **importante** para ti."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Mas nem sempre as coisas correm como queremos. O que costumas fazer quando reages impulsivamente?\n\nEscreve a tua resposta onde só tu possas ver:\n\n\"Quando reajo impulsivamente, geralmente...\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bom trabalho! Agora sabes o que costumas fazer quando as coisas dão errado.\n\nAceitar o que acontece dentro de nós muitas vezes significa que nos tornamos melhores a lidar com as situações, para que depois, nos possamos sentir bem com o que fizemos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mais",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Às vezes confundimos \"aceitar\" com \"passividade\". Mas aceitar não é o mesmo que não reagir. E também não é deixar os outros comportarem-se de qualquer maneira em relação a nós.\n\nAceitar é deixar que as coisas cá **dentro** de nós sejam como são, sem tentar controlá-las, mudá-las ou julgá-las."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Percebi",
+                "conversationId": "relationships-thingsgowrong-2",
+                "variant": "primary"
               }
             ]
           }

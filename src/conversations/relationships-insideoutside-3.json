@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-insideoutside-3",
-    "alias": "relationships-insideoutside-3",
+    "alias": "YA building relationships 4: insideoutside-3",
     "root": "1",
     "sections": [
       {
@@ -14,17 +13,22 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Test your friendship super skill\n\nWatch this picture for a minute. See if you can guess what the persons are thinking and feeling.\n\n\n\nINSERT PICTURE WHEN CLEARED WE CAN USE THAT ONE"
+                "content": "# Test yourself\n\nWatch this picture for a minute. See if you can guess what the persons are thinking and feeling."
               }
             ]
+          },
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621415004/Relationship%20Course%20YA/Heading_Relationships_3_youths_p9toy4.png"
+            }
           },
           {
             "component": "ButtonGroup",
             "content": [
               {
                 "component": "Button",
-                "content": "I'm ready",
-                "conversationId": "relationships-insideoutside-3",
+                "content": "I'm done",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +45,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Now, ask yourself *how* you guessed what the persons are experiencing.\n\nIt is likely that you had to rely on how YOU would feel in the same situation. That’s what we all do. We rely on how we'd feel in the same situation when guessing how others feel."
+                "content": "Ask yourself **how** you guessed what the people are experiencing.\n\nIt is quite likely that you needed to start from how ***you would have felt*** in the same situation. This is what we all do – we start from how we had felt in the same situation when we try to understand how others feel."
               }
             ]
           },
@@ -51,7 +55,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-insideoutside-3",
                 "sectionId": "3"
               }
             ]
@@ -68,7 +71,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Ask yourself, have you ever found out that a friend was really sad and it shocked you because you couldn't tell?\n\nHave you distanced yourself from another person because your mind-reading skills told you they didn't like you or didn't agree with you, but you never checked it out?\n\nHow about in reverse – has there been a time when you were not understood because people thought you looked ok?"
+                "content": "Have you ever **discovered** that a friend felt really **bad**, even though you had no **idea**?\n\nHave you ever distanced yourself from someone else because you thought they didn't like you or had a different opinion, **without checking** if it was true?\n\nOr the other way around – have there been times when **others** haven't understood you because you had a happy **facade**?"
               }
             ]
           },
@@ -78,7 +81,6 @@
               {
                 "component": "Button",
                 "content": "Go on",
-                "conversationId": "relationships-insideoutside-3",
                 "sectionId": "4"
               }
             ]
@@ -95,7 +97,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Inside-outside vision** is about moving beyond blind guesses – it's learning to *check it out.*\n\nIt's time to change that. Here’s how:"
+                "content": "It's time to change that. **Inside-outside vision** is about moving beyond blind guesses. it's about learning to **examine** – and sometimes **changing** – your guesses*.*"
               }
             ]
           },
@@ -103,10 +105,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Next",
                 "conversationId": "relationships-insideoutside-4",
-                "sectionId": "root"
+                "variant": "primary"
               }
             ]
           }
@@ -116,9 +118,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-insideoutside-3",
-    "alias": "relationships-insideoutside-3",
+    "alias": "YA building relationships 4: insideoutside-3",
     "root": "1",
     "sections": [
       {
@@ -130,17 +131,22 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Testa dig själv\n\nTitta på den här bilden en stund. Se om du kan gissa vad personerna i bilden tänker och känner.\n\nINSERT PICTURE WHEN CLEARED WE CAN USE THAT ONE"
+                "content": "# Testa dig själv\n\nTitta på den här bilden en stund. Se om du kan gissa vad personerna i bilden tänker och känner."
               }
             ]
+          },
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621415004/Relationship%20Course%20YA/Heading_Relationships_3_youths_p9toy4.png"
+            }
           },
           {
             "component": "ButtonGroup",
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är redo",
-                "conversationId": "relationships-insideoutside-3",
+                "content": "Jag är klar",
                 "sectionId": "2"
               }
             ]
@@ -157,7 +163,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Fråga dig själv *hur* du gjorde för att gissa vad personerna upplever.\n\nDet är ganska troligt att du behövde utgå från hur *du* hade känt dig i samma situation. Det är så vi alla gör - vi utgår från hur vi hade känt i samma situation när vi försöker förstå hur andra känner."
+                "content": "Fråga dig själv **hur** du gjorde för att gissa vad personerna upplever.\n\nDet är ganska troligt att du behövde utgå från hur **du hade känt** dig i samma situation. Det är så vi alla gör - vi utgår från hur vi hade känt i samma situation när vi försöker förstå hur andra känner."
               }
             ]
           },
@@ -167,8 +173,7 @@
               {
                 "component": "Button",
                 "sectionId": "3",
-                "content": "Nästa",
-                "conversationId": "relationships-insideoutside-3"
+                "content": "Nästa"
               }
             ]
           }
@@ -184,7 +189,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Har du någon gång upptäckt att en kompis mått riktigt dåligt, trots att du inte hade en aning om det?\n\nHar du någon gång tagit avstånd från någon annan för att du trodde att hen inte gillade dig eller tyckte annorlunda, utan att kolla om det stämde?\n\nEller det omvända – har det funnits tillfällen när andra inte har förstått dig för att du haft en glad fasad?"
+                "content": "Har du någon gång **upptäckt** att en kompis mått riktigt **dåligt**, trots att du inte hade en **aning** om det?\n\nHar du någon gång **tagit avstånd** från någon annan för att du trodde att hen inte gillade dig eller tyckte annorlunda, utan att **kolla** om det stämde?\n\nEller det omvända – har det funnits tillfällen när **andra** inte har förstått dig för att du haft en glad **fasad**?"
               }
             ]
           },
@@ -193,8 +198,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Mer",
-                "conversationId": "relationships-insideoutside-3",
+                "content": "Fortsätt",
                 "sectionId": "4"
               }
             ]
@@ -211,7 +215,73 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Det är dags att ändra på det. **Insidan-utsidan-kollen** handlar om att göra mer än att bara gissa. Det handlar om att *undersöka* – och ibland *ändra* på - sina gissningar."
+                "content": "Det är dags att ändra på det. **Insidan-utsidan-kollen** handlar om att göra mer än att bara gissa. Det handlar om att **undersöka** – och ibland **ändra** på – sina gissningar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Nästa",
+                "conversationId": "relationships-insideoutside-4",
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-insideoutside-3",
+    "alias": "YA building relationships 4: insideoutside-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Testa-te\n\nObserva esta imagem por um minuto. Vê se consegues adivinhar o que as pessoas estão a pensar e a sentir."
+              }
+            ]
+          },
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621415004/Relationship%20Course%20YA/Heading_Relationships_3_youths_p9toy4.png"
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Já fiz",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Pergunta a ti mesma/o **como** adivinhaste o que as pessoas estão a vivenciar.\n\nÉ bem provável que precises de começar por tentar perceber como ***tu te sentirias*** na mesma situação. Isto é o que todos nós fazemos – começamos a partir de como nos sentiríamos na mesma situação quando tentamos entender como os outros se sentem."
               }
             ]
           },
@@ -220,9 +290,61 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Já alguma vez **descobriste** que um/a amigo/a estava a sentir-se muito **mal**, mesmo que tu não fizesses a menor **ideia**?\n\nJá te distanciaste de outra pessoa porque achaste que ela não gostava de ti ou tinha uma opinião diferente, **sem averiguar** se era verdade?\n\nOu o contrário – houve momentos em que **outros** não te entenderam porque punhas uma **fachada** feliz?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Está na hora de mudar isso. **Visão de dentro para fora** é ir além das suposições cegas. Trata-se de aprender a **analisar** – e às vezes **alterar** – os teus **palpites.**"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Seguinte ",
                 "conversationId": "relationships-insideoutside-4",
-                "sectionId": "root"
+                "variant": "primary"
               }
             ]
           }

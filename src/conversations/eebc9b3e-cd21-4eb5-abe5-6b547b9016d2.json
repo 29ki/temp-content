@@ -1,0 +1,224 @@
+{
+  "en": {
+    "id": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2",
+    "alias": "UKR: Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2efa845f-53f9-4b1f-aced-ff1b08ade8e3",
+        "alias": "Evaluation",
+        "longDescription": "1. Яким був ваш досвід **використання** структурованого вирішення проблем?\n2. Чим це **відрізнялося** від того, що ви робили б зазвичай?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "a335df12-dec4-49f7-b286-0bbf4144b39f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a335df12-dec4-49f7-b286-0bbf4144b39f",
+        "title": "Продовження практики",
+        "alias": "Completion screen",
+        "content": "У цьому короткому курсі ви **отримали інструменти** для подолання змін.\n\nОскільки практика з часом має вирішальне значення, ми рекомендуємо вам **продовжувати застосовувати** свої інструменти знову і знову. Отже, наступним кроком на вашому шляху будуть роздуми про те, чого ви навчилися і як це може допомогти вам рухатися вперед.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далі",
+            "sectionId": "df213d2e-1f3b-4e2c-a4a1-bbb8af8db372"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "df213d2e-1f3b-4e2c-a4a1-bbb8af8db372",
+        "alias": "Exercise",
+        "longDescription": "Запишіть свої **відповіді.**\n\n1. Які інструменти **допомагають** вам справлятися зі змінами?\n2. Що **змінилося** для вас з того часу, як ви почали цей курс, якщо це так?\n3. Чому вам важливо постійно розвивати свій набір інструментів для керування змінами?\n\n**Які найважливіші уроки ви винесли для себе?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "15316e7b-8ac0-4e1f-a08b-6f4fb84bd5df"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "15316e7b-8ac0-4e1f-a08b-6f4fb84bd5df",
+        "alias": "Well done",
+        "content": "Ви успішно пройшли курс **Як подолати кризу!**\n\nЩоб продовжити **практику**, ми рекомендуємо використовувати у своєму житті інструменти, які ви вважаєте корисними\n\nВи також можете ознайомитися з **іншими нашими курсами,** наприклад, про цінності та співчуття до себе.\n\nПосилання на дослідження, що лежить в основі цього курсу, ви знайдете на нашому [веб-сайті](https://29k.org/).\n\nЗ любов’ю,\n\nКоманда 29k",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Що далі?",
+            "sectionId": "056f42ef-ff82-4a5e-90f2-1847d72afe3a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "056f42ef-ff82-4a5e-90f2-1847d72afe3a",
+        "content": "Тепер ви готові до наступного кроку — поділитися зі **своєю групою.**\n\nЗапам'ятайте питання:\n\n1. Як ви зазвичай долаєте **важкі емоції**? Ви показуєте чи намагаєтеся уникати, контролювати або пригнічувати їх?\n2. Чому для вас важливо продовжувати працювати над подоланням тривоги та **занепокоєння**?\n\nЯкі найважливіші уроки ви винесли для себе?",
+        "title": "Обмін",
+        "alias": "Sharing",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Я закінчив"
+          }
+        ]
+      }
+    ],
+    "root": "2efa845f-53f9-4b1f-aced-ff1b08ade8e3"
+  },
+  "sv": {
+    "id": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2",
+    "alias": "UKR: Coping with crisis 3: Act for change 3",
+    "root": "2efa845f-53f9-4b1f-aced-ff1b08ade8e3",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2efa845f-53f9-4b1f-aced-ff1b08ade8e3",
+        "alias": "Evaluation",
+        "longDescription": "1. Яким був ваш досвід використання структурованого вирішення проблем?\n2. Чим це відрізнялося від того, що ви робили б зазвичай?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "a335df12-dec4-49f7-b286-0bbf4144b39f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a335df12-dec4-49f7-b286-0bbf4144b39f",
+        "title": "Продовження практики",
+        "alias": "Completion screen",
+        "content": "У цьому короткому курсі ви **отримали інструменти** для подолання змін.\n\nОскільки практика з часом має вирішальне значення, ми рекомендуємо вам **продовжувати застосовувати** свої інструменти знову і знову. Отже, наступним кроком на вашому шляху будуть роздуми про те, чого ви навчилися і як це може допомогти вам рухатися вперед.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далі",
+            "sectionId": "df213d2e-1f3b-4e2c-a4a1-bbb8af8db372"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "df213d2e-1f3b-4e2c-a4a1-bbb8af8db372",
+        "alias": "Exercise",
+        "longDescription": "Запишіть свої відповіді.\n\n1. Які інструменти допомагають вам справлятися зі змінами?\n2. Що змінилося для вас з того часу, як ви почали цей курс, якщо це так?\n3. Чому вам важливо постійно розвивати свій набір інструментів для керування змінами?\n\n**Які найважливіші уроки ви винесли для себе?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "15316e7b-8ac0-4e1f-a08b-6f4fb84bd5df"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "15316e7b-8ac0-4e1f-a08b-6f4fb84bd5df",
+        "alias": "Well done",
+        "content": "Ви успішно пройшли курс **Діяти заради змін!**\n\nЩоб продовжити **практику**, ми рекомендуємо використовувати у своєму житті інструменти, які ви вважаєте корисними\n\nВи також можете ознайомитися з **іншими нашими курсами,** наприклад, про цінності та співчуття до себе.\n\nПосилання на дослідження, що лежить в основі цього курсу, ви знайдете на нашому [веб-сайті](https://29k.org/).\n\nЗ любов’ю,\n\nКоманда 29k",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Я закінчив"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2",
+    "alias": "UKR: Coping with crisis 3: Act for change 3",
+    "root": "2efa845f-53f9-4b1f-aced-ff1b08ade8e3",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2efa845f-53f9-4b1f-aced-ff1b08ade8e3",
+        "alias": "Evaluation",
+        "longDescription": "1. Яким був ваш досвід **використання** структурованого вирішення проблем?\n2. Чим це **відрізнялося** від того, що ви робили б зазвичай?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "a335df12-dec4-49f7-b286-0bbf4144b39f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a335df12-dec4-49f7-b286-0bbf4144b39f",
+        "title": "Продовження практики",
+        "alias": "Completion screen",
+        "content": "У цьому короткому курсі ви **отримали інструменти** для подолання змін.\n\nОскільки практика з часом має вирішальне значення, ми рекомендуємо вам **продовжувати застосовувати** свої інструменти знову і знову. Отже, наступним кроком на вашому шляху будуть роздуми про те, чого ви навчилися і як це може допомогти вам рухатися вперед.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далі",
+            "sectionId": "df213d2e-1f3b-4e2c-a4a1-bbb8af8db372"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "df213d2e-1f3b-4e2c-a4a1-bbb8af8db372",
+        "alias": "Exercise",
+        "longDescription": "Запишіть свої **відповіді.**\n\n1. Які інструменти **допомагають** вам справлятися зі змінами?\n2. Що **змінилося** для вас з того часу, як ви почали цей курс, якщо це так?\n3. Чому вам важливо постійно розвивати свій набір інструментів для керування змінами?\n\n**Які найважливіші уроки ви винесли для себе?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "15316e7b-8ac0-4e1f-a08b-6f4fb84bd5df"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "15316e7b-8ac0-4e1f-a08b-6f4fb84bd5df",
+        "alias": "Well done",
+        "content": "Ви успішно пройшли курс **Як подолати кризу!**\n\nЩоб продовжити **практику**, ми рекомендуємо використовувати у своєму житті інструменти, які ви вважаєте корисними\n\nВи також можете ознайомитися з **іншими нашими курсами,** наприклад, про цінності та співчуття до себе.\n\nПосилання на дослідження, що лежить в основі цього курсу, ви знайдете на нашому [веб-сайті](https://29k.org/).\n\nЗ любов’ю,\n\nКоманда 29k",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Що далі?",
+            "sectionId": "056f42ef-ff82-4a5e-90f2-1847d72afe3a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "056f42ef-ff82-4a5e-90f2-1847d72afe3a",
+        "content": "Тепер ви готові до наступного кроку — поділитися зі **своєю групою.**\n\nЗапам'ятайте питання:\n\n1. Як ви зазвичай долаєте **важкі емоції**? Ви показуєте чи намагаєтеся уникати, контролювати або пригнічувати їх?\n2. Чому для вас важливо продовжувати працювати над подоланням тривоги та **занепокоєння**?\n\nЯкі найважливіші уроки ви винесли для себе?",
+        "title": "Обмін",
+        "alias": "Sharing",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Я закінчив"
+          }
+        ]
+      }
+    ]
+  }
+}

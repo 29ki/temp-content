@@ -1,0 +1,259 @@
+{
+  "en": {
+    "id": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961",
+    "alias": "Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "61d21697-b3f9-4b48-ae33-48b974084466",
+        "alias": "Act for change",
+        "title": "Act for change",
+        "content": "So far we've focused on exploring how change and challenges affect us and practicing acceptance in areas we can't change.\n\nIn this final lesson we'll look at the areas in your life you can control. Acting for change is a final ingredient that helps you continuously **move your life in a meaningful direction**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "2aed4035-e1d2-422a-ad76-65448391f16c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2aed4035-e1d2-422a-ad76-65448391f16c",
+        "content": "### Learn more about:\n\n* Taking action\n* Problem-solving\n* Practical steps\n\n### You’ll need:\n\n* 20 minutes\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "8b15f378-5903-4e1c-aa12-dfd3c5ecad24"
+          }
+        ],
+        "alias": "Today’s lesson"
+      },
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "3747be04-af14-4f99-9b58-a25157b76c53"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "",
+        "duration": "6:45",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "8b15f378-5903-4e1c-aa12-dfd3c5ecad24",
+        "description": "Before we get going, let's take a moment to arrive. This meditation aims to help you **become more mindful and present**, and prepare you for the exercise you're about to do.\n\nPress play to start."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3747be04-af14-4f99-9b58-a25157b76c53",
+        "title": "",
+        "alias": "anxiety cycle",
+        "content": "Previously you've identified what's out of your control and what might be the wisest to accept.\n\nDwelling and worrying may seem like problem-solving, but in fact we make no real progress solving things as long as we remain stuck in an anxiety cycle.\n\nBut in almost every situation — no matter how challenging — **there's meaningful action we can take.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it",
+            "sectionId": "e1aee658-ade0-48c0-bc3f-77ee9e92f334"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e1aee658-ade0-48c0-bc3f-77ee9e92f334",
+        "content": "Now it's time to explore one thing that is currently contributing to your anxiety, and identify what you can do to change it — from brainstorming solutions to taking concrete action.\n\nSuch changes don’t have to be drastic. Sometimes tweaking our actions is enough to make a significant difference.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Next",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          }
+        ],
+        "alias": "Take action"
+      }
+    ],
+    "root": "61d21697-b3f9-4b48-ae33-48b974084466"
+  },
+  "sv": {
+    "id": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961",
+    "alias": "Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "da9f59a5-64c9-464e-91cb-3b7a2d404e80",
+        "alias": "Act for change",
+        "title": "Förändra det som går",
+        "content": "Tidigare i kursen har vi utforskat hur svåra förändrangar och utmaninr kan påverka oss, och hur vi kan möta det vi inte kan förändra med acceptans. I den här sista lektionen i kursen ska vi titta närmare på saker som du faktiskt kan påverka. \n\nI den här lektionen får du lära dig att **ta praktiska steg mot det som är viktigt** i ditt liv även i svåra situationer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är redo",
+            "sectionId": "a791f696-9456-46ba-9afb-8a4f44a5feef"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a791f696-9456-46ba-9afb-8a4f44a5feef",
+        "content": "### Lär dig mer om:\n\n* Göra något meningsfullt\n* Problemlösning\n* Praktiska steg\n\n### Du behöver:\n\n* 20 minuter \n* Penna och papper",
+        "alias": "Dagens lektion",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "4ccd7efa-1a8e-46b8-9347-baf3bb27229f"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          },
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "b1ae3d55-0caf-4dd3-acc2-0f6e03feab93"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "",
+        "duration": "9.55",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1620819842/Meditations/Breathing_anchor_SWE_so0zq1.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "4ccd7efa-1a8e-46b8-9347-baf3bb27229f",
+        "description": "Innan vi sätter igång ska vi ta ett steg tillbaka och landa. Den här meditation hjälper dig **bli mer uppmärksam och närvarande**, samtidigt som den förbereder dig för nästa övning.\n\nTryck på play för att börja."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b1ae3d55-0caf-4dd3-acc2-0f6e03feab93",
+        "content": "Vi har tidigare diskuterat sånt som är utanför vår kontroll, där det klokaste kanske är att acceptera det som har hänt och de känslor vi har.\n\nAtt älta och oroa sig kan kännas som ett slags problemlösning för hjärnan, men i själva verket kommer vi oftast ingenstans, utan fastnar i en ångestspiral.\n\nMen i nästan alla situationer – oavsett hur utmanande – **kan vi göra något meningsfullt.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "2534e0f5-9e64-4c42-9607-f0f13ec321cd"
+          }
+        ],
+        "alias": "ångestspiralen"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2534e0f5-9e64-4c42-9607-f0f13ec321cd",
+        "content": "Nu är det dags att ta tag i en sak av det som bidrar till din ångest just nu. Du ska få fundera ut saker du själv kan göra – från att brainstorma lösningar till att ta konkreta steg för att förändra.\n\nDet behöver inte vara någon jättestor sak. Ibland räcker det med att ändra ett litet beteende för att få till en stor förändring.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587",
+            "content": "Gå vidare"
+          }
+        ],
+        "alias": "Tweak your actions"
+      }
+    ],
+    "root": "da9f59a5-64c9-464e-91cb-3b7a2d404e80"
+  },
+  "pt": {
+    "id": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961",
+    "alias": "Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "82c87910-2732-45a1-8c74-7c60e68063c6",
+        "alias": "Agir para mudar",
+        "title": "Agir para mudar",
+        "content": "Até agora, concentramo-nos em compreender como as mudanças e os desafios nos afetam e a praticar a aceitação dos aspetos que não podemos mudar.\n\nNesta lição final, veremos as áreas da tua vida que em princípio podes controlar. Agir para a mudança é um ingrediente final que te ajuda a **moveres a tua vida de forma contínua numa direção com significado** para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "19fcc3da-a5a0-4880-a2c7-430f34c008dc"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "19fcc3da-a5a0-4880-a2c7-430f34c008dc",
+        "content": "### Vais aprender mais acerca de:\n\n* Agir\n* Resolução de problemas\n* Adotar medidas práticas\n\n### O que vais precisar:\n\n* 20 min de sossego sem interrupções\n* Caneta e papel",
+        "alias": "Lição de hoje",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "656a0376-e640-472a-aebd-f8eae6825caf"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "",
+        "duration": "6:01",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429299/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_10_-_Breathing_Anchor_r7zkxc.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d",
+        "description": "Antes de continuarmos vamos acalmar um pouco. Esta meditação vai ajudar-te a sentires-te mais **consciente** e **presente**, sendo uma preparação para o próximo exercício.\n\nCarrega no *play* para começar."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "656a0376-e640-472a-aebd-f8eae6825caf",
+        "alias": "Ciclo da ansiedade",
+        "title": "",
+        "content": "Anteriormente, identificamos o que está fora do nosso controlo e o que poderá ser melhor aceitarmos.\n\nPermanecermos num ciclo de preocupação pode parecer uma espécie de resolução dos problemas, mas, na verdade, não fazemos nenhum progresso real na sua resolução se ficarmos preso num ciclo de ansiedade.\n\nEm quase todas as situações, por mais desafiadoras que sejam, **há ações significativas que podemos tomar.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi",
+            "sectionId": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0",
+        "alias": "Agir",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          }
+        ],
+        "content": "Está na altura de explorar um tema que esteja a contribuir para a tua ansiedade e identificar o que podes fazer para o mudar – desde soluções mais criativas até ações concretas.\n\nEstas mudanças não precisam ser drásticas. Às vezes, ajustar as nossas ações é suficiente para obtermos uma diferença significativa."
+      }
+    ],
+    "root": "82c87910-2732-45a1-8c74-7c60e68063c6"
+  }
+}

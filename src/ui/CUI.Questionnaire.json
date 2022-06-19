@@ -1,0 +1,56 @@
+{
+  "en": {
+    "question": {
+      "heading__markdown": "Question ~~{{current}} of {{count}}~~"
+    },
+    "confirm": {
+      "heading": "All questions completed",
+      "body__markdown": "You can swipe back if you need to change your answers.",
+      "done_button": "I'm done"
+    },
+    "result": {
+      "heading__markdown": "# Your ~~Results~~",
+      "body__markdown": "You have now completed the test. Your result was {{score}} points.",
+      "overallHeading": "Overall",
+      "done_button": "done",
+      "scoreFromTotal": "Your score for this category was ~~{{score}} out of {{totalScore}}~~.",
+      "categoryTitle": "Category {{categoryNumber}} out of {{categoryLength}}: **{{categoryLabel}}**"
+    }
+  },
+  "sv": {
+    "question": {
+      "heading__markdown": "Fråga ~~{{current}} av {{count}}~~"
+    },
+    "confirm": {
+      "heading": "Du har svarat på alla frågor",
+      "body__markdown": "Du kan svajpa bakåt om du vill ändra något svar.",
+      "done_button": "Jag är klar"
+    },
+    "result": {
+      "heading__markdown": "# Dina ~~resultat~~",
+      "overallHeading": "Generellt",
+      "body__markdown": "Du har nu slutfört testet. Ditt resultat var {{score}} poäng.",
+      "done_button": "Klar",
+      "scoreFromTotal": "Your score for this category was ~~{{score}} out of {{totalScore}}~~.",
+      "categoryTitle": "Category {{categoryNumber}} out of {{categoryLength}}: **{{categoryLabel}}**"
+    }
+  },
+  "pt": {
+    "question": {
+      "heading__markdown": "Pergunta ~~{{current}} de {{count}}~~"
+    },
+    "confirm": {
+      "heading": "Respondeste a todas as questões",
+      "body__markdown": "Podes deslizar lateralmente este bloco se quiseres alterar as tuas respostas.",
+      "done_button": "Terminei"
+    },
+    "result": {
+      "heading__markdown": "# Os teus ~~Resultados~~",
+      "body__markdown": "Completaste o teste. O teu resultado foram {{score}} pontos.",
+      "overallHeading": "Geral",
+      "done_button": "Terminei",
+      "scoreFromTotal": "Your score for this category was ~~{{score}} out of {{totalScore}}~~.",
+      "categoryTitle": "Category {{categoryNumber}} out of {{categoryLength}}: **{{categoryLabel}}**"
+    }
+  }
+}

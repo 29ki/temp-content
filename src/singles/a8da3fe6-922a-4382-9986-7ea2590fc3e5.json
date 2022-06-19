@@ -1,0 +1,292 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Focus on your breath",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646986178/New_images/meditations%20png/breathing_anchor_x27gw5.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "a8da3fe6-922a-4382-9986-7ea2590fc3e5",
+    "description": "Land here and now using your breathing",
+    "wip": false,
+    "stations": [
+      {
+        "id": "dropping-anchor",
+        "alias": "Meditation: Focus on your breath - short",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/a8da3fe6-922a-4382-9986-7ea2590fc3e5/andningsankaret_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# The breathing anchor"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Sometimes thoughts and feelings divert attention. Help yourself land in the present moment with this focus exercise."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639650834/Meditations/Focus_on_your_breath_qwedbr.mp3",
+                  "duration": 2
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Well done"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "You have now practiced being **here** and **now** aided by your own breathing. You can do this focus exercise anywhere, anytime when you notice that thoughts and feelings are distracting you."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "End"
+          }
+        ],
+        "name": "Focus on your breath",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Fokusera på ditt andetag",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646986178/New_images/meditations%20png/breathing_anchor_x27gw5.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "a8da3fe6-922a-4382-9986-7ea2590fc3e5",
+    "description": "Landa här och nu med hjälp av din andning",
+    "stations": [
+      {
+        "id": "dropping-anchor",
+        "alias": "Meditation: Focus on your breath - short",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/a8da3fe6-922a-4382-9986-7ea2590fc3e5/andningsankaret_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Andningsankaret"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Ibland drar tankar och känslor iväg med uppmärksamheten. Hjälp dig själv att landa i nuet igen med den här fokusövningen."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Kör igång"
+          },
+          {
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646704/Meditations/1_swe_focusbreath_pjfkl6.wav",
+                  "duration": 339
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Fint jobbat"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Du har nu tränat på att landa här och nu med hjälp av din egen andning. Den här fokusövningen kan du göra var och när som helst när du märker att tankar och känslor drar iväg din uppmärksamhet."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "761fc889-3874-4b44-9a5d-eee7217bdb3a",
+            "alias": "sharing wall focus on your breath short",
+            "question": "Vad upplevde du under övningen?",
+            "exampleText": "Lugn, fokus."
+          }
+        ],
+        "name": "Fokusera på ditt andetag",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "The breathing anchor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646986178/New_images/meditations%20png/breathing_anchor_x27gw5.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "a8da3fe6-922a-4382-9986-7ea2590fc3e5",
+    "description": "Land here and now using your breathing",
+    "wip": true,
+    "stations": [
+      {
+        "id": "dropping-anchor",
+        "alias": "Meditation: Focus on your breath - short",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/a8da3fe6-922a-4382-9986-7ea2590fc3e5/andningsankaret_header.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# The breathing anchor"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Sometimes thoughts and feelings divert attention. Help yourself land in the present again with this focus exercise."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv/Andningsankaret.mp3",
+                  "duration": 208
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Well done"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "You have now practiced being here and now with the help of your own breathing. You can do this focus exercise anywhere, anytime when you notice that thoughts and feelings are distracting you."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "End"
+          }
+        ],
+        "name": "The breathing anchor",
+        "type": "station"
+      }
+    ]
+  }
+}

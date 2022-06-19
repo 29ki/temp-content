@@ -1,0 +1,71 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Self compassion",
+    "conversations": [
+      {
+        "conversationId": "self-compassion-test",
+        "title": "Self compassion"
+      }
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795939/New_images/test/1024x1024/self_compassion_dxyi7r.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 2
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "type": "test",
+    "id": "3299d5f5-1058-4149-9e7c-60876ef05106",
+    "difficulty": ["Beginner"],
+    "category": "c63b1190-9194-44c7-970c-a1db8a435363",
+    "wip": false
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Självmedkänsla",
+    "conversations": [
+      {
+        "conversationId": "self-compassion-test",
+        "title": "Self compassion"
+      }
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795939/New_images/test/1024x1024/self_compassion_dxyi7r.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 2
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "type": "test",
+    "id": "3299d5f5-1058-4149-9e7c-60876ef05106",
+    "difficulty": ["Beginner"],
+    "category": "c63b1190-9194-44c7-970c-a1db8a435363",
+    "wip": false
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "Autocompaixão",
+    "conversations": [
+      {
+        "conversationId": "self-compassion-test",
+        "title": "Autocompaixão"
+      }
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795939/New_images/test/1024x1024/self_compassion_dxyi7r.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 2
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "type": "test",
+    "id": "3299d5f5-1058-4149-9e7c-60876ef05106",
+    "difficulty": ["Beginner"],
+    "category": "c63b1190-9194-44c7-970c-a1db8a435363",
+    "wip": false
+  }
+}

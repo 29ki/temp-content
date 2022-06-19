@@ -1,0 +1,236 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Letting go of control",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646661921/Illustrations_Exercises/Compass_card_of1pi1.png",
+      "lottie": "https://res.cloudinary.com/twentyninek/raw/upload/v1651834633/Illustrations_Exercises/ball_bqgtek.json"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 8
+    },
+    "version": 1,
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "747e192f-c800-4c7d-8ba7-1f8789f07599",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-747e192f-c800-4c7d-8ba7-1f8789f07599",
+        "name": "Letting go of control",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "6ea5f38a-29e2-4f04-b4c8-03c129d77e70",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819229/Illustrations_Exercises/ball-04_dqvw7w.png",
+            "title": "",
+            "content": "When difficult feelings arise, many of us have a natural tendency to try to control them. \n\nThe **impulse to control things can make us feel in charge**.\n\nBut science shows that this is just an illusion.",
+            "buttonText": "Show me"
+          },
+          {
+            "type": "audio",
+            "id": "ab2236e3-c319-4f40-b5f6-2516c565720f",
+            "alias": "Meditation introduction",
+            "imageUri": "",
+            "title": "",
+            "description": "Press play to start.",
+            "buttonText": "I'm done",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653988703/Meditations/Beach%20ball.wav"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6cfc1e4b-4eb1-4b57-ade0-d06c34d3a673",
+            "content": "The more time and effort we spend trying to **control our feelings, the more they tend to dictate** our lives.\n\nThe same goes for a lot of things in life. Often we believe that the more control we have, the closer we will get to reaching our goals.",
+            "buttonText": "Next",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819283/Illustrations_Exercises/ball-05_tpvl9j.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0cd4809b-be70-4165-8444-24c314831972",
+            "content": "That can be true in some instances.\n\nBut when we get stuck in a loop of trying to control ourselves and the events around us, we often end up **diverging** **from our values.** \n\nOr miss out on participating in important occasions that actually matters to us.",
+            "buttonText": "Continue",
+            "infoItems": [
+              {
+                "title": "Show examples",
+                "description": "* *I don't know what's going to happen, so I'll just not go*\n* *I have to be happy! What's wrong with me? Stop being sad!*\n* *I can't show others that I'm sad, so I'll keep it all to myself*\n* *I'm scared of flying so I never travel*"
+              }
+            ],
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819343/Illustrations_Exercises/ball-07_kidmmr.png"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "dc9914f5-c9cb-41b3-823a-a8ec555bc770",
+            "question": "What would letting go of your beach ball mean to you? What would you do differently?",
+            "exampleText": "I think it would change a lot in my life. I would be able to live a more free life and do things that I enjoy, regardless of how I'm feeling.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "823764a2-9f96-49b9-bdcc-a55bdd0b44b8",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819374/Illustrations_Exercises/ball-06_yr3xrm.png",
+            "title": "Acceptance",
+            "content": "Letting go of control may seem scary, risky and very uncomfortable.\n\nBut by practicing **acceptance, we can learn to make room for a range of feelings** **and experiences** — without trying to escape, numb or fight the ones we don’t want or like.\n\nThis allows us to redirect our focus and instead spend our energy on all things that are important to us.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Släpp kontrollen",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646661921/Illustrations_Exercises/Compass_card_of1pi1.png",
+      "lottie": "https://res.cloudinary.com/twentyninek/raw/upload/v1651834633/Illustrations_Exercises/ball_bqgtek.json"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 8
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "747e192f-c800-4c7d-8ba7-1f8789f07599",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-747e192f-c800-4c7d-8ba7-1f8789f07599",
+        "name": "Släpp kontrollen",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "6ea5f38a-29e2-4f04-b4c8-03c129d77e70",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819229/Illustrations_Exercises/ball-04_dqvw7w.png",
+            "title": "",
+            "content": "När vi upplever **svåra känslor är det normalt att försöka kontrollera dem**. \n\nDen här impulsen gör att vi känner att vi har koll på läget — att vi faktiskt kan kontrollera vår situation.\n\nMen forskningen visar att det är en illusion.",
+            "buttonText": "Visa mig"
+          },
+          {
+            "type": "audio",
+            "id": "ab2236e3-c319-4f40-b5f6-2516c565720f",
+            "alias": "Meditation introduction",
+            "imageUri": "",
+            "title": "",
+            "description": "Tryck på play-knappen för att sätta igång.",
+            "buttonText": "Jag är klar",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1648758984/Meditations/Sla%CC%88pp_taget_om_kontrollen_iqaofx.mp3"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6cfc1e4b-4eb1-4b57-ade0-d06c34d3a673",
+            "content": "Ju mer vi anstränger oss för at**t försöka kontrollera våra känslor, desto mer tenderar de att ta över våra liv.**\n\nSamma sak kan gälla för andra saker i livet – ofta tror vi att mer kontroll ger oss större chans att nå våra mål.",
+            "buttonText": "Nästa",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819283/Illustrations_Exercises/ball-05_tpvl9j.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0cd4809b-be70-4165-8444-24c314831972",
+            "content": "Att försöka kontrollera leder ofta till att vi **fastnar i en ond cirkel där vi blir överdrivet uppmärksamma** på det som händer både i och utanför oss. \n\nDet kan leda till att vi låter bli att göra sådant som vi egentligen värdesätter.",
+            "buttonText": "Fortsätt",
+            "infoItems": [
+              {
+                "title": "Visa exempel",
+                "description": "* *Jag vet inte vad som kommer hända, så jag tackar nej*\n* *Jag måste vara glad! Vad är det för fel på mig? Sluta vara ledsen!*\n* *Jag får inte visa andra att jag är ledsen, så jag håller allt inom mig*\n* *Jag är rädd för att flyga så jag åker aldrig på resor*"
+              }
+            ],
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819343/Illustrations_Exercises/ball-07_kidmmr.png"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "dc9914f5-c9cb-41b3-823a-a8ec555bc770",
+            "question": "Vad skulle du göra annorlunda om du släppte taget om din badboll? ",
+            "exampleText": "Jag tror mycket skulle förändras i mitt liv. Jag skulle känna mig fri. Och kunna göra saker som jag egentligen tycker om, oavsett hur jag känner mig inför situationen.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "823764a2-9f96-49b9-bdcc-a55bdd0b44b8",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651819374/Illustrations_Exercises/ball-06_yr3xrm.png",
+            "title": "Acceptans",
+            "content": "Att släppa taget om kontrollen kan verka läskigt, riskabelt och obehagligt.\n\nGenom att öva på att **acceptera oss själva och våra upplevelser, kan vi lära oss att göra plats för alla typer av känslor**.\n\nMed det minskar impulsen att försöka fly från, undvika eller trycka undan det vi inte vill ha eller tycker om. Dessutom hjälper det oss att istället fokusera vår energi på allt sådant som är viktigt för oss.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 8
+    },
+    "type": "exercise",
+    "id": "747e192f-c800-4c7d-8ba7-1f8789f07599",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-747e192f-c800-4c7d-8ba7-1f8789f07599",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "ab2236e3-c319-4f40-b5f6-2516c565720f",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6ea5f38a-29e2-4f04-b4c8-03c129d77e70",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "823764a2-9f96-49b9-bdcc-a55bdd0b44b8",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

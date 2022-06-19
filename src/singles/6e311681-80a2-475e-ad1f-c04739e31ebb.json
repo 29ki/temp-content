@@ -1,0 +1,183 @@
+{
+  "en": {
+    "id": "6e311681-80a2-475e-ad1f-c04739e31ebb",
+    "name": "Distance to thoughts",
+    "segments": [
+      "ADULTS"
+    ],
+    "duration": {
+      "count": 8,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/distance_to_thoughts_mrzfrt.png"
+    },
+    "description": "Let go of looping thoughts.",
+    "stations": [
+      {
+        "id": "6e311681-80a2-475e-ad1f-c04739e31ebb",
+        "root": "section1",
+        "alias": "Meditation Distance to thoughts",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "The Chattering Monkey",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/distance_to_thoughts_mrzfrt.png",
+            "title": "The Chattering Monkey",
+            "content": "In this meditation you get to practice distance from your own inner critic. Please be mindful that this meditation requires you to be somewhere where you can talk out loud.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Press play to start.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/chattering-monkey.mp3",
+            "duration": "7:31",
+            "alias": "2",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/6e311681-80a2-475e-ad1f-c04739e31ebb/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Being able to distinguish the facts from our thoughts helps us regain control and focus on that we can change.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "5db2234c-929b-49e1-8553-e1c12ccdcebe",
+            "alias": "sharing wall distance to thoughts",
+            "question": "How was doing this exercise for you?",
+            "exampleText": "VERY weird - and interesting at the same time. "
+          }
+        ],
+        "name": "Distance to thoughts",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Distans till tankar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/distance_to_thoughts_mrzfrt.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "6e311681-80a2-475e-ad1f-c04739e31ebb",
+    "description": "Släpp slingrande tankar.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "6e311681-80a2-475e-ad1f-c04739e31ebb",
+        "root": "section1",
+        "alias": "Meditation Distance to thoughts",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Den pratande apan",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/distance_to_thoughts_mrzfrt.png",
+            "title": "Den pratande apan",
+            "content": "* 7: 32 minuter *\n\nDenna meditation hjälper dig att få lite användbart avstånd från din egen inre kritiker.",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "7 minuters meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/chattering-monkey.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/6e311681-80a2-475e-ad1f-c04739e31ebb/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Att kunna skilja fakta från våra tankar hjälper oss att återfå kontrollen och fokusera på att vi kan förändra.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Distans till tankar",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "O macaco tagarela",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/distance_to_thoughts_mrzfrt.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "6e311681-80a2-475e-ad1f-c04739e31ebb",
+    "description": "Deixa de lado os pensamentos repetitivos",
+    "stations": [
+      {
+        "id": "6e311681-80a2-475e-ad1f-c04739e31ebb",
+        "root": "section1",
+        "alias": "Meditation Distance to thoughts",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "O macaco tagarela",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/distance_to_thoughts_mrzfrt.png",
+            "title": "O macaco tagarela",
+            "content": "Esta meditação ajuda-te a criar uma distância saudável da tua crítica ou do teu crítico interior.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013535/29k%20FJN/Meditations/Cristina%20Final/O_MACACO_TAGARELA_-_09_29_ndk5vc.mp3",
+            "alias": "2",
+            "duration": "9:29",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/6e311681-80a2-475e-ad1f-c04739e31ebb/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Ser capaz de distinguir a realidade dos nossos pensamentos ajuda-nos a recuperar o controlo e o foco daquilo que podemos mudar na nossa vida.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "7410b9c9-0678-464c-8496-658a92f14ac3",
+            "alias": "sharing wall distance to thoughts",
+            "question": "O que sentiste ao fazer esta meditação?",
+            "exampleText": "Senti-me estranha/o, mas foi ao mesmo tempo interessante! "
+          }
+        ],
+        "name": "O macaco tagarela",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "en": {
+    "id": "e8a57c79-650f-400a-95f4-ba85497897da",
+    "alias": "RUS: Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+        "alias": "Our emotions can't harm us",
+        "title": "Наши эмоции не могут навредить нам",
+        "content": "Даже самые сильные **эмоции приходят и уходят** волнами.\n\nКогда сильная эмоция находится в самом разгаре, то естественно, что мы испытываем беспокойство, страх или дискомфорт. Также является обычным делом то, что мы импульсивно хотим контролировать или избежать наших эмоций.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далее",
+            "sectionId": "d8d7dc64-28e5-48a9-bd53-39aa9992d077"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8d7dc64-28e5-48a9-bd53-39aa9992d077",
+        "alias": "Avoiding",
+        "content": "Однако попытки **избежать** эмоций или **бороться** против них обычно **не дают результата.**\n\nХотя избегание эмоций может помочь нам справится с острой ситуацией в краткосрочной перспективе, зачастую оно не даёт нам ощутить успех в **долгосрочной перспективе.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+            "content": "Далee"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+        "content": "Когда мы ждём, что нежелательное ощущение просто уйдёт и мы сможем наконец-то делать те вещи, которые хотим, мы ставим нашу жизнь на долгую паузу. Иногда – на очень долгую паузу.\n\nБолее полезная **стратегия** – открыться нашим чувствам, приняв их. Это даёт нам возможность сделать маленькие и многозначительные шаги там, где мы можем это.",
+        "alias": "Opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+            "content": "Далe"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+        "alias": "Meditation",
+        "title": "",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/2_Healing_hand_-_Russian_wiwxzn.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Я завершил",
+            "conversationId": "082b2fbb-4feb-4ff8-990e-2a954118b6e2"
+          }
+        ],
+        "duration": 323
+      }
+    ],
+    "root": "8213a497-5976-4b29-9d6f-4c7449a37e32"
+  },
+  "sv": {
+    "id": "e8a57c79-650f-400a-95f4-ba85497897da",
+    "alias": "RUS: Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+        "alias": "Our emotions can't harm us",
+        "title": "Наши эмоции не могут навредить нам",
+        "content": "Даже самые сильные **эмоции приходят и уходят** волнами.\n\nКогда сильная эмоция находится в самом разгаре, то естественно, что мы испытываем беспокойство, страх или дискомфорт. Также является обычным делом то, что мы импульсивно хотим контролировать или избежать наших эмоций.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далее",
+            "sectionId": "d8d7dc64-28e5-48a9-bd53-39aa9992d077"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8d7dc64-28e5-48a9-bd53-39aa9992d077",
+        "alias": "Avoiding",
+        "content": "Однако попытки **избежать** эмоций или **бороться** против них обычно **не дают результата.**\n\nХотя избегание эмоций может помочь нам справится с острой ситуацией в краткосрочной перспективе, зачастую оно не даёт нам ощутить успех в **долгосрочной перспективе.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+            "content": "Далee"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+        "content": "Когда мы ждём, что нежелательное ощущение просто уйдёт и мы сможем наконец-то делать те вещи, которые хотим, мы ставим нашу жизнь на долгую паузу. Иногда – на очень долгую паузу.\n\nБолее полезная **стратегия** – открыться нашим чувствам, приняв их. Это даёт нам возможность сделать маленькие и многозначительные шаги там, где мы можем это.",
+        "alias": "Opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+            "content": "Далe"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+        "alias": "Meditation",
+        "title": "",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/2_Healing_hand_-_Russian_wiwxzn.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Я завершил",
+            "conversationId": "082b2fbb-4feb-4ff8-990e-2a954118b6e2"
+          }
+        ],
+        "duration": 323
+      }
+    ],
+    "root": "8213a497-5976-4b29-9d6f-4c7449a37e32"
+  },
+  "pt": {
+    "id": "e8a57c79-650f-400a-95f4-ba85497897da",
+    "alias": "RUS: Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+        "alias": "Our emotions can't harm us",
+        "title": "Наши эмоции не могут навредить нам",
+        "content": "Даже самые сильные **эмоции приходят и уходят** волнами.\n\nКогда сильная эмоция находится в самом разгаре, то естественно, что мы испытываем беспокойство, страх или дискомфорт. Также является обычным делом то, что мы импульсивно хотим контролировать или избежать наших эмоций.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далее",
+            "sectionId": "d8d7dc64-28e5-48a9-bd53-39aa9992d077"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8d7dc64-28e5-48a9-bd53-39aa9992d077",
+        "alias": "Avoiding",
+        "content": "Однако попытки **избежать** эмоций или **бороться** против них обычно **не дают результата.**\n\nХотя избегание эмоций может помочь нам справится с острой ситуацией в краткосрочной перспективе, зачастую оно не даёт нам ощутить успех в **долгосрочной перспективе.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+            "content": "Далee"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+        "content": "Когда мы ждём, что нежелательное ощущение просто уйдёт и мы сможем наконец-то делать те вещи, которые хотим, мы ставим нашу жизнь на долгую паузу. Иногда – на очень долгую паузу.\n\nБолее полезная **стратегия** – открыться нашим чувствам, приняв их. Это даёт нам возможность сделать маленькие и многозначительные шаги там, где мы можем это.",
+        "alias": "Opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+            "content": "Далe"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+        "alias": "Meditation",
+        "title": "",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/2_Healing_hand_-_Russian_wiwxzn.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Я завершил",
+            "conversationId": "082b2fbb-4feb-4ff8-990e-2a954118b6e2"
+          }
+        ],
+        "duration": 323
+      }
+    ],
+    "root": "8213a497-5976-4b29-9d6f-4c7449a37e32"
+  }
+}

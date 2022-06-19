@@ -1,0 +1,679 @@
+{
+  "en": {
+    "id": "JEQeL6RPUbmDkdEaaJ94bc",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Showing yourself",
+        "title": "Showing yourself",
+        "content": "### Today’s lesson has three parts:\n\n* Defenses to openness\n* Deeper truths\n* Expanding your comfort zone\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Pen and paper\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Openness leads to trust",
+        "title": "Openness leads to trust",
+        "content": "We may think we deserve connection and attention by being good enough, when it’s more about being willing enough... willing to take the risk of being rejected by showing your whole self. Being vulnerable means “I am able to be wounded”. How connected do you feel to someone who is always perfect, flawless? The truth is we more easily connect to people when they show a range of their feelings, from unmasked joy to vulnerable sorrow. Because they are not hiding, we feel we can trust them more. Openness leads to trust, which leads to deeper connection.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Defenses to openness",
+        "title": "Defenses to openness",
+        "content": "We’ve all been hurt when we have shown ourselves. So in the here and now we put up protections and defenses. The most common and habitual protection is staying superficial in conversations and letting opportunities to connect more deeply pass by,  e.g. small talk, switching from one subject to another - anything that keeps us from slowing down, revealing what we really feel, think, need, or talking about things that matter to us.\n\nOther common defenses are:\n\n- appeasing and pleasing others, avoiding speaking our truths or saying no\n- joy phobia; not fully showing our joy, love and appreciation when we feel it\n- avoiding showing our sorrows and worries, keeping secrets\n- keeping people at a distance; blaming, judging,\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Missed opportunities",
+        "title": "Missed opportunities",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_3/6.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_3/deepeningrelationships_showingyourself_01.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Missed opportunities",
+        "title": "Missed opportunities",
+        "time": "Take 5 min",
+        "question": "",
+        "longDescription": "1. Look at the connections you experienced last week or longer back. Were there any opportunities for you to be open that you might have missed or where you hid some parts of yourself? Write down what you did/did not do (see common defenses on the previous screen).\n\n2. What might you have gained from not fully being open? e.g. minimizing risking so as not to get hurt\n\n3. What might it cost you to not be open? e.g. deeper connection, trying to be perfect is stressful\n\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Deeper truths",
+        "title": "Deeper truths",
+        "content": "### Are you good enough or willing enough?\nPeople will only like me if I am inspiring”, “I can’t show up when I’m feeling this low and tired”. The inner critical voice might be trying to protect us from getting hurt, but by trying to be perfect, we lose authentic connection to ourselves and others. Feelings, good or bad, are not enemies, they are one of the building blocks with which we can connect to others. Let’s look into the deeper truths of who you are.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Deeper Truths",
+        "title": "Deeper Truths",
+        "time": "Take 5-10 min",
+        "question": "Finish these sentences on a piece of paper. Try writing with your non-dominant hand as this tends to elicit more potent, less ordinary responses. They might be quite intense and emotional. Be open, courageous, and be gentle with yourself. In the sharing group it’s optional to share these or not.",
+        "longDescription": "1. I feel…\n2. I need…\n3. I long for…\n4. I’m scared…\n5. I’m struggling with…\n6. I dream of…\n7. I pretend that…\n8. It’s hard for me to talk about…\n9. If I had the courage, I would…\n10. One thing I rarely share with others is….\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Reflection",
+        "title": "Reflection",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_3/7.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_3/deepeningrelationships_showingyourself_02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Reflection",
+        "title": "Reflection",
+        "time": "Take 5 min",
+        "question": "Reflect on these questions. Write your answer down on a piece of paper, and hold on to it, you’ll be needing it later:",
+        "longDescription": "1. Were you surprised by any of your answers?\n\n2. What needs further compassionate attention from you?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Expanding your comfort zone",
+        "title": "Expanding your comfort zone",
+        "content": "The word “courage” traditionally meant \"to speak one’s mind by revealing one’s heart”. Courage doesn’t have to be a big heroic deed. It doesn’t mean you have to reveal everything that’s on your mind or in your heart. It calls for opening up and taking small risks, and that can feel uncomfortable. In the following meditation you will be guided to expand your comfort zone in a relationship and take a risk.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "audio",
+        "title": "Meditation - Stepping out of your comfort zone",
+        "description": "In this meditation, you will prepare for the next exercise by preparing to step out of your comfort zone",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_steppingoutofyourcomfortzone.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ],
+        "alias": "Meditation - Stepping out of your comfort zone",
+        "duration": "06:07"
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Reflection",
+        "title": "Reflection",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_3/8.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_3/deepeningrelationships_showingyourself_03.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Reflection",
+        "title": "Reflection",
+        "time": "Take 5-10 min",
+        "longDescription": "1. Choose one person in your life you want to get closer to.\n2. Write down 1-3 ways they inspire you or things that they do that you appreciate.\n3. What has kept you from reaching out to them?\n4. How do you think those people in your life would respond to you if expressed these thoughts and feelings you just wrote down to them?\n5. What kind of self-care do you need in order risk more positive disclosures towards others?  (e.g., recognizing what you need in order to feel safer such as speaking in person to get immediate feedback, or taking a baby step such as saying “I like spending time with you” rather than “I love you.”)\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Being vulnerable can feel really scary. This week, see if you can notice moments where you can show yourself, what you feel, need or think and try to be just a bit more open.\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Showing yourself"
+  },
+  "sv": {
+    "id": "JEQeL6RPUbmDkdEaaJ94bc",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Visar dig själv",
+        "title": "Visar dig själv",
+        "content": "### Dagens lektion består av tre delar:\n\n* Försvar mot öppenhet\n* Djupare sanningar\n* Utöka din komfortzon\n\n### Du kommer att behöva:\n\n* 40 min ostörd tid\n* Penna och papper\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Öppenhet leder till förtroende",
+        "title": "Öppenhet leder till förtroende",
+        "content": "Vi kanske tycker att vi förtjänar anslutning och uppmärksamhet genom att vara tillräckligt bra, när det handlar mer om att vara villiga nog ... villiga att ta risken att bli avvisade genom att visa hela jag. Att vara sårbar betyder \"jag kan bli sårad\". Hur ansluten känner du dig till någon som alltid är perfekt, perfekt? Sanningen är att vi lättare ansluter till människor när de visar en rad känslor, från omaskad glädje till sårbar sorg. Eftersom de inte gömmer sig, känner vi att vi kan lita på dem mer. Öppenhet leder till förtroende, vilket leder till djupare koppling.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Försvar för öppenhet",
+        "title": "Försvar för öppenhet",
+        "content": "Vi har alla skadats när vi har visat oss. Så här och nu sätter vi upp skydd och försvar. Det vanligaste och vanliga skyddet är att hålla sig ytlig i konversationer och låta möjligheterna att gå djupare förbi, t.ex. småprat, byta från ett ämne till ett annat - allt som hindrar oss från att sakta ner, avslöjar vad vi verkligen känner, tänker, behöver eller pratar om saker som betyder något för oss.\n\nAndra vanliga försvar är:\n\n- lugna och glädja andra, undvika att tala våra sanningar eller säga nej\n- glädjefobi visar inte helt vår glädje, kärlek och uppskattning när vi känner det\n- undvika att visa våra sorger och bekymmer, hålla hemligheter\n- hålla människor på avstånd; skylla, bedöma,\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Missade möjligheter",
+        "title": "Missade möjligheter",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_3/6.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_3/deepeningrelationships_showingyourself_01.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Missade möjligheter",
+        "title": "Missade möjligheter",
+        "time": "Ta 5 min",
+        "question": "",
+        "longDescription": "1. Titta på anslutningarna du upplevde förra veckan eller längre tillbaka. Fanns det några möjligheter för dig att vara öppen som du kanske missat eller där du gömde vissa delar av dig själv? Skriv ner vad du gjorde / inte gjorde (se vanliga försvar på föregående skärm).\n\n2. Vad kan du ha vunnit genom att inte vara helt öppen? t.ex. minimera risk för att inte skada dig\n\n3. Vad kan det kosta dig att inte vara öppen? t.ex. djupare koppling, att försöka vara perfekt är stressande\n\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Djupare sanningar",
+        "title": "Djupare sanningar",
+        "content": "### Är du tillräckligt bra eller villig nog?\nMänniskor kommer bara att gilla mig om jag är inspirerande ”,” Jag kan inte dyka upp när jag känner mig så låg och trött ”. Den inre kritiska rösten kanske försöker skydda oss från att skadas, men genom att försöka vara perfekt förlorar vi autentisk koppling till oss själva och andra. Känslor, bra eller dåliga, är inte fiender, de är en av byggstenarna som vi kan ansluta till andra. Låt oss titta på de djupare sanningarna om vem du är.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Djupare sanningar",
+        "title": "Djupare sanningar",
+        "time": "Ta 5-10 min",
+        "question": "Avsluta dessa meningar på ett papper. Försök skriva med din icke-dominerande hand eftersom det tenderar att framkalla mer potenta, mindre vanliga svar. De kan vara ganska intensiva och känslomässiga. Var öppen, modig och var försiktig med dig själv. I delningsgruppen är det frivilligt att dela dessa eller inte.",
+        "longDescription": "1. Jag känner ...\n2. Jag behöver ...\n3. Jag längtar efter ...\n4. Jag är rädd ...\n5. Jag kämpar med ...\n6. Jag drömmer om ...\n7. Jag låtsas att ...\n8. Det är svårt för mig att prata om ...\n9. Om jag hade modet skulle jag ...\n10. En sak som jag sällan delar med andra är….\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Reflexion",
+        "title": "Reflexion",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_3/7.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_3/deepeningrelationships_showingyourself_02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Reflexion",
+        "title": "Reflexion",
+        "time": "Ta 5 min",
+        "question": "Reflektera över dessa frågor. Skriv ner ditt svar på ett papper och håll kvar det, du behöver det senare:",
+        "longDescription": "1. Var du förvånad över något av dina svar?\n\n2. Vad behöver ytterligare medkännande uppmärksamhet från dig?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Utöka din komfortzon",
+        "title": "Utöka din komfortzon",
+        "content": "Ordet \"mod\" menade traditionellt \"att tala sitt sinne genom att avslöja sitt hjärta.\" Mod behöver inte vara en stor hjälte. Det betyder inte att du måste avslöja allt som du tänker eller i ditt hjärta. Det uppmanar till att öppna upp och ta små risker, och det kan kännas obekvämt. I följande meditation kommer du att vägledas för att utvidga din komfortzon i ett förhållande och ta en risk.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "audio",
+        "title": "Meditation - Gå ut ur din komfortzon",
+        "description": "I denna meditation förbereder du dig för nästa övning genom att förbereda dig för att kliva ut ur din komfortzon",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_steppingoutofyourcomfortzone.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Reflexion",
+        "title": "Reflexion",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_3/8.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_3/deepeningrelationships_showingyourself_03.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Reflexion",
+        "title": "Reflexion",
+        "time": "Ta 5-10 min",
+        "longDescription": "1. Välj en person i ditt liv som du vill komma närmare.\n2. Skriv ner 1-3 sätt de inspirerar dig eller saker som de gör som du uppskattar.\n3. Vad har hindrat dig från att nå ut till dem?\n4. Hur tror du att de människorna i ditt liv skulle svara på dig om du uttryckte dessa tankar och känslor som du precis skrev ner till dem?\n5. Vilken typ av egenvård behöver du för att riskera mer positiva avslöjanden gentemot andra? (t.ex. att känna igen vad du behöver för att känna dig säkrare som att prata personligen för att få omedelbar feedback eller ta ett babysteg som att säga \"Jag gillar att spendera tid med dig\" snarare än \"Jag älskar dig.\")\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Att vara sårbar kan kännas riktigt skrämmande. Den här veckan, se om du kan märka ögonblick där du kan visa dig själv, vad du känner, behöver eller tänker och försök att vara lite mer öppen.\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Showing yourself"
+  },
+  "pt": {
+    "id": "JEQeL6RPUbmDkdEaaJ94bc",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Revela-te",
+        "title": "Revela-te",
+        "content": "### A lição de hoje tem três partes:\n\n* Obstáculos à abertura\n* Verdades mais profundas\n* Expandir a tua zona de conforto\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "A abertura leva à confiança",
+        "title": "A abertura leva à confiança",
+        "content": "Podemos pensar que merecemos ter atenção e relações por sermos bons o suficiente, quando na realidade se trata mais de estarmos dispostos o suficiente... dispostos a correr o risco de ser rejeitados por nos abrirmos totalmente. Ser vulnerável significa “estou disponível para ser magoada/o”. O quão sintonizada/o te sentes com alguém que é sempre perfeita/o, sem defeitos? A verdade é que nos conectamos mais facilmente com as pessoas quando elas mostram os seus sentimentos, desde a alegria sem filtros até à tristeza vulnerável. Como não se estão a esconder, sentimos que podemos confiar mais nelas. A abertura leva à confiança, o que leva por sua vez a uma ligação mais profunda.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Os obstáculos à abertura",
+        "title": "Os obstáculos à abertura",
+        "content": "Todos nós podemos sofrer quando nos revelamos. Por isso, arranjamos constantemente proteções e defesas. A proteção mais comum e habitual é ser superficial nas conversas e perder a oportunidade de nos conectarmos mais profundamente. Por exemplo, através de conversas de circunstância ou mudanças de assunto. Protegemo-nos com qualquer coisa que nos impeça de abrandar, de revelar o que realmente sentimos, o que pensamos ou precisamos, ou de falar de temas que são importantes para nós.\n\nOutras defesas comuns são:\n\n* satisfazer ou agradar aos outros, evitando expressar as nossas verdades e dizer não\n* a fobia da alegria, não mostrando totalmente a nossa alegria, amor ou apreço quando os sentimos\n* evitar mostrar as nossas tristezas e preocupações, guardando segredos\n* manter as pessoas à distância, culpabilizar e julgar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Oportunidades perdidas",
+        "title": "Oportunidades perdidas",
+        "description": "“Quando abrimos as nossas vulnerabilidades ao outro, estamos mesmo a dar um sinal de força, de coragem (…), não somos menos nem mais, somos o que somos.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L3P4SHOWINGYOURSELF_v51z53.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021465/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L3_Deeping_relationships_V1_-_9x16_p94shf.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Oportunidades perdidas",
+        "title": "Oportunidades perdidas",
+        "time": "Tira 5 min",
+        "question": "",
+        "longDescription": "1. Pensa nas ligações que experienciaste na semana passada ou anteriormente. Houve alguma oportunidade para te abrires que tenhas perdido ou em que escondeste uma parte de ti? Escreve o que fizeste/não fizeste (consulta as defesas comuns à abertura no ecrã anterior)\n2. O que podes ter ganhado por não estares totalmente aberta/o? Por exemplo, minimizar o risco de te magoares\n3. O que podes ter perdido por não estares totalmente aberta/o? Por exemplo, uma conexão mais profunda, tentar ser perfeita/o é stressante",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Verdades mais profundas",
+        "title": "Verdades mais profundas",
+        "content": "### És boa ou bom o suficiente ou estás disposta/o o suficiente?\n\n\"As pessoas só vão gostar de mim se eu for inspirador/a\", “Não posso aparecer junto dos outros quando me estou a sentir tão em baixo e cansada/o”. A nossa voz crítica interior pode estar a tentar proteger-nos, a evitar que nos magoemos, mas, ao tentarmos ser perfeitos, perdemos a verdadeira conexão connosco e com os outros. Os sentimentos, bons ou maus, não são inimigos, são um dos blocos estruturantes com os quais nos podemos conectar aos outros. Vamos analisar as verdades mais profundas sobre quem és.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Verdades mais profundas",
+        "title": "Verdades mais profundas",
+        "time": "Tira 5-10 min",
+        "question": "Termina estas frases numa folha de papel. Tenta escrever com a mão não dominante, porque isso tem tendência a provocar respostas mais fortes e menos comuns. Podem sair-te frases bastante intensas e emocionais. Sê aberta/o, corajosa/o e amável contigo. Podes ou não partilhar isto com o teu grupo, é opcional.",
+        "longDescription": "1. Eu sinto…\n2. Eu preciso de…\n3. Eu anseio por…\n4. Estou com medo de…\n5. Estou a lutar com…\n6. Eu sonho com…\n7. Eu finjo que…\n8. É difícil para mim falar sobre…\n9. Se tivesse coragem, eu…\n10. Uma coisa que raramente partilho com os outros é...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Reflexão",
+        "title": "Reflexão",
+        "description": "“Ainda tenho assuntos para resolver. Estou no caminho. Estou a resolver, sempre com amor, com compaixão e com consciência, mas sim, é para resolver.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L3P8SHOWINGYOURSELF_yrejer.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021433/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L3_Deeping_relationships_V2_-_9x16_y89hpr.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Reflexão",
+        "title": "Reflexão",
+        "time": "Tira 5 min",
+        "question": "Reflete sobre estas perguntas. Escreve a tua resposta numa folha de papel e guarda-a. Vais precisar dela mais tarde:",
+        "longDescription": "1. Foste surpreendida/o por alguma das tuas respostas?\n2. O que precisa de mais atenção compassiva da tua parte?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Expandir a tua zona de conforto",
+        "title": "Expandir a tua zona de conforto",
+        "content": "A palavra \"coragem\" tradicionalmente significa \"dizer o que pensamos revelando o que nos vai no coração\". A coragem não precisa ser um grande ato de heroísmo. Não significa que tens de revelar tudo o que está na tua mente ou no teu coração. A coragem apela a que te abras e corras pequenos riscos, mesmo que isso possa ser desconfortável. Na meditação seguinte, vais ser orientada/o a expandir a tua zona de conforto numa relação e a correr mais riscos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "audio",
+        "title": "Meditação - Sair da tua zona de conforto",
+        "description": "Nesta meditação, vais-te preparar para o próximo exercício saindo da tua zona de conforto",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013517/29k%20FJN/Meditations/Cristina%20Final/SAIR_DA_TUA_ZONA_DE_CONFORTO_-_05_30_f7ifhm.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Reflexão",
+        "title": "Reflexão",
+        "description": "“O outro, tal como nós, também se fecha, também se protege, também perde oportunidades de ser amado, porque tem medo de sofrer...”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021345/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L3P12SHOWINGYOURSELF_fiqiac.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021458/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L3_Deeping_relationships_V3_-_9x16_nc3qxr.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Reflexão",
+        "title": "Reflexão",
+        "time": "Tira 5-10 min",
+        "longDescription": "1. Escolhe uma pessoa da tua vida de quem te desejas aproximar.\n2. Escreve 1 a 3 aspetos inspiradores dessa pessoa ou coisas que aprecias no que essa pessoa faz.\n3. O que te impediu de a contactares?\n4. Como achas que esse tipo de pessoa reagiria se partilhasses com ela esses pensamentos e sentimentos que acabaste de escrever?\n5. Que tipo de autocuidado precisas de ter para arriscares fazer revelações mais positivas às outras pessoas? (por exemplo, reconhecer o que precisas para te sentires mais segura/o ao falar pessoalmente para obter um feedback imediato ou dar um pequeno passo como dizer \"gosto de estar contigo\" em vez de \"amo-te\").",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Ser vulnerável pode ser muito assustador. Esta semana, vê se consegues aperceber-te dos momentos em que podes mostrar o que sentes, o que precisas ou o que pensas e tenta ser um pouco mais aberta/o.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Showing yourself"
+  }
+}

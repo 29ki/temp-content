@@ -1,0 +1,179 @@
+{
+  "en": {
+    "id": "resilience-and-stress-a-meaningful-life-2",
+    "alias": "resilience-and-stress-a-meaningful-life-2",
+
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "This meditation prepares you for the next part of the exercise by helping you become **present** and **focused**.\n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/resilience/StressReduction_03-Slow-Full-Breathing.mp3",
+        "duration": "3:29",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "What gives your life meaning?",
+        "content": "In 2012, Bronnie Ware, a palliative nurse, wrote a book about her patients' **most common regrets** as they approached the end of their lives.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Learn more",
+            "sectionId": "2d729149-16a4-48eb-940c-1004fb70f435"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2d729149-16a4-48eb-940c-1004fb70f435",
+        "alias": "section4+",
+        "content": "**I wish I:**\n\n* Had been true to myself, not other’s expectations\n* Hadn’t worked so hard\n* Had the courage to express my feelings\n* Would've stayed in touch with my friends\n* Would've let myself be happier",
+        "title": "This is what they said.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "2d34abc9-b637-4edd-b4e5-4d67925d24bb"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "2d34abc9-b637-4edd-b4e5-4d67925d24bb",
+        "alias": "Sharing question",
+        "exampleText": "I realized that I already have similar similar regrets, but for some reason, I keep postponing action by thinking, \"when I have this, then I'll...\" or \"if only this happens, then I'll...\"",
+        "question": "How did Bronnie’s findings resonate with you?",
+        "nextSection": "",
+        "nextConversation": "resilience-and-stress-a-meaningful-life-3"
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-a-meaningful-life-2",
+    "alias": "resilience-and-stress-a-meaningful-life-2",
+
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Den här meditationen förbereder dig inför nästa del av övningen genom att hjälpa dig bli **närvarande** och **fokuserad.**\n\nTryck på play-knappen för att börja.\n\n*Har du inte tillgång till en kudde kan du lägga en hand på magen.*",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Magandning.mp3",
+        "duration": "3:33",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Vad ger ditt liv mening?",
+        "content": "Bronnie Ware är en sjuksköterska som jobbar med vård i livets slutskede. År 2012 skrev hon en bok om vad hennes patienter **ångrade** i sina liv när de nu närmade sig slutet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mer",
+            "sectionId": "4840d6fa-5b7f-4221-8285-09bda039f918"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4840d6fa-5b7f-4221-8285-09bda039f918",
+        "alias": "section 4+",
+        "content": "**Jag önskar att jag:**\n\n* Hade varit mer sann mot mig själv, inte mot andras förväntningar\n* Inte hade jobbat så hårt\n* Hade haft modet att uttrycka mina känslor\n* Hade hållit kontakten med mina vänner\n* Hade tillåtit mig själv att vara lyckligare",
+        "title": "Det här är vad de sa.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "1cfd7d66-67f3-48a5-8c55-70bdfbb04101"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "1cfd7d66-67f3-48a5-8c55-70bdfbb04101",
+        "question": "Vad väckte Bronnies ord hos dig?",
+        "nextSection": "",
+        "alias": "Sharing question",
+        "exampleText": "Jag värdesätter liknande saker, men insåg att jag oftast skjuter upp saker till \"när jag har det här, då ..\" eller \"om bara det där händer, så..",
+        "nextConversation": "resilience-and-stress-a-meaningful-life-3"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-a-meaningful-life-2",
+    "alias": "resilience-and-stress-a-meaningful-life-2",
+
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "O que dá significado à tua vida?",
+        "content": "Em 2012, Bronnie Ware, uma enfermeira de cuidados paliativos, escreveu um livro sobre os principais arrependimentos que ouviu os seus pacientes partilharem quando se aproximavam do fim da vida:\n\n* Eu gostaria de ter sido verdadeira/o comigo e não viver segundo as expectativas dos outros\n* Eu gostaria de não ter trabalhado tanto\n* Eu gostaria de ter tido a coragem de exprimir os meus sentimentos\n* Eu gostaria de ter mantido o contacto com os meus amigos\n* Eu gostaria de me ter deixado ser mais feliz",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Os teus valores fundamentais",
+        "content": "Muitas pessoas consideram os relatos de pessoas com idade avançada úteis para identificar o que é mais importante. Como te fizeram sentir as conclusões da Bronnie?\n\nOlha para dentro e vê se consegues identificar o que é mais importante para ti na vida. Podes dividi-lo em quatro categorias: saúde, relações, trabalho/educação e lazer.\n\nOs valores podem referir-se tanto ao que é importante para ti como ao que desejas da vida. Por exemplo:\n\n* Trabalho: aprender coisas novas\n* Relações: ser confiável",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai ajudar-te a sentires-te mais consciente e presente, preparando-te para a próxima fase do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "duration": "3:30",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-a-meaningful-life-3",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  }
+}

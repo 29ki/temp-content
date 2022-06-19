@@ -1,0 +1,412 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "name": "Acting with purpose",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Acting_with_purpose_cdm66r.png"
+    },
+    "about": {
+      "body": "In this course you'll get to explore ways to reflect on who you want to be as a person, reconnect to your values and take meaningful action in every moment of our lives.\n\nThroughout our lives it's easy to lose touch with — or even forget about — what matters to us.\n\nEspecially when we’re dealing with a challenging situation. Taking the time to really understand what's important to us helps us take meaningful action in every moment of our lives.\n\n*“Every person has the power to affect and change their world. One must start by looking inwards. That gives confidence, strength and the courage to stand up for one’s beliefs”,* Jan Eliasson, former Deputy Secretary-General of the United Nations.",
+      "howThisWorks": "### How this works\n\n* This course takes 3 weeks to complete\n* One lesson per week\n* One optional video sharing per week",
+      "courseValue": "### What will I learn?\n\n* Connect to your personal values.\n* Act according to what's important to you.\n* Strategies to cope better with anxiety.",
+      "createdBy": {
+        "text": "#### Who created this course?\n\nThis course has been co-created by researchers and psychologists at 29k and the Karolinska Institute.",
+        "profiles": [
+          {
+            "name": "Jenny Rickardsson, PhD, Psychologist",
+            "linkUri": "https://staff.ki.se/people/jennri",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/jenny_rickardsson.jpg"
+          },
+          {
+            "name": "Jacqueline Levi, Psychologist",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg",
+            "linkUri": "https://psykologipodden.libsyn.com/"
+          },
+          {
+            "name": "Fredrik Livheim, PhD, Psychologist",
+            "linkUri": "https://www.linkedin.com/in/fredrik-livheim-53692172/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/fredrik_livheim.jpg"
+          },
+          {
+            "name": "Frank Bond, Professor, Psychologist",
+            "linkUri": "https://www.gold.ac.uk/institute-management-studies/staff/bond/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/frank_bond.jpg"
+          },
+          {
+            "name": "Jonathan Dowling, PhD, Psychologist",
+            "linkUri": "https://www.gold.ac.uk/institute-management-studies/staff/dowling-jonathan/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/jonathan_downling.jpg"
+          },
+          {
+            "name": "Björn Hedensjö, Psychologist",
+            "linkUri": "https://www.linkedin.com/in/bjornhedensjo/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/bjorn_hedensjo.jpg"
+          }
+        ]
+      }
+    },
+    "cta": "What would your life look like if you lived in accordance with what's most important to you?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Acting_with_purpose_cdm66r.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "71e1f6ac-dbff-4113-9abb-0eab77c0bd9b",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "8b2c92b0-6591-4692-a642-b510c5fa4bcc",
+        "name": "Your behaviors",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Act on what's important to you.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-your-behaviors",
+            "title": "Your values"
+          },
+          {
+            "conversationId": "92daa17f-e8c9-43c6-a78f-888152644879",
+            "title": "Creating a compass"
+          },
+          {
+            "title": "Acting on your values",
+            "conversationId": "b39bb8b6-dfc4-497e-813d-23d8f734d442"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528585/New_images/courses%20png/Acting%20With%20Purpose%20-%20lesson%20illustrations/Your%20behaviors.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "1bb0c2ef-931b-4e37-aa42-d613ebe3c0c5",
+        "name": "Actions I'm proud of",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Learn to tune in and act on values.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-actions-you-are-proud-of",
+            "title": "Not acting on my values"
+          },
+          {
+            "title": "Acting on my values",
+            "conversationId": "fac26f5d-6695-4cea-b630-9f0cdc8ea807"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528585/New_images/courses%20png/Acting%20With%20Purpose%20-%20lesson%20illustrations/Actions%20I%27m%20proud%20of.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "f3b3d96c-5259-41e6-a4f8-3c6c569f317f",
+        "name": "The anxiety loop",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Snap out of your anxiety.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-the-anxiety-loop",
+            "title": "Mindful breathing"
+          },
+          {
+            "title": "Don't feed the monster",
+            "conversationId": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4"
+          },
+          {
+            "title": "Break the anxiety loop",
+            "conversationId": "ae4274cb-daa4-493e-adec-b7dad0ce07be"
+          },
+          {
+            "title": "Keep practicing",
+            "conversationId": "cb7ed006-f5d3-44bb-8807-426ee0120167"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528586/New_images/courses%20png/Acting%20With%20Purpose%20-%20lesson%20illustrations/The%20anxiety%20loop.png"
+        }
+      }
+    ],
+    "rating": {
+      "rating": 5
+    },
+    "wip": false
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "author": {
+      "name": "Jan Eliasson, FN:s tidigare biträdande generalsekreterare",
+      "nickname": "Jan Eliasson"
+    },
+    "name": "Meningsfulla beteenden",
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/cover.jpg"
+    },
+    "about": {
+      "body": "### Hur skulle ditt **liv** se ut om du **brydde dig om** det som är **viktigast** för dig?\n\nI livet är det lätt att tappa kontakten med – eller till och med glömma bort – det som är viktigt för oss.\n\nSpeciellt när vi hamnat i en jobbig situation. Att försöka förstå vad som är **viktigt** för oss hjälper oss att alltid göra något **meningsfullt**.\n\nI den här kursen funderar du över olika sätt att hitta fram till vem **du vill vara** som person, **återfå kontakten med** **dina värderingar** och **agera** **meningsfullt** i alla lägen.\n\n*”Varje person har makten att påverka och förändra sin värld. Man måste börja med att titta inåt. Det ger självförtroende, styrka och mod att stå upp för sin tro”,* Jan Eliasson.",
+      "howThisWorks": "",
+      "courseValue": "### Lär dig mer om\n\n* Komma i kontakt med dina egna värderingar\n* Göra det som är viktigast för dig\n* Strategier för att hantera ångest",
+      "createdBy": {
+        "text": "#### Vem skapade den här kursen?\nKursen har skapats av 5 forskare och psykologer",
+        "profiles": [
+          {
+            "name": "Jenny Rickardsson, medicine doktor, psykolog",
+            "linkUri": "https://staff.ki.se/people/jennri",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/jenny_rickardsson.jpg"
+          },
+          {
+            "name": "Fredrik Livheim, medicine doktor, psykolog",
+            "linkUri": "https://www.linkedin.com/in/fredrik-livheim-53692172/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/fredrik_livheim.jpg"
+          },
+          {
+            "name": "Frank Bond, professor, psykolog",
+            "linkUri": "https://www.gold.ac.uk/institute-management-studies/staff/bond/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/frank_bond.jpg"
+          },
+          {
+            "name": "Jonathan Dowling, filosofie doktor, psykolog",
+            "linkUri": "https://www.gold.ac.uk/institute-management-studies/staff/dowling-jonathan/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/jonathan_downling.jpg"
+          },
+          {
+            "name": "Björn Hedensjö, psykolog",
+            "linkUri": "https://www.linkedin.com/in/bjornhedensjo/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/bjorn_hedensjo.jpg"
+          }
+        ]
+      }
+    },
+    "cta": "”Alla människor spelar en viktig roll för att lösa vår sociala kris.”",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "71e1f6ac-dbff-4113-9abb-0eab77c0bd9b",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "8b2c92b0-6591-4692-a642-b510c5fa4bcc",
+        "name": "Dina beteenden",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Gör mer av det som är viktigt",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-your-behaviors",
+            "title": "Dina värderingar"
+          },
+          {
+            "title": "Skapa en kompass",
+            "conversationId": "92daa17f-e8c9-43c6-a78f-888152644879"
+          },
+          {
+            "title": "Lev dina värderingar",
+            "conversationId": "b39bb8b6-dfc4-497e-813d-23d8f734d442"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528585/New_images/courses%20png/Acting%20With%20Purpose%20-%20lesson%20illustrations/Your%20behaviors.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "1bb0c2ef-931b-4e37-aa42-d613ebe3c0c5",
+        "name": "Åtgärder jag är stolt över",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Lär dig att ställa in och agera på värden.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-actions-you-are-proud-of",
+            "title": "Åtgärder du är stolt över"
+          },
+          {
+            "title": "Åtgärder du är stolt över 2",
+            "conversationId": "fac26f5d-6695-4cea-b630-9f0cdc8ea807"
+          },
+          {
+            "title": "Åtgärder du är stolt över 3",
+            "conversationId": "ab7df2e6-e445-4e63-8af5-9bb277940812"
+          },
+          {
+            "title": "Åtgärder du är stolt över 4",
+            "conversationId": "770056c9-7557-414b-8442-b2eeb0c59f83"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528585/New_images/courses%20png/Acting%20With%20Purpose%20-%20lesson%20illustrations/Actions%20I%27m%20proud%20of.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "f3b3d96c-5259-41e6-a4f8-3c6c569f317f",
+        "name": "Ångestslingan",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Ibland placerar livet oss i situationer som vi inte förväntade oss.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-the-anxiety-loop",
+            "title": "Ångestslingan"
+          },
+          {
+            "conversationId": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4",
+            "title": "Ångestslingan 2"
+          },
+          {
+            "conversationId": "ae4274cb-daa4-493e-adec-b7dad0ce07be",
+            "title": "Ångestslingan 3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528586/New_images/courses%20png/Acting%20With%20Purpose%20-%20lesson%20illustrations/The%20anxiety%20loop.png"
+        }
+      }
+    ],
+    "rating": {
+      "rating": 5
+    },
+    "wip": true
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "author": {
+      "name": "Paula Amorim",
+      "nickname": "Paula Amorim"
+    },
+    "name": "Ações baseadas em valores",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621944074/29k%20FJN/Courses/Value%20Based%20Action/Photos/COURSECOVER_Valuebasedaction_xuitft.jpg"
+    },
+    "about": {
+      "body": "#### O curso\n\nO curso das ações baseadas em valores fornece três ferramentas para criar uma relação mais construtiva e saudável com os desafios globais e **sociais** que enfrentamos através das nossas ações individuais. Aprende a ligar-te ao teus valores pessoais. Concentra-te no que podes controlar. Torna-te um melhor apoio para as pessoas que precisam.",
+      "howThisWorks": "",
+      "courseValue": "#### Aprende a:\n\n* Refletir no que queres vir a ser como pessoa e a defender as tuas convicções.\n* Transformar a ansiedade e os comportamentos reativos em ações construtivas.\n* Escolher de forma deliberada como agir em situações difíceis.",
+      "createdBy": {
+        "text": "#### Quem criou este curso?\n\nEste curso foi co-criado por 5 investigadores e psicólogos.",
+        "profiles": [
+          {
+            "name": "Jenny Rickardsson, PhD, Psychologist",
+            "linkUri": "https://staff.ki.se/people/jennri",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/jenny_rickardsson.jpg"
+          },
+          {
+            "name": "Fredrik Livheim, PhD, Psychologist",
+            "linkUri": "https://www.linkedin.com/in/fredrik-livheim-53692172/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/fredrik_livheim.jpg"
+          },
+          {
+            "name": "Frank Bond, Professor, Psychologist",
+            "linkUri": "https://www.gold.ac.uk/institute-management-studies/staff/bond/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/frank_bond.jpg"
+          },
+          {
+            "name": "Jonathan Dowling, PhD, Psychologist",
+            "linkUri": "https://www.gold.ac.uk/institute-management-studies/staff/dowling-jonathan/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/jonathan_downling.jpg"
+          },
+          {
+            "name": "Björn Hedensjö, Psychologist",
+            "linkUri": "https://www.linkedin.com/in/bjornhedensjo/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/bjorn_hedensjo.jpg"
+          },
+          {
+            "name": "Com Paula Amorim"
+          }
+        ]
+      }
+    },
+    "cta": "\"Cada indivíduo desempenha um papel fundamental na resolução da nossa crise social.\"",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958193/29k%20FJN/Courses/Menu%20Thumbnails/Paula_Menu01final_fvdrs2.jpg"
+    },
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "71e1f6ac-dbff-4113-9abb-0eab77c0bd9b",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "8b2c92b0-6591-4692-a642-b510c5fa4bcc",
+        "name": "Os teus comportamentos",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Agir de acordo com os teus valores fundamentais.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-your-behaviors",
+            "title": "Os teus comportamentos"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "1bb0c2ef-931b-4e37-aa42-d613ebe3c0c5",
+        "name": "Ações de que te orgulhas",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Aprende a sintonizar-te e agir segundo os teus valores.",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-actions-you-are-proud-of",
+            "title": "Ações de que te orgulhas"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "f3b3d96c-5259-41e6-a4f8-3c6c569f317f",
+        "name": "O ciclo da ansiedade",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Por vezes a vida coloca-nos em situações inesperadas",
+        "conversations": [
+          {
+            "conversationId": "value-based-action-the-anxiety-loop",
+            "title": "O ciclo da ansiedade"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "rating": 5
+    },
+    "wip": false
+  }
+}

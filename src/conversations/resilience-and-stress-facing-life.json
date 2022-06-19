@@ -2,161 +2,35 @@
   "en": {
     "id": "resilience-and-stress-facing-life",
     "alias": "resilience-and-stress-facing-life",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Facing life",
-        "content": "Life has its ups and downs. Sometimes we set unrealistic expectations and think life will roll along smoothly and that we should always feel good. In this lesson, you will learn more about how willingness to face the inevitable increases your resilience.",
+        "title": "Glad to see you back here!",
+        "content": "Sometimes we expect our life to flow smoothly and painlessly. We may want to feel good all the time. \n\nBut life is far more dynamic than that. It goes up and it goes down.\n\nIn this lesson, you'll learn more about how to meet the inevitable challenges in your life and how to **increase your ability to deal with setbacks.**",
         "buttons": [
           {
             "component": "Button",
             "content": "Continue",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077009/Stress/sylvain-gllm-X4dBqRUzO2U-unsplash_bwuccp.jpg"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### **Today’s lesson has three parts:**\n\n* Natural stress\n* The healing hand\n* Sharing\n\n### You’ll need\n\n* 25 min undisturbed time\n* Pen and paper",
+        "content": "### **Learn more about:**\n\n* Facing life\n* Natural stress\n* Resting in difficult emotions\n\n### You’ll need:\n\n* 25 minutes\n* Pen and paper",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section3"
-          }
-        ]
-      },
-      {
-        "id": "section3",
-        "alias": "section3",
-        "type": "editorialWithImage",
-        "title": "Natural stress",
-        "content": "Someone we love will die, somebody will hurt us, we will fail, feel lost and alone. \n\nNo planning can make us immune from encountering difficult things. Along with many pleasures, the love we feel may also break our hearts.\n\nThe stress or pain from difficult events can cause ranges from irritation to deep grief. Any emotional response – like anger or sadness – is completely natural. And emotions themselves can’t harm us. Being open to difficult emotions and experiences can help us dealing with them.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section4"
-          }
-        ]
-      },
-      {
-        "id": "section4",
-        "alias": "section4",
-        "type": "editorialWithImage",
-        "title": "Our emotions can’t harm us",
-        "content": "Even the most intense emotions often come and go in waves. It’s natural for powerful feelings to make us anxious, scared or uncomfortable. It’s also natural for us to want to escape.\n\nBut trying to avoid or fight emotions usually doesn’t work. In the short run, avoiding emotions can be helpful to cope with an acute situation. But in the long run, it often stops us from living our lives.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Putting life on hold",
-        "content": "Sometimes we say to ourselves \"When I don’t feel sad anymore, I will meet friends again\". But if we wait for a feeling to go away before we do the things that we want, we often put our life on hold. Sometimes for a very long time. \n\nAn alternative strategy is to approach feelings, open up to them and take steps in a meaningful direction.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "editorialWithImage",
-        "title": "Exercise ",
-        "content": "You will be guided in a practical exercise in acceptance of thoughts and feelings. It helps you to tune in to what you’re feeling and thinking, right here and right now. \n\nIt’s a technique  you can learn and use in whatever difficult situation life puts you in.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "editorialWithImage",
-        "title": "Rest in difficult emotions",
-        "content": "When we’re open to difficult emotions they loosen the grip over our lives. \n\nNow, find a quiet place to sit where you won’t be disturbed for a while. In the upcoming three-minute exercise you’ll relate to something painful or difficult in your life, practicing your willingness to face difficult emotions. Remember emotions can’t harm you and they will eventually subside, no matter how strong.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "audio",
-        "title": "The healing hand",
-        "description": "Practice your willingness to face difficult emotions.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-healing-hand.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "writing",
-        "title": "The healing hand",
-        "question": "",
-        "longDescription": "1. Where in your body did you feel these difficult emotions?\n2. If you managed to stay in the tough emotions, what happened when you approached them instead of escaping them? If opening up completely was too difficult, where did your thoughts go?\n3. How did it feel thinking about others going through the same tough thing right now?\n\nWrite your answer down on a piece of paper and hold on to it. This is what you’ll be offered to share with your group.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "Summary",
-        "content": "Well done, you have now completed **Facing life**. \n\nYou have practiced facing difficult emotions and experiences, and learned that facing them may be a more effective way of dealing with them than avoidance.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "\n\nYou are now ready to share. \n\nRemember the questions you are offered to share:\n\n1. Where did you feel the difficult emotions?\n2. If you stayed in the tough emotions, what happened? If opening up was too difficult, where did your thoughts go?\n3. How did it feel thinking about others going through the same tough thing?",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
+            "component": "NextConversationButton",
+            "content": "Let's go",
+            "conversationId": "resilience-and-stress-facing-life-2",
+            "variant": "primary"
           }
         ]
       }
@@ -165,191 +39,72 @@
   "sv": {
     "id": "resilience-and-stress-facing-life",
     "alias": "resilience-and-stress-facing-life",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Att möta livet",
-        "content": "Livet har sina upp- och nedgångar. Ibland har vi orealistiska förväntningar och tänker att livet kommer att flyta på smidigt och att vi alltid kommer att må bra. I den här lektionen kommer du att lära dig mer om hur vi kan möta det som är oundvikligt och öka vår förmåga att hantera motgångar.",
+        "title": "Fint att se dig tillbaka här!",
+        "content": "Ibland har vi förväntningar på att livet ska flyta på smidigt och smärtfritt. Vi kanske till och med alltid vill må bra.\n\nMen så ser inte verkligheten ut för de flesta av oss. Livet går upp, och livet går ner.\n\nI den här lektionen kommer du att lära dig mer om hur du kan möta oundvikliga händelser i ditt liv och **öka din förmåga att hantera motgångar.**",
         "buttons": [
           {
             "component": "Button",
             "content": "Fortsätt",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077009/Stress/sylvain-gllm-X4dBqRUzO2U-unsplash_bwuccp.jpg"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### **Dagens lektion har tre delar:**\n\n* Naturlig stress\n* Den läkande handen\n* Delning\n\n### Du kommer att behöva\n\n* 25 minuter ostörd tid\n* Penna och papper",
+        "content": "### **Lär dig mer om:**\n\n* Att möta livet\n* Naturlig stress\n* Vila i svåra känslor\n\n### Du behöver:\n\n* 25 minuter\n* Penna och papper",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section3"
+            "component": "NextConversationButton",
+            "content": "Sätt igång",
+            "conversationId": "resilience-and-stress-facing-life-2",
+            "variant": "primary"
           }
         ]
-      },
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-facing-life",
+    "alias": "resilience-and-stress-facing-life",
+    "root": "section1",
+    "sections": [
       {
-        "id": "section3",
-        "alias": "section3",
-        "type": "video",
-        "title": "Nedtryckta känslor",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/attmotalivet_intro.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/attmotalivet_intro.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section4"
-          }
-        ]
-      },
-      {
-        "id": "section4",
-        "alias": "section4",
+        "id": "section1",
+        "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Naturlig stress",
-        "content": "Någon vi älskar kommer att dö, någon kommer att såra oss, vi kommer att misslyckas, känna oss vilsna och ensamma.\n\nHur mycket vi än planerar kan vi inte undvika att möta svårigheter. Kärleken vi känner kan också såra oss.\n\nStress eller smärta från svåra händelser kan ge oss alltifrån irritation till djup sorg. Känslorna som uppstår - exempelvis ilska eller sorg - är helt normala reaktioner. Och känslor i sig själva kan inte skada oss. Att öppna upp för svåra känslor och upplevelser kan hjälpa oss att hantera dem.",
+        "title": "Enfrentar a vida",
+        "content": "A vida tem os seus altos e baixos. Às vezes, estabelecemos expectativas irrealistas, pensamos que a vida correrá sempre bem e que nos devemos sentir sempre bem. Nesta lição, vais aprender mais sobre como a força de vontade para enfrentar o inevitável aumenta a tua resiliência.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section5"
+            "content": "Continuar",
+            "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543791/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L5CAPAenfrentaravida_odcrbm.jpg"
       },
       {
-        "id": "section5",
-        "alias": "section5",
+        "id": "section2",
+        "alias": "section2",
         "type": "editorialWithImage",
-        "title": "Våra känslor kan inte skada oss",
-        "content": "Även de mest intensiva känslorna kommer och går i vågor. Det är naturligt att starka känslor gör oss oroliga, rädda eller obekväma. Det är också naturligt för oss att vilja fly.\n\nMen att försöka undvika eller kämpa emot känslor fungerar oftast inte. Kortsiktigt kan det hjälpa oss för att hantera en akut situation, men på lång sikt kan det hindra oss från att leva våra liv.",
+        "title": "",
+        "content": "### A lição de hoje tem três partes:\n\n* O stress natural\n* A mão que cura\n* Partilhar\n\n### Vais precisar de:\n\n* 25 min de sossego sem interrupções\n* Caneta e papel",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätta",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "editorialWithImage",
-        "title": "Att sätta livet i pausläge",
-        "content": "Ibland kanske vi säger till oss själva \"När jag inte känner mig ledsen längre, kommer jag att träffa vänner igen\". Men om vi väntar på att en känsla ska försvinna innan vi gör de saker vi vill, sätter vi våra liv i pausläge. Ibland väldigt länge.\n\nEn alternativ strategi är att närma sig våra känslor, öppna upp för dem och ta steg mot det vi tycker är viktigt.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "video",
-        "title": "En känsla av sorg och saknad",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/hanterastress_attmotalivet_ovning.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_attmoralivet_ovning.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "editorialWithImage",
-        "title": "Övning",
-        "content": "Du kommer nu att bli vägledd i en praktisk övning om hur man kan acceptera tankar och känslor. Den kan hjälpa dig att komma i kontakt med vad du tänker och känner just nu. \n\nDet här är en färdighet som du kan lära dig och använda i vilken svår situation som helst.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "editorialWithImage",
-        "title": "Vila i svåra känslor",
-        "content": "När vi öppnar upp för svåra känslor så tappar de taget om våra liv. \n\nBörja med att hitta en plats där du inte kommer att bli avbruten. Under den kommande tre-minuters-övningen kommer du att få förhålla dig till någonting som är svårt i ditt liv och öva på din förmåga att möta svåra känslor. \n\nKom ihåg att känslor inte kan skada dig och de kommer att gå över så småningom, oavsett hur starka de är.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "audio",
-        "title": "Den vänliga handen",
-        "description": "Öva din förmåga att möta svåra känslor.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Den-vanliga-handen.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "writing",
-        "title": "Den vänliga handen",
-        "question": "",
-        "longDescription": "1. Var i din kropp kände du de svåra känslorna?\n2. Om du stannade kvar i de svåra känslorna, vad hände? Om det var för svårt att öppna upp, var försvann du i dina tankar?\n3. Hur kändes det när du tänkte på att andra går igenom samma svåra saker?\n\nSkriv ner ditt svar på ett papper och behåll det. Det här är vad vi föreslår att du delar med din grupp.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section12"
-          }
-        ]
-      },
-      {
-        "id": "section12",
-        "alias": "section12",
-        "type": "editorialWithImage",
-        "title": "Sammanfattning",
-        "content": "Bra gjort, du har nu avslutat **Att möta livet**.\n\nDu har övat på att möta svåra känslor och upplevelser och lärt dig att möta dem kan vara ett mer effektivt sätt att hantera dem än undvikande.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section13"
-          }
-        ]
-      },
-      {
-        "id": "section13",
-        "alias": "section13",
-        "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Du är nu redo att dela.\n\nHär kommer frågorna vi föreslår att du delar:\n\n1. Var kände du de svåra känslorna?\n2. Om du stannade kvar i de svåra känslorna, vad hände? Om det var för svårt att öppna upp, var försvann du i dina tankar?\n3. Hur kändes det när du tänkte på att andra går igenom samma svåra saker?",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-facing-life-2",
+            "variant": "primary"
           }
         ]
       }

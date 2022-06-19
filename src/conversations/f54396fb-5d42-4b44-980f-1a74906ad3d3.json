@@ -1,0 +1,222 @@
+{
+  "en": {
+    "id": "f54396fb-5d42-4b44-980f-1a74906ad3d3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "982addb5-c773-4314-833b-037f51abffc6",
+        "content": "Being a **Purposeful Leader** implies being actively engaged in a given situation. \n\nWhen we're actively engaged, we **experience possibilities** for pursuing purpose that are unavailable to us when we're, for instance, fixed or judgmental about the outcomes.",
+        "alias": "Actively Engage",
+        "title": "Actively engage to pursue purpose in your situation",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "But what about the rules?",
+            "sectionId": "58c7d9a2-35da-4c75-918a-0e1ea844a348"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "58c7d9a2-35da-4c75-918a-0e1ea844a348",
+        "alias": "Actively Engage 2",
+        "title": "Rules are much like stabilizers",
+        "content": "Stabilizers are great at helping us to learn to ride a bike, but they also prevent us from responding to, for example, curves in the road, or experience the full magnitude of thrill and excitement involved in riding a bike. \n\nThus, stabilizers, like rules, can only play **a starting role** in developing the skills to experience the success and fulfillment of seamlessly responding to the unique contours of a situation. This is what an expert leader must learn to do.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "8b344755-d52d-4f19-af8f-d614dcc126bd",
+            "conversationId": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8b344755-d52d-4f19-af8f-d614dcc126bd",
+        "content": "Despite the advantages of pursuing a purposeful life, it takes courage to tune-in and own-up to your experiences: our **successes** and our **failures**.\n\nHowever, in **taking responsibility for how you relate** to what your life has afforded you, lies the magic that can propel you to higher levels of skill and purpose. \n\nSimply put, **the more you emotionally and behaviorally involve yourself in a situation by letting go of the rules, the more you will actively engage in life.**",
+        "alias": "Actively Engage 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Anything else?",
+            "sectionId": "48c57069-3e0c-414f-99e7-51d1cdfe20f7"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "48c57069-3e0c-414f-99e7-51d1cdfe20f7",
+        "content": "It's worth pointing out that not every situation you'll come across will require from you to be fully engaged. Know that you have the ability to choose to distinguish those situations that you wish to undertake and cultivate. \n\nOver time, your ability to make these meaningful distinctions through actively engaging in your situation will enable you to become a Purposeful Leader and take responsibility for both your successes and failures.",
+        "title": "One last thing",
+        "alias": "Actively Engage 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "608c544f-36ca-4697-80e9-0b6b3089bfac"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "608c544f-36ca-4697-80e9-0b6b3089bfac",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Well done for completing this lesson!\n\nWow! So much to think about and practice this week. Well done for hanging in there. As you go through the following lessons, you'll learn how to apply the purposeful leadership skills in action. \n\nBy taking this lesson, you have begun to learn a framework of behaviors that you can use to approach your work and life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "7901114f-ca21-4522-9db7-8441f99e7aad",
+            "content": "Thanks"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7901114f-ca21-4522-9db7-8441f99e7aad",
+        "title": "Further Reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Dreyfus, H. L. (2011). Chapter 2. In On the Internet: Thinking in action. London: Routledge",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "0c4ad02e-29e2-4d67-a786-bb16b02bca5e"
+          }
+        ],
+        "alias": "Further reading"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0c4ad02e-29e2-4d67-a786-bb16b02bca5e",
+        "alias": "You are now ready to share",
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?** \n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "title": "You are now ready to share",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-1-take-action",
+            "content": "What happens next?"
+          }
+        ]
+      }
+    ],
+    "alias": "Leadership-leadpurposefully-5",
+    "root": "982addb5-c773-4314-833b-037f51abffc6"
+  },
+  "sv": {
+    "id": "f54396fb-5d42-4b44-980f-1a74906ad3d3",
+    "alias": "Leadership-leadpurposefully-5"
+  },
+  "pt": {
+    "id": "f54396fb-5d42-4b44-980f-1a74906ad3d3",
+    "alias": "Leadership-leadpurposefully-5",
+    "root": "982addb5-c773-4314-833b-037f51abffc6",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "982addb5-c773-4314-833b-037f51abffc6",
+        "content": "Ser um **Líder Relevante** implica estar ativamente envolvido/a numa determinada situação. \n\nQuando estamos ativamente envolvidos/as, **experimentamos possibilidades** de atingir um propósito que não estaria disponível para nós quando estamos, por exemplo, obstinados com um determinado resultado ou somos críticos em relação aos mesmos.",
+        "alias": "Actively Engage",
+        "title": "Envolve-te ativamente na busca de um propósito na tua situação",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mas e as regras?",
+            "sectionId": "58c7d9a2-35da-4c75-918a-0e1ea844a348"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "58c7d9a2-35da-4c75-918a-0e1ea844a348",
+        "alias": "Actively Engage 2",
+        "title": "As regras são muito parecidas com as ‘rodinhas’ das bicicletas",
+        "content": "As 'rodinhas' são ótimas para nos ajudar a aprender a andar de bicicleta, mas também nos impedem de usufruir, por exemplo, das curvas da estrada ou de sentir toda a magnitude da emoção e da alegria que envolve o andar de bicicleta. \n\nAssim, as ‘rodinhas’, como as regras, só podem desempenhar um **papel inicial** no desenvolvimento das competências para experienciar o sucesso e a satisfação de responder na perfeição aos contornos únicos de uma situação. Isto é o que um líder especialista deve aprender a fazer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem-me mais",
+            "sectionId": "8b344755-d52d-4f19-af8f-d614dcc126bd",
+            "conversationId": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8b344755-d52d-4f19-af8f-d614dcc126bd",
+        "content": "Apesar das vantagens de empreender numa vida com propósito, é preciso coragem para nos sintonizarmos e reconhecermos as nossas experiências: os nossos **sucessos** e os nossos **fracassos**.\n\nNo entanto, no **assumires a responsabilidade pela forma como te relacionas** com o que a tua vida te proporciona, reside a magia que pode impulsionar-te para níveis mais elevados de competência e propósito. \n\nSimplificando, **quanto mais te envolves comportamental e emocionalmente numa situação, deixando de lado as regras, mais te envolves ativamente na vida.**",
+        "alias": "Actively Engage 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mais alguma coisa?",
+            "sectionId": "48c57069-3e0c-414f-99e7-51d1cdfe20f7"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "48c57069-3e0c-414f-99e7-51d1cdfe20f7",
+        "content": "É importante realçar que nem todas as situações que vais encontrar exigirão que estejas totalmente envolvido/a. É importante perceberes que tens o poder de escolher entre as situações que queres empreender e cultivar. \n\nCom o tempo, a tua capacidade de fazer essas distinções relevantes através do envolvimento ativo nas tuas situações vai fazer com que te tornes num Líder Relevante e assumas a responsabilidade tanto pelos teus sucessos como pelos fracassos.",
+        "title": "Uma última coisa ",
+        "alias": "Actively Engage 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos concluir ",
+            "sectionId": "608c544f-36ca-4697-80e9-0b6b3089bfac"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "608c544f-36ca-4697-80e9-0b6b3089bfac",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Parabéns por teres concluído esta lição!\n\nUau! Tanto em que pensar e praticar esta semana. Parabéns por te teres aguentado firme. À medida que fores concluindo as lições seguintes, vais aprender como aplicar as competências de liderança relevante na prática. \n\nAo concluíres esta lição, começaste a aprender uma estrutura de comportamentos que podes usar para abordar o teu trabalho e a tua vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "7901114f-ca21-4522-9db7-8441f99e7aad",
+            "content": "Obrigada "
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7901114f-ca21-4522-9db7-8441f99e7aad",
+        "title": "Leituras adicionais ",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Dreyfus, H. L. (2011). Chapter 2. In On the Internet: Thinking in action. London: Routledge",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi!",
+            "sectionId": "0c4ad02e-29e2-4d67-a786-bb16b02bca5e"
+          }
+        ],
+        "alias": "Further reading"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0c4ad02e-29e2-4d67-a786-bb16b02bca5e",
+        "alias": "You are now ready to share",
+        "content": "1. **Que ideias-chave te ajudaram a entender a tua situação, a buscar um propósito ou a ter sucesso esta semana?** \n\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, da experimentação das competências que aprendeste ou a consciência do que ressoa em ti de forma diferente.",
+        "title": "Agora estás pronta/o para partilhar",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-1-take-action",
+            "content": "O que acontece a seguir?"
+          }
+        ]
+      }
+    ]
+  }
+}

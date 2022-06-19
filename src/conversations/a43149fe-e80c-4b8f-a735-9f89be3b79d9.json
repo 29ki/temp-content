@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "a43149fe-e80c-4b8f-a735-9f89be3b79d9",
+    "alias": "Leadership-styles-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "4e55d5cd-a064-4f87-b9f0-266ad5344c19",
+        "alias": "Intellectual stimulation",
+        "title": "Intellectual stimulation",
+        "content": "The second transformational skill, **intellectual stimulation,** involves leaders helping others to develop their ability to approach and think through tasks **themselves**.\n\nPart of this skill is recognizing that the people you're leading and coaching are not receivers of information or advice. As a result,  intellectual stimulation often involves asking people questions to help them **see a way forward**, rather than \"telling\" them how to do something. \n\nHelping them learn by exploring helps them to learn from their experience rather than relying on rules, and perhaps find their own way to achieve the same goal.\n\nMany parents are masters of helping their children learn how things work through tasks like these, but few leaders use this same skill to develop the people around them.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me an example",
+            "sectionId": "58c6fa8e-a73e-4d6b-9c4e-a8ecb095f83a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "58c6fa8e-a73e-4d6b-9c4e-a8ecb095f83a",
+        "alias": "Intellectual stimulation 2",
+        "title": "How can I use intellectual stimulation in the real world?",
+        "content": "* Help others to learn how to recognize patterns in what they're doing, e.g. in their work tasks, in useful strategies, in how they approach things, and in how they see situations\n* Show them that even when ideas initially seem a bit out-there or silly, there might be something useful in them\n* Encourage others to revisit problems and try to look at them in different ways\n* Ask questions to help people see the assumptions they're working from and be open to changing them if they don't help them pursue what makes sense and matters to them\n* Show that uncertainty is not something to avoid at all costs, but can help us pursue purpose by providing opportunities to directly experience how it leads to success or new opportunities we didn't even know existed",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "03aa2eeb-7af5-4087-945c-044cef3e1545",
+            "content": "Continue"
+          }
+        ]
+      }
+    ],
+    "root": "4e55d5cd-a064-4f87-b9f0-266ad5344c19"
+  },
+  "sv": {
+    "id": "a43149fe-e80c-4b8f-a735-9f89be3b79d9",
+    "alias": "Leadership-styles-3"
+  },
+  "pt": {
+    "id": "a43149fe-e80c-4b8f-a735-9f89be3b79d9",
+    "alias": "Leadership-styles-3",
+    "root": "4e55d5cd-a064-4f87-b9f0-266ad5344c19",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "4e55d5cd-a064-4f87-b9f0-266ad5344c19",
+        "alias": "Intellectual stimulation",
+        "title": "Estímulo intelectual ",
+        "content": "A segunda competência transformadora, o **estímulo intelectual**, envolve líderes que ajudam os outros a desenvolver a sua capacidade de abordar e analisar as tarefas de forma autónoma.\n\nParte desta competência consiste em reconhecer que as pessoas que estás a liderar e treinar não são apenas receptores de informações ou conselhos. Como resultado, o estímulo intelectual muitas vezes envolve fazer perguntas às pessoas para as ajudar a **descobrir o caminho a seguir**, em vez de lhes “dizer” como fazer, ou por onde ir.\n\nAjuda-as a aprender através da sua pesquisa e exploração, a aprender a fazer em vez de seguirem regras. Possibilita-lhes, quem sabe, a encontrar o seu próprio caminho para atingir o mesmo objetivo.\n\nMuitos pais são peritos em ajudar os filhos a aprender como as coisas funcionam através de tarefas como estas, mas poucos líderes usam esta mesma competência para desenvolver as pessoas à sua volta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me um exemplo ",
+            "sectionId": "58c6fa8e-a73e-4d6b-9c4e-a8ecb095f83a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "58c6fa8e-a73e-4d6b-9c4e-a8ecb095f83a",
+        "alias": "Intellectual stimulation 2",
+        "title": "Como posso usar  o estímulo intelectual no mundo real?",
+        "content": "* Ajuda outras pessoas a aprender como reconhecer padrões nas coisas que fazem (i.e., nas suas tarefas profissionais, em estratégias úteis, de que forma abordam as coisas e como veem as situações)\n* Mostra-lhes que mesmo quando as ideias inicialmente parecem um pouco exageradas ou disparatadas, pode haver algo útil nelas\n* Incentiva os outros a reavaliar os problemas e a tentar vê-los de perspetivas diferentes\n* Coloca perguntas para ajudar as pessoas a ver as premissas a partir das quais estão a trabalhar e a estarem abertas para as mudar, caso essas não estejam a ajudá-las a concretizar o que faz sentido e mais importa para elas\n* Mostra que a incerteza não é algo a ser evitado a todo custo, mas antes algo que pode ajudar-nos a encontrar propósito, fornecendo oportunidades de vivenciar diretamente a forma como isso leva ao sucesso ou a novas oportunidades que nem sabíamos que existiam.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "03aa2eeb-7af5-4087-945c-044cef3e1545",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

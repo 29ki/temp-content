@@ -1,0 +1,62 @@
+{
+  "en": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 4",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Acceptance",
+        "content": "The reason why leaving our comfort zone feels hard is because of how familiar it is. Anything that’s beyond our comfort zone can seem scary, risky and downright uncomfortable.\n\nHowever we simply don’t know what lies beyond. By practicing acceptance - facing the inevitable - we learn to make room for a range of feelings and experiences, without trying to escape, numb or fight the ones we don’t want or like. Through acceptance, we realise that even the most unpleasant and unwelcome emotions will pass.\n\nAcceptance is about choosing to let go of our own expectations - our attachment to outcome - and instead open up to the present moment.\n\nThis doesn’t mean being passive about what matters to us in life. On the contrary, acceptance allows us to focus on our intentions instead and take action precisely where we can.\n\nBy maximising our intentions and minimising our attachment to outcome, our energy can be redirected to where we want it to be and consequently live a value-driven life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 4",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Acceptans",
+        "content": "Det är svårt att lämna vår comfort zone. Den är så välbekant. Allt som ligger utanför kan kännas läskigt och riskabelt.\n\nVi vet helt enkelt inte vad som ligger bortom den. Genom att öva acceptans kan vi träna på att göra plats för alla olika känslor och upplevelser. Utan att undvika, kämpa mot eller trycka undan de vi inte vill ha eller gillar. Genom acceptans kan vi låta även de mest obehagliga och ovälkomna känslorna komma och gå.\n\nAcceptans handlar om att öppna sig och tillåta det som pågår på insidan – och låta det vara, precis som det är. Ibland innebär det att släppa våra egna förväntningar på resultat – vi har mycket begränsad kontroll över vad andra gör eller hur andra tar emot det vi själva gör. Ibland blir vi arga, ledsna eller frustrerade, särskilt när det handlar om något som betyder mycket för oss. \n\nAcceptans handlar inte om att vara passiv i en situation som vi inte trivs i, eller att ge upp. Tvärtom låter acceptans oss fokusera på det som är viktigt, och påverka det som vi faktiskt kan påverka – våra egna beteenden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 4",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Aceitação",
+        "content": "A razão pela qual parece difícil deixarmos a nossa zona de conforto é ela ser tão familiar. Qualquer coisa que esteja além da nossa zona de conforto vai parecer assustadora, arriscada e totalmente desconfortável.\n\nNo entanto, nós não sabemos o que está além dela. Ao praticar a aceitação - enfrentando o inevitável, aprendemos a abrir espaço para um conjunto de sentimentos e experiências, sem tentar escapar, entorpecer ou lutar contra aqueles que não queremos ou de que não gostamos. Pela aceitação, percebemos que até as emoções mais desagradáveis e indesejáveis vão acabar por passsar.\n\nA aceitação é escolher abandonar as nossas próprias expetativas – o nosso apego ao resultado - e, em vez disso, abrirmo-nos para o momento presente.\n\nIsso não significa sermos passivos sobre o que é importante para nós na vida. Pelo contrário, a aceitação permite que nos concentremos nas nossas intenções e ajamos exatamente onde devemos.\n\nAo maximizar as nossas intenções e minimizar o nosso apego ao resultado, permitimos que a nossa energia possa ser redirecionada para onde queremos que ela esteja e, consequentemente, conseguimos viver uma vida melhor e mais orientada pelos nossos valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      }
+    ]
+  }
+}

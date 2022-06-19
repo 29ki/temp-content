@@ -1,0 +1,45 @@
+{
+  "en": {
+    "id": "c02c2c38-9f73-4870-97c9-a181f90aaca1",
+    "alias": "sleep-day-4",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to day 4",
+        "task": {
+          "days": 0,
+          "hours": 20,
+          "minutes": 0,
+          "title": "Wind down ",
+          "body": "Put away all distractions 30 minutes before going to bed.",
+          "id": "sleep-day-4"
+        },
+        "sharingWall": {
+          "question": "How did you feel?",
+          "exampleText": "I felt calm and at peace. "
+        },
+        "followUp": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 0,
+          "title": "How did it go?",
+          "body": "How did you feel putting away your distractions?",
+          "id": "followupsleepday4"
+        },
+        "lessonlastDay": false,
+        "alias": "sleep-day-4",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "581ff13e-2527-4f34-bf3b-dc8eeb896a3b"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "c02c2c38-9f73-4870-97c9-a181f90aaca1",
+    "alias": "sleep-day-4"
+  },
+  "pt": {
+    "id": "c02c2c38-9f73-4870-97c9-a181f90aaca1",
+    "alias": "sleep-day-4"
+  }
+}

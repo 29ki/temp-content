@@ -1,0 +1,50 @@
+{
+  "en": {
+    "checking": {
+      "status": "Checking for update"
+    },
+    "downloading": {
+      "status": "Downloading update"
+    },
+    "installed": {
+      "status": "Update available - ",
+      "action": "restart app"
+    },
+    "upToDate": {
+      "status": "29k is up to date - ",
+      "action": "check for update"
+    }
+  },
+  "sv": {
+    "checking": {
+      "status": "Söker efter uppdatering"
+    },
+    "downloading": {
+      "status": "Ladda ner uppdatering"
+    },
+    "installed": {
+      "status": "Uppdatering tillgänglig - ",
+      "action": "starta om"
+    },
+    "upToDate": {
+      "status": "29k är uppdaterad - ",
+      "action": "sök uppdatering"
+    }
+  },
+  "pt": {
+    "checking": {
+      "status": "A verificar atualizações"
+    },
+    "downloading": {
+      "status": "A instalar atualização"
+    },
+    "installed": {
+      "status": "Atualização disponível - ",
+      "action": "reiniciar app"
+    },
+    "upToDate": {
+      "status": "29k FJN está atualizada - ",
+      "action": "verificar atualizações"
+    }
+  }
+}

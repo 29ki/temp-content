@@ -1,0 +1,318 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "The healing hand ",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/the_healing_hand_ototpv.png"
+    },
+    "time": "15 minutes",
+    "duration": {
+      "count": 7,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "b460ea58-3ad7-4319-88e1-6bf233820178",
+    "description": "Stay grounded when powerful emotions arise.",
+    "stations": [
+      {
+        "id": "b460ea58-3ad7-4319-88e1-6bf233820178",
+        "root": "section1",
+        "alias": "Exercise: The Healing Hand",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "The Healing Hand ",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_healing_hand_lydkre.png",
+            "title": "The healing hand ",
+            "content": "When we’re faced with uncertainty and isolation, many **powerful emotions are likely to arise**.\n\nThis can make us feel uncomfortable and want to flee, avoid or fight our emotions. While this approach may seem helpful in the short run, it can also prevents us from taking action and **do things that are meaningful in the long run.**\n\nSo, what’s the alternative?",
+            "buttonText": "Tell me more"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Intro II",
+            "topImageUri": "",
+            "title": "",
+            "content": "Opening up and accepting our emotions is a powerful technique which you can learn and use in whatever difficult situation your life puts you in.\n\nThis exercise is designed to help you tune into your thoughts and feelings and practice acceptance.\n",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "Find a quiet place to sit where you won’t be disturbed for a while.\n\nThink about an area in your life that’s painful or difficult for you right now. Observe your feelings and thoughts right here, right now. Let them be in you and settle in your body.",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Healing Hand",
+            "title": "Healing Hand",
+            "time": "",
+            "question": "",
+            "longDescription": "Place a hand on the part of your body where you feel these difficult emotions most acutely. Let your hand rest there for a while.\n\nSay these three things to yourself:\n\n* *This is a tough moment in my life.*\n* *Tough times are a part of life.*\n* *Someone, somewhere is also feeling the same tough thing right now.*",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "Notice what emotions are showing up in your body.\n\nYou don’t have to want or like them — simply let them be.\n\nImagine your body opening up and making enough room for all your emotions right now.\n\nNow say to yourself: \n\n*May I hold my pain with kindness.*",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Reflection",
+            "title": "Reflection",
+            "time": "",
+            "question": "",
+            "longDescription": "What emotions did you experience in your body?\n\nHow was it for you to accept them instead of trying to get rid of them?\n",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done",
+            "content": "Now take a deep breath and thank yourself for taking part in this exercise.\n\nYou can practice the Healing Hand anytime you feel powerful emotions arise in your life.\n",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "0c8f57f4-04ca-475e-b782-2bcc08bc7fea",
+            "alias": "Sharing wall: helping hand exercise",
+            "question": "What is one thing — big or small — that might become easier to do with this technique?",
+            "exampleText": "I can have trouble sleeping because I am swimming in emotions. This technique could help me before bed."
+          }
+        ],
+        "name": "The Healing Hand",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Låt dina känslor vara",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/the_healing_hand_ototpv.png"
+    },
+    "time": "15 minuter",
+    "duration": {
+      "count": 7,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "b460ea58-3ad7-4319-88e1-6bf233820178",
+    "description": "Håll dig lugn när starka känslor uppstår.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "b460ea58-3ad7-4319-88e1-6bf233820178",
+        "root": "section1",
+        "alias": "Exercise: The Healing Hand",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_healing_hand_lydkre.png",
+            "title": "Låt dina känslor komma",
+            "content": "När vi befinner oss i osäkra och otrygga situationer är det vanligt att vi upplever starka känslor som kan kännas obehagliga.\n\nEn vanlig strategi är då att försöka fly, undvika eller kämpa emot känslorna. På kort sikt kan det verka hjälpsamt, men på lång sikt kan det hindra oss från att göra sånt som är viktigt.",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Intro II",
+            "topImageUri": "",
+            "title": "",
+            "content": "Så, finns det några andra alternativ?\n\nEn kraftfull teknik du kan lära dig att använda i svåra situationer i livet är att öppna för och acceptera dina känslor.",
+            "buttonText": "Testa"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Övning",
+            "title": "Övning",
+            "time": "",
+            "question": "",
+            "longDescription": "1. Hitta en lugn plats att sitta på där du inte kommer bli störd på ett tag.\n2. Tänk på ett område i livet som är smärtsamt eller svårt för dig just nu. Bli medveten om dina känslor och tankar; låt dem vara och kännas i din kropp just här, just nu.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Den helande handen",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "3. Lägg en hand på den delen av din kropp där du känner dessa svåra känslor som starkast. Låt din hand vila där en stund.\n4. Säg följande till dig själv: \n\n* *Det här är en svår period för mig.*\n* *Svåra perioder är en del av livet.*\n* *Någon, någonstans, känner samma svåra känslor just nu.*",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Övning",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "5. Lägg märke till vilka känslor som dyker upp i din kropp. Du behöver inte gilla dem. Låt dem bara vara, precis som de är. \n6. Föreställ dig nu hur din kropp gör plats för alla dina känslor.\n7. Säg till dig själv: \n\n   *Låt mig vara snäll mot mig själv när jag känner smärta.*",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "0c8f57f4-04ca-475e-b782-2bcc08bc7fea",
+            "alias": "Dela med andra: Övningen Den helande handen",
+            "question": "Hur var det för dig att acceptera känslorna istället för att försöka bli av med dem?",
+            "exampleText": "Det var ovant och svårt till en början. Men allt eftersom kände jag mig lugnare och jag blev mindre rädd för mina känslor.",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Bra jobbat!",
+            "topImageUri": "",
+            "title": "Du är nu klar, bra jobbat!",
+            "content": "Ta ett djupt andetag och tacka dig själv för att du genomförde övningen.\n\nDu kan använda den här tekniken när du känner att du behöver hjälp med att hantera starka känslor.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Tillåt dina känslor",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "A mão que cura (versão longa)",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/the_healing_hand_ototpv.png"
+    },
+    "time": "15 minutes",
+    "duration": {
+      "count": 7,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "b460ea58-3ad7-4319-88e1-6bf233820178",
+    "description": "Quando surgirem emoções fortes mantém os pés no chão",
+    "stations": [
+      {
+        "id": "b460ea58-3ad7-4319-88e1-6bf233820178",
+        "root": "section1",
+        "alias": "Exercise: The Healing Hand",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_healing_hand_lydkre.png",
+            "title": "A mão que cura - longo",
+            "content": "*15 minutos*\n\nQuando somos confrontados com a incerteza e o isolamento, é provável que surjam muitas emoções intensas.\n\nIsso pode fazer-nos sentir desconfortáveis e querer fugir, evitar ou combater as nossas emoções. Embora esta abordagem pareça útil a curto prazo, também nos impede de atingir o nosso potencial máximo a longo prazo.\n\nEntão, qual é a alternativa?",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Usa papel e caneta",
+            "topImageUri": "",
+            "title": "Usa papel e caneta",
+            "content": "Abrirmo-nos e aceitarmos as nossas emoções é uma técnica poderosa que podes aprender e usar em qualquer situação difícil em que a tua vida te coloque.\n\nEste exercício foi preparado para te ajudar a sintonizar com os teus pensamentos, os teus sentimentos e para praticares a aceitação.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Encontra um lugar sossegado onde não sejas incomodado durante algum tempo.\n\nPensa numa área da tua vida que seja dolorosa ou difícil neste momento. Deixa que os teus sentimentos e pensamentos se tornem mais claros. Permanece com eles dentro de ti e permite que se instalem no teu corpo.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "A mão que cura",
+            "title": "A mão que cura",
+            "time": "",
+            "question": "",
+            "longDescription": "Coloca uma mão na parte do teu corpo onde sentes estas emoções difíceis com maior intensidade. Deixa a tua mão descansar nesse sítio por um momento. \n\nDiz estas três coisas a ti própria/o: \n\n* \"Este é um momento difícil na minha vida.\" \n* \"Tempos difíceis fazem parte da vida.\"\n* \"Alguém, em algum lugar, também está a sentir esta mesma dificuldade neste momento.\"",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Apercebe-te das emoções que estão a aparecer no teu corpo.\n\nNão tens de as querer ou gostar delas - simplesmente deixa-as estar.\n\nImagina o teu corpo a abrir-se neste momento e a criar espaço suficiente para todas as tuas emoções.\n\nAgora diz a ti própria/o:  \"Que eu possa aceitar a minha dor com bondade.\"",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Reflexão",
+            "title": "Reflexão",
+            "time": "",
+            "question": "",
+            "longDescription": "Que emoções experimentaste no teu corpo?\n\nComo foi para ti aceitá-las em vez de tentares livrar-te delas?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Agora respira fundo e agradece a ti mesma/o por teres participado neste exercício.\n\nPodes sempre praticar a “A Mão que Cura” quando sentires emoções intensas a surgir na tua vida.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "731f1ce0-8792-4ede-87c8-f2be192e6e65",
+            "alias": "Sharing wall: healing hand exercise",
+            "question": "Que pequena, ou grande, tarefa poderá tornar-se mais fácil de fazer com esta técnica?",
+            "exampleText": "Posso ter problemas de sono porque estou afundado em emoções. Esta técnica pode ajudar-me a adormecer melhor."
+          }
+        ],
+        "name": "A mão que cura (versão longa)",
+        "type": "station"
+      }
+    ]
+  }
+}

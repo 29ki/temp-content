@@ -1,101 +1,107 @@
 {
   "en": {
-    "type": "lesson",
     "id": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
-    "alias": "YA Stress: Att säga nej och ja",
+    "alias": "Stress YA: Saying no and yes 1",
     "root": "69d7984f-d051-4701-9de8-a0a44fcce4f0",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "69d7984f-d051-4701-9de8-a0a44fcce4f0",
-        "content": "Att sätta gränser är en förutsättning för att få tid till återhämtning. Det är också grunden i bra relationer. Om vi inte kan känna av och sätta våra egna gränser — eller inte kommunicera dem till andra — leder det ofta till stress.",
+        "content": "**Setting** **boundaries** is key to our **recovery**. It's also the foundation of good relationships.\n\nWhen we struggle with setting and maintaining our boundaries, we often end up feeling **stressed**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Next",
             "sectionId": "c46b90b3-03f6-43de-add1-49739f6ce42c"
           }
         ],
         "alias": "Intro",
-        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_header.png"
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_header.png",
+        "title": "Yes and no"
       },
       {
         "type": "defaultSection",
         "id": "c46b90b3-03f6-43de-add1-49739f6ce42c",
-        "alias": "Du kommer lära dig",
+        "alias": "You will learn",
         "content": [
           {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "### I den här lektionen får du lära dig mer om:\n\n* Sätta gränser\n* Sluta säga ja när du egentligen menar nej\n* Hur du lättare kan säga nej"
+                "content": "### In this lesson you will learn more about:\n\n* Setting boundaries\n* How to stop saying yes when you really want to say no\n* How to say no more easily"
               }
             ]
           },
           {
-            "component": "Button",
-            "content": "Next",
-            "sectionId": "2f93659f-6e77-46f0-8cf1-cee81f124cf8"
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "2f93659f-6e77-46f0-8cf1-cee81f124cf8"
+              }
+            ]
           }
         ]
       },
       {
         "type": "editorialWithImage",
         "id": "2f93659f-6e77-46f0-8cf1-cee81f124cf8",
-        "content": "När vi är stressade är det vanligt att vi säger ja till för många saker. Vi gör det av alla möjliga anledningar. Höga krav på oss själva. Rädsla för att missa något. Svårigheter att hantera att andra blir arga eller besvikna.",
+        "content": "**Saying** **yes** to too many things usually puts us in a **stressful** position.\n\nBut we still do it. For all sorts of reasons. High demands on ourselves. Fear of missing out. Difficulty dealing with others getting angry or disappointed.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "More",
             "sectionId": "bc2ace2a-ae31-46f9-9987-85f7e0ec41e0"
           }
         ],
-        "alias": "Att säga ja men mena nej",
+        "alias": "Saying yes but meaning no",
         "topImageUri": "",
-        "title": "Att säga ja men mena nej"
+        "title": "Saying YES when you mean NO"
       },
       {
         "type": "editorialWithImage",
         "id": "bc2ace2a-ae31-46f9-9987-85f7e0ec41e0",
-        "content": "Förmågan att säga nej är en viktig färdighet för att ta hand om oss, *särskilt* när vi är stressade. Men att säga nej kan vara läskigt och ovant. Därför händer det att vi istället undviker det, eller blir arga när någon ber oss om något som vi inte vill eller orkar.",
-        "title": "Ja-fällan",
-        "alias": "Ja-fällan",
+        "content": "**Saying no** is an important life **skill**. While it may seem harsh and scary, saying no is also an act of self-care, especially when we’re stressed. \n\nBut often we avoid it. Or get angry when someone asks us for something we don't feel like doing.",
+        "title": "The yes trap",
+        "alias": "The yes trap",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Next",
             "sectionId": "480a4db9-83f5-4851-878a-93718a64dfe6"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628153203/Group_741_nuk2ho.png"
       },
       {
         "type": "editorialWithImage",
         "id": "480a4db9-83f5-4851-878a-93718a64dfe6",
-        "content": "När vi undviker brukar vi låta bli att säga någonting, gå därifrån eller hålla med — bara för att slippa en konflikt. När vi blir arga, kan vi upplevas som hotfulla eller aggressiva. Både undvikande och ilska kan ibland fungera på *kort sikt,* men känns ofta inte särskilt bra i längden.",
+        "content": "When we avoid something we usually **refrain** from **saying** something, **leave** a situation or say that we **agree** — only to **avoid** **conflict**. When we get angry, we can be perceived as being aggressive.\n\nWhile avoidance and anger can sometimes work in the short-term*,* they often don't work well in the long run.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
+            "component": "NextConversationButton",
+            "content": "More",
             "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
-            "sectionId": "root"
+            "variant": "primary"
           }
         ],
-        "alias": "4"
+        "alias": "4",
+        "title": "The yes trap"
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
-    "alias": "YA Stress: Att säga nej och ja",
+    "alias": "Stress YA: Saying no and yes 1",
     "root": "2804b593-572a-4523-84c9-5117126894be",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "2804b593-572a-4523-84c9-5117126894be",
         "alias": "Intro",
-        "content": "Att sätta gränser är en förutsättning för att få tid till återhämtning. Det är också grunden i bra relationer. Om vi inte kan känna av och sätta våra egna gränser — eller inte kommunicera dem till andra — leder det ofta till stress.",
+        "content": "Att **sätta** **gränser** är en förutsättning för att få tid till **återhämtning**. Det är också grunden i bra relationer. \\\n\\\nNär vi har svårt att känna av och sätta våra egna gränser, slutar det ofta med att vi blir **stressade**.",
         "buttons": [
           {
             "component": "Button",
@@ -115,7 +121,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "### I den här lektionen får du lära dig mer om:\n\n* Sätta gränser\n* Sluta säga ja när du egentligen menar nej\n* Hur du lättare kan säga nej"
+                "content": "### I den här lektionen får du lära dig mer om:\n\n* Sätta gränser\n* Sluta säga ja när du egentligen vill säga nej\n* Hur du lättare kan säga nej"
               }
             ]
           },
@@ -135,8 +141,8 @@
         "type": "editorialWithImage",
         "id": "3d864d03-9086-47cf-a60e-d02ee2b512cd",
         "alias": "Att säga ja men mena nej",
-        "title": "Att säga ja men mena nej",
-        "content": "När vi är stressade är det vanligt att vi säger ja till för många saker. Vi gör det av alla möjliga anledningar. Höga krav på oss själva. Rädsla för att missa något. Svårigheter att hantera att andra blir arga eller besvikna.",
+        "title": "Att säga JA men mena NEJ",
+        "content": "När vi är **stressade** är det vanligt att vi säger **ja** till för **många** **saker**. \n\nMen vi gör det ändå. Av olika anledningar. Höga krav på oss själva. Rädsla för att missa något. Svårigheter att hantera att andra blir arga eller besvikna.",
         "buttons": [
           {
             "component": "Button",
@@ -150,14 +156,15 @@
         "id": "c07eb822-2d38-47a6-8a3e-af339f6ee256",
         "alias": "Ja-fällan",
         "title": "Ja-fällan",
-        "content": "Förmågan att säga nej är en viktig färdighet för att ta hand om oss, *särskilt* när vi är stressade. Men att säga nej kan vara läskigt och ovant. Därför händer det att vi istället undviker det, eller blir arga när någon ber oss om något som vi inte vill eller orkar.",
+        "content": "**Förmågan** att **säga nej** är en viktig färdighet. Trots att det kan kännas läskigt och ovant, så kan vi behöva säga nej för att ta hand om oss — särskilt när vi är stressade. \\\n\\\nMen det händer ofta att vi undviker det, eller blir arga när någon ber oss om något som vi inte vill eller orkar.",
         "buttons": [
           {
             "component": "Button",
             "content": "Nästa",
             "sectionId": "c2b9863a-385a-4359-afc7-b47c5d181938"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628153203/Group_741_nuk2ho.png"
       },
       {
         "type": "defaultSection",
@@ -169,7 +176,56 @@
             "content": [
               {
                 "component": "Text",
-                "content": "När vi undviker brukar vi låta bli att säga någonting, gå därifrån eller hålla med — bara för att slippa en konflikt. När vi blir arga, kan vi upplevas som hotfulla eller aggressiva. Både undvikande och ilska kan ibland fungera på *kort sikt,* men känns ofta inte särskilt bra i längden."
+                "content": "När vi **undviker** brukar vi **låta** **bli** att säga någonting, **gå** därifrån eller **hålla** med — bara för att **slippa** **en** **konflikt**. När vi blir arga, kan vi upplevas som aggressiva. \\\n\\\nBåde undvikande och ilska kan ibland fungera på kort sikt*,* men blir oftast inte särskilt bra i längden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Fortsätt",
+                "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
+    "alias": "Stress YA: Saying no and yes 1",
+    "root": "69d7984f-d051-4701-9de8-a0a44fcce4f0",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "69d7984f-d051-4701-9de8-a0a44fcce4f0",
+        "content": "**Definir** **limites** é a chave para a nossa **recuperação**. É também a base de bons relacionamentos.\n\nQuando lutamos para estabelecer e manter os nossos limites, muitas vezes acabamos por nos sentir **stressadas/os**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte ",
+            "sectionId": "c46b90b3-03f6-43de-add1-49739f6ce42c"
+          }
+        ],
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_header.png",
+        "title": "Sim e não"
+      },
+      {
+        "type": "defaultSection",
+        "id": "c46b90b3-03f6-43de-add1-49739f6ce42c",
+        "alias": "Vais aprender ",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Nesta lição vais aprender mais sobre:\n\n* Estabelecer limites\n* Como parar de dizer sim quando na realidade queres dizer não\n* Como dizer não mais facilmente"
               }
             ]
           },
@@ -178,12 +234,57 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e"
+                "content": "Continuar",
+                "sectionId": "2f93659f-6e77-46f0-8cf1-cee81f124cf8"
               }
             ]
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2f93659f-6e77-46f0-8cf1-cee81f124cf8",
+        "content": "**Dizer** **sim** a muitas coisas geralmente coloca-nos numa posição **stressante**.\n\nMas ainda assim fazemos isso. Pelos mais variados motivos. Elevadas expectativas em relação a nós mesmos. Medo de ficar de fora. Dificuldade em lidar com os outros, ficando com raiva ou desiludidos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mais ",
+            "sectionId": "bc2ace2a-ae31-46f9-9987-85f7e0ec41e0"
+          }
+        ],
+        "alias": "Dizer que sim, mas com o significado de não ",
+        "topImageUri": "",
+        "title": "Dizer que sim, mas com o significado de não"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bc2ace2a-ae31-46f9-9987-85f7e0ec41e0",
+        "content": "**Dizer não** é uma **competência** importante na vida. Embora possa parecer duro e assustador, dizer não também é um ato de autocuidado, especialmente quando estamos stressadas/os.\n\nMas muitas vezes evitamos. Ou ficamos com raiva quando alguém nos pede algo que não temos vontade de fazer.",
+        "title": "A armadilha do sim ",
+        "alias": "A armadilha do sim ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte ",
+            "sectionId": "480a4db9-83f5-4851-878a-93718a64dfe6"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628153203/Group_741_nuk2ho.png"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "480a4db9-83f5-4851-878a-93718a64dfe6",
+        "content": "Quando evitamos algo, normalmente **abstemo-nos** de **dizer** algo, **deixamos** a situação de lado ou dizemos que **concordamos** — apenas para **evitar** **o conflito**. Quando ficamos com raiva, podemos ser vistas/os como sendo agressivas/os.\n\nEmbora o evitar e a raiva possam funcionar por vezes a curto prazo, geralmente não funcionam bem a longo prazo.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Mais ",
+            "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+            "variant": "primary"
+          }
+        ],
+        "alias": "4",
+        "title": "A armadilha do sim "
       }
     ]
   }

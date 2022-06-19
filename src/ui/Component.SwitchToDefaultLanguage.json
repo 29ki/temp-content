@@ -1,0 +1,14 @@
+{
+  "en": {
+    "body__markdown": "# Oops!\n\nThis content is unfortunately not available in your selected language.\n\nSwitch your language to English to view it.",
+    "button_change": "Switch to English"
+  },
+  "sv": {
+    "body__markdown": "# Hoppsan!\n\nDetta innehåll är tyvärr inte tillgängligt på ditt valda språk.\n\nByt ditt språk till engelska för att se det.",
+    "button_change": "Byt till engelska"
+  },
+  "pt": {
+    "body__markdown": "# Oops!\n\nInfelizmente este conteúdo não está disponível no idioma selecionado.\n\nMuda o teu idioma para inglês se pretenderes visualizá-lo.",
+    "button_change": "Mudar para Inglês"
+  }
+}

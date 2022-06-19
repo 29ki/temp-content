@@ -1,0 +1,49 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "outro": "Well done for completing the IDG mini-challenge.",
+    "name": "Inner development goals mini challenge",
+    "intro": "Welcome. Want to be a part of the growing community around the inner development goals, the IDG's? They are a set of skills we believe will help you and others around the planet to work towards UN's Sustainable Development Goals.\n\nIn this mini-challenge you'll assess yourself, reflect on the IDG skill set, as well as dive into thinking about where you want to go in life.",
+    "type": "challenge",
+    "duration": {
+      "type": "day",
+      "count": 2
+    },
+    "content": [
+      {
+        "id": "1785db30-13ae-4a92-95c9-07bf77b3ec31",
+        "contentId": "2dca643e-a362-4e54-86ea-417d563869eb"
+      },
+      {
+        "id": "7c613638-2aee-48dd-b404-c209f6797d0f",
+        "contentId": "b31a79c3-94df-4ff3-beb4-84e17b96fa53"
+      }
+    ],
+    "id": "ed75387d-132d-4eb6-b58e-7769e7db5339",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+    },
+    "wip": false,
+    "nextStep": "Are you up for working more on you IDG skill set? See the [29k web](https://29k.org/inner-development) for tips."
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "type": "challenge",
+    "wip": true,
+    "duration": {
+      "type": "day",
+      "count": 2
+    },
+    "id": "ed75387d-132d-4eb6-b58e-7769e7db5339"
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "type": "challenge",
+    "wip": true,
+    "duration": {
+      "type": "day",
+      "count": 2
+    },
+    "id": "ed75387d-132d-4eb6-b58e-7769e7db5339"
+  }
+}

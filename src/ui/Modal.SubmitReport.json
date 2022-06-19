@@ -1,0 +1,14 @@
+{
+  "en": {
+    "message__markdown": "### Thanks for letting us know!",
+    "error": "Oh no - Something went wrong! Please try again"
+  },
+  "sv": {
+    "message__markdown": "### Tack för att du berättade!",
+    "error": "Åh nej - Något gick fel! Försök igen"
+  },
+  "pt": {
+    "message__markdown": "### Obrigado por nos dares conhecimento!",
+    "error": "Oh, não - Alguma coisa correu mal! Por favor, tenta outra vez."
+  }
+}

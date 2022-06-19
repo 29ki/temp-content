@@ -1,0 +1,145 @@
+{
+  "en": {
+    "id": "a0406792-0aa3-43d9-8568-00fd221cc089",
+    "alias": "Nourishing relationships 1: Nour rel-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "One of the most common regrets people have at the end of their life is that they’ve spent **too** **much** time on their **work** and **too little** on caring for their **relationships**.\n\nBy taking this course, you're **showing up**. Not only for yourself, but also for the people who are important to you.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "833560c3-8690-4323-b1c6-b95ce882de1f"
+          }
+        ],
+        "alias": "Relationship map I",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "833560c3-8690-4323-b1c6-b95ce882de1f",
+        "longDescription": "**If you continue living your life as you do now:**\n\n1. What, if anything, would you **regret**? \n2. Who would you miss **spending** **time** with and why? \n3. Who would you regret not having **shared** your **feelings** with?\n\nWrite down your answers.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "a803f996-2f84-401c-bedf-dcfb00734678"
+          }
+        ],
+        "title": "Exercise",
+        "alias": "Exercise"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a803f996-2f84-401c-bedf-dcfb00734678",
+        "alias": "Intro to next exercise",
+        "content": "Look through your answers. Could this point in time be an **opportunity** to **reconnect** with those who matter to you?\n\nIn the next exercise, you'll be guided to take a step back and draw a **relationship** **map** in order to take conscious steps to **nourish** them.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "0fdb6f46-1884-4d7f-8483-1d1afabff375"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "a0406792-0aa3-43d9-8568-00fd221cc089",
+    "alias": "Nourishing relationships 1: Nour rel-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "En av de saker människor ångrar mest i livets slutskede är att de har ägnat **för** **mycket** tid åt att **arbeta** och **för** **lite** tid åt att ta hand om sina **relationer**. \n\nGenom att gå den här kursen så **ställer du upp.** Inte bara för dig själv, utan även för de människor som är viktiga för dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "5ea055f9-5d10-4ed1-b865-050b2a54ada8"
+          }
+        ],
+        "alias": "Relationskartan",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "5ea055f9-5d10-4ed1-b865-050b2a54ada8",
+        "alias": "Exercise",
+        "longDescription": "**Om du fortsätter att leva ditt liv precis som du gör nu:**\n\n1. Vad, om något, skulle du **ångra**? \n2. **Vem** skulle du velat **umgås** mer med och varför?\n3. Vem skulle du ångra att du **inte** **delat** dina **känslor** med?\n\nSkriv ned dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "c5784da9-7f0c-4841-82ec-138ee43d3e39"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c5784da9-7f0c-4841-82ec-138ee43d3e39",
+        "alias": "Intro to next exercise",
+        "content": "Kolla igenom dina svar. Kan den situation du befinner dig i nu vara ett bra **tillfälle** att **återuppta** **kontakten** med någon som är viktig för dig? \n\nI nästa steg kommer du få rita en **relationskarta** för att hjälpa dig **ta hand** om dina relationer på det sätt som du själv vill.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+            "content": "Fortsätt"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "a0406792-0aa3-43d9-8568-00fd221cc089",
+    "alias": "Nourishing relationships 1: Nour rel-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "O mapa das relações",
+        "content": "Um dos arrependimentos mais comuns das pessoas no fim da vida é terem dedicado demasiado tempo ao trabalho e muito pouco a cuidar das relações:\n\nSe continuares a viver a tua vida como vives agora, haveria alguma coisa de que te arrependerias? Com quem sentirias falta de passar tempo? Com quem te arrependerias de não teres partilhado os teus sentimentos?\n\nSerá que este momento pode ser uma oportunidade para restabeleceres o contacto com aqueles que são importantes para ti? No próximo exercício, serás guiada/o para teres uma visão panorâmica das tuas relações, de forma a dares passos mais conscientes para as nutrires.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "title": "A minha história",
+        "description": "“As relações precisam de ser regadas. Nós não podemos partir do princípio que a outra pessoa está sempre lá quando não demos um sinal de vida durante muito tempo.”",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+            "content": "Continuar"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621406588/29k%20FJN/Courses/Nourishing%20Relationships/Photos/2nourishingrelationships_yeyne7.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621936370/29k%20FJN/Courses/Nourishing%20Relationships/Videos%20Final/L1_Nourishing_relationships_in_times_of_turmoil_V1-_daee8v.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

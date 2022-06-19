@@ -1,0 +1,760 @@
+{
+  "en": {
+    "id": "QajZF5P5DVy8wdjN4qVjk3",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Navigating stormy seas",
+        "title": "Navigating stormy seas",
+        "content": "This lesson will help you define your values in different areas of life and evaluate where you’re at in terms of living in line with them.\n\n### Today’s lesson has five parts:\n\n* What are values?\n* Personal values\n* Relationship values\n* Work values\n* Sharing\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Why are values important?",
+        "title": "Why are values important?",
+        "content": "Simply put, values are our heart’s deepest desires. They give us a sense of direction and guide our behavior. This is why some people talk about their values as a compass.\n\n### What’s a difference between values and goals?\n\nValues are something that you work on continuously, for example being an engaged and responsible co-worker. Goals can be checked off, like  “getting a promotion” or “buying a hat”.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Connecting to your values",
+        "title": "Connecting to your values",
+        "content": "What do you value in life? It’s time to find out.\n\nThis exercise focuses on identifying values in 3 areas of your life: personal life, relationships with others and work. Being in a crisis or emotional turmoil might lead to you questioning everything and realising that your priorities have shifted.\n\nBegin by asking yourself:\n\n* Who do I want to be?\n* What do I want to stand for?\n* How do I want to relate to the world around me?\n\nYou will be encouraged to rate how much you live in line with these values.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Your personal values",
+        "title": "Your personal values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_01_values_personal_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Exercise - Part 1",
+        "title": "Exercise - Part 1",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "Write down a list of things you value in your personal life. This may include different aspects of personal development, or how you want to treat your mind and body.\n\n* What continuous activities would you like to start or resume doing?\n* How would you like to relax and enjoy yourself regularly in a healthy way?\n* What kind of person do you want to be towards yourself?\n\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Exercise - Part 2",
+        "title": "Exercise - Part 2",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "On a scale of 1-5, how much do you feel that you live in line with each of your personal life values? (1 stands for “not at all in line” and 5 means “totally in line”). Write down a score next to each value.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Relationships - A cornerstone in life",
+        "title": "Relationships - A cornerstone in life",
+        "content": "Our relationships can be very different depending on the persons they involve such as family members, friends, colleagues and romantic partners, among others. However one thing that all relationships have in common is that they can be a source of both joy and pain.\n\nIt’s likely that you’ve experienced these emotions with more frequency or intensity during this crisis. Maybe this has made you question what you want from your relationships and who you want to have in your life.\n\nWe’ll now take a look at the relationship values.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Exploring your relationship values",
+        "title": "Exploring your relationship values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_02_values_relationships.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Exercise - Part 1",
+        "title": "Exercise - Part 1",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper. ",
+        "longDescription": "Time to dive into your relationship values! Write down a list of things you value in relationships.\n\nYou can use the following questions as your guide:\n\n* What kind and quality of relationships would you like to develop?\n* How would you like behave and treat others?\n* What role would you like to take?\n* What personal qualities would you like to develop?\n\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Exercise - Part 2",
+        "title": "Exercise - Part 2",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "On a scale of 1-5, how much do you feel that you live in line with each of your relationship values? (1 stands for “not at all in line” and 5 means “totally in line”).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Work & education - A huge part of our lives",
+        "title": "Work & education - A huge part of our lives",
+        "content": "Regardless of how much you care about your work, we spend a good deal of time working.\n\nBut what if your work gave you a sense of meaning and purpose (in case it doesn’t feel this way already)?\n\nThis next exercise will explore just that. How, why and in what way can your work or education be more meaningful to you. ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Exploring your work values",
+        "title": "Exploring your work values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_03_values_occupational_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Exercise - Part 1",
+        "title": "Exercise - Part 1",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "When it comes to your work/education:\n\n* What personal qualities would you like to contribute?\n* What competencies, knowledge and personal qualities would you like to develop?\n* How would you like to behave towards others?\n* What kind of relationships would you like to build?\n\nTake a moment to reflect on these questions in writing.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Exercise - Part 2",
+        "title": "Exercise - Part 2",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "On a scale of 1-5, how much do you feel that you live in line with each of your work-related values (1 stands for “not at all in line” and 5 for “totally in line”). Write down a score next to each value.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "Keeping your values in mind",
+        "title": "Keeping your values in mind",
+        "content": "You’ve calibrated your compass. That’s a big step forward!\n\nThe values you have identified today are here to point you towards the life you want to build and motivate you in the right direction, both during these challenging times as well as beyond.\n\nAnd since we’re always growing, so too your values are likely to change over time, which is why it’s a good idea to keep your compass somewhere you can easily access and update whenever necessary.\n\nKeep your values in mind as you go about your life for the rest of the week. Notice if there is anything you wish to change or add to your compass. Remember, even the small things count!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "This short meditation will help you connect to the present moment and prepare you for the final step in this lesson — the group sharing.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/slow-full-breathing.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section17"
+          }
+        ],
+        "alias": "Meditation",
+        "duration": "03:29"
+      },
+      {
+        "id": "section17",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing your compass! You are now ready for the next step — the group sharing.\n\nWhat did you learn about yourself when creating your compass? Has anything surprised you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis - Navigating stormy seas"
+  },
+  "sv": {
+    "id": "QajZF5P5DVy8wdjN4qVjk3",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Navigera när det stormar",
+        "title": "Navigera när det stormar",
+        "content": "Den här lektionen hjälper dig att definiera dina värderingar inom olika delar av livet och fundera på om du lever i linje med det som är viktigt för dig.\n\n### Dagens lektion har fem delar:\n\n* Vad är värderingar?\n* Vad är viktigt för dig som person?\n* Vad värderar du i relationer?\n* Vad är viktigt inom arbete/utbildning?\n* Gruppdelning\n\n### Du behöver:\n\n* 40 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Varför är värderingar viktiga?",
+        "title": "Varför är värderingar viktiga?",
+        "content": "Enkelt uttryckt är värderingar våra innersta önskningar. De kan ge oss en känsla av riktning och hjälpa till att styra våra beteenden. Vi kan prata om värderingar som en kompass i livet.\n\n### Vad är skillnaden mellan värderingar och mål?\n\nVärderingar är något som vi aldrig blir färdiga med, till exempel att vara en engagerad kollega. Mål kan bockas av, som *bli klar med rapporten innan midsommar* eller *köpa en bok*.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Dina värderingar",
+        "title": "Dina värderingar",
+        "content": "Att vara orolig eller att befinna sig i en kris kan leda till att vi ifrågasätter allt och inser att våra prioriteringar har förändrats.\n\nVad värdesätter du i livet? Dags att ta reda på det.\n\nI den här övningen får du identifiera värderingar inom tre områden i ditt liv: dig som person, relationer med andra, och arbete. \n\nInnan vi gör det kan du fundera på följande:\n\n* Vem vill jag vara?\n* Vad vill jag stå för?\n* Hur vill jag relatera till världen omkring mig?\n\nSkriv ner dina svar om du vill. I nästa steg hjälper vi dig att bli lite mer specifik.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Övning – del 1",
+        "title": "Övning – del 1",
+        "time": "5-10 minuter",
+        "question": "Mina värden – personliga",
+        "longDescription": "Skriv nu ner en lista över saker i livet som du värderar. Det kan vara olika aspekter av personlig utveckling, sånt du vill stå för, eller hur du vill behandla kropp och själ.\n\n* Vilka aktiviteter vill du börja med eller återuppta?\n* Hur vill du slappna av och njuta regelbundet på ett hälsosamt sätt?\n* Hur vill du behandla dig själv?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Övning – del 2",
+        "title": "Övning –– del 2",
+        "question": "För följande frågor, skriv ner dina svar på ett papper.",
+        "longDescription": "På en skala från 1-5, hur mycket känner du att du lever i linje med var och en av dina personliga värderingar? (1 står för \"inte alls\" och 5 betyder \"helt i linje\"). Skriv ner en poäng bredvid varje värde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Relationer – en av livets grundpelare",
+        "title": "Relationer – en av livets grundpelare",
+        "content": "Relationer är superviktiga för oss människor. De kan vara helt olika beroende på vilka personer de inbegriper – familjemedlemmar, vänner, kollegor eller romantiska partners. Men en sak alla relationer har gemensamt: de kan vara en källa till både glädje och smärta.\n\nDu kanske har upplevt både glädje och smärta oftare eller mer intensivt under den här krisen. Kanske har det fått dig att ifrågasätta vad du vill ha ut av dina relationer eller vem du vill ha i ditt liv.\n\nNu tar vi en titt på hur du vill vara i en relation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Övning – del 1",
+        "title": "Övning – del 1",
+        "time": "5-10 minuter",
+        "question": "För följande frågor, skriv ner dina svar på ett papper.",
+        "longDescription": "Dags att dyka ner i dina relationsvärderingar! Skriv ner en lista över saker du värdesätter.\n\nDu kan använda följande frågor som guide:\n\n* Vad vill du stå för i relationer?\n* Hur vill du uppträda och behandla andra?\n* Vilken roll vill du ta?\n* Vilka personliga egenskaper vill du utveckla?\n\nExempel kan vara: *Jag vill vara...*\n\n*...kärleksfull, varm och nära*\n\n*...generös*\n\n*...närvarande, finnas där när det behövs*\n\n*...uppriktig, berätta om mina tankar och känslor*\n\n*...aktiv tillsammans (plocka svamp, gå på klubb, spela padel)*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Övning – del 2",
+        "title": "Övning – del 2",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "På en skala från 1-5, hur mycket känner du att du lever i linje med var och en av dina relationsvärderingar? (1 står för \"inte alls\" och 5 betyder \"helt i linje\").\n\nSkriv ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Arbete & utbildning – en stor del av våra liv",
+        "title": "Arbete & utbildning – en stor del av våra liv",
+        "content": "Oavsett hur mycket eller lite vi bryr oss om vårt jobb, så lägger vi en hel del tid på det.\n\nMen tänk om arbete gav oss en känsla av mening och syfte (om det inte redan gör det)?\n\nNästa övning kommer att utforska just det. Hur, varför och på vilket sätt kan arbete eller utbildning vara mer meningsfullt?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Övning – del 1",
+        "title": "Övning – del 1",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "När det gäller arbete/utbildning:\n\n* Vilka personliga egenskaper vill du bidra med?\n* Vilka kompetenser, kunskaper och personliga egenskaper vill du utveckla?\n* Hur skulle du vilja bete dig mot andra?\n* Vad vill du står för i dina relationer på jobbet?\n\nFundera en stund, skriv sedan ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Övning – del 2",
+        "title": "Övning – del 2",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "På en skala från 1-5, hur mycket känner du att du lever i linje med var och en av dina värderingar när det gäller arbete/utbildning (1 står för \"inte alls\" och 5 för \"helt i linje\"). \n\nSkriv ner en siffra bredvid varje värdering.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "Ha dina värderingar i åtanke",
+        "title": "Ha dina värderingar i åtanke",
+        "content": "Du har nu kalibrerat din kompass. Det är ett stort steg framåt.\n\nDe värderingar som du har identifierat idag kan hjälpa dig att styra mot det liv du vill bygga, motivera dig att gå i rätt riktning. Både under dessa svåra tider och det som kommer som därefter.\n\nOch eftersom vi alltid förändras, så kommer dina värderingar sannolikt att förändras med tiden. Därför det är en bra idé att spara din kompass någonstans där du enkelt kan komma åt och uppdatera den när det behövs.\n\nTänk på dina värderingar resten av veckan. Lägg märke till om det är något du vill ändra eller lägga till i din kompass. Kom ihåg att även de små sakerna räknas!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Den här korta meditationen hjälper dig att landa i nuet.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621585394/Meditations/slow_full_breathing_svenska_-_2021-05-20_08_va7svn.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section17"
+          }
+        ]
+      },
+      {
+        "id": "section17",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat med din kompass! \n\nDu är nu redo att dela med din grupp. Här är frågorna till veckans videodelning:\n\n* Vad lärde du dig om dig själv när du skapade din kompass? \n* Har något överraskat dig?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis - Navigating stormy seas"
+  },
+  "pt": {
+    "id": "QajZF5P5DVy8wdjN4qVjk3",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Navegar por mares tempestuosos",
+        "title": "Navegar por mares tempestuosos",
+        "content": "Esta lição vai ajudar-te a definir os teus valores em áreas diferentes da tua vida e a avaliar como estás a viver relativamente a esses valores.\n\n### A lição de hoje tem cinco partes:\n\n* O que são valores?\n* Valores pessoais\n* Valores nas relações\n* Valores no trabalho\n* Partilha\n\n### Vais precisar de:\n\n* 40 min sossegados sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "A importância dos valores",
+        "title": "A importância dos valores",
+        "content": "De forma simples, os valores são os desejos mais profundos do nosso coração. Dão-nos uma sensação de direção e orientam o nosso comportamento. É por isso que algumas pessoas falam sobre os seus valores como uma bússola.\n\n### Qual é a diferença entre valores e objetivos?\n\nOs valores são algo em que trabalhamos de forma contínua, por exemplo, ser um/a colega de trabalho envolvido/a e responsável. Os objetivos podem ser marcados como concluídos, por exemplo “conseguir uma promoção” ou “comprar um boné”.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Conecta-te com os teus valores",
+        "title": "Conecta-te com os teus valores",
+        "content": "O que valorizas na tua vida? Está na altura de descobrires.\n\nEste exercício tem como objetivo a identificação dos teus valores em 3 áreas da tua vida: na vida pessoal, nas relações com os outros e no trabalho. Estar numa crise ou com dificuldades emocionais pode levar-te a questionar tudo e a perceber que as tuas prioridades mudaram.\n\nComeça por te perguntar:\n\n* Quem quero ser?\n* O que quero representar?\n* Como me quero relacionar com o mundo à minha volta?\n\nSerás desafiada/o a avaliar o quanto vives de acordo com esses valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Os teus valores pessoais",
+        "title": "Os teus valores pessoais",
+        "description": "“A ética, a justiça, (...) praticar o bem, o respeito, a seriedade, são tantos. Mas sentir-me bem comigo mesmo é o ponto de partida e de chegada.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020944/29k%20FJN/Courses/Meaning%20Making/Thumbnails%209:16/L2P4NAVIGATINGSTORMYSEAS_xs7ghf.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021128/29k%20FJN/Courses/Meaning%20Making/Videos%209:16/L2_Meaning_making_in_a_crisis_V1_-_9x16_evntwl.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Exercício - Parte 1",
+        "title": "Exercício - Parte 1",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Escreve uma lista de coisas que valorizas na tua vida pessoal. Podes incluir diferentes aspetos de desenvolvimento pessoal ou como queres tratar a tua mente e o teu corpo.\n\n* Que atividades recorrentes gostarias de começar ou reiniciar agora?\n* Como gostarias de relaxar e divertir-te de uma forma saudável?\n* Que tipo de pessoa gostarias de ser relativamente a ti própria/o?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Numa escala de 1-5, quanto achas que vives em linha com cada um dos teus valores pessoais? (1 significa “nada alinhada/o” e 5 significa “totalmente alinhada/o”). Escreve a pontuação junto a cada um dos teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Relações - A pedra angular da vida",
+        "title": "Relações - A pedra angular da vida",
+        "content": "As nossas relações podem ser muito diferentes dependendo das pessoas envolvidas, como familiares, amigas, amigos, colegas, parceiras ou parceiros românticos, entre outros. No entanto, uma coisa que todas as relações têm em comum é que tanto podem ser uma fonte de alegria como uma fonte de dor.\n\nÉ provável que tenhas experienciado estas emoções com mais frequência ou intensidade ultimamente. Talvez isso te tenha feito questionar o que queres das tuas relações e quem desejas ter na tua vida.\n\nVamos agora dar uma vista de olhos aos valores das relações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Os teus valores nas relações",
+        "title": "Os teus valores nas relações",
+        "description": "“Para mim, as ações é que contam (…). Para medir exatamente as pessoas é ver a coerência entre a palavra e a ação (…), mas em tudo na vida.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020944/29k%20FJN/Courses/Meaning%20Making/Thumbnails%209:16/L2P8NAVIGATINGSTORMYSEAS_jnsvjq.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021038/29k%20FJN/Courses/Meaning%20Making/Videos%209:16/L2_Meaning_making_in_a_crisis_V2_-_9x16_r2rzgb.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Exercício - Parte 1",
+        "title": "Exercício - Parte 1",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Está na altura de mergulhares nos teus valores das relações! Escreve uma lista de aspetos que valorizas nas relações.\n\nPodes basear-te nestas perguntas:\n\n* Que tipo e qual a qualidade das relações que gostarias de desenvolver?\n* Como gostarias de te comportar e de tratar os outros?\n* Que papel gostarias de desempenhar?\n* Que qualidades pessoais gostarias de desenvolver?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Numa escala de 1-5, quanto achas que vives em linha com cada um dos teus valores das relações? (1 significa “nada alinhada/o” e 5 significa “totalmente alinhada/o”). Escreve a pontuação junto a cada um dos teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Trabalho e Escola",
+        "title": "Trabalho e Escola",
+        "content": "Independentemente do quanto nos preocupamos com o trabalho, passamos uma grande parte da nossa vida a trabalhar.\n\nMas e se o teu trabalho te trouxer significado e propósito?\n\nNeste próximo exercício, vais explorar exatamente isso. Como, porquê e de que forma o teu trabalho ou a escola podem ser mais significativos para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "alias": "Os teus valores no trabalho",
+        "title": "Os teus valores no trabalho",
+        "description": "“A ética, o respeito, o compromisso, o estar de corpo e alma, acho que é muito importante.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020945/29k%20FJN/Courses/Meaning%20Making/Thumbnails%209:16/L2P12NAVIGATINGSTORMYSEAS_syhgsu.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021073/29k%20FJN/Courses/Meaning%20Making/Videos%209:16/L2_Meaning_making_in_a_crisis_V3_-_9x16_l5uhbx.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Exercício - Parte 1",
+        "title": "Exercício - Parte 1",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "No que diz respeito ao teu trabalho/escola:\n\n* Com que qualidades pessoais gostarias de contribuir?\n* Que competências, conhecimentos e qualidades pessoais gostarias de desenvolver?\n* Como gostarias de te comportar relativamente aos outros?\n* Que tipo de relacionamentos gostarias de construir?\n\nReflete uns momentos por escrito sobre estas perguntas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "time": "Tira 5-10 min",
+        "question": "Responde às questões seguintes numa folha de papel.",
+        "longDescription": "Numa escala de 1-5, quanto achas que vives em linha com cada um dos teus valores relacionados com o trabalho? (1 significa “nada alinhada/o” e 5 significa “totalmente alinhada/o”). Escreve a pontuação junto a cada um dos teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "Manter os teus valores em mente",
+        "title": "Manter os teus valores em mente",
+        "content": "Calibraste a tua bússola. É um grande passo em frente!\n\nOs valores que identificaste hoje estão aqui para te ajudar a ires na direção certa e a construíres a vida que desejas, tanto durante tempos difíceis como no futuro.\n\nE, como estamos sempre a evoluir, os teus valores também podem mudar com o tempo, por isso é boa ideia manteres a tua bússola num lugar a que possas facilmente aceder e calibrá-la sempre que seja necessário.\n\nMantem os teus valores em mente e vive-os durante o resto da semana. Pensa se há alguma coisa que queiras alterar ou adicionar à tua bússola. Lembra-te de que até as mais pequenas coisas contam!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta pequena meditação vai ajudar-te a conectares-te com o momento presente para preparares o passo final desta lição — a partilha em grupo.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section17"
+          }
+        ]
+      },
+      {
+        "id": "section17",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares **A tua bússola**! Agora já podes passar para a próxima etapa – a partilha em grupo.\n\nO que aprendeste sobre ti ao criar a tua bússola? Foste surpreendida/o por alguma coisa?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis - Navigating stormy seas"
+  }
+}

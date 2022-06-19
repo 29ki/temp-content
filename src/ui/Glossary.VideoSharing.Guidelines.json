@@ -1,0 +1,204 @@
+{
+  "en": {
+    "faq_link_text": "For general questions, please visit",
+    "faq_link_anchor_text": "Frequently Asked Questions",
+    "guidelines": [
+      {
+        "content__markdown": "**First, choose someone to facilitate this sharing session.**\n\nThat person isn't responsible for the session, but helps the group remember the time and follow the structure.\n\nSwipe to navigate <--",
+        "facilitatorHeader": "",
+        "facilitator__markdown": "",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "Welcome to a safe space where we can all listen and be vulnerable.\n\nI would like to remind us all to engage and create the environment we want.\n\nWhat's going on inside of us is okay. We can express our experiences, feelings or thoughts just as they are.",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "During this video sharing, we are all responsible for:\n\n* Participating and sharing.\n* Indicating to others that we are done sharing, for example by saying “Thank you”.\n* Listening and letting others finish. Show that you are listening by keeping your camera on.\n* Keeping what's been said within the group.\n* Trying to understand - not fix or solve others’ problems",
+        "content__markdown": "",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "We are now ready to check in to our safe space for sharing.\n\nThe first stage of checking in is to take a minute of silence and deep breathing.\n\nCould someone please set a timer for **1 minute**?",
+        "content__markdown": "",
+        "chapterIndex": "1"
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "1",
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "Each person will now check in by answering the question: *How do you feel?*\n\nAnswer with a word or a short sentence."
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "2",
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "Now we are ready to share.\n\nEach person has 5 minutes to share their reflections from the exercises. Remember to thank each person and avoid giving advice.\n\nPlease be mindful of time. We will leave the last 10 minutes before the session ends to have time for check out."
+      },
+      {
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "We will now check out from today's session.\n\nEach person has two minutes to answer the question: *What are you grateful for from this sharing?*",
+        "chapterIndex": "3"
+      },
+      {
+        "facilitatorHeader": "Facilitator says:",
+        "facilitator__markdown": "To finish the call, let's all take a moment to thank each other.\n\nLet's also confirm the date for our next sharing.",
+        "chapterIndex": "3"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Introduction"
+      },
+      {
+        "title": "Check-in"
+      },
+      {
+        "title": "Share"
+      },
+      {
+        "title": "Check-out"
+      }
+    ],
+    "button_prev_page": "Back",
+    "button_next_page": "Next"
+  },
+  "sv": {
+    "faq_link_text": "För vanliga frågor, se",
+    "faq_link_anchor_text": "vanliga frågor",
+    "guidelines": [
+      {
+        "content__markdown": "**Börja med att välja en facilitator för gruppdelningen.**\n\nFacilitatorn påminner gruppen om att följa strukturen och hjälper till att hålla koll på tiden.\n\nDu navigerar genom att svajpa <--",
+        "chapterIndex": "0",
+        "facilitatorHeader": "",
+        "facilitator__markdown": ""
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "0",
+        "facilitator__markdown": "Välkommen till en trygg plats där vi lyssnar och kan vara öppna med vad vi verkligen känner.\n\nJag vill påminna oss alla om att engagera oss och skapa en säker miljö.\n\nAllt som pågår inuti oss är okej. Vi kan uttrycka våra upplevelser, känslor och tankar precis som de är.",
+        "facilitatorHeader": "Facilitatorn säger:"
+      },
+      {
+        "facilitatorHeader": "Facilitatorn säger:",
+        "facilitator__markdown": "Under den här gruppdelningen är vi tillsammans ansvariga för att:\n\n* Delta och dela med oss.\n* Visa andra att vi är färdiga med att dela, exempelvis genom att säga \"Tack\".\n* Lyssna och låta andra tala till punkt. Visa att du lyssnar genom att ha på din kamera.\n* Inte berätta om det som sägs utanför gruppen.\n* Försöka förstå varandra, men inte fixa eller lösa andras problem.",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitatorn säger:",
+        "facilitator__markdown": "Vi är nu redo att sätta igång.\n\nDet första steget i incheckningen är att vi är tysta och andas djupt i en minut.\n\nKan någon ställa en timer på **en minut?**",
+        "content__markdown": "",
+        "chapterIndex": "1"
+      },
+      {
+        "facilitatorHeader": "Facilitatorn säger:",
+        "facilitator__markdown": "Alla checkar nu in genom att svara på frågan: *Hur mår du?*\n\nSvara med ett ord eller en kort mening.",
+        "content__markdown": "",
+        "chapterIndex": "1"
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "2",
+        "facilitator__markdown": "Vi är nu redo att börja gruppdelningen.\n\nVarje person har **fem minuter** var att dela sina reflektioner från övningarna. Kom ihåg att säga tack och undvika att ge råd.\n\nVar uppmärksam på tiden. Vi lämnar de sista **tio minuterna** innan sessionen avslutas för att ha tid för utcheckning.",
+        "facilitatorHeader": "Facilitatorn säger:"
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "3",
+        "facilitatorHeader": "Facilitatorn säger:",
+        "facilitator__markdown": "Det är nu dags att checka ut från dagens gruppdelning.\n\nAlla har **två minuter** var på sig att svara på frågan: *Vad är du tacksam för efter att ha deltagit i den här gruppdelningen?*"
+      },
+      {
+        "facilitatorHeader": "Facilitatorn säger:",
+        "facilitator__markdown": "Innan vi avslutar samtalet kan vi ta en liten stund för att tacka varandra.\n\nLåt oss också bekräfta datumet för nästa delningstillfälle.",
+        "chapterIndex": "3"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Introduktion"
+      },
+      {
+        "title": "Checka in"
+      },
+      {
+        "title": "Dela"
+      },
+      {
+        "title": "Checka ut"
+      }
+    ],
+    "button_prev_page": "Tillbaka",
+    "button_next_page": "Nästa"
+  },
+  "pt": {
+    "faq_link_text": "Para questões gerais, por favor visita",
+    "faq_link_anchor_text": "Perguntas frequentes",
+    "guidelines": [
+      {
+        "content__markdown": "**Primeiro, escolhe alguém para facilitar esta sessão de partilha.**\n\nEsta pessoa não é responsável pela sessão, mas atua como facilitadora, controlando o tempo e garantindo a estrutura e objetivo.\n\nDesliza para navegar <--",
+        "facilitatorHeader": "",
+        "facilitator__markdown": "",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Bem-vindo/a a um espaço seguro onde todos podemos ouvir e ser vulneráveis.\n\nGostaria de lembrar a todos ao participantes que nos devemos envolver na sessão  e criar o ambiente que pretendemos.\n\nPodemos expressar as nossas experiências, sentimentos ou pensamentos exatamente como eles são.",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Durante esta sessão de partilha por video, somos todos responsáveis por:\n\n* Participar e partilhar.\n* Dar uma indicação de que terminamos a partilha dizendo por exemplo \"Obrigado\".\n* Escutar e deixar os outros terminar. Mostra que estás a ouvir mantendo a câmara ligada.\n* Manter tudo o que for partilhado dentro do grupo.\n* Tentar compreender e não resolver os problemas dos outros.",
+        "content__markdown": "",
+        "chapterIndex": "0"
+      },
+      {
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Estamos agora preparados para entrar no nosso local de partilha seguro.\n\nO primeiro passo para entrarmos é fazermos um minuto de silêncio e respiração profunda.\n\nAlguém pode por favor criar um alarme para daqui a **1 minuto**?",
+        "content__markdown": "",
+        "chapterIndex": "1"
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "1",
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Cada pessoa vai agora fazer a sua entrada respondendo à questão: *Como me estou a sentir?*\n\nRespondam com uma palavra ou frase curta."
+      },
+      {
+        "content__markdown": "",
+        "chapterIndex": "2",
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Agora estamos prontos para partilhar.\n\nCada pessoa tem 5 minutos para partilhar as suas reflexões acerca dos exercícios. Lembrem-se de agradecer a cada pessoa e evitem dar conselhos.\n\nPor favor respeitem o tempo. Vamos deixar os últimos 10 minutos da sessão para fazermos a saída."
+      },
+      {
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Vamos agora sair da sessão de hoje.\n\nCada pessoa tem 2 minutos para responder à questão: *O que agradeces acerca desta sessão?*",
+        "chapterIndex": "3"
+      },
+      {
+        "facilitatorHeader": "Facilitador/a diz:",
+        "facilitator__markdown": "Para terminar a sessão vamos agradecer uns aos outros a nossa presença.\n\nVamos também confirmar a data da próxima partilha.",
+        "chapterIndex": "3"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Introdução"
+      },
+      {
+        "title": "Entrada"
+      },
+      {
+        "title": "Partilha"
+      },
+      {
+        "title": "Saída"
+      }
+    ],
+    "button_prev_page": "Retornar",
+    "button_next_page": "Continuar"
+  }
+}

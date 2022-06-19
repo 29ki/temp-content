@@ -2,7 +2,7 @@
   "en": {
     "id": "feeling-lost-2",
     "alias": "feeling-lost-2",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -26,7 +26,6 @@
               {
                 "component": "Button",
                 "content": "I’m ready to continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section2"
               }
             ]
@@ -61,13 +60,11 @@
               {
                 "component": "Button",
                 "content": "Write here in the app",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section3"
               },
               {
                 "component": "Button",
                 "content": "I’m done writing by hand",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section3"
               }
             ]
@@ -98,7 +95,6 @@
               {
                 "component": "Button",
                 "content": "Save and continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section5"
               }
             ]
@@ -142,7 +138,6 @@
               {
                 "component": "Button",
                 "content": "Watch an example",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section5"
               }
             ]
@@ -173,13 +168,11 @@
               {
                 "component": "Button",
                 "content": "I liked the video, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section6"
               },
               {
                 "component": "Button",
                 "content": "It was not helpful, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section6"
               }
             ]
@@ -210,14 +203,13 @@
               {
                 "component": "Button",
                 "content": "Interesting, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section7"
               },
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Go to the next exercise",
-                "conversationId": "feeling-lost-3",
-                "sectionId": "section1"
+                "conversationId": "feeling-lost-3"
               }
             ]
           }
@@ -243,13 +235,11 @@
               {
                 "component": "Button",
                 "content": "Aha, go on",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section8"
               },
               {
                 "component": "Button",
                 "content": "Not helpful, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section8"
               }
             ]
@@ -275,10 +265,15 @@
             ]
           },
           {
-            "component": "NextConversationButton",
-            "content": "Next step",
-            "conversationId": "feeling-lost-3",
-            "sectionId": "section1"
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "feeling-lost-3"
+              }
+            ]
           }
         ],
         "id": "section8",
@@ -290,7 +285,7 @@
   "sv": {
     "id": "feeling-lost-2",
     "alias": "feeling-lost-2",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -314,7 +309,6 @@
               {
                 "component": "Button",
                 "content": "I’m ready to continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section2"
               }
             ]
@@ -349,13 +343,11 @@
               {
                 "component": "Button",
                 "content": "Write here in the app",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section3"
               },
               {
                 "component": "Button",
                 "content": "I’m done writing by hand",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section3"
               }
             ]
@@ -386,7 +378,6 @@
               {
                 "component": "Button",
                 "content": "Save and continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section5"
               }
             ]
@@ -430,7 +421,6 @@
               {
                 "component": "Button",
                 "content": "Watch an example",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section5"
               }
             ]
@@ -461,13 +451,11 @@
               {
                 "component": "Button",
                 "content": "I liked the video, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section6"
               },
               {
                 "component": "Button",
                 "content": "It wasn’t helpful, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section6"
               }
             ]
@@ -498,14 +486,13 @@
               {
                 "component": "Button",
                 "content": "Interesting, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section7"
               },
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Go to the next exercise",
-                "conversationId": "feeling-lost-3",
-                "sectionId": "section1"
+                "conversationId": "feeling-lost-3"
               }
             ]
           }
@@ -531,13 +518,11 @@
               {
                 "component": "Button",
                 "content": "Aha, go on",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section8"
               },
               {
                 "component": "Button",
                 "content": "Not helpful, continue",
-                "conversationId": "feeling-lost-2",
                 "sectionId": "section8"
               }
             ]
@@ -563,10 +548,298 @@
             ]
           },
           {
-            "component": "NextConversationButton",
-            "content": "Next step",
-            "conversationId": "feeling-lost-3",
-            "sectionId": "section1"
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "feeling-lost-3"
+              }
+            ]
+          }
+        ],
+        "id": "section8",
+        "alias": "section8",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "feeling-lost-2",
+    "alias": "feeling-lost-2",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Meditation exercise"
+              },
+              {
+                "component": "Text",
+                "content": "This page will feature an inline audio player."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I’m ready to continue",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercise"
+              },
+              {
+                "component": "Text",
+                "content": "## Write a letter to yourself about feeling lost"
+              },
+              {
+                "component": "Text",
+                "content": "### Go back to that time in your life when you felt lost. Describe in detail how you felt, what you did and what was happening in your life."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Write here in the app",
+                "sectionId": "section3"
+              },
+              {
+                "component": "Button",
+                "content": "I’m done writing by hand",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Well done, moments like this can be hard to think about"
+              },
+              {
+                "component": "Text",
+                "content": "* The letter will be shown here as a card ... *"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Save and continue",
+                "sectionId": "section5"
+              }
+            ]
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Guiding",
+                "content": "Your notes will be saved in your journal"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Good job!"
+              },
+              {
+                "component": "Text",
+                "content": "### You’ve now written a letter to yourself describing a situation when you’ve lacked a sense of meaning and purpose in life."
+              },
+              {
+                "component": "Text",
+                "content": "### There are more people feeling similar to you."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Watch an example",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### There are more people feeling similar to you."
+              },
+              {
+                "component": "Text",
+                "content": "* Video player carousel will come here ... *"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I liked the video, continue",
+                "sectionId": "section6"
+              },
+              {
+                "component": "Button",
+                "content": "It was not helpful, continue",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Feeling lost is a part of life, especially when we’re facing a challenge. Sometimes we don’t see when or how we got off track in the first place."
+              },
+              {
+                "component": "Text",
+                "content": "### All we notice is that things do not feel meaningful anymore, perhaps even painful. Other times it’s quite clear why we’re lost."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Interesting, continue",
+                "sectionId": "section7"
+              },
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Go to the next exercise",
+                "conversationId": "feeling-lost-3"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Our feelings inform us about our situation and also motivate us to act. This is why, as difficult as it can be, feeling lost can be a good thing. It means that at any given moment, we can take the steps towards living a more meaningful life."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Aha, go on",
+                "sectionId": "section8"
+              },
+              {
+                "component": "Button",
+                "content": "Not helpful, continue",
+                "sectionId": "section8"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### You have now written a letter to yourself about a situation where you felt lost."
+              },
+              {
+                "component": "Text",
+                "content": "### In the next step you will write one about when you’ve felt purpose."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "feeling-lost-3"
+              }
+            ]
           }
         ],
         "id": "section8",

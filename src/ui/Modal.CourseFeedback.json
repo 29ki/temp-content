@@ -1,0 +1,15 @@
+
+{
+  "en": {
+    "question": "Rate this course",
+    "detailedQuestion": "What did you think about it?"
+  },
+  "sv": {
+    "question": "Sätt betyg på kursen",
+    "detailedQuestion": "Vad tyckte du om kursen?"
+  },
+  "pt": {
+    "question": "Avalia esta curso",
+    "detailedQuestion": "O que você achou do curso?"
+  }
+}

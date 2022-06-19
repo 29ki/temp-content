@@ -1,0 +1,297 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Your body, your home",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Din_kropp_ditt_hem_iw7fmo.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "aa7b2df4-5a83-468b-87dd-4f78767cfd26",
+    "description": "Emotions are also felt in the body.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "din-kropp-ditt-hem",
+        "alias": "Meditation your body your home",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Din_kropp_ditt_hem_iw7fmo.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Your body, your home"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Sometimes it feels like we just want to get rid of difficult feelings and thoughts that emerge. Practice making space for and accepting everything that is you in your body."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646720/Meditations/4_Your_body_your_home_nix7k5.wav",
+                  "duration": 252
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "4125ff79-7ab3-409f-a95c-d5e45dd28186",
+            "exampleText": "It helped me to understand that it is ok to have negative feelings, and make room for them.",
+            "question": "How did this meditation help you with negative feelings?",
+            "alias": "wall sharing your body your home",
+            "nextSection": "section3"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "You've just thought about how and where you feel things in your body and practiced making room for what's going on inside—even for what we may not want."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Well done. You can use this exercise any time in everyday life when you notice that life feels difficult."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "End"
+          }
+        ],
+        "name": "Your body, your home",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Din kropp, ditt hem",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Din_kropp_ditt_hem_iw7fmo.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "aa7b2df4-5a83-468b-87dd-4f78767cfd26",
+    "description": "Känslor känns också i kroppen.",
+    "stations": [
+      {
+        "id": "din-kropp-ditt-hem",
+        "alias": "Meditation your body your home",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Din_kropp_ditt_hem_iw7fmo.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Din kropp, ditt hem"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Ibland kan det kännas som att vi bara vill bli av med alla jobbiga känslor och tankar som dyker upp. Träna på att ge plats och acceptera allt det som är du, i just din kropp."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Kör igång"
+          },
+          {
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/din-kropp-ditt-hem.mp3",
+                  "duration": 253
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "9aacdd84-9139-46ed-a367-9b18f2d30196",
+            "alias": "wall sharing your body your home",
+            "question": "Vad har du lärt dig från den här meditationen?",
+            "exampleText": "Jag har lärt mig att det är okej att uppleva negativa känslor, och att göra plats för dem i kroppen.",
+            "nextSection": "section3"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Du har just funderat över hur och var saker känns i din kropp samt tränat på att ge plats åt det som pågår på insidan – även åt det som vi kanske inte vill ha. "
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Fint jobbat. Den här övningen kan du använda när som helst i vardagen när du märker att livet känns svårt."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Din kropp, ditt hem",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Your body, your home",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Din_kropp_ditt_hem_iw7fmo.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "aa7b2df4-5a83-468b-87dd-4f78767cfd26",
+    "description": "Emotions are also felt in the body.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "din-kropp-ditt-hem",
+        "alias": "Meditation your body your home",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Din_kropp_ditt_hem_iw7fmo.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Your body, your home"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Sometimes it feels like we just want to get rid of difficult feelings and thoughts that come up. Practice giving space and accepting everything that is you, in your body."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/din-kropp-ditt-hem.mp3",
+                  "duration": 252
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "You have just thought about how and where things feel in your body and trained to make room for what is going on inside - even for what we may not want."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Well done. You can use this exercise at any time in everyday life when you notice that life feels difficult."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "End"
+          }
+        ],
+        "name": "Your body, your home",
+        "type": "station"
+      }
+    ]
+  }
+}

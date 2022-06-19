@@ -1,0 +1,53 @@
+{
+  "en": {
+    "subject": "We miss you — your account will be deleted in 14 days",
+    "header__markdown": "# We haven’t seen **you** in a while",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "At *29k*, we really care about your privacy and security. Because we value the promise we made to you when you registered as a user, we will delete your account within 14 days. **That is, unless you log back into the 29k app.**",
+    "link": {
+      "text": "Open or re-install the app",
+      "href": "https://app.29k.org/welcome-back"
+    },
+    "bodyAfter__markdown": "Users like you make 29k special and we’d love for you to stick around. To keep your account active, just open or re-install the app and log back in. We’ve added tons of new content and features since we last saw you.\n\nIf you’re sure you don’t want to stay with us, you don’t need to do anything. We’ll delete your account in two weeks, including your email.",
+    "about": {
+      "header__markdown": "# **What is** 29k?",
+      "text__markdown": "*29k* is a nonprofit platform for personal growth that helps millions of people work on self-compassion, improve relationships, overcome stress and make better decisions",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652081679/Email%20assets/app_content_adfbdp.png",
+      "textAfter__markdown": "Unfortunately, not all of us have access to social support or can afford expensive therapy. Regardless of income, *29k* provides science-based tools on your phone so that you can practice at home and reflect in live-group conversations."
+    }
+  },
+  "sv": {
+    "subject": "Vi saknar dig – ditt konto raderas om 14 dagar",
+    "header__markdown": "# Det var länge sedan vi sågs",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Vi på *29k* är noggranna med säkerhet och integritet. Som vi lovade när du registrerade dig kommer vi att radera ditt konto inom 14 dagar **om du inte loggar in i 29k-appen igen.**",
+    "link": {
+      "text": "Öppna eller installera om appen",
+      "href": "https://app.29k.org/welcome-back-swedish"
+    },
+    "bodyAfter__markdown": "Användare som du gör 29k speciellt och vi vill gärna att du fortsätter hos oss. Om du vill att ditt konto förblir aktivt är det bara att öppna eller installera om appen. Vi har lagt till massa nytt innehåll och funktionalitet sedan vi senast sågs.\n\nOm du är säker på att du vill avsluta ditt konto, behöver du inte göra någonting. Vi kommer att radera ditt konto om två veckor, inklusive din epost-adress.",
+    "about": {
+      "header__markdown": "# **Vad är** 29k?",
+      "text__markdown": "*29k* är en ideell plattform för personlig utveckling som hjälper miljontals människor att arbeta med självmedkänsla, förbättra relationer, övervinna stress och fatta bättre beslut.",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652081679/Email%20assets/app_content_adfbdp.png",
+      "textAfter__markdown": "Tyvärr har inte alla råd med dyra behandlingar eller tillgång till socialt stöd. Därför finns *29k:s* vetenskapliga verktyg på din telefon så att du kan öva hemma och reflektera i live-gruppsamtal oavsett inkomst."
+    }
+  },
+  "pt": {
+    "subject": "Sentimos a tua ausência — a tua conta vai ser removida dentro de 14 dias.",
+    "header__markdown": "# Não **te** vemos há algum tempo",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Na *29k FJN*, preocupamo-nos com a tua segurança e privacidade. Como valorizamos esse compromisso feito no teu registo, vamos remover a tua conta dentro de 14 dias. **Isto é, se não entrares na app 29k FJN durante este período.**",
+    "bodyAfter__markdown": "Se tens a certeza que não queres continuar connosco, não precisas de fazer nada. Vamos enviar-te um email depois de termos removido a tua conta.",
+    "link": {
+      "text": "Abre ou volta a instalar a app 29k FJN",
+      "href": "https://app.29k.org/welcome-back-portuguese"
+    },
+    "about": {
+      "header__markdown": "# **O que é a** 29k FJN?",
+      "text__markdown": "A *29k FJN* é uma plataforma não lucrativa focada no desenvolvimento pessoal que ajuda milhões de pessoas a trabalharem aspetos relacionados com a autocompaixão, a melhoria das relações, a gestão do stress e a tomada de melhores decisões.",
+      "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652081679/Email%20assets/app_content_adfbdp.png",
+      "textAfter__markdown": "Infelizmente, nem todos nós temos acesso a apoios sociais ou podemos pagar terapias caras. Independentemente das tuas possibilidades, a *29k FJN* disponibiliza ferramentas com uma base científica comprovada no teu telemóvel, para poderes praticar em casa e participar em sessões de partilha de grupo ao vivo."
+    }
+  }
+}

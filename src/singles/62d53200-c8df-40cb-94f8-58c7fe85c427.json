@@ -1,0 +1,315 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Compassion break",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/compassion_break_kgu1wv.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "exercise",
+    "id": "62d53200-c8df-40cb-94f8-58c7fe85c427",
+    "description": "",
+    "stations": [
+      {
+        "id": "62d53200-c8df-40cb-94f8-58c7fe85c427",
+        "root": "section1",
+        "alias": "Meditation Accept your emotions",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Accept your emotions",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653687/Illustrations_Exercises/Header_Compassion_break_with_meditation_aqzcle.png",
+            "title": "Accept your emotions",
+            "content": "*5 - 10 minutes*\n\nWhen we’re stressed we don’t always take the time to process our emotional discomfort.\n\nDistracting ourselves or trying to get our needs met from others happens naturally as we try to reduce our discomfort, but we have more power than we think to support ourselves internally.\n\nIn this exercise you will meet your feelings with acceptance and compassion.\n\n*Derived from the work of Drs. K. Neff and C. Germer*",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Practicing mindfulness",
+            "title": "Practicing mindfulness",
+            "time": "",
+            "question": "",
+            "longDescription": "Think of a situation in your life that is difficult, that is causing you stress.\n\nCall the situation to mind, and see if you can actually feel the stress and emotional discomfort in your body.\n\nNow, **say to yourself**:\n\n> This is a moment of suffering",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Body check-in",
+            "title": "Body check-in",
+            "time": "",
+            "question": "",
+            "longDescription": "Take a breath.\n\nThink how and where the stress and emotional discomfort feel in your body.\n\n> I feel my shoulders getting tense\n\n> I feel like the room is shrinking",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "You’re not alone",
+            "title": "You’re not alone",
+            "time": "",
+            "question": "",
+            "longDescription": "Now, **say the following to yourself**:\n\n> Suffering is a part of being human\n\nOther options for this statement include:\n\n> Other people also feel this way\n\n> I’m not alone\n\n> We all struggle in our lives",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Kindness",
+            "title": "Kindness",
+            "time": "",
+            "question": "",
+            "longDescription": "**Put your hands over your heart.**\n\nFeel the warmth of your hands and the gentle touch of your chest.\n\nNow **say the following**:\n\n> May I be kind to myself\n\nConsider whether any other kindness expression resonates with you right now\n\nFor example:\n\n> May I give myself the compassion that I need\n\n> May I accept myself as I am\n\n> May I forgive myself",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section6",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You are invited to a short meditation guiding you through the exercise.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/self-compassion-break-5-min.mp3",
+            "alias": "audio file",
+            "duration": "5:20",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "4ae144be-7b3e-467e-bbcf-54364f5b1734",
+            "question": "How could the skill of accepting and acting kind to yourself be useful for you?",
+            "exampleText": "When I'm stressed I could use this to help myself choose how to act instead of just lashing out.",
+            "alias": "wall sharing accept your emotions",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/62d53200-c8df-40cb-94f8-58c7fe85c427/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Now **take a deep breath** and allow yourself to be with what you did during the exercise.\n\nYou just did a wonderful thing for your wellbeing.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Compassion break",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Medkänsla",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/compassion_break_kgu1wv.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "exercise",
+    "id": "62d53200-c8df-40cb-94f8-58c7fe85c427",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "62d53200-c8df-40cb-94f8-58c7fe85c427",
+        "root": "section1",
+        "alias": "Meditation Accept your emotions",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Paus med självmedkänsla",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653687/Illustrations_Exercises/Header_Compassion_break_with_meditation_aqzcle.png",
+            "title": "Paus med självmedkänsla",
+            "content": "* 5-10 minuter *\n\nNär vi är stressade tar vi oss inte alltid tid att bearbeta vårt känslomässiga obehag.\n\nAtt distrahera oss själva eller försöka få våra behov tillgodoses från andra sker naturligt när vi försöker minska vårt obehag, men vi har mer kraft än vi tror att försörja oss själva internt.\n\nI den här övningen möter du dina känslor med acceptans och medkänsla.\n\n* Hämtat från Drs arbete. K. Neff och C. Germer *",
+            "buttonText": "Nu kör vi"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Öva mindfulness",
+            "title": "Öva mindfulness",
+            "time": "",
+            "question": "",
+            "longDescription": "Tänk på en situation i ditt liv som är svår, som orsakar dig stress.\n\nTänk på situationen och se om du faktiskt kan känna stress och känslomässiga obehag i kroppen.\n\nNu, ** säg till dig själv **:\n\n> Detta är ett lidande ögonblick",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Body check-in",
+            "title": "Body check-in",
+            "time": "",
+            "question": "",
+            "longDescription": "Ta ett andetag.\n\nTänk hur och var stress och känslomässigt obehag känns i din kropp.\n\n> Jag känner att mina axlar blir spända\n\n> Jag känner att rummet krymper",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Du är inte ensam",
+            "title": "Du är inte ensam",
+            "time": "",
+            "question": "",
+            "longDescription": "Nu, ** säg följande till dig själv **:\n\n> Lidande är en del av att vara människa\n\nAndra alternativ för detta uttalande inkluderar:\n\n> Andra människor känner också så\n\n> Jag är inte ensam\n\n> Vi kämpar alla i våra liv",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Vänlighet",
+            "title": "Vänlighet",
+            "time": "",
+            "question": "",
+            "longDescription": "** Lägg händerna över hjärtat. **\n\nKänn värmen i dina händer och den mjuka beröringen av bröstet.\n\nNu ** säg följande **:\n\n> Får jag vara snäll mot mig själv\n\nTänk på om något annat vänligt uttryck resonerar med dig just nu\n\nTill exempel:\n\n> Får jag ge mig själv den medkänsla jag behöver\n\n> Får jag acceptera mig själv som jag är\n\n> Får jag förlåta mig själv",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section6",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Du är inbjuden till en kort meditation som guidar dig genom övningen.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/self-compassion-break-5-min.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/62d53200-c8df-40cb-94f8-58c7fe85c427/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Nu ** andas djupt ** och låt dig vara med vad du gjorde under träningen.\n\nDu gjorde bara en underbar sak för ditt välbefinnande.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Medkänsla",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Pausa de Compaixão com Meditação",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/compassion_break_kgu1wv.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "exercise",
+    "id": "62d53200-c8df-40cb-94f8-58c7fe85c427",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "62d53200-c8df-40cb-94f8-58c7fe85c427",
+        "root": "section1",
+        "alias": "Meditation Accept your emotions",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Aceita as tuas emoções",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653687/Illustrations_Exercises/Header_Compassion_break_ci5wuq.png",
+            "title": "Aceita as tuas emoções",
+            "content": "*5 - 10 minutos*\n\nComo todas as emoções, o stress e o desconforto emocional demoram tempo a processar.\n\nNo entanto, muitas vezes tentamos evitar, reprimir ou contornar estas emoções. Sem abordar os nossos problemas internamente, muitas vezes acabamos por nos distrair e projetar os nossos sentimentos nos outros.\n\nNeste exercício, vais abordar os teus sentimentos através da aceitação e da compaixão.\n\n*Cocriado com o Dr. K. Neff e o Dr. C. Germer*",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Pratica Atenção Plena",
+            "title": "Pratica Atenção Plena",
+            "time": "",
+            "question": "",
+            "longDescription": "Pensa numa situação na tua vida que seja difícil e que te esteja a causar stress.\n\nTraz essa situação para a mente e verifica se consegues sentir o stress e o desconforto emocional no teu corpo.\n\nAgora, **diz para ti**:\n\n> Este é um momento de sofrimento",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Check-in do corpo",
+            "title": "Check-in do corpo",
+            "time": "",
+            "question": "",
+            "longDescription": "Respira fundo. \n\nAnota como e onde sentes no teu corpo o stress e o desconforto emocional neste momento.\n\n> Sinto os meus ombros a ficarem tensos\n>\n> Sinto que o quarto está a encolher",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Não estás só",
+            "title": "Não estás só",
+            "time": "",
+            "question": "",
+            "longDescription": "Agora, **diz o seguinte a ti própria/o**:\n\n> O sofrimento faz parte da vida humana\n\nOutras alternativas para esta afirmação incluem:\n\n> As outras pessoas também sofrem\n>\n> Não estou só\n>\n> Todos temos lutas nas nossas vidas",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Bondade",
+            "title": "Bondade",
+            "time": "",
+            "question": "",
+            "longDescription": "**Põe as mãos sobre o teu coração.**\n\nSente o calor das tuas mãos e o toque suave do teu peito. \n\nAgora **diz o seguinte**:\n\n> Que eu seja amável comigo\n\nConsidera se alguma outra expressão de bondade está em sintonia contigo neste momento.\n\nPor exemplo:\n\n> Que eu me possa dar a compaixão de que preciso\n>\n> Que eu me aceite como sou \n>\n> Que eu me perdoe",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te a uma breve meditação que te vai guiar através do exercício.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523415/29k%20FJN/Meditations/Joanna%20Final/Opening_Space_to_Compassion_amzllt.mp3",
+            "duration": "6:56",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "1a3f3e1a-b577-4b3d-98e0-75aa841f7f34",
+            "alias": "wall sharing accept your emotions",
+            "question": "Achas que a capacidade de reconheceres e aceitares as tuas emoções sendo mais gentil contigo pode ser útil?",
+            "exampleText": "Quando estou em stress, posso usar isto para me ajudar a escolher como agir de forma mais calma, em vez de estar num modo constante de ataque.",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/62d53200-c8df-40cb-94f8-58c7fe85c427/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Agora **respira fundo** e permite-te estar com o que fizeste durante o exercíco.\n\nAcabaste de fazer uma coisa maravilhosa para o teu bem-estar.",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Pausa de Compaixão com Meditação",
+        "type": "station"
+      }
+    ]
+  }
+}

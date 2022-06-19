@@ -1,21 +1,63 @@
 {
   "en": {
-    "type": "lesson",
     "id": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
-    "alias": "YA att vara här och nu 3",
-    "root": "966bbdd7-6329-4348-a619-8452f1d430a4",
+    "alias": "Stress YA: Being here and now 3",
+    "root": "c7525006-f0ae-42f1-b372-381dcdef21c7",
     "sections": [
       {
-        "type": "writing",
-        "id": "966bbdd7-6329-4348-a619-8452f1d430a4",
-        "title": "",
-        "alias": "Koppla ur autopiloten",
-        "longDescription": "Vi ska nu fortsätta med en kort övning som handlar om en situation där du inte var närvarande i stunden.",
+        "type": "editorialWithImage",
+        "id": "c7525006-f0ae-42f1-b372-381dcdef21c7",
+        "content": "Next up is an exercise where you'll get to look further into a situation when you were stressed and not present in the moment.",
+        "alias": "Intro",
+        "topImageUri": "",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "69a58efa-d7a6-4b33-96c6-9e91747a51ff"
+            "content": "Continue",
+            "sectionId": "41523d97-b005-48e1-891a-0cd1a8ad7fd6"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "41523d97-b005-48e1-891a-0cd1a8ad7fd6",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Ilaria",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064556/Hantera%20Stress%20YA/Lesson%202/ilaria_zzdrik.mp4",
+                "duration": 37,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064556/Hantera%20Stress%20YA/Lesson%202/ilaria_zzdrik.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623757787/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_2-ilaria-en_pnltgr.vtt"
+              },
+              {
+                "title": "Max",
+                "duration": 46,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064569/Hantera%20Stress%20YA/Lesson%202/max_aujza7.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064569/Hantera%20Stress%20YA/Lesson%202/max_aujza7.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623757830/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_2-max-en_rm1ief.vtt"
+              },
+              {
+                "title": "Saga",
+                "duration": 57,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064579/Hantera%20Stress%20YA/Lesson%202/saga_h1mqux.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064579/Hantera%20Stress%20YA/Lesson%202/saga_h1mqux.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623757865/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_2-saga-en_wpwnvm.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "69a58efa-d7a6-4b33-96c6-9e91747a51ff"
+              }
+            ]
           }
         ]
       },
@@ -28,7 +70,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Övning:\n\nSkriv ner dina alla svar någonstans där bara du kan se dem.\n\n1. Beskriv en situation då du var stressad, där du gjorde något impulsivt eller automatiskt och där resultat inte blev så bra.\n\n*Exempelvis: sa någonting jag sedan ångrade, undvek att göra någonting som kändes obehagligt i stunden, sa ja fast jag egentligen inte ville.*"
+                "content": "# **Exercise**\n\nWrite down all your answers.\n\n1. Describe a situation when you were **stressed**, did something **impulsive** or **automatic** and the results didn't turn out good.\n\n*For example: I said something I then regretted, avoided doing something that felt uncomfortable, said yes even though I wanted to say no.*"
               }
             ]
           },
@@ -48,48 +90,115 @@
       {
         "type": "editorialWithImage",
         "id": "9aac9201-3959-4aab-a263-c4e5e6fe1b6c",
-        "alias": "Övning del 2",
+        "alias": "Exercise part 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "2d21dcbd-f5e9-4d5e-8567-863c22ee76d3"
+          }
+        ],
+        "content": "2. What would you do **differently** if you were more **present** in that moment? How do you **wish** to have **acted** **instead**?\n\n   *For example: I would think things through before saying something, not avoiding the situation just because it feels awkward, say no.*"
+      },
+      {
+        "type": "writing",
+        "id": "2d21dcbd-f5e9-4d5e-8567-863c22ee76d3",
+        "alias": "Exercise part 3",
+        "longDescription": "3. Look back at your answers. What can you do **differently** the **next** **time** when you feel stressed? \n\n*For example: take five breaths to have time to think before I act, say yes to the invitation, talk to a friend, ask for advice.*",
         "buttons": [
           {
             "component": "Button",
             "content": "Done",
             "sectionId": "ee211fa6-6382-46cd-8a31-8a1c47698fdb"
           }
-        ],
-        "content": "2.  Vad skulle du ha gjort annorlunda om du hade varit mer närvarande i det ögonblicket? Hur hade du önskat att du hade bettet dig? \n\n*Exempelvis: tänkt efter innan jag sa någonting, inte undvikit situationen bara för att det kändes jobbigt i stunden, sagt nej.* \n\n3. Titta igenom dina svar. Vad kan du försöka göra annorlunda nästa gång du är stressad?\n\n*Exempelvis: ta fem andetag för att hinna få lite tid att tänka innan jag reagerar, tacka ja till festen, prata med en kompis, be om råd.*"
+        ]
       },
       {
         "type": "editorialWithImage",
         "id": "ee211fa6-6382-46cd-8a31-8a1c47698fdb",
-        "title": "Bra gjort!",
-        "content": "Du är nu klar med **Att vara här och nu.**\n\nDu har lärt dig att vår hjärna är byggd för att hela tiden komma med nya (oftast negativa) tankar. Och att det går att träna sin hjärna att se tankar som tankar. Det är normalt att tankar vandrar, och med övning kan vi bli bättre på att vara här och nu.\n\nAtt lära sig att vara mer i nuet är en väldigt användbar förmåga som hjälper oss att kunna välja hur vi vill bete oss.",
+        "title": "Well done!",
+        "content": "You’ve now completed **Being here and now**.\n\nYou’ve learned more about how our brain is **designed** to constantly come up with new, often negative, thoughts. And that it’s possible to train your brain to see thoughts for what they are — **just thoughts.**\n\nIt’s **normal** for **minds** to **wander** off. With practice, we can become better at being **here and now**. It helps us choose how we want to behave instead of reacting automatically and impulsively.",
         "buttons": [
           {
             "component": "LessonCompleteButton",
-            "content": "Finished"
+            "content": "I'm done"
           }
         ],
-        "alias": "Bra gjort!"
+        "alias": "Good job!"
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
-    "alias": "YA att vara här och nu 3",
-    "root": "f6a9e7fd-d658-4900-a26d-3efd7b6210b5",
+    "alias": "Stress YA: Being here and now 3",
+    "root": "a3b3df4f-a764-455b-9e8c-ff5ac883637a",
     "sections": [
       {
-        "type": "writing",
-        "id": "f6a9e7fd-d658-4900-a26d-3efd7b6210b5",
-        "alias": "Koppla ur autopiloten",
-        "title": "",
-        "longDescription": "Vi ska nu fortsätta med nästa övning som handlar om en situation där du var stressad och inte var närvarande i stunden.",
-        "buttons": [
+        "type": "defaultSection",
+        "id": "a3b3df4f-a764-455b-9e8c-ff5ac883637a",
+        "alias": "Intro",
+        "content": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "84467b41-b0b8-40d3-aad2-3cd9429a1f0e"
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vi ska nu fortsätta med nästa övning som handlar om en situation där du var stressad och inte närvarande i stunden."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "d746bf59-428f-4b9c-87c8-7e2004ea4b9c",
+                "content": "Fortsätt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "d746bf59-428f-4b9c-87c8-7e2004ea4b9c",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Ilaria",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064556/Hantera%20Stress%20YA/Lesson%202/ilaria_zzdrik.mp4",
+                "duration": 37,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064556/Hantera%20Stress%20YA/Lesson%202/ilaria_zzdrik.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621603057/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_2-ilaria_ewd8tb.vtt"
+              },
+              {
+                "title": "Max",
+                "duration": 46,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064569/Hantera%20Stress%20YA/Lesson%202/max_aujza7.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064569/Hantera%20Stress%20YA/Lesson%202/max_aujza7.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621603057/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_2-max_olqidh.vtt"
+              },
+              {
+                "title": "Saga",
+                "duration": 57,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064579/Hantera%20Stress%20YA/Lesson%202/saga_h1mqux.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616064579/Hantera%20Stress%20YA/Lesson%202/saga_h1mqux.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621602909/Hantera%20Stress%20YA/subtitles/Fr%C3%A5ga_1-Saga_nbw2bq.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "84467b41-b0b8-40d3-aad2-3cd9429a1f0e"
+              }
+            ]
           }
         ]
       },
@@ -102,7 +211,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Övning:\n\nSkriv ner alla dina svar någonstans där bara du kan se dem.\n\n1. Beskriv en situation då du var stressad, där du gjorde något impulsivt eller automatiskt och där resultat inte blev så bra.\n\n*Exempelvis: sa någonting jag sedan ångrade, undvek att göra någonting som kändes obehagligt i stunden, sa ja fast jag egentligen inte ville.*"
+                "content": "## Övning\n\nSkriv ner alla dina svar.\n\n1. Beskriv en situation då du var **stressad**, där du gjorde något **impulsivt** eller **automatiskt** och där resultat inte blev så bra.\n\n*Exempelvis: sa någonting jag sedan ångrade, undvek att göra någonting som kändes obehagligt i stunden, sa ja fast jag egentligen ville säga nej.*"
               }
             ]
           },
@@ -126,24 +235,178 @@
         "buttons": [
           {
             "component": "Button",
+            "content": "Nästa",
+            "sectionId": "81531dd1-9924-42da-8bed-70b55aecfa19"
+          }
+        ],
+        "content": "2. Vad skulle du ha gjort **annorlunda** om du varit mer **närvarande** i det ögonblicket? Hur hade du **önskat** att du **betett** dig istället? \n\n*Exempelvis: tänkt efter innan jag sa någonting, inte undvikit situationen bara för att det kändes jobbigt i stunden, sagt nej.*"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "81531dd1-9924-42da-8bed-70b55aecfa19",
+        "content": "3. Titta igenom dina svar. Vad kan du försöka göra **annorlunda** **nästa** **gång** du är stressad?\n\n*Exempelvis: ta fem andetag för att hinna få lite tid att tänka innan jag reagerar, tacka ja till inbjudan, prata med en kompis, be om råd.*",
+        "alias": "Övning del 3",
+        "buttons": [
+          {
+            "component": "Button",
             "content": "Färdig",
             "sectionId": "5b8a6438-db15-43e4-8169-7b8f1fe741fe"
           }
-        ],
-        "content": "2. Vad skulle du ha gjort annorlunda om du varit mer närvarande i det ögonblicket? Hur hade du önskat att du bettet dig? \n\n*Exempelvis: tänkt efter innan jag sa någonting, inte undvikit situationen bara för att det kändes jobbigt i stunden, sagt nej.* \n\n3. Titta igenom dina svar. Vad kan du försöka göra annorlunda nästa gång du är stressad?\n\n*Exempelvis: ta fem andetag för att hinna få lite tid att tänka innan jag reagerar, tacka ja till festen, prata med en kompis, be om råd.*"
+        ]
       },
       {
         "type": "editorialWithImage",
         "id": "5b8a6438-db15-43e4-8169-7b8f1fe741fe",
         "alias": "Bra gjort!",
         "title": "Bra gjort!",
-        "content": "Du är nu klar med **Att vara här och nu.**\n\nDu har lärt dig att vår hjärna är byggd för att hela tiden komma med nya — oftast negativa — tankar. Och att det går att träna sin hjärna att se tankar som tankar. Det är normalt att tankar vandrar. Med övning kan vi bli bättre på att vara här och nu.\n\nAtt vara i nuet är väldigt användbart. Det hjälper oss välja våra beteenden istället för att reagera automatiskt och impulsivt.",
+        "content": "Du är nu klar med **Att vara här och nu.**\n\nDu har fått lära dig mer om att vår hjärna är **byggd** för att hela tiden komma med nya — oftast negativa — tankar. Och att det går att träna sin hjärna att se **tankar som tankar.**\n\nDet är normalt att **tankar** **vandrar** **iväg**. Med övning kan vi bli bättre på att vara **här och nu**. Det hjälper oss välja våra beteenden istället för att reagera automatiskt och impulsivt.",
         "buttons": [
           {
             "component": "LessonCompleteButton",
             "content": "Slut"
           }
         ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+    "alias": "Stress YA: Being here and now 3",
+    "root": "c7525006-f0ae-42f1-b372-381dcdef21c7",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "c7525006-f0ae-42f1-b372-381dcdef21c7",
+        "content": "A seguir, vais ter um exercício em que poderás analisar melhor uma situação em que estavas stressada/o e não estavas presente no momento.",
+        "alias": "Intro",
+        "topImageUri": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar ",
+            "sectionId": "41523d97-b005-48e1-891a-0cd1a8ad7fd6"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "41523d97-b005-48e1-891a-0cd1a8ad7fd6",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Rita Rocha",
+                "duration": 138,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360862/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Videos/Rita_Rocha_-_Lidar_com_o_Stress_L2V1_tbedea.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366774/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Photos/Rita_Rocha_-_Estar_aqui_e_agora_-_video_1_mqqbz4.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Zicky Té",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361373/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Videos/Zicky_T%C3%A9_-_Lidar_Com_o_Stress_-_L2V1_o1mpgj.mp4",
+                "duration": 114,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366643/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Photos/Li%C3%A7%C3%A3o_2_-_Estar_aqui_e_agora_-_video_1_rzhm9a.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rita",
+                "duration": 116,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360618/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Videos/Rita_-_Lidar_com_o_Stress_L2V1_i8dx7l.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366948/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Photos/Estar_aqui_e_agora_-_video_1_yjhjzu.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rodrigo",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361069/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Videos/L2V1_-_Rodrigo_Ara%C3%BAjo-_Lidar_com_o_Stress_qxlyjp.mp4",
+                "duration": 78,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366867/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Photos/Estar_aqui_e_agora_-_video_1_b5ai1z.jpg"
+              },
+              {
+                "title": "Francisca",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360476/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Videos/L2V1_-_Francisca_Costa_-_Lidar_com_o_stress_vjcjgq.mp4",
+                "duration": 152,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650367026/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Photos/Estar_aqui_e_agora-video_1_i8h4ja.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "69a58efa-d7a6-4b33-96c6-9e91747a51ff"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "69a58efa-d7a6-4b33-96c6-9e91747a51ff",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Exercício**\n\nAnota todas as tuas respostas.\n\n1. Descreve uma situação em que estavas **stressada/o**, fizeste algo **impulsivo** ou **automático** e os resultados não foram bons.\n\n*Por exemplo: eu disse uma coisa de que me arrependi depois, não evitei fazer algo que me fez sentir desconfortável, disse sim mesmo querendo dizer não.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Feito",
+                "sectionId": "9aac9201-3959-4aab-a263-c4e5e6fe1b6c"
+              }
+            ]
+          }
+        ],
+        "alias": "Exercício"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9aac9201-3959-4aab-a263-c4e5e6fe1b6c",
+        "alias": "Exercise part 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte ",
+            "sectionId": "2d21dcbd-f5e9-4d5e-8567-863c22ee76d3"
+          }
+        ],
+        "content": "2. O que farias de forma **diferente** se estivesses mais **presente** naquele momento? Como **gostarias** de ter **agido** **em vez de como agiste**?\n\n   *Por exemplo: teria pensado antes de dizer algo, não evitando a situação apenas porque parece estranho, dizer não.*"
+      },
+      {
+        "type": "writing",
+        "id": "2d21dcbd-f5e9-4d5e-8567-863c22ee76d3",
+        "alias": "Exercise part 3",
+        "longDescription": "3. Revê as tuas respostas. O que podes fazer de **forma** **diferente** na **próxima** **vez** em que te sentires stressada/o?\n\n*Por exemplo: respira cinco vezes para ter tempo de pensar antes de agir, diz sim ao convite, conversa com um amigo, pede conselhos.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Feito ",
+            "sectionId": "ee211fa6-6382-46cd-8a31-8a1c47698fdb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ee211fa6-6382-46cd-8a31-8a1c47698fdb",
+        "title": "Muito bem! ",
+        "content": "Concluiste **Estar aqui e agora**.\n\nAprendeste mais sobre como o nosso cérebro é **programado** para ter constantemente pensamentos novos, muitas vezes negativos. E que é possível treinares o teu cérebro para veres os pensamentos pelo que eles são – **apenas pensamentos.**\n\nÉ **normal** que a **mente** **vagueie**. Com a prática, podemos tornar-nos mais eficazes em estar **aqui e agora**. Isso ajuda-nos a escolher como nos queremos comportar, em vez de reagirmos automática e impulsivamente.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Acabei"
+          }
+        ],
+        "alias": "Bom trabalho! "
       }
     ]
   }

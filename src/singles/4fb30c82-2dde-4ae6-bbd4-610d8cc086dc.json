@@ -1,0 +1,275 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Your inner compass",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781631/New_images/exercises%20png/1024x1024/your_inner_compass_blezjj.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "version": 1,
+    "tags": ["9f02a381-9950-4f53-9a10-5f8365c456a1"],
+    "type": "exercise",
+    "id": "4fb30c82-2dde-4ae6-bbd4-610d8cc086dc",
+    "difficulty": "Intermediate",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-4fb30c82-2dde-4ae6-bbd4-610d8cc086dc",
+        "name": "Your inner compass",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "10f0da79-f20d-4619-b50a-bc70bd41c777",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781631/New_images/exercises%20png/1024x1024/your_inner_compass_blezjj.png",
+            "title": "Values are our heart’s deepest desires",
+            "content": "They give us a sense of direction and guide our actions. This is why some people talk about their values as their compass.\n\nJust like following the compass means moving towards our desired destination, **living in line with our values means pursuing a meaningful life.**\n\nIn this exercise, we will explore what this means to you.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cbbdbf78-4f24-4380-9422-0508199b11f4",
+            "content": "**You’ll learn more about:**\n\n* Your values\n\n**You'll need:**\n\n* 15 minutes\n* Pen & paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a750e8fb-a665-495c-a311-92b2b607a1d2",
+            "title": "What are values?",
+            "content": "Unlike goals, our values are something we work continuously towards.\n\nLike a compass needle, they point us to where we want to go and guide how we act.",
+            "infoItems": [
+              {
+                "title": "What happens when we don’t know our values?",
+                "description": "The opposite of following our values is being on autopilot. When we're on autopilot, we're unaware of what's going on and feel disconnected from ourselves and our values. \n\nThis means that the goals we accomplish, while they may be ambitious, are driven by our environment or other people's expectations of us, instead of from a place of our values."
+              }
+            ],
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2e9c204a-4dfb-4447-b34b-4bda021f4c1d",
+            "title": "What do you value?",
+            "content": "It’s time to find out!\n\nTake a moment to explore these questions using pen & paper:\n\n> * What do I stand for?\n> * What role do I want to take?\n> * What competencies, knowledge and personal qualities do I want to develop and contribute with?\n> * How do I want to relate to others and the world around me?",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ae03e00d-a622-4a41-93a3-c6ad69a150a7",
+            "title": "What patterns do you see?",
+            "content": "1. Look at your notes. Identify 4 areas that resonate with you the most\n2. Assign a value to each area",
+            "buttonText": "I'm done",
+            "infoItems": [
+              {
+                "title": "Examples",
+                "description": "**Joy**\\\nMaking people smile. Having fun at work. Doing what brings me joy.\n\n**Honesty** \\\nStanding up for myself. Speaking my truth. Appreciating others for who they are."
+              }
+            ],
+            "topImageUri": ""
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3ad4172b-0014-4308-acb2-f70cca070e17",
+            "title": "Draw your compass",
+            "content": "* Using pen & paper, draw a picture of a compass\n* Place your values where they seem most fitting",
+            "infoItems": [],
+            "buttonText": "I'm done",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646661922/Illustrations_Exercises/Compass_Eng_wirmjb.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f75209dc-e444-4f86-8d51-b66b1307368f",
+            "title": "",
+            "content": "On a scale of 1-5, how much do you feel that you live in line with your values?\n\n* 1 - not at all in line\n* 5 - totally in line \n\nWrite down a score next to each value.",
+            "buttonText": "I'm done",
+            "infoItems": [],
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646661922/Illustrations_Exercises/Compass_Eng_numbers_jhthlb.png"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "d267de96-066a-4395-8119-9815e0a751fa",
+            "question": "How do you feel now looking at your compass?",
+            "buttonText": "I'm done",
+            "exampleText": "I feel motivated to show up more for my most important values."
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "24ffdda1-47a7-412e-b601-9f95764329dc",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Well done for calibrating your inner compass today!",
+            "content": "Just like a needle in a compass, your values point you toward a meaningful life and motivate your actions and choices.\n\nAnd since we’re always growing, your values will too evolve over time. Keep your compass somewhere you can easily access and adjust when necessary.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Din inre kompass",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781631/New_images/exercises%20png/1024x1024/your_inner_compass_blezjj.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": ["9f02a381-9950-4f53-9a10-5f8365c456a1"],
+    "type": "exercise",
+    "id": "4fb30c82-2dde-4ae6-bbd4-610d8cc086dc",
+    "difficulty": "Intermediate",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-4fb30c82-2dde-4ae6-bbd4-610d8cc086dc",
+        "name": "Din inre kompass",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "10f0da79-f20d-4619-b50a-bc70bd41c777",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781631/New_images/exercises%20png/1024x1024/your_inner_compass_blezjj.png",
+            "title": "Värderingar är våra hjärtans djupaste önskningar",
+            "content": "De guidar oss i rätt riktning och hjälper oss välja våra handlingar. Det är just därför många tänker på sina värderingar som en kompass.\n\nPå samma vis som en kompass guidar dig mot en plats du vill nå, kan **dina värderingar guida dig mot det liv du vill leva.**\n\nI den här övningen kommer du få utforska vad det innebär för dig.",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cbbdbf78-4f24-4380-9422-0508199b11f4",
+            "content": "**Du lär dig:**\n\n* Hitta dina egna värderingar\n\n**Du behöver:**\n\n* 15 minuter\n* Penna & papper",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a750e8fb-a665-495c-a311-92b2b607a1d2",
+            "title": "Vad är värderingar?",
+            "content": "Till skillnad från mål är värderingar något vi jobbar mot konstant. Precis som en kompassnål pekar de ut vår väg och guidar våra handlingar.",
+            "infoItems": [
+              {
+                "title": "Vad händer när vi inte är medvetna om våra värderingar? ",
+                "description": "Motsatsen till att följa våra värderingar är att gå på autopilot. När vi har autopiloten påslagen är vi omedvetna om vad som pågår runtomkring oss och känner oss bortkopplade från oss själva och våra värderingar.\n\nDet innebär att de mål vi då uppnår är styrda av vår omgivning och andras förväntningar snarare än grundade i våra egna värderingar."
+              }
+            ],
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2e9c204a-4dfb-4447-b34b-4bda021f4c1d",
+            "title": "Vad värderar du?",
+            "content": "Det är precis det vi ska ta reda på.\n\nTa fram penna och papper och skriv ner dina svar på följande frågor:\n\n> * Vad står jag för?\n> * Vad vill jag bidra med till andra?\n> * Vilka kompetenser och kvaliteter i mig själv vill jag utveckla ännu mer?\n> * Hur vill jag förhålla mig till andra och världen vi lever i?",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ae03e00d-a622-4a41-93a3-c6ad69a150a7",
+            "title": "Vilka mönster kan du se?",
+            "content": "1. Titta på dina anteckningar. Hitta fyra områden som känns tydliga för dig. \n2. Beskriv varje område med en värdering.",
+            "buttonText": "Jag är klar",
+            "infoItems": [
+              {
+                "title": "Exempel",
+                "description": "**Glädje** \\\nFå andra att skratta. Ha kul på jobbet. Göra roliga aktiviteter.\n\n**Ärlighet** \\\nStå upp för mig själv. Tala sanning. Uppskatta andra för vilka de är."
+              }
+            ],
+            "topImageUri": ""
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3ad4172b-0014-4308-acb2-f70cca070e17",
+            "title": "Skapa din kompass",
+            "content": "* Ta fram papper och penna och rita upp en kompass\n* Skriv in dina värderingar",
+            "infoItems": [],
+            "buttonText": "Jag är klar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646832210/Illustrations_Exercises/Compass_Swe_hgufil.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f75209dc-e444-4f86-8d51-b66b1307368f",
+            "title": "",
+            "content": "På en skala från 1-5, hur mycket lever du enligt var och en av dina värderingar? \n\n* 1 - stämmer inte alls\n* 5 - stämmer helt\n\nSkriv ner en siffra intill varje värdering.",
+            "buttonText": "Jag är klar",
+            "infoItems": [],
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646832210/Illustrations_Exercises/Compass_Swe_numbers_yjzo1f.png"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "a2501f09-252d-4ad1-8de7-1df36e93609f",
+            "question": "Vad känner du nu när du tittar på din kompass?",
+            "exampleText": "Jag känner mig motiverad att agera mer utifrån mina värderingar.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "24ffdda1-47a7-412e-b601-9f95764329dc",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Snyggt, nu har du kalibrerat din egen inre kompass!",
+            "content": "Precis som en kompassnål kan dina värderingar guida dig mot ett mer meningsfullt liv och motivera de val du gör längs vägen.\n\nOch eftersom vi ständigt utvecklas, så kan även dina värderingar förändras över tid. Därför är det bra att ha din kompass nära till hands så du kan justera och kalibrera den så snart du känner att det behövs.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781631/New_images/exercises%20png/1024x1024/your_inner_compass_blezjj.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "type": "exercise",
+    "id": "4fb30c82-2dde-4ae6-bbd4-610d8cc086dc",
+    "difficulty": "Intermediate",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-4fb30c82-2dde-4ae6-bbd4-610d8cc086dc",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "662c4707-1ee5-4f59-9219-018095e080b9",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "10f0da79-f20d-4619-b50a-bc70bd41c777",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "24ffdda1-47a7-412e-b601-9f95764329dc",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

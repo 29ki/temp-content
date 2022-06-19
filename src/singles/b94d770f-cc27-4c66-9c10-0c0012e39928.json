@@ -1,0 +1,196 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Melt the stress",
+    "featured": false,
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620635336/Illustrations_Meditations/Thumbnail_Breathing_anchor_1_j1kyar.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 6
+    },
+    "version": 1,
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "b94d770f-cc27-4c66-9c10-0c0012e39928",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": ""
+    },
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-b94d770f-cc27-4c66-9c10-0c0012e39928",
+        "name": "Melt the stress",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "lottie": {
+              "loop": true
+            },
+            "id": "c8f6e341-59c7-4e37-aba9-e51c9d9d398b",
+            "content": "In this meditation, you'll practice how to grow an accepting relationship with yourself and open up to life as it comes to you.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "type": "audio",
+            "id": "1277fba1-07a1-4dc6-be35-3974284f4f1d",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1625133828/Illustrations_Meditations/Group_718_jir7fz.png",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1655370326/Melt_the_stress_MEDITATION_fzdcun.m4a",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "88f63976-0700-4e20-a2d3-fb81db21b7f8",
+            "question": "What changes did you feel in your relationship to yourself by the end of the meditation?",
+            "exampleText": "I feel more at peace with the issue I've been having anxiety about. ",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "lottie": {
+              "loop": true
+            },
+            "id": "2cb15ec8-f834-4b25-a0f9-c3ec7b02bffc",
+            "content": "In this meditation you experienced how being kind to yourself can help you grow a more accepting relationship with your ‘self’. \n\nAnd having a better relationship with ourselves can help us to reduce feelings of stress by being open to life as it comes.",
+            "title": "Well done!",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "featured": false,
+    "duration": {
+      "type": "minute",
+      "count": 6
+    },
+    "type": "meditation",
+    "id": "b94d770f-cc27-4c66-9c10-0c0012e39928",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": ""
+    },
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-b94d770f-cc27-4c66-9c10-0c0012e39928",
+        "name": "",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "08de9ec3-e24e-4920-ad39-2422087006b0",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1199d871-ffd0-4d76-81a5-df441e6c3279",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b67ea417-b193-464c-bdbd-5ea8b33d555b",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "featured": false,
+    "duration": {
+      "type": "minute",
+      "count": 6
+    },
+    "type": "meditation",
+    "id": "b94d770f-cc27-4c66-9c10-0c0012e39928",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": ""
+    },
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-b94d770f-cc27-4c66-9c10-0c0012e39928",
+        "name": "",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "08de9ec3-e24e-4920-ad39-2422087006b0",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1199d871-ffd0-4d76-81a5-df441e6c3279",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b67ea417-b193-464c-bdbd-5ea8b33d555b",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

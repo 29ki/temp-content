@@ -1,0 +1,164 @@
+{
+  "en": {
+    "id": "54202cad-449f-4cb9-bc73-733d111a37ea",
+    "alias": "Pt special Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Depois de implementares a tua solução, **avalia**:\n\n1. Estás **satisfeito** com a solução? Se sim, qual a área da tua vida que **melhorou**?\n2. Se não, podes tentar outra vez ou experimentar uma **outra solução**?\n3. Qual foi a tua **experiência** ao utilizar uma resolução estruturada de problemas em vez de te preocupares apenas com o problema?\n\n*Está à vontade para voltares a esta lição ou guarda estas questões da forma que achares mais adequada.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f012616b-2ce7-46e6-8007-0320de12962b"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "Agora é preciso avaliar como correram as coisas. Estás satisfeita/o com a solução? Em caso afirmativo, o que melhorou na tua vida? Em caso negativo, podes tentar novamente ou então experimentar outra solução?",
+        "time": "",
+        "alias": "Avaliação",
+        "title": "",
+        "type": "writing",
+        "id": "d14f5426-cdbd-4c75-9518-55cfe19c5bff"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f012616b-2ce7-46e6-8007-0320de12962b",
+        "content": "Parabéns por completares **Agir para mudar**.\n\nQuando estamos numa crise, é importante gastar a nossa **energia** naquilo que **podemos controlar**.\n\nInteriorizarmos e preocuparmo-nos pode parecer uma solução para os problemas, mas na realidade não evoluímos na sua resolução enquanto **permanecermos presos** no ciclo da **ansiedade.**\n\nHoje aprendeste uma estratégia de resolução de problemas estruturada que podes usar para  **quebrar** o ciclo e agires de uma forma que tenha mais significado para ti.",
+        "alias": "Conclusão",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "77d862a4-3240-4748-b53b-97484bd03031"
+          }
+        ],
+        "title": "Sumário"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77d862a4-3240-4748-b53b-97484bd03031",
+        "alias": "Partilha",
+        "title": "Partilha",
+        "content": "Estás pronto para o próximo passo importante - partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Estás **satisfeito** com a solução? Se sim, qual a área da tua vida que **melhorou**?\n2. Se não, podes tentar outra vez ou experimentar uma **outra solução**?\n3. Qual foi a tua **experiência** ao utilizar uma resolução estruturada de problemas em vez de interiorizares e de te preocupares com o problema?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ],
+    "root": "d14f5426-cdbd-4c75-9518-55cfe19c5bff"
+  },
+  "sv": {
+    "id": "54202cad-449f-4cb9-bc73-733d111a37ea",
+    "alias": "Pt special Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Depois de implementares a tua solução, **avalia**:\n\n1. Estás **satisfeito** com a solução? Se sim, qual a área da tua vida que **melhorou**?\n2. Se não, podes tentar outra vez ou experimentar uma **outra solução**?\n3. Qual foi a tua **experiência** ao utilizar uma resolução estruturada de problemas em vez de te preocupares apenas com o problema?\n\n*Está à vontade para voltares a esta lição ou guarda estas questões da forma que achares mais adequada.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f012616b-2ce7-46e6-8007-0320de12962b"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "Agora é preciso avaliar como correram as coisas. Estás satisfeita/o com a solução? Em caso afirmativo, o que melhorou na tua vida? Em caso negativo, podes tentar novamente ou então experimentar outra solução?",
+        "time": "",
+        "alias": "Avaliação",
+        "title": "",
+        "type": "writing",
+        "id": "d14f5426-cdbd-4c75-9518-55cfe19c5bff"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f012616b-2ce7-46e6-8007-0320de12962b",
+        "content": "Parabéns por completares **Agir para mudar**.\n\nQuando estamos numa crise, é importante gastar a nossa **energia** naquilo que **podemos controlar**.\n\nInteriorizarmos e preocuparmo-nos pode parecer uma solução para os problemas, mas na realidade não evoluímos na sua resolução enquanto **permanecermos presos** no ciclo da **ansiedade.**\n\nHoje aprendeste uma estratégia de resolução de problemas estruturada que podes usar para  **quebrar** o ciclo e agires de uma forma que tenha mais significado para ti.",
+        "alias": "Conclusão",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "77d862a4-3240-4748-b53b-97484bd03031"
+          }
+        ],
+        "title": "Sumário"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77d862a4-3240-4748-b53b-97484bd03031",
+        "alias": "Partilha",
+        "title": "Partilha",
+        "content": "Estás pronto para o próximo passo importante - partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Estás **satisfeito** com a solução? Se sim, qual a área da tua vida que **melhorou**?\n2. Se não, podes tentar outra vez ou experimentar uma **outra solução**?\n3. Qual foi a tua **experiência** ao utilizar uma resolução estruturada de problemas em vez de interiorizares e de te preocupares com o problema?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ],
+    "root": "d14f5426-cdbd-4c75-9518-55cfe19c5bff"
+  },
+  "pt": {
+    "id": "54202cad-449f-4cb9-bc73-733d111a37ea",
+    "alias": "Pt special Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Depois de implementares a tua solução, **avalia**:\n\n1. Estás **satisfeito** com a solução? Se sim, qual a área da tua vida que **melhorou**?\n2. Se não, podes tentar outra vez ou experimentar uma **outra solução**?\n3. Qual foi a tua **experiência** ao utilizar uma resolução estruturada de problemas em vez de te preocupares apenas com o problema?\n\n*Está à vontade para voltares a esta lição ou guarda estas questões da forma que achares mais adequada.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f012616b-2ce7-46e6-8007-0320de12962b"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "Agora é preciso avaliar como correram as coisas. Estás satisfeita/o com a solução? Em caso afirmativo, o que melhorou na tua vida? Em caso negativo, podes tentar novamente ou então experimentar outra solução?",
+        "time": "",
+        "alias": "Avaliação",
+        "title": "",
+        "type": "writing",
+        "id": "d14f5426-cdbd-4c75-9518-55cfe19c5bff"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f012616b-2ce7-46e6-8007-0320de12962b",
+        "content": "Parabéns por completares **Agir para mudar**.\n\nQuando estamos numa crise, é importante gastar a nossa **energia** naquilo que **podemos controlar**.\n\nInteriorizarmos e preocuparmo-nos pode parecer uma solução para os problemas, mas na realidade não evoluímos na sua resolução enquanto **permanecermos presos** no ciclo da **ansiedade.**\n\nHoje aprendeste uma estratégia de resolução de problemas estruturada que podes usar para  **quebrar** o ciclo e agires de uma forma que tenha mais significado para ti.",
+        "alias": "Conclusão",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "77d862a4-3240-4748-b53b-97484bd03031"
+          }
+        ],
+        "title": "Sumário"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77d862a4-3240-4748-b53b-97484bd03031",
+        "alias": "Partilha",
+        "title": "Partilha",
+        "content": "Estás pronto para o próximo passo importante - partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Estás **satisfeito** com a solução? Se sim, qual a área da tua vida que **melhorou**?\n2. Se não, podes tentar outra vez ou experimentar uma **outra solução**?\n3. Qual foi a tua **experiência** ao utilizar uma resolução estruturada de problemas em vez de interiorizares e de te preocupares com o problema?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ],
+    "root": "d14f5426-cdbd-4c75-9518-55cfe19c5bff"
+  }
+}

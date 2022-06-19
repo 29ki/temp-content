@@ -2,62 +2,109 @@
   "en": {
     "id": "alive-day-7",
     "alias": "alive-day-7",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-7",
-        "alias": "alive-day-7",
-        "nextConversationId": "alive-day-8",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 7",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay7rev1",
           "days": 1,
           "hours": 8,
           "minutes": 3,
-          "title": "Alive Day 7 Mission",
+          "title": "Alive Day 7 Quest",
           "body": "Over the next few hours, intentionally interact with someone in a way that shows that you respect or care for them. Did you learn anything?"
         },
+        "sharingWall": {
+          "question": "How do you feel about yourself after completing today’s quest?",
+          "exampleText": "It made the interaction more joyous."
+        },
         "followUp": {
+          "id": "followUpDay7",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 7 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-7",
+        "nextConversationId": "alive-day-8",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "alive-day-7"
       }
     ]
   },
   "sv": {
     "id": "alive-day-7",
     "alias": "alive-day-7",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-7",
-        "alias": "alive-day-7",
-        "nextConversationId": "alive-day-8",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 7",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 7",
-        "lessonlastDay": false,
         "task": {
           "days": 1,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 7",
-          "body": "Over the next few hours, intentionally interact with someone in a way that shows that you respect or care for them. Did you learn anything?"
+          "title": "Uppdrag dag 7",
+          "body": "Under de närmaste timmarna, interagera med en annan person på ett sätt som tydligt visar att du respekterar eller bryr dig om dem. Lärde du dig något?",
+          "id": "aliveDay7rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur känner du dig efter dagens uppdrag?",
+          "exampleText": "Det gjorde interaktionen roligare."
         },
         "followUp": {
+          "id": "followUpDay7",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 7 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 7 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-7",
+        "nextConversationId": "alive-day-8",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "alive-day-7"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-7",
+    "alias": "alive-day-7",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 7",
+        "task": {
+          "id": "aliveDay7rev1",
+          "days": 1,
+          "hours": 8,
+          "minutes": 3,
+          "title": "Desafio ALIVE dia 7",
+          "body": "Durante as próximas horas, interage intencionalmente com uma pessoa de uma forma que mostres que a respeitas ou te preocupas com ela. Aprendeste alguma coisa?"
+        },
+        "sharingWall": {
+          "question": "Como te sentiste contigo própria/o depois do desafio de hoje?",
+          "exampleText": "Tornou a minha interação mais próxima e agradável."
+        },
+        "followUp": {
+          "id": "followUpDay7",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 7 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-7",
+        "nextConversationId": "alive-day-8",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "alive-day-7"
       }
     ]
   }

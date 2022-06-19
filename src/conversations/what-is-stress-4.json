@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "what-is-stress-4",
-    "alias": "What is stress - 4",
+    "alias": "Stress YA: What is stress - 4",
     "root": "1",
     "sections": [
       {
@@ -11,11 +10,17 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616137767/Stress/What-is-stress-4a_g1lmsc.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "I stressiga perioder kan vi behöva hjälpa oss själva göra plats för återhämtning. Stress i sig självt är som sagt inte farligt — men brist på återhämtning kan vara det. \n\nForskning visar att fysisk aktivitet både förebygger och minskar stress. Men det finns många andra saker vi också kan göra för att må bättre. Du ska nu få fundera på vilka aktiviteter som får dig att må bra."
+                "content": "# Recovery\n\n**Stress** in itself **isn’t** **dangerous**, but a **lack of recovery** can be.\n\nIn stressful times we need to help ourselves by making room for rest and recovery. Research shows that **physical** **activity** both prevents and reduces stress. But there are many other things we can do to feel better too."
               }
             ]
           },
@@ -41,13 +46,31 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Hur återhämtar jag mig?**\\\nÅterhämtning handlar om mer än att vila eller sova. Det handlar om vad som ger dig energi. Allt som får dig att må bra, helt enkelt. \n\n1. Skriv ner mellan tre och fem aktiviteter som ger just dig återhämtning. \\\n   \\\n   *Exempelvis: måla, ta en promenad, kolla på en bra serie, träna, hänga med kompisar, fika med familjen, läsa.*\n2. Planera in en av aktiviteterna i din kalender för den kommande veckan."
+                "content": "## How do I recover?\n\nTo recover means to take **a** **break** from the activities that require our energy. Recovery can be **resting** or **sleeping**, but it can also be any other activity that gives us energy.\n\n**Anything** that makes us **feel good**, really."
               }
             ]
           },
           {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "d91c9524-cf05-4b56-986d-ff8d02dff786"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "d91c9524-cf05-4b56-986d-ff8d02dff786",
+        "alias": "Exercise",
+        "longDescription": "# Exercise\n\n1. Write down 3-5 activities that **helps** you **recover** and gives you **energy**.\n\n*For example: painting, taking a walk, watching a good series, exercising, hanging out with friends, meeting my family, reading.*\n\n2. **Schedule** one of these activities in your calendar for the coming week.",
+        "buttons": [
+          {
             "component": "Button",
-            "content": "Done",
+            "content": "I'm done",
             "sectionId": "7cb4e5f2-dda5-4904-aca9-3a3b3a0c16ee"
           }
         ]
@@ -56,8 +79,8 @@
         "type": "sharingExercise",
         "id": "7cb4e5f2-dda5-4904-aca9-3a3b3a0c16ee",
         "alias": "Sharing question",
-        "question": "What was it like doing this lesson?",
-        "exampleText": "Good. Realized that I sometimes do things I later regret. And that I often believe in all my thoughts.",
+        "question": "How did you feel doing this lesson?",
+        "exampleText": "Good. Realized that I sometimes do things I then regret. And that I often forget to make room for recovery.",
         "nextSection": "3"
       },
       {
@@ -70,7 +93,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "### **Bra gjort!**\n\nDu är nu klar med **Stress — så funkar det**.\n\nDu har lärt dig om varför vi blir stressade, och hur du kan märka när det blir för mycket. Även om vi inte kan ta bort stress från våra liv så kan vi återhämta oss från stressiga händelser genom att plocka bort vissa aktiviteter, och istället göra saker som ger oss energin tillbaka."
+                "content": "## Well done on completing the lesson!\n\nYou’re now done with **What is stress.**\n\nYou've learned more about **why** we get stressed and how you can tell when the stress is becoming too much to handle.\n\nEven though we **can’t remove stress** completely from our lives, we can all learn how to better **handle** stress in life. \n\nThe trick is to **recover** by replacing some of the demanding activities with the things that gives us our energy back."
               }
             ]
           },
@@ -88,9 +111,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "what-is-stress-4",
-    "alias": "What is stress - 4",
+    "alias": "Stress YA: What is stress - 4",
     "root": "1",
     "sections": [
       {
@@ -99,11 +121,17 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616137767/Stress/What-is-stress-4a_g1lmsc.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "I stressiga perioder kan vi behöva hjälpa oss själva göra plats för återhämtning. Stress i sig självt är som sagt inte farligt — men brist på återhämtning kan vara det. \n\nForskning visar att fysisk aktivitet både förebygger och minskar stress. Men det finns många andra saker vi också kan göra för att må bättre. Du ska nu få fundera på vilka aktiviteter som får dig att må bra."
+                "content": "# Återhämtning\n\n**Stress** i sig självt är som sagt **inte farligt** — men **brist** på **återhämtning** kan vara det. \n\nI stressiga perioder kan vi behöva hjälpa oss själva göra plats för vila och återhämtning. Forskning visar att **fysisk** **aktivitet** både förebygger och minskar stress. Men det finns många andra saker vi också kan göra för att må bättre."
               }
             ]
           },
@@ -129,7 +157,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Hur återhämtar jag mig?**\\\n\\\nÅterhämtning handlar om mer än att vila eller sova. Det handlar om vad som ger dig energi. Allt som får dig att må bra, helt enkelt. \n\n1. Skriv ner mellan tre och fem aktiviteter som ger just dig återhämtning. \\\n   \\\n   *Exempelvis: måla, ta en promenad, kolla på en bra serie, träna, hänga med kompisar, fika med familjen, läsa.*\n2. Planera in en av aktiviteterna i din kalender för den kommande veckan."
+                "content": "## Hur återhämtar jag mig?\n\nAtt återhämta sig innebär att **ta en paus** från det som tar vår energi. Det kan innebära att **vila** eller **sova**, men det kan också vara vilken annan aktivitet som helst som ger oss energi. \\\n\\\n**Allt** som får oss att **må bra**, helt enkelt."
               }
             ]
           },
@@ -139,9 +167,22 @@
               {
                 "component": "Button",
                 "content": "Färdig",
-                "sectionId": "1a40c442-90ce-4324-9489-fc208c6b822d"
+                "sectionId": "1288c3e1-2f50-4d70-9d25-d51209a940b1"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1288c3e1-2f50-4d70-9d25-d51209a940b1",
+        "alias": "Exercise",
+        "content": "# Övning\n\n1. Skriv ner mellan tre och fem aktiviteter som **ger** dig **energi** och som hjälper dig **återhämta** dig.\n\n*Exempelvis: måla, ta en promenad, kolla på en bra serie, träna, hänga med kompisar, fika med familjen, läsa.*\n\n2. **Planera** **in** en av aktiviteterna i din kalender för den kommande veckan.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "1a40c442-90ce-4324-9489-fc208c6b822d"
           }
         ]
       },
@@ -150,7 +191,7 @@
         "id": "1a40c442-90ce-4324-9489-fc208c6b822d",
         "alias": "Sharing question",
         "question": "Hur kändes det att göra den här lektionen?",
-        "exampleText": "Bra. Insåg att jag ibland gör saker jag sedan ångrar. Och att jag ofta tror på mina tankar.",
+        "exampleText": "Bra. Insåg att jag ibland gör saker jag sedan ångrar. Och att jag ofta glömmer bort att återhämta mig.",
         "nextSection": "3"
       },
       {
@@ -163,7 +204,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "### **Bra gjort!**\n\nDu är nu klar med **Stress — så funkar det**.\n\nDu har lärt dig om varför vi blir stressade, och hur du kan märka när det blir för mycket. Även om vi inte kan ta bort stress från våra liv så kan vi återhämta oss från stressiga händelser genom att plocka bort vissa aktiviteter, och istället göra saker som ger oss energin tillbaka."
+                "content": "### **Du har precis gjort färdigt lektionen, bra gjort!**\n\nDu är nu klar med **Stress — så funkar det**.\n\nDu har fått lära dig mer om **varför** vi blir stressade och hur du kan märka när det blir för mycket.\n\nÄven om vi **inte kan ta bort stress** från våra liv så kan vi **hantera** stressiga perioder i livet. \n\nTricket är att ge oss själva **återhämtning** genom att plocka bort vissa krävande aktiviteter och istället göra mer av det som ger oss energin tillbaka."
               }
             ]
           },
@@ -173,6 +214,117 @@
               {
                 "component": "LessonCompleteButton",
                 "content": "Klar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "what-is-stress-4",
+    "alias": "Stress YA: What is stress - 4",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616137767/Stress/What-is-stress-4a_g1lmsc.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Recuperação\n\n**O stress,** por si só, não é perigoso, mas a **falta de recuperação** pode ser. \n\nEm períodos stressantes, temos de nos ajudar a nós mesmas/os, criando espaço para o descanso e a recuperação. Pesquisas mostram que a **atividade física** previne e reduz o stress. Mas há muitas outras coisas que também podemos fazer para nos sentirmos melhor."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Como faço para recuperar?\n\nRecuperar significa fazer **uma** **pausa** das atividades que exigem a nossa energia. A recuperação pode ser **descansar** ou **dormir**, mas também pode ser qualquer outra atividade que nos dê energia.\n\n**Qualquer coisa** que nos faça **sentir bem**, na verdade."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "d91c9524-cf05-4b56-986d-ff8d02dff786"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "d91c9524-cf05-4b56-986d-ff8d02dff786",
+        "alias": "Exercício",
+        "longDescription": "# Exercício\n\n1. Escreve 3 a 5 atividades que te **ajudam** a **recuperar** e te dão **energia**.\n\n*Por exemplo: pintar, passear, assistir a uma boa série, fazer exercícios, sair com os amigos, estar com a minha família, ler.*\n\n2. **Agenda** uma dessas atividades no teu calendário para a próxima semana.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí",
+            "sectionId": "7cb4e5f2-dda5-4904-aca9-3a3b3a0c16ee"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "7cb4e5f2-dda5-4904-aca9-3a3b3a0c16ee",
+        "alias": "Questão partilhada",
+        "question": "Como te sentiste ao fazer esta lição?",
+        "exampleText": "Boa. Percebi que às vezes faço coisas das quais me arrependo. E que muitas vezes esqueço de criar espaço para recuperar.",
+        "nextSection": "3"
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Parabéns por teres concluído a lição!\n\nAgora terminaste **O que é o stress.**\n\nAprendeste mais sobre **por que razão** ficamos stressadas/os e como podes saber quando o stress está a tornar-se demasiado.\n\nEmbora **não possamos remover completamente o stress** das nossas vidas, todos podemos aprender a **lidar** melhor com ele.\n\nO truque é **ir recuperando,** substituindo algumas das atividades exigentes por coisas que nos devolvem a energia."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Acabei"
               }
             ]
           }

@@ -1,0 +1,397 @@
+{
+  "en": {
+    "id": "resilience-and-stress-act-for-change-3",
+    "alias": "resilience-and-stress-act-for-change-3",
+    "root": "section7",
+    "sections": [
+      {
+        "longDescription": "Write down all your answers.\n\n1. As precisely as possible, define a problem that’s **causing** you **stress** at the moment. Make sure you pick something you can realistically solve within a week from now.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section8"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "section7",
+        "title": "Exercise",
+        "type": "writing",
+        "id": "section7"
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "question": "",
+        "longDescription": "2. Take a moment to consider ALL possible **solutions** that come to mind. Yes — there’s even room for wild, crazy and funny solutions, so don’t hold back.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "question": "",
+        "longDescription": "3. Now **give** each solution a **score** from 0 to 10 depending on how helpful you think it would be for solving your problem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "question": "",
+        "longDescription": "4. Pick **a solution** and a **time** to **implement** it this week. Make sure your goal is achievable and measurable so that you know when you’ve reached it.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "More",
+            "sectionId": "d0f60b54-698d-43f5-8d36-ec7cc8c0749b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d0f60b54-698d-43f5-8d36-ec7cc8c0749b",
+        "content": "Set a reminder a week from now to revisit and evaluate how your solution worked by answering these three questions: \n\n1. Are you **satisfied** with your solution?\n2. If yes, which area of your life has **improved** as a result? \n3. If you're not satisfied, can you give it another go or try **another** **solution**?\n\n*Feel free to write down the questions to help yourself remember them.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Evaluation"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "video",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "3b1d883a-744d-4c8c-8bee-ec09265d1e6f"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/act-for-change_poster.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/stressandresilience_lesson04.mp4"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "3b1d883a-744d-4c8c-8bee-ec09265d1e6f",
+        "alias": "Sharing question",
+        "question": "Think back on a previous stressful situation. If you would've been able to approach that problem using the structure we practiced today, how would you have acted differently?",
+        "exampleText": "I would've spent less time dwelling on my problems and instead been able to take action that would move me forward.",
+        "nextSection": "section12"
+      },
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Well done for completing **Act For Change**.\n\nWe can’t live a life free from stress, but there is plenty we can do to reduce and eliminate unnecessary stress. \n\nIn this lesson you've identified a stressful situation in your life and explored practical ways in which you can act differently. Some stressors aren't easily changed within a week, but hopefully you're now on your way to make a change to a complex situation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next step",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "It's now time for the next important step — sharing with your group.\n\nRemember the questions:\n\n1. Describe a stressful or painful situation in your life where you **couldn’t** see the **problem** or possible **solutions** clearly.\n2. If you would've been able to approach that problem using the structure we practiced today, how would you have acted differently?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-act-for-change-3",
+    "alias": "resilience-and-stress-act-for-change-3",
+    "root": "section7",
+    "sections": [
+      {
+        "longDescription": "Skriv ner alla dina svar.\n\n1. **Definiera** ett problem som **stressar** dig just nu. Gärna ett problem som du kan lösa inom en vecka. Välj något som är lagom utmanande, och var så tydlig som möjligt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "section8"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "section7",
+        "title": "Övning",
+        "type": "writing",
+        "id": "section7"
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "question": "",
+        "longDescription": "2. Överväg nu ALLA möjliga **lösningar** du kan komma på. Ja — det finns också plats för vilda, galna och roliga lösningar, så kör på.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "question": "",
+        "longDescription": "3. **Ge** varje förslag mellan noll och tio **poäng**, beroende på hur bra du tror att respektive förslag skulle kunna lösa problemet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "question": "",
+        "longDescription": "4. Välj **en lösning** och en **tidpunkt** för att **testa** din lösning inom den närmaste veckan. Se till att ditt mål går att uppnå och är mätbart så att du vet om du lyckats.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mer",
+            "sectionId": "bc0d8e03-392d-426c-bf62-92afb421bc63"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bc0d8e03-392d-426c-bf62-92afb421bc63",
+        "content": "Sätt en påminnelse en vecka fram i tiden för att utvärdera ditt lösningsförslag enligt följande:\n\n* Är du **nöjd** med din lösning? \n* Om ja, vilket område i ditt liv har blivit **bättre** och hur?  \n* Om nej, testa en **annan** **lösning** från din lista eller modifiera den lösning du testade och prova igen.\n\n*Skriv gärna ned frågorna som hjälp för att minnas dem.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Färdig",
+            "sectionId": "31fd912c-844f-4e4e-9213-7e64ca4eceba"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "31fd912c-844f-4e4e-9213-7e64ca4eceba",
+        "alias": "Sharing question",
+        "nextSection": "section12",
+        "question": "Tänk tillbaka på en tidigare stressig situation. Om du hade använt dig av den typen av strukturerad problemlösning som du övat på idag, hur skulle du ha agerat annorlunda?",
+        "exampleText": "Jag skulle ha lagt mindre tid på att älta och istället testat nya lösningar för att komma framåt."
+      },
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Bra gjort! Du är nu klar med **Förändra det som inte fungerar**. \n\nVi kan inte leva ett liv utan stress, men det finns mycket vi kan göra för att minska eller undvika onödig stress.\n\nI den här lektionen har du identifierat en stressig situation i ditt liv och utforskat konkreta steg du kan ta redan idag för att agera annorlunda. Vissa saker som stressar oss är svåra att förändra inom en veckas tid, men förhoppningsvis har du nu börjat förändra delar av en komplex situation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa steg",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Du är nu redo för nästa viktiga steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Beskriv en stressande eller smärtsam situation där du **varken** kunde se **problemet** eller möjliga **lösningar** tydligt.\n2. Om du hade använt dig av den typen av **strukturerad** **problemlösning** som du övat på idag, hur skulle du ha agerat **annorlunda**?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-act-for-change-3",
+    "alias": "resilience-and-stress-act-for-change-3",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "video",
+        "title": "Passo 1",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ],
+        "description": "“Quando existe uma crise, a primeira coisa que eu faço é tentar estar com o problema. Nós não podemos resolver um problema sem entender qual é o problema.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543792/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L4P1thumbnailagirpelamudan%C3%A7a_xae6st.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621807025/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L4_Stress_and_resilience_V1_9-16_dxitgh.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "writing",
+        "title": "Exercício - Passo 1",
+        "time": "5 min",
+        "question": "Com a maior precisão possível, define um problema que te está a causar stress neste momento e que possas resolver numa semana. Certifica-te que escolhes algo que possas resolver de forma realista neste período.",
+        "longDescription": "Escreve a tua resposta numa folha de papel e guarda-a. Vais precisar dela mais tarde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "Exercício - Passo 2",
+        "time": "5 - 10 min",
+        "question": "Agora para um momento para considerar TODAS as soluções possíveis que te vêm à cabeça. Sim, até há espaço para soluções mais arrojadas, malucas e engraçadas. Não te inibas.",
+        "longDescription": "Escreve as tuas ideias numa folha de papel e guarda-a. Vais precisar dela mais tarde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "Exercício - Passo 3",
+        "time": "5 min",
+        "question": "Agora dá a cada solução uma pontuação de 0 a 10, dependendo de quão útil achas que seria para resolver o teu problema.",
+        "longDescription": "Escreve a tua resposta numa folha de papel e guarda-a. Vais precisar dela mais tarde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "writing",
+        "title": "Exercício - Passo 4",
+        "time": "5 -10 min",
+        "question": "Escolhe uma solução e um momento em que possas implementá-la esta semana. Certifica-te de que o teu objetivo é alcançável e mensurável para que possas saber quando o alcançaste.",
+        "longDescription": "Define um lembrete daqui a uma semana, revisita e avalia a tua solução verificando estas três perguntas:\n\n1. Está satisfeita/o com a tua solução?\n2. Se sim, qual a área da tua vida que melhorou como resultado?\n3. Se não, podes tentar novamente ou então tentar outra solução?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "writing",
+        "title": "Mudar o teu mundo, passo a passo",
+        "time": "5 - 10 min",
+        "longDescription": "Agora, quando terminares o exercício de resolução de problemas, considera estas duas perguntas:\n\n1. Pensa no passado e descreve uma situação stressante ou dolorosa na tua vida em que realmente não conseguias ver o problema ou as tuas opções com clareza.\n2. Se fosses capaz de abordar esse problema naquela altura, desta forma estruturada (definição clara, definição de possíveis soluções, avaliação e solução concreta), como terias agido de forma diferente?\n\nEscreve as tuas respostas numa folha de papel e guarda-a.\n\nAs tuas respostas às perguntas 1 e 2 serão o que vais ser desafiada/o a partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Já concluíste **Agir pela mudança**.\n\nNesta lição, identificaste uma situação stressante na tua vida e exploraste maneiras práticas para agires de forma diferente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Parabéns por concluíres **Agir pela mudança**.\n\nNão podemos viver uma vida livre de stress, mas há muitas coisas que podemos fazer para reduzir e eliminar o stress desnecessário.\n\nAgora já podes passar para a próxima etapa - partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "What gives you energy?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919865/New_images/exercises%20png/what_gives_you_energy_uoqxe0.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "c001f1f6-84d2-4652-b22b-93f09d6ada30",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c001f1f6-84d2-4652-b22b-93f09d6ada30",
+        "name": "What gives you energy?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "59b7dacb-d88f-4a51-943f-165030c2920c",
+            "question": "What gives you energy?",
+            "exampleText": "I get lots of energy from being playful and out in the nature.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Vad ger dig energi?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919865/New_images/exercises%20png/what_gives_you_energy_uoqxe0.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "c001f1f6-84d2-4652-b22b-93f09d6ada30",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c001f1f6-84d2-4652-b22b-93f09d6ada30",
+        "name": "Vad ger dig energi?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "e3e6bece-6a32-4eac-b83e-83bfe8e9e41b",
+            "question": "Vad ger dig energi?",
+            "exampleText": "Jag samlar energi när jag är lekfull eller ute i naturen.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "O que te dá energia?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919865/New_images/exercises%20png/what_gives_you_energy_uoqxe0.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "c001f1f6-84d2-4652-b22b-93f09d6ada30",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c001f1f6-84d2-4652-b22b-93f09d6ada30",
+        "name": "O que te dá energia?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "a7054572-7482-443b-947c-cb47218394b2",
+            "question": "O que te dá energia?",
+            "exampleText": "Obtenho muita energia quando estou na brincadeira ou na natureza.",
+            "buttonText": "Terminei"
+          }
+        ]
+      }
+    ]
+  }
+}

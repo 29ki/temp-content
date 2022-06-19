@@ -1,0 +1,664 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Deal with thoughts",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/deal_with_thoughts_x1xrkq.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "fe245451-a510-460b-85e7-815b41b382f9",
+    "description": "Small changes in how you talk to yourself can make things that seem impossible possible. Prova hur små ändringar i hur du pratar med dig själv kan göra det omöjliga möjligt.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "men-och",
+        "alias": "Exercise Deal with thoughts",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/deal_with_thoughts_x1xrkq.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# But/and exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Thoughts and emotions sometimes make it feel impossible to do what we want."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "In this exercise, you will try a technique to reduce the power of thoughts and emotions on your behavior."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sometimes we talk to ourselves in \"I want, but sentences,\" for example"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "\"I want to go to school, but I'm so depressed\""
+                  },
+                  {
+                    "component": "Text",
+                    "content": "\"I want to go out, but I'm so anxious\""
+                  },
+                  {
+                    "component": "Text",
+                    "content": "\"I would like to call my friend, but I'm worried about what will happen\""
+                  }
+                ]
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Move on"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "We sometimes express ourselves in this way, as if it is our thoughts and feelings cause our behavior. In fact, often it's the language that gets us into trouble."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Okay, keep going"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "We may experience the small but important \"but\" as if the first half of the sentence isn't possible. That it isn't possible to phone someone if the anxiety is there, that it is not possible to go out if the anxiety is there."
+                  }
+                ]
+              }
+            ],
+            "id": "section4",
+            "alias": "section4",
+            "type": "defaultSection",
+            "buttonText": "continue"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write down some \"I want, but\" thoughts that usually pop into your head."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write somewhere where only you can see your notes."
+                  }
+                ]
+              }
+            ],
+            "id": "section5",
+            "alias": "section5",
+            "type": "defaultSection",
+            "buttonText": "I'm finished"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Now your job is to challenging your thoughts and feelings by exchanging \"but\" for \"and\" in the sentences you wrote down."
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "\"I want to go to school, and I'm so depressed.\"\n\"I want to go out, and I'm so anxious.\"\n\"I would like to call my friend, and I'm worried about what will happen.\""
+                  }
+                ]
+              }
+            ],
+            "id": "section6",
+            "alias": "section6",
+            "type": "defaultSection",
+            "buttonText": "I'm finished"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Read the new sentences to yourself. How do they sound? Any difference?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Feel free to write down your reflection as well."
+                  }
+                ]
+              }
+            ],
+            "id": "section7",
+            "alias": "section7",
+            "type": "defaultSection",
+            "buttonText": "I'm finished"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Try replacing  \"but\" with \"and\" over the next week, and see if it makes a difference. If it can help you do more things that are important to you, even if you're tackling something tough inside at the same time."
+                  }
+                ]
+              }
+            ],
+            "id": "section8",
+            "alias": "section8",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "0cc8fc0f-06ec-4a4b-8fe6-4a6c7e7f451c",
+            "alias": "sharing wall",
+            "question": "How do you think this word switching can be used in your life?",
+            "exampleText": "Actually, maybe I can do more activities that I like."
+          }
+        ],
+        "name": "But / and exercise",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Hantera tankar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/deal_with_thoughts_x1xrkq.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "fe245451-a510-460b-85e7-815b41b382f9",
+    "description": "Små ändringar i hur du pratar med dig själv kan göra det omöjliga möjligt.",
+    "stations": [
+      {
+        "id": "men-och",
+        "alias": "Exercise Deal with thoughts",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/deal_with_thoughts_x1xrkq.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Men/och-övningen"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Tankar och känslor gör ibland att det känns omöjligt att göra det vi vill."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "I den här övningen får du testa en teknik för att minska tankarnas och känslornas kraft över ditt beteende."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Kör igång"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Ibland pratar vi med oss själva i “jag vill, men-meningar”, till exempel"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "”Jag vill gå till skolan, men jag är så deprimerad”"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "”Jag vill följa med ut, men jag har sån ångest”"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "”Jag skulle gärna ringa min kompis, men jag är orolig för hur det ska gå”"
+                  }
+                ]
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Gå vidare"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Ibland uttrycker vi oss på det här sättet, som att det är våra tankar och känslor som orsakar vårt beteende. I själva verket är det ofta språket som ställer till det för oss."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Okej, fortsätt"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Det lilla men viktiga ”men”:et kan ge upplevelsen att den första halvan av meningen inte blir möjlig. Att det inte går att ringa om oron samtidigt finns där, att det inte går att gå ut om ångesten finns där. "
+                  }
+                ]
+              }
+            ],
+            "id": "section4",
+            "alias": "section4",
+            "type": "defaultSection",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Skriv ner några sådan här ”jag vill, men-tankar” som brukar dyka upp i ditt huvud. "
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Skriv någonstans där bara du kan se dina anteckningar."
+                  }
+                ]
+              }
+            ],
+            "id": "section5",
+            "alias": "section5",
+            "type": "defaultSection",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Nu får du i uppgift att utmana dina tankar och känslor genom att byta ut ”men” mot ”och” i de meningar som du skrev ner."
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "!Jag vill gå till skolan, och jag är så deprimerad”.\n”Jag vill följa med ut, och jag har sån ångest”.\n”Jag skulle gärna ringa min kompis, och jag är orolig för hur det ska gå"
+                  }
+                ]
+              }
+            ],
+            "id": "section6",
+            "alias": "section6",
+            "type": "defaultSection",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Läs de nya meningarna tyst för dig själv. Hur blir det för dig? Någon skillnad?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Skriv gärna ner din reflektion också."
+                  }
+                ]
+              }
+            ],
+            "id": "section7",
+            "alias": "section7",
+            "type": "defaultSection",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Testa att byta ut dina ”men” mot ”och” under närmaste veckan, och se om det gör någon skillnad. Om det kan hjälpa dig att göra mer av det som är viktigt för dig, även om du har något jobbigt som pågår på insidan samtidigt."
+                  }
+                ]
+              }
+            ],
+            "id": "section8",
+            "alias": "section8",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "d6fd700f-5fde-4483-952e-a75dc6846770",
+            "question": "Hur kan du använda det här ord-tricket i din vardag?",
+            "alias": "sharing wall",
+            "exampleText": "Tror att jag skulle kunna göra mer av sånt jag gillar."
+          }
+        ],
+        "name": "Och i stället för men",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Men/och",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/deal_with_thoughts_x1xrkq.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "fe245451-a510-460b-85e7-815b41b382f9",
+    "description": "Prova hur små ändringar i hur du pratar med dig själv kan göra det omöjliga möjligt.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "men-och",
+        "alias": "Exercise Deal with thoughts",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/deal_with_thoughts_x1xrkq.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# But / and exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Thoughts and feelings sometimes make it impossible to do what we want."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "In this exercise, you will try a technique to reduce the power of thoughts and feelings over your behavior."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sometimes we talk to ourselves in \"I want, but sentences\", for example"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "\"I want to go to school, but I'm so depressed\""
+                  },
+                  {
+                    "component": "Text",
+                    "content": "\"I want to go out, but I'm so anxious\""
+                  },
+                  {
+                    "component": "Text",
+                    "content": "\"I would like to call my friend, but I'm worried about how it's going\""
+                  }
+                ]
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Move on"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "We sometimes express ourselves in this way, as if it is our thoughts and feelings that are causing our behavior. In fact, it is often the language that matters to us."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Okay, keep going"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "The small but important \"but\" can give the experience that the first half of the sentence is not possible. That it is not possible to call about the anxiety at the same time is there, that it is not possible to go out if the anxiety is there."
+                  }
+                ]
+              }
+            ],
+            "id": "section4",
+            "alias": "section4",
+            "type": "defaultSection",
+            "buttonText": "continue"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write down some \"I want, but\" thoughts that usually pop into your head."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Write somewhere where only you can see your notes."
+                  }
+                ]
+              }
+            ],
+            "id": "section5",
+            "alias": "section5",
+            "type": "defaultSection",
+            "buttonText": "I'm finished"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Now you are given the task of challenging your thoughts and feelings by exchanging \"but\" for \"and\" in the sentences you wrote down."
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "I want to go to school, and I'm so depressed.\n\"I want to go out, and I'm so anxious.\"\n\"I would like to call my friend, and I'm worried about how it's going"
+                  }
+                ]
+              }
+            ],
+            "id": "section6",
+            "alias": "section6",
+            "type": "defaultSection",
+            "buttonText": "I'm finished"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Read the new sentences silently to yourself. How will it be for you? Any difference?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Feel free to write down your reflection as well."
+                  }
+                ]
+              }
+            ],
+            "id": "section7",
+            "alias": "section7",
+            "type": "defaultSection",
+            "buttonText": "I'm finished"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Try replacing your \"but\" with \"and\" during the next week, and see if it makes a difference. If it can help you do more of what is important to you, even if you have something hard going on inside at the same time."
+                  }
+                ]
+              }
+            ],
+            "id": "section8",
+            "alias": "section8",
+            "type": "defaultSection",
+            "buttonText": "End"
+          }
+        ],
+        "name": "But / and exercise",
+        "type": "station"
+      }
+    ]
+  }
+}

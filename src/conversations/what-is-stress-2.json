@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "what-is-stress-2",
-    "alias": "What is stress - 2",
+    "alias": "Stress YA: What is stress - 2",
     "root": "1",
     "sections": [
       {
@@ -11,11 +10,17 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616137767/Stress/What_is_stress_-2a_ibqai0.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "**Kortvarig stress**\\\nKortvarig stress i lagom doser är faktiskt vår vän. Utan ett stresspåslag skulle vi inte passa tider, bli färdiga med läxorna, eller klara av svåra situationer. \n\nDet kallas för *positiv stress* och hjälper oss att fokusera och få saker gjorda."
+                "content": "## Short-term stress\n\n**Short-term** stress in small doses is actually **our friend**. Without it, we wouldn't be on time, complete homework or cope in difficult situations.\n\nThis is also called **positive stress.** It helps us focus and get things done."
               }
             ]
           },
@@ -41,7 +46,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Det är när stressen blir långvarig och kroppen inte hinner återhämta sig emellan som vi kan få fysiska och psykiska problem. \n\nOch det är den typen av stress vi kommer att fokusera på i den här utmaningen."
+                "content": "## Long-term stress\n\nBut when stress becomes **long-term** and the body **doesn't get a chance to recover**, we can begin to develop physical and mental **problems**.\n\nAnd that's the kind of stress we'll focus on in this lesson."
               }
             ]
           },
@@ -67,7 +72,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Så, hur vet vi om vi är för stressade? Här är några exempel:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg\n* **Beteenden:** Alltid bråttom, äter fort, försöker effektivisera, hinner inte pausa"
+                "content": "## So how do I know if I'm too stressed?\n\nHere are some examples:\n\n* **Body:** Poor sleep, headache, stomach pain or tense muscles.\n* **Mood:** Anxiety, irritation, sadness, anger, feelings of shame.\n* **Thoughts:** Difficulty prioritizing, concentrating or remembering.\n* **Behavior:** Always in a hurry, eating fast, always trying to be more efficient, never has time to pause."
               }
             ]
           },
@@ -76,7 +81,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Continue",
+                "content": "Next",
                 "sectionId": "4"
               }
             ]
@@ -93,7 +98,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Om du känner igen dessa eller liknande symtom, är det din kropps sätt att säga att du behöver **återhämtning** — något som fyller på reserverna igen.\n\nDet knepiga är att när uppgifterna vi ”måste” göra blir för många så brukar de saker som vi *egentligen* skulle må bra av *inte bli av*. Då tycker vi ofta att vi inte hinner vila, träffa kompisar eller träna."
+                "content": "If you recognize these symptoms, it's your body's way of telling you that you need **recovery.** Something that fills up your reserves again.\n\nThe tricky thing is that when the tasks we \"have to do\" become too many, we tend to **miss out** on the doing things that would **really** make us feel better.  \n\nThat's when we feel we don't have time to rest, meet friends or exercise."
               }
             ]
           },
@@ -101,9 +106,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "More",
-                "sectionId": "1"
+                "conversationId": "what-is-stress-3",
+                "variant": "primary"
               }
             ]
           }
@@ -112,9 +118,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "what-is-stress-2",
-    "alias": "What is stress - 2",
+    "alias": "Stress YA: What is stress - 2",
     "root": "1",
     "sections": [
       {
@@ -123,11 +128,17 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616137767/Stress/What_is_stress_-2a_ibqai0.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "**Kortvarig stress**\\\nKortvarig stress i lagom doser är faktiskt vår vän. Utan ett stresspåslag skulle vi inte passa tider, bli färdiga med läxorna, eller klara av svåra situationer. \n\nDet kallas för *positiv stress* och hjälper oss att fokusera och få saker gjorda."
+                "content": "## Kortvarig stress\n\n**Kortvarig** stress i lagom doser är faktiskt **vår vän**. Utan den skulle vi inte passa tider, bli färdiga med läxorna eller klara av svåra situationer. \n\nDet brukar även kallas för **positiv stress** och hjälper oss fokusera och få saker gjorda."
               }
             ]
           },
@@ -153,7 +164,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Långvarig stress**\\\nDet är när stressen blir *långvarig* och kroppen inte hinner återhämta sig som vi kan få fysiska och psykiska problem. \n\nOch det är den typen av stress vi kommer att fokusera på i den här lektionen."
+                "content": "## Långvarig stress\n\nDet är när stressen blir **långvarig** och kroppen **inte hinner återhämta** sig som vi kan få fysiska och psykiska **problem**. \n\nOch det är den typen av stress vi kommer att fokusera på i den här lektionen."
               }
             ]
           },
@@ -179,7 +190,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Så, hur vet vi om vi är för stressade? Här är några exempel:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler.\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam.\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg.\n* **Beteenden:** Alltid bråttom, äter fort, försöker effektivisera, hinner inte pausa."
+                "content": "## Så, hur vet vi om vi är för stressade?\n\nHär är några exempel:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler.\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam.\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg.\n* **Beteenden:** Alltid bråttom, äter fort, försöker effektivisera, hinner inte pausa."
               }
             ]
           },
@@ -205,7 +216,47 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Om du känner igen dessa eller liknande symtom, är det din kropps sätt att säga att du behöver **återhämtning** — något som fyller på reserverna igen.\n\nDet knepiga är att när uppgifterna vi ”måste” göra blir för många så brukar de saker som vi *egentligen* skulle må bra av *inte bli av*. Då tycker vi ofta att vi inte hinner vila, träffa kompisar eller träna."
+                "content": "Om du känner igen symtomen, är det din kropps sätt att säga att du behöver **återhämtning.** Något som fyller på dina reserver igen.\n\nDet knepiga är att när uppgifterna vi ”måste göra\" blir för många, brukar de saker som vi **egentligen** skulle må bra av att göra **inte bli av.** \n\nDå tycker vi ofta att vi inte hinner vila, träffa kompisar eller träna."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Mer",
+                "conversationId": "what-is-stress-3",
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "what-is-stress-2",
+    "alias": "Stress YA: What is stress - 2",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616137767/Stress/What_is_stress_-2a_ibqai0.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Stress de curto prazo\n\nO stress a **curto prazo** e em pequenas doses é, na verdade, **nosso amigo**. Sem ele, não chegaríamos a tempo, não concluiríamos os trabalhos de casa, nem lidaríamos com situações difíceis.\n\nIsto também é chamado de **stress positivo,** que nos ajuda a focar e a fazer as coisas."
               }
             ]
           },
@@ -214,9 +265,87 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Mer",
+                "content": "Continuar",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Stress de longa duração\n\nMas quando o stress é de **longa duração** e o corpo **não tem hipótese de se recuperar**, podemos começar a desenvolver **problemas** físicos e mentais.\n\nE é nesse tipo de stress que nos vamos focar nesta lição."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Então, como sei se estou muito stressada/o?\n\nAqui estão alguns exemplos:\n\n* **Corpo:** sono de fraca qualidade, dores de cabeça, dores de estômago ou músculos tensos.\n* **Humor:** Ansiedade, irritação, tristeza, raiva, sentimentos de vergonha.\n* **Pensamentos:** Dificuldade em priorizar, concentrar ou lembrar.\n* **Comportamento:** Sempre com pressa, comer rápido, sempre a tentar ser mais eficiente, nunca ter tempo para uma pausa."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se reconheceres estes sintomas, é a maneira do teu corpo dizer que precisas de **recuperar**. Algo que preencha as tuas reservas novamente.\n\nO complicado é que, quando as tarefas que \"temos que fazer\" se tornam demasiadas, tendemos a **perder** as coisas que **realmente** nos fariam sentir melhor.\n\nÉ quando sentimos que não temos tempo para descansar, estar com amigos ou fazer outras atividades."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Mais",
                 "conversationId": "what-is-stress-3",
-                "sectionId": "1"
+                "variant": "primary"
               }
             ]
           }

@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Safety Toolkit",
+    "text__markdown": "# We are ~~with you~~\n\nIf you ever feel overwhelmed or need assistance, our safety toolkit is here to guide you.\n\nYou can find the toolkit near the top right corner of your screen.",
+    "button": "Show Toolkit"
+  },
+  "sv": {
+    "title": "Trygghet",
+    "text__markdown": "# Vi är ~~här med dig~~\n\nOm du någonsin känner dig överväldigad eller behöver hjälp är våra trygghetsfunktioner här för att vägleda dig.\n\nDu hittar funktionerna högst upp till höger på skärmen.",
+    "button": "Visa trygghetsfunktioner"
+  },
+  "pt": {
+    "title": "Kit de Segurança",
+    "text__markdown": "# Estamos ~~contigo~~\n\nSe te sentires assoberbada/o ou precisares de ajuda, o nosso Kit de Ferramentas de Segurança está aqui para te ajudar.\n\nPodes encontrar este kit no canto superior direito do teu ecrã.",
+    "button": "Mostar Kit"
+  }
+}

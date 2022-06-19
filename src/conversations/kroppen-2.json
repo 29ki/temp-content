@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "kroppen-2",
-    "alias": "kroppen-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 2-body-2",
     "root": "section1",
     "sections": [
       {
@@ -12,11 +11,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Body surcharge"
+                "content": "# The body's acute stress response"
               },
               {
                 "component": "Text",
-                "content": "Our bodies are equipped with a super-efficient defense system: stress. When we experience something that is threatening, the brain quickly switches to focusing on escaping or fighting."
+                "content": "Our bodies are equipped with a super-efficient defense system: stress. When we experience something threatening, the brain quickly starts focusing on fighting or fleeing."
               }
             ]
           },
@@ -26,14 +25,13 @@
               {
                 "component": "Button",
                 "content": "I want to know more",
-                "conversationId": "kroppen-2",
                 "sectionId": "section2"
               },
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Skip",
-                "conversationId": "kroppen-3",
-                "sectionId": "section1"
+                "conversationId": "kroppen-3"
               }
             ]
           }
@@ -49,7 +47,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "It can happen that the heart beats fast, we sweat, tense muscles, get tunnel vision or breathe faster than usual."
+                "content": "Our heart may beat faster, we may sweat, tense our muscles, get tunnel vision or breathe faster than usual."
               }
             ]
           },
@@ -59,7 +57,6 @@
               {
                 "component": "Button",
                 "content": "continue",
-                "conversationId": "kroppen-2",
                 "sectionId": "section3"
               }
             ]
@@ -76,7 +73,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "It is a natural reaction to stress, and helped our ancestors survive in situations where it was important to quickly get away from a saber-toothed tiger or fight back against a rival tribe."
+                "content": "It is a natural reaction to stress, and helped our ancestors survive in situations where it was important to quickly get away from a tiger or fight back against a rivaling tribe."
               }
             ]
           },
@@ -86,7 +83,6 @@
               {
                 "component": "Button",
                 "content": "continue",
-                "conversationId": "kroppen-2",
                 "sectionId": "section4"
               }
             ]
@@ -103,7 +99,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "We still react the same way, but the threats we face are a little different: get the task done on time or handle a difficult comment on a forum."
+                "content": "We still react the same way, but the threats we face today are a little different: getting tasks done on time or handling a difficult comment online."
               }
             ]
           },
@@ -113,7 +109,6 @@
               {
                 "component": "Button",
                 "content": "continue",
-                "conversationId": "kroppen-2",
                 "sectionId": "section5"
               }
             ]
@@ -134,7 +129,7 @@
               },
               {
                 "component": "Text",
-                "content": "Now you have learned more about how stress works in the body. In a stressful situation, we may need to be extra kind to ourselves."
+                "content": "Now you've   learned more about how stress works. In a stressful situation, we may need to be extra kind to ourselves."
               }
             ]
           },
@@ -143,9 +138,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Next",
-                "conversationId": "kroppen-3",
-                "sectionId": "section1"
+                "conversationId": "kroppen-3"
               }
             ]
           }
@@ -158,8 +153,7 @@
   },
   "sv": {
     "id": "kroppen-2",
-    "alias": "kroppen-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 2-body-2",
     "root": "section1",
     "sections": [
       {
@@ -183,14 +177,13 @@
               {
                 "component": "Button",
                 "content": "Jag vill veta mer",
-                "conversationId": "kroppen-2",
                 "sectionId": "section2"
               },
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Hoppa över",
-                "conversationId": "kroppen-3",
-                "sectionId": "section1"
+                "conversationId": "kroppen-3"
               }
             ]
           }
@@ -216,7 +209,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "kroppen-2",
                 "sectionId": "section3"
               }
             ]
@@ -233,7 +225,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Det är en naturlig reaktion på stress, och hjälpte våra förfäder att överleva i situationer där det var viktigt att snabbt komma undan från en sabeltandad tiger eller slå tillbaka mot en rivaliserande stam."
+                "content": "Det är en naturlig reaktion på stress, och hjälpte våra förfäder att överleva i situationer där det var viktigt att snabbt komma undan från en tiger eller slå tillbaka mot en rivaliserande stam."
               }
             ]
           },
@@ -243,7 +235,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "kroppen-2",
                 "sectionId": "section4"
               }
             ]
@@ -260,7 +251,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Vi reagerar fortfarande likadant, men de hot vi möter är lite annorlunda: bli klar med uppgiften i tid eller hantera en jobbig kommentar på ett forum."
+                "content": "Vi reagerar fortfarande likadant, men de hot vi möter är lite annorlunda: att bli klara med uppgifter i tid eller hantera en jobbig kommentar online."
               }
             ]
           },
@@ -270,7 +261,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "kroppen-2",
                 "sectionId": "section5"
               }
             ]
@@ -300,9 +290,161 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Nästa",
-                "conversationId": "kroppen-3",
-                "sectionId": "section1"
+                "conversationId": "kroppen-3"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "kroppen-2",
+    "alias": "YA Become friends: 2-body-2",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# A resposta aguda do corpo ao stress"
+              },
+              {
+                "component": "Text",
+                "content": "O nosso corpo está equipado com um sistema de defesa super eficiente: o stress. Quando vivenciamos algo ameaçador, o cérebro rapidamente começa a concentrar-se em lutar ou fugir."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Quero saber mais",
+                "sectionId": "section2"
+              },
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Continuar",
+                "conversationId": "kroppen-3"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "O nosso coração pode bater mais rapidamente, podemos suar, os nossos músculos ficam mais tensos, temos visão de túnel ou respirarmos mais depressa do que o normal."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "É uma reação natural ao stress e ajudou os nossos antepassados a sobreviverem em situações em que era importante fugir rapidamente de um tigre ou lutar contra uma tribo rival."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ainda reagimos da mesma maneira, mas as ameaças que enfrentamos hoje em dia são um pouco diferentes: concluir as tarefas no prazo ou lidar com um comentário difícil online."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Muito bem!"
+              },
+              {
+                "component": "Text",
+                "content": "Agora aprendeste mais sobre como o stress funciona. Numa situação stressante, talvez precisemos de ser mais gentis connosco."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte ",
+                "conversationId": "kroppen-3"
               }
             ]
           }

@@ -1,0 +1,35 @@
+{
+  "en": {
+    "subject": "A caring reminder from 29k",
+    "header__markdown": "# Hi **there**",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Looks like it’s been a while since you used the *29k* app. Perhaps you are working on yourself in other ways, or maybe life came in between?\n\nEither way, we are writing to remind you that, with inner development, **consistency is key.** The *29k* app and its community are still here for you, providing tools and peer support for mental health and inner development.\n\nAre you up for restarting your personal growth journey and adding more skills to face whatever life brings?",
+    "link": {
+      "text": "Open or re-install the app",
+      "href": "https://app.29k.org/welcome-back"
+    },
+    "closing__markdown": "Caringly,\\\nThe 29k team"
+  },
+  "sv": {
+    "subject": "29k finns fortfarande här för dig",
+    "header__markdown": "# Hej **där**",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Det var ett tag sedan du använde *29k-appen*. Om det beror på att livet leker, perfekt! Om saker kom emellan, vill vill bara påminna dig om att våra verktyg fungerar bäst när du använder dem över tid.\n\n*29k-appen* finns fortfarande där för dig och ger dig full tillgång till både gemenskap med andra användare och en kraftfull verktygslåda för mental hälsa och inre utveckling.\n\nTa dig an en utmaning, landa i en meditation eller testa en övning. Vem vet, kanske får du ett helt nytt perspektiv på livets toppar och dalar?",
+    "link": {
+      "text": "Öppna eller installera appen igen",
+      "href": "https://app.29k.org/welcome-back-swedish"
+    },
+    "closing__markdown": "Vänliga hälsningar,\\\n29k-teamet"
+  },
+  "pt": {
+    "subject": "Um lembrete carinhoso da 29k FJN",
+    "header__markdown": "# **Ola!**",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Parece que já passou algum tempo desde que estiveste connosco na aplicação *29k FJN*. Talvez estejas a trabalhar o teu desenvolvimento pessoal de outras formas, ou talvez a tua vida se tenha intrometido e te tenha interrompido.\n\nDe qualquer forma, estamos a escrever-te para te lembrar que, no desenvolvimento pessoal, a consistência é fundamental. A aplicação *29k FJN* e a nossa comunidade ainda estão aqui para ti, fornecendo ferramentas e apoio de outras pessoas que estão na tua situação nestes temas de saúde mental e desenvolvimento pessoal.\n\nEstás pronto/a para reiniciar a tua jornada de crescimento pessoal? Começa aqui e aprende competências que te ajudam a enfrentar o que a vida te traz.",
+    "link": {
+      "text": "Abre ou instala a aplicação novamente",
+      "href": "https://app.29k.org/welcome-back-portuguese"
+    },
+    "closing__markdown": "Carinhosamente,\\\na equipa 29k FJN"
+  }
+}

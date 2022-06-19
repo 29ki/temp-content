@@ -2,7 +2,7 @@
   "en": {
     "id": "feeling-lost-5",
     "alias": "feeling-lost-5",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -28,7 +28,7 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "NextConversationButton",
+                "component": "Button",
                 "content": "I’m done!",
                 "sectionId": "END"
               }
@@ -44,7 +44,7 @@
   "sv": {
     "id": "feeling-lost-5",
     "alias": "feeling-lost-5",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
@@ -70,7 +70,49 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "NextConversationButton",
+                "component": "Button",
+                "content": "I’m done!",
+                "sectionId": "END"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "feeling-lost-5",
+    "alias": "feeling-lost-5",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Well done!"
+              },
+              {
+                "component": "Text",
+                "content": "### In this lesson you have:"
+              },
+              {
+                "component": "Text",
+                "content": "* Explored what it feels like to be lost\n* Explored what it feels like to feel a sense of meaning\n* Identified what actions took you there and reflected how this applies to your life at present"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
                 "content": "I’m done!",
                 "sectionId": "END"
               }

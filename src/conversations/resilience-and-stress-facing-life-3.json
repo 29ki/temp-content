@@ -1,0 +1,259 @@
+{
+  "en": {
+    "id": "resilience-and-stress-facing-life-3",
+    "alias": "resilience-and-stress-facing-life-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "editorialWithImage",
+        "title": "Rest in difficult emotions",
+        "content": "When we **open** up to **difficult** **emotions** they often loosen their grip over our lives.\n\nYou'll now get to practice your **ability** to **face difficult emotions**. This can help you tune-in to what you’re feeling and thinking, right here and right now.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm ready",
+            "sectionId": "section8"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077164/Stress/yoann-boyer-i14h2xyPr18-unsplash_hdgdsu.jpg"
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "audio",
+        "title": "The healing hand",
+        "description": "Find a quiet place to sit where you won’t be disturbed. \n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-healing-hand.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section9"
+          }
+        ],
+        "duration": "04:11"
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "Exercise",
+        "question": "",
+        "longDescription": "Write down your answers.\n\n1. Where in your **body** did you feel these difficult emotions?\n2. If you managed to **stay** with the tough emotions, what happened? If opening up completely was too difficult, where did your **thoughts** **go**?\n3. How did you **feel** when thinking about the fact that **others** are going through similar challenges right now?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm finished",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Well done, you have now completed **Facing life**. \n\nYou've practiced **facing** difficult **emotions** and **experiences** and learned that this is often a more effective way of dealing with your emotions than avoidance.\n\nRemember that **emotions can’t harm you.** They will eventually subside no matter how strong they are.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next step",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember the questions:\n\n1. **Where** in your **body** did you **feel** these difficult emotions?\n2. If you managed to **stay** with the tough emotions, what happened? If opening up completely was too difficult, where did your **thoughts** **go**?\n3. How did you **feel** thinking about **others** going through the **same** tough thing right now?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-facing-life-3",
+    "alias": "resilience-and-stress-facing-life-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "video",
+        "title": "En känsla av sorg och saknad",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_attmoralivet_ovning.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622478452/Hantera%20Stress%20Adult/attm%C3%B6talivet_%C3%B6vning_y6wkrf.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "editorialWithImage",
+        "title": "Vila i svåra känslor",
+        "content": "När vi **öppnar** upp för **svåra** **känslor** så tappar de ofta taget om våra liv.\n\nDu ska nu få öva på din **förmåga** att **möta** **svåra** **känslor**. Det kan hjälpa dig att komma i kontakt med vad du tänker och känner just nu.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är redo",
+            "sectionId": "section10"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077164/Stress/yoann-boyer-i14h2xyPr18-unsplash_hdgdsu.jpg"
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "audio",
+        "title": "Den vänliga handen",
+        "description": "Hitta en avskild plats där du kan sitta i lugn och ro. \n\nTryck på play-knappen för att börja.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Den-vanliga-handen.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är färdig",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "writing",
+        "title": "Övning",
+        "question": "",
+        "longDescription": "Skriv ned dina svar.\n\n1. Var i din **kropp** kände du de svåra känslorna?\n2. Om du **stannade** **kvar** i de svåra känslorna, vad hände? Om det var för svårt att öppna upp, var **försvann** du i dina tankar?\n3. Hur **kändes** det när du tänkte på att **andra** går igenom liknande svåra saker?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Bra gjort, du har nu avslutat **Att möta livet**.\n\nDu har övat på att **möta** svåra **känslor** och **upplevelser**, vilket ofta är ett mer effektivt sätt att hantera dem än vad undvikande är.\n\nKom ihåg att **känslor** **inte kan skada dig.** De kommer att gå över så småningom, oavsett hur starka de är.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa steg",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "alias": "section13",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Du är nu redo för nästa steg — att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. **Var** i din **kropp** **kände** du de svåra känslorna?\n2. Om du **stannade** **kvar** i de svåra känslorna, vad hände? Om det var för svårt att öppna upp, var **försvann** du i dina tankar?\n3. Hur **kändes** det när du tänkte på att **andra** går igenom **samma** svåra saker?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-facing-life-3",
+    "alias": "resilience-and-stress-facing-life-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "editorialWithImage",
+        "title": "Descansa nas emoções difíceis",
+        "content": "Quando estamos abertos a emoções difíceis, elas deixam de controlar as nossas vidas.\n\nAgora, encontra um lugar tranquilo para te sentares, onde não sejas incomodada/o por algum tempo. No próximo exercício de três minutos, vais relacionar-te com algo doloroso ou difícil da tua vida, praticando a tua força de vontade para enfrentar emoções difíceis. Lembra-te de que as emoções não podem prejudicar-te e que irão eventualmente enfraquecer, não importa o quão fortes sejam.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "audio",
+        "title": " A mão que cura",
+        "description": "Treina a tua força de vontade para enfrentar emoções difíceis.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429298/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_07_-_Healing_hand_meditation_gcln6z.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "duration": "03:20"
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "A mão que cura",
+        "question": "",
+        "longDescription": "1. Onde sentiste as emoções difíceis no teu corpo?\n2. Se conseguiste permanecer nas emoções difíceis, o que aconteceu quando te aproximaste delas em vez de fugires? Se abrires-te completamente foi muito difícil, para onde foram os teus pensamentos?\n3. Como te sentiste ao pensar noutras pessoas que estão a passar pela mesma situação difícil agora?\n\nEscreve a tua resposta numa folha de papel e guarda-a. Poderás partilhar essa reflexão com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Parabéns, já concluíste **Enfrentar a vida**.\n\nPraticaste como enfrentar as emoções e experiências difíceis e aprendeste que enfrentá-las pode ser uma maneira mais eficaz de lidar com elas do que evitá-las.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Agora já estás pronta/o para partilhar.\n\nLembra-te das perguntas que deves partilhar:\n\n1. Onde sentiste as emoções difíceis?\n2. Se permaneceste nas emoções difíceis, o que aconteceu? Se abrires-te foi muito difícil, para onde foram os teus pensamentos?\n3. Como te sentiste ao pensar nas outras pessoas que estão a passar pela mesma situação difícil?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

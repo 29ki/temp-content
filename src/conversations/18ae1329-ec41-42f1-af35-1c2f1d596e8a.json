@@ -1,0 +1,488 @@
+{
+  "en": {
+    "id": "18ae1329-ec41-42f1-af35-1c2f1d596e8a",
+    "alias": "Pt special Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "7eef67fe-394f-424d-8996-5a02ccc153e8",
+        "alias": "Resolução de problemas face à ansiedade",
+        "title": "Resolução de problemas face à ansiedade",
+        "content": "Quando estamos ansiosos, é fácil **misturar** as coisas que podemos mudar com aquelas que não podemos.\n\nPodemos lidar melhor com as coisas que não podemos controlar praticando **a aceitação**.\n\nAceitar as coisas como são, mesmo que não gostemos delas. Isso permite-nos gastar a nossa preciosa **energia** no que **podemos controlar**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "622d5f48-a5c1-426d-b76b-e764c430825c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "622d5f48-a5c1-426d-b76b-e764c430825c",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "7a26121f-bbdc-4c91-9ec6-bac497bb024a"
+          }
+        ],
+        "alias": "Definir",
+        "title": "Resolução de problemas",
+        "content": "Vais praticar a **aceitação** na próxima lição. Por agora vamos focar nas coisas que **podes mudar**.\n\nUm problema **devidamente definido** é um problema meio resolvido.\n\nNeste exercício vais explorar algo que esteja a contribuir para a tua ansiedade e identificar o que podes fazer para o ultrapassar, desde pensar em possíveis soluções até ao planeamento de ações concretas."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7a26121f-bbdc-4c91-9ec6-bac497bb024a",
+        "alias": "Resolução de problemas passo a passo",
+        "title": "Resolução de problemas passo a passo",
+        "content": "Quando tens de definir os **gatilhos da tua ansiedade**, exemplos como \"Preocupo-me com o mundo\" são vagos e abstratos.\n\nUm exemplo mais concreto como \"*Preocupo-me com perder os meus rendimentos se a economia colapsar*\" ajuda-nos a **identificar** de forma mais clara novas **soluções** e **ações**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e0e4b81a-f9b9-45f3-b9c9-422fb8921395"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e0e4b81a-f9b9-45f3-b9c9-422fb8921395",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5076cfcf-42b2-4dec-9298-98090adfab39"
+          }
+        ],
+        "content": "**Soluções** podem ser por exemplo: “*Garantir que tenho direito ao subsídio de desemprego*” ou “*Candidatar-me a um segundo emprego*”.\n\nTendo isto em mente, define **um aspeto** da tua crise atual que te está a causar ansiedade agora.",
+        "alias": "Pré-exercício"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas.\n\n1. **Define** com a máxima precisão possível um **problema** que esteja a contribuir para a tua **ansiedade** neste momento. Certifica-te que não é algo muito avassalador para que possas tentar resolvê-lo numa semana. A resolução deve ser mensurável para saberes se a conseguiste atingir.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "10b143cf-da2c-430b-bd23-88ef317d8544"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 1",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "5076cfcf-42b2-4dec-9298-98090adfab39"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "2. Agora reflete um pouco para pensares em TODAS as **soluções** possíveis que te vêm à cabeça para resolver esse problema. Há espaço para soluções extravagantes e loucas, não te retraias.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d2d2fe6a-dbd9-4d26-aecd-af22362cd489"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 2",
+        "title": "Exercício - Passo 2",
+        "type": "writing",
+        "id": "10b143cf-da2c-430b-bd23-88ef317d8544"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "3. **Pontua** cada solução de 0 a 10, com base na tua opinião sobre o seu potencial para resolução do problema. Escreve a pontuação junto a cada ideia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "0e097c14-f4f7-4bec-8cff-e36624c96c8a"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 3",
+        "title": "",
+        "type": "writing",
+        "id": "d2d2fe6a-dbd9-4d26-aecd-af22362cd489"
+      },
+      {
+        "longDescription": "4. Analisa as tuas soluções e a pontuação que atribuíste a cada uma delas. Escolhe uma das **soluções.** \n5. Seleciona uma **hora** e um **dia** para a **implementares** na próxima semana.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a7fedb59-2a3d-475b-a43f-e5de714b7729"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 4",
+        "title": "",
+        "type": "writing",
+        "id": "0e097c14-f4f7-4bec-8cff-e36624c96c8a"
+      },
+      {
+        "type": "video",
+        "id": "a7fedb59-2a3d-475b-a43f-e5de714b7729",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "54202cad-449f-4cb9-bc73-733d111a37ea",
+            "content": "Continuar"
+          }
+        ],
+        "alias": "A minha história",
+        "description": "“Nós temos sempre capacidade de ultrapassar as crises, mas por vezes convencemo-nos que não e esse é o principal problema, quando nos convencemos que não temos a capacidade para ultrapassar uma crise.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334353/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L2P11act4changecopingwithanxiety_py6r5z.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334260/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L2_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_q1eiwn.mp4"
+          }
+        ]
+      }
+    ],
+    "root": "7eef67fe-394f-424d-8996-5a02ccc153e8"
+  },
+  "sv": {
+    "id": "18ae1329-ec41-42f1-af35-1c2f1d596e8a",
+    "alias": "Pt special Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "7eef67fe-394f-424d-8996-5a02ccc153e8",
+        "alias": "Resolução de problemas face à ansiedade",
+        "title": "Resolução de problemas face à ansiedade",
+        "content": "Quando estamos ansiosos, é fácil **misturar** as coisas que podemos mudar com aquelas que não podemos.\n\nPodemos lidar melhor com as coisas que não podemos controlar praticando **a aceitação**.\n\nAceitar as coisas como são, mesmo que não gostemos delas. Isso permite-nos gastar a nossa preciosa **energia** no que **podemos controlar**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "622d5f48-a5c1-426d-b76b-e764c430825c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "622d5f48-a5c1-426d-b76b-e764c430825c",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "7a26121f-bbdc-4c91-9ec6-bac497bb024a"
+          }
+        ],
+        "alias": "Definir",
+        "title": "Resolução de problemas",
+        "content": "Vais praticar a **aceitação** na próxima lição. Por agora vamos focar nas coisas que **podes mudar**.\n\nUm problema **devidamente definido** é um problema meio resolvido.\n\nNeste exercício vais explorar algo que esteja a contribuir para a tua ansiedade e identificar o que podes fazer para o ultrapassar, desde pensar em possíveis soluções até ao planeamento de ações concretas."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7a26121f-bbdc-4c91-9ec6-bac497bb024a",
+        "alias": "Resolução de problemas passo a passo",
+        "title": "Resolução de problemas passo a passo",
+        "content": "Quando tens de definir os **gatilhos da tua ansiedade**, exemplos como \"Preocupo-me com o mundo\" são vagos e abstratos.\n\nUm exemplo mais concreto como \"*Preocupo-me com perder os meus rendimentos se a economia colapsar*\" ajuda-nos a **identificar** de forma mais clara novas **soluções** e **ações**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e0e4b81a-f9b9-45f3-b9c9-422fb8921395"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e0e4b81a-f9b9-45f3-b9c9-422fb8921395",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5076cfcf-42b2-4dec-9298-98090adfab39"
+          }
+        ],
+        "content": "**Soluções** podem ser por exemplo: “*Garantir que tenho direito ao subsídio de desemprego*” ou “*Candidatar-me a um segundo emprego*”.\n\nTendo isto em mente, define **um aspeto** da tua crise atual que te está a causar ansiedade agora.",
+        "alias": "Pré-exercício"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas.\n\n1. **Define** com a máxima precisão possível um **problema** que esteja a contribuir para a tua **ansiedade** neste momento. Certifica-te que não é algo muito avassalador para que possas tentar resolvê-lo numa semana. A resolução deve ser mensurável para saberes se a conseguiste atingir.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "10b143cf-da2c-430b-bd23-88ef317d8544"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 1",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "5076cfcf-42b2-4dec-9298-98090adfab39"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "2. Agora reflete um pouco para pensares em TODAS as **soluções** possíveis que te vêm à cabeça para resolver esse problema. Há espaço para soluções extravagantes e loucas, não te retraias.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d2d2fe6a-dbd9-4d26-aecd-af22362cd489"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 2",
+        "title": "Exercício - Passo 2",
+        "type": "writing",
+        "id": "10b143cf-da2c-430b-bd23-88ef317d8544"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "3. **Pontua** cada solução de 0 a 10, com base na tua opinião sobre o seu potencial para resolução do problema. Escreve a pontuação junto a cada ideia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "0e097c14-f4f7-4bec-8cff-e36624c96c8a"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 3",
+        "title": "",
+        "type": "writing",
+        "id": "d2d2fe6a-dbd9-4d26-aecd-af22362cd489"
+      },
+      {
+        "longDescription": "4. Analisa as tuas soluções e a pontuação que atribuíste a cada uma delas. Escolhe uma das **soluções.** \n5. Seleciona uma **hora** e um **dia** para a **implementares** na próxima semana.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a7fedb59-2a3d-475b-a43f-e5de714b7729"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 4",
+        "title": "",
+        "type": "writing",
+        "id": "0e097c14-f4f7-4bec-8cff-e36624c96c8a"
+      },
+      {
+        "type": "video",
+        "id": "a7fedb59-2a3d-475b-a43f-e5de714b7729",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "54202cad-449f-4cb9-bc73-733d111a37ea",
+            "content": "Continuar"
+          }
+        ],
+        "alias": "A minha história",
+        "description": "“Nós temos sempre capacidade de ultrapassar as crises, mas por vezes convencemo-nos que não e esse é o principal problema, quando nos convencemos que não temos a capacidade para ultrapassar uma crise.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334353/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L2P11act4changecopingwithanxiety_py6r5z.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334260/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L2_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_q1eiwn.mp4"
+          }
+        ]
+      }
+    ],
+    "root": "7eef67fe-394f-424d-8996-5a02ccc153e8"
+  },
+  "pt": {
+    "id": "18ae1329-ec41-42f1-af35-1c2f1d596e8a",
+    "alias": "Pt special Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "7eef67fe-394f-424d-8996-5a02ccc153e8",
+        "alias": "Resolução de problemas face à ansiedade",
+        "title": "Resolução de problemas face à ansiedade",
+        "content": "Quando estamos ansiosos, é fácil **misturar** as coisas que podemos mudar com aquelas que não podemos.\n\nPodemos lidar melhor com as coisas que não podemos controlar praticando **a aceitação**.\n\nAceitar as coisas como são, mesmo que não gostemos delas. Isso permite-nos gastar a nossa preciosa **energia** no que **podemos controlar**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "622d5f48-a5c1-426d-b76b-e764c430825c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "622d5f48-a5c1-426d-b76b-e764c430825c",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "7a26121f-bbdc-4c91-9ec6-bac497bb024a"
+          }
+        ],
+        "alias": "Definir",
+        "title": "Resolução de problemas",
+        "content": "Vais praticar a **aceitação** na próxima lição. Por agora vamos focar nas coisas que **podes mudar**.\n\nUm problema **devidamente definido** é um problema meio resolvido.\n\nNeste exercício vais explorar algo que esteja a contribuir para a tua ansiedade e identificar o que podes fazer para o ultrapassar, desde pensar em possíveis soluções até ao planeamento de ações concretas."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7a26121f-bbdc-4c91-9ec6-bac497bb024a",
+        "alias": "Resolução de problemas passo a passo",
+        "title": "Resolução de problemas passo a passo",
+        "content": "Quando tens de definir os **gatilhos da tua ansiedade**, exemplos como \"Preocupo-me com o mundo\" são vagos e abstratos.\n\nUm exemplo mais concreto como \"*Preocupo-me com perder os meus rendimentos se a economia colapsar*\" ajuda-nos a **identificar** de forma mais clara novas **soluções** e **ações**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e0e4b81a-f9b9-45f3-b9c9-422fb8921395"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e0e4b81a-f9b9-45f3-b9c9-422fb8921395",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5076cfcf-42b2-4dec-9298-98090adfab39"
+          }
+        ],
+        "content": "**Soluções** podem ser por exemplo: “*Garantir que tenho direito ao subsídio de desemprego*” ou “*Candidatar-me a um segundo emprego*”.\n\nTendo isto em mente, define **um aspeto** da tua crise atual que te está a causar ansiedade agora.",
+        "alias": "Pré-exercício"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas.\n\n1. **Define** com a máxima precisão possível um **problema** que esteja a contribuir para a tua **ansiedade** neste momento. Certifica-te que não é algo muito avassalador para que possas tentar resolvê-lo numa semana. A resolução deve ser mensurável para saberes se a conseguiste atingir.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "10b143cf-da2c-430b-bd23-88ef317d8544"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 1",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "5076cfcf-42b2-4dec-9298-98090adfab39"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "2. Agora reflete um pouco para pensares em TODAS as **soluções** possíveis que te vêm à cabeça para resolver esse problema. Há espaço para soluções extravagantes e loucas, não te retraias.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d2d2fe6a-dbd9-4d26-aecd-af22362cd489"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 2",
+        "title": "Exercício - Passo 2",
+        "type": "writing",
+        "id": "10b143cf-da2c-430b-bd23-88ef317d8544"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "3. **Pontua** cada solução de 0 a 10, com base na tua opinião sobre o seu potencial para resolução do problema. Escreve a pontuação junto a cada ideia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "0e097c14-f4f7-4bec-8cff-e36624c96c8a"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 3",
+        "title": "",
+        "type": "writing",
+        "id": "d2d2fe6a-dbd9-4d26-aecd-af22362cd489"
+      },
+      {
+        "longDescription": "4. Analisa as tuas soluções e a pontuação que atribuíste a cada uma delas. Escolhe uma das **soluções.** \n5. Seleciona uma **hora** e um **dia** para a **implementares** na próxima semana.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a7fedb59-2a3d-475b-a43f-e5de714b7729"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 4",
+        "title": "",
+        "type": "writing",
+        "id": "0e097c14-f4f7-4bec-8cff-e36624c96c8a"
+      },
+      {
+        "type": "video",
+        "id": "a7fedb59-2a3d-475b-a43f-e5de714b7729",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "54202cad-449f-4cb9-bc73-733d111a37ea",
+            "content": "Continuar"
+          }
+        ],
+        "alias": "A minha história",
+        "description": "“Nós temos sempre capacidade de ultrapassar as crises, mas por vezes convencemo-nos que não e esse é o principal problema, quando nos convencemos que não temos a capacidade para ultrapassar uma crise.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334353/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L2P11act4changecopingwithanxiety_py6r5z.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334260/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L2_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_q1eiwn.mp4"
+          }
+        ]
+      }
+    ],
+    "root": "7eef67fe-394f-424d-8996-5a02ccc153e8"
+  }
+}

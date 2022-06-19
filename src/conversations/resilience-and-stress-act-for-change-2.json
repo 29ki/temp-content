@@ -1,0 +1,226 @@
+{
+  "en": {
+    "id": "resilience-and-stress-act-for-change-2",
+    "alias": "resilience-and-stress-act-for-change-2",
+
+    "root": "1b2c32bf-1e19-459a-9864-28ea74063e6e",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1b2c32bf-1e19-459a-9864-28ea74063e6e",
+        "content": "Stress isn't necessarily something bad or difficult. When we feel like we have **control** over a situation, a **demanding** task can actually be quite **fun**.",
+        "title": "Stress and control",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "b8cc510e-1ad5-4a26-b11c-f48e4784524e"
+          }
+        ],
+        "alias": "Intro",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628076926/Stress/bekir-donmez-eofm5R5f9Kw-unsplash_bqsydk.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b8cc510e-1ad5-4a26-b11c-f48e4784524e",
+        "content": "But when we **lack control over** a situation — for example when we can't influence or change it — our stress levels go up. \n\nSo, when **demands** are **high** and our **sense of control** is **low**, the risk of feeling **stressed** increases.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "More",
+            "sectionId": "6e4fca07-0580-4d91-923b-46812f7e3399"
+          }
+        ],
+        "alias": "Control"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6e4fca07-0580-4d91-923b-46812f7e3399",
+        "content": "In stressful situations, it's easy to **mix up** the things we can change for those we can't.\n\nWe can cope better with things we can't control by practicing **acceptance** — letting things be, as they are, even if we don't like them. This enables us to spend our precious **energy** on what we **can** **control**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Intro+"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "When we're feeling stressed, our brains are affected and **our ability to solve problems decreases**.\n\nThat's why our next step is structured **problem-solving.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Change your life",
+        "content": "When it comes to defining the problems that are causing us stress, examples like “*I feel inadequate”* are too vague. Being more **specific** might be hard at first — but it really helps us identify potential solutions.\n\n“*I can’t focus on my job because I keep getting interrupted*,” is better definition of a problem because it's **more accurate.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "1640ecb5-95aa-44f2-9e89-873f5d7ae2bc",
+            "content": "Next"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1640ecb5-95aa-44f2-9e89-873f5d7ae2bc",
+        "content": "In the next exercise, you’ll get to explore one situation that is currently causing you stress and **identify** what you can do **differently**, from brainstorming **solutions** to **planning** concrete steps.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-act-for-change-3",
+            "content": "I'm ready"
+          }
+        ],
+        "alias": "Intro exercise"
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-act-for-change-2",
+    "alias": "resilience-and-stress-act-for-change-2",
+
+    "root": "1816cf73-6411-42be-8983-1cd9a0be0432",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1816cf73-6411-42be-8983-1cd9a0be0432",
+        "content": "Stress är inte nödvändigtvis någonting jobbigt eller svårt. Om vi känner att vi har **kontroll** över situationen så kan **kravfyllda** **uppgifter** faktiskt kännas **roliga**.",
+        "title": "Stress och kontroll",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "ec846eaa-cff4-4bcb-a5ba-54c8afe20191"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628076926/Stress/bekir-donmez-eofm5R5f9Kw-unsplash_bqsydk.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ec846eaa-cff4-4bcb-a5ba-54c8afe20191",
+        "content": "Men en känsla av **brist på kontroll** — till exempel att vi inte kan påverka eller förändra situationen — leder ofta till ökad stress. \n\nSå, när **kraven** känns **höga** och **känslan** **av** **kontroll** **låg**, är det större risk att vi känner oss **stressade**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Mer",
+            "sectionId": "11b6b4ee-4d7a-4a83-a0b0-3a557f2c7905"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "11b6b4ee-4d7a-4a83-a0b0-3a557f2c7905",
+        "content": "I stressiga situationer är det lätt att **blanda ihop** vad som är möjligt att göra något åt här och nu, och vad som inte är det. \n\nDet blir enklare att hantera sakerna vi inte kan kontrollera om vi tränar på **acceptans**. Att låta saker vara precis som de är. Då kan vi istället lägga vår kraft och energi på sådant vi **faktiskt kan kontrollera**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Problemlösning",
+        "content": "När vi känner oss stressade **påverkas** våra **hjärnor** och vår **förmåga** att lösa problem **minskar**.\n\nI nästa steg kommer vi därför fokusera på **problemlösning**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Förändra ditt liv",
+        "content": "När det kommer till att definiera problemen som orsakar stress, är exempel som \"*Jag känner mig otillräcklig*\" för **vaga**. Att vara mer konkret kan vara svårt — men det hjälper oss **identifiera** potentiella **lösningar**.\n\n”*Jag kan inte fokusera på mina arbetsuppgifter eftersom jag ofta blir avbruten*” är bättre eftersom det är mycket **tydligare**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "8eddcd17-717f-4163-b5b2-92a5b1b3bf25"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8eddcd17-717f-4163-b5b2-92a5b1b3bf25",
+        "content": "I nästa övning kommer du få utforska en situation som stressar dig just nu och **kartlägga** vad du kan göra **annorlunda**; från att komma på **lösningar** till att **planera** konkreta steg.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-act-for-change-3",
+            "content": "Jag är redo"
+          }
+        ],
+        "alias": "Intro övning"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-act-for-change-2",
+    "alias": "resilience-and-stress-act-for-change-2",
+
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Resolução de problemas perante o stress",
+        "content": "Um problema bem definido é um problema meio resolvido. Mas, quando estamos stressados, os nossos problemas podem parecer nuvens negras, confusas e disformes em cima das nossas cabeças. \\\n\\\nNeste exercício, vais explorar uma situação que neste momento te está a causar stress e identificar o que podes fazer de maneira diferente: desde pensar criativamente em possíveis soluções até ao planeamento de passos concretos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Mudar o teu mundo, passo a passo",
+        "content": "Quando se trata de definir os problemas que causam stress, exemplos como “eu sinto-me inadequada/o” são muito vagos. Ser mais preciso pode ser difícil no início, mas ajuda muito. “Não consigo concentrar-me no meu trabalho porque sou constantemente interrompida/o” é um exemplo melhor na medida em que nos permite identificar soluções. Com isto em mente, vamos definir uma situação que te está a causar stress.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-act-for-change-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

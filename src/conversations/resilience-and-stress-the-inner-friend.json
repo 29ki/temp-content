@@ -2,33 +2,34 @@
   "en": {
     "id": "resilience-and-stress-the-inner-friend",
     "alias": "resilience-and-stress-the-inner-friend",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "The inner friend",
-        "content": "In this lesson you will get a feeling of what self-compassion is and how it can help you build your relation to yourself.",
+        "title": "",
+        "content": "In our lives, there’s one person we can never avoid — ourselves.\n\nIn this lesson, we'll learn more about what **self-compassion** is and why it's important to practice when we're stressed.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "i'm ready",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628078499/Stress/jared-rice-NTyBbu66_SI-unsplash_zgrol0.jpg"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Today’s lesson has four parts:\n\n* Be a good friend to yourself\n* Centering through breathing\n* A love letter to yourself\n* Sharing\n\n### You’ll need:\n\n* 25 min undisturbed time\n* Pen and paper",
+        "content": "### Learn more about:\n\n* Your inner friend\n* Finding focus through breathing\n* A letter to yourself\n\n### You’ll need:\n\n* 25 minutes\n* Pen and paper",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Let's go",
             "sectionId": "section3"
           }
         ]
@@ -37,12 +38,12 @@
         "id": "section3",
         "alias": "section3",
         "type": "editorialWithImage",
-        "title": "Being a good friend to yourself",
-        "content": "We’re all imperfect, and that is something that connects us. We’re in this together. \n\nWhen fighting this truth by trying to become perfect or flawless, we often miss out on important aspects of life.\n\nIn our lives there’s one person we will never get rid of – ourselves.",
+        "title": "",
+        "content": "Many people think they have **flaws**. And having thoughts about being **imperfect** is something most of us can relate to. \n\nIf we try to fight this by becoming \"perfect\" or \"flawless\", we often **miss** **out** on important aspects of life.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Tell me more",
             "sectionId": "section4"
           }
         ]
@@ -51,135 +52,64 @@
         "id": "section4",
         "alias": "section4",
         "type": "editorialWithImage",
-        "title": "The inner voice",
-        "content": "The way we approach ourselves may be the single most important thing over time. The inner voice we direct at ourselves will be our steady companion. \n\nWhen we are stressed, this voice often gets louder, more harsh and creates unnecessary stress and pain.",
+        "title": "Your inner voice",
+        "content": "The way we **approach** **ourselves** may be the single most important thing over time because our  inner voice will be our life-long companion. \n\nWhen we are **stressed**, this voice often gets **louder**, more **harsh** and creates unnecessary **stress** and **pain**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "e951eae3-1e21-495c-871f-c61b448e891e"
           }
         ]
       },
       {
-        "id": "section5",
-        "alias": "section5",
-        "type": "audio",
-        "title": "Find your loving voice",
-        "description": "This meditation might help you become feel more, and get in contact with your inner loving voice to prepare you for the next step of the lesson.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio%2Fcourses%2F83a9946b-af74-4186-8483-330f6d6fa74a%2FFind-Your-Loving-Voice.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
         "type": "editorialWithImage",
-        "title": "Revisit a painful memory",
-        "content": "One compassionate act towards ourselves is through a love letter to a younger version of us. \n\nNo one’s childhood is perfect. All of us have felt lonely and abandoned, or that our need of intimacy or boundaries weren’t respected. Think of a moment in time when this happened to you.\n\nWe won’t ask you to revisit your most painful memories. If you’ve been through traumatic events, you can choose a less difficult time, and think of yourself at that point.",
+        "id": "e951eae3-1e21-495c-871f-c61b448e891e",
+        "content": "**Self-compassion** is really not that different from having compassion for others. \n\nIt entails being **understanding** and **warm** towards **ourselves** when we fail or feel inadequate.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Try it out",
+            "conversationId": "resilience-and-stress-the-inner-friend-2"
           }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "writing",
-        "title": "A love letter",
-        "time": "15 min",
-        "longDescription": "In this letter you are about to write, try to talk to this younger version of yourself with a loving, caring voice. Show your younger self that you can see the negative thoughts and feelings. The difficulties you were facing. Express that you understand these thoughts and feelings. \n\nAlso tell your younger self that despite past experiences, despite doubts, it’s possible to take action and create who you are. \n\nNow, write your letter on a piece of paper and hold on to it. It doesn’t have to be long, half a page is just fine. \n\nContinue with the lesson when you are done with your love letter.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Your love letter",
-        "time": "5-10 min",
-        "question": "",
-        "longDescription": "How did it feel to write this love letter to yourself? \n\nWere you able to get in touch with feelings of compassion for yourself? \n\nIf you’d travel ten years into the future, could that future version of yourself express the same love and care for the person you are today? \n\nWhat would that future person say to the person you are today, in a few sentences?\n\nWrite your answers on a piece of paper and hold on to it, this is what you’ll be offered to share with your group.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "editorialWithImage",
-        "title": "Well done!",
-        "content": "You have completed The inner friend and practiced being a good friend to yourself by centering through breathing, and writing a love letter to a younger you. \n\nBeing a good friend to yourself may be the most important relationship you will have through life.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "You are now ready to share with your group. \n\nRemember the sharing questions: \n\nHow did you feel, writing a love letter to yourself? Did you get in touch with feelings of compassion? \n\nImagine ten years from now, could that future you express love and care for the person you are today? What would the future you say to yourself?",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
-          }
-        ]
+        ],
+        "alias": "Self-compassion"
       }
     ]
   },
   "sv": {
     "id": "resilience-and-stress-the-inner-friend",
     "alias": "resilience-and-stress-the-inner-friend",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "En inre vän",
-        "content": "I den här lektionen kommer du att få ökad förståelse av vad självmedkänsla är och hur den kan hjälpa dig att bygga relationen med dig själv.",
+        "title": "",
+        "content": "I våra liv finns det en person vi aldrig kommer bli av med — oss själva.\n\nI den här lektionen kommer vi lära oss mer om vad **självmedkänsla** är och varför det är viktigt när vi är stressade.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Jag är redo",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628078499/Stress/jared-rice-NTyBbu66_SI-unsplash_zgrol0.jpg"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Dagens lektion har fyra delar:\n\n* Var en god vän till dig själv\n* Hitta fokus genom andningen\n* Ett kärleksbrev till dig själv\n* Delning\n\n### Du kommer att behöva:\n\n* 25 min ostörd tid\n* Penna och papper",
+        "content": "### Lär dig mer om:\n\n* Din inre vän\n* Hitta fokus genom andningen\n* Skriva ett brev till dig själv\n\n### Du behöver:\n\n* 25 min \n* Penna och papper",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Sätt igång",
             "sectionId": "section3"
           }
         ]
@@ -188,8 +118,8 @@
         "id": "section3",
         "alias": "section3",
         "type": "editorialWithImage",
-        "title": "Att vara en god vän till dig själv",
-        "content": "Vi har alla fel och brister, det är något som förenar oss. Det gäller oss alla.\n\nOm vi kämpar emot den här sanningen genom att försöka vara perfekta och fläckfria är det lätt hänt att vi missar viktiga aspekter av livet.  \n\nI våra liv finns det en person vi aldrig kommer att bli av med – oss själva.",
+        "title": "",
+        "content": "Många tycker sig ha **fel** och **brister**. Det är något de flesta av oss känner igen sig i.\n\nOm vi kämpar emot det genom att försöka vara \"perfekta\" och \"fläckfria\", är det lätt hänt att vi **missar** viktiga aspekter av livet.",
         "buttons": [
           {
             "component": "Button",
@@ -202,12 +132,92 @@
         "id": "section4",
         "alias": "section4",
         "type": "editorialWithImage",
-        "title": "Den inre rösten",
-        "content": "Hur vi förhåller oss till oss själva kan vara det som är allra viktigast i längden. Den inre röst vi riktar mot oss själva kommer vara en ständig följeslagare.\n\nNär vi är stressade blir den här rösten ofta mer högljudd, hårdare i tonen och skapar onödig stress och smärta.",
+        "title": "Din inre röst",
+        "content": "Hur vi **förhåller** oss **till oss själva** kan vara det som är allra viktigast i längden. Den inre röst vi riktar mot oss själva kommer vara vår ständiga följeslagare.\n\nNär vi är **stressade** blir den här rösten ofta mer **högljudd**, **hårdare** i tonen och skapar onödig **stress** och **smärta**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "53055e1c-829f-4b9c-9496-45481a68f646"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "53055e1c-829f-4b9c-9496-45481a68f646",
+        "content": "**Självmedkänsla** skiljer sig egentligen inte från att ha medkänsla för andra. \n\nDet innefattar att vara **förstående** och **varma** mot **oss själva** när vi misslyckas eller känner oss otillräckliga.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-the-inner-friend-2",
+            "content": "Testa på"
+          }
+        ],
+        "alias": "Självmedkänsla"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-the-inner-friend",
+    "alias": "resilience-and-stress-the-inner-friend",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "type": "editorialWithImage",
+        "title": "O/a amigo/a interior",
+        "content": "Nesta lição, ficarás com uma ideia do que é a autocompaixão e como te pode ajudar a construir uma relação contigo própria/o.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543791/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L7CAPAli%C3%A7%C3%A3ooteuamigointerior_obgzco.jpg"
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "### A lição de hoje tem quatro partes:\n\n* Sê uma boa amiga ou um bom amigo para ti \n* Centrar através da respiração\n* Uma carta de amor para ti \n* Partilhar\n\n### Vais precisar de:\n\n* 25 min sossegados sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Sê uma boa amiga ou um bom amigo para ti",
+        "content": "Somos todos imperfeitos e isso é algo que nos liga. Estamos juntos nisto.\n\nQuando lutamos contra esta verdade, tentando tornar-nos perfeitos ou sem defeitos, muitas vezes acabamos por perder aspetos importantes da nossa vida.\n\nNas nossas vidas, há uma pessoa da qual nunca nos livraremos - nós próprios.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "A tua voz interior",
+        "content": "A maneira como lidamos connosco mesmos é talvez a coisa mais importante ao longo do tempo. A voz interior que dirigimos a nós mesmos será uma companheira constante.\n\nQuando estamos stressados, essa voz fica geralmente mais alta, mais áspera, criando stress e dor desnecessários.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
             "sectionId": "section5"
           }
         ]
@@ -215,104 +225,19 @@
       {
         "id": "section5",
         "alias": "section5",
-        "type": "video",
-        "title": "Ett brev till ett yngre jag",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/hanterastress_dininrevan_ovning.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_dininrevan_ovning.jpg",
+        "type": "audio",
+        "title": "Encontrar a tua voz de amor",
+        "description": "Esta meditação vai ajudar-te a sentir mais e a entrar em contato com a tua voz interior de amor, preparando-te para a próxima fase da lição.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621448723/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_20_-_Your_loving_voice_vvaghp.mp3",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-the-inner-friend-2",
             "sectionId": "section6"
           }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "audio",
-        "title": "Hitta din kärleksfulla röst",
-        "description": "Den här meditationen kan hjälpa dig att bli mer närvarande och samtidigt komma i kontakt med din inre vänliga röst för att förbereda dig inför nästa steg i lektionen.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Hitta-din-omsorgsfulla-rost.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "editorialWithImage",
-        "title": "Återbesök ett smärtsamt minne",
-        "content": "Ett sätt att ge oss själva medkänsla kan vara ett skriva ett kärleksbrev till en yngre version av sig själv. \n\nIngen har haft en helt perfekt barndom. Vi har alla känt oss ensamma och övergivna, eller att våra behov av närhet eller gränser inte blev respekterade. Tänk på något tillfälle när detta hände dig. \n\nVi tänker inte be dig att återbesöka dina mest smärtsamma minnen. Om du varit med om traumatiska händelser, välj ett minne som inte är lika tufft.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Ett kärleksbrev",
-        "time": "15 min",
-        "longDescription": "I det här brevet du ska skriva och tala till den yngre versionen av dig själv med en kärleksfull, omtänksam röst. Visa ditt yngre jag att du kan se de här jobbiga tankarna och känslorna. Svårigheterna du mötte. Förmedla att du förstår de här tankarna och känslorna.\n\nBerätta också för ditt yngre jag att trots tidigare upplevelser och trots tvivel så är det fullt möjligt att agera och skapa den du är. \n\nNu kan du skriva ditt brev på ett papper och behålla det. Det behöver inte vara långt, en halv sida räcker gott. \n\nFortsätt med lektionen när du är klar med ditt kärleksbrev.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "writing",
-        "title": "Ditt kärleksbrev",
-        "time": "5-10 min",
-        "question": "",
-        "longDescription": "Hur kändes det att skriva det här kärleksbrevet till dig själv?\n\nKunde du komma i kontakt med din självmedkänsla?\n\nOm du skulle resa tio år framåt i tiden, skulle den framtida versionen av dig kunna uttrycka liknande kärlek och omtanke för den person du är idag? \n\nI några få meningar, vad skulle den framtida versionen av dig säga till den person du är idag? \n\nSkriv dina svar på ett papper och behåll det. Det här är vad vi föreslår att delar med din grupp.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "Bra gjort!",
-        "content": "Du är nu klar med **Din inre vän**. Du har övat på att vara en god vän med dig själv genom att fokusera på dig själv med hjälp av din andning, samt skrivit ett kärleksbrev till en yngre version av dig själv.  \n\nAtt vara en god vän med dig själv kan vara det viktigaste förhållandet du kommer att ha genom livet.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Du är nu redo att dela med din grupp.\n\nHär är frågorna vi föreslår att du besvarar och tar med till din delning: \n\n1. Hur kändes det att skriva ett kärleksbrev till dig själv? Kom du i kontakt med din självmedkänsla?\n2. Föreställ dig att du reser tio år framåt i tiden, kan ditt framtida jag uttrycka kärlek och omtanke för den person du är idag? Vad skulle ditt framtida jag säga till dig?",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
-          }
-        ]
+        ],
+        "duration": "04:07"
       }
     ]
   }

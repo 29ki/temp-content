@@ -1,58 +1,58 @@
 {
   "en": {
-    "type": "lesson",
     "id": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
-    "alias": "YA stress här och nu 2",
+    "alias": "Stress YA: Being here and now 2 ",
     "root": "44272647-aec9-4d2e-9988-4533ddd6deff",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "44272647-aec9-4d2e-9988-4533ddd6deff",
-        "content": "Att fokusera på det som pågår här och nu är som en muskel som blir starkare genom träning. Att steg för steg träna på att vara i nuet när vi *inte* är stressade, hjälper oss i svårare situationer. Det är ungefär som att vi behöver träna kortare distanser innan vi kan springa ett maraton.",
-        "title": "Fokus-muskler",
+        "content": "Focusing on what's going on here and now is like a **muscle** that gets **stronger** through exercise. \\\n\\\n**Practicing** being **present** one step at a time when we aren’t stressed helps us be present in other, more difficult situations.",
+        "title": "Focus muscles",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Got it",
             "sectionId": "b2783fec-9ca7-41f0-a434-cb000c4472bf"
           }
         ],
-        "alias": "Tre saker"
+        "alias": "Three things"
       },
       {
         "type": "audio",
         "id": "b2783fec-9ca7-41f0-a434-cb000c4472bf",
-        "alias": "Fokusövning",
-        "title": "Tre saker",
-        "description": "Du ska få lyssna på en övning som hjälper dig träna dina fokus-muskler. \n\nDina tankar kommer förmodligen vandra iväg under den här övningen. Det är helt okej. Det händer oss alla. När det händer, för vänligt tillbaka din uppmärksamhet till här och nu. Övningen tar ungefär tre minuter.",
+        "alias": "Focus exercise",
+        "title": "",
+        "description": "**Listen** to an **exercise** that will help you train your **focus muscles**.\n\nYour **thoughts** will probably **wander** off during this exercise. That's OK. It happens to all of us. When it happens, just focus your attention back on the here and now.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Continue",
             "sectionId": "71c87ec4-c241-4d74-b0b0-3b966a598eef"
           }
         ],
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3"
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1618915315/Meditations/hereandnow_pliufc.mp3",
+        "duration": "3:29"
       },
       {
         "type": "editorialWithImage",
         "id": "71c87ec4-c241-4d74-b0b0-3b966a598eef",
-        "content": "Bra jobbat! Testa gärna att göra den här övningen igen när du känner dig ofokuserad, kommer hem från skolan eller jobbet, eller när du vill skifta fokus från en uppgift till en annan.",
+        "content": "**Well done on giving this exercise a go!**\\\n\\\nFeel free to do it again, whenever you want to train your focus muscles.",
         "alias": "Post-exercise",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "root"
+            "component": "NextConversationButton",
+            "content": "More",
+            "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+            "variant": "primary"
           }
         ]
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
-    "alias": "YA stress här och nu 2",
+    "alias": "Stress YA: Being here and now 2 ",
     "root": "0489da20-f5a3-485d-b156-b41bf3ba3511",
     "sections": [
       {
@@ -60,11 +60,11 @@
         "id": "0489da20-f5a3-485d-b156-b41bf3ba3511",
         "alias": "Tre saker",
         "title": "Fokus-muskler",
-        "content": "Att fokusera på det som pågår här och nu är som en muskel som blir starkare genom träning.  Det är ungefär som att vi behöver träna kortare distanser innan vi kan springa ett maraton. Att steg för steg träna på att vara i nuet när vi *inte* är stressade, hjälper oss i svårare situationer.",
+        "content": "Att fokusera på det som pågår här och nu är som en **muskel** som blir **starkare** genom träning. \\\n\\\nAtt öva på att vara här och nu när vi inte är stressade, hjälper oss vara närvarande i svårare situationer.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Förstår",
             "sectionId": "9ef26f72-a0b2-4bb4-85fd-f15ac03ecb26"
           }
         ]
@@ -72,7 +72,7 @@
       {
         "type": "audio",
         "id": "9ef26f72-a0b2-4bb4-85fd-f15ac03ecb26",
-        "description": "Du ska få lyssna på en övning som hjälper dig träna dina fokus-muskler. \n\nDina tankar kommer förmodligen vandra iväg under den här övningen. Det är helt okej. Det händer oss alla. När det händer, för vänligt tillbaka din uppmärksamhet till här och nu. Övningen tar ungefär tre minuter.",
+        "description": "Du ska få **lyssna** på en **övning** som hjälper dig träna dina **fokus-muskler**. \n\nDina **tankar** kommer förmodligen **vandra** iväg under den här övningen. Det är helt okej. Det händer oss alla. När det händer, för vänligt tillbaka din uppmärksamhet till här och nu.",
         "buttons": [
           {
             "component": "Button",
@@ -81,7 +81,8 @@
           }
         ],
         "alias": "Fokusövning",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3"
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/tre-saker-meditation.mp3",
+        "duration": "3:29"
       },
       {
         "type": "defaultSection",
@@ -92,7 +93,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Bra jobbat! Testa gärna att göra den här övningen igen när du vill träna dina fokus-muskler."
+                "content": "**Bra gjort, du har nu testat en ny övning!** \n\nTesta gärna att göra den igen när du vill träna dina fokus-muskler."
               }
             ]
           },
@@ -100,14 +101,66 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Fortsätt",
-                "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d"
+                "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+                "variant": "primary"
               }
             ]
           }
         ],
         "alias": "Post-exercise"
+      }
+    ]
+  },
+  "pt": {
+    "id": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+    "alias": "Stress YA: Being here and now 2 ",
+    "root": "44272647-aec9-4d2e-9988-4533ddd6deff",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "44272647-aec9-4d2e-9988-4533ddd6deff",
+        "content": "Focar-se no que está a acontecer aqui e agora é como um **músculo** que fica **mais forte** com o exercício. \\\n\\\n**Praticar** estar **presente** um passo de cada vez quando não estamos stressadas/os ajuda-nos a estar presentes noutras situações mais difíceis.",
+        "title": "Músculos do foco",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi ",
+            "sectionId": "b2783fec-9ca7-41f0-a434-cb000c4472bf"
+          }
+        ],
+        "alias": "Três coisas"
+      },
+      {
+        "type": "audio",
+        "id": "b2783fec-9ca7-41f0-a434-cb000c4472bf",
+        "alias": "Exercício de foco",
+        "title": "",
+        "description": "**Ouve** um **exercício** que te vai ajudar a treinar os teus **músculos de foco**. \n\nProvavelmente os teus **pensamentos** vão **vaguear** durante este exercício. Não há problema. Isso acontece com todos nós. Quando isso acontecer, concentra a tua atenção novamente no aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "71c87ec4-c241-4d74-b0b0-3b966a598eef"
+          }
+        ],
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893699/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Meditations%20Exercises%20Audio/Lidar_com_o_Stress_-_Aqui_e_agora_-_MUSCULOS_DO_FOCO_-_05_52_ldfb6z.mp3",
+        "duration": "5:52"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "71c87ec4-c241-4d74-b0b0-3b966a598eef",
+        "content": "**Parabéns por dares uma hipótese a este exercício!**\\\n\\\nSente-te à vontade para o fazeres novamente, sempre que quiseres treinar os teus músculos de foco.",
+        "alias": "Pós-exercício ",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+            "variant": "primary"
+          }
+        ]
       }
     ]
   }

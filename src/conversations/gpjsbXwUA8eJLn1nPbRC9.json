@@ -1,0 +1,648 @@
+{
+  "en": {
+    "id": "gpjsbXwUA8eJLn1nPbRC9",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Your choices",
+        "title": "Your choices",
+        "content": "You've come such a long way! Let’s continue in this spirit. It's time to dive into your own values. This will take you even further on the path towards a more meaningful life.\n\n### Today’s lesson has three parts:\n\n* How to own your values\n* How to make your values authentic\n* How to tackle conflicting values\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Your compass from lesson 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Your Choice",
+        "title": "Your Choice",
+        "content": "### Sometimes we feel like we’re not in charge of our own lives.\n\nThis can happen when our values are about **feeling** in a certain way instead of **behaving** in a certain way. For example “feeling good about my body” instead of “treating my body with respect by eating well”. \n\nLife isn’t all coincidences and random choices. What we do in life is up to us. How we feel, however, is not entirely up to us. It's through our own choices that we get to create a life that feels meaningful, even in challenging circumstances.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Choosing to act",
+        "title": "Choosing to act",
+        "content": "It’s time to revisit your values from **the *Compass*** exercise.\n\nThe purpose of this exercise is to explore whether your values are about **feeling** a certain way or **behaving** a certain way. A value aimed at a feeling is “Having a loving relationship with my family”. A value aimed at a behavior is “Acting in a loving way towards my family”. \n\nThe trick here is to identify what's within your control when it comes to, for example, your family. By focusing on our actions instead of our feelings we increase our chances of achieving them.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Aiming at behaviors",
+        "title": "Aiming at behaviors",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answer down on a piece of paper.",
+        "longDescription": "The simplest way to know if your value is about a behavior is by asking yourself: \n\n1. Can I move my life in this direction either by thinking in a certain way or by acting in a certain way? \n2. What can I control directly?\n\nLook at your values in *The Compass*: Are any of them aimed at feeling something rather than doing something? The reason why that’s important is because our behaviors are key to getting more of what we want in life. If any of your values aim at a feeling, have a go at rewriting that value by keeping what’s important to you in mind but aiming at an action it would take to achieve it instead of the feeling.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "Aiming at behaviors",
+        "title": "Aiming at behaviors",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_3/L3-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_3/S3_02_values_as_behaviours.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Recalibrating your compass",
+        "title": "Recalibrating your compass",
+        "time": "5-10 minutes",
+        "longDescription": "Look at the values in your **compass.** \n\n* Are any of them aimed at feeling something rather than doing something? The reason why that’s important is because our behaviors are key to getting more of what we want in life. \n* If any of your values are about achieving a certain feeling, have a go at rewriting that value. Keep what’s important to you in mind, but focus on the actions it would take to achieve that feeling instead of the feeling itself.\n\nWrite down your answers.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Authentic values",
+        "title": "Authentic values",
+        "content": "Sometimes it’s hard to distinguish between what we value ourselves and what others expect from us. These things aren’t always mutually exclusive. Values motivated by others can be a good thing. We just don’t want them to clash with our own values which are in closer alignment with who we want to be and how we want to live.\n\nIf the approval of others is the only reward we get while striving for something, it can make us less motivated to act. Especially if you find the value itself being less important than the people you’re trying to please. Thinking from other perspectives can be a useful tool for finding out which values are true to you. Let’s explore this more in the next exercise.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Authentic values",
+        "title": "Authentic values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_3/L3-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_3/S3_03_value_benefits.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "New perspectives",
+        "title": "New perspectives",
+        "time": "5-10 minutes",
+        "question": "Write down your answers to the following questions:",
+        "longDescription": "1. Think about who benefits from the values in your Compass? In what way?\n2. Do any of your values contain words like *“I should”, “I must”* or “*I want*”? If yes, what does this tell you about who owns them?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Conflicting values",
+        "title": "Conflicting values",
+        "content": "Having conflicting values is difficult but normal. How we behave in one area of life might be in line with the values in that area, but at the same time go against the values we have in another area. For example: *“I value being dedicated and spending a lot of time at work”* and *“I also value spending time with my family”*. Since time is limited, it can be difficult to achieve both at once. \n\nAnother example is: *“I value being a good person”* and *“I also value being straightforward”*. This might be hard to achieve since being straightforward can also make us come across as insensitive. \n\nAdopting a **good enough** strategy can be very useful when it comes to conflicting values. Doing something well enough is not perfect, but necessary in some situations. The challenge is in identifying which of your values are in conflict with each other and how you can find a balance by setting your expectations to good enough. You can develop this skills with some practise.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "video",
+        "alias": "Conflicting values",
+        "title": "Conflicting values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_3/L3-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_3/S3_01_conflicting_values.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "writing",
+        "alias": "Balance is key",
+        "title": "Balance is key",
+        "time": "5-10 minutes",
+        "question": "",
+        "longDescription": "Look at the values written in your **Compass**. Do any of your values contradict each other? For example: “*I value being dedicated and spending a lot of time at work and I also value spending time with my family”.* Try to think of ways to balance them by using a good enough strategy. Write down what this would look like for you.\n\nThis is what you’ll be offered to share with your group.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "You've now completed **Your Choices.**\n\nIn this lesson you've re-calibrated your **Compass.** From making sure that your values aim at a behavior and not a feeling, to taking more ownership for your values and learning how to live in line with your values in different areas of life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "You're now ready to share.\n\n1. Does any of your values contradict each other? \n2.  Try to think of ways to balance them by using a good enough strategy",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Your choices"
+  },
+  "sv": {
+    "id": "gpjsbXwUA8eJLn1nPbRC9",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Dina val",
+        "title": "Dina val",
+        "content": "Du har kommit så långt! Låt oss fortsätta i denna anda. Det är dags att dyka in i dina värden. Detta tar dig ännu längre på vägen mot ett mer meningsfullt liv.\n\n### Dagens lektion består av tre delar:\n\n* Hur du gör dina värden till ditt val\n* Hur man gör dina värden autentiska\n* Hur man hanterar motstridiga värden\n\n### Du kommer att behöva:\n\n* 40 min ostörd tid\n* Din kompass från lektion 2\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Ibland känns det som om vi inte ansvarar för våra egna liv",
+        "title": "Ibland känns det som om vi inte ansvarar för våra egna liv",
+        "content": "Detta kan hända när vi riktar våra värderingar mot att känna på ett visst sätt istället för att bete oss på ett visst sätt. Till exempel \"Att må bra om min kropp\" istället för \"Behandla min kropp med respekt genom att äta gott\".\n\nLivet är inte alla tillfälligheter och slumpmässiga val. Vad vi väljer att göra i livet är upp till oss. Hur vi känner, å andra sidan, är inte helt upp till oss. Det är genom våra egna val som vi får skapa ett liv som känns meningsfullt, även under de värsta omständigheterna.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Väljer att bete sig på ett visst sätt",
+        "title": "Väljer att bete sig på ett visst sätt",
+        "content": "Det är dags att se över dina värden från * Kompass * -övningen.\n\nSyftet med denna övning är att utforska om värdena är inriktade på att * känna * ett visst sätt eller * uppträda * på ett visst sätt. Ett värde som riktar sig till en känsla är ”Att ha en kärleksfull relation med min familj”. Ett värde riktat mot beteende är ”Att agera på ett kärleksfullt sätt gentemot min familj”. Tricket här är att identifiera vad som ligger inom din kontroll när det gäller att öka chanserna att ha ett kärleksfullt förhållande.\n\n### Sikta på beteenden\n\nVad är ett beteende?\n\nDet enklaste sättet att veta om du riktar ditt värde till ett beteende är att fråga dig själv: ”Kan jag flytta mitt liv i den här riktningen antingen genom att tänka på ett visst sätt eller agera på ett visst sätt? Vad kan jag styra direkt? ”\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Sikta på beteenden",
+        "title": "Sikta på beteenden",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_3/L3-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_3/S3_02_values_as_behaviours.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Sikta på beteenden",
+        "title": "Sikta på beteenden",
+        "time": "Ta 5-10 minuter",
+        "question": "För följande frågor, skriv ner ditt svar på ett papper.",
+        "longDescription": "Titta på dina värden i * Kompassen *: Är någon av dem inriktade på att känna något snarare än att göra något? Anledningen till att det är viktigt är att vårt beteende är nyckeln till att få mer av det vi vill ha i livet. Om något av dina värderingar syftar till en känsla, bör du skriva om det värdet genom att hålla det som är viktigt för dig i åtanke, men sikta på en åtgärd som krävs för att uppnå det istället för känslan.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Autentiska värden",
+        "title": "Autentiska värden",
+        "content": "Ibland är det svårt att skilja mellan vad vi värdesätter oss själva och vad de andra förväntar sig av oss. Dessa saker exkluderar inte ömsesidigt. Värdena motiverade av vad andra tycker kan vara riktigt bra. Vi vill bara inte att de ska kollidera med våra egna värderingar som stämmer överens med vem vi vill vara och hur vi vill leva våra liv.\n\nOm andras godkännande är det enda omhärdade vi får när vi strävar efter något, kan det göra oss mindre motiverade att agera på det. Särskilt om du tycker att värdet i sig är mindre viktigt än de människor du försöker behaga. Att tänka från olika perspektiv kan vara ett användbart verktyg för att ta reda på vilka värden som är sanna för dig. Låt oss utforska detta mer i nästa övning.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "alias": "Autentiska värden",
+        "title": "Autentiska värden",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_3/L3-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_3/S3_03_value_benefits.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Nya perspektiv",
+        "title": "Nya perspektiv",
+        "time": "Ta 5-10 minuter",
+        "question": "För följande frågor, skriv ner ditt svar på ett papper.",
+        "longDescription": "Tänk på vem som drar nytta av värdena i din kompass? På vilket sätt? Skriv ner dina svar.\n\nInnehåller några av dina värden ord som \"Jag borde\", \"Jag måste\" eller \"Jag vill\"? Om ja, vad berättar detta om vem som äger dem? Skriv ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Motstridiga värden",
+        "title": "Motstridiga värden",
+        "content": "Att ha motstridiga värderingar är svårt och normalt. Hur vi beter oss i ett område av livet kan vara i linje med värdena i det området, men samtidigt gå emot de värden vi har i ett annat område. Till exempel: \"Jag uppskattar att vara dedikerad och spendera mycket tid på jobbet\" och \"Jag uppskattar också att spendera tid med min familj\". Eftersom tiden är begränsad kan det vara svårt att uppnå båda på en gång.\n\nEtt annat exempel är: \"Jag värdesätter att vara en bra person\" och \"Jag värdesätter också att vara rak\". Det kan vara svårt att uppnå eftersom det att vara enkelt kan också få oss att vara okänsliga.\n\nAtt anta en tillräckligt bra strategi kan vara mycket användbar när det gäller motstridiga värden. Att göra något tillräckligt bra är inte perfekt, men nödvändigt i vissa situationer. Utmaningen ligger i att identifiera vilka av dina värden som är i konflikt med varandra och hur du kan hitta en balans genom att ställa dina förväntningar tillräckligt bra. Du kan utveckla dessa färdigheter med lite övning.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Motstridiga värden",
+        "title": "Motstridiga värden",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_3/L3-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_3/S3_01_conflicting_values.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "alias": "Balans är nyckeln",
+        "title": "Balans är nyckeln",
+        "time": "Ta 5-10 minuter",
+        "question": "Skriv ner dina svar på ett papper. Det här är vad du kommer att erbjudas att dela med din grupp.",
+        "longDescription": "Titta på dina värden från kompassen. Finns det några värden som strider mot varandra? Som \"Jag uppskattar att vara dedikerad och spendera mycket tid på jobbet och jag uppskattar också att spendera tid med min familj\". Försök att tänka på sätt att balansera genom att bete dig tillräckligt bra i linje med båda värdena.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat, du har slutfört övningen **{{lessonName}}.** Du har gjort något värdefullt för dig själv.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Your choices"
+  },
+  "pt": {
+    "id": "gpjsbXwUA8eJLn1nPbRC9",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "As tuas escolhas",
+        "title": "As tuas escolhas",
+        "content": "Já percorreste um longo caminho! Vamos continuar com este espírito. Vamos agora mergulhar nos teus próprios valores. Vais chegar ainda mais longe no caminho para uma vida com mais significado.\n\n### A lição de hoje tem três partes:\n\n* Como tornar os valores verdadeiramente teus\n* Como tornar os teus valores autênticos\n* Como lidar com valores conflituosos\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* A tua bússola da lição 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "A tua escolha",
+        "title": "A tua escolha",
+        "content": "### Por vezes sentimos que não comandamos as nossas próprias vidas.\n\nIsto pode acontecer quando os nossos valores estão relacionados com **sentirmo-nos** de uma certa forma em vez de **nos comportarmos** de uma certa forma. Por exemplo, “sentir-me bem com o meu corpo” em vez de “tratar o meu corpo com respeito comendo bem”.\n\nA vida não são só coincidências e escolhas aleatórias. O que fazemos na vida depende de nós. Como nos sentimos, no entanto, não depende inteiramente de nós. Só através das nossas próprias escolhas podemos criar uma vida que pareça ter significado, mesmo em circunstâncias desafiantes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Escolher agir",
+        "title": "Escolher agir",
+        "content": "Está na altura de revisitares os teus valores do exercício ***A Bússola***.\n\nO objetivo deste exercício é explorar se os teus valores estão relacionados com **sentir** de uma certa maneira ou **comportar-se** de uma determinada maneira. Um valor que visa um sentimento é “Ter uma relação de amor com a minha família”. Um valor mais voltado para um comportamento é “Agir com amor para com a minha família”.\n\nO truque aqui é identificar o que está sobre o teu controlo quando se trata, por exemplo, da tua família. Quando nos concentramos nas nossas ações em vez dos nossos sentimentos, aumentamos as nossas probabilidades de os alcançar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Ter em vista os nossos comportamentos ",
+        "title": "Ter em vista os nossos comportamentos ",
+        "time": "Tira 5-10 min",
+        "question": "Escreve num papel as respostas às perguntas",
+        "longDescription": "A forma mais simples de saberes se o teu valor está relacionado com um comportamento é perguntares a ti mesma/o:\n\n1. Posso levar a minha vida nesta direção pensando de uma certa maneira ou agindo de uma certa forma?\n2. O que posso controlar diretamente?\n\nOlha para os teus valores no exercício *A* *Bússola*: algum deles tem por objetivo sentir em vez de fazer alguma coisa? A razão pela qual isto é importante é porque os nossos comportamentos são a chave para conseguirmos mais do que queremos na vida. Se algum dos teus valores pretende chegar a um sentimento, experimenta reescrever esse valor. Mantém em mente o que é importante para ti, mas concentra-te nas ações necessárias para atingir esse sentimento, em vez do sentimento em si.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "Ter em vista os comportamentos",
+        "title": "Ter em vista os comportamentos",
+        "description": "“Com humildade, (…) é um valor que eu acho que também faz muito sentido e é absolutamente essencial. (…) Somos.(…) Não precisamos de adjectivar, não faz falta.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L3P5YOURCHOICES_sb4wnp.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020635/29k%20FJN/Courses/Values/Videos%209:16/L3_Values_V1_-_9x16_xzczw9.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Calibra a tua bússola",
+        "title": "Calibra a tua bússola",
+        "time": "5-10 min",
+        "longDescription": "Olha para os valores na tua **bússola.** \n\n* Algum deles tem por objetivo sentir algo em vez de fazer alguma coisa? Isto é importante porque os nossos comportamentos são a chave para conseguir mais do que queremos na vida.\n* Se algum dos teus valores se refere a atingir um certo sentimento, experimenta reescrever esse valor. Mantém em mente o que é importante para ti, mas concentra-te nas ações necessárias para atingir esse sentimento, em vez do sentimento em si.\n\nEscreve as tuas respostas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Os valores autênticos",
+        "title": "Os valores autênticos",
+        "content": "Por vezes é difícil distinguir entre o que valorizamos e o que os outros esperam de nós. Estas perspetivas nem sempre são mutuamente exclusivas. Os valores motivados pelos outros podem ser uma coisa boa. Só não queremos que entrem em conflito com os nossos próprios valores, que estão mais alinhados com quem queremos ser e como queremos viver.\n\nSe a aprovação dos outros é a única recompensa que recebemos enquanto lutamos por alguma coisa, isso pode tornar-nos menos motivados para agir. Especialmente se achares que o valor em si é menos importante do que as pessoas a quem estás a tentar agradar. Pensar noutras perspetivas pode ser uma ferramenta útil para encontrares os teus verdadeiros valores. Vamos explorar mais isto no próximo exercício.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "Os valores autênticos",
+        "title": "Os valores autênticos",
+        "description": "“(...) quando nos colocamos numa postura de servir, (…) e o fazemos com prazer, vamos percebendo que nem sempre as preocupações materiais (…) estão focadas com o essencial.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L3P8YOURCHOICES_hob5c1.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020647/29k%20FJN/Courses/Values/Videos%209:16/L3_Values_V2_-_9x16_mbsdsk.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Perspetivas novas",
+        "title": "Perspetivas novas",
+        "time": "5-10 min",
+        "question": "Responde por escrito às seguintes perguntas:",
+        "longDescription": "1. Pensa em quem beneficia dos valores na tua Bússola. De que forma isso acontece?\n2. Algum dos teus valores tem palavras como *“Eu posso”, “Eu devo”* ou “*Eu quero*”? Se sim, o que é que isso te diz relativamente a quem os possui?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Os valores contraditórios",
+        "title": "Os valores contraditórios",
+        "content": "Ter valores contraditórios é difícil, mas normal. O modo como nos comportamos numa área da vida pode estar de acordo com os valores nessa área, mas ao mesmo tempo contradizer os valores que temos noutra área. Por exemplo: *“Valorizo ser dedicada/o e passar muito tempo no trabalho”* e *“Também valorizo estar com a minha família”*. Como o tempo é limitado, pode ser difícil conseguir ambos em simultâneo.\n\nOutro exemplo é: *“Valorizo ser uma boa pessoa”* e *“Também valorizo ser franca/o”*. Isso pode ser difícil de conseguir, pois ser franca/o também nos pode fazer parecer insensíveis.\n\nAdotar uma estratégia **boa o suficiente** pode ser muito útil quando se trata de valores contraditórios. Fazer uma coisa suficientemente bem não é perfeito, mas é necessário em algumas situações. O desafio é identificar quais dos teus valores estão em conflito uns com os outros e como podes encontrar o equilíbrio, pensando nas tuas expectativas como boas o suficiente. Podes desenvolver estas capacidades com alguma prática.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "video",
+        "alias": "Os valores contraditórios",
+        "title": "Os valores contraditórios",
+        "description": "“Claro que eu sentia alguma frustração por estar a ponderar deixar a carreira com que tinha sonhado, médico. (…) mas, ao mesmo tempo também sentia que a obra do meu avô e do meu pai merecia o meu respeito (…) e eu meti na cabeça que se eu não houvesse alguém como eu que agarrasse e pudesse fazer as coisas, a empresa poderia soçobrar.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L3P11YOURCHOICES_yepbyk.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020673/29k%20FJN/Courses/Values/Videos%209:16/L3_Values_V3_-_9x16_keky6b.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "writing",
+        "alias": "O equilíbrio é a chave",
+        "title": "O equilíbrio é a chave",
+        "time": "5-10 min",
+        "question": "",
+        "longDescription": "Olha para os valores escritos na tua **Bússola**. Há valores que se contradizem? Por exemplo: “*Valorizo ser dedicada/o e passar muito tempo no trabalho e também valorizo passar tempo com minha família”.* Tenta pensar em formas de os equilibrar usando uma estratégia boa o suficiente. Escreve como farias isto.\n\nIsto será o que vais partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **As tuas escolhas**.\n\nNesta lição recalibraste a tua **Bússola**. Desde garantir que os teus valores têm como objetivo um comportamento e não um sentimento a assumir a posse dos teus valores e a aprender como viver de acordo com os teus valores nas diferentes áreas da tua vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Agora já podes partilhar.\n\n1. Tens valores que se contradizem? \n2. Tenta pensar em estratégias suficientemente boas para os equilibrar",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Your choices"
+  }
+}

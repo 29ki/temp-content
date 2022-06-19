@@ -1,0 +1,86 @@
+{
+  "en": {
+    "screenTitle__markdown": "## Ready to plan your first ~~sharing?~~",
+    "subHeading": "This can be changed in group settings at any time.",
+    "context": {
+      "label": "Select a topic",
+      "placeholder": "Any topic"
+    },
+    "timing": {
+      "mondays": "Mondays",
+      "tuesdays": "Tuesdays",
+      "wednesdays": "Wednesdays",
+      "thursdays": "Thursdays",
+      "fridays": "Fridays",
+      "saturdays": "Saturdays",
+      "sundays": "Sundays",
+      "selectedDate__markdown": "Future sharings will be scheduled on **{{selectedDate}}** at **{{time}}.**",
+      "date": {
+        "label": "Pick a date",
+        "placeholder": "Any date"
+      },
+      "time": {
+        "label": "Select a time",
+        "placeholder": "Any time"
+      }
+    },
+    "buttonLoading": "Loading",
+    "button": "Next"
+  },
+  "sv": {
+    "screenTitle__markdown": "## Redo att planera er första ~~delning?~~",
+    "subHeading": "Det här går att ändra i gruppinställningarna senare",
+    "context": {
+      "label": "Välj ämne",
+      "placeholder": "Inget ämne"
+    },
+    "timing": {
+      "mondays": "måndagar",
+      "tuesdays": "tisdagar",
+      "wednesdays": "onsdagar",
+      "thursdays": "torsdagar",
+      "fridays": "fredagar",
+      "saturdays": "lördagar",
+      "sundays": "söndagar",
+      "selectedDate__markdown": "Framtida delningar kommer vara på **{{selectedDate}}** klockan **{{time}}.**",
+      "date": {
+        "label": "Välj startdatum",
+        "placeholder": "Inget datum"
+      },
+      "time": {
+        "label": "Välj tid",
+        "placeholder": "Ingen tid"
+      }
+    },
+    "buttonLoading": "Laddar",
+    "button": "Nästa"
+  },
+  "pt": {
+    "screenTitle__markdown": "## Planeia a tua ~~primeira partilha?~~",
+    "subHeading": "Podes fazer alterações nas configurações do grupo sempre que quiseres.",
+    "context": {
+      "label": "Seleciona um tópico",
+      "placeholder": "Que tópico"
+    },
+    "timing": {
+      "mondays": "Segunda-feira",
+      "tuesdays": "Terça-feira",
+      "wednesdays": "Quarta-feira",
+      "thursdays": "Quinta-feira",
+      "fridays": "Sexta-feira",
+      "saturdays": "Sábado",
+      "sundays": "Domingo",
+      "selectedDate__markdown": "As partilhas futuras serão agendadas para **{{selectedDate}}** às **{{time}}.**",
+      "date": {
+        "label": "Escolhe uma data",
+        "placeholder": "Que date"
+      },
+      "time": {
+        "label": "Hora",
+        "placeholder": "Que Hora"
+      }
+    },
+    "buttonLoading": "A carregar",
+    "button": "Próximo"
+  }
+}

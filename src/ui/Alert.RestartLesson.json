@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Are you sure you want to restart this lesson?",
+    "text": "All your progress will be lost.",
+    "cancelButton": "Cancel",
+    "restartButton": "Start over"
+  },
+  "sv": {
+    "title": "Är du säker på att du vill starta om lektionen?",
+    "text": "All historik kommer raderas.",
+    "cancelButton": "Avbryt",
+    "restartButton": "Börja om"
+  },
+  "pt": {
+    "title": "Tens a certeza que desejas reiniciar esta lição?",
+    "text": "Todo o teu progresso será perdido.",
+    "cancelButton": "Cancelar",
+    "restartButton": "Recomeçar"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "en": {
+    "name": "Sharing FAQ",
+    "questions": [
+      {
+        "question": "Are group sharings recorded?",
+        "answer": "No. 29k never records sharing sessions. You will always remain in control over what you share and with whom, without worrying about being recorded."
+      },
+      {
+        "question": "I'm alone in the sharing, what should I do?",
+        "answer": "We're sorry to hear that. When waiting for others to join, please have patience. It might take a week or two for people to join a group, or understand how and when the sharing is taking place. Try using chat messages in the group to ask if others plan to join the next time. If no one answers, or if you'd rather want start immediately, try to see if you can find another group to join.\n\nIf you can't find an active group that fits your schedule, you can always create a new group — either one open to other users, or a private one that can only be joined by people you share the group invite link with."
+      },
+      {
+        "question": "Someone in the group can't join the next sharing",
+        "answer": "If this happens during your first sharing, we recommend that you postpone the sharing session to a new day and time. Feedback from our users tells us that it's best for the group dynamics if everyone in a group can attend the first sharing.\n\nIf someone is sick during any later sharing, we still recommend finding a new time, as long as it doesn't happen at the expense of consistency. At the end of the day, we encourage you and your group to find what works best for you."
+      },
+      {
+        "question": "We need to re-schedule our sharing session",
+        "answer": "To set a new time and day for your next sharing session, open the settings by clicking the cogwheel icon in the top left corner. Here you can also change your group's privacy settings, change which lesson the group is currently doing, invite new members and edit your group description."
+      },
+      {
+        "question": "I have bad connection and/or the video isn't working",
+        "answer": "1. Make sure you have a stable internet connection.\n2. Restart the app. Make sure you have the latest app version.\n3. Turn off your camera and do the sharing using audio only.\n4. You're always welcome to reach out to us for help or feedback. Contact 29k at help@29k.org. We try to answer as quickly as possible."
+      },
+      {
+        "question": "How much should I share with my group",
+        "answer": "*You* are the world-leading expert on *you*. Therefore we encourage you to listen to yourself at every step of the process.\n\nYou get to decide how much you want to share at any given moment. This is not a competition, rather exercise self-compassion by following your inner wisdom when it comes to your needs.\n\nShare to a point where you challenge yourself, gently pushing on the borders of your comfort zone, while still staying safe and being gentle with yourself."
+      },
+      {
+        "question": "I'm overwhelmed in a sharing with my group. Help!",
+        "answer": "We encourage you to always listen to yourself. Here are some quick tips:\n\n* Remember you can always leave the sharing by hanging up without explaining why. If you do this, please consider explaining what happened in the group chat later.\n* If you want to stay in the sharing, but need some space, feel free to say something along the lines of “This feels a bit too intense for me right now. I choose to stay here and just listen for a while.”\n* Try one of the meditations in the Safety Toolkit (that you can reach via the heart shield icon).\n* Remember that you decide your pace at all times. If the sharing gets too intense, feel free to temporarily distract yourself or think of something else for a while as a way to self-regulate."
+      },
+      {
+        "question": "I feel uncomfortable in relation to one or more group members, what can I do?",
+        "answer": "Creating a respectful and nurturing group is vital and can be challenging at times. It is also a task that takes time and collaboration and can be a valuable life skill outside the course environment. Here are some general suggestions:\n\n* Find the right moment to voice your concerns and speak openly about them.\n* A good starting point is by sharing what your current experience is. A constructive way to do this is by starting with ’I’. For example \"*I am not feeling fully comfortable right now. It might have something to do with … and I wonder if someone else can relate to this?\".*"
+      },
+      {
+        "question": "I want to leave my group",
+        "answer": "You can leave your group or a sharing whenever you want to. We recommend that you send your group a message when leaving. \n\nTo leave your group, go to the settings symbol (cogwheel) in the top left corner and click on \"Leave my group\"."
+      },
+      {
+        "question": "How do we know what we should talk about in this sharing session?",
+        "answer": "Many lessons have specific instructions on what to bring up during video sharing. It is a good habit to note them down or revisit them in the lesson before the scheduled sharing time. Other than that, you can focus on what feels alive in you and share your general reflections from the exercises.\n\nThese questions can maybe help you think:\n\n* What did you write down?\n* What did you learn about yourself?\n* What feelings arose in you when you did the exercises and why?"
+      },
+      {
+        "question": "What should we do if not all participants have completed this lesson? ",
+        "answer": "It's up to every group to decide how to proceed if this happens. Decide if you'd like to postpone the sharing or continue with the sharing as planned. The person who hasn't done the lesson can choose whether to only listen in or participate."
+      }
+    ]
+  },
+  "sv": {
+    "name": "Sharing FAQ",
+    "questions": [
+      {
+        "question": " Spelas videodelningarna in?",
+        "answer": "Nej. 29k spelar aldrig in videodelningar. Du har alltid kontroll över vad du delar och med vem, utan att behöva oroa dig över att något spelas in."
+      },
+      {
+        "answer": "Vad tråkigt att höra. Ha gärna tålamod när du precis har gått med i eller skapat en grupp utan andra deltagare. Ibland tar det en eller två veckor för personer att gå med i en grupp. Det kan också ta lite tid för personer att förstå hur en gruppdelning går till.\n\nFråga gärna i chatten om de andra deltagarna planerar att delta på kommande delning. Om du inte får några svar, eller om du vill sätta igång direkt, se om du kan hitta en annan grupp att gå med i.\n\nOm du inte kan hitta en grupp som passar ditt schema går det alltid att skapa en ny grupp. Här finns två alternativ: en öppen grupp som andra användare kan ansluta till, eller en privat grupp som du kan bjuda in vänner och bekanta till.",
+        "question": "Jag är ensam i gruppdelningen, vad ska jag göra? "
+      },
+      {
+        "question": "En i vår grupp kan inte delta på nästa delning",
+        "answer": "Om en eller flera personer inte kan delta under er första gruppdelning rekommenderar vi att ni bokar om tiden. Feedback från våra användare visar att det bästa för gruppdynamiken är om alla i gruppen kan delta vid första tillfället.\n\nOm någon är sjuk under någon av de övriga delningarna rekommenderar vi återigen att ni försöker hittar en ny tid — så länge det inte sker på bekostnad av gruppens kontinuitet. Men till syvende och sist uppmuntrar vi er att ta det beslutet som ni tror fungerar bäst för er grupp."
+      },
+      {
+        "question": "Vi behöver boka om tiden för vår gruppdelning",
+        "answer": "För att byta dag och/eller tid för er nästa gruppdelning, öppna inställningarna i gruppchatten genom att klicka på kugghjulsikonen i det vänstra hörnet. Här kan ni även ändra gruppens sekretessinställningar, gruppbeskrivningen, vilken lektion ni gör samt bjuda in nya medlemmar."
+      },
+      {
+        "question": "Jag har dålig uppkoppling/videon fungerar inte",
+        "answer": "1. Dubbelkolla att du har en stabil internetuppkoppling.\n2. Starta om appen. Se till att du har den senaste versionen av appen.\n3. Stäng av din kamera och använd enbart ljudet.\n4. Du är alltid välkommen att höra av dig till oss för hjälp eller feedback. Kontakta 29k på [help@29k.org](mailto:help@29k.org). Vi återkommer så snart vi kan."
+      },
+      {
+        "question": "Hur mycket borde jag dela med mig av mina känslor och tankar?",
+        "answer": "*Du* är den världsledande experten på *dig*. Därför uppmuntrar vi dig att känna efter hur det känns för dig.\n\nDu bestämmer själv hur mycket du vill dela med dig av. Det är inte en tävling. Se det istället som ett tillfälle där du kan du träna på självmedkänsla genom att följa din inre visdom och vad den säger om dina behov.\n\nDela tills dess att du utmanar dig själv. Testa försiktigt gränserna för vad du känner dig bekväm med. Men se till att alltid känna dig trygg och vara snäll mot dig själv."
+      },
+      {
+        "question": "Jag blir överväldigad när jag delar med min grupp... Hjälp!",
+        "answer": "Vi uppmuntrar dig att alltid lyssna på dig själv. Här är några snabba tips när du känner dig överväldigad av starka känslor:\n\n* Kom ihåg att du alltid kan lämna en gruppdelning genom att lägga på. Du behöver inte förklara varför du vill lämna i stunden. Överväg däremot gärna om du vill förklara vad som hände i gruppchatten efteråt.\n* Om du vill stanna kvar i samtalet men behöver lite utrymme kan du säga något i stil med “Det här känns lite för intensivt för mig just nu. Jag väljer att stanna kvar och bara lyssna ett tag.“\n* Prova en av fokusövningarna i Trygghetsfunktionerna (som du kan nå genom att klicka på skölden med ett hjärta i).\n* Du bestämmer din egen takt. Om gruppsamtalet blir för intensivt kan du försöka distrahera dig själv tillfälligt eller tänka på något annat ett tag som ett sätt att reglera dina känslor."
+      },
+      {
+        "question": "Jag känner mig obekväm när det gäller en eller flera gruppmedlemmar, vad kan jag göra?",
+        "answer": "Att skapa en miljö som kännetecknas av respekt och omsorg är avgörande och kan ibland vara en utmaning. Det är också något som tar tid och kräver samarbete. Här är några generella tips:\n\n* Hitta rätt tid för att öppet uttrycka dina tankar och känslor kring det som oroar dig.\n* Ett bra sätt att börja på är att dela med dig av din nuvarande upplevelse. Ett konstruktivt sätt att göra det på är att börja med \"Jag\". Till exempel: \"*Jag känner mig inte helt bekväm just nu ... Det kan ha något att göra med ... och jag undrar om någon annan kan relatera till det?*\"."
+      },
+      {
+        "question": "Jag vill lämna min grupp",
+        "answer": "Du kan lämna både din grupp och en gruppdelning när som helst. Vi rekommenderar dock att du skickar ett meddelande till din grupp innan du lämnar. \n\nFör att lämna gruppen, gå till symbolen (kugghjulet) för inställningar i det vänstra hörnet och klicka på \"Lämna min grupp\"."
+      },
+      {
+        "question": "Hur vet vi vad vi ska prata om under gruppdelningen?",
+        "answer": "Många lektioner har specifika instruktioner gällande vad som ska diskuteras i gruppdelningen. Ett förslag är att skriva ned instruktionerna när du gjort övningen, eller gå tillbaka till dem innan delningen. Utöver det kan du fokusera på det som känns levande i dig just nu, och dela dina generella reflektioner från övningarna.\n\nNågra frågor som kanske kan hjälpa dig är:\n\n* Vad skrev du ned?\n* Vad lärde du dig om dig själv?\n* Vad kände du när du gjorde övningarna och varför?"
+      },
+      {
+        "question": "Vad ska vi göra om inte alla har genomfört lektionen inför delningen? ",
+        "answer": "Det är upp till varje grupp att bestämma hur man vill göra om detta händer. Bestäm om ni vill flytta fram eller genomföra delningen som planerat. Personen som inte har gjort lektionen kan välja att antingen delta genom att enbart lyssna eller delta efter bästa förmåga."
+      }
+    ]
+  },
+  "pt": {
+    "name": "Sharing FAQ",
+    "questions": []
+  }
+}

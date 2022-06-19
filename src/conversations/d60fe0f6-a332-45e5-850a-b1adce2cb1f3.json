@@ -1,0 +1,110 @@
+{
+  "en": {
+    "id": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+    "alias": "alive-day-15",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 15",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay15rev1",
+          "title": "Alive Day 15 Quest",
+          "body": "Over the next few hours, change the way you approach an everyday activity. Did you learn anything about yourself?"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I...."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 14,
+          "minutes": 0,
+          "id": "followUpDay15",
+          "title": "Alive Day 15 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-15",
+        "nextConversationId": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "c27205a5-8e84-44d2-85d0-16dcf5766e9d"
+      }
+    ]
+  },
+  "sv": {
+    "id": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+    "alias": "alive-day-15",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 15",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 5,
+          "id": "aliveDay15rev1",
+          "title": "Uppdrag dag 15",
+          "body": "De närmaste timmarna, gör något som du gör ofta på ett **nytt** sätt. Lägg märke till hur det känns."
+        },
+        "sharingWall": {
+          "question": "Hur kändes det att göra något vanligt på ett nytt sätt?",
+          "exampleText": "Lite märkligt. Jag var mer närvarande."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 14,
+          "minutes": 0,
+          "id": "followUpDay15",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-15",
+        "nextConversationId": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "c27205a5-8e84-44d2-85d0-16dcf5766e9d"
+      }
+    ]
+  },
+  "pt": {
+    "id": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+    "alias": "alive-day-15",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 15",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay15rev1",
+          "title": "Desafio ALIVE dia 15",
+          "body": "Durante as próximas horas, altera a forma como abordas uma atividade normal do teu dia a dia. Aprendeste alguma coisa sobre de ti própria/o?"
+        },
+        "sharingWall": {
+          "question": "O que aprendeste acerca de ti própria/o?",
+          "exampleText": "Hoje eu..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 14,
+          "minutes": 0,
+          "id": "followUpDay15",
+          "title": "Check-in Dia 15 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-15",
+        "nextConversationId": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "c27205a5-8e84-44d2-85d0-16dcf5766e9d"
+      }
+    ]
+  }
+}

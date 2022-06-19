@@ -1,0 +1,404 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Relax your body",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/relax_your_body_hyuhyf.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "89778e06-93f3-4e9a-bdd8-93188fc58788",
+    "wip": false,
+    "stations": [
+      {
+        "id": "exercise-clenchrelax",
+        "alias": "Exercise Clench and relax",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/relax_your_body_hyuhyf.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Fight or flight**\\\nWhen we are stressed and anxious we have a tendency to **tense up**. \\\n\\\nIt is the body's way of getting ready to fight or flee — even in situations where there's no real threat."
+                  }
+                ]
+              }
+            ],
+            "id": "1",
+            "alias": "1",
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Since the body often reacts **automatically**, it can be difficult for us to even *notice* that we are tense.\n\nOne way to become more aware of how your body reacts is to *actively compare* what your body feels like when it's *tense*, and how that differs from what the body feels like when it's *relaxed*."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### You'll learn about:\n\n* Noticing what your body feels like \n* Focusing on one thing at a time\n* Relaxing"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sit down in a comfortable position. Press play to start the exercise."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 3,
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1620637074/clenchandrelax_towylb.mp3"
+                }
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nAs mentioned earlier, the body has a tendency to **tense up** even when there is no real threat. \\\n\\\nThat's why it is good to sometimes just pause and become aware of what's going on in your body."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Finished"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "08269478-365c-4f65-8996-31979921d49f",
+            "alias": "Sharing wall - question",
+            "question": "How does your body feel after this meditation?",
+            "exampleText": "I feel relaxed and in harmony with my body. "
+          }
+        ],
+        "name": "Relax your body",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Slappna av kroppen",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/relax_your_body_hyuhyf.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "89778e06-93f3-4e9a-bdd8-93188fc58788",
+    "wip": false,
+    "stations": [
+      {
+        "id": "exercise-clenchrelax",
+        "alias": "Exercise Clench and relax",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/relax_your_body_hyuhyf.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Fly eller slåss**\\\nNär vi är stressade och oroar oss har vi en tendens att bli **spända**. \n\nDet är kroppens sätt att göra sig redo för att fly eller slåss — även i situationer där det inte finns något verkligt hot."
+                  }
+                ]
+              }
+            ],
+            "id": "1",
+            "alias": "1",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Eftersom kroppen ofta reagerar *automatiskt* kan det vara svårt för oss att lägga märke till *att* *vi ens är spända.*\n\nEtt sätt att bli mer medveten om hur din kropp reagerar är att aktivt jämföra hur det känns när kroppen är *spänd*, och hur det skiljer sig från när kroppen är *avslappnad*."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Du kommer lära dig att:\n\n* Lägga märke till hur det känns i kroppen\n* Fokusera på en sak i taget\n* Slappna av"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "audio",
+            "id": "a7651991-26e7-4e83-a071-6f0e29431133",
+            "alias": "Audioplayer",
+            "title": "Spänn och slappna av",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/ClenchRelaxswedish.mp3",
+            "description": "Sätt dig ned i en bekväm position. Tryck på play-knappen för att sätta igång.",
+            "duration": "3",
+            "buttonText": "Klar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!**\n\nKroppen har som sagt en tendens att spänna sig även i situationer när det inte finns något verkligt hot. Därför kan det vara bra att ibland stanna upp och bli medveten om vad som pågår i din kropp."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Avsluta"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "4fb8a16b-95bb-4e6d-88dc-9006c0c87070",
+            "alias": "Sharing wall - question",
+            "question": "Hur känns det i kroppen efter denna meditationen?",
+            "exampleText": "Jag känner mig avslappnat och i harmoni med min kropp."
+          }
+        ],
+        "name": "Slappna av kroppen",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Relaxa",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/relax_your_body_hyuhyf.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "89778e06-93f3-4e9a-bdd8-93188fc58788",
+    "wip": false,
+    "stations": [
+      {
+        "id": "exercise-clenchrelax",
+        "alias": "Exercise Clench and relax",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/relax_your_body_hyuhyf.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Luta ou fuga**\n\nQuando estamos stressadas/os e ansiosas/os temos a tendência para ficarmos em **tensão**.\n\nÉ a maneira do corpo se preparar para lutar ou fugir - mesmo em situações em que a ameaça não é real."
+                  }
+                ]
+              }
+            ],
+            "id": "1",
+            "alias": "1",
+            "buttonText": "Mais"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Como o corpo normalmente reage de forma **automática**, pode ser difícil para nós *darmos conta* de que estamos tensos.\n\nUma forma de ficarmos mais conscientes de como o nosso corpo reage é de *comparar activamente* o que o nosso corpo sente quando está *tenso* e de como essa sensação é diferente de quando o corpo está *relaxado*."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### O que vais aprender:\n\n* Tomar consciência de como o teu corpo se sente\n* Focar numa coisa de cada vez\n* Relaxar"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Senta-te numa posição confortável. Carrega no play para começares o exercício."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 1044,
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1632841145/29k%20FJN/Meditations/20210928%20Cristina%20New%20/Tensao_E_Relaxamento_-_10_44_cwqniu.mp3"
+                }
+              }
+            ],
+            "buttonText": "Feito"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nComo mencionado anteriormente, o corpo tem tendência a **ficar tenso** mesmo quando não há uma ameaça real.\n\nÉ por isso que às vezes é bom fazermos uma simples pausa e tomarmos consciência do que está a acontecer no nosso corpo."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "ac7da80f-8d75-40c0-b536-e372ba6e4c67",
+            "alias": "Sharing wall - question",
+            "question": "Como sentiste o teu corpo depois desta meditação?",
+            "exampleText": "Senti-me relaxada/o e em harmonia com o meu corpo."
+          }
+        ],
+        "name": "Relaxa",
+        "type": "station"
+      }
+    ]
+  }
+}

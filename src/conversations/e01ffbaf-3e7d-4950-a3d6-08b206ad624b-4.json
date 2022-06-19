@@ -1,0 +1,70 @@
+{
+  "en": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 5",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "This meditation will help you open up to difficult emotions and make space for the unwanted thoughts and feelings.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-willingness-stance.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 5",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Den här meditationen hjälper dig att acceptera och göra plats för jobbiga känslor och tankar.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621352813/Meditations/the_willingness_stance_svenska_-_2021-05-18_17_ozm9wc.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 5",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "video",
+        "title": "Manter o foco nos objetivos todos os dias",
+        "description": "“Nós podemos passar para lá do céu, vamos vendo se é chegar à lua ou a outra galáxia ou se é chegar a Marte. Só sei que o céu não é o limite.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855831/29k%20FJN/Courses/Meaning%20Making/Photos/L3ACCEPTANCE_yk7gcs.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044156/29k%20FJN/Courses/Meaning%20Making/Videos/L3_Meaning_making_in_a_crisis_V1-_ybjo4s.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

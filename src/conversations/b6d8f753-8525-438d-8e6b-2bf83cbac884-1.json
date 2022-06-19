@@ -1,0 +1,113 @@
+{
+  "en": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 3",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Putting SMART goals into practice",
+        "content": "Now it is time to use the SMART goals tool to turn a value of yours into action. Try to evaluate and revise your goal to make it as clear and handy as you can.  For example, if your value is: “Being a caring family member”, then “Seeing or calling my parents a least twice a week” is a goal you may want to set in line with this value.\n\nChoose one of your values that you want to work on pursuing. It doesn’t matter which area. Try to create one goal in line with the value.\n\nAre there any small actions you could do, any day, to work towards the goal you’ve set? Think of as many small daily actions as you can, then do one of them today and another one tomorrow. Write down what you’re going to do today and tomorrow.\n\nWrite down your answers. The goal you’ve set in line with your value and your planned daily actions for today and tomorrow is what you’ll be offered to share with your group.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "Take 5-10 min",
+        "question": "Choose one value that’s important to you right now. It doesn’t matter which area it belongs to. Create one goal corresponding to this value.",
+        "shortDescription": "My goal which is in line with my value is to…\n\nWrite down your answer. This is what you’ll be offered to share with your group at the end of this lesson.",
+        "longDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 3",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Förverkliga SMART:a mål",
+        "content": "Nu är det dags att använda SMART:a mål för att förvandla dina värderingar till handling. Din uppgift är att formulera mål som är så tydliga och praktiska som möjligt – i linje med dina värderingar.\n\nTill exempel, om din värdering är: \"Att vara en omtänksam familjemedlem\", kan ett mål i linje med detta vara \"Att hälsa på eller ringa mina föräldrar två gånger i veckan\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Okej, vi kör igång",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "title": "Övning",
+        "time": "5-10 min",
+        "question": "Välj en värdering som är viktig för dig just nu. Det spelar ingen roll vilket område det tillhör. Skapa ett SMART mål i linje med värderingen.",
+        "shortDescription": "Mitt mål i linje med min värdering är att... Skriv ner ditt svar. Det här är vad du kommer att erbjudas att dela med din grupp i slutet av den här lektionen.",
+        "longDescription": "Är ditt mål specifikt, mätbart, accepterat, realistiskt och tidsbestämt? \n\nFila på det tills du är nöjd. \n\nNågra exempel: \n\nFölja med min dotter på fotbollsmatch varje lördag i fem veckor.\n\nSäga min åsikt minst en gång per möte i en vecka.\n\nBjuda ut min partner på dejt varannan vecka.\n\nTa trapporna i stället för hissen varannan dag i två veckor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "section5"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 3",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "video",
+        "title": "Os objetivos SMART",
+        "description": "“Já há muito que aprendi que qualquer mudança é feita de pequenos passos.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855831/29k%20FJN/Courses/Meaning%20Making/Photos/L4MAKINGCHANGE_bcezeh.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044139/29k%20FJN/Courses/Meaning%20Making/Videos/L4_Meaning_making_in_a_crisis_V1-_rdlvmd.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "Os objetivos SMART",
+        "content": "Agora vais utilizar os objetivos SMART para transformar um dos teus valores em ação. Tenta avaliar e rever o teu objetivo para o tornar o mais claro e prático possível. Por exemplo, se o teu valor for “Ser um familiar mais atencioso”, então “Ver ou telefonar aos meus pais pelo menos duas vezes por semana” é um objetivo que podes definir de acordo com esse valor.\n\nEscolhe um dos valores que desejas seguir. Não importa em que área. Tenta criar um objetivo alinhado com esse valor.\n\nExistem pequenas ações diárias que podes fazer para atingires o objetivo que definiste? Pensa em todas as pequenas ações diárias que puderes e faz uma delas hoje e outra amanhã. Escreve o que vais fazer hoje e amanhã.\n\nEscreve as tuas respostas. O objetivo que definiste alinhado com o teu valor e as tuas ações diárias de hoje e amanhã serão o que poderás partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      }
+    ]
+  }
+}

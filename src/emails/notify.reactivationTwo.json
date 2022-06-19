@@ -1,0 +1,38 @@
+{
+  "en": {
+    "subject": "Hello and some news from 29k",
+    "header__markdown": "# Hi **there**",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Looks like it’s been a while since you used the *29k* app. Perhaps you are working on yourself in other ways, or maybe life came in between? Either way, we are writing to remind you that, with inner development, **consistency is key.**\n\nThe *29k* app and its community are still here for you, and we have added awesome new content to the app since we last saw you:\n\n* New [self-assessment tests](https://app.29k.org/yyve4gPTfb2bkj499), with customised advice\n* Refreshed design and better navigation\n* New [challenges](https://app.29k.org/5wLUbVPe2dNe3rWk9), meditations and [exercises](https://app.29k.org/EEvRkQkVLwyUQ2NE9)\n* Improved group functionality",
+    "survey": {
+      "text__markdown": "Not up for it right now? You can still help us improve by taking only a minute to answer this survey:",
+      "buttonText": "Go to Survey",
+      "href": "https://29k.typeform.com/to/v0WccZzp"
+    },
+    "closing__markdown": "Gratefully, and with hope that you are well,\\\nthe 29k team"
+  },
+  "sv": {
+    "subject": "En påminnelse från oss till dig",
+    "header__markdown": "# Hej **där**",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Det verkar som att det var ett tag sedan du använde *29k-appen*. Du kanske använder andra verktyg i stället, eller så har livet kommit emellan? Oavsett, kom ihåg att inre arbete ger bäst resultat när du gör det **kontinuerligt, och över tid**.\n\nVi har lagt till fantastiskt nytt innehåll i appen sedan vi såg dig senast, kolla gärna in det:\n\n* Nya [tester](https://app.29k.org/yyve4gPTfb2bkj499), med resultatbaserade råd\n* Uppdaterad design och förbättrad navigation\n* Nya [utmaningar](https://app.29k.org/AMAPVhfSZ7nVz5TK8), meditationer och [övningar](https://app.29k.org/yeCTZQwhUnXv8RbR6)\n* Förbättrade grupper",
+    "survey": {
+      "text__markdown": "Vi jobbar på att ständigt förbättra oss och är innerligt tacksamma om du kan ägna en minut åt att svara på några korta frågor.",
+      "buttonText": "Frågorna",
+      "href": "https://29k.typeform.com/to/QntwZh2y"
+    },
+    "closing__markdown": "Vi vill inte krångla till det för dig med aviseringar, så detta är den sista påminnelsen du får från oss.\n\nVänliga hälsningar,\\\n29K-teamet"
+  },
+  "pt": {
+    "subject": "Olá, temos algumas novidades na 29k FJN!",
+    "header__markdown": "# **Olá!**",
+    "header__image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652432252/Email%20assets/header-image-one-background_rxuxwq.png",
+    "body__markdown": "Parece que já passou algum tempo desde que estiveste connosco na aplicação *29k FJN*. Talvez estejas a trabalhar o teu desenvolvimento pessoal de outras formas, ou talvez a tua vida se tenha intrometido e te tenha interrompido.\n\nA aplicação *29k FJN* e a nossa comunidade ainda estão aqui para ti. Adicionamos um novo conteúdo incrível à aplicação desde a última vez que estiveste connosco:\n\n* Novo [teste do sono](https://app.29k.org/dE8js1oELZenoD3G7)\n* Atualização do design e navegação\n* Novos [desafios](https://app.29k.org/vMT6FNKT7sJv3XXE7), [meditações](https://app.29k.org/y2kPm29fuLuvb14D9) e [exercícios](https://app.29k.org/cwxQ7EXycgvjJruq8)\n* Melhoria das funcionalidades de partilha",
+    "survey": {
+      "text__markdown": "Não estás pronto/a para isso agora? Ainda assim podes ajudar-nos a melhorar respondendo a estas perguntas em apenas um minuto:",
+      "buttonText": "Ir para o inquérito",
+      "href": "https://29k.typeform.com/to/gJJSQJlD"
+    },
+    "closing__markdown": "Muito obrigada, esperamos que estejas bem,\\\na equipa 29k FJN"
+  }
+}

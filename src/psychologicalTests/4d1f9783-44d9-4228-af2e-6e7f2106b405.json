@@ -1,0 +1,73 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Sleep",
+    "conversations": [
+      {
+        "conversationId": "sleep-test",
+        "title": "Sleep"
+      }
+    ],
+    "cta": "Know more about yourself",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795938/New_images/test/1024x1024/sleep_asnpcb.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "test",
+    "id": "4d1f9783-44d9-4228-af2e-6e7f2106b405",
+    "difficulty": ["Beginner"],
+    "category": "b117c2e8-2732-445f-876a-e3b3786925b3",
+    "wip": false
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Sömn",
+    "conversations": [
+      {
+        "conversationId": "sleep-test",
+        "title": "Sömn"
+      }
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795938/New_images/test/1024x1024/sleep_asnpcb.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "test",
+    "id": "4d1f9783-44d9-4228-af2e-6e7f2106b405",
+    "difficulty": ["Beginner"],
+    "category": "b117c2e8-2732-445f-876a-e3b3786925b3",
+    "wip": false
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "Sono",
+    "conversations": [
+      {
+        "conversationId": "sleep-test",
+        "title": "Sono"
+      }
+    ],
+    "cta": "Conhece-te melhor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795938/New_images/test/1024x1024/sleep_asnpcb.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": ["225763ad-ca6f-4b97-9521-782f80dd8b2a"],
+    "type": "test",
+    "id": "4d1f9783-44d9-4228-af2e-6e7f2106b405",
+    "difficulty": ["Beginner"],
+    "category": "b117c2e8-2732-445f-876a-e3b3786925b3",
+    "wip": false
+  }
+}

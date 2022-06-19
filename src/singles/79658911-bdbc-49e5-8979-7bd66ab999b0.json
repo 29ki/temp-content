@@ -1,0 +1,149 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Compassionate body scan",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/compassionate_body_scan_s9fx2c.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 24
+    },
+    "version": 1,
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "79658911-bdbc-49e5-8979-7bd66ab999b0",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-79658911-bdbc-49e5-8979-7bd66ab999b0",
+        "name": "Compassionate body scan",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "440c8775-88e1-4ec9-a6d7-d34bea45d88f",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/compassionate_body_scan_s9fx2c.png",
+            "title": "Compassionate body scan",
+            "description": "This meditation will allow you to notice what is happening the inside. You will have the opportunity to **direct self-compassion and warmth** towards what you discover.\n\nPress play to start.\n\n*This meditation is guided and created by [Dr Kristin Neff.](https://self-compassion.org/)*",
+            "buttonText": "I'm done",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1644490333/Meditations/Body%20scan%20Neff.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "7c0ff0fd-f4e1-4871-9b53-28a9f559e811",
+            "question": "What did you discover during this meditation?",
+            "exampleText": "I noticed that I was tense in my shoulders, it was helpful to imagine a warm blanket over me.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Kroppsskanning med medkänsla",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/compassionate_body_scan_s9fx2c.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 24
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "79658911-bdbc-49e5-8979-7bd66ab999b0",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-79658911-bdbc-49e5-8979-7bd66ab999b0",
+        "name": "Kroppsskanning med medkänsla",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "440c8775-88e1-4ec9-a6d7-d34bea45d88f",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/compassionate_body_scan_s9fx2c.png",
+            "title": "Kroppsskanning med medkänsla",
+            "description": "Den här meditationen hjälper dig **lägga** **märke** till vad som pågår på **insidan** samtidigt som du får öva på att rikta **medkänsla** och **värme** mot det du upptäcker.\n\nTryck på play-knappen för att starta.\n\n*Guidad av [Camilla Sköld](https://cfms.se/), PhD. Skapad av Dr Neff och Dr Germer.*",
+            "buttonText": "Jag är klar",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1641292413/Meditations/kroppsskanning_medka%CC%88nsla_CS_-_2022-01-04_11.30_rkbepk.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "3318e7a4-4418-429b-842d-1324d5ae0163",
+            "question": "Vad upptäckte du under meditationen?",
+            "exampleText": "Jag märkte att jag var spänd i axlarna och tyckte det var hjälpsamt att föreställa mig den varma filten.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/compassionate_body_scan_s9fx2c.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 24
+    },
+    "type": "meditation",
+    "id": "79658911-bdbc-49e5-8979-7bd66ab999b0",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-79658911-bdbc-49e5-8979-7bd66ab999b0",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "440c8775-88e1-4ec9-a6d7-d34bea45d88f",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/compassionate_body_scan_s9fx2c.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "411804d8-a29d-401e-b08e-862f9c9742f0",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "28e5d0a0-9adf-476b-9255-3d357826acc1",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

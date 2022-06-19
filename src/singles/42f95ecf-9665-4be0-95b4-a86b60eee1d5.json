@@ -1,0 +1,126 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "navigateToContentId": "self-care-challenge",
+      "hideOnHome": true
+    },
+    "name": "Self-care challenge reflection",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1653483298/New_images/exercises%20png/1024x1024/self_care_challenge_reflection_d5zz90.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 3
+    },
+    "version": 1,
+    "type": "exercise",
+    "id": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+        "name": "Self-care challenge reflection",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "dd224224-999a-4dad-9a19-949251783f5a",
+            "question": "What’s your main takeaway from this challenge?",
+            "exampleText": "I learned that I've been deprioritizing myself and my needs. This helped me create a sustainable self-care routine.",
+            "buttonText": "Done"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "navigateToContentId": "self-care-challenge",
+      "hideOnHome": true
+    },
+    "name": "Self-care challenge reflektion",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1653483298/New_images/exercises%20png/1024x1024/self_care_challenge_reflection_d5zz90.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 3
+    },
+    "type": "exercise",
+    "id": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+        "name": "Self-care challenge reflektion",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "dd224224-999a-4dad-9a19-949251783f5a",
+            "question": "Vad är din huvudsakliga lärdom från den här utmaningen?",
+            "exampleText": "Det har blivit tydligt att jag inte har prioriterat mig själv och mina behov. Utmaningen har hjläpt mig att skapa en hållbar rutin.",
+            "buttonText": "Klar"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "navigateToContentId": "self-care-challenge",
+      "hideOnHome": true
+    },
+    "name": "Reflexão - Desafio de autocuidado",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1653483298/New_images/exercises%20png/1024x1024/self_care_challenge_reflection_d5zz90.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 3
+    },
+    "type": "exercise",
+    "id": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+        "name": "Reflexão - Desafio de autocuidado",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "dd224224-999a-4dad-9a19-949251783f5a",
+            "question": "O que aprendeste acerca de ti neste desafio?",
+            "exampleText": "Aprendi que não tenho dado prioridade às minhas necessidades. Este exercício ajudou-me a criar uma rotina de autocuidado mais sustentável.",
+            "buttonText": "Concluído"
+          }
+        ]
+      }
+    ]
+  }
+}

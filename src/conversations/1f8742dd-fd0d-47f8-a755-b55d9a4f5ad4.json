@@ -1,0 +1,168 @@
+{
+  "en": {
+    "id": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4",
+    "alias": "Leadership-purposeanddirection-5",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1741905f-a5cf-490f-9694-ed1c81fff864",
+        "content": "The following questions will help you do just that by **clarifying, developing, and sharpening your direction.**",
+        "alias": "Bringing your vision alive",
+        "title": "It's time to bring your vision alive",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's go",
+            "sectionId": "f5f21a1d-8080-4e70-ac4c-d9b94378c6bb"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "f5f21a1d-8080-4e70-ac4c-d9b94378c6bb",
+        "longDescription": "1. Write down **3 actions** which would help you and your colleagues actively pursue your organisation's purpose.\n2. In **what style** would you like these actions to be carried out and why?\n3. What **equipment, changes or resources** can best support these actions?",
+        "title": "Bringing your vision alive",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "e1c6f4b9-515f-4443-9227-9c57eae32ec0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e1c6f4b9-515f-4443-9227-9c57eae32ec0",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Great work! You've developed your ability to focus your purpose and direction.\n\nThis week you've built advanced skills that help you pursue purpose by clarifying your organization or group's purpose and direction by:\n\n1. Identifying who and what your organization wants to impact and using this awareness to help capture the purpose of your organization or group in a short statement\n2. Building on your scenario planning skills, from what it would look like if your organization were thriving to *what* and *how* your organization is pursuing purpose\n3. Identifying what people, skills, and resources can help you achieve success in a way that matters",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Thanks",
+            "sectionId": "bb200dc6-7a38-4619-9ddb-8d8e8c061534"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bb200dc6-7a38-4619-9ddb-8d8e8c061534",
+        "alias": "Further reading",
+        "title": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Kantabutra, S., & Avery, G. C. (2010). The power of vision: Statements that resonate. Journal of Business Strategy, 31(1), 37-45. doi:10.1108/02756661011012769",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "8f682f9c-9950-4fbb-8af6-9ff6f11098a1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8f682f9c-9950-4fbb-8af6-9ff6f11098a1",
+        "title": "You are now ready to share",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "What happens next?",
+            "conversationId": "pl-7-focus-on-the-why"
+          }
+        ],
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?**\n\nYour insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "alias": "You are now ready to share"
+      }
+    ],
+    "root": "1741905f-a5cf-490f-9694-ed1c81fff864"
+  },
+  "sv": {
+    "id": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4",
+    "alias": "Leadership-purposeanddirection-5"
+  },
+  "pt": {
+    "id": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4",
+    "alias": "Leadership-purposeanddirection-5",
+    "root": "1741905f-a5cf-490f-9694-ed1c81fff864",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1741905f-a5cf-490f-9694-ed1c81fff864",
+        "content": "As perguntas seguintes vão ajudar-te a fazer exatamente isso, **esclarecendo, desenvolvendo e apurando a tua direção.**",
+        "alias": "Bringing your vision alive",
+        "title": "É hora de dar vida à tua visão",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos lá ",
+            "sectionId": "f5f21a1d-8080-4e70-ac4c-d9b94378c6bb"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "f5f21a1d-8080-4e70-ac4c-d9b94378c6bb",
+        "longDescription": "1. Escreve **3 ações** que te ajudariam e aos teus colegas a alcançar ativamente o propósito da tua organização.\n2. Em **que estilo** gostarias que essas ações fossem realizadas e porquê?\n3. Que **equipamentos, mudanças ou recursos** podem apoiar da melhor forma essas ações?",
+        "title": "Dar vida à tua visão",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos concluir ",
+            "sectionId": "e1c6f4b9-515f-4443-9227-9c57eae32ec0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e1c6f4b9-515f-4443-9227-9c57eae32ec0",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Ótimo trabalho! Desenvolveste a tua capacidade de te focares no teu propósito e direção.\n\nEsta semana, desenvolveste competências avançadas que te ajudam a atingir um propósito, esclarecendo o propósito e a direção da tua organização ou grupo, ao:\n\n1. Identificar quem e o quê a tua organização pretende impactar e usar essa consciência para ajudar a definir o propósito da tua organização ou grupo, numa breve declaração.\n2. Desenvolver as tuas competências de planeamento de cenários, desde como seria se a tua organização estivesse a prosperar até ao quê e ao como a tua organização está a perseguir um propósito.\n3. Identificar que pessoas, competências e recursos podem ajudar-te a alcançar o sucesso de uma maneira relevante.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminar",
+            "sectionId": "bb200dc6-7a38-4619-9ddb-8d8e8c061534"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bb200dc6-7a38-4619-9ddb-8d8e8c061534",
+        "alias": "Further reading",
+        "title": "Leitura adicional ",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Kantabutra, S., & Avery, G. C. (2010). The power of vision: Statements that resonate. Journal of Business Strategy, 31(1), 37-45. doi:10.1108/02756661011012769",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi!",
+            "sectionId": "8f682f9c-9950-4fbb-8af6-9ff6f11098a1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8f682f9c-9950-4fbb-8af6-9ff6f11098a1",
+        "title": "Agora estás pronta/o para partilhar",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "O que acontece a seguir?",
+            "conversationId": "pl-7-focus-on-the-why"
+          }
+        ],
+        "content": "1. **Que ideias-chave te ajudaram a entender a tua situação, procurar um propósito ou ter sucesso esta semana?**\n\nOs teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, da prática das competências que aprendeste percebendo quais ressoam em ti de forma diferente.",
+        "alias": "You are now ready to share"
+      }
+    ]
+  }
+}

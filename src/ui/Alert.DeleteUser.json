@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Delete Account",
+    "text": "Are you sure you want to delete your account?",
+    "cancelButton": "Cancel",
+    "confirmButton": "Confirm"
+  },
+  "sv": {
+    "title": "Radera konto",
+    "text": "Är du säker på att du vill radera ditt konto?",
+    "cancelButton": "Avbryt",
+    "confirmButton": "Bekräfta"
+  },
+  "pt": {
+    "title": "Remover conta",
+    "text": "Tens a certeza que queres remover a tua conta?",
+    "cancelButton": "Cancelar",
+    "confirmButton": "Confirmar"
+  }
+}

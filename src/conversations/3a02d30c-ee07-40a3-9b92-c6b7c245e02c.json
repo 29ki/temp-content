@@ -1,0 +1,176 @@
+{
+  "en": {
+    "id": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c",
+    "alias": "Leadership-Interactforapurpose-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "47e370b7-fb49-488d-bc04-3023af8aa6ac",
+        "alias": "Apparent Sincerity",
+        "title": "Apparent Sincerity",
+        "content": "There's often more than one way to achieve our goals and how we choose to do so matters.\n\nThe third skill, **apparent sincerity**, involves showing people that you are sincere and genuine in what you say and do and that they can trust you not to use their weaknesses against them.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's practice this",
+            "sectionId": "2cee5ad3-5089-4b89-bc83-f2f08c162f12"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2cee5ad3-5089-4b89-bc83-f2f08c162f12",
+        "alias": "Apparent Sincerity 2",
+        "question": "",
+        "longDescription": "Imagine that you're about to send an email to a colleague asking them to perform a specific task. There are 100s of different ways you could ask them to do so. Some may even sound rude, manipulative or insincere. \n\n* Can you come up with 3 different ways you could structure your message?\n* What do you predict would happen depending on each scenario?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "8c3f6e16-8362-4175-87bf-4c99d8382e71"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8c3f6e16-8362-4175-87bf-4c99d8382e71",
+        "content": "How often have you felt that ***how* a person said something** mattered at least as much, if not more, as** *what they've said***. \n\nInteracting with others in a sincere way enables us to grow better relationships. This in turn helps to cultivate trust, increases engagement and makes it easier to pursue purpose and achieve our goals.",
+        "title": "",
+        "alias": "Apparent Sincerity 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Got it",
+            "sectionId": "976fceaa-240d-4844-8ed1-bdf17439bf64"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "976fceaa-240d-4844-8ed1-bdf17439bf64",
+        "content": "One way, is to **make commitments and keep them**. And if we can't keep them, we can still **admit our responsibility** for letting the other person down.",
+        "title": "What can I do to show others that I'm sincere?",
+        "alias": "Apparent Sincerity 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "6ad383d8-a749-4c2a-8078-2e6e252aab76",
+            "content": "How can I use this style in the real world?"
+          }
+        ],
+        "infoItems": [
+          {
+            "description": "By relating to others in a sincere way as people and not as resources to manipulate and control to get the job done, you'll likely be more open and involved in your current situation and respond to it. This will also likely encourage your colleagues to be more open and involved in the situation, and thus help you interact in ways that may reveal insights and possibilities for achieving success and pursuing purpose you might otherwise never have been able to see.",
+            "title": "Sincere relating"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6ad383d8-a749-4c2a-8078-2e6e252aab76",
+        "title": "To act more sincerely",
+        "content": "* Build trust by making commitments\n* Follow through on what you've promised\n* When necessary, apologize in a way that resonates with others\n* When interacting with others (e.g. making requests, making commitments and apologizing) tune in to how what you've said or done is landing.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "639a992e-0fe2-4f0a-826c-7eab3577895a"
+          }
+        ],
+        "alias": "To act more sincerely"
+      }
+    ],
+    "root": "47e370b7-fb49-488d-bc04-3023af8aa6ac"
+  },
+  "sv": {
+    "id": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c",
+    "alias": "Leadership-Interactforapurpose-4"
+  },
+  "pt": {
+    "id": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c",
+    "alias": "Leadership-Interactforapurpose-4",
+    "root": "47e370b7-fb49-488d-bc04-3023af8aa6ac",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "47e370b7-fb49-488d-bc04-3023af8aa6ac",
+        "alias": "Apparent Sincerity",
+        "title": "Sinceridade (aparente)",
+        "content": "Normalmente, existe mais do que uma maneira de atingirmos os nossos objetivos e a forma como escolhemos fazê-lo importa.\n\nA terceira competência, **demonstrar sinceridade**, envolve mostrar às pessoas que és sincero/a e genuíno/a no que dizes e fazes. Assim, as pessoas podem confiar que não vais usar as suas fraquezas contra elas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos praticar ",
+            "sectionId": "2cee5ad3-5089-4b89-bc83-f2f08c162f12"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2cee5ad3-5089-4b89-bc83-f2f08c162f12",
+        "alias": "Apparent Sincerity 2",
+        "question": "",
+        "longDescription": "Imagina que estás prestes a enviar um e-mail a um colega a pedir que execute uma tarefa específica. Há centenas de maneiras de pedir que o façam. Algumas formas até soam um pouco agressivas, manipuladoras ou falsas.\n\n* Podes pensar em 3 maneiras diferentes de estruturar a tua mensagem?\n* O que prevês que poderia acontecer dependendo de cada cenário?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei",
+            "sectionId": "8c3f6e16-8362-4175-87bf-4c99d8382e71"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8c3f6e16-8362-4175-87bf-4c99d8382e71",
+        "content": "Quantas vezes já sentiste que a **forma como uma pessoa disse algo** importava pelo menos tanto, senão mais, **do que o que ela disse**. \n\nInteragir com outras pessoas de forma sincera permite-nos desenvolver relações melhores. Isso, por sua vez, ajuda a cultivar a confiança, aumenta a motivação e torna mais fácil perseguir os objetivos e atingir as nossas metas.",
+        "title": "",
+        "alias": "Apparent Sincerity 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi ",
+            "sectionId": "976fceaa-240d-4844-8ed1-bdf17439bf64"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "976fceaa-240d-4844-8ed1-bdf17439bf64",
+        "content": "Uma maneira de o fazer, **é assumir compromissos e cumpri-los**. E se não podemos mantê-los, ainda podemos **admitir a nossa responsabilidade** por ter decepcionado a outra pessoa.",
+        "title": "O que posso fazer para mostrar aos outros que sou sincero/a?",
+        "alias": "Apparent Sincerity 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "6ad383d8-a749-4c2a-8078-2e6e252aab76",
+            "content": "Como posso usar este estilo no mundo real?"
+          }
+        ],
+        "infoItems": [
+          {
+            "description": "Ao relacionarmo-nos com os outros de maneira sincera, como pessoas e não como recursos para manipular e controlar para realizar o trabalho, haverá mais abertura e envolvimento nas situações e nas suas respostas. Isto provavelmente também incentivará os teus colegas a estarem mais abertos e envolvidos nas situações ajudando-te a ver perspetivas e possibilidades para alcançar o sucesso e um propósito que talvez nunca conseguisses ver.",
+            "title": "Relações sinceras"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6ad383d8-a749-4c2a-8078-2e6e252aab76",
+        "title": "Agir de forma sincera",
+        "content": "* Conquista a confiança assumindo compromissos.\n* Cumpre as tuas promessas.\n* Quando necessário, pede desculpa de uma forma sincera.\n* Ao interagir com outras pessoas (por exemplo, fazendo pedidos, assumindo compromissos e pedindo desculpa), presta atenção em como o que disseste ou fizeste está a chegar aos outros.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "639a992e-0fe2-4f0a-826c-7eab3577895a"
+          }
+        ],
+        "alias": "To act more sincerely"
+      }
+    ]
+  }
+}

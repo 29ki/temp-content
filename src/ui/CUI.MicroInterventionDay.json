@@ -1,0 +1,143 @@
+{
+  "en": {
+    "welcome": {
+      "title__markdown": "# Welcome to ALIVE daily quests",
+      "quest__markdown": "In this course you will be given daily quests inspiring you to do things in a different way than you usually do them.",
+      "checkIn__markdown": "By the end of the day you’ll get a chance to check-in and reflect back on how it went.",
+      "groupSharing__markdown": "Once a week we recommend you to share your experiences with others in a live video sharing.",
+      "start__button": "Let’s begin"
+    },
+    "task": {
+      "title__markdown": "# Today’s quest",
+      "guiding__markdown": "By the end of the day, you’ll get a chance to check-in and reflect back on how it went.",
+      "confirm__button": "I’m on it"
+    },
+    "endOfWeek": {
+      "title__markdown": "# That's it for this week!",
+      "text__markdown": "You've gone through all of this week’s quests.",
+      "weekCompleted__button": "OK"
+    },
+    "endOfDay": {
+      "title__markdown": "## That’s it for today.",
+      "paragraph__markdown": "You will get your next quest in the morning.",
+      "confirm__button": "OK"
+    },
+    "allowPNs": {
+      "title__markdown": "One more thing!",
+      "text__markdown": "To receive the quests and reminders for check-ins, we need to be able to send you push notifications.",
+      "enablePNs__button": "Sure, send me notifications"
+    },
+    "PNsDenied": {
+      "title__markdown": "# Uh oh!",
+      "paragraph1__markdown": "You’ve disabled push notifications.",
+      "paragraph2__markdown": "In order to be able to participate and benefit from this course you need to have push notifications enabled.",
+      "paragraph3__markdown": "Please go to your notification settings and enable them manually from there.",
+      "PNsTurnedOn__button": "I’ve turned it on"
+    },
+    "scheduleTask": {
+      "titleInitialDay__markdown": "# You’re all set and ready to go.",
+      "title__markdown": "# Next quest ahead",
+      "textInitialDay__markdown": "We’ll notify you about your first quest in the morning.",
+      "text__markdown": "We’ll notify you about your next quest in the morning.",
+      "confirm__button": "OK"
+    },
+    "skip": {
+      "text__markdown": "No problem, you will get another quest tomorrow.",
+      "confirm__button": "OK"
+    }
+  },
+  "sv": {
+    "welcome": {
+      "title__markdown": "# Welcome to ALIVE daily quests",
+      "quest__markdown": "In this course you will be given daily quests inspiring you to do things in a different way than you usually do them.",
+      "checkIn__markdown": "By the end of the day you’ll get a chance to check-in and reflect back on how it went.",
+      "groupSharing__markdown": "Once a week we recommend you to share your experiences with others in a live video sharing.",
+      "start__button": "Let’s begin"
+    },
+    "task": {
+      "title__markdown": "# Today’s quest",
+      "guiding__markdown": "By the end of the day, you’ll get a chance to check-in and reflect back on how it went.",
+      "confirm__button": "I’m on it"
+    },
+    "endOfWeek": {
+      "title__markdown": "# That's it for this week!",
+      "text__markdown": "You've gone through all of this week’s quests.",
+      "weekCompleted__button": "OK"
+    },
+    "endOfDay": {
+      "title__markdown": "## That’s it for today.",
+      "paragraph__markdown": "You will get your next quest in the morning.",
+      "confirm__button": "OK"
+    },
+    "allowPNs": {
+      "title__markdown": "One more thing!",
+      "text__markdown": "To receive the quests and reminders for check-ins, we need to be able to send you push notifications.",
+      "enablePNs__button": "Sure, send me notifications"
+    },
+    "PNsDenied": {
+      "title__markdown": "# Uh oh!",
+      "paragraph1__markdown": "You’ve disabled push notifications.",
+      "paragraph2__markdown": "In order to be able to participate and benefit from this course you need to have push notifications enabled.",
+      "paragraph3__markdown": "Please go to your notification settings and enable them manually from there.",
+      "PNsTurnedOn__button": "I’ve turned it on"
+    },
+    "scheduleTask": {
+      "titleInitialDay__markdown": "# You’re all set and ready to go.",
+      "title__markdown": "# Next quest ahead",
+      "textInitialDay__markdown": "We’ll notify you about your first quest in the morning.",
+      "text__markdown": "We’ll notify you about your next quest in the morning.",
+      "confirm__button": "OK"
+    },
+    "skip": {
+      "text__markdown": "No problem, you will get another quest tomorrow.",
+      "confirm__button": "OK"
+    }
+  },
+  "pt": {
+    "welcome": {
+      "title__markdown": "# Bem-vinda/o aos desafios diários ALIVE",
+      "quest__markdown": "Neste curso, vais receber desafios diários que te inspirarão a atuar de uma forma diferente da que costumas atuar habitualmente.",
+      "checkIn__markdown": "No final de cada dia, terás a oportunidade de fazer um *check-in* para refletires sobre como correu o desafio.",
+      "groupSharing__markdown": "Uma vez por semana, recomendamos que partilhes as tuas experiências com outras pessoas através de uma sessão de vídeo ao vivo.",
+      "start__button": "Vamos começar!"
+    },
+    "task": {
+      "title__markdown": "# Desafio de hoje",
+      "guiding__markdown": "No final do dia, terás a oportunidade de fazer um *check-in* para refletires sobre como correu o desafio.",
+      "confirm__button": "Vamos lá!"
+    },
+    "endOfWeek": {
+      "title__markdown": "# Parabéns. É tudo por esta semana!",
+      "text__markdown": "Passaste por todos os desafios deste semana.",
+      "weekCompleted__button": "Continuar"
+    },
+    "endOfDay": {
+      "title__markdown": "## É tudo por hoje.",
+      "paragraph__markdown": "De manhã vais receber o teu próximo desafio.",
+      "confirm__button": "Continuar"
+    },
+    "allowPNs": {
+      "title__markdown": "Só mais uma coisa!",
+      "text__markdown": "Para receberes os desafios e os lembretes dos *check-in*, precisamos de te enviar notificações.",
+      "enablePNs__button": "Claro, podem enviar-me notificações."
+    },
+    "PNsDenied": {
+      "title__markdown": "# Uh oh!",
+      "paragraph1__markdown": "Desativaste as tuas notificações.",
+      "paragraph2__markdown": "Para poderes participar e beneficiar deste curso, precisas de ativar as notificações.",
+      "paragraph3__markdown": "Vai por favor às tuas configurações de notificações e ativa-as manualmente.",
+      "PNsTurnedOn__button": "Já as ativei"
+    },
+    "scheduleTask": {
+      "titleInitialDay__markdown": "# Está tudo pronto para começarmos.",
+      "title__markdown": "# Próximo desafio",
+      "textInitialDay__markdown": "Vamos notificar-te acerca do teu primeiro desafio durante a manhã.",
+      "text__markdown": "Vamos notificar-te acerca do teu próximo desafio durante a manhã.",
+      "confirm__button": "Continuar"
+    },
+    "skip": {
+      "text__markdown": "Não há problema, vais receber outro desafio amanhã.",
+      "confirm__button": "Continuar"
+    }
+  }
+}

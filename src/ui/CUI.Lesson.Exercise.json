@@ -1,0 +1,23 @@
+{
+  "en": {
+    "addReflection": "Add your reflection",
+    "messagePlaceholder": "Type your message...",
+    "doneButton": "Done",
+    "cancelButton": "Cancel",
+    "nextLesson": "Next Lesson"
+  },
+  "sv": {
+    "addReflection": "Lägg till en reflektion",
+    "messagePlaceholder": "Skriv ditt meddelande...",
+    "doneButton": "Klar",
+    "cancelButton": "Avbryt",
+    "nextLesson": "Nästaa lektion"
+  },
+  "pt": {
+    "addReflection": "Adiciona a tua reflexão",
+    "messagePlaceholder": "Escreve a tua mensagem...",
+    "doneButton": "Confirmar",
+    "cancelButton": "Cancelar",
+    "nextLesson": "Próxima lição"
+  }
+}

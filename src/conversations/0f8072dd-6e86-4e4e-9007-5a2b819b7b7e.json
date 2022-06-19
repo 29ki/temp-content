@@ -1,0 +1,206 @@
+{
+  "en": {
+    "id": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e",
+    "alias": "Coping with crisis 2:  Facing what we can't change 3",
+    "root": "0a04b027-1345-4f58-b8cd-48ea79590445",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Write down your answers.\n\n1. What emotions did you experience during this meditation?\n2. Were you able to rest in difficult emotions or did you try to avoid them?\n3. How do you normally process difficult emotions? Do you open up to them or try to avoid, control or suppress them?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "be4d3ee8-25d6-4dd9-b4bf-994c8391e097"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "type": "writing",
+        "id": "0a04b027-1345-4f58-b8cd-48ea79590445"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "be4d3ee8-25d6-4dd9-b4bf-994c8391e097",
+        "content": "Remember — when we **open** up to **difficult** **emotions** they often loosen their **grip** over our lives.\n\nPracticing your **ability** to **face and be with difficult emotions** can help you tune in to what you’re feeling and thinking, right here and right now. Remember that emotions **can’t** **harm** you. Even when they’re really strong.",
+        "alias": "(Benefits of opening up to emotions)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "7454b5c8-2012-49b4-a111-990418363569"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7454b5c8-2012-49b4-a111-990418363569",
+        "content": "Well done on completing **Facing what we can't change.**\n\nYou've now practiced facing difficult emotions and experiences. This is often a more effective way of dealing with your emotions than avoidance.\n\nAnd don't forget — emotions can’t harm you. They will eventually subside, no matter how strong they are.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "efa38993-b733-4255-9efe-d031e097cf3c"
+          }
+        ],
+        "alias": "Outro 1",
+        "title": "Summary"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "efa38993-b733-4255-9efe-d031e097cf3c",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember the questions:\n\n1. How do you normally process difficult emotions? Do you open up to them or try to avoid, control or suppress them?\n2. Why is it important to you to keep working on coping with anxiety and worry?",
+        "title": "Sharing",
+        "alias": "Sharing",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e",
+    "alias": "Coping with crisis 2:  Facing what we can't change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Skriv ner dina svar.\n\n1. Vilka känslor upplevde du under meditationen? \n2. Kunde du vila i dina svåra känslor eller försökte du undvika dem?\n3. Hur bearbetar du vanligtvis svåra känslor? Öppnar du dig för dem eller försöker du undvika, kontrollera eller trycka undan dem?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "ecdc6fcc-e9fe-4c56-9a7b-3ff18684716d"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Övning",
+        "title": "Övning",
+        "type": "writing",
+        "id": "159f7b72-6155-40bc-a644-3d18303335b6"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ecdc6fcc-e9fe-4c56-9a7b-3ff18684716d",
+        "content": "När vi gör plats och låter svåra känslor vara, förlorar de efter en tid sitt grepp om oss. \n\nAtt träna på att möta och vara med svåra känslor kan hjälpa oss att hantera utmanande situationer bättre. Upptäcka andra sätt att komma vidare.",
+        "alias": "Möta känslor",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "c0ade8d8-f65a-434b-9429-da09c3057f05"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c0ade8d8-f65a-434b-9429-da09c3057f05",
+        "content": "Bra jobbat med **Att möta det vi inte kan förändra.**\n\nDu har tränat på att möta och låta svåra känslor och upplevelser vara som de är, på insidan. Forskning visar att det är ett mer effektivt sätt att hantera känslor än undvikande.\n\nOch kom ihåg – känslor kan aldrig skada oss. Till slut kommer även den starkaste känslan att klinga av.",
+        "alias": "Outro 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa steg",
+            "sectionId": "86311585-3a14-40b4-817e-7c36bb6f267f"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "86311585-3a14-40b4-817e-7c36bb6f267f",
+        "content": "Du är nu redo för nästa steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Hur bearbetar du vanligtvis svåra känslor? Tillåter du dem eller försöker du undvika, kontrollera eller trycka undan dem?\n2. Hur upplevde du att möta känslorna på ett accepterande sätt?",
+        "title": "Delning",
+        "alias": "Sharing",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ],
+    "root": "159f7b72-6155-40bc-a644-3d18303335b6"
+  },
+  "pt": {
+    "id": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e",
+    "alias": "Coping with crisis 2:  Facing what we can't change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas:\n\n1. Que **emoções** sentiste durante a meditação?\n2. Conseguiste **aceitar** as emoções difíceis ou tentaste **evitá-las**?\n3. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitar, controlar ou suprimir?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "f864ce3a-6a4c-43d8-a2d2-02b397fef829"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "49642fd2-7f88-4b46-a86c-93033cd56808"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f864ce3a-6a4c-43d8-a2d2-02b397fef829",
+        "alias": "(Benefícios de nos abrirmos às emoções)",
+        "content": "Lembra-te: quando nos **abrimos** às **emoções** **difíceis**, elas geralmente aliviam o **controlo** sobre as nossas vidas.\n\nPraticares a **capacidade** de **enfrentares e conviveres com as emoções difíceis** pode ajudar-te a sintonizar com o que estás a sentir e a pensar, aqui e agora. Lembra-te que as emoções **não te podem** **prejudicar**. Mesmo quando são muito fortes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "93a12fad-0f15-427c-b739-04347733a20a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "93a12fad-0f15-427c-b739-04347733a20a",
+        "alias": "Outro 1",
+        "title": "Sumário",
+        "content": "Parabéns por concluíres **Enfrentar o que não podemos mudar**.\n\nAgora já praticaste enfrentar as emoções e experiências difíceis. Muitas vezes, essa é uma forma mais eficaz de lidares com as tuas emoções ao invés de as evitares.\n\nE nunca te esqueças - as emoções não te podem prejudicar. Elas acabarão por diminuir, não importa quão fortes sejam.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "aaffba16-d902-4ba6-83a6-f9029eec954b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "aaffba16-d902-4ba6-83a6-f9029eec954b",
+        "content": "Estás pronto para o próximo passo  — partilhar com o teu grupo.\n\nLembra-te das questões:\n\n1. Como **processas normalmente** as emoções difíceis? Aceitas ou tentas evitá-las, controlá-las ou suprimi-las?\n2. Por que é importante **continuares a praticar** para lidar com a ansiedade e a preocupação?\n3. Quais são as aprendizagens **mais** importantes que desejas levar contigo?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ],
+        "alias": "Partilha",
+        "title": "Partilha"
+      }
+    ],
+    "root": "49642fd2-7f88-4b46-a86c-93033cd56808"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "en": {
+    "id": "c78d0042-f6d5-43c9-a7d7-dec2a2773116",
+    "alias": "Meaning-making in a crisis: Finding meaning 3 (Feeling purpose)",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "title": "Exploring your feelings",
+        "content": "Good work! That was the hardest part. The upside of feelings is that they also tell us when we’re on the right track.\n\nHow did you feel when going to bed last night? Were you filled with a sense of purpose and meaning? Your answer is likely a reflection of what you did that day and what’s happening in your life in general.\n\nNow, try to think of a time in your life when you felt more meaning and purpose. For example “Last year when I worked less and could spend more time with my family.” This can be a recent episode or something that happened a while ago.\n\nYou might even think, “Oh no! I’ve never felt a sense of meaning and purpose! ”Know that this is not a feeling you either have or don’t have. All of us are somewhere between feeling “a lot of meaning” or “a little meaning”. The important thing is to recall a time when you felt it more.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "title": "Finding that special place in time",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_1/L1-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_1/S1_03_meaning_purpose.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "Take 5-10 minutes",
+        "question": "Hold on to your letter. This is what you’ll be offered to share at the end of this lesson.",
+        "longDescription": "1. Think of a time in your life when you felt a sense of meaning and purpose.\n\n2. Write a letter to yourself, starting with “Hi” and describe in detail what you did, how you felt and what was happening in your life at that time.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "c78d0042-f6d5-43c9-a7d7-dec2a2773116",
+    "alias": "Finding meaning 3 (Feeling purpose)",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "title": "Utforska dina känslor",
+        "content": "Bra jobbat! Det var den svåraste delen. En fördel med känslor är att de också säger till oss när vi är på rätt väg.\n\nHur kände du dig när du gick och la dig i går kväll? Var du fylld av en känsla av syfte och mening? Ditt svar är sannolikt en återspegling av vad du gjorde den dagen och vad som hände i ditt liv i går.\n\nFörsök nu att tänka på en tid i ditt liv då du kände mer mening och syfte. Till exempel ”Förra året när jag arbetade mindre och kunde spendera mer tid med min familj.” Du kan välja något som hände för länge sedan, eller något som pågår just nu.\n\nNu kanske det dyker upp tankar som, ”Åh nej! Jag har aldrig känt mening och syfte i mitt liv!” Du är inte ensam om den upplevelsen. Samtidigt, upplevelser är sällan något vi antingen har eller inte har. Vi är alla någonstans mellan att känna mycket mening eller lite mening. Försök minnas en tid då du kände det mer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "title": "En tid när jag kände mening...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_1/L1-3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_1/S1_03_meaning_purpose.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Övning",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "Skriv nu ett nytt brev till dig själv, där du tänker på en tid i ditt liv då du kände mening och betydelse.\n\n1. Skriv ett brev till dig själv och börja med ”Hej...”. Beskriv i detalj vad du gjorde, hur du kände och vad som hände i ditt liv vid den tiden.\n\nSpara brevet. Detta är vad du kommer att erbjudas att dela med din grupp i slutet av den här lektionen.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "c78d0042-f6d5-43c9-a7d7-dec2a2773116",
+    "alias": "Finding meaning 3 (Feeling purpose)",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "title": "Explora os teus sentimentos",
+        "content": "Parabéns! Esta foi a parte mais difícil. O lado positivo dos sentimentos é que também nos dizem quando estamos no caminho certo.\n\nComo te sentiste quando te foste deitar ontem à noite? Estavas preenchida/o por um sentido de propósito e significado? A tua resposta é como uma reflexão do que fizeste nesse dia e do que está a acontecer na tua vida de uma forma geral.\n\nAgora, tenta pensar numa fase da tua vida em que sentiste muito propósito e significado. Por exemplo \"No último ano, trabalhei menos e pude passar mais tempo com a minha família.\" Pode ser um episódio recente ou algo que aconteceu há algum tempo atrás.\n\nAté podes pensar \"Oh, não! Num tive um sentimento de propósito e significado!”. Isto não é um sentimento que tens ou não tens. Todos nós estamos entre sentir “muito significado” ou “pouco significado”. O mais importante é recordares uma altura em que sentiste mais.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "title": "Encontrar aquele lugar especial",
+        "description": "“No fim do dia, acho que o que importa é nós sentirmo-nos bem com nós próprios. (…) Para mim, isso reflete tudo o resto.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855830/29k%20FJN/Courses/Meaning%20Making/Photos/L1P7FINDINGMEANING_p2usww.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044028/29k%20FJN/Courses/Meaning%20Making/Videos/L1_Meaning_making_in_a_crisis_V2-_2_vw8x6n.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Guarda a tua carta perto de ti. É o que vais partilhar no fim desta lição.",
+        "longDescription": "1. Pensa numa altura da tua vida em que tenhas sentido significado e propósito.\n2. Escreve uma carta para ti, começando por “Olá”, e descreve em detalhe o que fizeste, como te sentiste e o que estava a acontecer na tua vida nessa altura.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "en": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 7",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing this lesson.\n\nNow that you’ve set a new, higher level of acceptance and let go of the temptation to resist, flee or control your emotions, you will start to experience your emotions for what they are and invest your energy in things you can control.\n\nYou’re being invited to share your reflections from the acceptance exercise\n\n* When you encounter difficult emotions can you give examples of unhelpful strategies you tend to resort to?\n* Are there certain situations in your life you believe you would benefit from meeting them with acceptance and opening up?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 7",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat med den här lektionen.\n\nNu när du har satt en ny, högre nivå av acceptans och lägger märke till impulsen att undvika, fly eller kontrollera dina känslor, kan du uppleva dina känslor för vad de faktiskt är. Och ägna din energi åt sådant som vi faktiskt kan kontrollera.\n\nDu är nu redo att dela med din grupp, förbered dig genom att svara på följande frågor:\n\n* Kan du ge exempel på ohjälpsamma strategier som du brukar använda när du stöter på svåra känslor?\n* Finns det vissa situationer i ditt liv som du tror att du skulle ha nytta av att möta med acceptans och öppenhet?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 7",
+    "root": "section11",
+    "sections": [
+      {
+        "id": "section11",
+        "type": "writing",
+        "title": "O teu regulador da aceitação",
+        "time": "",
+        "question": "",
+        "longDescription": "Verifica o teu regulador da aceitação – em que posição está neste momento?\n\nDecide quanto o vais aumentar. Não importa a posição atual, o objetivo é aumentar o teu nível de aceitação das emoções difíceis.\n\nAo deslocares o regulador da aceitação para cima, estás a fazer uma escolha ativa para te abrires a todas as emoções. Por exemplo, decides aceitar que estás irritada/o, zangada/o ou triste por cancelares alguns dos teus planos.\n\n* De que forma te afeta aceitares as tuas emoções em vez de lhes resistires?\n\nEscreve as tuas respostas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares esta lição.\n\nAgora que definiste um nível novo e mais exigente de aceitação e abdicaste da tentação de resistir, fugir ou controlar as tuas emoções, começarás a viver as tuas emoções pelo que elas são e a investir a tua energia em coisas que podes controlar.\n\nPodes partilhar as tuas reflexões sobre o exercício de aceitação\n\n* Quando encontras emoções difíceis, consegues dar exemplos de estratégias inúteis às quais tens tendência a recorrer?\n* Existem situações na tua vida em que acreditas que seria benéfico enfrentá-las com aceitação e abertura?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

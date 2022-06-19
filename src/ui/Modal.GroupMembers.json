@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Group Members",
+    "bot": "I’m the 29k bot and I’m here to help you and your group learn, share and grow. I’ll remind you about upcoming sharing sessions, give tips on how to integrate your learnings and generally try to create a safe space to learn and grow together.",
+    "newLabel": "NEW"
+  },
+  "sv": {
+    "title": "Gruppmedlemmar",
+    "bot": "Jag är 29k-boten och jag hjälper dig och din grupp att utvecklas och dela med er av er själva när ni går den här kursen.Jag påminner dig om kommande gruppmöten, ger tips om hur du bäst tar till dig det du lärt dig och försöker skapa en säker plats för gruppen att lära sig och utvecklas tillsammans.",
+    "newLabel": "NY"
+  },
+  "pt": {
+    "title": "Membros do Grupo",
+    "bot": "Sou o bot 29k e estou aqui para te ajudar a ti e ao teu grupo a aprender, partilhar e crescer. Vou lembrar-te sobre as próximas sessões de partilha, dar conselhos sobre como integrares a tua aprendizagem e tentar criar um ambiente seguro para crescerem e aprenderem em conjunto.",
+    "newLabel": "NOVO"
+  }
+}

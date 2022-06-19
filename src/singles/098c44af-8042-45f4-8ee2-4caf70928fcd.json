@@ -1,0 +1,152 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": " Love from within",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/ka%CC%88rlek_inifra%CC%8An_vlogkv.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 9
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "meditation",
+    "id": "098c44af-8042-45f4-8ee2-4caf70928fcd",
+    "difficulty": "Beginner",
+    "wip": true,
+    "stations": [
+      {
+        "id": "3b7b1bb1-2b74-4f94-9a0d-954dfb3ede11",
+        "alias": "Meditation Love from within",
+        "root": "bf99b36c-2c3e-42e2-b209-4cf58e62eb5c",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "bf99b36c-2c3e-42e2-b209-4cf58e62eb5c",
+            "title": "Love from within",
+            "content": "In this meditation you'll be guided to rest in your breathing and allow love for yourself in this present moment.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/ka%CC%88rlek_inifra%CC%8An_vlogkv.png",
+            "alias": "1",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "audio",
+            "id": "37dc047e-8987-4cf1-8945-16a650f56e9e",
+            "title": "Love from within",
+            "description": "Press play to start.",
+            "duration": "9.12",
+            "alias": "2",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624359529/Meditations/Emma_meditation_ka%CC%88rlek_zeroyr.mp3",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c0ab513a-feba-4e98-8893-c3eeda0719f6",
+            "title": "Well done!",
+            "content": "You've just taken a moment for yourself, a loving break from your everyday chatter. You can return to your breathing whenever you feel the need to land in the present moment.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620303395/Illustrations_Meditations/Heading_Slow_full_breathing_jplpve.png",
+            "alias": "3",
+            "buttonText": "Done"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "c09a31a7-370c-4393-881c-8e3275aa6401",
+            "question": "How did this make you feel?",
+            "exampleText": "I felt peaceful and safe. ",
+            "alias": "Sharing wall question"
+          }
+        ],
+        "name": "Love from within",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "name": "Kärlek inifrån",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/ka%CC%88rlek_inifra%CC%8An_vlogkv.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 9
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "meditation",
+    "id": "098c44af-8042-45f4-8ee2-4caf70928fcd",
+    "difficulty": "Beginner",
+    "wip": false,
+    "stations": [
+      {
+        "id": "3b7b1bb1-2b74-4f94-9a0d-954dfb3ede11",
+        "alias": "Meditation Love from within",
+        "root": "bf5a144e-4bc9-41dd-b797-8a4dca526de6",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "bf5a144e-4bc9-41dd-b797-8a4dca526de6",
+            "title": "Kärlek inifrån",
+            "content": "I den här meditationen får du vila i din andning och släppa fram kärleken till dig själv, här och nu.\n\nDen här meditationen har spelats in för 29k av [Emma Öström](https://www.happymeyoga.se/)",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/ka%CC%88rlek_inifra%CC%8An_vlogkv.png",
+            "alias": "1",
+            "buttonText": "Kör igång"
+          },
+          {
+            "type": "audio",
+            "id": "7ade3678-29ce-4ac0-ba66-79ce9b1d2fcf",
+            "title": "Kärlek inifrån",
+            "description": "Tryck på play för att börja.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624359529/Meditations/Emma_meditation_ka%CC%88rlek_zeroyr.mp3",
+            "duration": "9.12",
+            "alias": "2",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4ab85cfc-df49-4d68-a21b-58e5f5030345",
+            "title": "Bra gjort!",
+            "content": "Du har just gett dig själv en liten kärleksfull paus i vardagen. Kom ihåg att du kan återvända till din andning när som helst, om du känner att du behöver landa i nuet.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620303395/Illustrations_Meditations/Heading_Slow_full_breathing_jplpve.png",
+            "alias": "3",
+            "buttonText": "Avsluta"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "b6d8e9aa-24f0-4082-a67b-0b222ac0ae96",
+            "question": "Hur kändes det?",
+            "exampleText": "Jag kände mig lugn och trygg. ",
+            "alias": "Sharing wall question"
+          }
+        ],
+        "name": "Kärlek inifrån",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS"
+    ],
+    "difficulty": "Beginner",
+    "wip": true,
+    "type": "meditation",
+    "duration": {
+      "type": "minute",
+      "count": 9
+    },
+    "id": "098c44af-8042-45f4-8ee2-4caf70928fcd",
+    "stations": []
+  }
+}

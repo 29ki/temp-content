@@ -1,0 +1,106 @@
+{
+  "en": {
+    "id": "pl-1-take-action",
+    "alias": "pl-1-take-action",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Take action",
+        "task": {
+          "id": "pl-1-take-action-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Take Action",
+          "body": "Over the next few hours, do something you don’t usually do but may find satisfying (e.g., go into a store that has always seemed interesting; look on a website for something that interests you). \n\n* Notice how it feels to do what you feel compelled to do."
+        },
+        "sharingWall": {
+          "question": "How did it feel to do something you felt compelled to do?",
+          "exampleText": "I noticed that..."
+        },
+        "followUp": {
+          "id": "pl-1-take-action-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "lessonlastDay": true,
+        "alias": "pl-1-take-action",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "pl-1-take-action"
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-1-take-action",
+    "alias": "pl-1-take-action",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Take action",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Take action",
+          "body": "Over the next few hours, do something you don’t usually do but may find satisfying (e.g., go into a store that has always seemed interesting, but that you always pass by; or look on a website for something you wouldn’t normally buy) Notice how it felt to do what you felt compelled to do."
+        },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "..."
+        },
+        "followUp": {
+          "id": "pl-1-take-action-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": true,
+        "alias": "pl-1-take-action",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "pl-1-take-action"
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-1-take-action",
+    "alias": "pl-1-take-action",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Age",
+        "task": {
+          "id": "pl-1-take-action-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Age",
+          "body": "Nas próximas horas, faz algo que não costumas fazer, mas que aches gratificante (por exemplo, entrar numa loja que sempre te pareceu interessante; pesquisar algo num site que te interessa).\n\n* Observa como te sentes ao fazer o que tens vontade de fazer."
+        },
+        "sharingWall": {
+          "question": " Como te sentiste ao fazer o que tens vontade de fazer.?",
+          "exampleText": "Reparei que..."
+        },
+        "followUp": {
+          "id": "pl-1-take-action-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "lessonlastDay": true,
+        "alias": "pl-1-take-action",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "pl-1-take-action"
+      }
+    ]
+  }
+}

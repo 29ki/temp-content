@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "kroppen-3",
-    "alias": "kroppen-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 2-body-3",
     "root": "section1",
     "sections": [
       {
@@ -16,7 +15,7 @@
               },
               {
                 "component": "Text",
-                "content": "Now you should try a focus exercise with the body and your experiences in the center."
+                "content": "Soon you'll get to try an exercise that focuses on your body and how it feels."
               }
             ]
           },
@@ -25,8 +24,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Move on",
-                "conversationId": "kroppen-3",
+                "content": "Listen to others",
                 "sectionId": "yourBodyYourHomeVideos"
               }
             ]
@@ -38,7 +36,7 @@
       },
       {
         "id": "yourBodyYourHomeVideos",
-        "alias": "yourBodyYourHomeVideos",
+        "alias": "yourBodyYourHomeVideostories",
         "content": [
           {
             "component": "VideoStories",
@@ -47,19 +45,22 @@
                 "title": "Isaac, 20",
                 "duration": 47,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856890/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/isaac-dinkroppditthem-en_dsumg7.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 34,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856889/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/emelia-dinkroppditthem-en_lmewc6.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 33,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856889/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/laila-dinkroppditthem-en_xsoult.vtt"
               }
             ]
           },
@@ -69,7 +70,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "kroppen-3",
                 "sectionId": "section2"
               }
             ]
@@ -85,24 +85,23 @@
               {
                 "component": "Text",
                 "content": "# Your body, your home"
-              },
+              }
+            ]
+          },
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624637214/Become%20friends%20with%20yourself/sound%20files/YA_Make_Friends_L2_Meditation_g6vvti.mp4",
+              "duration": -1
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
               {
-                "component": "AudioPlayer",
-                "content": {
-                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv%2Fdin-kropp-ditt-hem.mp3",
-                  "duration": 256
-                }
-              },
-              {
-                "component": "ButtonGroup",
-                "content": [
-                  {
-                    "component": "Button",
-                    "content": "Next",
-                    "conversationId": "kroppen-3",
-                    "sectionId": "section3"
-                  }
-                ]
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "section3"
               }
             ]
           }
@@ -118,11 +117,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Now you are done with this challenge about emotions, the body and the stress boost."
+                "content": "Now you've completed this lesson about emotions, the body and the acute stress response."
               },
               {
                 "component": "Text",
-                "content": "In situations where you notice that your body is triggering a surcharge, you can help yourself by noticing what is happening and being extra kind to yourself."
+                "content": "In situations where you notice that your body triggers an acute response, you can help yourself by noticing what is happening and by being extra kind to yourself."
               }
             ]
           },
@@ -145,8 +144,7 @@
   },
   "sv": {
     "id": "kroppen-3",
-    "alias": "kroppen-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 2-body-3",
     "root": "section1",
     "sections": [
       {
@@ -160,7 +158,7 @@
               },
               {
                 "component": "Text",
-                "content": "Snart ska du få prova en fokusövning med kroppen och dina upplevelser i centrum."
+                "content": "Snart ska du få prova en övning med fokus på kroppen och hur den känns."
               }
             ]
           },
@@ -170,7 +168,6 @@
               {
                 "component": "Button",
                 "content": "Hör andra berätta",
-                "conversationId": "kroppen-3",
                 "sectionId": "yourBodyYourHomeVideos"
               }
             ]
@@ -191,19 +188,22 @@
                 "title": "Isaac, 20",
                 "duration": 47,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_dinkroppditthem.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608915/Become%20friends%20with%20yourself/subtitles/isaac-dinkroppditthem_su3rgu.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 34,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_dinkroppditthem.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608915/Become%20friends%20with%20yourself/subtitles/emelia-dinkroppditthem_zmbgzh.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 33,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_dinkroppditthem.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608915/Become%20friends%20with%20yourself/subtitles/laila-dinkroppditthem_vhrtz6.vtt"
               }
             ]
           },
@@ -213,7 +213,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "kroppen-3",
                 "sectionId": "section2"
               }
             ]
@@ -229,24 +228,23 @@
               {
                 "component": "Text",
                 "content": "# Din kropp, ditt hem"
-              },
+              }
+            ]
+          },
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv%2Fdin-kropp-ditt-hem.mp3",
+              "duration": 256
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
               {
-                "component": "AudioPlayer",
-                "content": {
-                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv%2Fdin-kropp-ditt-hem.mp3",
-                  "duration": 256
-                }
-              },
-              {
-                "component": "ButtonGroup",
-                "content": [
-                  {
-                    "component": "Button",
-                    "content": "Nästa",
-                    "conversationId": "kroppen-3",
-                    "sectionId": "section3"
-                  }
-                ]
+                "component": "Button",
+                "content": "Nästa",
+                "sectionId": "section3"
               }
             ]
           }
@@ -262,11 +260,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Nu är du klar med den här utmaningen om känslor, kroppen och stresspåslaget."
+                "content": "Nu är du klar med den här lektionen om känslor, kroppen och stresspåslaget."
               },
               {
                 "component": "Text",
-                "content": "I situationer när du märker att din kropp drar igång ett påslag, kan du hjälpa dig själv genom att lägga märke till vad som händer och vara extra snäll mot dig själv."
+                "content": "I situationer när du märker att din kropp reagerar med ett påslag, se om du kan hjälpa dig själv genom att lägga märke till vad det är som händer. Försök även vara extra snäll mot dig själv."
               }
             ]
           },
@@ -276,6 +274,155 @@
               {
                 "component": "LessonCompleteButton",
                 "content": "Avsluta",
+                "conversationId": "kroppen-3"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "kroppen-3",
+    "alias": "YA Become friends: 2-body-3",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Exercício de foco"
+              },
+              {
+                "component": "Text",
+                "content": "Em breve vais experimentar um exercício que te foca no teu corpo e em como ele se sente."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Ouve estes testemunhos",
+                "sectionId": "yourBodyYourHomeVideos"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "yourBodyYourHomeVideos",
+        "alias": "yourBodyYourHomeVideostories",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "António Casalinho",
+                "duration": 86,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357212/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L2V2_fhpqez.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_Raw.L2V2_ubwgue.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Leonor",
+                "duration": 38,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358550/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L2V2_hsunbo.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379528/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/O_Corpo_-_video_2_medita%C3%A7%C3%A3o_prkpms.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Daniela",
+                "duration": 56,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357774/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L2V2_bul2yw.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375118/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_O_Corpo_-_Video_2_medita%C3%A7%C3%A3o_punscw.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358297/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L2V2_kqqmoc.mp4",
+                "duration": 55,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379406/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/O_Corpo_-_video_2_gsw5jo.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# O teu corpo, a tua casa"
+              }
+            ]
+          },
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893811/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Meditations%20Exercises%20Audio/S%C3%AA_teu_amigo_-_O_TEU_CORPO_A_TUA_CASA_-_06_16_z14bam.mp3",
+              "duration": 6
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora concluíste esta lição sobre emoções, o corpo e a resposta aguda ao stress."
+              },
+              {
+                "component": "Text",
+                "content": "Em situações em que percebes que o teu corpo desencadeia uma resposta aguda, podes ajudar-te percebendo o que está a acontecer e sendo mais gentil contigo mesmo."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Fim ",
                 "conversationId": "kroppen-3"
               }
             ]

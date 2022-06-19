@@ -1,0 +1,17 @@
+{
+  "en": {
+    "screenTitle": "Next",
+    "lessonsTitle": "Lesson",
+    "sharingsTitle": "Sharing"
+  },
+  "sv": {
+    "screenTitle": "Kommande",
+    "lessonsTitle": "Lektion",
+    "sharingsTitle": "Delning"
+  },
+  "pt": {
+    "screenTitle": "Seguinte",
+    "lessonsTitle": "Lição",
+    "sharingsTitle": "Partilhas"
+  }
+}

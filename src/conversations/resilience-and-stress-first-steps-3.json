@@ -1,0 +1,355 @@
+{
+  "en": {
+    "id": "resilience-and-stress-first-steps-3",
+    "alias": "resilience-and-stress-first-steps-3",
+    "root": "d237de9e-805a-4157-a8a4-84aca13228e6",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "d237de9e-805a-4157-a8a4-84aca13228e6",
+        "alias": "Intro",
+        "content": "Research shows that physical activity both **prevents** and **reduces** stress. But there are many other things we can do too to feel better.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "e7ffdf5d-04f5-4e16-aca4-15f40a780eea"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1625744701/marek-piwnicki-G4JXPR1eQL8-unsplash_1_etxwc7.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e7ffdf5d-04f5-4e16-aca4-15f40a780eea",
+        "content": "Recovery can be **resting** or **sleeping**. But it can also be things like lying on the grass and watching the clouds. Having a coffee with a friend. Running. Activities that give you satisfaction and strength. \n\nAnything that gives you **satisfaction and strength**.",
+        "alias": "Intro 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "7de49d8b-befd-4098-9647-c35d98855320"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "7de49d8b-befd-4098-9647-c35d98855320",
+        "alias": "Exercise part 1",
+        "title": "Exercise",
+        "longDescription": "Write down your answers.\n\n1. Think of a time in your life that was especially **stressful**. What activities or relationships did you **stop** **prioritizing** in that situation?\n2. What activities or relationships helped you **feel good** and gave you **energy** during that stressful time?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "longDescription": "3. What did you do to make sure that the activity you love still **happened**?\n4. During this particularly stressful time, did you **learn** anything that could be **helpful** for you **today**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "d74cdad7-f7a2-47de-b42a-1addce276899"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "d74cdad7-f7a2-47de-b42a-1addce276899",
+        "longDescription": "5. Think about the **activities** you love which help you **relax**, give you **energy** and make you **happy**. Write down three to five of these recovering activities.\n6. Make time for these activities in the coming weeks or months and **add** **them to your calendar.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Finished",
+            "sectionId": "74ac963f-7854-4a70-a517-fde03d59e881"
+          }
+        ],
+        "alias": "Exercise pt 3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "74ac963f-7854-4a70-a517-fde03d59e881",
+        "alias": "Reflection",
+        "title": "Reflection",
+        "content": "Now it's time to take a **bird's eye view.**\n\nSee if you can gain a **greater** **understanding** of ​​what activities often get deprioritized when you're stressed, and what things help you feel good again. Maybe you can find **a pattern** that often repeats when you're in stressful situations.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Well done on completing the **First steps** — you’ve just done a wonderful thing for yourself!\n\nYou've learnt why we become stressed and how it manifests itself. \n\nWhile we can't eliminate stress from our lives entirely, each of us has the **ability to recover** from stressful events by engaging in the activities that give us our energy back.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "Sharing",
+        "content": "You are now ready for the next important step — sharing with your group. \n\nRemember the questions:\n\n1. Describe a stressful period.\n2. What activities or relationships did you stop prioritizing?\n3. What activities or relationships helped you?\n4. What did you do to make sure that the activity you love still happened? What did you do to take care of a relationship?\n5. Did you learn anything that can be helpful today?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-first-steps-3",
+    "alias": "resilience-and-stress-first-steps-3",
+    "root": "88f0a346-8e2f-49ff-84fd-0a0ab2d5053a",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "88f0a346-8e2f-49ff-84fd-0a0ab2d5053a",
+        "alias": "Intro",
+        "content": "Forskning visar att fysisk aktivitet både **förebygger** och **minskar** stress. Men det finns många andra saker vi också kan göra för att må bättre.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "5ff07314-062b-4e32-9fa5-cd07e5e7d803"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1625744701/marek-piwnicki-G4JXPR1eQL8-unsplash_1_etxwc7.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5ff07314-062b-4e32-9fa5-cd07e5e7d803",
+        "content": "Återhämtning kan vara att **vila** eller **sova**. Men det kan också vara saker som att ligga i gräset och titta på moln. Ta en kaffe med en vän. Springa. Aktiviteter som ger dig tillfredsställelse och kraft. \n\nVad som helst som **får dig att må bra,** helt enkelt.",
+        "alias": "Intro 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "b94d8bae-1165-43d0-84b1-36bf2de46455"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "b94d8bae-1165-43d0-84b1-36bf2de46455",
+        "alias": "Övning",
+        "longDescription": "Skriv ner dina svar. \n\n1. Tänk nu på en period i ditt liv som var särskilt **stressig**. Vilka aktiviteter eller relationer **slutade** du **prioritera** under den perioden? \n2. Vilka aktiviteter eller relationer hjälpte dig **må bra** och gav dig **energi** under den perioden?",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "writing",
+        "title": "",
+        "time": "",
+        "longDescription": "3. Vad gjorde du under den perioden för att se till att den här aktiviteten du älskar **blev av**?\n4. När du tänker tillbaka på den här stressiga perioden i ditt liv, **lärde** du dig något som kan vara till **hjälp** för dig **idag**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "c508a561-e1df-4ecf-a7d9-57558c8d7f15"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "c508a561-e1df-4ecf-a7d9-57558c8d7f15",
+        "longDescription": "5. Tänk på aktiviteter du **älskar**, som hjälper dig att **slappna** **av**, som ger dig **energi** och gör dig **lycklig**. Skriv ner mellan tre och fem återhämtande aktiviteter.\n6. **Planera** in dessa i din **kalender** för den kommande veckan och månaden.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "121621b8-3644-439b-8a6c-3b82bcb6a206"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "121621b8-3644-439b-8a6c-3b82bcb6a206",
+        "alias": "Reflektion",
+        "content": "Ta en stund och **reflektera** över dina svar. \n\nSe om du kan få en **bättre bild** över vilka aktiviteter som ofta faller bort när du är stressad, och vilka saker som hjälper dig att må bra igen. Kanske kan du lägga märke till **ett mönster** för vad som händer när just du befinner dig i stressiga situationer.",
+        "title": "Reflektion",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Färdig",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "video",
+        "title": "En stressig period",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/sharing_1.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622490339/Hantera%20Stress%20Adult/fo%CC%88rstastegen_exercise_b0ykh2.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Du har nu gjort klart **Stress – så funkar det** — bra jobbat!\n\nDu har lärt dig om varför vi blir stressade och hur du märker när det blir för mycket.\n\nÄven om vi inte kan ta bort stress från våra liv så har var och en av oss **förmågan** **att** **återhämta** sig från stressiga händelser genom att göra saker som ger oss energin tillbaka.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "alias": "section12",
+        "type": "editorialWithImage",
+        "title": "Delning",
+        "content": "Du är nu redo för nästa viktiga steg — att dela med din grupp. \n\nKom ihåg frågorna: \n\n1. Beskriv en stressig period.\n2. Vilka aktiviteter eller relationer slutade du prioritera?\n3. Vilka aktiviteter eller relationer hjälpte dig? \n4. Vad gjorde du för att se till att den aktivitet du älskar blev av? Vad gjorde du för att ta hand om en relation? \n5. Lärde du dig något som kan vara till hjälp idag?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-first-steps-3",
+    "alias": "resilience-and-stress-first-steps-3",
+    "root": "81b94087-4cbc-4d2b-a5c1-3067da6f0338",
+    "sections": [
+      {
+        "type": "video",
+        "id": "81b94087-4cbc-4d2b-a5c1-3067da6f0338",
+        "alias": "section8a",
+        "title": "Pensa nas atividades que gostas mais de fazer...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "description": "“Tenho várias coisas que gosto de fazer e tento que sejam coisas completamente fora do trabalho. E que sejam coisas que abram o meu coração e que me levem a explorar um leque de emoções maior e são coisas extremamente simples.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543794/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L8thumbnailumavidanova_db71up.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621803077/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L1_Stress_and_resilience_V1_9-16_axbd5t.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "Exercício - Parte 1",
+        "time": "5 min",
+        "longDescription": "Pensa nas atividades que gostas mais de fazer, que te ajudam a relaxar, te dão energia e te fazem feliz.\n\nPode ser estares a descansar na relva, a olhar para as nuvens, a tomar um café com um/a amigo/a ou correr. As atividades que te dão conforto e força. Também pode ser melhorar uma relação especial com um/a amigo/a, um familiar ou outra pessoa. Escreve 3 a 10 atividades. Vais precisar delas na próxima fase.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "Exercício - Parte 2",
+        "time": "5-10 min",
+        "longDescription": "1. Agora pensa numa altura da tua vida que foi particularmente stressante. De que atividades ou relações desististe nessa situação?\n2. Que atividades ou relações te ajudaram a aguentar ou a recarregar as baterias durante esse período stressante?\n3. O que fizeste para garantir que essa atividade de que gostas acontecesse? O que fizeste para cultivar uma relação importante?\n4. Pensa nessa época que foi especialmente stressante. Aprendeste alguma coisa que te pode ser útil hoje?\n\nEscreve as tuas respostas. Serão o que poderás partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Já completaste **Os Primeiros Passos**.\n\nAprendeste porque é que o stress existe e como se manifesta. Embora não possamos eliminar totalmente o stress das nossas vidas, cada um de nós tem a capacidade de recuperar de acontecimentos stressantes através das atividades que nos preenchem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Parabéns por completares a lição **Os Primeiros passos** - acabaste de fazer uma coisa maravilhosa para o teu bem-estar.\n\nAgora podes passar para o próximo passo - partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

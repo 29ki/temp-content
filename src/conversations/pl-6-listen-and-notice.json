@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-6-listen-and-notice",
+    "alias": "pl-6-listen-and-notice",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-6-listen-and-notice",
+        "alias": "pl-6-listen-and-notice",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Listen & notice",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-6-listen-and-notice-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Listen & notice",
+          "body": "Over the next few hours, really listen to people. Notice if what they say, or how they say it, helps you to see anything in a new way."
+        },
+        "followUp": {
+          "id": "pl-6-listen-and-notice-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "What did you notice by doing this quest?",
+          "exampleText": "I noticed then when I'm really paying attention to what the other person is saying, the words come to me naturally and it's easier to respond."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-6-listen-and-notice",
+    "alias": "pl-6-listen-and-notice",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-6-listen-and-notice",
+        "alias": "pl-6-listen-and-notice",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Listen & notice",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Listen & notice",
+          "body": "Nas próximas horas, escuta mesmo as pessoas. Observa se o que elas dizem, ou \ncomo dizem, te ajuda a ver alguma coisa de uma maneira diferente."
+        },
+        "followUp": {
+          "id": "pl-6-listen-and-notice-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Hora de fazer o check-in da missão de hoje!"
+        },
+        "sharingWall": {
+          "question": "Como te sentiste ao cumprir a missão de hoje? ",
+          "exampleText": "..."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-6-listen-and-notice",
+    "alias": "pl-6-listen-and-notice",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-6-listen-and-notice",
+        "alias": "pl-6-listen-and-notice",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Listen & notice",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-6-listen-and-notice-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Ouve e observa",
+          "body": "Nas próximas horas, ouve as pessoas com atenção. Observar o que elas dizem, ou como elas dizem, ajuda-te a ver as coisas de uma nova maneira."
+        },
+        "followUp": {
+          "id": "pl-6-listen-and-notice-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "O que sentiste ao fazer este desafio?",
+          "exampleText": "Percebi que quando estou realmente a prestar atenção ao que a outra pessoa está a dizer, as palavras aparecem mais naturalmente e é mais fácil responder."
+        }
+      }
+    ]
+  }
+}

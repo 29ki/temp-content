@@ -1,0 +1,181 @@
+{
+  "en": {
+    "id": "72becbaa-8242-412a-937b-4833160ac4ab",
+    "alias": "Leadership-leadpurposefully-1",
+    "sections": [
+      {
+        "type": "video",
+        "id": "9f1a87e7-ee49-4dc2-aa3c-46f17daa79a3",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go!",
+            "sectionId": "42dbf3f0-5bec-498e-925a-53fea1a2bc52"
+          }
+        ],
+        "title": "Welcome to Purposeful Leadership",
+        "alias": "Video",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1631792785/Leadership/lesson_1_fgptsg.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1637574489/Leadership/leadershipcourse_1080x1920_pdla9y.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "42dbf3f0-5bec-498e-925a-53fea1a2bc52",
+        "alias": "Intro",
+        "title": "Becoming a Purposeful Leader",
+        "content": "Over the next 8 weeks you'll practice and learn the techniques used by the most successful leaders.\n\nLike learning to be a surgeon, you can only learn to lead through mentors and continual practice.\n\nThis course involves practicing your leadership skills as you go about your day. This may sound scary, but honing these skills in real situations will give you a sense of success and excitement, and help you learn things you could never learn in a classroom.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "0ce52ec5-075b-4a05-beb9-f805feb5893a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0ce52ec5-075b-4a05-beb9-f805feb5893a",
+        "alias": "Some housekeeping",
+        "title": "Some housekeeping",
+        "content": "Each week consists of: \n\n* A 30-minute lesson\n* A quest (a short action to perform the next day)\n* A group sharing (in small groups)\n* Further reading\n\nYou can take this course at your own pace or opt in to **become certified** by [](https://www.gold.ac.uk/short-courses/purposeful-leadership/)**Goldsmiths, University of London**.",
+        "infoItems": [
+          {
+            "title": "Become a Certified Purposeful Leader",
+            "description": "You can enrol in the certified programme directly through the Goldsmiths University. [Click here for more information.](https://www.gold.ac.uk/short-courses/purposeful-leadership/)"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Now, let's start the lesson",
+            "sectionId": "34bffb50-b4d3-4f9b-a6fb-32f07527b9c9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "34bffb50-b4d3-4f9b-a6fb-32f07527b9c9",
+        "alias": "Intro 2",
+        "title": "Purpose = Task success + Fulfillment",
+        "content": "Few people find deep, long-lasting fulfillment and contentment in just being successful. As important as success is, it's only a means to an end for most people. For those who are pursuing purpose, which is the combination of success and fulfillment, successfully achieving tasks will always matter to us in some way.\n\nThis course invites you to play an active role in learning the leadership skills that can help you to succeed in whatever you wish to pursue in your life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "How can I tell the difference?",
+            "sectionId": "433fd7a5-0f28-4d70-b3ed-1cd1d08911b9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "433fd7a5-0f28-4d70-b3ed-1cd1d08911b9",
+        "alias": "Intro 3",
+        "content": "When we care about what we do, we may feel exhilarated.\n\nWhen we don’t really care about what we do, we may feel grateful that we can support our family, but we probably don't feel fulfilled.\n\nAs you're about to find out, by paying attention to how you feel when you pursue what you do, you get to discover a lot about yourself and your life.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "467d2a47-11f2-49ab-b23a-83c017b16762",
+            "content": "Continue"
+          }
+        ]
+      }
+    ],
+    "root": "9f1a87e7-ee49-4dc2-aa3c-46f17daa79a3"
+  },
+  "sv": {
+    "id": "72becbaa-8242-412a-937b-4833160ac4ab",
+    "alias": "Leadership-leadpurposefully-1"
+  },
+  "pt": {
+    "id": "72becbaa-8242-412a-937b-4833160ac4ab",
+    "alias": "Leadership-leadpurposefully-1",
+    "root": "9f1a87e7-ee49-4dc2-aa3c-46f17daa79a3",
+    "sections": [
+      {
+        "type": "video",
+        "id": "9f1a87e7-ee49-4dc2-aa3c-46f17daa79a3",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá!",
+            "sectionId": "42dbf3f0-5bec-498e-925a-53fea1a2bc52"
+          }
+        ],
+        "title": "Bem-vinda/o à liderança com propósito",
+        "alias": "Video",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1631792785/Leadership/lesson_1_fgptsg.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652688918/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Antonio_horta_Osorio_video_inical_do_curso_iibw4b.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "42dbf3f0-5bec-498e-925a-53fea1a2bc52",
+        "alias": "Intro",
+        "title": "Torna-te um Líder",
+        "content": "Nas próximas 8 semanas, vais praticar e aprender as técnicas utilizadas pelos líderes mais bem-sucedidos. \n\nTal como quem está a aprender a ser cirurgião, tu só consegues aprender a liderar através de mentores e da prática contínua. \n\nEste curso implica praticar as competências de liderança no teu dia-a-dia. Isso pode parecer assustador, mas apurar essas competências em situações reais vai dar-te uma sensação de sucesso e entusiasmo, que te vai ajudar a aprender coisas que nunca aprenderias em contexto de sala de aula.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "0ce52ec5-075b-4a05-beb9-f805feb5893a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0ce52ec5-075b-4a05-beb9-f805feb5893a",
+        "alias": "Arrumar a casa ",
+        "title": "Arrumar a casa ",
+        "content": "Cada semana envolve: \n\n* uma lição de 30 minutos \n* um desafio (uma ação curta a ser realizada no dia seguinte) \n* um grupo de partilha (em pequenos grupos) \n* leitura adicional",
+        "infoItems": [],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Agora, vamos começar a lição",
+            "sectionId": "34bffb50-b4d3-4f9b-a6fb-32f07527b9c9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "34bffb50-b4d3-4f9b-a6fb-32f07527b9c9",
+        "alias": "Intro 2",
+        "title": "Propósito = Sucesso + Realização ",
+        "content": "Poucas pessoas encontram satisfação e realização profundas e duradouras apenas por serem bem-sucedidas. Por mais importante que seja o sucesso, para a maioria das pessoas é apenas um meio para atingir um fim. Para aqueles que buscam um propósito, **a combinação de sucesso com realização**, cumprir as tarefas com sucesso vai ser sempre importante de alguma forma. \n\nEste curso convida-te a desempenhar um papel ativo na aprendizagem das competências de liderança que te podem ajudar a ter sucesso em tudo o que desejas conseguir na vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Como faço a distinção? ",
+            "sectionId": "433fd7a5-0f28-4d70-b3ed-1cd1d08911b9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "433fd7a5-0f28-4d70-b3ed-1cd1d08911b9",
+        "alias": "Intro 3",
+        "content": "Quando gostamos do que fazemos, podemos sentir-nos entusiasmados.\n\nQuando não nos interessa verdadeiramente o que fazemos, podemos sentir-nos gratos por podermos sustentar a nossa família, mas provavelmente não nos sentimos realizados.\n\nComo estás prestes a descobrir, ao dar atenção a como te sentes ao fazer o que fazes, vais descobrir muito sobre ti mesmo e sobre a tua vida.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "467d2a47-11f2-49ab-b23a-83c017b16762",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

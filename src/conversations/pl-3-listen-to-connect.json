@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-3-listen-to-connect",
+    "alias": "pl-3-listen-to-connect",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-3-listen-to-connect",
+        "alias": "pl-3-listen-to-connect",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Listen to connect",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-3-listen-to-connect-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Listen to connect",
+          "body": "Over the next few hours, do something that will make you feel more connected to another person (e.g., listen to them without judging or interrupting)."
+        },
+        "followUp": {
+          "id": "pl-3-listen-to-connect-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "How was it to connect with someone in this way?",
+          "exampleText": "I noticed..."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-3-listen-to-connect",
+    "alias": "pl-3-listen-to-connect",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-3-listen-to-connect",
+        "alias": "pl-3-listen-to-connect",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Listen to connect",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Listen to connect",
+          "body": "Over the next few hours, do something that will make you feel more connected to another person (e.g., listen to them)."
+        },
+        "followUp": {
+          "id": "pl-3-listen-to-connect-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "..."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-3-listen-to-connect",
+    "alias": "pl-3-listen-to-connect",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-3-listen-to-connect",
+        "alias": "pl-3-listen-to-connect",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Listen to connect",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-3-listen-to-connect-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Ouve para te conectares",
+          "body": "Nas próximas horas, faz algo que te vá deixar mais conectado(a) com outra pessoa (ou seja, ouve-a sem julgar ou interromper)."
+        },
+        "followUp": {
+          "id": "pl-3-listen-to-connect-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "Como foi conectares-te com alguém desta forma?",
+          "exampleText": "Tomei consciência que..."
+        }
+      }
+    ]
+  }
+}

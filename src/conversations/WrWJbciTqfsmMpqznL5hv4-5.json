@@ -1,0 +1,537 @@
+{
+  "en": {
+    "id": "WrWJbciTqfsmMpqznL5hv4-5",
+    "alias": "Self compassion - Shame 5",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Shame",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yg_shame_welcome.jpg",
+        "title": "Shame",
+        "content": "### Welcome back.\n\nIn this lesson you will explore the topic of shame. Something that affects us all and even controls our behaviour at times, but that we rarely talk about. This lesson explores how shame and compassion can learn from each other so we can be more of ourselves.\n\n### The Research\n\nThis lesson is a modified version of the exercise “The criticizer, The criticized, and The compassionate observer,” which was developed by researcher and self-compassion expert Kristin Neff, PhD\n\n### This lesson has three parts:\n\n* Three perspectives of shame (Writing)\n* Holding emotions through presence (Meditation)\n* Videosharing\n\n### Preparation for lesson:\n\n* 40 min of undisturbed time\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Shame",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yg_shame_exercise_writing.jpg",
+        "title": "Shame",
+        "content": "We all know the feeling.\n\nNot being enough. Not being worthy.\n\nA fear within us often so deep we hardly know it’s there, or we pretend it isn’t.\n\nSo we work. We perfect. Make excuses. Prove ourselves. Avoid feeling it.\n\nThis exercise explores how the fear of not being enough can heal through having a conversation between the part that is shaming, the part who is shamed and the one observing.\n\nStepping into these perspectives physically lets you see things that thinking simply can’t.\n\nYou’re invited to see Rachel work through these three perspectives; the part of her who is shaming, the one feeling shame and the compassionate observer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Three perspectives",
+        "title": "Three perspectives",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yogagirl_shame_exercise.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622194944/Self%20Compassion/shame_exercise1_eivs1d.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Shame",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/inner_critic/yg_inner_critic_writing_intro_b-min.jpg",
+        "title": "Shame",
+        "content": "This exercise explores three perspectives through writing; The Shamer, The Shamed and The Compassionate Observer.\n\nThis is an exercise that can be intense and possibly overwhelming. If you’re feeling shaky, vulnerable, or on the verge of being overwhelmed, then the most self-compassionate thing you can do is to skip this exercise and take care of yourself (you can for example take a walk or have a cup of tea). Please remember that you can stop at any time or go to the safety toolkit: the badge symbol in the upper right corner.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "The Shamer",
+        "title": "The Shamer",
+        "question": "",
+        "longDescription": "Start by embodying the shaming perspective. From these harsh and judgemental perspective, write down what you usually say to yourself.\n\nWrite freely for five minutes. Give details and examples.\n\n#### Complete the following sentences\n\n* When I feel the most ashamed of you is when...\n* You will never be able to...\n* You’re not worthy of...\n\nBefore you move on to the next part, read this letter aloud to yourself.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "The Shamed",
+        "title": "The Shamed",
+        "question": "",
+        "longDescription": "Now, take the seat of the shamed part of you. How does hearing this make you feel? Write down your answer.\n\n#### Complete the following sentences\n\n* When I hear you saying this I feel...\n* If what you’re saying is true...\n* What I want to do when I feel like this is...\n\nBefore you move on to the next part, read this letter aloud to yourself.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "The Compassionate one",
+        "title": "The Compassionate one",
+        "question": "",
+        "longDescription": "Now take the seat of the compassionate and wise part of you. What do you want to say?\n\n#### Complete the following sentences\n\n* What I wish for you is...\n* What I know you’re longing for is...\n\nBefore you move on to the next part, read this letter aloud to yourself.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Shame",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/inner_critic/yg_inner_critic_writing_intro_a-min.jpg",
+        "title": "Shame",
+        "content": "### Down the rabbit hole...\n\nIf you want, you can continue writing the conversation between the three perspectives.\n\n#### Questions to explore\n\n* Does your compassionate voice sound like someone you recognize?\n* What does the shamer really want? Is it possible it’s trying to help you?\n* What could you do to strengthen your compassionate voice?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "In this meditation you'll continue to explore feelings of shame.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/shame/yogagirl_meditation_Lesson_05_Shame.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Reflecting on the voices",
+        "title": "Reflecting on the voices",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yogagirl_shame_outro.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622195049/Self%20Compassion/shame_outro_ch0wor.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Well done on completing the **Shame** lesson, you’ve just done a wonderful thing for yourself.\n\nShould you choose to participate in a sharing with your group, you’ll be needing the following exercises close at hand:\n\n* Three letters: The shamer\n* Three letters: The shamed\n* Three letters: The compassionate one\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "WrWJbciTqfsmMpqznL5hv4-5",
+    "alias": "Self compassion - Shame 5",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Skam",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yg_shame_welcome.jpg",
+        "title": "Skam",
+        "content": "### Välkommen tillbaka.\n\nI den här lektionen kommer du att utforska ämnet skam. Något som påverkar oss alla och till och med kontrollerar vårt beteende ibland, men som vi sällan pratar om. Denna lektion undersöker hur skam och medkänsla kan lära av varandra så att vi kan vara mer av oss själva.\n\n### Forskningen\n\nDen här lektionen är en modifierad version av övningen \"Kritikern, kritikaren och den medkännande observatören\", som utvecklades av forskare och självmedlidande expert Kristin Neff, doktor\n\n### Denna lektion består av tre delar:\n\n* Tre skamperspektiv (Skrivande)\n* Att hålla känslor genom närvaro (meditation)\n* Gruppdelning\n\n### Förberedelse för lektionen:\n\n* 40 min ostörd tid\n* Penna och papper",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Skam",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yg_shame_exercise_writing.jpg",
+        "title": "Skam",
+        "content": "Vi känner alla till känslan.\n\nDet räcker inte. Att inte vara värdig.\n\nEn rädsla inom oss ofta så djup att vi knappt vet att den är där, eller vi låtsas att den inte är det.\n\nSå vi jobbar. Vi gör perfekt. Hitta på ursäkter. Bevisa oss själva. Undvik att känna det.\n\nDenna övning utforskar hur rädslan för att inte räcka kan läka genom att ha en konversation mellan den del som skäms, den del som skäms och den som observerar.\n\nGenom att gå in i dessa perspektiv kan du fysiskt se saker som tänkande helt enkelt inte kan.\n\nDu är inbjuden att se Rachel arbeta igenom dessa tre perspektiv; den del av henne som skäms, den som känner skam och den medkännande observatören.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Tre perspektiv",
+        "title": "Tre perspektiv",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yogagirl_shame_exercise.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622194944/Self%20Compassion/shame_exercise1_eivs1d.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Skam",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/inner_critic/yg_inner_critic_writing_intro_b-min.jpg",
+        "title": "Skam",
+        "content": "Denna övning utforskar tre perspektiv genom att skriva; The Shamer, The Shamed och The Compassionate Observer.\n\nDetta är en övning som kan vara intensiv och eventuellt överväldigande. Om du känner dig skakig, sårbar eller på väg att bli överväldigad, är det mest självmedkännande du kan göra att hoppa över den här övningen och ta hand om dig själv (du kan till exempel ta en promenad eller ta en kopp te). Kom ihåg att du kan stanna när som helst eller gå till säkerhetsverktygssatsen: märksymbolen i det övre högra hörnet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "The Shamer",
+        "title": "The Shamer",
+        "question": "",
+        "longDescription": "Börja med att förkroppsligar skamperspektivet. Ur dessa hårda och bedömande perspektiv, skriv ner vad du brukar säga till dig själv.\n\nSkriv fritt i fem minuter. Ge detaljer och exempel.\n\n#### Fyll i följande meningar\n\n* När jag känner mig skämdast för dig är när ...\n* Du kommer aldrig att kunna ...\n* Du är inte värdig ...\n\nInnan du går vidare till nästa del, läs detta brev högt för dig själv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "The Shamed",
+        "title": "The Shamed",
+        "question": "",
+        "longDescription": "Ta nu platsen för den skamliga delen av dig. Hur känner du att höra detta? Skriv ner ditt svar.\n\n#### Fyll i följande meningar\n\n* När jag hör dig säga detta känner jag ...\n* Om det du säger är sant ...\n* Vad jag vill göra när jag känner att det här är ...\n\nInnan du går vidare till nästa del, läs detta brev högt för dig själv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Den medkännande",
+        "title": "Den medkännande",
+        "question": "",
+        "longDescription": "Ta nu plats för den medkännande och kloka delen av dig. Vad vill du säga?\n\n#### Fyll i följande meningar\n\n* Vad jag önskar dig är ...\n* Det jag vet att du längtar efter är ...\n\nInnan du går vidare till nästa del, läs detta brev högt för dig själv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Skam",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/inner_critic/yg_inner_critic_writing_intro_a-min.jpg",
+        "title": "Skam",
+        "content": "### Ner I kaninhålet...\n\nOm du vill kan du fortsätta skriva konversationen mellan de tre perspektiven.\n\n#### Frågor att utforska\n\n* Låter din medkännande röst som någon du känner igen?\n* Vad vill shamer verkligen ha? Är det möjligt att det försöker hjälpa dig?\n* Vad kan du göra för att stärka din medkännande röst?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Denna meditation kommer att förbereda dig för nästa steg i övningen.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/shame/yogagirl_meditation_Lesson_05_Shame.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Reflektera över rösterna",
+        "title": "Reflektera över rösterna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/shame/yogagirl_shame_outro.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622195049/Self%20Compassion/shame_outro_ch0wor.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra gjort när du har slutfört ** Skam ** -lektionen, du har precis gjort en underbar sak för dig själv.\n\nOm du väljer att delta i en delning med din grupp behöver du följande övningar nära till hands:\n\n* Tre bokstäver: Shamer\n* Tre bokstäver: The shamed\n* Tre bokstäver: Den medkännande\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "WrWJbciTqfsmMpqznL5hv4-5",
+    "alias": "Self compassion - Shame 5",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P1shameautocompaixao_n86s0b.jpg",
+        "title": "Vergonha",
+        "content": "### Que bom ter-te de volta.\n\nNesta lição vais explorar o tema da vergonha. Algo que nos afeta a todos e que por vezes até controla o nosso comportamento, mas de que raramente falamos. Esta lição explora como a vergonha e a compaixão podem interagir entre si para que consigamos ser mais nós próprios.\n\n### A Investigação\n\nEsta lição é uma versão adaptada do exercício \"O crítico, O criticado e O observador compassivo\", que foi desenvolvido pela investigadora e especialista em autocompaixão Dra. Kristin Neff\n\n### Esta lição tem três partes:\n\n* Três perspetivas da vergonha (Escrita)\n* Manter as emoções através da presença (Meditação)\n* Partilha de vídeos\n\n### Preparação para a lição:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P2shameautocompaixao_ucssvh.jpg",
+        "title": "Vergonha",
+        "content": "Todos conhecemos a sensação.\n\nDe não ser o suficiente. De não ser merecedor/a.\n\nUm medo que está dentro de nós, muitas vezes tão profundamente que mal sabemos que está lá ou fingimos que não está.\n\nPor isso trabalhamos. Aperfeiçoamo-nos. Arranjamos desculpas. Pomo-nos à prova. Evitamos senti-lo.\n\nEste exercício explora como o medo de não ser suficiente pode melhorar através de uma conversa entre a parte que está a envergonhar, a que é envergonhada e a que está a observar.\n\nAo entrares fisicamente nestas perspetivas, poderás ver coisas que o pensamento simplesmente não consegue.\n\nConvidamos-te a ver a Fátima a passar por estas três perspetivas: a parte dela que envergonha, a que sente vergonha e a que observa compassivamente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "As três perspetivas",
+        "title": "As três perspetivas",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P3shameautocompaixao_gs4kdm.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895808/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L3_Self_compassion_V1_lkzzf1.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P4shameautocompaixao_adlxyi.jpg",
+        "title": "Vergonha",
+        "content": "Este exercício explora as três perspetivas através da escrita: a parte que envergonha, a que é envergonhada e a do/a observador/a compassivo/a.\n\nEste é um exercício que pode ser intenso e até possivelmente avassalador. Se te sentires vacilante, vulnerável ou prestes a sentires-te assoberbada/o, a coisa mais autocompassiva que podes fazer é saltar este exercício e cuidar de ti (por exemplo, podes dar um passeio ou beber um chá). Lembra-te que podes parar a qualquer momento ou ir ao kit de ferramentas de segurança: o emblema no canto superior direito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "A parte que envergonha",
+        "title": "A parte que envergonha",
+        "question": "",
+        "longDescription": "Começa por incorporar a perspetiva da parte que envergonha. A partir desta perspetiva dura e crítica, escreve o que costumas dizer a ti mesma/o.\n\nEscreve livremente durante cinco minutos. Dá exemplos e detalhes.\n\n#### Completa as seguintes frases\n\n* Quando eu sinto mais vergonha de ti é quando...\n* Nunca serás capaz de...\n* Não és merecedor/a de...\n\nAntes de passares à parte seguinte, lê para ti mesma/o esta carta em voz alta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "A parte envergonhada",
+        "title": "A parte envergonhada",
+        "question": "",
+        "longDescription": "Agora coloca-te no lugar da tua parte envergonhada. Como é que te sentes ao ouvir isto? Escreve a tua resposta.\n\n#### Completa as seguintes frases\n\n* Quando te ouço dizer isto, sinto...\n* Se o que estás a dizer é verdade...\n* O que me apetece fazer quando me sinto assim é...\n\nAntes de passares à próxima parte, lê para ti mesma/o esta carta em voz alta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "O/a observador/a compassivo/a",
+        "title": "O/a observador/a compassivo/a",
+        "question": "",
+        "longDescription": "Agora senta-te no lugar da tua parte sensata e compassiva. \n\nO que queres dizer?\n\n#### Completa as seguintes frases\n\n* O que eu desejo para ti é...\n* O que eu sei que anseias é...\n\nAntes de passares à próxima parte, lê para ti mesma/o esta carta em voz alta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448855/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P8shameautocompaixao_eafomk.jpg",
+        "title": "Vergonha",
+        "content": "### Explorar o desconhecido...\n\nSe quiseres, podes continuar a escrever sobre a conversa entre as três perspetivas.\n\n#### Perguntas a explorar\n\n* A tua voz compassiva soa a alguém que conheces?\n* O que é que a parte que envergonha realmente quer? É possível que te esteja a tentar ajudar?\n* O que poderias fazer para fortalecer a tua voz compassiva?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai continuar a explorar os sentimentos de vergonha.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523408/29k%20FJN/Meditations/Joanna%20Final/Leading_From_a_Place_of_Love_eynxao.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Refletir sobre as vozes",
+        "title": "Refletir sobre as vozes",
+        "description": "“O que é a condição humana? Falhar e acertar. Escolher bem e escolher mal. (…) É normal. Acontece. ”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448857/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P10shameautocompaixao_n0l8gd.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895751/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L3_Self_compassion_V2_mxvmto.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a lição da **Vergonha**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires participar numa partilha com o teu grupo, vais precisar de ter à mão os seguintes exercícios:\n\n* Carta: A parte causadora de vergonha\n* Carta: A parte envergonhada\n* Carta: O/a observador/a compassivo/a",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

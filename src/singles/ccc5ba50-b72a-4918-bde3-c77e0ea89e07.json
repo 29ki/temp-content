@@ -1,0 +1,113 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "What have you learned about yourself recently?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/what_have_you_learned_about_yourself_recently_cpakhi.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "ccc5ba50-b72a-4918-bde3-c77e0ea89e07",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-ccc5ba50-b72a-4918-bde3-c77e0ea89e07",
+        "name": "What have you learned about yourself recently?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "271340da-6cf0-4a50-9bca-20bfe469c5f8",
+            "question": "What have you learned about yourself recently?",
+            "exampleText": "I've learned that I can handle so much more than I think.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Vad har du lärt dig om dig själv?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/what_have_you_learned_about_yourself_recently_cpakhi.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "ccc5ba50-b72a-4918-bde3-c77e0ea89e07",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-ccc5ba50-b72a-4918-bde3-c77e0ea89e07",
+        "name": "Vad har du lärt dig om dig själv?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "365779be-301f-43da-bb98-9652cfc48087",
+            "question": "Vad har du lärt dig om dig själv?",
+            "exampleText": "Jag har lärt mig att jag klarar av så mycket mer än jag tror.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "O que aprendeste recentemente acerca de ti?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/what_have_you_learned_about_yourself_recently_cpakhi.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "ccc5ba50-b72a-4918-bde3-c77e0ea89e07",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-ccc5ba50-b72a-4918-bde3-c77e0ea89e07",
+        "name": "O que aprendeste recentemente acerca de ti?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "c6e7e06b-dac8-4038-8b64-13dd41fd6f39",
+            "exampleText": "Aprendi que consigo lidar com muito mais coisas do que imaginava.",
+            "question": "O que aprendeste recentemente acerca de ti?",
+            "buttonText": "Terminei"
+          }
+        ]
+      }
+    ]
+  }
+}

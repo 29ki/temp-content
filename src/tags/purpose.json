@@ -1,0 +1,20 @@
+{
+  "en": {
+    "id": "9f02a381-9950-4f53-9a10-5f8365c456a1",
+    "tag": "Purpose",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/values_h3pue1.png",
+    "description": "Understanding what really matters provides us with a compass that enables us to live a meaningful life — the life we want. Acting in accordance with our values can improve several aspects of life: our health, relationships, professional life and free time."
+  },
+  "sv": {
+    "id": "9f02a381-9950-4f53-9a10-5f8365c456a1",
+    "tag": "Mening",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/values_h3pue1.png",
+    "description": "Genom att förstå vad som verkligen betyder något för oss får vi en kompass som kan hjälpa oss att leva ett meningsfullt liv — det liv vi vill. \n\nAtt låta värderingar styra våra beteenden har i forskning visat sig kunna förbättra till exempel hälsa, relationer, yrkesliv och fritid."
+  },
+  "pt": {
+    "id": "9f02a381-9950-4f53-9a10-5f8365c456a1",
+    "tag": "Propósito",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/values_h3pue1.png",
+    "description": "Compreender o que realmente importa fornece-nos uma bússola que nos permite viver uma vida significativa - a vida que desejamos. Agir de acordo com os nossos valores pode melhorar vários aspetos da nossa vida: a nossa saúde, as nossas relações, a nossa vida profissional e os nossos tempos livres."
+  }
+}

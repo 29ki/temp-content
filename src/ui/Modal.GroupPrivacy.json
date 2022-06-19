@@ -1,0 +1,14 @@
+{
+  "en": {
+    "title": "Private group",
+    "text__markdown": "Private groups can be joined only by invitation. Choose the private option if you have a set group of friends or family that you want to share the experience with.\n\nKeep the group public if you want other 29k users to be able to find and join your group."
+  },
+  "sv": {
+    "title": "Integritet",
+    "text__markdown": "Privata grupper kan man bara gå med i via en inbjudan.\n\nGör gruppen privat om du har ett gäng vänner eller familjemedlemmar du vill dela din upplevelse med.\n\nLåt gruppen vara publik om du vill att andra 29k-användare ska kunna hitta och gå med i gruppen."
+  },
+  "pt": {
+    "title": "Privacidade",
+    "text__markdown": "O acesso aos grupos privados só pode ser feito através de um convite.\n\nEscolhe esta opção se quiseres, por exemplo, ter uma experiência de partilha mais pessoal com um grupo de amigos ou familiares.\n\nMantém o grupo aberto se quiseres que todos os utilizadores da 29k FJN possam encontrar e participar no teu grupo."
+  }
+}

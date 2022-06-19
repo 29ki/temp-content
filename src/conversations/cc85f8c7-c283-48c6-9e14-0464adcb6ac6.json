@@ -1,0 +1,248 @@
+{
+  "en": {
+    "id": "cc85f8c7-c283-48c6-9e14-0464adcb6ac6",
+    "alias": "UKR: Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "95166c3e-26b7-444e-8bd3-eed11be8dbae",
+        "alias": "Act for change",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg",
+        "title": "Діяти заради змін",
+        "content": "Досі ми зосереджувалися на вивченні того, як зміни та проблеми впливають на нас, і практикували прийняття ситуацій, які ми не можемо змінити.\n\nНа цьому заключному уроці ми розглянемо ситуації вашого життя, які ви **можете контролювати.** Діяти заради змін – це останній компонент, який допоможе вам постійно рухати своє **життя** в **усвідомленому напрямку.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готовий",
+            "sectionId": "fc3f7973-af47-4c3d-98da-95545587fbad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc3f7973-af47-4c3d-98da-95545587fbad",
+        "alias": "Today's lesson",
+        "content": "### Дізнатися більше про:\n\n* Вжиття заходів\n* Вирішення проблем\n* Практичні кроки\n\n### Тобі знадобиться:\n\n* 20 хвилин\n* Ручка та папір",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "1a81d364-cbb1-4979-86ca-8930eae999bb"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1a81d364-cbb1-4979-86ca-8930eae999bb",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "description": "Перш ніж ми почнемо, давайте на хвилинку **налаштуємося**. Ця медитація спрямована на те, щоб **допомогти вам** стати більш усвідомленими та присутніми в **реальності**, а також підготувати вас до вправи, яку ви будете виконувати.\n\nНатисніть кнопку відтворення для початку.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+            "content": "Я закінчив"
+          }
+        ],
+        "duration": 534,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494788/Meditations/3_Breathing_anchor_-_Ukrainian_hu1sqc.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+        "alias": "Anxiety cycle",
+        "content": "Раніше ви визначили, що знаходиться поза вашим контролем і що було б розумніше прийняти.\n\nЗациклювання і занепокоєння можуть здатися вирішенням проблеми, але насправді ми не досягаємо реального прогресу у вирішенні проблеми, поки **залишаємося** в замкненій **тривожній петлі.**\n\nМайже в будь-якій ситуації — хоч би якою складною вона була — ми можемо вжити значних **заходів.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Зрозуміло",
+            "sectionId": "8fcda2d0-cd6e-497e-a51f-c99902930953"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8fcda2d0-cd6e-497e-a51f-c99902930953",
+        "alias": "Take action",
+        "content": "Тепер настав час дослідити одну річ, яка наразі сприяє вашій тривозі, і **визначити,** що ви можете зробити, щоб **змінити її** — від пошуку **рішень** до конкретних **дій.**\n\nТакі зміни не повинні бути різкими. Іноді достатньо **скоригувати** наші **дії,** щоб суттєво **змінити** наше життя.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далі",
+            "conversationId": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3"
+          }
+        ]
+      }
+    ],
+    "root": "95166c3e-26b7-444e-8bd3-eed11be8dbae"
+  },
+  "sv": {
+    "id": "cc85f8c7-c283-48c6-9e14-0464adcb6ac6",
+    "alias": "UKR: Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "95166c3e-26b7-444e-8bd3-eed11be8dbae",
+        "alias": "Act for change",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg",
+        "title": "Діяти заради змін",
+        "content": "Досі ми зосереджувалися на вивченні того, як зміни та проблеми впливають на нас, і практикували прийняття ситуацій, які ми не можемо змінити.\n\nНа цьому заключному уроці ми розглянемо ситуації вашого життя, які ви **можете контролювати.** Діяти заради змін – це останній компонент, який допоможе вам постійно рухати своє **життя** в **усвідомленому напрямку.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готовий",
+            "sectionId": "fc3f7973-af47-4c3d-98da-95545587fbad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc3f7973-af47-4c3d-98da-95545587fbad",
+        "alias": "Today's lesson",
+        "content": "### Дізнатися більше про:\n\n* Вжиття заходів\n* Вирішення проблем\n* Практичні кроки\n\n### Тобі знадобиться:\n\n* 20 хвилин\n* Ручка та папір",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "1a81d364-cbb1-4979-86ca-8930eae999bb"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1a81d364-cbb1-4979-86ca-8930eae999bb",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "description": "Перш ніж ми почнемо, давайте на хвилинку **налаштуємося**. Ця медитація спрямована на те, щоб **допомогти вам** стати більш усвідомленими та присутніми в **реальності**, а також підготувати вас до вправи, яку ви будете виконувати.\n\nНатисніть кнопку відтворення для початку.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+            "content": "Я закінчив"
+          }
+        ],
+        "duration": 534,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494788/Meditations/3_Breathing_anchor_-_Ukrainian_hu1sqc.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+        "alias": "Anxiety cycle",
+        "content": "Раніше ви визначили, що знаходиться поза вашим контролем і що було б розумніше прийняти.\n\nЗациклювання і занепокоєння можуть здатися вирішенням проблеми, але насправді ми не досягаємо реального прогресу у вирішенні проблеми, поки **залишаємося** в замкненій **тривожній петлі.**\n\nМайже в будь-якій ситуації — хоч би якою складною вона була — ми можемо вжити значних **заходів.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Зрозуміло",
+            "sectionId": "8fcda2d0-cd6e-497e-a51f-c99902930953"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8fcda2d0-cd6e-497e-a51f-c99902930953",
+        "alias": "Take action",
+        "content": "Тепер настав час дослідити одну річ, яка наразі сприяє вашій тривозі, і **визначити,** що ви можете зробити, щоб **змінити її** — від пошуку **рішень** до конкретних **дій.**\n\nТакі зміни не повинні бути різкими. Іноді достатньо **скоригувати** наші **дії,** щоб суттєво **змінити** наше життя.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далі",
+            "conversationId": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3"
+          }
+        ]
+      }
+    ],
+    "root": "95166c3e-26b7-444e-8bd3-eed11be8dbae"
+  },
+  "pt": {
+    "id": "cc85f8c7-c283-48c6-9e14-0464adcb6ac6",
+    "alias": "UKR: Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "95166c3e-26b7-444e-8bd3-eed11be8dbae",
+        "alias": "Act for change",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg",
+        "title": "Діяти заради змін",
+        "content": "Досі ми зосереджувалися на вивченні того, як зміни та проблеми впливають на нас, і практикували прийняття ситуацій, які ми не можемо змінити.\n\nНа цьому заключному уроці ми розглянемо ситуації вашого життя, які ви **можете контролювати.** Діяти заради змін – це останній компонент, який допоможе вам постійно рухати своє **життя** в **усвідомленому напрямку.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готовий",
+            "sectionId": "fc3f7973-af47-4c3d-98da-95545587fbad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc3f7973-af47-4c3d-98da-95545587fbad",
+        "alias": "Today's lesson",
+        "content": "### Дізнатися більше про:\n\n* Вжиття заходів\n* Вирішення проблем\n* Практичні кроки\n\n### Тобі знадобиться:\n\n* 20 хвилин\n* Ручка та папір",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "1a81d364-cbb1-4979-86ca-8930eae999bb"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1a81d364-cbb1-4979-86ca-8930eae999bb",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "description": "Перш ніж ми почнемо, давайте на хвилинку **налаштуємося**. Ця медитація спрямована на те, щоб **допомогти вам** стати більш усвідомленими та присутніми в **реальності**, а також підготувати вас до вправи, яку ви будете виконувати.\n\nНатисніть кнопку відтворення для початку.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+            "content": "Я закінчив"
+          }
+        ],
+        "duration": 534,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494788/Meditations/3_Breathing_anchor_-_Ukrainian_hu1sqc.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+        "alias": "Anxiety cycle",
+        "content": "Раніше ви визначили, що знаходиться поза вашим контролем і що було б розумніше прийняти.\n\nЗациклювання і занепокоєння можуть здатися вирішенням проблеми, але насправді ми не досягаємо реального прогресу у вирішенні проблеми, поки **залишаємося** в замкненій **тривожній петлі.**\n\nМайже в будь-якій ситуації — хоч би якою складною вона була — ми можемо вжити значних **заходів.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Зрозуміло",
+            "sectionId": "8fcda2d0-cd6e-497e-a51f-c99902930953"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8fcda2d0-cd6e-497e-a51f-c99902930953",
+        "alias": "Take action",
+        "content": "Тепер настав час дослідити одну річ, яка наразі сприяє вашій тривозі, і **визначити,** що ви можете зробити, щоб **змінити її** — від пошуку **рішень** до конкретних **дій.**\n\nТакі зміни не повинні бути різкими. Іноді достатньо **скоригувати** наші **дії,** щоб суттєво **змінити** наше життя.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далі",
+            "conversationId": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3"
+          }
+        ]
+      }
+    ],
+    "root": "95166c3e-26b7-444e-8bd3-eed11be8dbae"
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "en": {
+    "errors": {
+      "invalidIdentifier": {
+        "message": "Identifiers can only contain alpha-numeric characters"
+      },
+      "arrayMin": {
+        "message": "`{{path}}` must have at least {{min}} items"
+      },
+      "stringMin": {
+        "message": "`{{path}}` must be at least {{min}} characters"
+      },
+      "numberLessThan": {
+        "message": "`{{path}}` must be less than {{less}}"
+      },
+      "invalidCredentials": {
+        "message": "Invalid credentials"
+      },
+      "invalidAgreementVersion": {
+        "message": "You must supply a valid agreement version number"
+      },
+      "permissionDeniedGroupVideo": {
+        "message": "You are not allowed to access video for this group"
+      },
+      "notFoundLesson": {
+        "message": "That lesson does not exist"
+      },
+      "notFoundExercise": {
+        "message": "That exercise does not exist"
+      },
+      "notFoundTest": {
+        "message": "That test does not exist"
+      },
+      "notFoundChallenge": {
+        "message": "That challenge does not exist"
+      },
+      "notFoundContent": {
+        "message": "That content does not exist"
+      },
+      "notFoundInvitation": {
+        "message": "That link is not around"
+      },
+      "unimplemented": {
+        "message": "Oops, this operation is not implemented"
+      },
+      "numberMin": {
+        "message": "`{{path}}` must be greater than or equal to {{min}}"
+      },
+      "invalidSharingHour": {
+        "message": "Sharing can be scheduled between 0-23"
+      },
+      "mutualExclusive": {
+        "message": "Either `{{arg1}}` or `{{arg2}}` can be used, not both"
+      },
+      "notFoundCourse": {
+        "message": "That course does not exist"
+      },
+      "invalidQuestionMessage": {
+        "message": "Provided message is not a question"
+      },
+      "permissionDeniedReadGroupMessages": {
+        "message": "You have insufficient permissions to read messages from this group"
+      },
+      "stringEmail": {
+        "message": "`{{path}}` must be a valid e-mail address"
+      },
+      "groupSharingMissmatch": {
+        "message": "Your sharing needs to match your group’s current sharing"
+      },
+      "invalidCursor": {
+        "message": "Invalid cursor"
+      },
+      "notType": {
+        "message": "`{{path}}` must be of type `{{type}}`"
+      },
+      "groupFull": {
+        "message": "This group is already full"
+      },
+      "static": {
+        "message": "{{error}}"
+      },
+      "permissionDeniedPath": {
+        "message": "You have insufficient permissions to access `{{path}}`"
+      },
+      "invalidLanguage": {
+        "message": "That language is currently not spoken here"
+      },
+      "unavailable": {
+        "message": "Oops, we are experiencing connection issues. Try again later."
+      },
+      "permissionDeniedGroupRsvp": {
+        "message": "You are only allowed to RSVP to sharings for your own groups"
+      },
+      "invalidInvitation": {
+        "message": "The link has already been used or it has expired"
+      },
+      "multiple": {
+        "message": "{{error}} and one more error",
+        "message_plural": "{{error}} and {{count}} other errors"
+      },
+      "notFoundGroup": {
+        "message": "Sorry, that group is not around"
+      },
+      "groupSlotsLessThan": {
+        "message": "Groups can not contain more than {{less}} members"
+      },
+      "invalidLink": {
+        "message": "That link is not known"
+      },
+      "invalidCourse": {
+        "message": "A valid course is expected"
+      },
+      "permissionDeniedGroupMessage": {
+        "message": "You have insufficient permissions to access this message"
+      },
+      "invalidTaskState": {
+        "message": "Scheduled task cannot be changed at this point"
+      },
+      "permissionDeniedGroup": {
+        "message": "You have insufficient permissions to access this group"
+      },
+      "permissionDeniedWriteGroupMessages": {
+        "message": "You have insufficient permissions to write messages to this group"
+      },
+      "requiredLesson": {
+        "message": "A lesson is required"
+      },
+      "notFoundGroupMessage": {
+        "message": "Sorry, that message is not around"
+      },
+      "notFoundIdentifier": {
+        "message": "That identifier is not known"
+      },
+      "requiredCourse": {
+        "message": "A course is required"
+      },
+      "notFoundUser": {
+        "message": "Sorry, that user is not around"
+      },
+      "requiredField": {
+        "message": "`{{path}}` is a required field"
+      },
+      "numberMax": {
+        "message": "`{{path}}` must be less than or equal to {{max}}"
+      },
+      "invalidSharingGroupSize": {
+        "message": "Minimum sharing group size can not exceed {{less}}"
+      },
+      "unauthenticatedPath": {
+        "message": "Authorisation is required to access `{{path}}`"
+      },
+      "invalidSegment": {
+        "message": "That segment is not allowed"
+      },
+      "internal": {
+        "message": "Oops! Our server encountered an error."
+      },
+      "invalidQuestionChoice": {
+        "message": "Given choice is not valid for this question"
+      },
+      "stringUrl": {
+        "message": "`{{path}}` must be a valid URL"
+      },
+      "challengeAlreadyStarted": {
+        "message": "Challenge with ID {{contentId}} has already been started"
+      },
+      "challengeNotStarted": {
+        "message": "Challenge with ID {{contentId}} has not been started"
+      }
+    },
+    "challengeReminder": {
+      "message": "It's time for today's challenge - {{name}}"
+    }
+  },
+  "sv": {
+    "challengeReminder": {
+      "message": "Dags för dagens utmaning - {{name}}"
+    },
+    "errors": {
+      "invalidIdentifier": {
+        "message": "Identifierare får bara innehålla alfanumeriska tecken"
+      },
+      "arrayMin": {
+        "message": "`{{path}}` måste innehålla minst {{min}} ting"
+      },
+      "stringMin": {
+        "message": "`{{path}}` måste innehålla minst {{min}} tecken"
+      },
+      "numberLessThan": {
+        "message": "`{{path}}` måste vara mindre än {{less}}"
+      },
+      "invalidCredentials": {
+        "message": "Ogiltiga kreditiv"
+      },
+      "invalidAgreementVersion": {
+        "message": "Du måste ange ett giltigt avtalsnummer"
+      },
+      "permissionDeniedGroupVideo": {
+        "message": "Du har inte åtkomst till video för den här gruppen"
+      },
+      "notFoundLesson": {
+        "message": "Lektionen finns inte"
+      },
+      "notFoundExercise": {
+        "message": "Uppgiften finns inte"
+      },
+      "notFoundTest": {
+        "message": "Testet finns inte"
+      },
+      "notFoundChallenge": {
+        "message": "Utmaningen finns inte"
+      },
+      "notFoundContent": {
+        "message": "Innehållet finns inte"
+      },
+      "notFoundInvitation": {
+        "message": "Länken går inte att använda"
+      },
+      "unimplemented": {
+        "message": "Oops, operationen är inte implementerad"
+      },
+      "numberMin": {
+        "message": "`{{path}}` måste vara större än eller lika med {{min}}"
+      },
+      "invalidSharingHour": {
+        "message": "Tiden för gruppdelning behöver vara mellan 0-23"
+      },
+      "mutualExclusive": {
+        "message": "Antingen `{{arg1}}` eller `{{arg2}}` kan användas, inte båda"
+      },
+      "notFoundCourse": {
+        "message": "Kursen finns inte"
+      },
+      "invalidQuestionMessage": {
+        "message": "Meddelandet är inte en giltig fråga"
+      },
+      "permissionDeniedReadGroupMessages": {
+        "message": "Du har inte tillräcklig behörighet för att läsa meddelanden från den här gruppen"
+      },
+      "stringEmail": {
+        "message": "`{{path}}` måste vara en giltig e-postadress"
+      },
+      "groupSharingMissmatch": {
+        "message": "Din delning måste matcha gruppens nuvarande delning"
+      },
+      "invalidCursor": {
+        "message": "Pekaren i okänt format"
+      },
+      "notType": {
+        "message": "`{{path}}` måste vara av typen `{{type}}`"
+      },
+      "groupFull": {
+        "message": "Tyvärr, den här gruppen är redan full"
+      },
+      "static": {
+        "message": "{{error}}"
+      },
+      "permissionDeniedPath": {
+        "message": "Du har otillräckliga behörigheter för att komma åt `{{path}}`"
+      },
+      "invalidLanguage": {
+        "message": "Språket talas för närvarande inte här"
+      },
+      "unavailable": {
+        "message": "Hoppsan, vi har anslutningsproblem. Försök igen senare."
+      },
+      "permissionDeniedGroupRsvp": {
+        "message": "Du har endast rätt att OSA till delningar för dina egna grupper"
+      },
+      "invalidInvitation": {
+        "message": "Länken är inte längre giltig eller har redan använts"
+      },
+      "multiple": {
+        "message": "{{error}} och ett annat fel",
+        "message_plural": "{{error}} och {{count}} andra fel"
+      },
+      "notFoundGroup": {
+        "message": "Tyvärr, gruppen finns inte"
+      },
+      "groupSlotsLessThan": {
+        "message": "Grupper får inte innehålla mer än {{less}} medlemmar"
+      },
+      "invalidLink": {
+        "message": "Den där länken är okänd"
+      },
+      "invalidCourse": {
+        "message": "En giltig kurs förväntas"
+      },
+      "permissionDeniedGroupMessage": {
+        "message": "Du har otillräckliga behörigheter för att komma åt detta meddelande"
+      },
+      "permissionDeniedGroup": {
+        "message": "Du har otillräckliga behörigheter för att uppdatera denna grupp"
+      },
+      "permissionDeniedWriteGroupMessages": {
+        "message": "Du har inte behörighet att skriva meddelanden till den här gruppen"
+      },
+      "requiredLesson": {
+        "message": "En lektion krävs"
+      },
+      "notFoundGroupMessage": {
+        "message": "Tyvärr, meddelandet finns inte"
+      },
+      "notFoundIdentifier": {
+        "message": "Den identifieraren är inte känd"
+      },
+      "requiredCourse": {
+        "message": "En kurs krävs"
+      },
+      "notFoundUser": {
+        "message": "Tyvärr, användaren finns inte"
+      },
+      "requiredField": {
+        "message": "`{{path}}` är ett obligatoriskt fält"
+      },
+      "numberMax": {
+        "message": "`{{path}}` måste vara mindre än eller lika med {{max}}"
+      },
+      "invalidSharingGroupSize": {
+        "message": "Minsta tillåtna delningsgruppsstorleken kan inte vara större än {{less}}"
+      },
+      "unauthenticatedPath": {
+        "message": "Behörighet krävs för att komma åt `{{path}}`"
+      },
+      "internal": {
+        "message": "Oops! Servern stötte på ett fel."
+      },
+      "invalidQuestionChoice": {
+        "message": "Det givna valet är inte giltigt för denna fråga"
+      },
+      "stringUrl": {
+        "message": "`{{path}}` måste vara en giltig URL"
+      },
+      "challengeAlreadyStarted": {
+        "message": "Utmaning {{contentId}} har redan påbörjats"
+      },
+      "challengeNotStarted": {
+        "message": "Utmaning {{contentId}} har inte påbörjats"
+      }
+    }
+  },
+  "pt": {
+    "errors": {
+      "invalidIdentifier": {
+        "message": "Os identificadores só podem conter caracteres alfanuméricos"
+      },
+      "arrayMin": {
+        "message": "`{{path}}` deve conter pelo menos {{min}} itens"
+      },
+      "stringMin": {
+        "message": "`{{path}}` tem de ter pelo menos {{min}} caracteres"
+      },
+      "numberLessThan": {
+        "message": "`{{path}}` deve ser menor do que {{less}}"
+      },
+      "invalidCredentials": {
+        "message": "Credenciais inválidas"
+      },
+      "invalidAgreementVersion": {
+        "message": "Tens de fornecer um número de validação da versão válido"
+      },
+      "permissionDeniedGroupVideo": {
+        "message": "Não podes aceder aos vídeos deste grupo"
+      },
+      "notFoundLesson": {
+        "message": "Essa lição não existe"
+      },
+      "notFoundExercise": {
+        "message": "Esse exercício não existe"
+      },
+      "notFoundTest": {
+        "message": "Esse teste não existe"
+      },
+      "notFoundChallenge": {
+        "message": "Esse desafio não existe"
+      },
+      "notFoundContent": {
+        "message": "Esse conteúdo não existe"
+      },
+      "notFoundInvitation": {
+        "message": "Essa ligação não existe"
+      },
+      "unimplemented": {
+        "message": "Oops, esta operação não está implementada"
+      },
+      "numberMin": {
+        "message": "`{{path}}` deve ser maior ou igual a {{min}}"
+      },
+      "invalidSharingHour": {
+        "message": "As partilhas podem ser marcadas entre as 0-23"
+      },
+      "mutualExclusive": {
+        "message": "Só um de `{{arg1}}` ou `{{arg2}}` pode ser usado. Não os dois."
+      },
+      "notFoundCourse": {
+        "message": "Esse curso não existe"
+      },
+      "invalidQuestionMessage": {
+        "message": "A mensagem fornecida não é uma pergunta"
+      },
+      "permissionDeniedReadGroupMessages": {
+        "message": "Não tens permissão para ler mensagens deste grupo"
+      },
+      "stringEmail": {
+        "message": "`{{path}}` tem de ser um endereço de email válido"
+      },
+      "groupSharingMissmatch": {
+        "message": "A tua partilha tem de coincidir com a partilha atual do grupo"
+      },
+      "invalidCursor": {
+        "message": "Cursor inválido"
+      },
+      "notType": {
+        "message": "`{{path}}` tem de ser do tipo `{{type}}`"
+      },
+      "groupFull": {
+        "message": "O grupo já está completo"
+      },
+      "static": {
+        "message": "{{error}}"
+      },
+      "permissionDeniedPath": {
+        "message": "Não tens permissões para aceder a `{{path}}`"
+      },
+      "invalidLanguage": {
+        "message": "Esse idioma não está disponível"
+      },
+      "unavailable": {
+        "message": "Oops, estamos com problemas de ligação. Por favor, tenta mais tarde."
+      },
+      "permissionDeniedGroupRsvp": {
+        "message": "Só te é permitido responder a partilhas dos teus próprios grupos"
+      },
+      "invalidInvitation": {
+        "message": "A ligação já foi utilizada ou expirou"
+      },
+      "multiple": {
+        "message": "{{error}} e mais um erro",
+        "message_plural": "{{error}} de {{count}} outros erros"
+      },
+      "notFoundGroup": {
+        "message": "Desculpa, esse grupo não existe"
+      },
+      "groupSlotsLessThan": {
+        "message": "Os grupos não podem ter menos de {{less}} membros"
+      },
+      "invalidLink": {
+        "message": "Ligação desconhecida"
+      },
+      "invalidCourse": {
+        "message": "É esperado um curso válido"
+      },
+      "permissionDeniedGroupMessage": {
+        "message": "Não tens permissões para aceder a esta mensagem"
+      },
+      "invalidTaskState": {
+        "message": "A tarefa agendada já não pode ser alterada"
+      },
+      "permissionDeniedGroup": {
+        "message": "Não tens permissões para aceder a este grupo"
+      },
+      "permissionDeniedWriteGroupMessages": {
+        "message": "Não tens permissões para escrever mensagens neste grupo"
+      },
+      "requiredLesson": {
+        "message": "É necessário uma lição"
+      },
+      "notFoundGroupMessage": {
+        "message": "Desculpa, essa mensagem não existe"
+      },
+      "notFoundIdentifier": {
+        "message": "Identificador desconhecido"
+      },
+      "requiredCourse": {
+        "message": "É necessário um curso"
+      },
+      "notFoundUser": {
+        "message": "Desculpa, esse utilizador não existe"
+      },
+      "requiredField": {
+        "message": "`{{path}}` é um campo obrigatório"
+      },
+      "numberMax": {
+        "message": "`{{path}}` deve ser menor ou igual a {{max}}"
+      },
+      "invalidSharingGroupSize": {
+        "message": "O tamanho mínimo do grupo de partilha não pode ser inferior a {{less}} membros"
+      },
+      "unauthenticatedPath": {
+        "message": "Precisas de autorização para aceder a `{{path}}`"
+      },
+      "invalidSegment": {
+        "message": "Segmento inválido"
+      },
+      "internal": {
+        "message": "Oops! Encontramos um erro interno "
+      },
+      "invalidQuestionChoice": {
+        "message": "A escolha não é válida para a pergunta"
+      },
+      "stringUrl": {
+        "message": "`{{path}}` tem de ser um URL válido"
+      },
+      "challengeAlreadyStarted": {
+        "message": "O desafio com ID {{contentId}} já foi iniciado"
+      },
+      "challengeNotStarted": {
+        "message": "O desafio com ID {{contentId}} não foi iniciado"
+      }
+    },
+    "challengeReminder": {
+      "message": "Está na hora do desafio de hoje - {{name}}"
+    }
+  }
+}

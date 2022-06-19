@@ -1,0 +1,110 @@
+{
+  "en": {
+    "id": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+    "alias": "alive-day-18",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 18",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay18rev1",
+          "title": "Alive Day 18 Quest",
+          "body": "Today, ask someone what they think about a situation. What can you learn from their response?"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I...."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "id": "followUpDay18",
+          "title": "Alive Day 18 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-18",
+        "nextConversationId": "a0264243-681a-4ebb-8261-945be35be966",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "7fe3d7f8-6024-4ce9-bde5-294a3c96b10b"
+      }
+    ]
+  },
+  "sv": {
+    "id": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+    "alias": "alive-day-18",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 18!",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay18rev1",
+          "title": "Uppdrag dag 18",
+          "body": "Fråga någon vad hen tycker om en situation. Vad kan du lära dig av personens svar?"
+        },
+        "sharingWall": {
+          "question": "Vad, om något, lärde du dig av den andra personens svar?",
+          "exampleText": "Det blev tydligt hur olika vi såg på situationen, spännande!"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "id": "followUpDay18",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in hur det gick med dagens uppdrag."
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-18",
+        "nextConversationId": "a0264243-681a-4ebb-8261-945be35be966",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "7fe3d7f8-6024-4ce9-bde5-294a3c96b10b"
+      }
+    ]
+  },
+  "pt": {
+    "id": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+    "alias": "alive-day-18",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 18",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay18rev1",
+          "title": "Desafio ALIVE dia 18",
+          "body": "Hoje, pergunta a uma ou várias pessoas o que elas pensam sobre determinada situação. O que podes aprender com a resposta delas?"
+        },
+        "sharingWall": {
+          "question": "Aprendeste alguma coisa acerca de ti própria/o?",
+          "exampleText": "Hoje eu..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "id": "followUpDay18",
+          "title": "Check-in Dia 18 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-18",
+        "nextConversationId": "a0264243-681a-4ebb-8261-945be35be966",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "7fe3d7f8-6024-4ce9-bde5-294a3c96b10b"
+      }
+    ]
+  }
+}

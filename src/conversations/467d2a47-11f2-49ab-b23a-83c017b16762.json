@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "467d2a47-11f2-49ab-b23a-83c017b16762",
+    "alias": "Leadership-leadpurposefully-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "4c72b365-4d6c-459f-b84f-5d63a449693c",
+        "alias": "Pursuing PL",
+        "title": "Pursuing success and fulfillment",
+        "content": "Purposeful Leadership is based on a broader theory of human success and satisfaction called **ALIVE.** \n\nALIVE is an acronym which stands for **Actively Living Interconnectedly, Vitally, and Enactively.** (Enactively means ‘with emotion’, as in ‘I deeply care about how I treat the people I love.’\n\nThe two concepts form one inseparable unit. Please take a moment to consider:\n\n* How living as a Purposeful Leader may help you to feel like you are ALIVE as a person?\n* How a person who is already ALIVE can enhance their leadership skills?\n\nIn other words, in Purposeful Leadership the actions taken aim at pursuing purpose (task success + fulfillment).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me an example",
+            "sectionId": "aa6601ab-bad7-4de7-83b8-88404e4f149e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "aa6601ab-bad7-4de7-83b8-88404e4f149e",
+        "content": "As a Purposeful Leader, your role is to: \n\n1. **Tune-in and own-up to your experiences**\n2. **Focus on the purpose of the situation**\n\nBy showing up in this way, you act from a place of integrity.\n\nOver time, this helps you experience a greater sense of wholeness, belonging, understanding and coherence, in yourself, with other people, and in your shared world.",
+        "alias": "Pursuing PL 2",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0",
+            "content": "Continue"
+          }
+        ],
+        "title": "Image a situation when you speak to a person about improving their performance"
+      }
+    ],
+    "root": "4c72b365-4d6c-459f-b84f-5d63a449693c"
+  },
+  "sv": {
+    "id": "467d2a47-11f2-49ab-b23a-83c017b16762",
+    "alias": "Leadership-leadpurposefully-2"
+  },
+  "pt": {
+    "id": "467d2a47-11f2-49ab-b23a-83c017b16762",
+    "alias": "Leadership-leadpurposefully-2",
+    "root": "4c72b365-4d6c-459f-b84f-5d63a449693c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "4c72b365-4d6c-459f-b84f-5d63a449693c",
+        "alias": "Pursuing PL",
+        "title": "Em busca de sucesso e realização",
+        "content": "Uma Liderança com Propósito é baseada numa teoria mais ampla de sucesso e realização humana chamada **ALIVE**. \n\nALIVE é um acrónimo que significa **Actively Living Interconnectedly, Vitally and Enactively**. (Enactively significa 'com emoção', como em 'Preocupo-me profundamente com a forma como trato as pessoas que amo’.) \n\nEstes dois conceitos formam uma unidade inseparável. Por favor, tira um momento para refletir: \n\n• Como é que viver como um Líder relevante pode ajudar-te a sentir que estás ‘ALIVE’ (VIVO/A) como pessoa? \n\n• Como é que uma pessoa que já está a viver de forma ‘ALIVE’ pode melhorar as suas competências de liderança?\n\nPor outras palavras, ao exercer uma Liderança com propósito, as ações realizadas visam a busca do propósito (sucesso na tarefa + realização).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me um exemplo",
+            "sectionId": "aa6601ab-bad7-4de7-83b8-88404e4f149e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "aa6601ab-bad7-4de7-83b8-88404e4f149e",
+        "content": "Como um Líder com Propósito, a tua função é: \n\n1. **Sintonizares-te contigo e assumires as tuas experiências** \n2. **Concentrares-te no propósito da situação** \n\nAo agires desta forma, ages de uma forma íntegra. \n\nCom o tempo, isso ajuda-te a ter um maior sentido do todo, da pertença, compreensão e coerência em relação a ti mesmo/a, às outras pessoas e ao mundo que te rodeia.",
+        "alias": "Pursuing PL 2",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0",
+            "content": "Continuar"
+          }
+        ],
+        "title": "Imagina uma situação em que falas com uma pessoa sobre como melhorar o seu desempenho"
+      }
+    ]
+  }
+}

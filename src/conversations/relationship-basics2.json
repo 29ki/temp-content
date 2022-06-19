@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationship-basics-2",
-    "alias": "relationship-basics-2",
+    "alias": "YA building relationships 1: basics-2",
     "root": "Section1",
     "sections": [
       {
@@ -18,7 +17,7 @@
               },
               {
                 "component": "Text",
-                "content": "We’re going to dive right in and teach you a skill that can help with friendships. It’s a skill that shines a light on what is happening inside you. It stops you from making big mistakes."
+                "content": "We’re going to dive right in and teach you a skill that can help you be who you want to be in relationships. It’s an easy way to shine a light on what is happening inside you. And can stop you from making big mistakes."
               }
             ]
           },
@@ -28,7 +27,6 @@
               {
                 "component": "Button",
                 "content": "I'm ready",
-                "conversationId": "relationship-basics-2",
                 "sectionId": "Section2"
               }
             ]
@@ -43,8 +41,8 @@
           {
             "component": "AudioPlayer",
             "content": {
-              "url": "d",
-              "duration": 0
+              "duration": 1,
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622798124/Building%20Relationships/The_pause_skill_cht9nv.mp3"
             }
           },
           {
@@ -53,7 +51,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationship-basics-2",
                 "sectionId": "Section3"
               }
             ]
@@ -70,7 +67,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Don’t be fooled by the simplicity of a breathing pause. It is really useful when you are with other people and about to blurt out something, or when you are about to put your foot in it. It’s also useful if you feel hurt or sad by something someone has done. Pausing and taking a slow breath is backed by science as a super mindfulness skill (and we love science here at 29k)."
+                "content": "Don’t be fooled by the simplicity of a breathing pause. It is really useful when you are with other people and about to blurt out something."
               }
             ]
           },
@@ -80,8 +77,7 @@
               {
                 "component": "Button",
                 "content": "Okay",
-                "conversationId": "relationship-basics-2",
-                "sectionId": "Section4"
+                "sectionId": "dd5f67ef-7e34-4d54-b94d-3546f1849e3b"
               }
             ]
           }
@@ -89,15 +85,28 @@
         "type": "defaultSection"
       },
       {
-        "id": "Section4",
+        "type": "editorialWithImage",
+        "id": "dd5f67ef-7e34-4d54-b94d-3546f1849e3b",
         "alias": "Section4",
+        "content": "It’s also useful if you feel hurt or sad about by something that has happened. Pausing your breathing is backed by science as being helpful in many situations (and we love science here at 29k).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "Section4"
+          }
+        ]
+      },
+      {
+        "id": "Section4",
+        "alias": "Section5",
         "content": [
           {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "Now, with your pausing skill on board.\n\nAre you ready to learn some more about friendships? Take our quiz and discover what kind of friendship matters."
+                "content": "OK, now you've practiced the breathing pause. The next step is to discover what's important to you in your relationships."
               }
             ]
           },
@@ -106,9 +115,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Go on",
-                "conversationId": "relationship-basics-3",
-                "sectionId": "Section1"
+                "conversationId": "relationship-basics-3"
               }
             ]
           }
@@ -118,9 +127,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationship-basics-2",
-    "alias": "relationship-basics-2",
+    "alias": "YA building relationships 1: basics-2",
     "root": "Section1",
     "sections": [
       {
@@ -146,7 +154,6 @@
               {
                 "component": "Button",
                 "content": "Jag är redo",
-                "conversationId": "relationship-basics-2",
                 "sectionId": "Section2"
               }
             ]
@@ -171,7 +178,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationship-basics-2",
                 "sectionId": "Section3"
               }
             ]
@@ -198,7 +204,6 @@
               {
                 "component": "Button",
                 "content": "Okej",
-                "conversationId": "relationship-basics-2",
                 "sectionId": "Section4"
               }
             ]
@@ -250,9 +255,136 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Fortsätt",
-                "conversationId": "relationship-basics-3",
-                "sectionId": "Section1"
+                "conversationId": "relationship-basics-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationship-basics-2",
+    "alias": "YA building relationships 1: basics-2",
+    "root": "Section1",
+    "sections": [
+      {
+        "id": "Section1",
+        "alias": "Section1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## A competência da pausa"
+              },
+              {
+                "component": "Text",
+                "content": "Vamos mergulhar de cabeça e ensinar-te uma competência que pode ajudar-te a ser quem queres ser nas tuas relações. É uma maneira fácil de te dar umas luzes sobre o que está a acontecer dentro de ti. E pode impedir-te de cometer erros graves."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Estou pronta/o",
+                "sectionId": "Section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section2",
+        "alias": "Section2",
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "duration": 1,
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893970/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Meditations%20Exercises%20Audio/Construir_rela%C3%A7%C3%B5es_-_O_b%C3%A1sico_-_A_COMPETENCIA_DA_PAUSA_-_01_13_jaiukv.mp3"
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "Section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section3",
+        "alias": "Section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Não te deixes enganar pela simplicidade de uma pausa para respirar. É realmente útil quando estás com outras pessoas e prestes a deixar algo escapar-te."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "dd5f67ef-7e34-4d54-b94d-3546f1849e3b"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "dd5f67ef-7e34-4d54-b94d-3546f1849e3b",
+        "alias": "Section4",
+        "content": "Também é útil se te sentires magoada/o ou triste por algo que tenha acontecido. Está provado pela ciência que fazer uma pausa na tua respiração é eficaz em muitas situações (e nós adoramos a ciência aqui na 29k FJN).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "Section4"
+          }
+        ]
+      },
+      {
+        "id": "Section4",
+        "alias": "Section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "OK, agora praticaste a pausa da respiração. O próximo passo é descobrires o que é importante para ti nas tuas relações."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Continuar",
+                "conversationId": "relationship-basics-3"
               }
             ]
           }

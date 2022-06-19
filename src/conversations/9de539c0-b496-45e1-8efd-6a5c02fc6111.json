@@ -1,20 +1,19 @@
 {
   "en": {
-    "type": "lesson",
     "id": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
-    "alias": "YA Stress Förändra det som inte fungerar 2",
+    "alias": "Stress YA: Change what isn't working 2",
     "root": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
-        "alias": "Problemlösning",
-        "title": "",
-        "content": "**Problemlösning**\\\nNär vi är stressade kan våra problem kännas otydliga. Förvirrande. Kraven brukar vara många, och det är svårt att komma på möjliga lösningar. Samtidigt blir vår hjärna påverkad —  vår förmåga att lösa problem blir faktiskt *sämre* när vi är väldigt stressade.",
+        "alias": "Problem-solving",
+        "title": "Problem-solving",
+        "content": "When we’re feeling stressed our problems can seem vague. Confusing. It can be difficult to come up with possible solutions. \\\n\\\nAt the same time, our brains are affected — our **ability to solve problems** actually gets *worse* when we're very stressed.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Mer",
+            "content": "More",
             "sectionId": "77aae570-b274-41b1-a67c-30b4fce4bdbb"
           }
         ]
@@ -22,27 +21,77 @@
       {
         "type": "editorialWithImage",
         "id": "77aae570-b274-41b1-a67c-30b4fce4bdbb",
-        "alias": "Förändra steg för steg",
-        "title": "",
-        "content": "**Förändra steg för steg**\\\nI den här övningen kommer du få utforska en situation som stressar dig just nu och kartlägga vad du kan göra annorlunda — från att komma på lösningar, till att planera konkreta steg.\n\nInnan vi börjar vill vi be dig att skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad).\n\nSkriv ner ditt svar där bara du kan se det.",
+        "alias": "Change step by step",
+        "title": "Change step by step",
+        "content": "Now you’ll get to explore a situation that is currently stressing you out. \n\nYou'll map out what you can do differently — from coming up with **solutions** to planning **concrete** **steps**.\n\nBefore we begin, estimate how stressed you are feeling **right now** on a scale between 0 (not at all) to 10 (super stressed). Write down your answer.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+            "content": "Next",
+            "sectionId": "f0bd51ab-91c7-4c31-b813-0aa381f3b4a8"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "f0bd51ab-91c7-4c31-b813-0aa381f3b4a8",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Emilia",
+                "duration": 51,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/emilia.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758104/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-emilia-en_cc36g1.vtt",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/emilia.png"
+              },
+              {
+                "title": "Julie",
+                "duration": 46,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/julie.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/julie.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758160/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-julie-en_ac0qug.vtt"
+              },
+              {
+                "title": "Amir",
+                "duration": 53,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/amir.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/amir.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758228/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-amir-en_tnncvm.vtt"
+              },
+              {
+                "title": "Hillevi",
+                "duration": 46,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/hillevi.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758301/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-hillevi-en_npuyp2.vtt",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/hillevi.png"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+              }
+            ]
           }
         ]
       },
       {
         "type": "editorialWithImage",
         "id": "b2d03b84-201f-4220-ac11-c90a23a1da22",
-        "alias": "Övning - steg ett",
-        "content": "1. Definiera ett problem som stressar dig just nu. Försök vara så konkret och ärlig som möjligt. Välj gärna ett problem som är lagom utmanande.\n\nExempel som  *”Jag känner mig otillräcklig”* blir lätt för otydliga, medan *\"Jag kan inte fokusera på mina läxor eftersom jag ofta kollar på mobilen istället\"* är mer konkret.\n\nSkriv ner ditt svar och spara det, du kommer att behöva det igen.",
-        "title": "Övning",
+        "alias": "Exercise - step 1",
+        "content": "1. Define a problem that is stressing you out right now. Try to be as concrete and honest as possible.\n\n   Examples like \"*I feel inadequate*\" can easily become too **vague**, while \"*I can’t focus on my homework because I often check my mobile instead*\" is more **concrete**.\n\n   Write down your answer and save it, you’ll need it later.",
+        "title": "Exercise",
         "buttons": [
           {
             "component": "Button",
-            "content": "Gå vidare",
+            "content": "Keep going",
             "sectionId": "d38f4877-3e44-4f29-82a2-a5a2c891d858"
           }
         ]
@@ -50,13 +99,13 @@
       {
         "type": "editorialWithImage",
         "id": "d38f4877-3e44-4f29-82a2-a5a2c891d858",
-        "content": "2. Kom på en massa tänkbara lösningar på ditt problem.\n\nHär finns det plats för vilda, galna, tråkiga, tokiga och roliga idéer, så kör på. \n\nSkriv ner *alla* dina idéer.",
-        "alias": "Steg två",
-        "title": "Lösningar",
+        "content": "2. Now, let’s come up with possible **solutions** to your problem. This is the time for all wild, crazy, boring, crazy and fun ideas, so let’s go. \n\n   Write down all your ideas.",
+        "alias": "Step two",
+        "title": "Solutions",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Next",
             "sectionId": "c515e14f-9a95-4306-80bc-f9e927b3badc"
           }
         ]
@@ -64,13 +113,13 @@
       {
         "type": "editorialWithImage",
         "id": "c515e14f-9a95-4306-80bc-f9e927b3badc",
-        "alias": "Steg tre",
-        "title": "Poängsätt",
-        "content": "3. Ge varje idé en poäng mellan noll och tio, beroende på hur bra du tror att respektive idé skulle kunna lösa problemet *(10 = kommer sannolikt funka, 0 = osannolikt att det kommer funka).* \n\nSkriv återigen ner dina svar.",
+        "alias": "Step three",
+        "title": "Score",
+        "content": "3. Give each idea a score from 0 to 10, depending on how well you think each idea could solve the problem (10 = likely to work, 0 = unlikely to work).\n\n   Write down your answers again.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Next",
             "sectionId": "67a781dc-c63d-441a-94f1-a81f6431eeb8"
           }
         ]
@@ -78,13 +127,13 @@
       {
         "type": "editorialWithImage",
         "id": "67a781dc-c63d-441a-94f1-a81f6431eeb8",
-        "alias": "Steg fyra",
-        "title": "Testa lösningen",
-        "content": "\n\n4. Välj en idé att **testa**, och en tidpunkt när du ska testa den (inom närmaste veckan). \n5. Bestäm ett mål, eller hur du ska utvärdera din idé. Det viktiga här är att det är möjligt att mäta om du har nått ditt mål (*med ett enkelt ja, nej, eller delvis*). Exempel på mål kan vara:\n\n   * Lämnat in läxan\n   * Sökt tre jobb",
+        "alias": "Step four",
+        "title": "Try the solution",
+        "content": "4. Choose an idea to **test**.\n5. Decide **when** you're going to test it (within the next week).\n6. Set a **goal**, or decide how you're going to evaluate your idea. The important thing is that it’s possible to **measure** whether you've reached your goal or not (*with a simple yes, no, or partly*).\n\n*Examples of goals can be: submitted the homework, applied for two jobs.*",
         "buttons": [
           {
             "component": "Button",
-            "content": "Jag är klar",
+            "content": "More",
             "sectionId": "2a7e0450-66a4-42c5-8185-73c676ef5a2d"
           }
         ]
@@ -92,13 +141,13 @@
       {
         "type": "editorialWithImage",
         "id": "2a7e0450-66a4-42c5-8185-73c676ef5a2d",
-        "alias": "Steg fem",
-        "title": "Påminn och utvärdera",
-        "content": "5. Sätt en påminnelse om en vecka och utvärdera ditt lösningsförslag enligt följande:\n\n* Nådde du ditt mål?\n* Är du nöjd med din lösning?\n* Om ja, vilket område i ditt liv har blivit bättre och hur?\n* Om nej, testa en annan idé från din lista eller ändra lite på den idé du testade och prova igen.\n\nTa en printscreen på den här bilden om du vill ha hjälp att komma ihåg.",
+        "alias": "Step five",
+        "title": "Remember and evalute",
+        "content": "6. Put a reminder on your phone in exactly one week from now. **Evaluate** your proposed solution:\n\n   * Did you reach your goal? Are you happy with your solution? If so, what has become better in your life and how?\n   * If not, try another idea from your list or adjust the idea you tested and try again. Sometimes we need to test several solutions before we find one that works.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Färdig",
+            "content": "Next",
             "sectionId": "23e18229-b608-4bdf-8350-0816d94592ef"
           }
         ]
@@ -106,7 +155,7 @@
       {
         "type": "editorialWithImage",
         "id": "23e18229-b608-4bdf-8350-0816d94592ef",
-        "content": "Tänk på problemet och lösningen du precis valt. Du har nu tagit mer kontroll över situationen, och är redo att förändra någonting du kan påverka. \n\n6. Skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad). Skriv ned svaret, och jämför det med siffran du satte innan övningen. \n\nKanske känner du dig lite lugnare, kanske kommer du känna dig lite lugnare efter du testat din lösning. *Oavsett är du på väg mot att lösa ett problem.*",
+        "content": "Think about the problem and the solution you chose. You've now taken control over the situation, and are ready to change the things you can control.\n\nEstimate how stressed you're feeling right now, on a scale between 0 (not at all) and 10 (super stressed). Write down the answer, and compare it to the number you had before the exercise.\n\nMaybe you feel a little calmer. Perhaps you will feel a little calmer after testing your solution. \n\n*Regardless, you're on your way to solve a problem!*",
         "alias": "x",
         "buttons": [
           {
@@ -115,14 +164,14 @@
             "sectionId": "8875b873-2dcd-4daa-92e8-4619f7f3c70b"
           }
         ],
-        "title": "Skatta igen"
+        "title": "Score again"
       },
       {
         "type": "editorialWithImage",
         "id": "8875b873-2dcd-4daa-92e8-4619f7f3c70b",
-        "alias": "Bra gjort!",
-        "title": "",
-        "content": "Bra gjort! Du är nu klar med **Förändra det som inte fungerar.**\n\nIdag har du lärt dig att problemlösa situationer som går att förändra genom att strukturerat gå igenom olika lösningar. Använd dig av den här sortens problemlösning när du känner att du fastnar i att oroa dig kring ett problem. Eller när du har svårt att ta tag i ett problem.\n\n**Stegen du har lärt dig är:**\n\n* Sortera ut ett problem som du har kontroll över\n* Definiera problemet tydligt\n* Hitta på idéer\n* Utvärdera idéerna 0-10\n* Välj en idé och planera in när du ska testa\n* Utvärdera\n\nUtvärdera",
+        "alias": "Good job!",
+        "title": "Good job!",
+        "content": "You are now done with **Change what isn't working.**\n\nThe problem-solving steps you've learned are:\n\n* Sort out a problem that you have some control over\n* Define the problem clearly\n* Come up with solutions\n* Score ideas 0-10\n* Choose an idea and plan when you will test it out\n* Evaluate",
         "buttons": [
           {
             "component": "LessonCompleteButton",
@@ -133,17 +182,16 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
-    "alias": "YA Stress Förändra det som inte fungerar 2",
+    "alias": "Stress YA: Change what isn't working 2",
     "root": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
         "alias": "Problemlösning",
-        "title": "",
-        "content": "**Problemlösning**\\\nNär vi är stressade kan våra problem kännas otydliga. Förvirrande. Kraven brukar vara många, och det är svårt att komma på möjliga lösningar. Samtidigt blir vår hjärna påverkad —  vår förmåga att lösa problem blir faktiskt *sämre* när vi är väldigt stressade.",
+        "title": "Problemlösning",
+        "content": "När vi är stressade kan våra problem kännas otydliga. Förvirrande. Det kan vara svårt att komma på möjliga lösningar. \n\nSamtidigt blir vår hjärna påverkad —  vår **förmåga att lösa problem** blir faktiskt *sämre* när vi är väldigt stressade.",
         "buttons": [
           {
             "component": "Button",
@@ -156,13 +204,63 @@
         "type": "editorialWithImage",
         "id": "77aae570-b274-41b1-a67c-30b4fce4bdbb",
         "alias": "Förändra steg för steg",
-        "title": "",
-        "content": "**Förändra steg för steg**\\\nI den här övningen kommer du få utforska en situation som stressar dig just nu och kartlägga vad du kan göra annorlunda — från att komma på lösningar, till att planera konkreta steg.\n\nInnan vi börjar vill vi be dig att skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad).\n\nSkriv ner ditt svar där bara du kan se det.",
+        "title": "Förändra steg för steg",
+        "content": "Nu kommer du få utforska en situation som stressar dig just nu. \n\nDu kommer få kartlägga vad du kan göra annorlunda — från att komma på **lösningar**, till att planera **konkreta** **steg**.\n\nInnan vi börjar: skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad). Skriv ner ditt svar.",
         "buttons": [
           {
             "component": "Button",
             "content": "Fortsätt",
-            "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+            "sectionId": "2662405b-9868-4e16-9694-8613b3f86a13"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2662405b-9868-4e16-9694-8613b3f86a13",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Emilia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/emilia.mp4",
+                "duration": 52,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/emilia.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607233/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-emilia_doce4u.vtt"
+              },
+              {
+                "title": "Julie",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/julie.mp4",
+                "duration": 46,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/julie.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607233/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-julie_e7q32z.vtt"
+              },
+              {
+                "title": "Amir",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/amir.mp4",
+                "duration": 53,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/amir.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607233/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-amir_e4omrt.vtt"
+              },
+              {
+                "title": "Hillevi",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-3/hillevi.mp4",
+                "duration": 46,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-3/hillevi.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607233/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_3-hillevi_fuiccf.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+              }
+            ]
           }
         ]
       },
@@ -183,7 +281,7 @@
       {
         "type": "editorialWithImage",
         "id": "d38f4877-3e44-4f29-82a2-a5a2c891d858",
-        "content": "2. Kom på en massa tänkbara lösningar på ditt problem.\n\nHär finns det plats för vilda, galna, tråkiga, tokiga och roliga idéer, så kör på. \n\nSkriv ner *alla* dina idéer.",
+        "content": "2. Kom på en massa tänkbara lösningar på ditt problem. Här finns det plats för vilda, galna, tråkiga, tokiga och roliga idéer, så kör på. \n\n   Skriv ner *alla* dina idéer.",
         "alias": "Steg två",
         "title": "Lösningar",
         "buttons": [
@@ -199,7 +297,7 @@
         "id": "c515e14f-9a95-4306-80bc-f9e927b3badc",
         "alias": "Steg tre",
         "title": "Poängsätt",
-        "content": "3. Ge varje idé en poäng mellan noll och tio, beroende på hur bra du tror att respektive idé skulle kunna lösa problemet *(10 = kommer sannolikt funka, 0 = osannolikt att det kommer funka).* \n\nSkriv återigen ner dina svar.",
+        "content": "3. Ge varje idé en poäng mellan noll och tio, beroende på hur bra du tror att respektive idé skulle kunna lösa problemet *(10 = kommer sannolikt funka, 0 = osannolikt att det kommer funka).* \n\n   Skriv återigen ner dina svar.",
         "buttons": [
           {
             "component": "Button",
@@ -211,9 +309,9 @@
       {
         "type": "editorialWithImage",
         "id": "67a781dc-c63d-441a-94f1-a81f6431eeb8",
-        "alias": "Steg fyra",
+        "alias": "Steg fyra och fem",
         "title": "Testa lösningen",
-        "content": "4. Välj en idé att **testa**, och en tidpunkt när du ska testa den (inom närmaste veckan). \n5. Bestäm ett mål, eller hur du ska utvärdera din idé. Det viktiga här är att det är möjligt att mäta om du har nått ditt mål (*med ett enkelt ja, nej, eller delvis*). Exempel på mål kan vara:\n\n   * Lämnat in läxan\n   * Sökt tre jobb",
+        "content": "4. Välj en idé att **testa**, och en tidpunkt när du ska testa den (inom närmaste veckan). \n5. Bestäm ett **mål**, eller hur du ska utvärdera din idé. Det viktiga här är att det är möjligt att mäta om du har nått ditt mål (*med ett enkelt ja, nej, eller delvis*). \n\n*Exempel på mål kan vara: lämnat in läxan, sökt två jobb.*",
         "buttons": [
           {
             "component": "Button",
@@ -225,9 +323,9 @@
       {
         "type": "editorialWithImage",
         "id": "2a7e0450-66a4-42c5-8185-73c676ef5a2d",
-        "alias": "Steg fem",
+        "alias": "Steg sex",
         "title": "Påminn och utvärdera",
-        "content": "5. Sätt en påminnelse i mobilen om exakt en vecka. Utvärdera ditt lösningsförslag:\n\n* Nådde du ditt mål?\n* Är du nöjd med din lösning?\n* Om ja, vad har blivit bättre i ditt liv och hur?\n* Om nej, testa en annan idé från din lista eller ändra lite på den idé du testade och prova igen. Ibland behöver vi testa flera lösningar innan vi hittar en som fungerar.\n\nTa en printscreen på den här skärmen om du vill ha hjälp att komma ihåg frågorna.",
+        "content": "6. Sätt en påminnelse i mobilen om exakt en vecka. Utvärdera ditt lösningsförslag:\n\n   * Nådde du ditt mål? Är du nöjd med din lösning? Om ja, vad har blivit bättre i ditt liv och hur?\n   * Om nej, testa en annan idé från din lista eller ändra lite på den idé du testade och prova igen. Ibland behöver vi testa flera lösningar innan vi hittar en som fungerar.",
         "buttons": [
           {
             "component": "Button",
@@ -239,7 +337,7 @@
       {
         "type": "editorialWithImage",
         "id": "23e18229-b608-4bdf-8350-0816d94592ef",
-        "content": "Tänk på problemet och lösningen du precis valt. Du har nu tagit mer kontroll över situationen, och är redo att förändra någonting du kan påverka. \n\n* Skatta hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad). Skriv ned svaret, och jämför det med siffran du satte innan övningen. \n\nKanske känner du dig lite lugnare, kanske kommer du känna dig lite lugnare efter du testat din lösning. *Oavsett är du på väg mot att lösa ett problem.*",
+        "content": "Tänk på problemet och lösningen du valde. Du har nu tagit mer kontroll över situationen, och är redo att förändra någonting du kan påverka. \n\nSkatta återigen hur stressad du känner dig just nu, på en skala mellan noll (inte alls) och tio (superstressad). Skriv ned svaret, och jämför det med siffran du satte innan övningen. \n\nKanske känner du dig lite lugnare. Kanske kommer du känna dig lite lugnare efter du testat din lösning. \n\n*Oavsett är du på väg mot att lösa ett problem!*",
         "alias": "x",
         "buttons": [
           {
@@ -255,11 +353,199 @@
         "id": "8875b873-2dcd-4daa-92e8-4619f7f3c70b",
         "alias": "Bra gjort!",
         "title": "",
-        "content": "Bra gjort! Du är nu klar med **Förändra det som inte fungerar.**\n\nIdag har du lärt dig att problemlösa situationer som går att förändra. Stegen du har lärt dig är:\n\n* Sortera ut ett problem som du har kontroll över\n* Definiera problemet tydligt\n* Hitta på idéer\n* Utvärdera idéerna 0-10\n* Välj en idé och planera in när du ska testa\n* Utvärdera",
+        "content": "Bra gjort! Du är nu klar med **Förändra det som inte fungerar.**\n\nStegen för problemlösning som du har lärt dig är:\n\n* Sortera ut ett problem som du har viss kontroll över\n* Definiera problemet tydligt\n* Hitta på lösningar\n* Poängsätt idéerna 0-10\n* Välj en idé och planera in när du ska testa den\n* Utvärdera",
         "buttons": [
           {
             "component": "LessonCompleteButton",
             "content": "Slut"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+    "alias": "Stress YA: Change what isn't working 2",
+    "root": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "eaca13f4-ec84-42c8-a2d9-3964d581224c",
+        "alias": "Resolução de problemas ",
+        "title": "Resolução de problemas ",
+        "content": "Quando estamos stressadas/os, os nossos problemas podem parecer abstratos. Confusos. Pode ser difícil encontrar soluções possíveis. \\\n\\\nAo mesmo tempo, os nossos cérebros são afetados — a nossa **capacidade de resolver problemas** fica na verdade pior quando estamos muito stressadas/os.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mais",
+            "sectionId": "77aae570-b274-41b1-a67c-30b4fce4bdbb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "77aae570-b274-41b1-a67c-30b4fce4bdbb",
+        "alias": "Mudar passo a passo ",
+        "title": "Mudar passo a passo ",
+        "content": "Agora poderás explorar uma situação que te está a stressar.\n\nVais mapear o que podes fazer de forma diferente, desde a criação de **soluções** até ao planeamento **concreto** **de etapas**.\n\nAntes de começarmos, avalia o quão stressada/o estás a sentir-te **agora** numa escala entre 0 (nada) a 10 (super stressada/o). Escreve a tua resposta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte ",
+            "sectionId": "f0bd51ab-91c7-4c31-b813-0aa381f3b4a8"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "f0bd51ab-91c7-4c31-b813-0aa381f3b4a8",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Zicky Té",
+                "duration": 211,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361428/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Videos/Zicky_T%C3%A9_-_Lidar_com_Stress_-_L3V1_qz9ys3.mp4",
+                "subtitleUri": "",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366642/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Photos/Li%C3%A7%C3%A3o_3_-_mudar_o_que_n%C3%A3o_funciona_-_video_1_xvhto0.jpg"
+              },
+              {
+                "title": "Rita Rocha",
+                "duration": 65,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360856/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Videos/Rita_Rocha_-_Lidar_com_o_Stress_L3V1_xcuigf.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366776/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Photos/Rita_Rocha_-_Lidar_com_o_Stress_Mudar_o_que_n%C3%A3o_funciona_cyv9t0.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rita",
+                "duration": 116,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360612/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Videos/Rita_-_Lidar_com_o_Stress_L3V1_d4kxyr.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366948/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Photos/Mudar_o_que_n%C3%A3o_funciona_-_video_1_i7hx2k.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rodrigo",
+                "duration": 85,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361074/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Videos/L3V1_-_Rodrigo_Ara%C3%BAjo-_Lidar_com_o_Stress_toerby.mp4",
+                "subtitleUri": "",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366866/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Photos/Mudar_o_que_n%C3%A3o_funciona_-_video_1_ukfeka.jpg"
+              },
+              {
+                "title": "Francisca",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360475/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Videos/L3V1_-_Francisca_Costa_-_Lidar_com_o_stress_ihlhtm.mp4",
+                "duration": 180,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650367026/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Photos/mudar_o_que_n%C3%A3o_funciona_-_video_1_trwumh.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "b2d03b84-201f-4220-ac11-c90a23a1da22"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b2d03b84-201f-4220-ac11-c90a23a1da22",
+        "alias": "Exercício - passo 1",
+        "content": "1. Define um problema que te esteja a stressar agora. Tenta ser o mais concreta/o e honesta/o possível.\n\n   Exemplos como \"*Sinto-me desadequada/o*\" podem facilmente tornar-se muito **vagos**, enquanto que \"*Não consigo concentrar-me no meu trabalho de casa porque estou constantemente a ir ver o meu telemóvel*\" é mais **concreto**.\n\n   Anota a tua resposta e guarda-a, vais precisar dela mais tarde.",
+        "title": "Exercício",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continua",
+            "sectionId": "d38f4877-3e44-4f29-82a2-a5a2c891d858"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d38f4877-3e44-4f29-82a2-a5a2c891d858",
+        "content": "2. Agora, vamos apresentar possíveis **soluções** para o teu problema. Este é o momento para te lembrares de todas as ideias loucas, chatas e divertidas. Então vamos lá.\n\n   Anota todas as tuas ideias.",
+        "alias": "Passo dois",
+        "title": "Soluções",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "c515e14f-9a95-4306-80bc-f9e927b3badc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c515e14f-9a95-4306-80bc-f9e927b3badc",
+        "alias": "Passo três",
+        "title": "Resultado",
+        "content": "3. Dá a cada ideia uma pontuação de 0 a 10, dependendo de quão bem achas que cada ideia pode resolver o problema (10 = provável de funcionar, 0 = improvável de funcionar).\n\n   Anota as tuas respostas novamente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "67a781dc-c63d-441a-94f1-a81f6431eeb8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "67a781dc-c63d-441a-94f1-a81f6431eeb8",
+        "alias": "Passo quatro",
+        "title": "Tenta a solução",
+        "content": "4. Escolhe uma ideia para **testar**.\n5. Decide **quando** vais testá-la *(na próxima semana)*.\n6. Define uma **meta** ou decide como vais avaliar a tua ideia. O importante é que seja possível **medir** se atingiste a tua meta ou não (*com um simples sim, não, ou parcialmente*).\n\n*Exemplos de metas podem ser: entregar o trabalho de casa, candidatar-me a dois empregos.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mais",
+            "sectionId": "2a7e0450-66a4-42c5-8185-73c676ef5a2d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2a7e0450-66a4-42c5-8185-73c676ef5a2d",
+        "alias": "Passo sete",
+        "title": "Recorda e avalia",
+        "content": "6. Coloca um lembrete no teu telefone para exatamente daqui a uma semana a partir de agora. **Avalia a** tua solução proposta:\n\n   * Atingiste o teu objetivo? Estás satisfeita/o com a tua solução? Se sim, o que melhorou na tua vida e como?\n   * Se não, tenta outra ideia da tua lista ou ajusta a ideia testada e tenta novamente. Às vezes precisamos de testar várias soluções antes de encontrarmos uma que funcione.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "23e18229-b608-4bdf-8350-0816d94592ef"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "23e18229-b608-4bdf-8350-0816d94592ef",
+        "content": "Pensa no problema e na solução que escolheste. Agora assumiste o controlo da situação e estás pronta/o para mudar as coisas que podes controlar.\n\nAvalia o quão stressada/o te estás a sentir agora, numa escala entre 0 (nada) e 10 (super stressada/o). Anota o número e compara-o com a resposta que tinhas antes do exercício.\n\nTalvez te sintas um pouco mais calma/o depois de testares a tua solução.\n\n*De qualquer forma, estás no caminho para resolver um problema!*",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Feito",
+            "sectionId": "8875b873-2dcd-4daa-92e8-4619f7f3c70b"
+          }
+        ],
+        "title": "Pontua novamente"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8875b873-2dcd-4daa-92e8-4619f7f3c70b",
+        "alias": "Bom trabalho",
+        "title": "Bom trabalho",
+        "content": "Agora concluiste **Alterar o que não está a funcionar**.\n\nAs etapas de resolução de problemas que aprendeste são:\n\n* Escolhe um problema sobre o qual tens algum controlo\n* Define o problema claramente\n* Cria ideias para as soluções\n* Pontua as ideias de 0 a 10\n* Escolhe uma ideia e planeia quando vais testá-la\n* Avalia",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Acabei"
           }
         ]
       }

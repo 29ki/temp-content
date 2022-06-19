@@ -1,0 +1,11 @@
+{
+  "en": {
+    "lessonProgressError": "We couldn't continue the lesson, please try again."
+  },
+  "sv": {
+    "lessonProgressError": "Vi kunde inte fortsätta lektionen, försök igen."
+  },
+  "pt": {
+    "lessonProgressError": "Não conseguimos continuar a lição. Por favor, tenta outra vez."
+  }
+}

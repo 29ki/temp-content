@@ -1,0 +1,513 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Your inner friend",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651755441/Illustrations_Exercises/Cover_Danny_and_friends_slhuc3.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "version": 1,
+    "type": "exercise",
+    "id": "fad78f3c-bdae-44f2-bb06-b821620b1b98",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": true,
+    "stations": [
+      {
+        "id": "fb059806-8b70-4942-95ac-d88e54f612d0",
+        "alias": "Exercise: Your inner friend-1",
+        "root": "467ac75f-961e-467e-8821-8bc52fd20f5d",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "lottie": {
+              "loop": true
+            },
+            "id": "4ab85d87-8c1b-4364-a843-70893f02b7b0",
+            "title": "Your inner friend",
+            "content": "*This will never work*\n\n*I'm hopeless*\n\n*I can't do anything right*\n\nMany of us recognize these thoughts. We are each our own worst critic.\n\nBut we also have a friend inside.\n\nIn this exercise you will get to know both your inner critic and your inner friend, so that you can access your inner friend when you need it the most.",
+            "buttonText": "Got it",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651812957/Illustrations_Exercises/cover_inner_friend_r5jwef.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3ad0c5da-0df0-4c3b-9402-669f7e26e183",
+            "alias": "Content",
+            "title": "",
+            "content": "In this exercise:\n\n* Your inner critic\n* Your inner friend\n* Summary",
+            "buttonText": "Let's do this",
+            "lottie": {
+              "loop": false
+            }
+          }
+        ],
+        "name": "Intro",
+        "type": "station"
+      },
+      {
+        "id": "80cfa855-ae88-4cd3-b285-f043d3a85e6a",
+        "alias": "Exercise: Your inner friend-2",
+        "root": "3654eb2d-573b-4dbb-9be9-04f544b576b3",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "3654eb2d-573b-4dbb-9be9-04f544b576b3",
+            "alias": "1",
+            "title": "Our inner critic",
+            "content": "Many times we put high demands on ourselves. In front of the mirror, in school, at work, while working out or when spending time with friends and family.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651812957/Illustrations_Exercises/mirror_inner_critic_uyzsod.png",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cb00aa84-b237-4d8b-90b5-75393a39037c",
+            "alias": "2",
+            "content": "But when we don't live up to our own expectations, that’s when our inner critic comes out. Telling us we're not enough, useless or unworthy. We often react by pushing ourselves harder. Faster. Better. Stronger.",
+            "buttonText": "How do others relate to this?"
+          },
+          {
+            "type": "video",
+            "id": "ae07d279-b633-4df8-93e1-bcfd064cc2f6",
+            "alias": "videos",
+            "description": "Join Danny, Cissi and Anis when they explore their own inner critics.",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653922062/Illustrations_Exercises/Your_inner_friend_sharingvideo1.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653991126/Illustrations_Exercises/Your_inner_friend_still_sharingvideo1.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1655302533/Illustrations_Exercises/your_inner_friend_vtt1_eng_tjl0ty"
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7abe8ff7-6216-4aea-b094-21850945dfa1",
+            "alias": "4",
+            "content": "Most of us don’t even recognise when our inner critic comes out. Maybe because we're so used to them always being around in our everyday lives.\n\nNow it's time for you to look within and connect with your own inner critic.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f1565888-e0dc-4ace-be3e-cb18faf71b1a",
+            "alias": "writing exercise 1",
+            "title": "What situations trigger your inner critic?",
+            "content": "Use pen and paper to write down your answer.",
+            "infoItems": [
+              {
+                "title": "Example",
+                "description": "> My inner critic comes out when I feel left out or when I fail at something."
+              }
+            ],
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652087691/Badges/exercise_badge_w_box_jbbtob.png",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a07800a7-11f7-4a14-83dc-947d5fce6d19",
+            "alias": "writing exercise 2",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652087691/Badges/exercise_badge_w_box_jbbtob.png",
+            "title": "And what does your inner critic say to you?",
+            "content": "Note down your answer.",
+            "infoItems": [
+              {
+                "title": "Example",
+                "description": "> My inner critic tells me I'm stupid, incapable or useless."
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5905be21-66bd-4925-8f22-8128e736594f",
+            "alias": "summary",
+            "content": "Well done. While writing these words can be uncomfortable, research shows that relating to something tangible is much easier than relating to something more abstract.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Next"
+          }
+        ],
+        "name": "Inner critic",
+        "type": "station"
+      },
+      {
+        "id": "5810a534-098a-4f82-b021-1af3e7d24a8e",
+        "alias": "Exercise: Your inner friend-3",
+        "root": "ebaf7d45-f11b-4b74-b755-555db6858f7c",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "ebaf7d45-f11b-4b74-b755-555db6858f7c",
+            "alias": "start section",
+            "title": "What would you tell a friend?",
+            "content": "Now imagine a friend in a similar situation to the one you just described, where she does not live up to the expectations she puts on herself.\n\nThink about what you would tell your friend in that situation.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651812957/Illustrations_Exercises/mirror_inner_friend_uf5vrx.png",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b623b82c-c447-4371-9927-d3195aa63a9d",
+            "alias": "section 2",
+            "title": "Our inner friend",
+            "content": "What many of us don’t know is that we also have an inner friend. Someone who is on our side and want what’s best for us.\n\nA friend that accepts our wrongs and mistakes. Who knows that we're not perfect.\n\nOur inner critic is often quick to make an entrance, while our inner friend might be a little harder to find.",
+            "buttonText": "How do others relate to this?"
+          },
+          {
+            "type": "video",
+            "id": "544e90ab-41ea-4951-a86a-c983229ee595",
+            "alias": "sharing videos",
+            "description": "Join Danny, Cissi and Anis when they search for their inner friends.",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653921943/Illustrations_Exercises/your_inner_friend_sharing_video2.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653995726/Illustrations_Exercises/Your_inner_friend_still_sharingvideo2.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1655380140/Illustrations_Exercises/your_inner_friend_vtt2_ENG_jfmdt5"
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "07a9e4b8-d7b5-4c13-a085-1cddc4254158",
+            "alias": "Exercise inner friend",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652087691/Badges/exercise_badge_w_box_jbbtob.png",
+            "title": "What would your inner friend say?",
+            "content": "Think back to the situation that triggered your inner critic.\n\nWhat would your inner friend - someone who truly cares about you, knows you and accepts all your faults and shortcomings - say to you in this situation?\n\nNote down your answer.\n\nNote that there is no need for you inner friend to convince your inner critic of being wrong. Your inner friend is only there to offer self compassion. To be kind when you need it the most.",
+            "infoItems": [
+              {
+                "title": "Examples",
+                "description": "> * It's OK to make a mistake.\n> * You're not the only one feeling like this.\n> * All you can do is your best.\n> * This is just what it feels like in this moment. That's ok.\n> * Failure is part of being human.\n> * Right now there is someone else, somewhere else feeling exactly what you're feeling in this moment."
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "64951fd0-665d-4b4d-ac79-d4a38a160b28",
+            "alias": "Summary - friend",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "content": "Well done. You have now explored your inner friend and how she would approach you in a difficult situation.",
+            "buttonText": "Next"
+          }
+        ],
+        "name": "Inner friend",
+        "type": "station"
+      },
+      {
+        "id": "ecb7a5fa-bcb5-46e0-8fd4-4cb57ec08940",
+        "alias": "Exercise: Your inner friend-4",
+        "root": "7e99ee88-f8ac-488a-8f21-a0a6e9050896",
+        "sections": [
+          {
+            "type": "video",
+            "id": "7e99ee88-f8ac-488a-8f21-a0a6e9050896",
+            "alias": "video sharings",
+            "title": "",
+            "description": "Finding your inner friend is not always easy. Listen to Danny, Cissi and Anis when they reflect on what it's like.",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653922035/Illustrations_Exercises/your_inner_friend_sharingvideo3.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653996503/Illustrations_Exercises/your_inner_friend_still_sharingvideo3.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1655393787/Illustrations_Exercises/your_inner_friend_vtt3_ENG_vxiahf"
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "0457d835-8d22-48d7-bf22-a6fd5cc6b7b9",
+            "alias": "sharing wall",
+            "exampleText": "Difficult at first, but after a while I found words that felt true. Great to be able to connect to them when needed.",
+            "question": "What was it like for you finding your inner friend? In what situations would she be able to help you?",
+            "nextSection": "a7580fce-12f9-4ab9-a357-42bfbb7c7473"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a7580fce-12f9-4ab9-a357-42bfbb7c7473",
+            "alias": "summary",
+            "content": "You can help yourself in situations that trigger your inner critic by inviting your inner friend to speak up instead.\n\nRemember that your inner friend is compassionate and loves you for who you are, without needing to prove your inner critic wrong.",
+            "title": "Summary",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Summary",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Din inre vän",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1651755441/Illustrations_Exercises/Cover_Danny_and_friends_slhuc3.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "type": "exercise",
+    "id": "fad78f3c-bdae-44f2-bb06-b821620b1b98",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": true,
+    "stations": [
+      {
+        "id": "fb059806-8b70-4942-95ac-d88e54f612d0",
+        "alias": "Exercise: Your inner friend-1",
+        "root": "cd7f7fa5-8c09-490e-ab40-2fc587126f07",
+        "sections": [
+          {
+            "type": "video",
+            "id": "cd7f7fa5-8c09-490e-ab40-2fc587126f07",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1655293817/Illustrations_Exercises/Your_inner_friend_intro_stillv2.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1655287455/Illustrations_Exercises/Your_inner_friend_mirror_Intro_video_no_graphic_isxdox.mp4"
+              }
+            ],
+            "alias": "intro",
+            "title": "Din inre vän",
+            "description": "",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "lottie": {
+              "loop": true
+            },
+            "id": "e1684921-4a15-4c8f-b16b-b67fb99dc294",
+            "content": "*Det går aldrig*\n\n*Jag är hopplös*\n\n*Jag klarar ingenting*\n\nVi är många som känner igen tankarna. Nästan alla människor är **sin egen hårdaste kritiker.**\n\nMen vi har också en vän inom oss.\n\nI den här övningen får du lära känna både din inre kritiker och inre vän.\n\nSå att det blir lättare att plocka fram en inre vän **när vi behöver den som bäst**.",
+            "buttonText": "Okej"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d38119ff-e9d5-4c76-9fff-525d3814a277",
+            "alias": "Innehåll",
+            "title": "",
+            "content": "Innehåll:\n\n* Din inre kritiker\n* Din inre vän\n* Sammanfattning",
+            "buttonText": "Nu kör vi",
+            "lottie": {
+              "loop": false
+            }
+          }
+        ],
+        "name": "Inledning",
+        "type": "station"
+      },
+      {
+        "id": "80cfa855-ae88-4cd3-b285-f043d3a85e6a",
+        "alias": "Exercise: Your inner friend-2",
+        "root": "3654eb2d-573b-4dbb-9be9-04f544b576b3",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "3654eb2d-573b-4dbb-9be9-04f544b576b3",
+            "alias": "1",
+            "title": "Vår inre kritiker",
+            "content": "Ofta har vi höga krav på oss själva. Framför spegeln, i skolan, på jobbet, på träningen, eller när vi är med vänner och familj.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651812957/Illustrations_Exercises/mirror_inner_critic_uyzsod.png",
+            "buttonText": "Okej, fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cb00aa84-b237-4d8b-90b5-75393a39037c",
+            "alias": "2",
+            "content": "Om vi inte lever upp till kraven så går vår inre kritiker igång. Säger att vi inte duger, inget kan eller är dåliga. Ofta reagerar vi med att pusha oss själva hårdare. Snabbare. Mer. Bättre.",
+            "buttonText": "Hur tänker andra kring det här?"
+          },
+          {
+            "type": "video",
+            "id": "ae07d279-b633-4df8-93e1-bcfd064cc2f6",
+            "alias": "videos",
+            "description": "Följ Danny, Cissi och Anis när de utforskar sina inre kritiker.",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653922062/Illustrations_Exercises/Your_inner_friend_sharingvideo1.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1653921887/Illustrations_Exercises/your_inner_friend_vtt1",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653995726/Illustrations_Exercises/Your_inner_friend_still_sharingvideo2.png"
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7abe8ff7-6216-4aea-b094-21850945dfa1",
+            "alias": "4",
+            "content": "De flesta av oss märker inte när vår inre kritiker går igång. Den har kanske alltid funnits där som en självklar del av det vi upplever varje dag.\n\nSå, nu ska du få titta inåt och hitta din egen inre kritiker.",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "023a8c71-62a4-4990-89bc-d587de90a225",
+            "alias": "writing exercise 1",
+            "title": "I vilka situationer går din inre kritiker igång?",
+            "content": "Skriv ner ditt svar där bara du kan se det.",
+            "infoItems": [
+              {
+                "title": "Exempel",
+                "description": "> Min inre kritiker går igång när jag känner mig utanför eller när jag misslyckas med något."
+              }
+            ],
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652087691/Badges/exercise_badge_w_box_jbbtob.png",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b468d873-2792-43bf-846e-c4a85c0e807e",
+            "alias": "writing exercise 2",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652087691/Badges/exercise_badge_w_box_jbbtob.png",
+            "title": "Och hur låter din inre kritiker?",
+            "content": "Skriv ner ditt svar.",
+            "infoItems": [
+              {
+                "title": "Exempel",
+                "description": "> Min inre kritiker säger att jag är korkad, dum, inget kan eller inte är nåt värd."
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5905be21-66bd-4925-8f22-8128e736594f",
+            "alias": "summary",
+            "content": "Bra jobbat. Även om det kan kännas svårt eller obehagligt att uttala och skriva ner orden, så visar forskning att de flesta har lättare att hantera något uttalat, något tydligt, än det som är diffust och otydligt.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Gå vidare"
+          }
+        ],
+        "name": "Inre kritiker",
+        "type": "station"
+      },
+      {
+        "id": "5810a534-098a-4f82-b021-1af3e7d24a8e",
+        "alias": "Exercise: Your inner friend-3",
+        "root": "ebaf7d45-f11b-4b74-b755-555db6858f7c",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "ebaf7d45-f11b-4b74-b755-555db6858f7c",
+            "alias": "start section",
+            "title": "Vad säger du till en vän?",
+            "content": "Tänk dig nu att du har en vän som är i samma situation som du beskrev nyss, att vännen inte lever upp till de höga krav hen har på sig.\n\nFundera på vad du skulle säga till din vän i den situationen.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651812957/Illustrations_Exercises/mirror_inner_friend_uf5vrx.png",
+            "buttonText": "Okej"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b623b82c-c447-4371-9927-d3195aa63a9d",
+            "alias": "section 2",
+            "title": "Vår inre vän",
+            "content": "Vad många inte vet är att vi också har vår egen inre vän. En kompis som är på vår sida och vill oss väl.\n\nEn kompis som accepterar alla våra fel och misstag. Att vi inte är perfekta.\n\nVår inre kritiker är ofta självgående, medan det kan ta lite tid att hitta vår egen inre vän.",
+            "buttonText": "Hur tänker andra kring det här?"
+          },
+          {
+            "type": "video",
+            "id": "544e90ab-41ea-4951-a86a-c983229ee595",
+            "alias": "sharing videos",
+            "description": "Följ Danny, Cissi och Anis när de försöker hitta sin inre vän.",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653921943/Illustrations_Exercises/your_inner_friend_sharing_video2.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1653921887/Illustrations_Exercises/your_inner_friend_vtt2",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653995726/Illustrations_Exercises/Your_inner_friend_still_sharingvideo2.png"
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f7a3b4ad-9ef9-4a8a-bd18-bd693c407279",
+            "alias": "Exercise inner friend",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1652087691/Badges/exercise_badge_w_box_jbbtob.png",
+            "title": "Vad skulle din inre vän säga?",
+            "content": "Tänk nu tillbaka på situationen som fick din inre kritiker att börja gapa.\n\nVad skulle en inre vän – någon som verkligen bryr sig om dig, känner till alla dina fel och brister och accepterar dig som du är – säga till dig i den här situationen?\n\nSkriv ner ditt svar där bara du kan se det.\n\nTänk på att din inre vän inte behöver övertyga din inre kritiker om att hen har fel. Din inre vän finns där för att ge dig självmedkänsla. För att vara snäll mot dig när du som mest behöver det.",
+            "infoItems": [
+              {
+                "title": "Exempel",
+                "description": "> * Det är okej att göra fel och att hen tycker om dig ändå.\n> * Du är inte ensam om att känna så här.\n> * Du kan bara göra så gott du kan.\n> * Det är så här det känns just nu. Det är ok.\n> * Att misslyckas är en del av vad det innebär att vara människa.\n> * Just nu finns det någon annan, någonstans, som känner likadant som du."
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c41a31cb-0f0f-4204-8ec2-8b5b2139e18e",
+            "alias": "Summary - friend",
+            "content": "Bra jobbat. Du har nu utforskat din inre vän och funderat på vad hen skulle säga till dig i svåra situationer.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Nästa"
+          }
+        ],
+        "name": "Inre vän",
+        "type": "station"
+      },
+      {
+        "id": "ecb7a5fa-bcb5-46e0-8fd4-4cb57ec08940",
+        "alias": "Exercise: Your inner friend-4",
+        "root": "7e99ee88-f8ac-488a-8f21-a0a6e9050896",
+        "sections": [
+          {
+            "type": "video",
+            "id": "7e99ee88-f8ac-488a-8f21-a0a6e9050896",
+            "alias": "video sharings",
+            "title": "",
+            "description": "Det är inte alltid så lätt att hitta sin inre vän. Lyssna på Danny, Cissi och Anis när de reflekterar kring den här övningen.",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1653922035/Illustrations_Exercises/your_inner_friend_sharingvideo3.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653996503/Illustrations_Exercises/your_inner_friend_still_sharingvideo3.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1653921887/Illustrations_Exercises/your_inner_friend_vtt3"
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "0457d835-8d22-48d7-bf22-a6fd5cc6b7b9",
+            "alias": "sharing wall",
+            "exampleText": "Svårt först, men sen kunde jag hitta ord som kändes sanna. Bra att plocka fram när jag blir hård mot mig själv.",
+            "question": "Hur tyckte du att det var att försöka hitta din egen inre vän? I vilka situationer skulle hen kunna hjälpa dig?",
+            "nextSection": "a7580fce-12f9-4ab9-a357-42bfbb7c7473"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a7580fce-12f9-4ab9-a357-42bfbb7c7473",
+            "alias": "summary",
+            "content": "I situationer när du märker att din inre kritiker drar igång, kan du hjälpa dig själv genom att också fundera på vad din inre vän skulle säga. \n\nKom ihåg att din inre vän visar medkänsla och älskar dig som du är, utan att behöva argumentera med din inre kritiker.",
+            "title": "Sammanfattning",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Sammanfattning",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": true,
+    "type": "exercise",
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "id": "fad78f3c-bdae-44f2-bb06-b821620b1b98",
+    "stations": []
+  }
+}

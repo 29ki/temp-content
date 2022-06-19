@@ -1,41 +1,57 @@
 {
   "en": {
-    "type": "lesson",
     "id": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af",
-    "alias": "leadership-reframe-2",
-    "root": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9",
+    "alias": "Leadership-connect-2",
+    "root": "6a240eb2-737f-466f-b2e0-1085a5fe2123",
     "sections": [
       {
-        "type": "editorialWithImage",
-        "id": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9",
-        "content": "We form habits for a good reason, for example to save us time and energy. However not all habits we form serve us long-term. \\\n\\\n**Can you think of a work habit which you struggle with frequently?**\n\n*For example: Checking my email out-of-hours and on weekends.*",
-        "alias": "Benefits of habits",
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "6a240eb2-737f-466f-b2e0-1085a5fe2123",
+        "alias": "Exercise",
+        "longDescription": "A habit is like a double edged sword, meaning that it has **both** pros and cons!\n\n#### Choose one of your habits and answer the following questions:\n\n* In what way is it helpful?\n* In what way is it unhelpful?",
         "buttons": [
           {
             "component": "Button",
-            "content": "Next ",
-            "sectionId": "de31bc3c-a63d-4edf-aab6-fb0bf52aa034"
+            "content": "I'm done",
+            "sectionId": "4da43748-7033-46b0-8bdc-0b9845eb094c"
           }
         ]
       },
       {
         "type": "editorialWithImage",
-        "id": "de31bc3c-a63d-4edf-aab6-fb0bf52aa034",
-        "alias": "Benefits of habits 2",
-        "content": "When it comes to your habit,\n\n* In what way is it helpful?\n* In what way is it unhelpful?",
+        "id": "4da43748-7033-46b0-8bdc-0b9845eb094c",
+        "alias": "Why form habits?",
+        "title": "Why form habits?",
+        "content": "We form habits for a good reason, for example to save us time and energy. Whenever a behavior becomes a habit, it becomes **automatic.** We no longer think about it in order to carry it out.\n\nBy forming habits, we free up our precious cognitive resources for other tasks, like learning or problem-solving. Even how we relate to people and situations can become habitual.",
         "buttons": [
           {
-            "component": "LessonCompleteButton",
-            "content": "Done"
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9"
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9",
+        "content": "Having automatic ways of responding to situations makes a lot of sense. It helps us succeed at what we do.\n\nBut habits can also get in the way of doing what matters to us.\n\n* **Can you think of a habit from any area of your life that you struggle with?**\n\n*For example: Checking my email out-of-hours and on weekends.*",
+        "alias": "The cost of habits",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff"
+          }
+        ],
+        "title": "The cost of habits"
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af",
-    "alias": "leadership-reframe-2",
+    "alias": "Leadership-connect-2",
     "sections": [
       {
         "type": "editorialWithImage",
@@ -50,5 +66,55 @@
       }
     ],
     "root": "1608626c-cf37-486e-ae7b-fdaeca1f047f"
+  },
+  "pt": {
+    "id": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af",
+    "alias": "Leadership-connect-2",
+    "root": "6a240eb2-737f-466f-b2e0-1085a5fe2123",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "6a240eb2-737f-466f-b2e0-1085a5fe2123",
+        "alias": "Exercise",
+        "longDescription": "Um hábito é uma espada de dois gumes, o que significa que tem prós e contras!\n\n#### Escolhe um dos teus hábitos e responde às seguintes perguntas:\n\n* De que forma é útil?\n* De que forma te complica a vida?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí ",
+            "sectionId": "4da43748-7033-46b0-8bdc-0b9845eb094c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4da43748-7033-46b0-8bdc-0b9845eb094c",
+        "alias": "Why form habits?",
+        "title": "Por que razão criamos hábitos?",
+        "content": "Criamos hábitos por um bom motivo, por exemplo, para poupar tempo e energia. Sempre que um comportamento se torna um hábito, torna-se **automático**. Não pensamos mais nele para o realizar.\n\nAo formar hábitos, libertamos os nossos preciosos recursos cognitivos para outras tarefas, como aprender ou resolver problemas. No entanto, a maneira como nos relacionamos com as pessoas e situações pode tornar-se rotineira.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "51674e57-b6d8-48a3-bcc8-3d3b50815fb9",
+        "content": "Ter formas automáticas de responder às situações faz muito sentido. Isso ajuda-nos a ter sucesso no que fazemos.\n\nMas os hábitos também podem atrapalhar o que é importante para nós.\n\n* **Consegues pensar num hábito de qualquer área da tua vida com o qual tenhas dificuldade?** \n\nPor exemplo: Verificar o meu e-mail fora do horário de trabalho e aos fins-de-semana.",
+        "alias": "The cost of habits",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff"
+          }
+        ],
+        "title": "O custo dos hábitos "
+      }
+    ]
   }
 }

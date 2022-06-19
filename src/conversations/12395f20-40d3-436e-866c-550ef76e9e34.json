@@ -1,0 +1,110 @@
+{
+  "en": {
+    "id": "12395f20-40d3-436e-866c-550ef76e9e34",
+    "alias": "Leadership-coursesummary-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "93958c30-61ef-4eb2-87c3-467376a634c2",
+        "alias": "Purposeful Leadership isn’t just ANY path",
+        "title": "Purposeful Leadership isn’t just ANY path",
+        "content": "It’s the path that helps you to lead your team to achieve its present goals, in ways that are also important to you. \n\nYour success or failure in pursuing this purpose, and the accompanying thrill or distress you feel, can help you better to clarify what is most crucial to you in these situations.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "118eb351-82af-4571-84b9-0738eae6fa44"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "118eb351-82af-4571-84b9-0738eae6fa44",
+        "alias": "Your purposeful leadership skills and your environment co-produce each other",
+        "title": "Your purposeful leadership skills and your environment co-produce each other",
+        "content": "A leader can take skillful choices to pursue a purposeful path, but what if their current situation doesn’t appear to afford you many paths to pursue? \n\nFortunately, people see more opportunities if they have owned-up to their previous and current experiences.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "a7e15a16-df27-4ae4-bca2-5acc34a79e22"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a7e15a16-df27-4ae4-bca2-5acc34a79e22",
+        "alias": "Buy what if....",
+        "title": "Buy what if....",
+        "content": "If your goal is to sell ice-cream in a main square in January, your past experience as a Purposeful Leader will help you to clarify, adapt, and act more skillfully to pursue your purpose, in a difficult environment. \n\nBy **tuning-in, owning-up**, and allowing yourself to **adapt to your environment**, you can better see possibilities for meeting your sales targets in a cold winter. You may sense how to use, change, and adapt your knowledge and resources to achieve those targets (e.g., by locating ice-cream carts in large office buildings).",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "501950b9-690b-4334-a2a5-5f866cbdbd21"
+          }
+        ]
+      }
+    ],
+    "root": "93958c30-61ef-4eb2-87c3-467376a634c2"
+  },
+  "sv": {
+    "id": "12395f20-40d3-436e-866c-550ef76e9e34",
+    "alias": "Leadership-coursesummary-2"
+  },
+  "pt": {
+    "id": "12395f20-40d3-436e-866c-550ef76e9e34",
+    "alias": "Leadership-coursesummary-2",
+    "root": "93958c30-61ef-4eb2-87c3-467376a634c2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "93958c30-61ef-4eb2-87c3-467376a634c2",
+        "alias": "Purposeful Leadership isn’t just ANY path",
+        "title": "Liderança com Propósito não é apenas um caminho qualquer",
+        "content": "É o caminho que te ajuda a liderar a tua equipa para atingir os teus objetivos atuais, de formas que também são relevantes para ti.\n\nO teu sucesso ou fracasso em atingir esse propósito e o respetivo entusiasmo ou angústia que sentes podem ajudar-te a definir melhor o que é mais importante para ti nessas situações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "118eb351-82af-4571-84b9-0738eae6fa44"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "118eb351-82af-4571-84b9-0738eae6fa44",
+        "alias": "Your purposeful leadership skills and your environment co-produce each other",
+        "title": "As tuas competências de liderança com propósito e o teu contexto reforçam-se mutuamente",
+        "content": "Um líder pode fazer escolhas engenhosas para seguir um caminho relevante, mas e se a situação atual dele não parecer oferecer muitos caminhos a seguir?\n\nFelizmente, as pessoas veem mais oportunidades se tiverem assumido as suas experiências anteriores e as atuais.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a7e15a16-df27-4ae4-bca2-5acc34a79e22"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a7e15a16-df27-4ae4-bca2-5acc34a79e22",
+        "alias": "Buy what if....",
+        "title": "Mas e se...",
+        "content": "Se o teu objetivo é vender gelados numa praça em Janeiro, a tua experiência anterior como Líder Relevante vai ajudar-te a clarificar, a adaptares-te e a agir da forma mais competente para alcançares o teu propósito, num ambiente difícil.\n\nAo **sintonizares-te**, **assumir** e permitir **adaptares-te ao teu ambiente**, podes ver melhor as possibilidades de cumprir os teus objetivos de vendas num Inverno frio. Podes sentir como usar, mudar e adaptar o teu conhecimento e recursos para atingir esses objetivos (por exemplo, colocando carrinhos de gelados em grandes edifícios de escritórios).",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "501950b9-690b-4334-a2a5-5f866cbdbd21"
+          }
+        ]
+      }
+    ]
+  }
+}

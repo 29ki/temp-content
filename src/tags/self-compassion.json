@@ -1,0 +1,20 @@
+{
+  "en": {
+    "id": "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+    "tag": "Self compassion",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/selfcompassion_c9wjgi.png",
+    "description": "Do you ever judge or criticize yourself for not being better or doing more? Improve the relationship to yourself by turning self-criticism into self-compassion. Research proves that this can increase happiness and motivation as well as decrease symptoms of anxiety and depression."
+  },
+  "sv": {
+    "id": "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+    "tag": "Självmedkänsla",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/selfcompassion_c9wjgi.png",
+    "description": "Dömer eller kritiserar du någonsin dig själv för att du inte är tillräckligt bra? Förbättra förhållandet till dig själv genom att omvandla självkritik till självmedkänsla. Forskning visar att det kan öka lycka och motivation samtidigt som det minskar symtom på ångest och depression."
+  },
+  "pt": {
+    "id": "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+    "tag": "Autocompaixão",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/selfcompassion_c9wjgi.png",
+    "description": "Costumas julgar-te ou criticar-te por não seres melhor ou não fazeres mais? Melhora a relação contigo mesma/o, transformando a autocrítica em autocompaixão. A investigação prova que isso pode aumentar a felicidade e a motivação, bem como diminuir os sintomas de ansiedade e depressão."
+  }
+}

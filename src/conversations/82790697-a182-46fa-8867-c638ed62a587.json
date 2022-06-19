@@ -1,0 +1,340 @@
+{
+  "en": {
+    "id": "82790697-a182-46fa-8867-c638ed62a587",
+    "alias": "Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0f1bc4fe-4ab1-4219-83b9-ea658052c5cd",
+        "content": "A problem properly defined is a problem half solved. And when it comes to defining your anxiety triggers, examples like “*I worry about the world*” are vague and abstract.\n\nA more concrete example, like “*I worry about losing my income if the economy crashes*” is more helpful as it helps us identify new solutions and actions.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "9c671a83-c240-4eac-98fa-7b51cd027ff1"
+          }
+        ],
+        "alias": "Define problems",
+        "title": "",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9c671a83-c240-4eac-98fa-7b51cd027ff1",
+        "alias": "identify solutions",
+        "title": "",
+        "content": "Once we've defined the source of anxiety, we can move into identifying different solutions. For example: *Diversify my income by applying for a side job.*\n\nNow it's over to you.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "686c8231-3ff2-4177-ab56-bb6bad05ebb1",
+            "content": "Let's go"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Write down your answers.\n\n1. As precisely as possible, define one source of anxiety in your life right now and how it effects you.\n2. What is within your control in this situation?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "0c4cf5ac-98c9-483f-9038-98ef8ef96b62"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercise - Step 1 - 2",
+        "title": "Exercise",
+        "type": "writing",
+        "id": "686c8231-3ff2-4177-ab56-bb6bad05ebb1"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "3. Now take a moment to consider alternative paths you could take in your current situation. There’s even room for wild and crazy ideas, so don’t hold back.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Done",
+            "sectionId": "8ec32d8c-e6d9-4bf6-83b5-38525b07974b"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercise - Step 3",
+        "title": "",
+        "type": "writing",
+        "id": "0c4cf5ac-98c9-483f-9038-98ef8ef96b62"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "4. Next to each idea, write down a score from 0 to 10 depending on how impactful it feels.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "ac561d82-4dd0-42f9-8420-90d0f5a48988"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercise - Step 4",
+        "title": "",
+        "type": "writing",
+        "id": "8ec32d8c-e6d9-4bf6-83b5-38525b07974b"
+      },
+      {
+        "longDescription": "5. Review your ideas and the scores you have assigned them. Which idea would you be willing to act on?\n6. Take a moment to plan when and how you'll act differently. Is there something you can do right away? If not, schedule any relevant actions in your calendar.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728",
+            "content": "Done"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercise - Step 5-6",
+        "title": "",
+        "type": "writing",
+        "id": "ac561d82-4dd0-42f9-8420-90d0f5a48988"
+      }
+    ],
+    "root": "0f1bc4fe-4ab1-4219-83b9-ea658052c5cd"
+  },
+  "sv": {
+    "id": "82790697-a182-46fa-8867-c638ed62a587",
+    "alias": "Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "c02db2ed-f757-411a-82ff-2b1094c86fd4",
+        "alias": "Problemlösning när du känner ångest",
+        "title": "",
+        "content": "Ett väldefinierat problem är till hälften löst. Och när det kommer till vad som sätter igång ångest för oss är exempel som \n\n*Jag oroar mig för allt som händer i världen*\\\nalltför vaga och abstrakta.\n\nI den här övningen ber vi dig att bryta ner ångesten i konkreta saker. Ett exempel som\n\n*Jag oroar mig för att förlora min inkomst om världsekonomin kraschar*\n\nkan hjälpa oss att hitta förslag på lösningar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "f6466434-2f48-49a7-983e-ed6476f30f67"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f6466434-2f48-49a7-983e-ed6476f30f67",
+        "content": "Med en konkret källa till ångest i bagaget kan vi gå vidare med att hitta på förslag på lösningar. Exempel kan då till vara: \n\n* *Se till att jag har en giltig arbetslöshetsförsäkring* \n* *Ansöka om ett andra jobb*.\n\nNu är det din tur.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "65ce7154-615c-46bf-b415-62c597062451"
+          }
+        ],
+        "alias": "identifiera lösninar"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Skriv ned dina svar.\n\n1. Definiera så tydligt som möjligt **ett** problem som bidrar till din ångest just nu. \n2. Vad är inom din kontroll i den här situationen?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "b7ecd857-939e-428e-b8b9-0df17630a797"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Övning – del 1-2",
+        "title": "Övning",
+        "type": "writing",
+        "id": "65ce7154-615c-46bf-b415-62c597062451"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "3. Överväg nu alla möjliga saker **du kan göra för att påverka** i den situation där du befinner dig. Det finns utrymme för tokiga, vilda och galna förslag, så kör på.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Klar",
+            "sectionId": "595c7580-b67e-403d-ba03-9fc74df54fb2"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Övning – del 3",
+        "title": "",
+        "type": "writing",
+        "id": "b7ecd857-939e-428e-b8b9-0df17630a797"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "4. Bredvid varje idé, sätt poäng mellan noll och tio för hur hjälpsam du tror idén är för att lösa ditt problem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "81edc1a8-9d4b-4b1d-97d1-f99d32d0d150"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Övning – del 4",
+        "title": "",
+        "type": "writing",
+        "id": "595c7580-b67e-403d-ba03-9fc74df54fb2"
+      },
+      {
+        "longDescription": "5. Se över dina lösningar och vilka poäng du gett dem. Välj en lösning du är beredd att prova.\n6. Om det går, pröva din idé här och nu. Om inte, bestäm vilken tid och dag du kan testa idén den kommande veckan.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Övning – del 5,6",
+        "title": "",
+        "type": "writing",
+        "id": "81edc1a8-9d4b-4b1d-97d1-f99d32d0d150"
+      }
+    ],
+    "root": "c02db2ed-f757-411a-82ff-2b1094c86fd4"
+  },
+  "pt": {
+    "id": "82790697-a182-46fa-8867-c638ed62a587",
+    "alias": "Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0f1bc4fe-4ab1-4219-83b9-ea658052c5cd",
+        "content": "Um problema bem definido é um problema meio resolvido. E quando se trata de identificar os teus gatilhos de ansiedade, exemplos como “*Preocupo-me com o mundo*” são vagos e abstratos.\n\nUm exemplo mais concreto, como “*Preocupo-me em perder o meu emprego se a economia entrar em crise*” é muito mais útil porque nos ajuda a identificar novas soluções e ações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "9c671a83-c240-4eac-98fa-7b51cd027ff1"
+          }
+        ],
+        "alias": "Definir problemas",
+        "title": "",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9c671a83-c240-4eac-98fa-7b51cd027ff1",
+        "alias": "Identificar soluções",
+        "title": "",
+        "content": "Depois de definirmos a fonte da ansiedade, podemos passar a identificar diferentes soluções. Por exemplo: *Diversifica as tuas fontes de rendimento procurando um emprego ou atividade complementar.*\n\nAgora está mais debaixo do teu controlo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "686c8231-3ff2-4177-ab56-bb6bad05ebb1",
+            "content": "Vamos lá"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas.\n\n1. Com a maior precisão possível, define uma fonte atual de ansiedade na tua vida e como ela te está a afetar.\n2. O que está debaixo do teu controlo nesta situação?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei",
+            "sectionId": "0c4cf5ac-98c9-483f-9038-98ef8ef96b62"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 1 - 2",
+        "title": "Exercício",
+        "type": "writing",
+        "id": "686c8231-3ff2-4177-ab56-bb6bad05ebb1"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "3. Agora, reserva um momento para considerares caminhos alternativos que poderias tomar perante a situação atual. Não te limites. Dá espaço a ideias mais radicais ou que não sejam evidentes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei",
+            "sectionId": "8ec32d8c-e6d9-4bf6-83b5-38525b07974b"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 3",
+        "title": "",
+        "type": "writing",
+        "id": "0c4cf5ac-98c9-483f-9038-98ef8ef96b62"
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "4. Ao lado de cada ideia, coloca uma pontuação de 0 (menos) a 10 (mais), dependendo de quão impactante ela é.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei",
+            "sectionId": "ac561d82-4dd0-42f9-8420-90d0f5a48988"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 4",
+        "title": "",
+        "type": "writing",
+        "id": "8ec32d8c-e6d9-4bf6-83b5-38525b07974b"
+      },
+      {
+        "longDescription": "5. Revisita as tuas ideias e as pontuações que lhes atribuíste. Em qual das ideias estarias disposto a atuar?\n6. Reserva um momento para planear quando e como agirás de forma diferente. Existe alguma coisa que possas fazer imediatamente? Caso contrário, agenda todas as ações relevantes no teu calendário.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728",
+            "content": "Terminei"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercício - Passo 5-6",
+        "title": "",
+        "type": "writing",
+        "id": "ac561d82-4dd0-42f9-8420-90d0f5a48988"
+      }
+    ],
+    "root": "0f1bc4fe-4ab1-4219-83b9-ea658052c5cd"
+  }
+}

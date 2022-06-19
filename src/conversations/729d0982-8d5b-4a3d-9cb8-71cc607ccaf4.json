@@ -1,0 +1,291 @@
+{
+  "en": {
+    "id": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4",
+    "alias": "Acting with purpose 3: The anxiety loop-2",
+    "root": "177e298a-9fcf-4df7-948f-94a9d32c04a2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "177e298a-9fcf-4df7-948f-94a9d32c04a2",
+        "content": "As we strive towards living a **meaningful** life, there are situations where we will feel **anxious**. When we’re anxious, we tend to do things that make us feel better in the **short term**, but **worse** in the **long run**. This throws us in an endless **loop**.",
+        "title": "Don't feed the monster",
+        "alias": "Section 1",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Read more",
+            "sectionId": "ff792ada-e82a-4af0-9f8d-43d62b2fd4dc"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ff792ada-e82a-4af0-9f8d-43d62b2fd4dc",
+        "alias": "Section 2",
+        "content": "The more we do to **overcome** the state we're in, the more anxious we feel. We call this **feeding** the **anxiety monster**.\n\nThe reason why we engage in these kinds of behaviors is because they make us feel good in the moment. They give us a false sense of **being in control.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "ece9756a-8a5c-4547-a329-2d5d8e2eb9a5",
+            "content": "Next"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ece9756a-8a5c-4547-a329-2d5d8e2eb9a5",
+        "content": "*\"I was tired and made a big mistake, a big failure, and I thought my diplomatic career was over*\", Jan Eliasson.\n\nHowever, when we spend a lot of **time** and **energy** trying to **control** anxiety, it tends to **take over** our lives instead. You may find yourself **struggling** to **sleep**, being **present** or **focusing** on what matters to you, thus negatively impacting your well-being.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "84854c18-c719-41bd-b657-094dd64ca6ee",
+            "content": "Next"
+          }
+        ],
+        "alias": "Section 4"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "84854c18-c719-41bd-b657-094dd64ca6ee",
+        "question": "In what ways do you feed your anxiety monster?",
+        "exampleText": "I spend a lot of time trying to control things I can't change. I avoid a lot of situations and postpone important things that needed to get done.",
+        "alias": "Section 6",
+        "nextSection": "89222205-9d1a-4dd8-9baa-542d5fe9ffdd"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "89222205-9d1a-4dd8-9baa-542d5fe9ffdd",
+        "content": "When the anxiety monster takes over your life, the most helpful thing you can do is to **break the anxiety loop.**\n\nOne way of doing so is by **understanding** your **needs** and **changing** your **behaviors accordingly.**",
+        "alias": "Section 7",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "ae4274cb-daa4-493e-adec-b7dad0ce07be"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4",
+    "alias": "Acting with purpose 3: The anxiety loop-2",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "video",
+        "title": "Kortsiktiga åtgärder",
+        "description": "När vi är oroliga tenderar vi att göra saker som får oss att må bättre i ögonblicket, men ibland gör de också värre på lång sikt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_exercise1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_exercise1.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Mata inte monsteret",
+        "content": "Låt oss säga att du är orolig för den nuvarande situationen. Du kan enkelt spendera det mesta av dina vakna timmar på att läsa om det i nyheterna eller titta på dokumentärer om ämnet. Det beteendet känns bra just nu, för det ger oss en känsla av kontroll. Men vad vi faktiskt gör är att mata ångestmonsteret.\n\nNär vi ägnar mycket tid och energi åt att kontrollera vår ångest tenderar det att ta över - det påverkar vår sömn, relationer och andra saker som är viktiga för vårt välbefinnande.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "section5"
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "longDescription": "Försök nu komma ihåg en tid då du handlade av stress, var trött eller orolig. Beskriv situationen du befann dig i, vilka tankar och känslor du upplevt och vad du gjorde.\n\nTa fem minuter på att skriva ner ditt svar på ett papper innan du går vidare.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "description": "Ett sätt att bryta ångestcykeln är att göra något för andra. Empati och byta perspektiv kan få oss ur vårt eget huvud. Det låter oss se saker genom en annan lins.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_exercise2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson3_exercise2.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "title": "Föreställ dig vad någon annan behöver",
+        "content": "Tänk på behoven hos en annan person. Det kan vara någon nära dig eller en främling. Föreställ dig saker ur deras perspektiv. Finns det något du kan göra för den här personen som skulle hjälpa dem eller som de skulle uppskatta på något sätt? Kan du till exempel uttrycka tacksamhet till din mamma, skicka en text till din vän, erbjuda din plats till en äldre person? Välj en enkel åtgärd som du kan göra just nu och kom tillbaka hit.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "longDescription": "Vad gjorde du och för vem?\n\nVad hände med din ångest när du tänkte på personens behov?\n\nHur kände du dig efter att ha gjort något för någon annan?\n\nSkriv ner dina svar och håll kvar på dina anteckningar. Det här kommer du att erbjudas att dela inom kort.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ],
+        "alias": "section9"
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "title": "Bryt ångestcykeln",
+        "content": "När ångestmonsteret tar kontroll är det bästa du kan göra att bryta ångestcykeln.\n\nEtt sätt är att ändra ditt beteende - till exempel kan du begränsa ditt nyhetsintag till en halvtimme om dagen. Om dina tankar fortsätter att gå tillbaka till de saker du oroar dig för, tolk detta som en signal att göra något annorlunda: bli mer närvarande i din kropp, nå ut till någon, träna eller meditera.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "ae4274cb-daa4-493e-adec-b7dad0ce07be",
+            "content": "Nästa"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "729d0982-8d5b-4a3d-9cb8-71cc607ccaf4",
+    "alias": "Acting with purpose 3: The anxiety loop-2",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "Não alimentes o monstro",
+        "content": "Digamos que estás preocupada/o com a situação atual. Podes passar a maior parte do tempo em que estás acordada/o a ler notícias ou a ver documentários acerca do assunto. Este comportamento faz-te sentir bem no momento porque te dá uma sensação de controlo. Mas o que estás efetivamente a fazer é alimentar o monstro da ansiedade.\n\nQuando dedicamos muito tempo e energia a controlar a nossa ansiedade, ela pode dominar-nos, afetando o sono, as relações e todos os outros aspetos importantes para o nosso bem-estar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "title": "Exercício",
+        "longDescription": "Agora tenta lembrar-te de uma altura em que tenhas agido com base no stress, no cansaço ou na ansiedade. Descreve essa situação, os teus pensamentos, os teus sentimentos e o que fizeste.\n\nUsa 5 minutos para escreveres a tua resposta numa folha de papel antes de proseguires.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "title": "O ciclo da ansiedade",
+        "description": "\"Eu tenho diferentes interlocutores para diferentes tipos de problemas.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621944076/29k%20FJN/Courses/Value%20Based%20Action/Photos/L3P7Theanxietyloop_lxycbd.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622037039/29k%20FJN/Courses/Value%20Based%20Action/Videos/L3_Value-based_action_V3_oyznf9.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Imagina o que os outros precisam",
+        "content": "Pensa acerca das necessidades de outra pessoa. Pode ser alguém próximo ou um estranho. Partindo da perspetiva dela, pensa se há alguma coisa que possas fazer para a ajudar ou que ela apreciasse de alguma forma.\n\nPor exemplo, podes agradecer à tua mãe, enviar uma mensagem a um amigo ou oferecer o teu lugar a uma pessoa mais velha?\n\nEscolhe uma ação simples que possas fazer imediatamente e depois volta para aqui.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Exercício",
+        "longDescription": "O que fizeste e por quem?\n\nO que aconteceu à tua ansiedade enquanto pensaste nas necessidades dessa pessoa?\n\nComo te sentiste depois de fazeres uma coisa para outra pessoa?\n\nEscreve as tuas respostas e guarda as tuas notas. Poderás partilhá-las daqui a pouco.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "Quebrar o ciclo da ansiedade",
+        "content": "Quando o monstro da ansiedade assume o controlo, o melhor que tens a fazer é quebrar o seu ciclo.\n\nUma das formas de o fazer é mudando o teu comportamento. Por exemplo, podes limitar a leitura de notícias a meia hora por dia. Se os teus pensamentos continuam a regressar às tuas preocupações, interpreta isso como algo que tens de mudar: torna-te mais presente no teu corpo, conversa com alguém, faz exercício ou medita.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "title": "Encerramento",
+        "content": "O que aprendeste:\n\n* A focar-te na tua respiração em vez de te deixares levar pelas emoções difíceis;\n* A identificar quando alimentas a ansiedade ou o monstro da preocupação;\n* Que focares-te nas necessidades dos outros pode aliviar o teu fardo.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "ae4274cb-daa4-493e-adec-b7dad0ce07be",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

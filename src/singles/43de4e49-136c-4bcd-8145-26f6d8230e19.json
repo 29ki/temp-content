@@ -1,0 +1,258 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "My bedtime routine",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/my_bedtime_routine_ctrim0.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 14
+    },
+    "version": 1,
+    "tags": [
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "exercise",
+    "id": "43de4e49-136c-4bcd-8145-26f6d8230e19",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-43de4e49-136c-4bcd-8145-26f6d8230e19",
+        "name": "My bedtime routine",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "d893b4e1-09d0-4e61-acc9-4bda26406746",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/my_bedtime_routine_ctrim0.png",
+            "title": "My bedtime routine",
+            "content": "Although **sleep is essential to our physical and mental** health, many people experience poor quality or too little of sleep. \n\n**Optimising** **your** **sleep routine** is one thing you can do to sleep better.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "46c056d1-0ddf-4d89-9bf8-d8c4479f448e",
+            "title": "",
+            "content": "**Learn more about:**\n\n* Why sleep matters\n* Review your current bedtime routine\n* Build habits that support you going forward\n\n**You'll need:**\n\n* 15 minutes\n* Pen and paper",
+            "infoItems": [],
+            "buttonText": "Let's do it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "05323cf6-9eab-4530-9931-6d4dd8e408ba",
+            "title": "What is your sleep routine? ",
+            "content": "Your sleep routine is the activities you do **immediately** **before** going to bed and also include the process of falling asleep.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6a397979-2388-4c64-90b7-3099a5a22e10",
+            "content": "Write down all your answers.\n\n1. What does your **typical** **sleep** **routine** look like at the moment?\n2. Take a step back and reflect on how this routine is **helping** **or** **hindering** your sleep at the moment. For example, how much sleep do you allow yourself each night?",
+            "buttonText": "I'm done",
+            "title": "Exercise"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ccf9af87-593d-4142-85f1-42b12cb7a743",
+            "title": "But what if you could change it?",
+            "content": "3. Imagine you designed **a new sleep routine**. Before going into detail and coming up with the precise activities you'd like it to include, take a moment to decide the purpose of your sleep routine, for example:\n\n* To help me unwind.\n* To recall what I’m grateful for.\n* To have a break from screens.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5672c97a-225e-4ed3-b098-8ab9b3468f9b",
+            "content": "4. What types of **activities** **could** **meet** **your** **needs**? Make a list of the types of activities that come to mind.\n\n   For example: *Having a cup of tea, reading a book or putting my phone away would help me unwind.*",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d59016d9-42ed-4d43-883c-10d4d6260902",
+            "content": "5. You now have a list of possible **building** **blocks** that make up your new sleep routine. Pick 2-3 activities that you wish to implement already tonight. Remember that these are the starting blocks of your new routine on which you can build further.\n6. Go ahead and set a timer for when you'd like your routine to begin. For example: If you aim to be in bed by 11 pm, and your routine takes around 30 min, then set your alarm for 10.30 pm at the latest.",
+            "infoItems": [
+              {
+                "title": "Continuous practice",
+                "description": "When the time comes, go ahead and **try** **out** your new sleep routine over the next few days. Set a reminder in your calendar in 5 days time to review how it's going.\n\n* Is there anything you'd like to **add**, **take** **out or do differently**? If so, what will you do differently?"
+              }
+            ],
+            "buttonText": "Let's wrap this up",
+            "title": ""
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "afeba11c-8e1f-48e4-9e02-73dc6ce4f699",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Well done on completing this exercise!",
+            "content": "Building new habits takes **time, practise and patience**. Meaningful routines can support us in getting better outcomes in life, both in the short-term (more energy the next day) and the long-term (accomplishing what matters).\n\nRemember that, as with everything, being **in tune with yourself** is key. There will be days when the best thing you can do for yourself is to simply take an early night and that's totally okay.\n\nIf you’re looking for more information on sleep, you may want to check out the [Sleep Foundation](www.sleepfoundation.org).",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/my_bedtime_routine_ctrim0.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 14
+    },
+    "tags": [
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "exercise",
+    "id": "43de4e49-136c-4bcd-8145-26f6d8230e19",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-43de4e49-136c-4bcd-8145-26f6d8230e19",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "44cf5b5e-9243-4a45-b7ef-b01a404ddd3c",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d893b4e1-09d0-4e61-acc9-4bda26406746",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "afeba11c-8e1f-48e4-9e02-73dc6ce4f699",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "A minha rotina de sono",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/my_bedtime_routine_ctrim0.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 14
+    },
+    "tags": [
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "exercise",
+    "id": "43de4e49-136c-4bcd-8145-26f6d8230e19",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-43de4e49-136c-4bcd-8145-26f6d8230e19",
+        "name": "A minha rotina de sono",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "d893b4e1-09d0-4e61-acc9-4bda26406746",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/my_bedtime_routine_ctrim0.png",
+            "title": "A minha rotina de sono",
+            "content": "Embora o **sono** seja **essencial** para a nossa saúde **física** e **mental**, muitas pessoas têm sono de má qualidade ou dormem muito pouco.\n\n**Otimizar** a tua **rotina de sono** é uma coisa que podes fazer para dormir melhor.",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "46c056d1-0ddf-4d89-9bf8-d8c4479f448e",
+            "title": "",
+            "content": "**Ficar a saber mais sobre:**\n\n* Por que razão o sono é importante\n* Revê a tua rotina de sono atual \n* Cria hábitos que te apoiem no futuro\n\n**Vais  precisar de:**\n\n* 15 minutos\n* Caneta e papel",
+            "infoItems": [],
+            "buttonText": "Vamos lá "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "05323cf6-9eab-4530-9931-6d4dd8e408ba",
+            "title": "Qual é a tua rotina do sono? ",
+            "content": "A tua rotina do sono inclui as **atividades** que fazes **imediatamente** **antes** de ir para a cama, bem como  o **processo** de **adormecer.**",
+            "buttonText": "Percebi "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6a397979-2388-4c64-90b7-3099a5a22e10",
+            "content": "Anota todas as tuas respostas.\n\n1. Como é a tua **rotina de sono típica** neste momento?\n2. Dá um passo atrás e **reflete** na forma como esta rotina está a **ajudar** ou **atrapalhar** o teu sono no momento. Por exemplo, quantas horas de sono te permites ter a cada noite?",
+            "buttonText": "Acabei",
+            "title": "Exercício"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ccf9af87-593d-4142-85f1-42b12cb7a743",
+            "title": "Mas e se conseguisses mudá-la?",
+            "content": "3. **Imagina** que **criaste** uma **nova** **rotina** de sono. Antes de entrar em detalhes e pensar nas atividades específicas que gostarias de incluir, tira um momento para decidir o **propósito** da tua rotina de sono, por exemplo:\n\n* Para me ajudar a **descontrair**.\n* Para me **lembrar** pelo que sou **grata/o**.\n* Para ter uma **pausa** dos ecrans.",
+            "buttonText": "Já acabei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5672c97a-225e-4ed3-b098-8ab9b3468f9b",
+            "content": "4. Que tipos de **atividades** podem ir **ao encontro** das tuas **necessidades**? Faz uma lista dos tipos de atividades que te  vêm à cabeça.\n\n   Por exemplo: *Tomar uma chávena de chá, ler um livro ou pousar o meu telefone ajudar-me-iam a relaxar.*",
+            "buttonText": "Acabei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d59016d9-42ed-4d43-883c-10d4d6260902",
+            "content": "5. Agora tens uma lista de possíveis **tijolos** que constituem a tua nova rotina do sono. **Escolhe 2-3 atividades que queres** implementar hoje à noite. Lembra-te de que esses são os tijolos iniciais com que começas a tua nova rotina sobre os quais podes construir ainda mais.\n6. Agora define um **temporizador** para a hora a que queres que a tua rotina **comece**. Por exemplo: se pretendes estar na cama às 23h e a tua rotina leva cerca de 30 minutos, define o alarme para as 22h30 no máximo.",
+            "infoItems": [
+              {
+                "title": "Prática contínua",
+                "description": "Quando chegar a hora, vai em frente e **experimenta a** tua **nova rotina de sono** nos próximos dias. Coloca um lembrete no teu calendário para daqui a 5 dias veres como está a correr.\n\n* Há algo que gostarias de **adicionar**, **retirar** ou fazer de **forma diferente**? Se sim, o que vais fazer de forma diferente?"
+              }
+            ],
+            "buttonText": "Vamos concluir este exercício",
+            "title": ""
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "afeba11c-8e1f-48e4-9e02-73dc6ce4f699",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Parabéns por teres completado este exercício!",
+            "content": "**Construir** novos **hábitos** leva **tempo**, **prática** e **paciência**. Rotinas significativas podem **apoiar-nos** na obtenção de melhores resultados na vida, tanto no **curto prazo** (mais energia no dia seguinte) quanto no **longo prazo** (concretizar o que importa ).\n\nLembra-te que, como em tudo, **estar** **em sintonia** contigo mesma/o é a **chave**. Haverá dias em que a melhor coisa que podes fazer por ti mesma/o é simplesmente dormir mais cedo e tudo bem.\n\nSe queres mais informações sobre o sono, pesquisa na [Sleep Foundation](www.sleepfounation.org).",
+            "buttonText": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

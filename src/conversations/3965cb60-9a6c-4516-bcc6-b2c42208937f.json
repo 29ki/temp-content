@@ -1,0 +1,110 @@
+{
+  "en": {
+    "id": "3965cb60-9a6c-4516-bcc6-b2c42208937f",
+    "alias": "alive-day-13",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 13",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 49,
+          "id": "aliveDay13rev1",
+          "title": "Alive Day 13 Quest",
+          "body": "Today, talk with someone you find it hard to connect with and be more like you are when you hang out with your best friend. How did this feel?"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I realised that"
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 14,
+          "minutes": 0,
+          "id": "followUpDay13",
+          "title": "Alive Day 13 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-13",
+        "nextConversationId": "76737ec5-01cd-41de-b68d-0ad6e254a4f6",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "c1ed80a5-b782-4280-ac3b-05382b8bc5da"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "3965cb60-9a6c-4516-bcc6-b2c42208937f",
+    "alias": "alive-day-13",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 13",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 49,
+          "id": "aliveDay13rev1",
+          "title": "Uppdrag dag 13",
+          "body": "Under dagen, prata med någon som du tycker det är lite **svårt** att få **kontakt** med – och var mer som du **brukar** vara när du är med en **nära** vän. Lägg märke till hur det känns."
+        },
+        "sharingWall": {
+          "question": "Hur kändes det att göra annorlunda?",
+          "exampleText": "Bra! Fick bättre kontakt än innan."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 14,
+          "minutes": 0,
+          "id": "followUpDay13",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-13",
+        "nextConversationId": "76737ec5-01cd-41de-b68d-0ad6e254a4f6",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "c1ed80a5-b782-4280-ac3b-05382b8bc5da"
+      }
+    ]
+  },
+  "pt": {
+    "id": "3965cb60-9a6c-4516-bcc6-b2c42208937f",
+    "alias": "alive-day-13",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 13",
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 49,
+          "id": "aliveDay13rev1",
+          "title": "Desafio ALIVE dia 13",
+          "body": "Hoje, conversa com alguém com quem aches difícil conectares-te e tenta ter uma atitude semelhante à que tens com os teus melhores amigos. Como te sentiste?"
+        },
+        "sharingWall": {
+          "question": "Aprendeste alguma coisa acerca de ti própria/o?",
+          "exampleText": "Hoje, apercebi-me de que..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 14,
+          "minutes": 0,
+          "id": "followUpDay13",
+          "title": "Check-in Dia 13 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-13",
+        "nextConversationId": "76737ec5-01cd-41de-b68d-0ad6e254a4f6",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "c1ed80a5-b782-4280-ac3b-05382b8bc5da"
+      }
+    ],
+    "root": "scheduleTask"
+  }
+}

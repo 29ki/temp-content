@@ -1,0 +1,297 @@
+{
+  "en": {
+    "id": "c64f8aad-3bd6-4561-afad-397932df6108",
+    "alias": "Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ec61ea16-40b3-45e7-b0e5-c6ac182be4d7",
+        "alias": "Our emotions can’t harm us",
+        "title": "Our emotions can’t harm us",
+        "content": "Even the most intense **emotions come and go in waves.**\n\nIn the middle of experiencing a powerful emotion, it’s natural to feel anxious, scared or uncomfortable. It’s also common to impulsively want to control or escape our emotions.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "1fc3958e-0248-4a59-8148-68060f4fa473"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445207/laura-barry-nEw6iC2SOcM-unsplash_kn5lbn.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1fc3958e-0248-4a59-8148-68060f4fa473",
+        "content": "However, trying to avoid or **fight emotions usually** **doesn’t** **work**. \n\nWhile avoiding emotions can help us cope with an acute situation in the short run, it often stops us from feeling good or meaningful action in the longrun**.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "0766f16f-018a-43ce-90bc-37fe16dca2fa"
+          }
+        ],
+        "alias": "Avoiding"
+      },
+      {
+        "type": "video",
+        "id": "0766f16f-018a-43ce-90bc-37fe16dca2fa",
+        "alias": "video - but/and",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "f16ffd18-05cd-4f8e-b452-d4d36f6718f3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635345473/The%20Word%20But/IMG-2799_ahfhyy.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1635344352/The%20Word%20But/jenny_thewordand_zg3mb6.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1635344310/The%20Word%20But/jenny_thewordand_english_sl2mpo.vtt"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "f16ffd18-05cd-4f8e-b452-d4d36f6718f3",
+        "alias": "Sharing question",
+        "question": "Imagine you've switched from using 'BUT' to using 'AND'. What impact could this have in your life?",
+        "nextSection": "a299f862-d544-4f87-a55d-27df25ca31d5",
+        "exampleText": "I would still be able to do all the things that truly matter to me. And I'd be less isolated. "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a299f862-d544-4f87-a55d-27df25ca31d5",
+        "title": "",
+        "content": "Sometimes we **wait for unwanted feelings to simply go away** so that we can do the things we want. In doing that we risk **putting our life on hold**, or not doing what is important to us here and now.\n\nA more helpful strategy is to open up to our feelings with acceptance. This enables us to take small and **meaningful steps where we can.**",
+        "alias": "opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "720740d2-f9f3-404e-9da6-4db360f7496c"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ],
+        "alias": "Meditation",
+        "duration": "4:11",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-healing-hand.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "720740d2-f9f3-404e-9da6-4db360f7496c",
+        "description": "Find a quiet place to sit where you won’t be disturbed for a while. \n\nPress play to start."
+      }
+    ],
+    "root": "ec61ea16-40b3-45e7-b0e5-c6ac182be4d7"
+  },
+  "sv": {
+    "id": "c64f8aad-3bd6-4561-afad-397932df6108",
+    "alias": "Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "61d8c9f9-ddd1-4f97-9e4e-6cb382b8d7b5",
+        "alias": "Våra känslor kan inte skada oss",
+        "title": "Våra känslor kan inte skada oss",
+        "content": "Även de mest intensiva **känslorna kommer och går** i vågor.\n\nNär vi är mitt uppe i en stark och jobbig känsla är det naturligt att känna sig obekväm, att vilja det ska gå över så fort som möjligt. Det är också vanligt att vilja kontrollera, fly eller undvika sina känslor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Mer",
+            "sectionId": "8db27bc2-576c-4160-bdaf-6a7a1842dd87"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445207/laura-barry-nEw6iC2SOcM-unsplash_kn5lbn.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8db27bc2-576c-4160-bdaf-6a7a1842dd87",
+        "content": "Men att försöka undvika eller **kämpa emot känslor fungerar oftast inte.** \n\nÄven om det kan hjälpa oss att hantera en situation på kort sikt, hindrar det oss ofta från att må bra och göra det som är viktigt för oss på lång sikt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "6d419c26-1504-4e01-b18f-fd2a56a47603"
+          }
+        ],
+        "alias": "Undvika"
+      },
+      {
+        "type": "video",
+        "id": "6d419c26-1504-4e01-b18f-fd2a56a47603",
+        "alias": "video men/och",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1635344352/The%20Word%20But/jenny_thewordand_zg3mb6.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1635344379/The%20Word%20But/jenny_thewordand_swedish_m8uwsa.vtt",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635345473/The%20Word%20But/IMG-2799_ahfhyy.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "7d7837fd-68f6-44c1-a183-579dacf30ec2"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "7d7837fd-68f6-44c1-a183-579dacf30ec2",
+        "question": "Vad skulle det kunna ha för påverkan i ditt liv att byta ut dina \"men\" mot \"och\"?",
+        "exampleText": "Kanske skulle kunna göra mer av sånt som är viktigt för mig utan att låta så mycket komma emellan.",
+        "alias": "sharing wall",
+        "nextSection": "3222ce4c-f25d-4a0f-a1ae-cf1e6c186ce1"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3222ce4c-f25d-4a0f-a1ae-cf1e6c186ce1",
+        "alias": "Vila i svåra känslor",
+        "title": "",
+        "content": "Ibland ägnar vi lång tid åt att **vänta på att svåra känslor ska försvinna**. Så att vi sedan kan göra det som känns viktigt eller meningsfullt i livet. Risken med det är att **hela livet hamnar på vänt.**\n\nEn strategi som kan hjälpa är att i stället möta våra känslor med acceptans. Det låter oss ta små och **meningsfulla steg mot det som är viktigt,** på det sätt vi kan.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "c5cf7b8e-fed4-4368-94c5-eb030c39185b"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "",
+        "duration": "2:49",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621590030/audio_2Fself_compassion_sv_2Fgora-plats_b4yyhy.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "c5cf7b8e-fed4-4368-94c5-eb030c39185b",
+        "description": "Hitta en lugn plats där du kan sitta ett litet tag utan att bli störd. \n\nTryck på play för att börja."
+      }
+    ],
+    "root": "61d8c9f9-ddd1-4f97-9e4e-6cb382b8d7b5"
+  },
+  "pt": {
+    "id": "c64f8aad-3bd6-4561-afad-397932df6108",
+    "alias": "Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ff67298a-c3d1-4d3a-956e-60ec2820d781",
+        "alias": "As nossas emoções não nos podem magoar",
+        "title": "As nossas emoções não nos podem magoar",
+        "content": "Mesmo as emoções mais intensas **vão e vêm** em ondas.\n\nQuando estamos a experienciar uma emoção forte, é natural sentirmo-nos ansiosos, assustados ou desconfortáveis. É também natural que de forma impulsiva tentemos **controlar**, **fugir** ou **escapar** dessas emoções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "3c41edb8-e115-4d5d-8a8b-42df0db6e207"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445207/laura-barry-nEw6iC2SOcM-unsplash_kn5lbn.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3c41edb8-e115-4d5d-8a8b-42df0db6e207",
+        "alias": "Evitar",
+        "content": "No entanto, **evitar** ou **lutar** com as nossas emoções é contraprodutivo.\n\nEmbora evitar as emoções nos possa ajudar a enfrentar uma situação aguda a **curto prazo**, a maior parte das vezes impede que nos sintamos realizados a **longo prazo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "ed24014c-88a6-4e57-a946-11c940a14c7f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ed24014c-88a6-4e57-a946-11c940a14c7f",
+        "alias": "Estratégia",
+        "content": "Ao **esperarmos** que o sentimento indesejado simplesmente se vá embora antes de fazermos as coisas que queremos, colocamos a nossa **vida em pausa**. Muitas vezes indefinidamente.\n\nA estratégia mais **útil** é **aceitarmos** os nossos sentimentos, sem julgamentos, focando-nos simultaneamente em dar passos pequenos, mas significativos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Compreendi",
+            "sectionId": "7693283c-b0be-4a42-8658-143f3f712a94"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7693283c-b0be-4a42-8658-143f3f712a94",
+        "alias": "A mão que cura",
+        "title": "",
+        "content": "Quando nos **abrimos** às **emoções difíceis**, muitas vezes elas aliviam **o controlo** sobre as nossas vidas.\n\nAgora vais praticar a tua **competência** de **enfrentar emoções difíceis**. Isso pode ajudar-te a sintonizar com o que estás a sentir e pensar, aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "b18c5916-4556-4465-a8ec-93f1f7b352a4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b18c5916-4556-4465-a8ec-93f1f7b352a4",
+        "alias": "Aceitar as emoções difíceis",
+        "title": "Aceitar as emoções difíceis",
+        "content": "**Abrirmo-nos** e **aceitarmos** as nossas emoções é uma **técnica** poderosa que podemos aprender e usar em qualquer situação difícil em que a vida nos coloque.\n\nLembra-te que as emoções não te podem magoar, mesmo que sejam muito fortes.\n\nFaz a meditação e segue as instruções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos experimentar",
+            "sectionId": "126b191e-c393-427c-a1ad-0c8b5c45bd4f"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ],
+        "alias": "Meditação",
+        "duration": "3:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429298/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_07_-_Healing_hand_meditation_gcln6z.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "126b191e-c393-427c-a1ad-0c8b5c45bd4f",
+        "description": "Esta pequena meditação convida-te a criar espaço e a abrires-te com bondade e compaixão a emoções e sentimentos difíceis."
+      }
+    ],
+    "root": "ff67298a-c3d1-4d3a-956e-60ec2820d781"
+  }
+}

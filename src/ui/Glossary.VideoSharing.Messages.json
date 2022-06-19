@@ -1,0 +1,23 @@
+{
+  "en": {
+    "userJoinedSharing": "{{displayName}} joined the sharing",
+    "userLeftSharing": "{{displayName}} left the sharing",
+    "poorConnection": "We've detected that your internet connection is poor and have disabled video for some of the participants.",
+    "tapToStart": "Tap to open sharing guide",
+    "toggleCamera": "Toggle camera for more privacy"
+  },
+  "sv": {
+    "userJoinedSharing": "{{displayName}} gick med i gruppdelningen",
+    "userLeftSharing": "{{displayName}} lämnade gruppdelningen",
+    "poorConnection": "Du har dålig internetanslutning. Vi har stängt av video för några av deltagarna.",
+    "tapToStart": "Tryck här för öppna delningsguiden",
+    "toggleCamera": "Stäng av kameran för att vara mer anonym"
+  },
+  "pt": {
+    "userJoinedSharing": "{{displayName}} juntou-se à partilha",
+    "userLeftSharing": "{{displayName}} saiu da partilha",
+    "poorConnection": "Detetámos que a tua ligação à Internet é fraca e desligámos o vídeo de alguns participantes",
+    "tapToStart": "Toque para abrir o guia de compartilhamento",
+    "toggleCamera": "Altera a câmara para maior privacidade"
+  }
+}

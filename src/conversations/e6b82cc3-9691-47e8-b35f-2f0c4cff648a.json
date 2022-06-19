@@ -1,0 +1,45 @@
+{
+  "en": {
+    "id": "e6b82cc3-9691-47e8-b35f-2f0c4cff648a",
+    "alias": "sleep-day-3",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to the sleep challenge",
+        "task": {
+          "days": 0,
+          "hours": 9,
+          "minutes": 32,
+          "id": "sleep-day-3",
+          "title": "Day 3",
+          "body": "Today, take 20 minutes to be physically active outside during one of the bright hours of the day."
+        },
+        "sharingWall": {
+          "question": "What was it like for you to take the this time outside for yourself?",
+          "exampleText": "It was very nice even though it was raining, but it is hard to make it happen during lunch hour sort of."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 20,
+          "minutes": 0,
+          "id": "sleep-day-3-fu",
+          "title": "Check-in",
+          "body": "How did it go?"
+        },
+        "lessonlastDay": false,
+        "alias": "sleep-day-3",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "e95af1d7-6749-42bd-a8f6-ad948852ef28"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "e6b82cc3-9691-47e8-b35f-2f0c4cff648a",
+    "alias": "sleep-day-3"
+  },
+  "pt": {
+    "id": "e6b82cc3-9691-47e8-b35f-2f0c4cff648a",
+    "alias": "sleep-day-3"
+  }
+}

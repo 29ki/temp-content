@@ -1,0 +1,218 @@
+{
+  "en": {
+    "id": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5",
+    "alias": "Leadership-leadpurposefully-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a239dd4d-d53b-4a7d-9b10-514938dcb3fc",
+        "alias": "Intro",
+        "title": "",
+        "content": "> If you don't know where you're going, any road will get you there' --Lewis Carroll\n\nYou've now practiced tuning in. Another part of becoming a Purposeful Leader is knowing where you're going. \n\nWithout knowing where we're going, we are likely to feel lost, aimless, and unsatisfied in life. For many people these embodied emotions are something we would rather avoid or suppress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "f4e87473-125a-428a-b55f-716a46842f42"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f4e87473-125a-428a-b55f-716a46842f42",
+        "alias": "Tune-in and own-up to your experiences",
+        "title": "Tune-in and own-up to your experiences",
+        "content": "While choosing to feel your embodied emotions can be deeply unpleasant, you can see them as a mirror reflecting how your life is going. For example if you're going through a loss or facing a disappointment, you may feel more closed off and less present as a result.\n\nFor you as a leader, it's therefore important to tune into your and other people's emotions.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "62ece936-58b0-4a62-a35d-e2445ed4fdb0",
+            "content": "Got it"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "62ece936-58b0-4a62-a35d-e2445ed4fdb0",
+        "content": "What a great question! \n\nYou may not be responsible for events that lead you to experience both good and unwanted emotions. However, you ARE experiencing them, in each and every moment. \n\nDenying, suppressing, judging or blaming will impact how you deal with the situations you're in, for example by limiting the number of possibilities you see going forward. \n\nInstead of refusing to experience your embodied emotions that you are already feeling, why not try to own-up to them, let them just 'be there', without judgment. By doing this, you will see more possibilities ahead of you. For example, you may feel drawn to pursue a particular 'road' for your project.",
+        "title": "What does 'owning-up' have to do with leadership?",
+        "alias": "Tune-In and Own-Up to Your Experiences 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "fe842657-8b24-4b53-8d8c-d46838387daa",
+            "content": "How can I tune in and own my emotions in real life?"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fe842657-8b24-4b53-8d8c-d46838387daa",
+        "alias": "Real life examples",
+        "title": "",
+        "content": "* ## Take action\n\nWhen caught out in a rainstorm, few people just stand outside and bemoan the fact that they're getting wet. Instead, they **use** their embodied emotions of getting rained on to take action. For example, they may open an umbrella, in order to pursue their purpose of getting home, or perhaps the rain strikes them as meaningful in some way: an opportunity to take shelter in a café and enjoy watching the world go by.\n\nLikewise, we can use our unwanted embodied emotions as guides for what we're trying to avoid or change, thus helping us be more in tune with  ourselves and our needs.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "What else?",
+            "sectionId": "ccce1a86-dd1a-4a77-94bb-f7df2803a21d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ccce1a86-dd1a-4a77-94bb-f7df2803a21d",
+        "alias": "Real life examples 2",
+        "title": "",
+        "content": "* ## Talk it out\n\nMany leaders think they need to be all-knowing, all-seeing, and, essentially, just perfect! \n\nHowever in this course, you'll experience first-hand how sharing ideas, roadblocks, worries can **help**, not hinder you, at succeeding at a task.\n\nTalking and listening give you the opportunity to connect with others and relate to one another.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Ah, and then?",
+            "sectionId": "d70fb383-1ff2-4813-a85d-20e128acbc99"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d70fb383-1ff2-4813-a85d-20e128acbc99",
+        "alias": "Real life examples 3",
+        "title": "",
+        "content": "* ## Feel your feelings\n\nFeelings are friends. Try to reframe how you see your embodied emotions. Instead of trying to deny or change them, you can use them as guides that alert you about new possibilities ahead.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Anything else?",
+            "sectionId": "686fd58a-d501-4f36-9c55-267ecc339b97"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "686fd58a-d501-4f36-9c55-267ecc339b97",
+        "alias": "Real life examples 4",
+        "content": "* ## Change your behavior\n\nResearch shows that people are keenly aware of how we and others hold ourselves, how we sit on a chair, and how we speak with people. \n\nSince we are embodied creatures, how we interact with our brain-body-environment can help us, automatically, to feel better (e.g., by going for a walk when feeling low). \n\nAs leaders, our insights can spur us to change our behavior so that we lean-in and ask people questions, speak informally with colleagues using a friendly tone, or act differently.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continue",
+            "conversationId": "f54396fb-5d42-4b44-980f-1a74906ad3d3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ],
+    "root": "a239dd4d-d53b-4a7d-9b10-514938dcb3fc"
+  },
+  "sv": {
+    "id": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5",
+    "alias": "Leadership-leadpurposefully-4"
+  },
+  "pt": {
+    "id": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5",
+    "alias": "Leadership-leadpurposefully-4",
+    "root": "a239dd4d-d53b-4a7d-9b10-514938dcb3fc",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a239dd4d-d53b-4a7d-9b10-514938dcb3fc",
+        "alias": "Intro",
+        "title": "",
+        "content": "> \"Se não sabes para onde vais, qualquer caminho te leva lá.\" - Lewis Carroll\n\nAcabaste de praticar o sintonizar-te. Outro aspecto importante para te tornares um Líder Relevante é saberes para onde vais.\n\nQuando não sabemos para onde vamos, é provável que nos sintamos perdidos, sem rumo e insatisfeitos com a vida. Para muitas pessoas, essas emoções são algo que preferiríamos evitar ou reprimir.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem-me mais",
+            "sectionId": "f4e87473-125a-428a-b55f-716a46842f42"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f4e87473-125a-428a-b55f-716a46842f42",
+        "alias": "Sintoniza-te e assume as tuas experiências",
+        "title": "Sintoniza-te e assume as tuas experiências",
+        "content": "Embora escolher sentir as tuas emoções possa ser profundamente desagradável, podes vê-las como um espelho que reflete como a tua vida está a correr. Por exemplo, se estás a passar por uma perda ou a enfrentar uma decepção, o resultado pode ser sentires-te mais fechado/a e menos presente. \n\nPara ti, como líder, é importante **entrar em sintonia com as emoções, as tuas e as das outras pessoas**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "62ece936-58b0-4a62-a35d-e2445ed4fdb0",
+            "content": "Percebi "
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "62ece936-58b0-4a62-a35d-e2445ed4fdb0",
+        "content": "Que excelente pergunta! \n\nTu podes não ser responsável por situações que te levem a experimentar emoções tanto boas como indesejadas. No entanto, tu ESTÁS a experienciá-las a cada momento. \n\nNegar, reprimir, julgar ou culpar alguém vai impactar a forma como lidas com as situações em que te encontras, por exemplo, limitando o número de possibilidades que vês no futuro. \n\nEm vez de te recusares a experienciar as tuas emoções, porque não tentar assumi-las, deixando-as apenas 'estarem lá', sem julgamento. Ao fazê-lo, vais ter a hipótese de ver mais possibilidades à tua frente. Por exemplo, podes sentir-te atraído/a por seguir um 'caminho' específico para o teu projeto.",
+        "title": "O que é que 'assumir' tem a ver com liderança?",
+        "alias": "Tune-In and Own-Up to Your Experiences 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "fe842657-8b24-4b53-8d8c-d46838387daa",
+            "content": "Como posso sintonizar-me e assumir as minhas emoções na minha vida?"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fe842657-8b24-4b53-8d8c-d46838387daa",
+        "alias": "Exemplos práticos ",
+        "title": "",
+        "content": "* ## Age\n\nQuando apanhadas no meio de uma chuvada, poucas pessoas ficam na rua especadas a lamentar o facto de estarem a ficar molhadas. Em vez disso, elas **usam** as suas sensações, ligadas ao facto de ficaram molhadas pela chuva, para tomar uma atitude. Por exemplo, podem abrir um guarda-chuva, para cumprirem o seu propósito de voltar para casa. Ou talvez, a chuva lhes pareça um bom pretexto para alguma outra coisa, ou seja, uma oportunidade de se abrigarem num café e ficarem a ver a vida a acontecer lá fora.\n\nDa mesma forma, podemos usar as nossas sensações indesejadas como guias para o que estamos a tentar evitar ou mudar, ajudando-nos a estar mais em sintonia com nós mesmos e com as nossas necessidades.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Que mais?",
+            "sectionId": "ccce1a86-dd1a-4a77-94bb-f7df2803a21d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ccce1a86-dd1a-4a77-94bb-f7df2803a21d",
+        "alias": "Exemplos práticos 2",
+        "title": "",
+        "content": "* ## Fala acerca das coisas\n\nMuitos líderes acham que têm de saber tudo, ver tudo e ser, essencialmente, absolutamente perfeitos!\n\nNo entanto, neste curso, vais sentir em primeira mão como a partilha de ideias, bloqueios e preocupações podem **ajudar-te**, em vez de te atrapalhar, na realização de uma tarefa com sucesso.\n\nFalar e ouvir dá-te a oportunidade de te conectares e relacionares com outras pessoas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Ah, e então?",
+            "sectionId": "d70fb383-1ff2-4813-a85d-20e128acbc99"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d70fb383-1ff2-4813-a85d-20e128acbc99",
+        "alias": "Real life examples 3",
+        "title": "",
+        "content": "* ## Permite-te sentir os teus sentimentos\n\n\n\nOs sentimentos são nossos amigos. Tenta reformular como vês as tuas sensações (emoções no corpo). Em vez de tentar negá-las ou mudá-las, podes usá-las como guias que te alertam sobre novas possibilidades.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mais alguma coisa?",
+            "sectionId": "686fd58a-d501-4f36-9c55-267ecc339b97"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "686fd58a-d501-4f36-9c55-267ecc339b97",
+        "alias": "Exemplos práticos 4",
+        "content": "* ## Muda o teu comportamento\n\nEstudos mostram que as pessoas têm plena consciência de como nós e os outros nos comportamos, por exemplo, da forma como nos sentamos numa cadeira e de como falamos com as pessoas. \n\nUma vez que somos criaturas com um corpo, a forma como interagimos com o nosso cérebro-corpo-ambiente pode ajudar-nos automaticamente, a sentirmo-nos melhor (i.e., indo dar uma caminhada quando nos sentimos em baixo). \n\nComo líderes, os nossos instintos podem incentivar-nos a mudar o nosso comportamento para que nos inclinemos e façamos perguntas às pessoas, falemos informalmente com os colegas usando um tom amigável ou ajamos de forma diferente",
+        "title": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "f54396fb-5d42-4b44-980f-1a74906ad3d3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

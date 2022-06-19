@@ -1,0 +1,234 @@
+{
+  "en": {
+    "id": "MKHk4pfvEUJ3tQ8wvHtZFG-2",
+    "alias": "Self compassion - Gratitude 2",
+    "type": "lesson",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "What are you grateful for?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642763720/30daysreplay-social-media-marketing-E32p_3h4AMY-unsplash_ayzh7v.jpg",
+        "title": "What are you grateful for?",
+        "content": "Life can fly by without us even noticing. With all of our to-do’s, distractions and choices, we sometimes miss out on pausing to see what brings our lives **meaning**.\n\nSometimes all we need is a moment to **put in words** what we truly cherish. To recapture meaning in this present moment, **here and now**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Rachel's gratitude letter",
+        "title": "Rachel's gratitude letter",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/gratefulness/yogagirl_gratefulness_exercise.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622463087/Self%20Compassion/Gratitude_exercise1_zhxv2u.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639746119/Self%20Compassion/Subtitles/Gratitude-exercise1-zhxv2u_1_bru5cr.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "MKHk4pfvEUJ3tQ8wvHtZFG-2",
+    "alias": "Self compassion - Gratitude 2",
+    "type": "lesson",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Vad är du tacksam för?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642763720/30daysreplay-social-media-marketing-E32p_3h4AMY-unsplash_ayzh7v.jpg",
+        "title": "Vad är du tacksam för?",
+        "content": "Livet kan flyga förbi utan att vi knappt märker det. Med alla våra ”måsten”, distraktioner och val missar vi ibland att stanna upp för att se **vad som ger livet** **mening**.\n\nIbland är allt som behövs en stund för att sätta ord på det vi verkligen uppskattar. För att återfå en känsla av mening, här och nu.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Rachels brev",
+        "title": "Rachels brev",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/gratefulness/yogagirl_gratefulness_exercise.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622463087/Self%20Compassion/Gratitude_exercise1_zhxv2u.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639746118/Self%20Compassion/Subtitles/Gratitude-exercise1-zhxv2u_1_Swedish_vmfqdt.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "MKHk4pfvEUJ3tQ8wvHtZFG-2",
+    "alias": "Self compassion - Gratitude 2",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Gratidão",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448860/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P1gratitudeautocompaixao_sebxgj.jpg",
+        "title": "Gratidão",
+        "content": "Nesta sessão, vais refletir sobre as coisas pelas quais deves agradecer na tua vida, em relação a ti e àqueles de quem gostas.\n\n### A investigação\n\nEsta sessão é inspirada no exercício de M. E. Seligman et al. \"A visita de agradecimento\".\n\n### A sessão de hoje consiste em três partes:\n\n* Uma carta de agradecimento a alguém que valorizas (Escrita)\n* Meditação\n* Uma carta de agradecimento a ti (Escrita)\n\n### Preparação para a sessão:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "O que agradeces?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P2gratitudeautocompaixao_ztv3yj.jpg",
+        "title": "O que agradeces?",
+        "content": "A vida pode voar sem sequer nos darmos conta. Com todos os nossos afazeres, distrações e escolhas, muitas vezes não fazemos uma pausa para perceber o que dá sentido às nossas vidas.\n\nPor vezes, tudo o que precisamos é de um momento para pôr em palavras aquilo que realmente apreciamos. Para reencontrar o sentido do momento presente, aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Carta de agradecimento a quem valorizas",
+        "title": "Carta de agradecimento a quem valorizas",
+        "description": "“Amor, resiliência, compaixão, generosidade, eu aprendi isso com a minha mãe. A minha mãe é isso tudo.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P3gratitudeautocompaixao_zdmnmc.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895814/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L6_Self_compassion_V1_rqvuff.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Carta de agradecimento a quem valorizas",
+        "title": "Carta de agradecimento a quem valorizas",
+        "time": "Tira 10-20 min",
+        "shortDescription": "Escolhe uma pessoa da tua vida que valorizas, mas pela qual não tenhas tido a oportunidade de expressar a tua gratidão. Dedica um momento a refletir sobre o que essa pessoa fez para te sentires grata/o. Depois escreve-lhe uma carta, expressando a tua gratidão pelo que essa pessoa trouxe à tua vida. Escreve esta carta como se a fosses entregar pessoalmente, por exemplo, podes começar com \"Querida/o...\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Agora presta atenção ao que se passa dentro de ti através desta curta meditação.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523404/29k%20FJN/Meditations/Joanna%20Final/Inner_Critic_yunh3r.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "E se pudéssemos apreciar-nos da mesma forma que apreciamos os outros?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P6gratitudeautocompaixao_eypwiv.jpg",
+        "title": "E se pudéssemos apreciar-nos da mesma forma que apreciamos os outros?",
+        "content": "A maioria das pessoas consegue ver os benefícios de expressar a gratidão aos outros, isso faz-nos crescer e fortalece a relação com os outros. No entanto, raramente expressamos gratidão para connosco, perdendo assim esses benefícios para nós próprios.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Uma carta de agradecimento a ti própria/o",
+        "title": "Uma carta de agradecimento a ti própria/o",
+        "time": "Tira 10-20 min",
+        "shortDescription": "Agora vamos mudar o foco da gratidão para dentro. Começa por escolher características tuas que aprecies mas pelas quais nunca tiveste oportunidade de expressar a tua gratidão. Agora reflete sobre as tuas conquistas e escolhas que fizeste na vida e pelas quais estás grata/o. Agora que já refletiste sobre estas áreas, escreve uma carta de gratidão para ti a partir desta perspetiva compassiva e agradecida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Parabéns!",
+        "title": "Parabéns!",
+        "content": "A tua ligação à gratidão pode fazer-te sentir poderosa/o, vulnerável e assustada/o. O próximo grande passo é ainda mais poderoso.\n\n### Deixa-os saber que agradeces\n\nSe for possível, o teu próximo desafio é expressar a tua gratidão à pessoa a quem escreveste a carta de agradecimento.\n\nRecomendamos que a encontres pessoalmente (ou como for possível) e a leias em voz alta.\n\nEsta é uma experiência muito forte.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a lição **Gratidão**, fizeste algo maravilhoso pelo teu bem-estar.\n\nSe decidires participar numa partilha com o teu grupo, vais precisar de ter à mão os exercícios:\n\n* Uma carta de agradecimento a alguém de quem gostas\n* Uma carta de agradecimento a ti mesma/o",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

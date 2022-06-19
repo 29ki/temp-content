@@ -1,0 +1,410 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Ten breaths",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/ten_breaths_q9tusn.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "d162cd47-7f0e-40d6-9078-1144b608a25a",
+    "wip": false,
+    "stations": [
+      {
+        "id": "exercisetenbreaths",
+        "alias": "Exercise Ten breaths",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/ten_breaths_q9tusn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Breathe\n\nWhen we feel stressed, our breathing usually becomes faster and more shallow. In these situations, it can be helpful to focus on taking some deep breaths. \n\nUse this exercise when you feel agitated or stressed out."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**You'll learn about:**\n\n* Observing your breath\n* Calming your breathing"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sit down comfortably. Allow your legs to fall apart. Become aware of your feet against the floor.\n\nYour task now is to breathe in, and breathe out. The animation on the next screen will help you keep a calm tempo. If you get lost along the way, just start over from the beginning. It happens to all of us."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Let's start"
+          },
+          {
+            "type": "defaultSection",
+            "id": "d3b88f4a-02c1-4f43-a15c-d6348d47ca1e",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Count every breath. Start by inhaling through your nose and say \"10\" silently to yourself. When you exhale slowly through your mouth, repeat \"10\" to yourself. \n\nOn your next inhale, say \"9,\" and when you exhale slowly repeat \"9,\". Continue like this all the way to 0."
+                  }
+                ]
+              },
+              {
+                "component": "BreathingAnimation"
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "5",
+            "alias": "5",
+            "question": "How did it go?",
+            "exampleText": "I lost focus several times, but it still felt good after. I became calmer.",
+            "nextConversation": "",
+            "nextSection": "6"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nNow that you've taken ten deep breaths, see if you feel more relaxed.\n\nUse this exercise whenever you need to take a step back, calm down or if you feel worried. You can also use this exercise whenever you want to practice your focus-skill."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm done"
+          }
+        ],
+        "name": "Ten breaths",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Tio andetag",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/ten_breaths_q9tusn.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "d162cd47-7f0e-40d6-9078-1144b608a25a",
+    "wip": false,
+    "stations": [
+      {
+        "id": "exercisetenbreaths",
+        "alias": "Exercise Ten breaths",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/ten_breaths_q9tusn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Andas\n\nNär vi är stressade är det vanligt att vi börjar andas snabbare och ytligare. Då kan det vara hjälpsamt att fokusera på att ta några djupa andetag.\n\nDu kan till exempel göra den här övningen när du är upprörd eller känner dig stressad."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Du kommer få lära dig att:**\n\n* Observera ditt andetag\n* Lugna ned din andning"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sätt dig bekvämt. Låt benen falla ut. Känn fötterna mot golvet där du sitter.\n\nIdag är din uppgift att andas in och andas ut. Animationen på nästa skärm hjälper dig hålla ett lugnt tempo. Om du tappar bort dig på vägen, börja bara om på nytt — det händer oss alla."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "defaultSection",
+            "id": "ce683a71-f5a8-41a4-975d-5394148a3809",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Räkna varje andetag. Börja med att andas in genom näsan och säga \"10\" tyst för dig själv. När du sedan andas ut långsamt genom munnen, upprepa \"10\" för dig själv. \n\nVid nästa inandning, säg \"9\", och när du sedan långsamt andas ut upprepar du \"9\", och så vidare hela vägen till 0."
+                  }
+                ]
+              },
+              {
+                "component": "BreathingAnimation"
+              }
+            ],
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "5",
+            "alias": "5",
+            "question": "Hur kändes det att göra den här övningen? ",
+            "exampleText": "Jag tappade fokus flera gånger men det kändes ändå bra efter. Jag blev lugnare.",
+            "nextConversation": "",
+            "nextSection": "6"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!**\n\nNu när du tagit tio djupa andetag, se om du känner dig mer avslappnad.\n\nAnvänd övningen när du behöver ta ett steg tillbaka, komma ned i varv eller känner dig orolig. Du kan även använda den när du bara vill öva ditt fokus."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är färdig"
+          }
+        ],
+        "name": "Tio andetag",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Dez respirações",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/ten_breaths_q9tusn.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "d162cd47-7f0e-40d6-9078-1144b608a25a",
+    "wip": false,
+    "stations": [
+      {
+        "id": "exercisetenbreaths",
+        "alias": "Exercise Ten breaths",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/ten_breaths_q9tusn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Respira\n\nQuando nos sentimos stressados, a nossa respiração torna-se geralmente mais rápida e superficial. Nestas situações, pode ser útil concentrares-te em fazer algumas respirações mais profundas.\n\nUsa este exercício quando te sentires agitado ou stressado."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Vais aprender a:**\n\n* Observar a tua respiração\n* Acalmar a tua respiração"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Senta-te confortavelmente. Afasta um pouco as pernas. Sente os teus pés contra o chão. \n\nAgora só tens de inspirar e expirar."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Vamos começar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "d3b88f4a-02c1-4f43-a15c-d6348d47ca1e",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Conta cada respiração! Começa a inspirar pelo nariz e diz silenciosamente para ti mesmo \"10\". Ao expirar lentamente pela boca, repete \"10\" para ti mesmo. Na próxima inspiração, diz \"9\" e, ao expirar, repete \"9\". Continua assim até 0.\n\nSe te perderes, recomeça do início. Isso acontece-nos a todos.\n\nA animação vai ajudar-te a manter um ritmo calmo. Pressiona \"pronto\" depois de contares até 10."
+                  }
+                ]
+              },
+              {
+                "component": "BreathingAnimation"
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "5",
+            "alias": "5",
+            "question": "Como correu?",
+            "exampleText": "Perdi o foco várias vezes, mas consegui sentir-me bem depois. Fiquei mais calmo.",
+            "nextConversation": "",
+            "nextSection": "6"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nAgora que respiraste fundo dez vezes, vê se te sentes mais relaxado.\n\nUsa este exercício sempre que precisares de dar um passo atrás, para te  acalmares quando estiveres preocupado. Também podes usar este exercício sempre que quiseres praticar as tuas competências de concentração."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Ten breaths",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "en": {
+    "id": "b6082dff-9115-4e08-9b14-6d1da378a282",
+    "alias": "Navigating stormy seas 6 (Summary)",
+    "root": "section15",
+    "sections": [
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "title": "Keeping your values in mind",
+        "content": "You’ve calibrated your compass. That’s a big step forward!\n\nThe values you have identified today are here to point you towards the life you want to build and motivate you in the right direction, both during these challenging times as well as beyond.\n\nAnd since we’re always growing, so too your values are likely to change over time, which is why it’s a good idea to keep your compass somewhere you can easily access and update whenever necessary.\n\nKeep your values in mind as you go about your life for the rest of the week. Notice if there is anything you wish to change or add to your compass. Remember, even the small things count!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section17",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing your compass! You are now ready for the next step — the group sharing.\n\nWhat did you learn about yourself when creating your compass? Has anything surprised you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b6082dff-9115-4e08-9b14-6d1da378a282",
+    "alias": "Navigating stormy seas 6 (Summary)",
+    "root": "section15",
+    "sections": [
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "title": "Ha dina värderingar i åtanke",
+        "content": "Du har nu kalibrerat din kompass. Det är ett stort steg framåt.\n\nDe värderingar som du har identifierat idag kan hjälpa dig att styra mot det liv du vill bygga, motivera dig att gå i rätt riktning. Både under dessa svåra tider och det som kommer som därefter.\n\nOch eftersom vi alltid växer, så kommer dina värderingar sannolikt att förändras med tiden. Därför det är en bra idé att spara din kompass någonstans där du enkelt kan komma åt och uppdatera den när det behövs.\n\nTänk på dina värderingar resten av veckan. Lägg märke till om det är något du vill ändra eller lägga till i din kompass. Kom ihåg att även de små sakerna räknas!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section17",
+        "type": "editorialWithImage",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat med din kompass! \n\nDu är nu redo att dela med din grupp. Här är frågorna till veckans videodelning:\n\n* Vad lärde du dig om dig själv när du skapade din kompass? \n* Har något överraskat dig?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b6082dff-9115-4e08-9b14-6d1da378a282",
+    "alias": "Navigating stormy seas 6 (Summary)",
+    "root": "section15",
+    "sections": [
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "title": "Manter os teus valores em mente",
+        "content": "Calibraste a tua bússola. É um grande passo em frente!\n\nOs valores que identificaste hoje estão aqui para te ajudar a ires na direção certa e a construíres a vida que desejas, tanto durante tempos difíceis como no futuro.\n\nE, como estamos sempre a evoluir, os teus valores também podem mudar com o tempo, por isso é boa ideia manteres a tua bússola num lugar a que possas facilmente aceder e calibrá-la sempre que seja necessário.\n\nMantem os teus valores em mente e vive-os durante o resto da semana. Pensa se há alguma coisa que queiras alterar ou adicionar à tua bússola. Lembra-te de que até as mais pequenas coisas contam!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section17",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares **A tua bússola**! Agora já podes passar para a próxima etapa – a partilha em grupo.\n\nO que aprendeste sobre ti ao criar a tua bússola? Foste surpreendida/o por alguma coisa?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

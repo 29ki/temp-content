@@ -1,0 +1,343 @@
+{
+  "en": {
+    "id": "b39bb8b6-dfc4-497e-813d-23d8f734d442",
+    "alias": "Acting with purpose 1: Your-behaviors-3",
+    "root": "b3928ab8-67ad-4250-8086-fd09ded744b4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b3928ab8-67ad-4250-8086-fd09ded744b4",
+        "alias": "Section 1 ",
+        "content": "*\"If I can look back at being seen as honest, that I spoke from my heart, then I would be grateful for that\",* Jan Eliasson.\n\nRemember that values can refer both to what’s **important** to you **now** and what you wish to **pursue** in the **future**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "166d0390-0d5d-48ad-ad24-609245444eae"
+          }
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/cover.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "166d0390-0d5d-48ad-ad24-609245444eae",
+        "alias": "Section 2",
+        "content": "Here are some important **areas** in life you may want to consider:\n\n* Relationships\n* Work/education\n* Health\n* Leisure",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's do it",
+            "sectionId": "d41961de-c829-4c8d-95a8-7c189384debd"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Examples:",
+            "description": "*Physically active, a caring partner, a loving friend, a trusted colleague, a curious learner.*"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+        "id": "d41961de-c829-4c8d-95a8-7c189384debd",
+        "alias": "Section 3",
+        "longDescription": "1. Have another close look at that **90-year-old** version of yourself. You can use your future self as a **compass** to the kind of person you **aim** to be.\n2. Take 10 minutes and write down a few important aspects of what **matters** most to you — your **values** — in each **domain** (health, relationships, work/education and leisure time).",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "6477a736-e41c-4187-8f64-8fde576243ba"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6477a736-e41c-4187-8f64-8fde576243ba",
+        "alias": "Section 4",
+        "content": "Now, let's look at it from a different **angle**. As we approach the end of our lives, we often **regret** some of the **choices** we’ve made.\n\n**Common** **regrets** include:\n\n* Not being true to ourselves\n* Working too much\n* Not expressing feelings\n* Losing touch with friends\n\nWith that in mind, would you like to **change** or **add** anything to the values you wrote down?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Move on",
+            "sectionId": "3ef2e41a-3d85-4028-b73f-a2c0a2423c69"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "3ef2e41a-3d85-4028-b73f-a2c0a2423c69",
+        "alias": "Section 5",
+        "title": "Exercise",
+        "longDescription": "Write down your answers.\n\n1. Pick **one** of the **values** you identified previously that’s especially **close** to your **heart**.\n2. If you think of values as a direction to walk in, and your image of yourself as 90-year-old as the destination, what **steps** would take you there?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "191131b0-4064-4bba-a49e-4c4dc398e1f3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "191131b0-4064-4bba-a49e-4c4dc398e1f3",
+        "alias": "Exercise 2",
+        "content": "3. What would you do **differently** from now on? Would you need to **change** any **priorities**? **Stop** doing something? **Start** doing something else?\n4. Starting this week, what **value-based action** are you **committed** to doing?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "74d77ce4-10fa-460f-b8b9-59dd35c5102f"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "previewSharings": true,
+        "enableEarlySkip": true,
+        "id": "74d77ce4-10fa-460f-b8b9-59dd35c5102f",
+        "alias": "Section 6",
+        "question": "What did you realize about yourself and your values in this exercise?",
+        "exampleText": "I focus too much on things that are not significant, and too little on things with true value. ",
+        "nextSection": "d341d966-5038-49b4-94a6-62242aa4a1ee"
+      },
+      {
+        "type": "video",
+        "id": "d341d966-5038-49b4-94a6-62242aa4a1ee",
+        "alias": "Section 7 ",
+        "description": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "0d91a84f-3d94-4f70-9ab8-b5586601cfe4",
+            "content": "Continue"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson2_exercise2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson1_exercise2.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0d91a84f-3d94-4f70-9ab8-b5586601cfe4",
+        "content": "Well done on completing **Your behaviors**.\n\nYou've developed your **ability** to **connect** to your values and explored what **practical** **steps** you can take right now to live a **value-driven** **life**.\n\nKnowing how to **translate** your **values** into **action** is a useful **skill** when stressful situations get the better of us by helping us **stay** on **track**.",
+        "alias": "Section 8 ",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next steps",
+            "sectionId": "84b98bd4-59c5-4b96-b28c-e07ea12ccd00"
+          }
+        ],
+        "title": "Summary"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "84b98bd4-59c5-4b96-b28c-e07ea12ccd00",
+        "alias": "Section 9",
+        "content": "You are now ready for your next important step — sharing with your group.\n\nRemember the questions:\n\n1. What **thoughts** and **feelings** did this lesson evoke in you?\n2. Which **values** stood out as important when you imagined yourself at your 90th party?\n3. What would you do **differently** from now on to live more **in** **line** to your **values**? \n4. Starting this week, what **value-based action** are you **committed** to doing?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ],
+        "title": ""
+      }
+    ]
+  },
+  "sv": {
+    "id": "b39bb8b6-dfc4-497e-813d-23d8f734d442",
+    "alias": "Acting with purpose 1: Your-behaviors-3",
+    "root": "b3928ab8-67ad-4250-8086-fd09ded744b4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b3928ab8-67ad-4250-8086-fd09ded744b4",
+        "alias": "Section 1 ",
+        "content": "*”Om jag kan titta tillbaka på mitt liv och konstatera att jag betraktades som ärlig, att jag talade från mitt hjärta, då skulle jag vara tacksam för det.”* Jan Eliasson\n\nKom ihåg att värderingar kan gälla både sånt som är **viktigt för dig nu** och sånt **du vill göra i framtiden**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "166d0390-0d5d-48ad-ad24-609245444eae"
+          }
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/cover.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "166d0390-0d5d-48ad-ad24-609245444eae",
+        "alias": "Section 2",
+        "content": "Här är några viktiga områden i livet du kan tänka på:\n\n* Relationer\n* Jobb/utbildning\n* Hälsa\n* Fritid",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nu kör vi!",
+            "sectionId": "d41961de-c829-4c8d-95a8-7c189384debd"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Exempel:",
+            "description": "*Du kanske vill vara fysiskt aktiv, en omtänksam partner, en kärleksfull vän, en pålitlig kollega eller en nyfiken elev.*"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+        "id": "d41961de-c829-4c8d-95a8-7c189384debd",
+        "alias": "Section 3",
+        "longDescription": "1. Titta närmare på dig själv som 90-åring. Du kan använda din bild av **dig själv i framtiden som en kompass** för den typ av person du vill vara.\n2. Skriv ner något av det som betyder mest för dig – dina värderingar – inom respektive område (hälsa, relationer, arbete/utbildning och fritid).",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "6477a736-e41c-4187-8f64-8fde576243ba"
+          }
+        ],
+        "time": "10 min"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6477a736-e41c-4187-8f64-8fde576243ba",
+        "alias": "Section 4",
+        "content": "Nu ska vi undersöka dina värderingar ur en annan vinkel. \n\n**När vi närmar oss livets slut ångrar** vi ofta några av de val vi har gjort. Till exempel: \n\n* *Att inte ha varit ärliga mot oss själva.*\n* *Jobbat för mycket.*\n* *Inte visat känslor.*\n* *Tappat kontakten med vänner.*\n\nSkulle du nu vilja **ändra** **eller** **lägga till** något till de värderingar du skrivit ned?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "3ef2e41a-3d85-4028-b73f-a2c0a2423c69"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "3ef2e41a-3d85-4028-b73f-a2c0a2423c69",
+        "alias": "Section 5",
+        "title": "Exercise",
+        "longDescription": "Skriv ned dina svar.\n\n1. **Välj en av de värderingar** du skrev tidigare och som ligger dig särskilt varmt om hjärtat.\n2. Om du tänker på värderingen som en riktning du vill följa, och dessutom tänker på dig själv som 90-åring, **vilka steg behöver du då ta för att nå dit**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "191131b0-4064-4bba-a49e-4c4dc398e1f3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "191131b0-4064-4bba-a49e-4c4dc398e1f3",
+        "alias": "Exercise 2",
+        "content": "3. **Vad vill du göra annorlunda** från och med nu? Vill du ändra några prioriteringar? Sluta göra något? Börja göra något annat?\n4. Från och med den här veckan: vilken handling i värderad riktning **lovar du dig själv att utföra**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "74d77ce4-10fa-460f-b8b9-59dd35c5102f"
+          }
+        ]
+      },
+      {
+        "question": "Vad upptäckte du om dig själv och dina värderingar i den här övningen?",
+        "alias": "Section 6",
+        "nextSection": "d341d966-5038-49b4-94a6-62242aa4a1ee",
+        "nextConversation": "",
+        "exampleText": "Känns som att jag fokuserar för mycket på saker som inte betyder nåt, och för lite på sånt som faktiskt betyder något...",
+        "type": "sharingExercise",
+        "id": "74d77ce4-10fa-460f-b8b9-59dd35c5102f",
+        "enableEarlySkip": true,
+        "previewSharings": true
+      },
+      {
+        "type": "video",
+        "id": "d341d966-5038-49b4-94a6-62242aa4a1ee",
+        "alias": "Section 7 ",
+        "description": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "0d91a84f-3d94-4f70-9ab8-b5586601cfe4",
+            "content": "Fortsätt"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson2_exercise2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson1_exercise2.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0d91a84f-3d94-4f70-9ab8-b5586601cfe4",
+        "content": "Bra jobbat\n\nDu är nu klar med **Dina beteenden**.\n\nDu har tränat på att **få kontakt med** **dina värderingar** och utforskat vilka **praktiska** **steg** du kan ta just nu för att leva ett mer meningsfullt liv.\n\nAtt veta hur du kan omvandla dina värderingar till handling kan hjälpa oss att hålla kompasskursen i livet även när det stormar.",
+        "alias": "Section 8 ",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa steg",
+            "sectionId": "84b98bd4-59c5-4b96-b28c-e07ea12ccd00"
+          }
+        ],
+        "title": "Sammanfattning"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "84b98bd4-59c5-4b96-b28c-e07ea12ccd00",
+        "alias": "Section 9",
+        "content": "### Du är nu redo för nästa steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Vilka **tankar** **och** **känslor** väckte den här lektionen hos dig?\n2. Vilka värderingar var viktigast när du föreställde dig själv på din 90-årsdag?\n3. **Vad skulle du göra** **annorlunda** från och med nu för att leva mer efter dina värderingar?\n4. Från och med nu: vilken **värderingsbaserad handling** **lovar** du dig att utföra?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ],
+        "title": ""
+      }
+    ]
+  },
+  "pt": {
+    "id": "b39bb8b6-dfc4-497e-813d-23d8f734d442",
+    "alias": "Acting with purpose 1: Your-behaviors-3",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Identificaste valores e comportamentos específicos relacionados com esses valores.\n\nOs comportamentos baseados em valores são uma competência muito útil perante as situações de stress que nos afetam.\n\nUsando as tuas notas sobre as ações, pensa como mudarias as prioridades, o que pararias de fazer e o que começarias a fazer para viver alinhada/o com um valor mais próximo do teu coração. Podes partilhar estas reflexões com o teu grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

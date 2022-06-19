@@ -1,0 +1,268 @@
+{
+  "en": {
+    "id": "LVcQtZqVqjSEUh69zeJ5u1",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "We all meet trouble along the way",
+        "title": "We all meet trouble along the way",
+        "content": "When striving to do the things in life that are the most important, you'll no doubt come across some obstacles. Often they can come in a form of thoughts and feelings.\n\nFor example, if you value doing fulfilling work and are considering quitting your current job, you might be wondering *”What if I quit and don’t find another job that suits me better? What a big mistake that would be!”.*\n\nThis thought alone can prevent you from taking the steps towards securing a more meaningful job and therefore compromising on what you want in life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "content": "### Today’s lesson has two parts:\n\n* Identifying obstacles\n* Ways to deal with obstacles\n\n### You'll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ],
+        "title": "",
+        "alias": "Summary"
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Getting hold of your inner obstacles",
+        "title": "Getting hold of your inner obstacles",
+        "content": "Identifying your inner obstacles is tricky **and** vital in order to stay on course towards the life you want. In this next exercise, you'll be encouraged to think of something you value and struggle with at the same time. \n\nCan you think of any examples from your own life? Maybe it’s trying to find a new job, asking someone out on a date or simply telling a friend you did them wrong and that you’re sorry. \n\nTry to identify any negative thoughts, emotions and inner sensations that come up for you when you think about this situation.\n\nNow imagine that these thoughts, emotions and sensations are nothing else but people inside your head shouting out **their** messages. Let’s try some new ways of handling them!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Handling the angry mob",
+        "title": "Handling the angry mob",
+        "content": "Imagine you're working towards something important but difficult to accomplish. Describe all the negative thoughts and emotions that come up for you as you're working towards it.\n\nNow turn your thoughts and emotions into people in your head, each shouting their own message. Imagine that you're arguing with them, trying to make them stop shouting. Imagine trying to ignore them or run away. What happens to the shouting? Are you able to silence the voices in your head? How does fighting or running away make you feel? \n\nIs it possible to get closer to your goal while you're dealing with the angry mob at the same time?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Choosing another way",
+        "title": "Choosing another way",
+        "content": "If the experience of fighting or fleeing your thoughts and emotions made you feel exhausted, you’re not alone. There is, however, another way to tackle the obstacles in your head. It’s called willingness. \n\nContinuing to act in line with what’s most important to you, even when you 'hear' numerous voices of discouragement, that’s willingness. Applying for that job, even though the loudest voice in your head is screaming ”you probably won’t get it! How embarrassing!” - that's willingness. \n\nTo be willing means to **make a conscious choice to act**, even though the people in your head are shouting that you can’t or shouldn't. \n\nWalking in the direction of your biggest dreams and hopes will be almost impossible if you’re not willing to expose yourself to these hindering thoughts and emotions. Now let's practice!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Using willingness",
+        "title": "Using willingness",
+        "content": "Imagine again that you're working towards that thing that feels important yet difficult because of all the obstacles standing in your way. Take a moment to turn the thoughts and emotions into imaginary people. \n\nImagine handling the people in your head not by pushing them away but by choosing to accept they're there in the first place, all the while remaining focused on your important thing. \n\nHow do you think you would feel? If you continued to shift your attention away from the negative voices and towards your important goal, how would this impact your ability to achieve it?\n\nOur thoughts and emotions can make it seem impossible to live in line with our values. It often seems like we don’t have an option but to make them go away before we can get on with living the life the way we dream of. However through acceptance, we can overcome almost anything.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Ain't no mountain high enough",
+        "title": "Ain't no mountain high enough",
+        "time": "5-10 min",
+        "longDescription": "Your task for this week is to practice willingness by taking a small step towards your important goal each day. \n\n* Think of the step you will take and the hindering thoughts\n* Note down what you're planning to do",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "Well done for completing **Obstacles.**\n\nIn today's lesson we've explored how our negative thoughts can get in a way of our actions. By accepting their presence instead of trying to control or run away from them, we get to focus our energy on our actions and consequently take steps towards the life we want.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "You're now ready to share.\n\n1. What small step can you take towards your goal this week?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Obstacles"
+  },
+  "pt": {
+    "id": "LVcQtZqVqjSEUh69zeJ5u1",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Todos encontramos obstáculos ao longo do caminho",
+        "title": "Todos encontramos obstáculos ao longo do caminho",
+        "content": "Quando te esforças para fazer as coisas que são mais importantes na tua vida, vais encontrar certamente alguns obstáculos. Muitas vezes têm a forma de pensamentos e sentimentos.\n\nPor exemplo, se valorizas um trabalho gratificante e estás a pensar deixar o teu emprego atual, podes estar a perguntar a ti própria/o *\"E se não encontrar outro emprego que seja melhor para mim quando sair? Isto seria um grande erro!\".* \n\nEste pensamento por si só pode impedir-te de tomar medidas para garantir um trabalho melhor acabando por comprometer o que desejas na vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "content": "### A lição de hoje tem duas partes:\n\n* Identificar obstáculos\n* Formas de lidar com obstáculos\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Controlar os teus obstáculos internos",
+        "title": "Controlar os teus obstáculos internos",
+        "content": "Identificares os teus obstáculos internos é complicado, mas é vital para te manteres no caminho da vida que desejas. Neste próximo exercício, serás encorajada/o a pensar em algo que valorizas e com o qual lutas ao mesmo tempo.\n\nConsegues pensar em exemplos da tua própria vida? Talvez seja tentar encontrar um novo emprego, convidar alguém para um encontro ou simplesmente ter de pedir desculpa a uma amiga ou a um amigo porque fizeste algo errado.\n\nTenta identificar qualquer pensamento negativo, emoções e sensações internas que surgem quando pensas nessa situação.\n\nAgora imagina que esses pensamentos, emoções e sensações nada mais são do que pessoas dentro da tua cabeça a gritar **as suas** mensagens. Vamos abordar novas formas de lidar com elas!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Lidar com a multidão enfurecida",
+        "title": "Lidar com a multidão enfurecida",
+        "content": "Imagina que estás a trabalhar numa coisa importante, mas difícil de conseguir. Descreve todos os pensamentos e emoções negativas que surjam enquanto estás a trabalhar para esse objetivo.\n\nAgora transforma os teus pensamentos e emoções em pessoas na tua cabeça, cada uma a gritar a sua própria mensagem. Imagina que estás a discutir com elas, tentando fazer com que parem de gritar. Imagina tentar ignorá-las ou fugir. O que acontece com a gritaria? Consegues silenciar as vozes na tua cabeça? Como te sentes ao lutar ou ao fugir?\n\nConsegues chegar mais perto do teu objetivo se estiveres a lidar com a multidão furiosa ao mesmo tempo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Escolher outro caminho",
+        "title": "Escolher outro caminho",
+        "content": "Não estás sozinha/o se a experiência de lutar ou fugir dos teus pensamentos e emoções te deixou exausta/o. No entanto, existe outra maneira de lidar com os obstáculos na tua cabeça. Chama-se força de vontade.\n\nA força de vontade é continuar a agir de acordo com o que é mais importante para ti, mesmo quando \"ouves\" várias vozes de desencorajamento. Candidatares-te a esse emprego, mesmo que a voz mais alta na tua cabeça esteja a gritar \"provavelmente não o vais conseguir! Que constrangedor!” - isso é força de vontade.\n\nEstar disposto significa **fazer uma escolha consciente para agir**, mesmo que as pessoas na tua cabeça gritem que não podes ou não deves.\n\nCaminhar na direção dos teus maiores sonhos e ambições será quase impossível se não estiveres disposto a expor-te a esses pensamentos e emoções inibidores. Agora vamos praticar!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Usar a força de vontade",
+        "title": "Usar a força de vontade",
+        "content": "Imagina novamente que estás a trabalhar para aquilo que sentes que é importante, mas difícil por causa de todos os obstáculos no teu caminho. Tira um momento para transformar os pensamentos e emoções em pessoas imaginárias.\n\nImagina lidar com as pessoas na tua cabeça, não as empurrando para longe, mas escolhendo aceitar que elas estão lá e permanecendo o tempo todo focado nas tuas coisas importantes.\n\nComo achas que te sentirias? Se continuares a desviar a tua atenção das vozes negativas ao teu objetivo importante, como é que isso afetaria a tua capacidade de alcançá-lo?\n\nOs nossos pensamentos e emoções podem fazer com que pareça impossível viver de acordo com os nossos valores. Muitas vezes parece que não temos outra opção a não ser fazê-los ir embora antes que possamos viver a vida da maneira que sonhamos. No entanto, através da aceitação, podemos superar quase tudo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Nenhuma montanha é alta demais",
+        "title": "Nenhuma montanha é alta demais",
+        "time": "5-10 min",
+        "longDescription": "A tua tarefa esta semana é praticar a força de vontade, dando um pequeno passo em direção ao teu objetivo todos os dias. \n\n* Pensa no passo que vais dar e nos pensamentos que te inibem\n* Escreve o que estás a planear fazer",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **Os obstáculos.**\n\nNa lição de hoje, explorámos como os nossos pensamentos negativos podem atrapalhar as nossas ações. Ao aceitar a sua presença em vez de tentar controlá-los ou fugir deles, conseguimos concentrar a nossa energia nas nossas ações e, consequentemente, dar os passos em direção à vida que queremos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Já podes partilhar.\n\n1. Que pequeno passo podes dar em direção ao teu objetivo esta semana?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Obstacles"
+  }
+}

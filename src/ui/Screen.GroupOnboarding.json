@@ -1,0 +1,94 @@
+{
+  "en": {
+    "screenTitle": "",
+    "principlesTitle": "29k’s Group Principles",
+    "principles": [
+      {
+        "title": "Everything in your inner world is allowed",
+        "description": "Judging what you and others are feeling as being **good** or **bad** is a missed learning opportunity and can result in feelings of shame.\n\nInstead, celebrate flaws as opportunities for growth."
+      },
+      {
+        "title": "Listen to understand",
+        "description": "Everyone can contribute by **listening** and **being present**. Take responsibility for how you relate to everything.\n\nSee every trigger, blaming or judgemental thought as an opportunity to practice listening and compassion in yourself and others. By thinking that we already understand, we close ourselves to learning."
+      },
+      {
+        "title": "Show up and share",
+        "description": "Expressing how it feels to be you is often what is most healing. For you and others. Your fears and shame, dreams and inadequacies.\n\nYou take the group to a deeper level of openness and trust by choosing **vulnerability** and by **telling your stories.**"
+      }
+    ],
+    "introduction": {
+      "displayNameInputPlaceholder": "Name, nickname or alias",
+      "introductionInputPlaceholder": "Introduction",
+      "introductionDescription": "Let others know why you're here",
+      "button_creating": "Creating group",
+      "introductionInputLengthWarning": "Please write at least {{minLength}} characters",
+      "title__markdown": "# Introduce ~~yourself~~",
+      "button_create": "Create group",
+      "description__markdown": "*“Which of these 3 principles feels most important and why?”*\n\n* Everything in your inner world is allowed\n* Listen to understand\n* Show up and share",
+      "button_joining": "Joining group",
+      "button_continue": "Continue",
+      "button_join": "Join group"
+    }
+  },
+  "sv": {
+    "screenTitle": "",
+    "principlesTitle": "29k’s gruppregler",
+    "principles": [
+      {
+        "title": "Alla känslor är okej",
+        "description": "Känslor är varken **bra** eller **dåliga,** de är helt enkelt signaler som hjälper oss att fatta beslut i olika situationer. Du kan använda dina olika känslor för att lära dig mer om dig själv."
+      },
+      {
+        "title": "Lyssna för att förstå",
+        "description": "Bidra till gruppen genom att **vara närvarande** och **lyssna**. Ta ansvar för hur du reagerar på det som sägs.\n\nÖva på att bli bättre på att lyssna och visa medkänsla istället för att klandra eller döma. Sträva efter att förstå och lära dig mer om de andra i din grupp."
+      },
+      {
+        "title": "Dela med dig av dig själv",
+        "description": "Att berätta hur det känns att vara just du är ofta det som ger mest. För både dig själv och för andra. Med all din glädje och sorg, rädsla och skam, brister och drömmar.\n\nDu kan bidra till ett öppet klimat och djupare förtroende i gruppen genom att visa **sårbarhet** och **dela din historia** med de andra."
+      }
+    ],
+    "introduction": {
+      "displayNameInputPlaceholder": "Namn, smeknamn eller alias",
+      "introductionInputPlaceholder": "Presentera dig",
+      "introductionDescription": "Låt andra veta varför du vill vara här",
+      "button_creating": "Skapar gruppen",
+      "introductionInputLengthWarning": "Du behöver skriva minst {{minLength}} tecken",
+      "title__markdown": "# Presentera ~~dig~~",
+      "button_create": "Skapa gruppen",
+      "description__markdown": "*\"Vilka av dessa tre principer känns viktigast och varför?\"*\n\n* Alla känslor är okej\n* Lyssna för att förstå\n* Dela med dig av dig själv",
+      "button_joining": "Gå med i gruppen",
+      "button_join": "Gå med i gruppen"
+    }
+  },
+  "pt": {
+    "screenTitle": "",
+    "principlesTitle": "29k FJN - Princípios dos Grupos",
+    "principles": [
+      {
+        "title": "Tudo é permitido no teu mundo interior",
+        "description": "Julgar o que tu ou os outros sentem como sendo **bom** ou **mau** é uma oportunidade de aprendizagem perdida e pode resultar em sentimentos de culpa. Em vez disso, celebra as imperfeições como oportunidades de crescimento."
+      },
+      {
+        "title": "Escuta para compreender",
+        "description": "Todos podem contribuir estando **presentes** e a **ouvir**. Assume a responsabilidade pela forma como te relacionas com tudo. Encara todos os pensamentos de julgamento e culpabilização como uma oportunidade de praticar ouvir e ser compassivo por ti e pelos outros. Ao pensarmos que percebemos tudo, fechamo-nos à aprendizagem e evolução."
+      },
+      {
+        "title": "Aparece e partilha",
+        "description": "Expressar o que sentes ao seres tu, é muitas vezes o que mais contribui para sarar. Para ti e para os outros. Os teus medos e vergonhas assim como os sonhos e desajustes. Transporta o grupo para um nível de abertura e confiança mais profundo, escolhendo falar das tuas **vulnerabilidades** e partilhando **as tuas histórias**."
+      }
+    ],
+    "introduction": {
+      "displayNameInputPlaceholder": "Nome, apelido ou pseudónimo",
+      "introductionInputPlaceholder": "Apresenta-te",
+      "introductionDescription": "Diz aos outros porque estás aqui",
+      "button_creating": "A criar o grupo",
+      "introductionInputLengthWarning": "Por favor, escreve pelo menos {{minLength}} caracteres",
+      "title__markdown": "# Faz a ~~tua~~ apresentação",
+      "button_create": "Criar o grupo",
+      "description__markdown": "*“Qual destes 3 princípios te parece mais relevante e porquê?”*\n\n* Tudo no teu mundo interior é permitido\n* Ouvir para compreender\n* Aparece e partilha",
+      "button_joining": "A juntar-te ao grupo",
+      "button_continue": "Continuar",
+      "button_join": "Junta-te ao grupo"
+    }
+  }
+}

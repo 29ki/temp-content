@@ -1,0 +1,182 @@
+{
+  "en": {
+    "id": "9cc0b577-521f-4d60-8622-3c4b93a7a88b",
+    "alias": "Self compassion - Body 6",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "742f2c20-d427-4b4d-9714-1e374547a5ab"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "06:57",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1654757499/Meditations/Your_body_your_home._Rachel_meditation_-_2022-06-09_08.50_pfce42.mp3",
+        "title": "",
+        "type": "audio",
+        "id": "cf4b551c-7912-4ad3-9150-7202717b176d",
+        "description": "Press play to be guided through a meditation with focus on **your body – your home.**"
+      },
+      {
+        "type": "video",
+        "id": "742f2c20-d427-4b4d-9714-1e374547a5ab",
+        "alias": "Rachel reflecting on physical emotions",
+        "title": "Rachel reflecting on physical emotions",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622195526/Self%20Compassion/SC_body_outro_duo9on.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642763494/Self%20Compassion/Screenshot_2022-01-21_121046_nc0fq7.jpg",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639737338/Self%20Compassion/Subtitles/SC-body-outro-duo9on_1_okgb3j.vtt"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "bb517fc0-b363-483c-9ff4-0671e861ef65"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bb517fc0-b363-483c-9ff4-0671e861ef65",
+        "alias": "Continuing the practice",
+        "title": "Continuing the practice",
+        "content": "> \"I really like the idea to have a conscious toolbox; so that when I end up in a really challenging place my first though can be – oh let’s go to the toolbox – instead of getting stuck there...\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's wrap this up",
+            "sectionId": "69a3a9f2-262c-4c49-8bd6-f43c7af1ae06"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "69a3a9f2-262c-4c49-8bd6-f43c7af1ae06",
+        "content": "#### Well done for completing this lesson!\n\nYou’ve taken large steps on the journey towards a more compassionate relationship to yourself and others.\n\nThe path forward is to continue noticing moments of suffering in your body, recognising them for what they are and finding ways of soothing yourself.",
+        "alias": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Thanks",
+            "sectionId": "be24dd67-954e-40cd-a9da-687378ba20dd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "be24dd67-954e-40cd-a9da-687378ba20dd",
+        "content": "### You're now ready to share\n\n1. What key insights did you gain in this lesson?\n2. How can your body be a tool for self-compassion?\n3. What does your self-soothing gesture look like?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ],
+        "alias": "Sharing exercise"
+      }
+    ],
+    "root": "cf4b551c-7912-4ad3-9150-7202717b176d"
+  },
+  "sv": {
+    "id": "9cc0b577-521f-4d60-8622-3c4b93a7a88b",
+    "alias": "Self compassion - Body 6",
+    "root": "cf4b551c-7912-4ad3-9150-7202717b176d",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "742f2c20-d427-4b4d-9714-1e374547a5ab"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "09:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646880/Meditations/13_Swe_Open_up_to_compassion_vshwxz.wav",
+        "title": "",
+        "type": "audio",
+        "id": "cf4b551c-7912-4ad3-9150-7202717b176d",
+        "description": "Tryck på play för att lyssna på en guidad meditation med din kropp – ditt hem – i fokus."
+      },
+      {
+        "type": "video",
+        "id": "742f2c20-d427-4b4d-9714-1e374547a5ab",
+        "alias": "Reflektera över fysiska känslor",
+        "title": "Reflektera över fysiska känslor",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622195526/Self%20Compassion/SC_body_outro_duo9on.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642763494/Self%20Compassion/Screenshot_2022-01-21_121046_nc0fq7.jpg",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639737350/Self%20Compassion/Subtitles/SC-body-outro-duo9on_1_Swedish_p9pbto.vtt"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "bb517fc0-b363-483c-9ff4-0671e861ef65"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bb517fc0-b363-483c-9ff4-0671e861ef65",
+        "alias": "Fortsätt med övningen",
+        "title": "Fortsätt att öva",
+        "content": "> \"Jag gillar verkligen tanken på att ha en verktygslåda för självmedkänsla. När jag hamnar i en riktigt jobbig situation kan min första tanke vara – måste gå till verktygslådan – istället för att fastna.\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Låt oss runda av",
+            "sectionId": "69a3a9f2-262c-4c49-8bd6-f43c7af1ae06"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "69a3a9f2-262c-4c49-8bd6-f43c7af1ae06",
+        "content": "Du har tagit steg på vägen mot en mer medkännande relation till dig själv och andra.\n\nEn väg framåt är att **fortsätta att utforska hur det känns i kroppen när du går igenom något** **svårt**, och hitta olika sätt att lugna dig själv på.",
+        "alias": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Tack",
+            "sectionId": "be24dd67-954e-40cd-a9da-687378ba20dd"
+          }
+        ],
+        "title": "Snyggt jobbat!"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "be24dd67-954e-40cd-a9da-687378ba20dd",
+        "content": "Kom ihåg frågorna\n\n1. Vilka är de **viktigaste insikterna** du fick i den här lektionen?\n2. **Hur kan din kropp få vara ett verktyg** för att ge dig självmedkänsla?\n3. Vad valde du som **din självlugnande gest**?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ],
+        "alias": "Du är nu redo att dela",
+        "title": "Du är nu redo att dela med din grupp"
+      }
+    ]
+  },
+  "pt": {
+    "id": "9cc0b577-521f-4d60-8622-3c4b93a7a88b",
+    "alias": "Self compassion - Body 6"
+  }
+}

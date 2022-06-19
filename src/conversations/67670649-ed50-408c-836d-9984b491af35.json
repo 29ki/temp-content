@@ -1,0 +1,364 @@
+{
+  "en": {
+    "id": "67670649-ed50-408c-836d-9984b491af35",
+    "alias": "Leadership-styles-6",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b987ef52-3356-45cc-9b97-28ae9cc601cb",
+        "alias": "Intro to Exercise",
+        "title": "Building Trust",
+        "content": "A successful leader is a **trusted leader.** As you can probably imagine, it's very difficult to effectively use these transformational skills to pursue purpose with others if they don't trust you!\n\n**So, what makes a trusted person and leader?** \n\nA trusted leader is reliable, capable, and truthful, in both normal and challenging circumstances.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Can I see a real life example?",
+            "sectionId": "7ad3ac9d-9f4e-4f71-920e-71551f42cf8c"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "7ad3ac9d-9f4e-4f71-920e-71551f42cf8c",
+        "alias": "Great leadership in action",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Thanks",
+            "sectionId": "4276a0ae-0cd5-4adc-a9d9-f07ba8da656b"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/f_auto,q_auto,t_global/v1619189916/Leadership/Question_2_bestleader_gqjmhd.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575228/Leadership/Subtitles/lesson2_video2_eng_frzqa1.vtt"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4276a0ae-0cd5-4adc-a9d9-f07ba8da656b",
+        "alias": "Intro to Exercise 2",
+        "content": "Whether or not your job title says, ‘Leader of…’, ‘Head of…’, or ‘Director of…’, almost **everyone is a leader** of some type during their day.\n\nFor example, acting reliably, capably and truthfully with your family, friends, clients or pets helps others trust you.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Got it ",
+            "sectionId": "10f6305d-f92d-4c37-ba2b-7d002251aff1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "10f6305d-f92d-4c37-ba2b-7d002251aff1",
+        "content": "## Now, take a step back and ask yourself:\n\nCan you use the resources, connections and equipment available to you in your current role, to achieve goals that are important to you in a way that makes sense and matters to you?\n\nAs leaders we can develop even more trust, no matter what we do, where we do it, or how we do it.",
+        "alias": "Intro to Exercise 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "How can I strengthen trust?",
+            "sectionId": "8eb907ce-9dfe-40f8-873d-a0e905a06008"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8eb907ce-9dfe-40f8-873d-a0e905a06008",
+        "alias": "Intro to Exercise 4",
+        "content": "You can start strengthening trust right away by actively taking responsibility for what you commit to do and how you'll go about it.\n\nSo let's practice it by identifying **one meaningful goal you’re working on with others this week.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sure",
+            "sectionId": "794d53af-4d84-4be9-923a-e16cf88a6626"
+          }
+        ],
+        "title": "Trust as a core leadership skill"
+      },
+      {
+        "type": "writing",
+        "id": "794d53af-4d84-4be9-923a-e16cf88a6626",
+        "longDescription": "* Write down your goal\n* Take a moment to consider your own commitment to achieving this goal.\n* Complete the sentence, **\\*I commit to.**..*",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "3d70ba7a-81f5-401b-a5cd-6ea0b6df4d98"
+          }
+        ],
+        "title": "Identify a meaningful goal",
+        "question": ""
+      },
+      {
+        "type": "writing",
+        "id": "3d70ba7a-81f5-401b-a5cd-6ea0b6df4d98",
+        "longDescription": "Can you commit to doing what you've set out to do in a **reliable, capable, or truthful** way?\n\nFor example, ****I commit to doing X in a reliable, capable, or truthful way***.*",
+        "alias": "Exercise 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "672127de-33a3-4ce4-a272-e17a80bb79a4"
+          }
+        ],
+        "title": "The way we do something is often more important than what we do",
+        "question": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "672127de-33a3-4ce4-a272-e17a80bb79a4",
+        "alias": "Why this matters",
+        "content": "Just before we wrap up this session, it's important to note that you can do something in so many different ways depending on what makes sense in your current situation. \n\nIn this exercise, we chose an example of choosing to act in a way that builds trust with others.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "495aa0e7-3694-46ad-8154-9df7fb1b2f02"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "495aa0e7-3694-46ad-8154-9df7fb1b2f02",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Well done for developing your transformational leadership skills this week!\n\nIn this lesson, you've learned how to build trust and cultivate the transformational leadership skills including:\n\n1. idealized influence\n2. inspirational motivation\n3. intellectual stimulation \n4. individualized consideration\n\nDeveloping these skills helps you to engage others, listen to people, and to co-operate and pursue meaningful goals more effectively.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Thanks!",
+            "sectionId": "b35bd0e7-4dd4-44d4-9997-572d5ea0386e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b35bd0e7-4dd4-44d4-9997-572d5ea0386e",
+        "alias": "Further reading",
+        "title": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Bass, B. M. (1990). From transactional to transformational leadership: Learning to share the vision. Organizational Dynamics, 18(3), 19-31. doi:10.1016/0090-2616(90)90061-s\n2. Solomon, R. C., & Flores, F. (2003). Building trust in business, politics, relationships, and life. Oxford: Oxford Univ. Press",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "d7f94fa3-6d77-4d6a-9a07-b1e8506e2aca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7f94fa3-6d77-4d6a-9a07-b1e8506e2aca",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "What happens next?",
+            "conversationId": "pl-2-engage-to-build-trust"
+          }
+        ],
+        "title": "You are now ready to share",
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?**\n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "alias": "Sharing Exercise"
+      }
+    ],
+    "root": "b987ef52-3356-45cc-9b97-28ae9cc601cb"
+  },
+  "sv": {
+    "id": "67670649-ed50-408c-836d-9984b491af35",
+    "alias": "Leadership-styles-6"
+  },
+  "pt": {
+    "id": "67670649-ed50-408c-836d-9984b491af35",
+    "alias": "Leadership-styles-6",
+    "root": "b987ef52-3356-45cc-9b97-28ae9cc601cb",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b987ef52-3356-45cc-9b97-28ae9cc601cb",
+        "alias": "Intro to Exercise",
+        "title": "Construir confiança ",
+        "content": "Um líder de sucesso é um **líder de confiança**. Como podes provavelmente imaginar, é muito difícil usar estas competências transformadoras de forma eficaz na conquista de um propósito com os outros, se eles não confiarem em ti!\n\n**Então, o que faz de alguém uma pessoa e um líder de confiança?**\n\nUm/a líder de confiança é sólido/a, capaz e verdadeiro/a, tanto nas circunstâncias normais como nas desafiantes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Posso ver um exemplo de vida real?",
+            "sectionId": "7ad3ac9d-9f4e-4f71-920e-71551f42cf8c"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "7ad3ac9d-9f4e-4f71-920e-71551f42cf8c",
+        "alias": "Great leadership in action",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "4276a0ae-0cd5-4adc-a9d9-f07ba8da656b"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179048/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o2._Lideran%C3%A7a_transformativa_-_video_2_xf01iw.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179148/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L2V2_ujt5em.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4276a0ae-0cd5-4adc-a9d9-f07ba8da656b",
+        "alias": "Intro to Exercise 2",
+        "content": "Quer o teu cargo diga ou não, 'Líder de ...', 'Chefe de ...' ou 'Diretor/a de ...', quase **toda a gente é algum tipo de líder** no seu dia-a-dia.\n\nPor exemplo, agir de forma fiável, competente e honesta com a tua família, amigos, clientes ou animais de estimação ajuda os outros a confiarem em ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi ",
+            "sectionId": "10f6305d-f92d-4c37-ba2b-7d002251aff1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "10f6305d-f92d-4c37-ba2b-7d002251aff1",
+        "content": "**Agora, dá um passo atrás e pergunta-te:**\n\nPodes usar os recursos, conexões e equipamentos disponíveis na tua função atual, para atingir objetivos que são importantes para ti de uma forma que faça sentido e que seja importante para ti?\n\nComo líderes, podemos desenvolver ainda mais confiança, não importa o que fazemos, onde o fazemos ou como o fazemos.",
+        "alias": "Intro to Exercise 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Como posso fortalecer a confiança?",
+            "sectionId": "9f8efad8-9b0e-4de1-b0a7-9bae229c865b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "9f8efad8-9b0e-4de1-b0a7-9bae229c865b",
+        "alias": "AHO - Vídeo",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "8eb907ce-9dfe-40f8-873d-a0e905a06008"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179048/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o2._Lideran%C3%A7a_transformativa_-_video_3_toduiu.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179139/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L2V3_qthsvv.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8eb907ce-9dfe-40f8-873d-a0e905a06008",
+        "alias": "Intro to Exercise 4",
+        "content": "Podes começar por fortalecer a confiança de imediato, assumindo ativamente a responsabilidade pelo que te comprometes a fazer e como o farás.\n\nEntão, vamos praticar identificando um **objetivo relevante no qual estás a trabalhar com os outros esta semana**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "794d53af-4d84-4be9-923a-e16cf88a6626"
+          }
+        ],
+        "title": "Confiança como uma competência fundamental de liderança"
+      },
+      {
+        "type": "writing",
+        "id": "794d53af-4d84-4be9-923a-e16cf88a6626",
+        "longDescription": "\n\n* Escreve o teu objetivo\n* Reserva um momento para considerar o teu próprio compromisso em alcançar esse objetivo\n* Completa a frase, **\"Eu comprometo-me a ...\"**",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí ",
+            "sectionId": "3d70ba7a-81f5-401b-a5cd-6ea0b6df4d98"
+          }
+        ],
+        "title": "Identifica um objetivo relevante ",
+        "question": ""
+      },
+      {
+        "type": "writing",
+        "id": "3d70ba7a-81f5-401b-a5cd-6ea0b6df4d98",
+        "longDescription": "Consegues comprometer-te a fazer aquilo a que te propuseste de maneira **fiável**, **capaz** ou **verdadeira**?\n\nPor exemplo, **eu comprometo-me a fazer X de uma maneira fiável, capaz ou verdadeira.**",
+        "alias": "Exercise 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí ",
+            "sectionId": "672127de-33a3-4ce4-a272-e17a80bb79a4"
+          }
+        ],
+        "title": "A maneira como fazemos algo é muitas vezes mais importante do que aquilo que fazemos",
+        "question": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "672127de-33a3-4ce4-a272-e17a80bb79a4",
+        "alias": "Why this matters",
+        "content": "Antes de encerrarmos esta sessão, é importante observar que podes fazer algo de diferentes maneiras, dependendo do que fizer sentido na tua situação atual. \n\nNeste exercício, demos-te um exemplo de como escolher agir de forma a construir ou fortalecer a confiança com as outras pessoas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos concluir",
+            "sectionId": "495aa0e7-3694-46ad-8154-9df7fb1b2f02"
+          }
+        ],
+        "title": "Porque é importante?"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "495aa0e7-3694-46ad-8154-9df7fb1b2f02",
+        "alias": "Summary",
+        "title": "Parabéns!",
+        "content": "**Parabéns por desenvolveres as tuas competências transformadoras esta semana!**\n\nNesta lição, aprendeste como construir a confiança e cultivar as competências de liderança transformadora, incluindo:\n\n1. Influência idealizada\n2. Motivação inspiracional \n3. Estímulo intelectual\n4. Consideração individualizada \n\nDesenvolver estas competências ajuda-te a motivar as outras pessoas, ouvi-las e cooperar e perseguir objetivos relevantes de maneira mais eficaz.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Obrigada!",
+            "sectionId": "b35bd0e7-4dd4-44d4-9997-572d5ea0386e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b35bd0e7-4dd4-44d4-9997-572d5ea0386e",
+        "alias": "Further reading",
+        "title": "Leitura adicional",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Bass, B. M. (1990). From transactional to transformational leadership: Learning to share the vision. Organizational Dynamics, 18(3), 19-31. doi:10.1016/0090-2616(90)90061-s\n2. Solomon, R. C., & Flores, F. (2003). Building trust in business, politics, relationships, and life. Oxford: Oxford Univ. Press",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi!",
+            "sectionId": "d7f94fa3-6d77-4d6a-9a07-b1e8506e2aca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7f94fa3-6d77-4d6a-9a07-b1e8506e2aca",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "O que acontece a seguir?",
+            "conversationId": "pl-2-engage-to-build-trust"
+          }
+        ],
+        "title": "Agora estás pronto/a para partilhar ",
+        "content": "1. **Que ideias-chave te ajudaram a entender a tua situação, procurar um propósito ou ter sucesso esta semana?**\n\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, experimentando as competências que aprendeste e percebendo aquilo com que te identificas.",
+        "alias": "Sharing Exercise"
+      }
+    ]
+  }
+}

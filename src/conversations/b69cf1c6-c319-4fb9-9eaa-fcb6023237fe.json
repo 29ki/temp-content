@@ -1,20 +1,32 @@
 {
   "en": {
-    "type": "lesson",
     "id": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
-    "alias": "YA Stress Att säga nej och ja 3",
+    "alias": "YA Stress: Saying yes and no 3",
     "root": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
-        "alias": "Att säga ja till det du vill",
-        "title": "Att säga ja till det du vill",
-        "content": "Att säga nej hela tiden är inte heller en bra och långsiktig strategi – det hindrar oss från att göra saker vi tycker är viktiga och vill göra.\n\nNär vi är stressade är det lätt att vi automatiskt säger nej till saker som skulle kunna ladda våra batterier. Som att ta lunchrast, en promenad med en kompis, träna, eller sociala aktiviteter.",
+        "alias": "Saying yes to what you want",
+        "title": "Saying yes to what you want",
+        "content": "Just like saying yes, **saying no every time** isn’t a good long-term strategy. It can prevent us from doing what we actually want to do.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Next",
+            "sectionId": "c157c8fd-3985-4c15-b320-d54b977fac48"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c157c8fd-3985-4c15-b320-d54b977fac48",
+        "alias": "2",
+        "content": "For example, when we’re stressed, it’s easy to **automatically** say no to things that could in fact **recharge** our batteries. Like taking a lunch break, walking with a friend, exercising, or attending social activities.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
             "sectionId": "1169b39d-370a-477d-9e3d-d4d232212002"
           }
         ]
@@ -22,27 +34,77 @@
       {
         "type": "editorialWithImage",
         "id": "1169b39d-370a-477d-9e3d-d4d232212002",
-        "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi faktiskt vill göra och mår bra av. Sakerna som spelar roll i längden.\n\nDitt nästa steg är att undersöka vad du faktiskt vill i situationer. Den här gången, se om du kan hitta ett område där det skulle vara bra för dig att säga ja oftare.",
+        "content": "Just like we practice saying no to certain things, it's important to say yes to things we want to do. To the things that **matter** to us **in the long run.**\n\nYour next step is to examine what you long for in different situations. This time, see if you can find an area in your life where it would be good for you to say **yes** more **often**.",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Sätt igång",
-            "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc"
+            "content": "Keep going",
+            "sectionId": "0b82523b-8b73-4023-ac3e-104e7bd518a6"
           }
         ],
         "title": ""
       },
       {
+        "type": "defaultSection",
+        "id": "0b82523b-8b73-4023-ac3e-104e7bd518a6",
+        "alias": "Video 2",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Amir",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/amir2.mp4",
+                "duration": 39,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/amir.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759244/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-amir-EN_ks3yha.vtt"
+              },
+              {
+                "title": "Emilia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/emilia2.mp4",
+                "duration": 41,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/emilia.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759265/Hantera%20Stress%20YA/subtitles/stresskursen_fra%CC%8Aga4del2_emilia-EN_w6xrrd.vtt"
+              },
+              {
+                "title": "Hillevi",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/hillevi2.mp4",
+                "duration": 48,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/hillevi.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759287/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-hillevi-EN_w7g295.vtt"
+              },
+              {
+                "title": "Julie",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/julie2.mp4",
+                "duration": 24,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/julie.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623759309/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-julie-EN_or9wrv.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
+                "content": "Next"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "editorialWithImage",
         "id": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
-        "alias": "Övning: Att säga ja",
-        "title": "Övning: Att säga ja",
-        "content": "1. Tänk på en situation där du sa nej till något trots att det var något som du skulle mått bra av på lång sikt. Beskriv vad som hände och om det hindrade dig från att göra något du tycker om.\n2. Hur kan du i framtiden påminna dig själv om att det här är något du tycker är viktigt och egentligen vill säga ja till?\n\nSkriv ner dina svar någonstans där bara du kan se dem.",
+        "alias": "Exercise: Saying yes",
+        "title": "Exercise",
+        "content": "Write down your answers.\n\n1. Think of a situation where you said **no** to something **even though** it would have been **good** for you in the **long run**. Describe what happened and how this impacted you.\n2. How can you **remind** yourself in the future that this is something **important** to you, and say yes to?",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "I'm done",
             "sectionId": "bfa79f50-bfc4-4698-a987-443740941af6"
           }
         ]
@@ -50,7 +112,145 @@
       {
         "type": "editorialWithImage",
         "id": "bfa79f50-bfc4-4698-a987-443740941af6",
-        "content": "Titta igenom dina svar. Finns det situationer där du skulle må bra av att säga nej, och vilka situationer skulle du må bra av att säga ja till oftare? Tänk på att ett nej ger dig tid för ett annat ja. \n\nIstället för att bygga på ditt schema, se om du kan *byta ut* aktiviteter så du gör mer av det du tycker om och mår bra av — utan att få ett ännu tajtare schema.",
+        "content": "3. Looking at your answers, are there any **types** of **situations** where you’d like to say **no** and **yes** to more often? Keep in mind that a no makes space for another yes.\n4. See if you can **swap** these activities. This way you get to do **more** of what you like and feel good about without getting an even busier schedule.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "f20d66be-9965-4d0a-988a-b020af37f568"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f20d66be-9965-4d0a-988a-b020af37f568",
+        "alias": "Good job!",
+        "title": "",
+        "content": "Good job on completing **Saying no and yes!**\n\nIn this lesson, you’ve committed to saying yes to what's important to you in the long run. Doing so can help you reduce feelings of stress and make you feel better.\n\nYou've also practiced saying no, either because you don't want to do something, or because your schedule is already full.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finished"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+    "alias": "YA Stress: Saying yes and no 3",
+    "root": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
+        "alias": "Att säga ja till det du vill",
+        "title": "Att säga ja till det du vill",
+        "content": "Att säga **nej hela tiden** är inte heller en bra och långsiktig strategi. Det kan hindra oss från att göra saker vi tycker är viktiga och faktiskt vill göra.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
+            "sectionId": "f9274421-5636-49a9-a872-c8594424fca1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f9274421-5636-49a9-a872-c8594424fca1",
+        "content": "När vi är stressade är det till exempel lätt att vi **automatiskt** säger nej till saker som egentligen skulle kunna **ladda** våra **batterier**. Som att ta lunchrast, en promenad med en kompis, träna, eller sociala aktiviteter.",
+        "alias": "2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "1169b39d-370a-477d-9e3d-d4d232212002"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1169b39d-370a-477d-9e3d-d4d232212002",
+        "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi vill göra och mår bra av. Till sakerna som **spelar roll i längden.**\n\nDitt nästa steg är att undersöka vad du faktiskt vill i olika situationer. Den här gången, se om du kan hitta ett område i ditt liv där det skulle vara bra för dig att säga **ja oftare.**",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "c263b196-7e3a-445d-aae5-87cad52a8ce8"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "defaultSection",
+        "id": "c263b196-7e3a-445d-aae5-87cad52a8ce8",
+        "alias": "Video del 2",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Amir",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/amir2.mp4",
+                "duration": 39,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/amir.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607796/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-amir_d39c09.vtt"
+              },
+              {
+                "title": "Emilia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/emilia2.mp4",
+                "duration": 41,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/emilia.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608102/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-emilia_yzsyvr.vtt"
+              },
+              {
+                "title": "Hillevi",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/hillevi2.mp4",
+                "duration": 48,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/hillevi.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607796/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-hillevi_mmlgwz.vtt"
+              },
+              {
+                "title": "Julie",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-4/julie2.mp4",
+                "duration": 24,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-4/julie.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607796/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_2-julie_yx4etc.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
+                "content": "Fortsätt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
+        "alias": "Övning: Att säga ja",
+        "title": "Övning",
+        "content": "Skriv ner dina svar.\n\n1. Tänk på en situation där du sa **nej** till något **trots** att det var något du skulle **mått bra** av på **lång sikt.** Beskriv vad som hände och hur det påverkade dig.\n2. Hur kan du **påminna** dig själv i framtiden om att det här är något du tycker är **viktigt** och egentligen vill säga ja till?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är färdig",
+            "sectionId": "bfa79f50-bfc4-4698-a987-443740941af6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bfa79f50-bfc4-4698-a987-443740941af6",
+        "content": "3. Titta igenom dina svar. Finns det några **typer av situationer** där du skulle må bra av att säga **ja** och **nej** till oftare? Tänk på att ett nej ger dig tid för ett annat ja. \n4. Se om du kan **byta** **ut** dessa aktiviteter. På så sätt kan du göra mer av det du tycker om och mår bra av — utan att få ett ännu tajtare schema.",
         "alias": "x",
         "buttons": [
           {
@@ -64,8 +264,8 @@
         "type": "editorialWithImage",
         "id": "f20d66be-9965-4d0a-988a-b020af37f568",
         "alias": "Bra gjort!",
-        "title": "Bra gjort!",
-        "content": "Du har nu gjort klart **Säga nej – och ja.**\n\nDu har undersökt situationer där du vill ändra på hur du svarar och gjort en plan för att säga ja till något som är viktigt för dig på lång sikt. Det kan hjälpa dig att minska känslor av stress, och få dig att må bättre.\n\nIbland kan vi också behöver säga nej till sådant vi egentligen skulle vilja göra. För att vi inte hinner eller inte mår bra av att göra för många saker på en dag.",
+        "title": "",
+        "content": "Du har nu gjort klart **Säga nej – och ja,** bra gjort!\n\nI den här lektionen har du gjort en plan för hur och när du ska säga ja till något som är viktigt för dig på lång sikt. Det kan hjälpa dig att minska känslor av stress och få dig att må bättre.\n\nDu har även fått öva på att säga nej — antingen för att du inte vill göra någonting, eller för att ditt schema redan är fullt.",
         "buttons": [
           {
             "component": "LessonCompleteButton",
@@ -75,22 +275,34 @@
       }
     ]
   },
-  "sv": {
-    "type": "lesson",
+  "pt": {
     "id": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
-    "alias": "YA Stress Att säga nej och ja 3",
+    "alias": "YA Stress: Saying yes and no 3",
     "root": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "16f79ec4-54d7-41c7-af76-cb70ecd10949",
-        "alias": "Att säga ja till det du vill",
-        "title": "Att säga ja till det du vill",
-        "content": "Att säga nej hela tiden är inte heller en bra och långsiktig strategi – det hindrar oss från att göra saker vi tycker är viktiga och vill göra.\n\nNär vi är stressade är det lätt att vi automatiskt säger nej till saker som skulle kunna ladda våra batterier. Som att ta lunchrast, en promenad med en kompis, träna, eller sociala aktiviteter.",
+        "alias": "Dizer sim àquilo que queres",
+        "title": "Dizer sim àquilo que queres",
+        "content": "Tal como dizer sempre sim, **dizer sempre não,** não é uma boa estratégia de longo prazo. Pode impedir-nos de fazer o que realmente queremos.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Seguinte ",
+            "sectionId": "c157c8fd-3985-4c15-b320-d54b977fac48"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c157c8fd-3985-4c15-b320-d54b977fac48",
+        "alias": "2",
+        "content": "Por exemplo, quando estamos stressadas/os, é fácil dizer **automaticamente** não a coisas que poderiam, de facto, **recarregar** as nossas baterias. Por exemplo, fazer uma pausa para o almoço, caminhar com um/a amigo/a, fazer exercício ou participar em atividades sociais.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
             "sectionId": "1169b39d-370a-477d-9e3d-d4d232212002"
           }
         ]
@@ -98,27 +310,83 @@
       {
         "type": "editorialWithImage",
         "id": "1169b39d-370a-477d-9e3d-d4d232212002",
-        "content": "Precis som vi behöver öva på att säga nej till vissa saker, behöver vi säga ja till saker vi faktiskt vill göra och mår bra av. Sakerna som spelar roll i längden.\n\nDitt nästa steg är att undersöka vad du faktiskt vill i situationer. Den här gången, se om du kan hitta ett område där det skulle vara bra för dig att säga ja oftare.",
+        "content": "Assim como praticamos dizer não a certas coisas, é importante dizer sim às coisas que são **importantes** para nós **a longo prazo.**\n\nO teu próximo passo é examinar o que queres em diferentes situações. Desta vez, vê se consegues encontrar uma área na tua vida onde seria bom para ti dizer **sim** mais **frequentemente**.",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Sätt igång",
-            "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc"
+            "content": "Continuar ",
+            "sectionId": "0b82523b-8b73-4023-ac3e-104e7bd518a6"
           }
         ],
         "title": ""
       },
       {
+        "type": "defaultSection",
+        "id": "0b82523b-8b73-4023-ac3e-104e7bd518a6",
+        "alias": "Video 2",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Zicky Té",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361346/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Videos/Zicky_T%C3%A9_-_Lidar_Com_o_Stress_-_L4V2_szwz5v.mp4",
+                "duration": 63,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366643/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Photos/Li%C3%A7%C3%A3o_4_-_dizer_n%C3%A3o_e_sim_-_video_2_e6sxrb.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rita Rocha",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360856/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Videos/Rita_Rocha_-_Lidar_com_o_Stress_L4V2_tozmva.mp4",
+                "duration": 77,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366777/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Photos/Rita_Rocha_-_Dizer_n%C3%A3o_e_sim_-_video_2_gar4sx.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rita",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360821/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Videos/Rita_-_Lidar_com_o_Stress_L4V2_umtxdf.mp4",
+                "duration": 72,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366948/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Photos/Dizer_n%C3%A3o_e_sim_-_video_2_lesgxm.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rodrigo",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361163/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Videos/L4V2_-_Rodrigo_Ara%C3%BAjo-_Lidar_com_o_Stress_je7a11.mp4",
+                "duration": 85,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366867/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Photos/Dizer_n%C3%A3o_e_sim_-_video_2_ngmte6.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Francisca",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360476/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Videos/L4V2_-_Francisca_Costa_-_Lidar_com_o_stress_jfbher.mp4",
+                "duration": 194,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650367025/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Photos/Dizer_que_n%C3%A3o_e_sim_-_video_2_husd7x.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
+                "content": "Seguinte"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "editorialWithImage",
         "id": "fc248ec0-f557-48eb-97e3-ae3a9476acdc",
-        "alias": "Övning: Att säga ja",
-        "title": "Övning: Att säga ja",
-        "content": "1. Tänk på en situation där du sa nej till något trots att det var något som du skulle mått bra av på lång sikt. Beskriv vad som hände och om det hindrade dig från att göra något du tycker om.\n2. Hur kan du påminna dig själv i framtiden om att det här är något du tycker är viktigt och egentligen vill säga ja till?\n\nSkriv ner dina svar någonstans där bara du kan se dem.",
+        "alias": "Exercício: Dizer sim ",
+        "title": "Exercício",
+        "content": "Anota as tuas respostas.\n\n1. Pensa numa situação em que disseste **não**, apesar de ser algo **bom** para ti a **longo prazo**. Descreve o que aconteceu e como isso te afetou.\n2. Como podes **recordar** a ti mesma/o no futuro que isso é algo **importante** para ti e passares a dizer sim?",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Acabei ",
             "sectionId": "bfa79f50-bfc4-4698-a987-443740941af6"
           }
         ]
@@ -126,12 +394,12 @@
       {
         "type": "editorialWithImage",
         "id": "bfa79f50-bfc4-4698-a987-443740941af6",
-        "content": "3. Titta igenom dina svar. Finns det situationer där du skulle må bra av att säga nej, och vilka situationer skulle du må bra av att säga ja till oftare? Tänk på att ett nej ger dig tid för ett annat ja. \n\nIstället för att bygga på ditt schema, se om du kan *byta ut* aktiviteter så du gör mer av det du tycker om och mår bra av — utan att få ett ännu tajtare schema.",
+        "content": "3. Observando as tuas respostas, há algum **tipo** de **situação** em que gostarias de dizer **não** e **sim** com mais frequência? Tem em mente que um não abre espaço a outro sim.\n4. Vê se consegues **trocar** essas atividades. Dessa forma, vais poder fazer **mais** aquilo de que gostas e te faz sentir bem sem tornar a tua agenda demasiado ocupada.",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Färdig",
+            "content": "Já acabei",
             "sectionId": "f20d66be-9965-4d0a-988a-b020af37f568"
           }
         ]
@@ -139,13 +407,13 @@
       {
         "type": "editorialWithImage",
         "id": "f20d66be-9965-4d0a-988a-b020af37f568",
-        "alias": "Bra gjort!",
-        "title": "Bra gjort!",
-        "content": "Du har nu gjort klart **Säga nej – och ja.**\n\nDu har undersökt situationer där du vill ändra på hur du svarar och gjort en plan för att säga ja till något som är viktigt för dig på lång sikt. Det kan hjälpa dig att minska känslor av stress, och få dig att må bättre.\n\nIbland kan vi också behöver säga nej till sådant vi egentligen skulle vilja göra. För att vi inte hinner eller inte mår bra av att göra för många saker på en dag.",
+        "alias": "Bom trabalho! ",
+        "title": "",
+        "content": "Bom trabalho por teres completado **Dizer não e sim!**\n\nNesta lição, comprometes-te a dizer sim ao que é importante para ti a longo prazo. Fazer isso pode ajudar-te a reduzir os sentimentos de stress e fazer com que te sintas melhor.\n\nTambém praticaste dizer não, ou porque não queres fazer algo, ou porque a tua agenda já está cheia.",
         "buttons": [
           {
             "component": "LessonCompleteButton",
-            "content": "Slut"
+            "content": "Acabei "
           }
         ]
       }

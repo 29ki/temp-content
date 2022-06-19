@@ -1,0 +1,318 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Struggles",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/struggles_lhlm3o.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "a51726af-47ef-4416-84c3-905fc4039a19"
+    ],
+    "type": "exercise",
+    "id": "b848c084-57d1-44c9-925b-be5b32409ca5",
+    "description": "",
+    "stations": [
+      {
+        "id": "b848c084-57d1-44c9-925b-be5b32409ca5",
+        "root": "section1",
+        "alias": "Exercise: Struggles",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Struggles",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/struggles_lhlm3o.png",
+            "title": "",
+            "content": "When we’re struggling, we often **add to the suffering** by acting out on ourselves, being disapproving and judgemental, condemning and finding faults.\n\nIn this exercise you'll get to practice countering those actions with compassion and understanding.",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7d7a8dc4-3077-417c-863f-1f8e32324966",
+            "content": "1. Start by thinking of a **situation that’s been difficult for you.**\n2. Write down what it was about the situation that was challenging for you. \\\n   \\\n   For example: *I felt challenged in relation to... This situation was difficult because...*",
+            "alias": "Use pen and paper",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "e2f81f25-7fc5-4a3e-a113-c0c08b7d2632",
+            "alias": "Step three",
+            "content": "3. Facing this challenge, **how do/did you treat** yourself? Try listening to your **inner** **voice** and write down what it says to you. Try to be as detailed as possible.\\\n   \\\n   For example: *You’re unreliable. You’re a bit stupid sometimes, really. You'll never make it.*",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c4d05c6c-190e-410d-b96a-342c4556bb64",
+            "alias": "Step four",
+            "content": "4. Take a breath and just be with what you wrote so far. Now, **describe how it makes you feel**.\\\n   \\\n   For example: *I feel sad that I don’t believe in myself. I feel angry towards myself.*",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "de9587df-e4fd-40ae-8eb4-421a500d5fd2",
+            "alias": "Step 5",
+            "content": "5. From a compassionate place within you, **express** **understanding** towards the **feelings** you’re experiencing.\\\n   \\\n   For example: *I understand that I put a lot of pressure on myself sometimes. I understand that I fear not being enough.*",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d5d8a140-0bf8-4257-b495-6073d60bb8be",
+            "alias": "Step six",
+            "content": "6. Is there anything you'd want to **change** when acting towards yourself in this situation? If yes, **how**?\\\n   \\\n   For example: *I'd like to be kinder towards myself. I'd like to...*",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "68ed021c-8e35-4eb0-bb24-dd54ff9e12d8",
+            "content": "7. Take another deep breath and read through what you’ve written. **Reflect on how this:**\n\n* Helps you see your own needs and emotions?\n* Expresses care and understanding?\n* Helps you to see how you'd like to act towards yourself in difficult times?",
+            "alias": "Step 7",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done on completing the exercise!",
+            "content": "**Self-reflection is a process by which you grow your understanding of who you are** and why you think and act the way you do. \n\nIt can be helpful as a first step to treating yourself with compassion and care.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "68f6e102-f7bc-44a8-8cdc-934a2a3ba000",
+            "question": "What did you learn from this exercise?",
+            "exampleText": "I feel a bit sad to see how hard I am on myself, but I'm excited to make a change to how I'm treating myself.",
+            "alias": "Sharing wall: Struggles"
+          }
+        ],
+        "name": "Struggles",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "När livet är tufft",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/struggles_lhlm3o.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "a51726af-47ef-4416-84c3-905fc4039a19"
+    ],
+    "type": "exercise",
+    "id": "b848c084-57d1-44c9-925b-be5b32409ca5",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "b848c084-57d1-44c9-925b-be5b32409ca5",
+        "root": "section1",
+        "alias": "Exercise: Struggles",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "När livet är tufft",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/struggles_lhlm3o.png",
+            "title": "",
+            "content": "När vi har det tufft är det vanligt att vi **skuldbelägger oss själva, är kritiska, dömande och hårda**. \n\nDet här leder ofta till att vi mår ännu sämre.\n\nI den här övningen får du träna på att istället möta dig själv med medkänsla och förståelse.",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c509c7d8-121a-4628-b142-139c77862cb3",
+            "content": "1. Börja med att tänka på en **situation som har varit svår för dig att hantera.**\n2. Skriv ner vad det var med situationen som gjorde den utmanande.\\\n   \\\n   Till exempel: *Jag kände mig utmanad därför att... Den här situationen var svår därför att...*",
+            "alias": "Steg ett",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8c009ff9-97a6-4212-a99d-b13251e8d2d4",
+            "content": "3. Hur **bemötte**/**bemöter du dig själv** i den här situationen? Försök lyssna på din inre röst och skriv ner vad den säger till dig. Försök vara så detaljerad som möjligt.\\\n   \\\n   Till exempel: *Du är orealistisk. Du är lite dum ibland. Du kommer aldrig klara av det.*",
+            "alias": "Steg 3",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6dc4dfb6-6d73-4d35-8476-80caa6f45510",
+            "content": "4. Ta ett djupt andetag och läs igenom vad du precis skrev. **Hur känns det?** Skriv ned ditt svar.\\\n   \\\n   Till exempel: *Jag känner mig ledsen över att jag inte tror på mig själv. Jag känner mig arg på mig själv.*",
+            "alias": "Steg 4",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "48160a46-b4c6-4000-beb5-fce2fbedd757",
+            "content": "5. Se om du kan känna **medkänsla** med dig själv. Uttryck **förståelse** för de känslor du upplever.\\\n   \\\n   Till exempel: *Jag förstår att jag utsätter mig själv för en hel del höga krav ibland. Jag förstår att jag är rädd att inte räcka till.*",
+            "alias": "Steg 5",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "af7a0a91-7c24-4261-a925-c98ad175c179",
+            "content": "6. Skulle du vilja **bemöta** dig själv på ett annat sätt i den här situationen? Om ja, **hur**?\\\n   \\\n   Till exempel: *Jag skulle vilja vara snällare mot mig själv. Jag skulle vilja ...*",
+            "alias": "Steg 6",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "490e3a14-31d2-463c-9b8d-5dff42c749c3",
+            "content": "7. Ta ytterligare ett djupt andetag och läs det du har skrivit**. Reflektera över hur det:**\n\n* Hjälper dig se dina egna behov och känslor?\n* Uttrycker omtanke och förståelse?\n* Hjälper dig förstå hur du vill agera mot dig själv i svåra situationer?",
+            "alias": "Steg 7",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "",
+            "title": "",
+            "content": "Genom att **reflektera** **över hur du behandlar dig själv** ökar din förståelse för varför du ibland agerar som du gör. \n\nDet kan vara hjälpsamt som ett första steg i att bemöta sig själv med medkänsla.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "18a88a7b-e3d5-40f3-8a90-ecf8eb504d73",
+            "alias": "Sharing wall: Struggles",
+            "question": "Vad la du märke till under den här övningen?",
+            "exampleText": "Jag känner mig lite ledsen över att se hur hård jag är mot mig själv, men jag ser fram emot att förändra hur jag behandlar mig själv."
+          }
+        ],
+        "name": "När livet är tufft",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Dificuldades",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/struggles_lhlm3o.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "a51726af-47ef-4416-84c3-905fc4039a19"
+    ],
+    "type": "exercise",
+    "id": "b848c084-57d1-44c9-925b-be5b32409ca5",
+    "description": "",
+    "stations": [
+      {
+        "id": "b848c084-57d1-44c9-925b-be5b32409ca5",
+        "root": "section1",
+        "alias": "Exercise: Struggles",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Dificuldades",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/struggles_lhlm3o.png",
+            "title": "Dificuldades",
+            "content": "*5 – 10 minutos*\n\nQuando estamos a ter dificuldades, muitas vezes aumentamos o sofrimento ao agirmos contra nós, ao desaprovar, julgar, condenar e encontrar falhas.\n\nVamos contrariar essas ações com algum amor e compreensão.\n\n*Cocriado por 6 psicólogos e investigadores*.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Usa caneta e papel - Exercício",
+            "title": "Usa caneta e papel - Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Como primeiro passo, pensa numa situação que tenha sido difícil para ti. \n\nMantem-na presente e começa a escrever sobre o que é desafiante para ti nesta situação.\n\n> Sinto-me desafiada/o em relação a...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Como te estás a tratar face a este desafio? \n\nOuvir a tua voz interior e escrever o que ela te diz é uma ótima maneira de descobrir. \n\nProcura o maior detalhe possível nessa voz. \n\n> Não és de confiança!\n>\n> Às vezes és até um pouco estúpida/o.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Respira fundo para te ligares ao que escreveste até agora e continua a descrever como isso te faz sentir. \n\n> Sinto-me triste por não acreditar em mim.\n>\n> Sinto raiva de mim mesma/o.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "A partir de um lugar compassivo dentro de ti, expressa a tua compreensão em relação aos sentimentos que estás a experienciar. \n\n> Compreendo que, por vezes, coloco muita pressão em mim mesma/o.\n>\n> Compreendo que receio não ser suficientemente boa/bom.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Nesta situação, há alguma coisa que gostasses de mudar em relação à forma como lidas contigo? \n\n> Eu gostaria de ser amável comigo.\n>\n> Eu gostaria de...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section7",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "question": "",
+            "longDescription": "Respira fundo, lê o que escreveste e reflete como isto...\n\n* ...te ajuda a ver as tuas próprias necessidades e emoções.\n* ...expressa cuidado e compreensão.\n* ...te ajuda a ver como gostarias de agir para contigo mesma/o em tempos difíceis.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/b848c084-57d1-44c9-925b-be5b32409ca5/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Parabéns!",
+            "content": "A autorreflexão é um processo pelo qual desenvolves a compreensão de quem és e porque pensas e ages da forma como o fazes.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "adcac8ad-5949-4fd2-a0fa-a41276bae0c1",
+            "alias": "Sharing wall: Struggles",
+            "question": "O que sentiste depois de completares este exercício?",
+            "exampleText": "Um pouco triste ao ver como sou dura/o comigo mesma/o, mas estou ansiosa/o para começar a mudar essa atitude."
+          }
+        ],
+        "name": "Dificuldades",
+        "type": "station"
+      }
+    ]
+  }
+}

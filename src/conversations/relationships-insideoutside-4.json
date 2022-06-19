@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-insideoutside-4",
-    "alias": "relationships-insideoutside-4",
+    "alias": "YA building relationships 4: insideoutside-4",
     "root": "1",
     "sections": [
       {
@@ -12,7 +11,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Practice\n\nIt's time to build your inside-outside vision.\n\nOver the next three days, we want you to practice asking people who are close to you, how they are doing today."
+                "content": "# Practice\n\nIt's time to practice your inside-outside vision.\n\nHere's your mission. For three days, we want you to ask people who are close to you how they are doing today. How they are are feeling."
               }
             ]
           },
@@ -22,7 +21,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +39,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "1. First, look at them and take a guess at how they might be doing today.\n\nRemember that you need to use the awareness **inside** **you** to guess what is **inside** **them**.\n\n2. Then, ask them:\n\n”How are you doing today?”\n\n”How are you feeling today?”"
+                "content": "Start by just **looking** at the other person. Then **guess** how he or she is doing.\n\nRemember that a good guess is based on **yourself**, on how **you** would feel if you were in the other person's situation."
               }
             ]
           },
@@ -51,7 +49,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "3"
               }
             ]
@@ -68,7 +65,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Remember to take the time to **pause** and really listen to their answer.\n\nSome key listening behaviors you can practice:\n\n\\-Focus on listening actively to the other one\n\n\\-Ask questions if you need to, to understand what the other one is experiencing\n\n\\-Do not give advice or try to fix stuff."
+                "content": "Then, we want you to **ask** the other person how they are feeling today – **for real.**\n\n* How are you feeling today?\n* Tell me **more** about what's going on inside of you! What are your thoughts and feelings today?"
               }
             ]
           },
@@ -78,7 +75,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "4"
               }
             ]
@@ -95,7 +91,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "You’ll find two things happen:\n\n1. You’ll discover there are times when your guess is wrong. Often, to understand and be understood we need to use another's perspective.\n\n2. You’ll find out that people love it when they are asked about how they feel **IF** the person really listens to them. They’ll feel more connected to you."
+                "content": "Remember to take **time** to really listen to the answer. Here are some tips:\n\n* Focus, **listen** **actively** to what the other person is saying.\n* Look them in the **eye**.\n* Ask more **questions** if you need to know more in order to fully understand what the other person is experiencing.\n* Don't give advice, comfort or try to fix the problem. **Just listen** and take in what they're saying."
               }
             ]
           },
@@ -105,7 +101,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "5"
               }
             ]
@@ -122,7 +117,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Don't assume you can guess what's going on inside of others by just *looking* at them from the *outside*. Access the *inside* by *asking*.\n\nThe same is true for your experience - help others understand you by letting them know. Mind-reading is a useful skill, but it needs to be checked out."
+                "content": "You will find that two things will happen:\n\n* Sometimes your guess will be **wrong**. To understand and be understood, we often need to ask the other person to share their perspective.\n* Most of us like to share what we feel that someone is **really listening t**o us**.** When you listen actively, you increase the chance of connection."
               }
             ]
           },
@@ -132,8 +127,7 @@
               {
                 "component": "Button",
                 "content": "More",
-                "conversationId": "relationships-insideoutside-5",
-                "sectionId": "1"
+                "sectionId": "38db6620-2bc9-4f86-8a70-6df7616d59f1"
               }
             ]
           }
@@ -142,21 +136,86 @@
       },
       {
         "type": "defaultSection",
+        "id": "38db6620-2bc9-4f86-8a70-6df7616d59f1",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Emilia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_emilia.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_emilia.jpg",
+                "duration": 58,
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623847500/Hantera%20Stress%20YA/subtitles/insidanutsidankollen_emilia.-eng_u7sjlv.vtt"
+              },
+              {
+                "title": "Sebastian",
+                "duration": 35,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_sebastian.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sebastian.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623847561/Hantera%20Stress%20YA/subtitles/insidanutsidankollen_sebastian.eng_plhyf1.vtt"
+              },
+              {
+                "title": "Sofia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_sofia.mp4",
+                "duration": 47,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sofia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623847641/Hantera%20Stress%20YA/subtitles/insidanutsidankollen_sofia.eng-vtt_w1j7dr.vtt"
+              },
+              {
+                "title": "Ummawa",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_ummawa.mp4",
+                "duration": 51,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_ummawa.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623847742/Hantera%20Stress%20YA/subtitles/insidanutsidankollen_ummawa.eng-vtt_f8rkel.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Move on",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
         "id": "6",
         "alias": "6",
         "content": [
           {
             "component": "TextGroup",
-            "content": []
+            "content": [
+              {
+                "component": "Text",
+                "content": "It is often difficult to guess what's going on inside when we can only see the outside. But, you can access the inside by **asking**.\n\nThe same goes for your own experience – help others understand you better by telling them how you feel. Mind-reading is a useful skill, but it needs to be double-checked :)"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Continue",
+                "conversationId": "relationships-insideoutside-5",
+                "variant": "primary"
+              }
+            ]
           }
         ]
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-insideoutside-4",
-    "alias": "relationships-insideoutside-4",
+    "alias": "YA building relationships 4: insideoutside-4",
     "root": "1",
     "sections": [
       {
@@ -168,7 +227,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# **Öva**\n\nNu är det dags att träna din insidan-utsidan-koll.\n\nDu ska få ett uppdrag. I tre dagar vill vi att du frågar personer som står dig nära hur de har det i dag. På riktigt."
+                "content": "# **Öva**\n\nNu är det dags att träna din insidan-utsidan-koll.\n\nDu ska få ett uppdrag. I tre dagar vill vi att du frågar personer som står dig nära hur de har det i dag. Hur de mår."
               }
             ]
           },
@@ -178,7 +237,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "2"
               }
             ]
@@ -195,7 +253,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Börja med att titta på den andra personen och gissa hur hen mår.\n\nKom ihåg att en bra gissning **utgår ifrån dig** själv, hur du skulle känna dig om du var i den andras situation**.**"
+                "content": "Börja med att **titta** på den andra personen och bara gissa hur hen mår.\n\nKom ihåg att en bra gissning **utgår ifrån dig** själv, hur **du** skulle känna dig om du var i den andra personens situation."
               }
             ]
           },
@@ -205,7 +263,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "3"
               }
             ]
@@ -223,7 +280,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Sedan vill vi att du frågar den andra hur hen mår i dag – *på riktigt.*\n\n* Hur känner du dig i dag?\n* Berätta mer om vad som pågår inuti dig! Vad har du för tankar och känslor i dag?"
+                "content": "Sedan vill vi att du **frågar** den andra hur hen mår i dag – **på riktigt***.*\n\n* Hur känner du dig i dag?\n* Berätta mer om vad som pågår inuti dig! Vad har du för tankar och känslor i dag?"
               }
             ]
           },
@@ -233,7 +290,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "6"
               }
             ]
@@ -249,7 +305,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Kom ihåg att ta dig **tid** att verkligen lyssna på  svaret. Här är några tips:\n\n* Fokusera, lyssna **aktivt** på vad den andra säger.\n* Titta den andra i ögonen.\n* **Fråga mer** om du behöver veta mer för att förstå vad den andra personen upplever.\n* Ge inte råd, trösta eller försök att fixa problemet. Bara lyssna och ta in."
+                "content": "Kom ihåg att ta dig **tid** att verkligen lyssna på svaret. Här är några tips:\n\n* Fokusera, **lyssna** **aktivt** på vad den andra säger.\n* Titta dem i **ögonen**.\n* Ställ fler **frågor** om du behöver veta mer för att förstå den andra personens upplevelse.\n* Ge inga råd. Trösta inte och försök inte fixa problemet. **Bara** **lyssna** och ta in."
               }
             ]
           },
@@ -259,7 +315,6 @@
               {
                 "component": "Button",
                 "content": "Mer",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "a"
               }
             ]
@@ -276,7 +331,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Du kommer att upptäcka att två saker händer:\n\n* Ibland kommer din gissning att vara fel. För att förstå och bli förstådd behöver vi ofta fråga efter andras perspektiv.\n* De flesta av oss tycker om att berätta vad vi känner och tänker **när vi blir lyssnade på**, på riktigt. När du lyssnar aktivt ökar du  chansen till samhörighet."
+                "content": "Du kommer att upptäcka att två saker händer:\n\n* Ibland kommer din gissning att vara **fel**. För att förstå och bli förstådd behöver vi ofta fråga efter andras perspektiv.\n* De flesta av oss tycker om att berätta vad vi känner och tänker **när vi blir lyssnade på**, på riktigt. När du lyssnar aktivt ökar du chansen till samhörighet."
               }
             ]
           },
@@ -286,7 +341,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "7"
               }
             ]
@@ -305,22 +359,30 @@
               {
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_emilia.mp4",
                 "title": "Emilia",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_emilia.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_emilia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621601180/Building%20Relationships/subtitles/insidanutsidankollen_emilia_a4qht1.vtt",
+                "duration": 58
               },
               {
                 "title": "Sebastian",
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_sebastian.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sebastian.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sebastian.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621601180/Building%20Relationships/subtitles/insidanutsidankollen_sebastian_b2dzlz.vtt",
+                "duration": 35
               },
               {
                 "title": "Sofia",
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_sofia.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sofia.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_sofia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621601180/Building%20Relationships/subtitles/insidanutsidankollen_sofia_xoegjc.vtt",
+                "duration": 47
               },
               {
                 "title": "Ummawa",
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/4_insidanutsidankollen/4_ummawa.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_ummawa.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/4_insidanutsidankollen/4_ummawa.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621601180/Building%20Relationships/subtitles/insidanutsidankollen_ummawa_ui8f0t.vtt",
+                "duration": 51
               }
             ]
           },
@@ -330,7 +392,6 @@
               {
                 "component": "Button",
                 "content": "Gå vidare",
-                "conversationId": "relationships-insideoutside-4",
                 "sectionId": "5"
               }
             ]
@@ -346,7 +407,39 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Ofta är det svårt att gissa vad som pågår på insidan när vi bara ser utsidan. Du kan få tillgång till insidan genom att fråga. \n\nDetsamma gäller för din egen upplevelse – hjälp andra förstå genom att berätta hur du har det. Tankeläsning är en användbar färdighet, men den behöver dubbelkollas :)"
+                "content": "Ofta är det svårt att gissa vad som pågår på insidan när vi bara ser utsidan. Du kan få tillgång till insidan genom **att fråga.** \n\nDetsamma gäller för din egen upplevelse — hjälp andra förstå genom att berätta hur du har det. Tankeläsning är en användbar färdighet, men den behöver dubbelkollas :)"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Fortsätt",
+                "conversationId": "relationships-insideoutside-5",
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-insideoutside-4",
+    "alias": "YA building relationships 4: insideoutside-4",
+    "root": "1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Prática\n\nÉ hora de praticar a tua visão de dentro para fora.\n\nAqui está a tua missão. Durante três dias, queremos que perguntes às pessoas próximas de ti como é que elas estão hoje. Como é que estão a sentir-se."
               }
             ]
           },
@@ -355,14 +448,196 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-5",
-                "sectionId": "1"
+                "content": "Seguinte",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Começa por **olhar** apenas para a outra pessoa. Depois **adivinha** como ela está.\n\nLembra-te de que um bom palpite é baseado em **ti**, em como te sentirias se estivesses na situação da outra pessoa."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
               }
             ]
           }
         ],
         "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Depois, queremos que **perguntes** à outra pessoa como ela está a sentir-se hoje – **de verdade.**\n\n* Como estás a sentir-te hoje?\n* Conta-me **mais** sobre o que está a acontecer dentro de ti! Quais são os teus pensamentos e sentimentos hoje?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Lembra-te de levar **tempo** para realmente ouvires a resposta. Aqui estão algumas dicas:\n\n* Concentra-te, **ouve** **ativamente** o que a outra pessoa está a dizer.\n* Olha-a nos **olhos**.\n* Faz mais **perguntas** se precisares de saber mais para entender completamente o que a outra pessoa está a vivenciar.\n* Não dês conselhos, reconforto, nem tentes resolver o problema. **Apenas ouve** e absorve o que eles estão a dizer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vais ver que duas coisas vão acontecer:\n\n* Às vezes, o teu palpite vai estar **errado**. Para entender e ser entendido, muitas vezes temos de pedir à outra pessoa que partilhe a sua perspectiva.\n* A maioria de nós gosta de partilhar com alguém que achamos que está **realmente a ouvir-nos**. Quando ouves ativamente, aumentas a hipótese de conexão."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mais",
+                "sectionId": "38db6620-2bc9-4f86-8a70-6df7616d59f1"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "38db6620-2bc9-4f86-8a70-6df7616d59f1",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Nenny",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359461/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Videos/Nenny_-_Construir_Rela%C3%A7%C3%B5es_L4V1_woxyot.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362083/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Photos/Li%C3%A7%C3%A3o_4_-_de_dentro_para_fora_-_video_1_ehwipm.jpg",
+                "duration": 172,
+                "subtitleUri": ""
+              },
+              {
+                "title": "Ana",
+                "duration": 122,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360133/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Videos/Ana_-_Construir_Rela%C3%A7%C3%B5es_-_L4V1_qjdnrg.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650363528/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Photos/De_dentro_para_fora_-_video_1_jqw0gm.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Afonso",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359337/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Videos/L4V1_-_Afonso_Almeida_-_Construir_Rela%C3%A7%C3%B5es_qf1pp0.mp4",
+                "duration": 216,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362609/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Photos/Afonso_Almeida_-_De_dentro_para_fora_-_video_1_wdh4nq.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Isabel",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360064/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Videos/L4V1_-_Isabel_santos_-_Construir_Rela%C3%A7%C3%B5es_pzvkom.mp4",
+                "duration": 66,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362486/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Photos/Isabel_Santos_-_De_dentro_para_fora_-_video_1_chidq5.jpg",
+                "subtitleUri": ""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Segue em frente ",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Muitas vezes é difícil adivinhar o que está a acontecer no interior quando só podemos ver o lado de fora. Mas, podes aceder ao interior **se perguntares.**\n\nO mesmo é verdade para a tua própria experiência – ajuda os outros a entender-te melhor, dizendo-lhes como te sentes. A leitura de pensamentos é uma competência útil, mas tem de ser pensada duas vezes."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Continuar",
+                "conversationId": "relationships-insideoutside-5",
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
       }
     ]
   }

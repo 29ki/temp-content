@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-8",
     "alias": "alive-day-8",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-8",
-        "alias": "alive-day-8",
-        "nextConversationId": "alive-day-9",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 8",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay8rev1",
           "days": 0,
           "hours": 8,
           "minutes": 26,
-          "title": "Alive Day 8 Mission",
-          "body": "Today, ask someone if they can show you how the way they do a task you both do regularly. Did this show you new ways to go about it?"
+          "title": "Alive Day 8 Quest",
+          "body": "Today, ask someone if they can show you the way they do a task you both do regularly. Did this show you new ways of doing it?"
+        },
+        "sharingWall": {
+          "question": "How do you feel about yourself after completing today’s quest?",
+          "exampleText": "It was eye opening. Nice to learn something new about a thing I thought I already knew!"
         },
         "followUp": {
+          "id": "followUpDay8",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 8 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-8",
+        "nextConversationId": "alive-day-9",
+        "type": "microInterventionDay",
+        "id": "alive-day-8"
       }
     ]
   },
   "sv": {
     "id": "alive-day-8",
     "alias": "alive-day-8",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-8",
-        "alias": "alive-day-8",
-        "nextConversationId": "alive-day-9",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 8",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 8",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 8",
-          "body": "Today, ask someone if they can show you how the way they do a task you both do regularly. Did this show you new ways to go about it?"
+          "title": "Uppdrag dag 8",
+          "body": "Fråga någon om de kan visa dig hur de brukar göra en uppgift som ni båda gör regelbundet. Lärde du dig ett nytt tillvägagångssätt?",
+          "id": "aliveDay8rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur känner du dig efter dagens uppdrag?",
+          "exampleText": "Kul att lära mig något nytt om en sak som jag trodde jag redan visste!"
         },
         "followUp": {
+          "id": "followUpDay8",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 8 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 8 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-8",
+        "nextConversationId": "alive-day-9",
+        "type": "microInterventionDay",
+        "id": "alive-day-8"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-8",
+    "alias": "alive-day-8",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 8",
+        "task": {
+          "id": "aliveDay8rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 26,
+          "title": "Desafio ALIVE dia 8",
+          "body": "Hoje, pergunta a alguém se te pode mostrar a forma como realiza uma tarefa que os dois fazem regularmente.\n\nIsso mostrou-te novas formas e perspetivas de a realizares?"
+        },
+        "sharingWall": {
+          "question": "Como te sentiste depois de realizar o desafio de hoje?",
+          "exampleText": "Foi uma revelação. É bom aprender aspetos novos sobre temas acerca dos quais pensei que já sabia tudo!"
+        },
+        "followUp": {
+          "id": "followUpDay8",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 8 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-8",
+        "nextConversationId": "alive-day-9",
+        "type": "microInterventionDay",
+        "id": "alive-day-8"
       }
     ]
   }

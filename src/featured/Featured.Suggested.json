@@ -1,0 +1,150 @@
+{
+  "en": {
+    "suggested": [
+      {
+        "type": "challenge",
+        "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
+      },
+      {
+        "type": "course",
+        "id": "1e312c02-8c79-44a8-b1cc-b74554cf391f"
+      },
+      {
+        "type": "course",
+        "id": "83a9946b-af74-4186-8483-330f6d6fa74a"
+      },
+      {
+        "type": "challenge",
+        "id": "self-care-challenge"
+      },
+      {
+        "type": "exercise",
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f"
+      },
+      {
+        "type": "single",
+        "id": "43de4e49-136c-4bcd-8145-26f6d8230e19"
+      },
+      {
+        "type": "single",
+        "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db"
+      },
+      {
+        "type": "single",
+        "id": "0e17b6c7-3886-4dbc-a19e-551175ada895"
+      },
+      {
+        "type": "exercise",
+        "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f"
+      },
+      {
+        "type": "exercise",
+        "id": "18e8c0ba-7027-11ea-bc55-0242ac130003"
+      },
+      {
+        "type": "single",
+        "id": "68f40033-6954-4955-b2fb-55625cc593d2"
+      },
+      {
+        "type": "exercise",
+        "id": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      }
+    ]
+  },
+  "sv": {
+    "suggested": [
+      {
+        "type": "challenge",
+        "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
+      },
+      {
+        "type": "course",
+        "id": "1e312c02-8c79-44a8-b1cc-b74554cf391f"
+      },
+      {
+        "type": "course",
+        "id": "83a9946b-af74-4186-8483-330f6d6fa74a"
+      },
+      {
+        "type": "challenge",
+        "id": "self-care-challenge"
+      },
+      {
+        "type": "exercise",
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f"
+      },
+      {
+        "type": "single",
+        "id": "43de4e49-136c-4bcd-8145-26f6d8230e19"
+      },
+      {
+        "type": "single",
+        "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db"
+      },
+      {
+        "type": "single",
+        "id": "0e17b6c7-3886-4dbc-a19e-551175ada895"
+      },
+      {
+        "type": "exercise",
+        "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f"
+      },
+      {
+        "type": "exercise",
+        "id": "18e8c0ba-7027-11ea-bc55-0242ac130003"
+      },
+      {
+        "type": "single",
+        "id": "68f40033-6954-4955-b2fb-55625cc593d2"
+      },
+      {
+        "type": "exercise",
+        "id": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      }
+    ]
+  },
+  "pt": {
+    "suggested": [
+      {
+        "type": "course",
+        "id": "cc77500f-bca0-48bd-a282-14842b25aa2f"
+      },
+      {
+        "type": "course",
+        "id": "83a9946b-af74-4186-8483-330f6d6fa74a"
+      },
+      {
+        "type": "course",
+        "id": "1e312c02-8c79-44a8-b1cc-b74554cf391f"
+      },
+      {
+        "type": "exercise",
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f"
+      },
+      {
+        "type": "single",
+        "id": "0e17b6c7-3886-4dbc-a19e-551175ada895"
+      },
+      {
+        "type": "exercise",
+        "id": "f6638388-f298-4173-bba1-e11dc530114a"
+      },
+      {
+        "type": "single",
+        "id": "43de4e49-136c-4bcd-8145-26f6d8230e19"
+      },
+      {
+        "type": "exercise",
+        "id": "89ba5bd7-d73e-462a-b621-cb468b482653"
+      },
+      {
+        "type": "exercise",
+        "id": "caa7dfa7-55c2-400b-99af-13441386eebc"
+      },
+      {
+        "type": "challenge",
+        "id": "self-care-challenge"
+      }
+    ]
+  }
+}

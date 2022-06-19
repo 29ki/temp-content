@@ -1,0 +1,802 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Set smart goals",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/set_smart_goals_easmcn.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "c14f0802-3acd-46af-860b-4d8b54c82004",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisesetsmartgoals",
+        "alias": "Exercise setsmartgoals",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/set_smart_goals_easmcn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Goals**\\\nThere are many reasons to set goals. And probably even more reasons why we often fail to achieve them.\n\nMost of us are taught that it's important to have goals in life. But we've seldom learnt **how** to set effective goals."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sometimes when we fail to reach our goals we attribute the failure to personal factors. Maybe we think that we're lazy. Hopeless. Incapable of getting things done.\n\nHowever, one of the most common reasons for failing to achieve goals is a **lack of structure.**"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Thankfully, **setting effective goals is a skill** that we can learn. Having clearly defined goals helps us strive toward the things that are important to us.\n\n> *\"A goal is a dream with a deadline\"*\n>\n> *Napoleon Hill.*"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### You'll learn more about:\n\n* How to set effective goals\n* How to achieve your goals"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "To help you become a goal-setting master, we'll use a model called SMART. Let's break down the steps:\n\n* **S**pecific (what, where)\n* **M**easurable (how much)\n* **A**ccepted (why)\n* **R**ealistic (could I)\n* **T**ime framed (when)"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Specific (what/where):**\n\nStep one is setting a goal that is *specific*. Try to frame your goal in terms of what you’d *like to do*, rather in terms of what you *don’t want to do*. Specific, clear goals answers the questions: *what* and *where*.\n\n* Good: Meditate for 5 minutes every day in bed.\n* Avoid: Being too general, ie: Calm down."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Got it"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Measurable (how long/much/many):**\n\nStep two is making sure our goal is *measurable*. This will help us evaluate how things are going. Whether or not we’re moving in the right direction. \n\nMeasurable goals answers questions like *how much, how many* and/or *for how long.*\n\n* Good: Meditate 15 minutes every day.\n* Avoid: Meditate more."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Accepted (why):**\n\nStep three is figuring out if our goal is *accepted*. Sometimes we set goals based on what *other people* want. But it is important to set goals that are important to *us* — *not* just to please others. Thus, accepted goals will answer the question of *why* we want to do something.\n\n* Good: I want to meditate because it’s important for me to be able to calm down.\n* Avoid: I will meditate because my friend told me I have to."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "alias": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Realistic (could I):**\n\nStep four is deciding if our goal is *realistic,* if it is attainable. Ask yourself: Given my other life circumstances right now, can I achieve this? If the answer is no — is there a smaller step you could start with?\n\n* Good: I have time to set aside 5 minutes every day to meditate.\n* Avoid: I am going to meditate for four hours a day."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "10",
+            "alias": "10",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Time-framed (when, until when):**\n\nThe last step is basically setting a *deadline*. To help, we can ask questions such as *when; *how many times a week, *what time, of the day, for *how long,* and *until when*. Sometimes there is a natural deadline (ie the exam is December 15th), but if not — decide on one. Start with a limit of a few weeks rather than one that ends in several years' time.\n\n* Good: Meditate every day 17.00-17.05 for the rest of the month.\n* Avoid: Meditate sometime during the day until I feel like I don’t need to anymore."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Set my own goal"
+          },
+          {
+            "type": "defaultSection",
+            "id": "11",
+            "alias": "11",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Remember:**\n\n* **S** stands for **“Specific”**: what and where\n* **M** stands for **“Measurable”**: how long/much/many\n* **A** stands for **“Accepted”**: why\n* **R** stands for **“Realistic”**: could I?\n* **T** stands for **“Time-bound”**: when, until when"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "12",
+            "alias": "12",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Set your own goal**\\\nGet pen and paper. Using the SMART-model, write down **one** goal you have in an area of life where you want to make a change or work toward something that is important to you. \\\n\\\nIt can be about meeting friends, school, family, free time, working out or anything else you'd like."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "927b26b4-cd76-46b2-a9e7-8d0875a40a28",
+            "alias": "13",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\\\n\\\nYou've now learnt how to set SMART goals. Setting goals that are specific, measurable, accepted, realistic and time-framed will help you live a more meaningful life and feel more satisfied.\n\nFeel free to set a reminder on your phone or in your calendar a week or two from now to follow up on the goal you just set."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Finished"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "c8d444a9-9968-420e-8db2-80088def8157",
+            "question": "What did you learn from this exercise?",
+            "exampleText": "That my goals were too general, I need to set more specific goals. ",
+            "alias": "Sharing wall"
+          }
+        ],
+        "name": "Set smart goals",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Sätt smarta mål",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/set_smart_goals_easmcn.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "c14f0802-3acd-46af-860b-4d8b54c82004",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisesetsmartgoals",
+        "alias": "Exercise setsmartgoals",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/set_smart_goals_easmcn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Mål**\\\nDet finns många anledningar att sätta mål. Och säkert ännu fler skäl till varför vi ofta misslyckas med att nå dem. \n\nAlla får vi lära oss att det är viktigt att ha mål i livet. Men sällan har vi fått lära oss **hur**en sätter effektiva mål."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Mer"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Ibland när vi misslyckas med att nå våra mål känns det som att det beror på oss som personer. Kanske tycker vi att vi är lata. Hopplösa. Oförmögna att få saker gjorda.\n\nMen en av de vanligaste orsakerna till ouppnådda mål är ofta *bristande struktur*, snarare än personliga faktorer."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Som tur är kan vi lära oss **färdigheten** att sätta effektiva mål. Att ha tydligt formulerade mål hjälper oss att sträva mot det som är viktigt för oss.\n\n*\"Ett mål är en dröm med deadline\", Napoleon Hill.*"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Du kommer få lära dig att:\n\n* Sätta dina egna effektiva mål\n* Hur du kan nå dina mål"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "För att hjälpa dig bli proffs på att sätta mål kommer vi använda en modell som kallas för SMART. Vi börjar med att gå igenom modellen:\n\n* **S**pecifikt (vad, var)\n* **M**ätbart (hur mycket)\n* **A**ccepterat (varför)\n* **R**ealistiskt (kan jag)\n* **T**idsbegränsat (när)"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Specifikt (vad/var):**\n\nFörsta steget är att sätta ett mål som är *specifikt*. Försök formulera ditt mål som ett beteende, vad du *vill* *göra* snarare än vad du vill nå för resultat eller *inte vill göra*. Specifika, tydliga mål svarar på frågorna *vad* och *var*.\n\n* Bra: Meditera i sängen, fem minuter varje dag.\n* Undvik: Att vara för allmän, exempelvis: Bli lugnare."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Uppfattat"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Mätbart (hur mycket/många/länge):**\n\nSteg två är att se till att vårt mål är *mätbart*. Det hjälper oss utvärdera hur det går. Om vi rör oss i rätt riktning eller inte. \n\nMätbara mål svarar på frågor *hur mycket*, *hur många*, och/eller *hur länge*.\n\n* Bra: Meditera fem minuter varje dag.\n* Undvik: Meditera oftare."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Accepterat (varför):**\n\nSteg tre är att ta reda på om vårt mål är *accepterat*. Vi sätter ibland mål utifrån vad *andra* vill. Men det är viktigt att sätta mål som är viktiga för oss själva — inte bara för att göra andra nöjda. Accepterade mål svarar på frågan om *varför* vi vill göra någonting.\n\n* Bra: Jag vill meditera eftersom det är viktigt för mig att komma ned i varv.\n* Undvik: Jag ska meditera för att min vän sa att jag måste göra det."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "alias": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Realistiskt (kan jag):**\n\nSteg fyra handlar om att avgöra om vårt mål är *realistiskt,* om det *går* att uppnå. Fråga dig själv: Med tanke på hur mitt liv ser ut just nu, är det realistiskt att uppnå det här målet? Om svaret är nej — finns det ett mindre steg du kan börja med att ta?\n\n* Bra: Jag har tid att avsätta fem minuter varje dag för att meditera.\n* Undvik: Jag ska meditera fyra timmar om dagen."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Gå vidare"
+          },
+          {
+            "type": "defaultSection",
+            "id": "10",
+            "alias": "10",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Tidsbegränsat (när, tills när):**\n\nSista steget handlar om att sätta en *deadline.* Att svara på frågor som: *när, hur många gånger i veckan, vilken tid*, *hur länge,* och *tills när*. Ibland finns det en naturlig deadline (exempelvis provet är den 15 maj), men om inte — bestäm din egen. Börja hellre med en tidsgräns på några veckor än med mål som slutar om flera år.\n\n* Bra: Meditera varje dag 17.00-17.05 under resten av månaden.\n* Undvik: Meditera någon gång under dagen tills jag känner att jag inte behöver det längre."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Sätt eget mål"
+          },
+          {
+            "type": "defaultSection",
+            "id": "11",
+            "alias": "11",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Kom ihåg:\n\n* **S** står för **“Specifikt”**: vad och var\n* **M** står för **“Mätbart”**: hur länge/mycket/många\n* **A** står för **“Accepterat”**: varför\n* **R** står för **“Realistiskt”**: kan jag\n* **T** står för **“Tidsbegränsat”**: när, tills när"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "12",
+            "alias": "12",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Sätt ett eget mål**\\\nTa fram papper och penna. Använd SMART-modellen och skriv ned ett mål där du vill ändra eller jobba mot något som är viktigt för dig. \\\n\\\nDet kan handla om att träffa vänner eller familj, lära dig någonting nytt, träning eller vad du vill."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "a8beb8be-6794-4073-ae20-fe34e91240f1",
+            "alias": "13",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!**\n\nDu har nu lärt dig att sätta SMARTa mål. Att sätta mål som är specifika, mätbara, accepterade, realistiska och tidsbegränsade kan hjälpa dig leva ett mer meningsfullt liv och känna dig mer nöjd med dig själv.\n\nSätt gärna en påminnelse i din kalender eller i telefonen om en vecka eller två för att utvärdera hur det gått med målet du precis satte."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Avsluta"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "21e26c02-50eb-4971-9183-9847c639aaee",
+            "question": "Vad har du lärt dig från den här övningen?",
+            "exampleText": "Att sätta realistiska och specifika mål. ",
+            "alias": "Sharing wall"
+          }
+        ],
+        "name": "Sätt smarta mål",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Objetivos SMART",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/set_smart_goals_easmcn.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "c14f0802-3acd-46af-860b-4d8b54c82004",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisesetsmartgoals",
+        "alias": "Exercise setsmartgoals",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/set_smart_goals_easmcn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Objetivos**\n\nExistem muitos motivos para definir objetivos. E provavelmente ainda mais razões pelas quais muitas vezes não os conseguimos alcançar.\n\nA maioria de nós aprende que é importante ter objetivos na vida. Mas raramente aprendemos **como** definir objetivos eficazes."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Por vezes, quando deixamos de alcançar os nossos objetivos, atribuímos esse falhanço a fatores pessoais. Talvez sejamos preguiçosos. Desistimos e sentimos que somos incapazes de agir de forma a alcança-los.\n\nMas, ao invés dos fatores pessoais, um dos motivos mais comuns para não atingir os objetivos é a **falta de uma estrutura,** em particular, da sua definição."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Felizmente, definir objetivos eficazes é uma **competência** que podemos aprender. Ter objetivos claramente definidas ajuda-nos a procurar as coisas que são importantes para nós.\n\n*\"Um objetivo é um sonho com um prazo\", Napoleon Hill.*"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Vais aprender a:\n\n* Definir os teus próprios objetivos concretos\n* Como alcançar esses objetivos"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Para te tornares um(a) mestre na definição de objetivos, usaremos um modelo chamado SMART. Vamos analisar as suas etapas:\n\n **S**pecific - Específico (o quê/onde)\n\n **M**easurable - Mensurável (quanto)\n\n **A**ccepted – Aceite (porquê)\n\n **R**ealistic - Realista (alcançável)\n\n **T**ime framed – Limitado no tempo (quando, até quando)"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Specific - Específico (o quê/onde):** \n\nO primeiro passo é definir um objetivo que seja *específico*. Tenta enquadrar o teu objetivo em termos do que *gostarias de fazer*, em vez do que *não queres fazer*. Objetivos específicos e claros respondem às perguntas: *o quê* e *onde* .\n\nBom: Medita 5 minutos, todos os dias, na cama.\n\nEvita: Ser muito genérico; por exemplo: Acalmar."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Compreendi"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Measurable - Mensurável (quanto):**\n\nA segunda etapa é garantir que o nosso objetivo é *mensurável*. Isto vai ajudar-nos a avaliar como as coisas estão a correr. Independentemente de estarmos na direção certa.\n\nObjetivos mensuráveis respondem a perguntas como *quanto* e/ou *por quanto tempo.*\n\nBom: Medita 15 minutos todos os dias.\n\nEvita: Medita mais."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Accepted - Aceite (porquê):**\n\nO terceiro passo é descobrir se o nosso objetivo é *aceite* por nós. Às vezes, definimos objetivos com base no que *as outras pessoas* desejam. Mas é importante definir objetivos que sejam importantes para *nós* - *não* apenas para agradar aos outros. Assim, os objetivos aceites responderão à pergunta do *porquê* querermos fazer alguma coisa.\n\nBom: Eu quero meditar porque é importante para mim ser capaz de me acalmar.\n\nEvita: Vou meditar porque um/a amigo/a me disse que o devo fazer."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "alias": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Realistic - Realista (alcançável):**\n\nO quarto passo é decidir se o nosso objetivo é *realista*, se pode ser alcançado. Pergunta a ti mesma/o: Dadas todas as outras circunstâncias atuais da minha vida, posso conseguir isto?\n\nSe a resposta for não – existe um passo mais pequeno pelo qual poderias começar?\n\nBom: Tenho tempo para reservar 5 minutos todos os dias para meditar.\n\nEvita: Vou meditar quatro horas por dia."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "10",
+            "alias": "10",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Time framed – Limitado no tempo (quando, até quando):**\n\nA última etapa é basicamente definir um *prazo*. Para ajudar, podemos fazer perguntas como *quando; quantas* vezes por semana*, a que horas* do dia, por *quanto tempo* e *até quando*. Por vezes, já há um prazo natural (ou seja, o exame é dia 15 de dezembro), mas se não houver - define um. Começa com um limite de algumas semanas, em vez de alguns anos.\n\nBom: Meditar todos os dias das 17h00 às 17h05 durante o resto do mês.\n\nEvita: Meditar em algum momento durante o dia até sentir que não preciso mais."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Definir o meu objetivo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "11",
+            "alias": "11",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Relembrar:**\n\n* **S** significa **“Specific - Específico”**: o quê e onde\n* **M** significa **“Measurable - Mensurável”**: quanto \n* **A** significa **“Accepted - Aceite”**: porquê\n* **R** significa **“Realistic - Realista”**: alcançável\n* **T** significa **“Time framed - Limitado no tempo”**: quando, até quando"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "defaultSection",
+            "id": "12",
+            "alias": "12",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Define o teu próprio objetivo**\n\nPega num papel e caneta. Usando o modelo SMART, escreve **um** objetivo que tenhas para uma área da tua vida em que desejas fazer uma mudança ou trabalhar em direção a algo que é importante para ti.\n\nPode ser acerca de teres mais tempo para os teus amigos, teres mais tempo livre, estares com a família, fazeres exercício, aprenderes uma competência nova ou qualquer outra coisa que seja importante para ti."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "927b26b4-cd76-46b2-a9e7-8d0875a40a28",
+            "alias": "13",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nAprendeste a definir objetivos SMART. Definir objetivos específicos, mensuráveis, aceites, realistas e limitados no tempo vai ajudar-te a ter uma vida com mais significado e a sentires-te mais satisfeita/o.\n\nSente-te à vontade para definir um lembrete no teu telefone ou calendário daqui a uma ou duas semanas para acompanhares o objetivo que acabaste de definir."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "7357d79e-8316-41aa-ae16-69772fcc4702",
+            "alias": "Sharing wall",
+            "question": "O que aprendeste com este exercício?",
+            "exampleText": "Que os meus objetivos costumam ser muito vagos. Preciso de começar a estabelecer objetivos mais específicos."
+          }
+        ],
+        "name": "Objetivos SMART",
+        "type": "station"
+      }
+    ]
+  }
+}

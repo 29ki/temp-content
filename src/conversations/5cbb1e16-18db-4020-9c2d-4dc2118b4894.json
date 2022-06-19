@@ -1,0 +1,36 @@
+{
+  "en": {
+    "id": "5cbb1e16-18db-4020-9c2d-4dc2118b4894",
+    "alias": "Stress test sharing wall",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "110f8c04-a581-4e94-b67b-4167ca980ff4",
+        "alias": "Stress test sharing wall q",
+        "question": "What thoughts and feelings showed up when you got your result?",
+        "exampleText": "Shame, anxiety and also the urge to do something. Can't go on like this."
+      }
+    ],
+    "root": "110f8c04-a581-4e94-b67b-4167ca980ff4"
+  },
+  "sv": {
+    "id": "5cbb1e16-18db-4020-9c2d-4dc2118b4894",
+    "alias": "Stress test sharing wall",
+    "root": "110f8c04-a581-4e94-b67b-4167ca980ff4",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "110f8c04-a581-4e94-b67b-4167ca980ff4",
+        "alias": "Stress test sharing wall q",
+        "question": "Vilka tankar och känslor dök upp i dig när du såg ditt resultat?",
+        "exampleText": "Jag skäms. Hur hamnade jag här? Fick ångest och känner att jag inte kan fortsätta så här. "
+      }
+    ]
+  },
+  "pt": {
+    "id": "5cbb1e16-18db-4020-9c2d-4dc2118b4894",
+    "alias": "Stress test sharing wall"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "en": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 2",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Smart Goals",
+        "content": "We are often taught that it’s good to have goals in life. Unfortunately, we’re rarely taught **how** to set them.\n\nThe next exercise is designed to help you become a goal-setting master by using a SMART method. SMART stands for the following:\n\n* **S** stands for **Specific**: Your goal needs to capture what you want to achieve\n* **M** stands for **Measurable**: Setting a bar helps you know when you’ve reached your goal\n* **A** stands for **Attainable**: Your goal needs to be realistic and take into account your circumstances\n* **R** stands for **Relevant**: Make sure your goal is relevant to you\n* **T** stands for **Time-bound**: Setting a time limit allows you to better manage your time and priorities.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 2",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "SMART:a mål",
+        "content": "Ibland får vi höra att det är bra att ha mål i livet. Tyvärr lär vi oss sällan **hur** vi faktiskt sätter bra mål.\n\nMen det finns några principer som i forskning har visat sig vara extra bra när det kommer till att sätta mål, de sammanfattas i SMART-metoden. Det står för:\n\n* **S** = **Specifikt:** Vad ska du uppnå? Ett mål bör vara ett beteendemål: hellre \"gå och träna\" än \"gå ner fem kilo\".\n* **M** = **Mätbart**: Hur länge, hur mycket, hur ofta? Exempel: \"Gå och träna i 30 minuter två ggr i veckan\".\n* **A** = **Accepterat**: Varför är det här målet viktigt för dig?\n* **R** = **Realistiskt**: Är målet möjligt att uppnå, givet din nuvarande situation? \n* **T** = **Tidsbegränsat**: När, eller under vilken tidsperiod ska du göra det? Exempel: \"Gå och träna 30 min, 2 ggr i veckan (tis + tors) i en månad. Sedan utvärdera.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 2",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Objetivos SMART",
+        "content": "Somos muitas vezes ensinados que é bom ter objetivos na vida, mas não nos ensinam como os estabelecer.\n\nPara te ajudar a ser um/a mestre a estabelecer objetivos, o próximo exercício é baseado numa técnica chamada **objetivos SMART**:\n\n* **S** significa **“*Specific* - Específico”**: Sê clara/o e específica/o na definição do que pretendes alcançar.\n* **M** significa **“*Measurable* - Mensurável”**: Define o momento em que saberás que atingiste o teu objetivo.\n* **A** significa **“*Attainable* - Atingível”**: Garante que tens uma probabilidade realista de atingir o objetivo.\n* **R** significa **“*Relevant* - Relevante”**: Estabelece objetivos que sejam importantes para ti. \n* **T** significa **“*Time-bound* - Limitado no tempo”**: Estabelece um limite temporal que define por quanto tempo te vais concentrar no objetivo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "en": {
+    "id": "d133719e-c311-49c0-89c3-d141c7f74d1f",
+    "alias": "Leadership-Interactforapurpose-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a18676d4-779a-4e9b-b480-90ea5a374757",
+        "alias": "Intro",
+        "content": "People who **socially interact for a purpose (SIP)** perform better at work, are more likely to be promoted, better motivate their colleagues, and feel more satisfied.\n\nWhen leading, these skills will better equip you to pursue purpose and achieve success by enhancing your ability to connect with others and build rich networks that provide you with the means to lead in a way that makes sense and matters to you.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's get started!",
+            "sectionId": "1b70d130-af7b-4137-959b-496857a8e933"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b70d130-af7b-4137-959b-496857a8e933",
+        "alias": "In this lesson",
+        "content": "In this lesson you’ll learn how to socially interact for a purpose by practicing the following skills:\n\n* Interpersonal influence\n* Social astuteness\n* Showing sincerity\n* Networking",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce"
+          }
+        ],
+        "title": "In this lesson"
+      }
+    ],
+    "root": "a18676d4-779a-4e9b-b480-90ea5a374757"
+  },
+  "sv": {
+    "id": "d133719e-c311-49c0-89c3-d141c7f74d1f",
+    "alias": "Leadership-Interactforapurpose-1"
+  },
+  "pt": {
+    "id": "d133719e-c311-49c0-89c3-d141c7f74d1f",
+    "alias": "Leadership-Interactforapurpose-1",
+    "root": "a18676d4-779a-4e9b-b480-90ea5a374757",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "a18676d4-779a-4e9b-b480-90ea5a374757",
+        "alias": "Intro",
+        "content": "Pessoas que **interagem socialmente com um propósito (SIP em inglês)** têm melhor desempenho no trabalho, são mais propensas a serem promovidas, motivam melhor os seus colegas e sentem-se mais realizadas.\n\nAo liderar, essas competências vão ajudar-te a seguires um propósito e alcançares o sucesso, aumentando a tua capacidade de te conectares com outras pessoas e construir redes ricas que te fornecem os meios para liderares de uma forma que faça sentido e seja importante para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos começar!",
+            "sectionId": "1b70d130-af7b-4137-959b-496857a8e933"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b70d130-af7b-4137-959b-496857a8e933",
+        "alias": "In this lesson",
+        "content": "Nesta lição, vais aprender a interagir socialmente com um propósito, praticando as seguintes competências:\n\n* Influência interpessoal\n* Astúcia social\n* Demonstrar sinceridade\n* *Networking*",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce"
+          }
+        ],
+        "title": "Nesta lição "
+      }
+    ]
+  }
+}

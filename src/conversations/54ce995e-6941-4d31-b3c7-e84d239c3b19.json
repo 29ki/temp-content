@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "54ce995e-6941-4d31-b3c7-e84d239c3b19",
+    "alias": "Leadership-purposeanddirection-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "060fa102-2174-426e-938b-6dceefb51f74",
+        "alias": "Does it fit?",
+        "title": "Does it fit?",
+        "content": "Whilst direction and purpose are distinct, they **must fit together** as well as Cinderella and the glass slipper. \n\n* Your direction statement paints a picture of a possible future\n* Your purpose states the reason why your organization exists in the first place and tends to be more static of the two",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "f29d2207-d700-4e11-8806-55d38136d4df"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f29d2207-d700-4e11-8806-55d38136d4df",
+        "alias": "Why a good fit matters?",
+        "title": "Why a good fit matters?",
+        "content": "One of the most crucial functions of the direction statement is that it allows you, your colleagues, and your organization **to make sense** of the situation and what you are pursing. \n\nIt makes the **objectives** much **clearer** for everyone involved and **empowers people** to decide what tasks and goals they can engage in to pursue your organization's purpose.\n\nThis also helps people **better manage** the available resources, be it financial, human or assets.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Let's practice this",
+            "conversationId": "527a2664-b1ab-4800-b708-d0f43ce8d4c7"
+          }
+        ]
+      }
+    ],
+    "root": "060fa102-2174-426e-938b-6dceefb51f74"
+  },
+  "sv": {
+    "id": "54ce995e-6941-4d31-b3c7-e84d239c3b19",
+    "alias": "Leadership-purposeanddirection-3"
+  },
+  "pt": {
+    "id": "54ce995e-6941-4d31-b3c7-e84d239c3b19",
+    "alias": "Leadership-purposeanddirection-3",
+    "root": "060fa102-2174-426e-938b-6dceefb51f74",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "060fa102-2174-426e-938b-6dceefb51f74",
+        "alias": "Does it fit?",
+        "title": "Alinham-se?",
+        "content": "Embora a direção e o propósito sejam distintos, devem **encaixar tão bem** como a Cinderela e o sapatinho de cristal.\n\n* A **definição** de direção representa a imagem de um futuro possível.\n* O **propósito** anuncia a razão pela qual a tua organização existe e foi criada. De facto, o propósito tende a ser a mais estática dos dois conceitos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem-me mais ",
+            "sectionId": "f29d2207-d700-4e11-8806-55d38136d4df"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f29d2207-d700-4e11-8806-55d38136d4df",
+        "alias": "Why a good fit matters?",
+        "title": "Por que é que um bom encaixe é importante?",
+        "content": "Uma das funções mais importantes da definição de direção é permitir que tu, os teus colegas e a tua organização **entendam** a situação e aquilo que pretendes.\n\nIsso torna os **objetivos** muito **mais claros** para todos os envolvidos e **capacita as pessoas** para decidir em que tarefas e objetivos podem envolver-se para ajudar a cumprir o propósito da tua organização.\n\nIsso também ajuda as pessoas a **gerir melhor** os recursos disponíveis, sejam financeiros, humanos ou patrimoniais.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Vamos praticar ",
+            "conversationId": "527a2664-b1ab-4800-b708-d0f43ce8d4c7"
+          }
+        ]
+      }
+    ]
+  }
+}

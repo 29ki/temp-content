@@ -1,20 +1,19 @@
 {
   "en": {
-    "type": "lesson",
     "id": "95bcceaf-37fe-4414-84a3-694991aac799",
-    "alias": "YA Stress - Hur du fortsätter hantera stress 2",
+    "alias": "Stress YA: How to continue managing stress 2",
     "root": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
-        "alias": "Fortsätt öva",
-        "title": "Fortsätt öva",
-        "content": "Att lära sig hantera stress är en förmåga vi kan jobba på resten av våra liv. Du har nu tagit dina första steg mot ett mindre stressigt liv, så att du istället har tid att göra sånt som är viktigt för dig och som du mår bra av.",
+        "alias": "Keep practicing",
+        "title": "Keep practicing",
+        "content": "You’ve now taken your **first steps** towards a less stressful life. Awesome work!\n\nLearning to deal with stress is a skill that we can develop for **the rest of our lives.**",
         "buttons": [
           {
             "component": "Button",
-            "content": "Okej",
+            "content": "Continue",
             "sectionId": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb"
           }
         ]
@@ -22,47 +21,73 @@
       {
         "type": "editorialWithImage",
         "id": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb",
-        "alias": "Övning",
-        "title": "Övning",
-        "content": "1. Bestäm två eller tre saker du lärt dig i den här utmaningen som du vill fortsätta med framöver. Skriv ned dina svar där bara du kan se dem. \n2. Sätt en påminnelse i mobilen eller skriv ned det vad du bestämt i din kalender för att påminna dig själv om vad du arbetar på, och när du ska göra det. Försök vara specifik:\n\n* Vad vill jag fortsätta med?\n* Varför är det viktigt för mig?\n* Hur ska jag göra det?\n* När ska jag öva?\n\n*Exempel: träffa en kompis en gång i månaden, träna två gånger i veckan, göra en fokusövning när jag blir stressad, använda mig av problemlösning i situationer där jag kan påverka problemet, tacka ja om någon bjuder med mig till en fest.*",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "content": "Write down your answers.\n\n1. Choose two or three **tools** that helps you deal with stress and that you'dlike to **keep** **practicing**.\n2. Try to be as **specific** as you can. Answer the questions below:\n\n* What do I want to continue with?\n* Why is it important to me?\n* How should I practice?\n* When should I practice?",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
-            "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
+            "content": "I'm done",
+            "sectionId": "007c5ca8-daaa-4672-92e6-4fee8f491da9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "007c5ca8-daaa-4672-92e6-4fee8f491da9",
+        "alias": "Exercise part 2",
+        "longDescription": "2. Put a **reminder** on your phone to remind yourself of what you're working on and when you're going to do it.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "ecba99aa-1ad7-455e-95a3-5a5fcf04611e"
           }
         ]
       },
       {
         "type": "editorialWithImage",
+        "id": "ecba99aa-1ad7-455e-95a3-5a5fcf04611e",
+        "content": "So, now you’ve made a plan for yourself. For what you want to continue working on, and what you need to do to get there. That’s great!\n\nWriting down specific behaviours towards long-term goals has taken you one step closer to achieving them.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "One last thing",
+            "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
+          }
+        ],
+        "alias": "Plan"
+      },
+      {
+        "type": "editorialWithImage",
         "id": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d",
-        "alias": "Grymt jobbat! ",
-        "title": "Grymt jobbat! ",
-        "content": "Du har verkligen gjort någonting fint för dig själv. Du kan alltid gå tillbaka till lektionerna eller hela kursen om du vill eller behöver det.",
+        "alias": "Great job!",
+        "title": "",
+        "content": "You're now finished the course **Deal with stress.** You’ve really done something nice for yourself!\n\nIn this lesson you've learned to take small steps towards goals, in the direction of something you think is important. \n\nYou can always revisit the course if you want or need to.",
         "buttons": [
           {
             "component": "LessonCompleteButton",
-            "content": "Avsluta"
+            "content": "Finish"
           }
         ]
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "95bcceaf-37fe-4414-84a3-694991aac799",
-    "alias": "YA Stress - Hur du fortsätter hantera stress 2",
+    "alias": "Stress YA: How to continue managing stress 2",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
         "alias": "Fortsätt öva",
         "title": "Fortsätt öva",
-        "content": "Att lära sig hantera stress är en förmåga vi kan jobba på resten av våra liv. Du har nu tagit dina första steg mot ett mindre stressigt liv, så att du istället har tid att göra sånt som är viktigt för dig och som du mår bra av.",
+        "content": "Du har nu tagit dina **första steg** mot ett mindre stressigt liv. Grymt jobbat!\n\nAtt lära sig hantera stress är en förmåga vi kan jobba på **resten av våra liv.**",
         "buttons": [
           {
             "component": "Button",
-            "content": "Okej",
+            "content": "Fortsätt",
             "sectionId": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb"
           }
         ]
@@ -72,21 +97,48 @@
         "id": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb",
         "alias": "Övning",
         "title": "Övning",
-        "content": "1. Bestäm två eller tre saker du lärt dig i den här utmaningen som du vill fortsätta med framöver. Skriv ned dina svar där bara du kan se dem. \n2. Sätt en påminnelse i mobilen eller skriv ned det vad du bestämt i din kalender för att påminna dig själv om vad du arbetar på, och när du ska göra det. Försök vara specifik:\n\n* Vad vill jag fortsätta med?\n* Varför är det viktigt för mig?\n* Hur ska jag göra det?\n* När ska jag öva?\n\n*Exempel: träffa en kompis en gång i månaden, träna två gånger i veckan, göra en fokusövning när jag blir stressad, använda mig av problemlösning i situationer där jag kan påverka problemet, tacka ja om någon bjuder med mig till en fest.*",
+        "content": "Skriv ned dina svar.\n\n1. Bestäm två eller tre **verktyg** som hjälper dig hantera stress och som du vill **fortsätta** **öva** på. \n2. Försök vara så **specifik** du kan. Svara på frågorna nedan:\n\n* Vad vill jag fortsätta med?\n* Varför är det viktigt för mig?\n* Hur ska jag öva?\n* När ska jag öva?",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Jag är klar",
             "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
           }
         ]
       },
       {
         "type": "editorialWithImage",
+        "id": "6326dc61-53da-4ef7-965c-bedd6aa050f7",
+        "alias": "Övning 2",
+        "content": "2. Sätt en **påminnelse** i mobilen eller skriv ned det vad du bestämt i din kalender för att påminna dig själv om vad du arbetar på, och när du ska göra det. ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "ce0ab9d6-fb34-418d-9658-865e7c917d0a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce0ab9d6-fb34-418d-9658-865e7c917d0a",
+        "content": "Så, nu har du skapat en plan för dig själv. En plan för vad du vill fortsätta jobba på och vad du behöver göra för att komma dit. Grymt jobbat! \n\nAtt skriva ned konkreta handlingar som hjälper dig nå dina långsiktiga mål har tagit dig ett steg närmare mot att uppnå dem.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "En sista sak",
+            "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
+          }
+        ],
+        "alias": "Plan"
+      },
+      {
+        "type": "editorialWithImage",
         "id": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d",
-        "alias": "Grymt jobbat! ",
-        "title": "Grymt jobbat! ",
-        "content": "Du har verkligen gjort någonting fint för dig själv. Du kan alltid gå tillbaka till lektionerna eller hela kursen om du vill eller behöver det.",
+        "alias": "Bra jobbat! ",
+        "title": "",
+        "content": "Du är nu färdig med kursen **Hantera stress.** Du har verkligen gjort någonting fint för dig själv!\n\nI den här lektionen har du lärt dig att ta små steg mot dina mål, i riktning mot något du tycker är viktigt.\n\nKom ihåg att du alltid kan komma tillbaka till kursen om du vill eller behöver det.",
         "buttons": [
           {
             "component": "LessonCompleteButton",
@@ -96,5 +148,115 @@
       }
     ],
     "root": "db657c66-3dfd-46d8-9ec1-7e875945e5db"
+  },
+  "pt": {
+    "id": "95bcceaf-37fe-4414-84a3-694991aac799",
+    "alias": "Stress YA: How to continue managing stress 2",
+    "root": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "db657c66-3dfd-46d8-9ec1-7e875945e5db",
+        "alias": "Continua a praticar ",
+        "title": "Continua a praticar ",
+        "content": "Já deste os teus **primeiros passos** em direção a uma vida menos stressante. Ótimo trabalho!\n\nAprender a lidar com o stress é uma competência que podemos desenvolver para **o resto das nossas vidas**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a5eae5dc-aacb-404d-acef-ebfcc5af37eb",
+        "alias": "Exercício ",
+        "title": "Exercício ",
+        "content": "Anota as tuas respostas.\n\n1. Escolhe duas ou três **ferramentas** que te ajudem a lidar com o stress e que gostarias de **continuar** a **praticar**.\n2. Tenta ser o mais **específica/o** possível. Responde às questões abaixo:\n\n* Com o que quero continuar?\n* Por que é importante para mim?\n* Como devo praticar?\n* Quando devo praticar?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Já fiz",
+            "sectionId": "007c5ca8-daaa-4672-92e6-4fee8f491da9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "007c5ca8-daaa-4672-92e6-4fee8f491da9",
+        "alias": "Exercício parte 2",
+        "longDescription": "2. Coloca um **lembrete** no teu telefone para te lembrares do que estás a praticar e quando vais fazê-lo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Feito",
+            "sectionId": "ecba99aa-1ad7-455e-95a3-5a5fcf04611e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ecba99aa-1ad7-455e-95a3-5a5fcf04611e",
+        "content": "Então, agora traçaste um plano para ti mesma/o. Para o que queres continuar a praticar e o que tens de fazer para chegar lá. Isso é ótimo!\n\nAnotar comportamentos específicos em relação a objetivos de longo prazo levou-te um passo mais perto de alcançá-los.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Uma última coisa",
+            "sectionId": "5a2a5f3e-c269-4543-909b-010c4187068d"
+          }
+        ],
+        "alias": "Plano"
+      },
+      {
+        "type": "defaultSection",
+        "id": "5a2a5f3e-c269-4543-909b-010c4187068d",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Zicky Té",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361423/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Videos/Zicky_T%C3%A9_-_Lidar_Com_o_Stress_-_Li%C3%A7%C3%A3o_5_Lidar_com_o_Stress_e_continuar_no_caminho_mk60le.mp4",
+                "duration": 65,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366644/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Photos/Li%C3%A7%C3%A3o_5_-_lidar_com_o_stress_e_continuar_no_caminho_-_video_1_oaxxs1.jpg"
+              },
+              {
+                "title": "Rita Rocha",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360856/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Videos/Rita_Rocha_-_Lidar_com_o_Stress_L5V1_im2ibi.mp4",
+                "duration": 74,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366774/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Photos/Rita_Rocha_-_Lidar_com_o_Stress_e_continuar_no_caminho_hqzrqa.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "variant": "default",
+                "content": "Continuar",
+                "sectionId": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "98cb9f62-1565-48b9-acbe-ee093e9a2a3d",
+        "alias": "Bom trabalho!",
+        "title": "",
+        "content": "Terminaste o curso **Lidar com o stress.** Fizeste algo de realmente bom por ti mesma/o!\n\nNesta lição, aprendeste a dar pequenos passos em direção a metas para atingir algo que achas importante.\n\nPodes voltar ao curso sempre que quiseres ou precisares.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Acabei"
+          }
+        ]
+      }
+    ]
   }
 }

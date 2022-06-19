@@ -1,0 +1,381 @@
+{
+  "en": {
+    "id": "U3Y8zfaZbq32NKw7VyKFkx",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Turning values into action",
+        "title": "Turning values into action",
+        "content": "Creating beautiful values that reflect what’s important to us in life is a first step, but what use are values if we're not living by them? This lesson is about doing just that. \n\nHaving clearly defined goals is how we translate our values into action. When our goals are backed up by our values, we have way more motivation to reach them, no matter how hard they may be.\n\n### Today’s lesson has two parts:\n\n* Setting clear goals\n* Creating daily actions\n\n### You'll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Smart Goals",
+        "title": "Smart Goals",
+        "content": "We are often taught that it's good to have goals in life without being taught how to set them.\n\nTo help you become a goal-setting master, the next exercise is based on a **SMART goal** technique, in which: \n\n* **S** stands for **“Specific”**: Be clear and specific in formulating what you want to achieve. \n* **M** stands for **“Measurable”**: Set a point at which you'll know you’ve reached your goal. \n* **A** stands for **“Attainable”**: Make sure that you have a realistic chance of reaching your goal.\n* **R** stands for **“Relevant”**: Set goals that matter to you. \n* **T** stands for **“Time-bound”**: Set a time limit to determine how long you want to focus on your goal.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Turning values into action",
+        "title": "Turning values into action",
+        "content": "Now it is time to use the SMART goals technique and turn one of your values into action.\n\nFor example, if your value is: *“Continue to develop professionally”*, then a SMART goal could be *\"Complete the yoga flow course before Christmas”.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Your values in action",
+        "title": "Your values in action",
+        "time": "5-10 min",
+        "longDescription": "\n\nPick **one** value that you want to focus on over the coming weeks. \n\n* Try to create a goal in line with this value.\n* Have a go at revising your goal into a **SMART goal** (specific, measurable, attainable, realistic and timely).\n* Write down your goal. For example: *\"The value I want to pursue is to continue developing my yoga skills. My goal is to complete the Level 2 yoga flow course before Christmas\".*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Towards your goal through daily action",
+        "title": "Towards your goal through daily action",
+        "content": "Daily actions make it easier for us to succeed at something. However, changing behavior is hard and sometimes we feel like we’re failing at even the most simple things. \n\nWhen this happens, it’s important not to blame yourself. Instead, look at how you can create simpler daily actions which are easier to accomplish.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Taking action ",
+        "title": "Taking action ",
+        "time": "5-10 min",
+        "longDescription": "Are there any small actions you can take right now towards your goal?\n\n* Brainstorm a list of actions you can take towards your goal.\n* Choose **one** action you can perform today and another **one** tomorrow.\n* Write down what you’re going to do.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "You've now completed **Making it happen.** \n\nThe actions we take each day is what makes our values real. And with the right tools such as SMART goals, you too can align your life with your values.\n\nAs the Chinese proverb says, *\"the journey of a thousand miles begins with a single step\".* Taking small steps will make a mountain seem like a gravel road. It’s easier to start with just one value. As you get more used to acting in line with it, you can add another one and so on.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing **Making it happen.**\n\nYou are now ready to share.\n\n1. Which goal are you working towards?\n2. What actions are you taking to make it happen?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Making it happen"
+  },
+  "sv": {
+    "id": "U3Y8zfaZbq32NKw7VyKFkx",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Turning values into action",
+        "title": "Turning values into action",
+        "content": "Creating beautiful values that reflect what’s important to us in life is a first step, but what use are values if we're not living by them? This lesson is about doing just that. \n\nHaving clearly defined goals is how we translate our values into action. When our goals are backed up by our values, we have way more motivation to reach them, no matter how hard they may be.\n\n### Today’s lesson has two parts:\n\n* Setting clear goals\n* Creating daily actions\n\n### You'll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Smart Goals",
+        "title": "Smart Goals",
+        "content": "We are often taught that it's good to have goals in life without being taught how to set them.\n\nTo help you become a goal-setting master, the next exercise is based on a **SMART goal** technique, in which: \n\n* **S** stands for **“Specific”**: Be clear and specific in formulating what you want to achieve. \n* **M** stands for **“Measurable”**: Set a point at which you'll know you’ve reached your goal. \n* **A** stands for **“Attainable”**: Make sure that you have a realistic chance of reaching your goal.\n* **R** stands for **“Relevant”**: Set goals that matter to you. \n* **T** stands for **“Time-bound”**: Set a time limit to determine how long you want to focus on your goal.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Turning values into action",
+        "title": "Turning values into action",
+        "content": "Now it is time to use the SMART goals technique and turn one of your values into action.\n\nFor example, if your value is: *“Continue to develop professionally”*, then a SMART goal could be *\"Complete the yoga flow course before Christmas”.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Your values in action",
+        "title": "Your values in action",
+        "time": "5-10 min",
+        "longDescription": "\n\nPick **one** value that you want to focus on over the coming weeks. \n\n* Try to create a goal in line with this value.\n* Have a go at revising your goal into a **SMART goal** (specific, measurable, attainable, realistic and timely).\n* Write down your goal. For example: *\"The value I want to pursue is to continue developing my yoga skills. My goal is to complete the Level 2 yoga flow course before Christmas\".*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Towards your goal through daily action",
+        "title": "Towards your goal through daily action",
+        "content": "Daily actions make it easier for us to succeed at something. However, changing behavior is hard and sometimes we feel like we’re failing at even the most simple things. \n\nWhen this happens, it’s important not to blame yourself. Instead, look at how you can create simpler daily actions which are easier to accomplish.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Taking action ",
+        "title": "Taking action ",
+        "time": "5-10 min",
+        "longDescription": "Are there any small actions you can take right now towards your goal?\n\n* Brainstorm a list of actions you can take towards your goal.\n* Choose **one** action you can perform today and another **one** tomorrow.\n* Write down what you’re going to do.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "You've now completed **Making it happen.** \n\nThe actions we take each day is what makes our values real. And with the right tools such as SMART goals, you too can align your life with your values.\n\nAs the Chinese proverb says, *\"the journey of a thousand miles begins with a single step\".* Taking small steps will make a mountain seem like a gravel road. It’s easier to start with just one value. As you get more used to acting in line with it, you can add another one and so on.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing **Making it happen.**\n\nYou are now ready to share.\n\n1. Which goal are you working towards?\n2. What actions are you taking to make it happen?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "U3Y8zfaZbq32NKw7VyKFkx",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Transformar os valores em ação",
+        "title": "Transformar os valores em ação",
+        "content": "Criar valores maravilhosos que reflitam o que é importante para nós na vida é o primeiro passo, mas para que servem os valores se não os vivermos? Esta lição é sobre como fazer exatamente isso.\n\nAo termos objetivos claramente definidos, convertemos os nossos valores em ação. Quando os nossos objetivos são suportados pelos nossos valores, temos muito mais motivação para os alcançar, não importa o quão difíceis eles possam ser.\n\n### A lição de hoje tem duas partes:\n\n* Estabelecer objetivos claros\n* Criar ações diárias\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Os objetivos SMART",
+        "title": "Os objetivos SMART",
+        "content": "Somos muitas vezes ensinados que é bom ter objetivos na vida, mas não nos ensinam como os estabelecer.\n\nPara te ajudar a ser um mestre a estabelecer objetivos, o próximo exercício é baseado numa técnica chamada de **objetivo SMART**:\n\n* **S** significa **“Specific - Específico”**: Sê clara/o e específica/o na formulação do que pretendes alcançar. \n* **M** significa **“Measurable - Mensurável”**: Define o momento em que saberás que atingiste o teu objetivo. \n* **A** significa **“Attainable - Atingível”**: Garante que tens uma possibilidade realista de atingir o objetivo.\n* **R** significa **“Relevant - Relevante”**: Estabelece objetivos que sejam importantes para ti. \n* **T** significa **“Time-bound - Limitado no tempo”**: Estabelece um limite temporal que define por quanto tempo te vais concentrar no objetivo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Transformar os valores em ação",
+        "title": "Transformar os valores em ação",
+        "content": "Está na altura de utilizares a técnica SMART para transformares os teus valores em ação.\n\nPor exemplo, se o teu valor é *“Continuar a evoluir profissionalmente”*, então um objetivo SMART poderia ser *\"Concluir o curso de Ioga antes do Natal”.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Os teus valores em ação",
+        "title": "Os teus valores em ação",
+        "time": "5-10 min",
+        "longDescription": "Escolhe **um** valor em que te queres focar nas próximas semanas. \n\n* Tenta criar um objetivo em linha com este valor.\n* Tenta rever o teu objetivo de acordo com a técnica **SMART** (Específico, Mensurável, Atingível, Relevante e Limitado no tempo).\n* Escreve o teu objetivo. Por exemplo: *\"O valor que quero seguir é continuar a desenvolver as minhas técnicas de Ioga. O meu objetivo é completar o nível 2 do curso de Ioga antes do Natal\".*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "As ações diárias que te levam ao teu objetivo",
+        "title": "As ações diárias que te levam ao teu objetivo",
+        "content": "As ações diárias tornam mais fácil sermos bem-sucedidos. No entanto, mudar o nosso comportamento é difícil e às vezes sentimos que estamos a falhar até nas coisas mais simples.\n\nQuando isto acontece, é importante não te culpares. Em vez disso, vê como podes criar ações diárias mais simples e mais fáceis de realizar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Agir",
+        "title": "Agir",
+        "time": "5-10 min",
+        "longDescription": "Existe alguma ação pequena que possas fazer imediatamente para atingires o teu objetivo?\n\n* Pensa uma lista de ações que podes adotar para atingir o teu objetivo.\n* Escolhe **uma** ação que possas fazer hoje e **uma** outra ação para fazeres amanhã.\n* Escreve o que vais fazer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "alias": "Acordar para o mundo",
+        "title": "Acordar para o mundo",
+        "description": "\"Era bonito cada um fazer a sua parte e juntos fazermos um esforço coletivo para as coisas serem levadas mais a sério, com mais responsabilidade. Um homem não tem o direito de destruir outro homem, como hoje, ainda, tantas vezes acontece.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020239/29k%20FJN/Courses/Values/Thumbnails%209:16/L8DOINGGOOD_lmw4b1.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020651/29k%20FJN/Courses/Values/Videos%209:16/L8_Values_V1_-_9x16_xnvgyf.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares o **Fazer acontecer**. \n\nAs ações que realizamos diariamente tornam os nossos valores reais. E, com as ferramentas certas, como os objetivos SMART, podes alinhar a tua vida com os teus valores.\n\nComo diz o provérbio chinês \"*Uma caminhada de mil léguas começa sempre com o  primeiro passo*\". Dar pequenos passos fará com que uma montanha pareça uma estrada plana. É mais fácil começar com um valor apenas. À medida que te habituas a agir de acordo com ele, podes adicionar outro e assim por diante.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por concluíres o **Fazer acontecer**.\n\nAgora já podes partilhar.\n\n1. Para que objetivo estás a trabalhar?\n2. Que ações estás a aplicar para o fazer acontecer?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - Making it happen"
+  }
+}

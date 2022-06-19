@@ -1,0 +1,59 @@
+{
+  "en": {
+    "title": "More about groups",
+    "whatGroup": {
+      "title": "What is a group?",
+      "description": ""
+    },
+    "whatSharing": {
+      "title": "What is a sharing?",
+      "description": ""
+    },
+    "whatPrinciples": {
+      "title": "What are the group principles?",
+      "description": ""
+    },
+    "whatScience": {
+      "title": "The science behind sharing",
+      "description": ""
+    }
+  },
+  "sv": {
+    "title": "Mer om grupper",
+    "whatGroup": {
+      "title": "Vad är en grupp?",
+      "description": ""
+    },
+    "whatSharing": {
+      "title": "Vad är en delning?",
+      "description": ""
+    },
+    "whatPrinciples": {
+      "title": "Vilka är gruppreglerna?",
+      "description": ""
+    },
+    "whatScience": {
+      "title": "Vetenskapen om att dela",
+      "description": ""
+    }
+  },
+  "pt": {
+    "title": "Mais acerca dos grupos",
+    "whatGroup": {
+      "title": "O que é um grupo?",
+      "description": ""
+    },
+    "whatSharing": {
+      "title": "O que é uma partilha?",
+      "description": ""
+    },
+    "whatPrinciples": {
+      "title": "Quais são os princípios do grupo?",
+      "description": ""
+    },
+    "whatScience": {
+      "title": "O que diz a ciência?",
+      "description": ""
+    }
+  }
+}

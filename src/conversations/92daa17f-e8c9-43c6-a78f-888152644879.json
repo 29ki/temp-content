@@ -1,0 +1,200 @@
+{
+  "en": {
+    "id": "92daa17f-e8c9-43c6-a78f-888152644879",
+    "alias": "Acting with purpose 1: Your-behaviors-2",
+    "root": "3267f5eb-11b5-4711-855b-a24e934a2a7c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "3267f5eb-11b5-4711-855b-a24e934a2a7c",
+        "content": "Although our **values** may **change** over time, living in line with them always involves **mindfully** **acting** according to what's most important to us in the **long** **run**.\n\nThat's why the first step is about **connecting** to yourself and your **values**.",
+        "alias": "Section 1",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's try it ",
+            "sectionId": "de5e539f-4cfe-47c9-b670-2f4082ae3a5b"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "de5e539f-4cfe-47c9-b670-2f4082ae3a5b",
+        "longDescription": "1. Imagine it’s your birthday party many years from now. You’re turning **90**. Take a few minutes to **picture** yourself at that party.\n2. Now, someone close to you gives a **speech** in your honor. What would you want them to **say** about **you**? **What** would make you **proud** to hear? Write down your answers.",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "6cc63c38-7e83-4290-82d6-e217ae47c65f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6cc63c38-7e83-4290-82d6-e217ae47c65f",
+        "alias": "Section 3",
+        "content": "Visualizing our **future** can **guide** us in the present moment by shining a light on what’s important in the **long** **run**.\n\nThis can be extra helpful when we’re under **pressure**, because during stressful times we tend to be **short-sighted** and out of touch with what truly matters.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Learn more",
+            "sectionId": "9307b0f3-6892-4307-bc31-aefe16d12509"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9307b0f3-6892-4307-bc31-aefe16d12509",
+        "alias": "Section 4",
+        "content": "We also tend to prioritise **responsibilities** we believe others **expect** from us. We may work longer hours or try to stay on top of the latest news. \n\nAt the same time, we **forget** about or **ignore** the things that give our lives **meaning, energy** and **joy.**",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "b39bb8b6-dfc4-497e-813d-23d8f734d442"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "92daa17f-e8c9-43c6-a78f-888152644879",
+    "alias": "Acting with purpose 1: Your-behaviors-2",
+    "root": "3267f5eb-11b5-4711-855b-a24e934a2a7c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "3267f5eb-11b5-4711-855b-a24e934a2a7c",
+        "content": "Även om våra **värderingar** kan **förändras** över tid kan de alltid hjälpa oss att **agera medvetet** och göra det som är viktigast för oss på längre sikt.\n\nDet är därför det första steget är att få kontakt med **dig själv och dina värderingar**.",
+        "alias": "Section 1",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nu kör vi!",
+            "sectionId": "de5e539f-4cfe-47c9-b670-2f4082ae3a5b"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629793387/mayur-gala-2PODhmrvLik-unsplash_fqtozi.jpg"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "de5e539f-4cfe-47c9-b670-2f4082ae3a5b",
+        "longDescription": "1. Föreställ dig din egen födelsedag, en som ligger långt in i framtiden. Du fyller **90**. Testa om du kan skapa en bild av dig själv sittande på festen, mitt bland alla gäster.\n2. Någon som står dig nära **håller tal**. Vad vill du att hen ska **säga** om **dig**? **Vad** skulle göra dig **stolt** att få höra? Skriv ned dina svar.",
+        "alias": "Exercise",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "6cc63c38-7e83-4290-82d6-e217ae47c65f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6cc63c38-7e83-4290-82d6-e217ae47c65f",
+        "alias": "Section 3",
+        "content": "Att föreställa sig **framtiden** kan vägleda oss i **nuet** genom att visa vad som är viktigt i det **långa** **loppet**.\n\nNär vi befinner oss i pressade situationer är det ett bra trick att ta till, eftersom det brukar vara svårt att tänka längre **än näsan räcker** när vi är stressade. Vi är ofta kortsiktiga och har inte kontakt med det som verkligen är viktigt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Mer",
+            "sectionId": "9307b0f3-6892-4307-bc31-aefe16d12509"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9307b0f3-6892-4307-bc31-aefe16d12509",
+        "alias": "Section 4",
+        "content": "Vi brukar också prioritera att ta **ansvar** för sånt som vi tror att **andra** förväntar sig av oss. Vi kanske jobbar över eller försöker hålla örnkoll på vad som händer i världen. Samtidigt **glömmer** vi bort eller **struntar** i sånt som ger livet **mening, energi och glädje**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "b39bb8b6-dfc4-497e-813d-23d8f734d442"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "92daa17f-e8c9-43c6-a78f-888152644879",
+    "alias": "Acting with purpose 1: Your-behaviors-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Lições do fim da vida",
+        "content": "Quando nos aproximamos do fim das nossas vidas, muitas vezes arrependemo-nos de algumas escolhas que fizemos. Alguns arrependimentos comuns incluem não termos sido verdadeiros connosco, termos trabalhado demasiado, não termos expressado os nossos sentimentos e termos perdido o contacto com os amigos. Com isto em mente, gostarias de alterar ou adicionar alguma coisa aos valores que escreveste?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Comportamentos e valores",
+        "question": "",
+        "shortDescription": "",
+        "longDescription": "Escolhe um dos valores identificados no exercício anterior. Escolhe um particularmente próximo do teu coração.\n\nPergunta: Se a partir de agora vivesses a tua vida de acordo com este valor, o que farias hoje?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "longDescription": "Se pensares nos valores como um caminho a seguir e na tua imagem aos 90 anos como o destino, que passos te levariam até lá?\n\nPrecisarias de alterar as tuas prioridades?\n\nParar de fazer alguma coisa?\n\nComeçar a fazer alguma coisa?\n\nDedica algum tempo a escrever o que te vier à cabeça.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "description": "Age de acordo com o valor que escolheste durante a próxima semana.\n\nRevê as prioridades e repensa as tuas ações de acordo com o que pararias de fazer e com o que começarias a fazer.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "b39bb8b6-dfc4-497e-813d-23d8f734d442",
+            "content": "Continuar"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621944074/29k%20FJN/Courses/Value%20Based%20Action/Photos/L1P9YourBehaviours_kom4wl.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622033468/29k%20FJN/Courses/Value%20Based%20Action/Videos/L1_Value-based_action_V3_zenz3f.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

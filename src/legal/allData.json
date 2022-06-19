@@ -1,0 +1,536 @@
+{
+  "en": {
+    "statements": {
+      "text": "### Privacy Pledge",
+      "tracking": {
+        "title": "Tracking",
+        "list": [
+          {
+            "statement": "Do we track your device location?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we track your device location while you are not using the app?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we use cookies?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we track your browsing activities on other sites?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we listen to you using your device microphone?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we record and store video and audio of you?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we track your usage of the app, with your consent?",
+            "answer": "Yes"
+          }
+        ]
+      },
+      "pii": {
+        "title": "Personal Information",
+        "list": [
+          {
+            "statement": "Do we sell your personal information?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we sell any anonymized information?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we share anonymized data for research purposes?",
+            "answer": "Yes"
+          },
+          {
+            "statement": "Are you required to register with personal information?",
+            "answer": "No"
+          },
+          {
+            "statement": "Do we anonymize your data when you delete your account?",
+            "answer": "Yes"
+          },
+          {
+            "statement": "Do we anonymize your data after one year of inactivity?",
+            "answer": "Yes"
+          },
+          {
+            "statement": "Can you retrieve a copy of all your data from us?",
+            "answer": "Yes"
+          }
+        ]
+      },
+      "comms": {
+        "list": [
+          {
+            "statement": "Do we send you push notifications about events in the app, with your consent?",
+            "answer": "Yes"
+          }
+        ],
+        "title": "Communication"
+      }
+    },
+    "serviceProviders": {
+      "text": "### Our Service Providers (processors)",
+      "headings": {
+        "service": "Service",
+        "what": "What",
+        "dataStored": "Data stored",
+        "anonymized": "Anonymized",
+        "pii": "Personal Information",
+        "category": "Category of data"
+      },
+      "rows": [
+        {
+          "service": "**Daily**",
+          "what": "Video streaming platform",
+          "dataStored": "None",
+          "anonymized": "Yes",
+          "pii": "None",
+          "privacyPolicy": "[Privacy policy](https://daily.co/privacy)",
+          "category": "* Optional"
+        },
+        {
+          "service": "**TokBox**",
+          "what": "Video streaming platform",
+          "dataStored": "None",
+          "anonymized": "Yes",
+          "pii": "None",
+          "privacyPolicy": "[Privacy policy](https://www.vonage.com/privacy-policy)",
+          "category": "* Optional"
+        },
+        {
+          "service": "**Google Cloud Platform**",
+          "what": "Cloud infrastructure",
+          "dataStored": "* Profile information\n* Chat messages\n* Self test data\n* Feedback\n* Error reports",
+          "anonymized": "No",
+          "pii": "* Profile information\n* Chat messages\n* Self test data",
+          "privacyPolicy": "[Privacy policy](https://cloud.google.com/security/privacy/)",
+          "category": "* Required\n* Optional\n* Analytics"
+        },
+        {
+          "service": "**Sentry**",
+          "what": "App error reporting",
+          "dataStored": "* Error reports",
+          "anonymized": "Yes",
+          "pii": "None",
+          "privacyPolicy": "[Privacy policy](https://sentry.io/security/)",
+          "category": "* Optional"
+        },
+        {
+          "service": "**Amplitude**",
+          "what": "User behaviour analytics",
+          "dataStored": "* Usage of the app",
+          "anonymized": "No",
+          "category": "* Analytics",
+          "privacyPolicy": "[Privacy Notice](https://amplitude.com/privacy)"
+        }
+      ]
+    },
+    "other": "### Questions or Comments?\n\nTo ask questions or comment on this information contact us at: [privacy@29k.org](mailto:privacy@29k.org)",
+    "title": "Privacy Notice",
+    "intro": "We are 29k, a non-profit organisation, funded by private and public donors. There are no fees and no ads in our app, and we do not sell user data to any 3rd parties. We are based in Stockholm, and you can reach us at [privacy@29k.org](mailto:privacy@29k.org).\n\n### Purpose\n\nThis app helps you grow and make the most out of life. It includes courses, exercises and sharing groups, all based on the latest psychology research.\n\nWe use your data for the following purposes:\n\n**To give you the basic service of the app**\n\n> The app needs to process your data, such as your approximate age, which exercises you have done and which you still haven’t, which sharing groups you are a member of etc., in order to work. Without storing this data, we wouldn’t be able to provide you with a meaningful app experience. We also store additional data if you want us to, such as your profile picture, your personal notes and similar, that you are in complete control of.\n\n**To contribute back to the science and research**\n\n> We get free resources from the scientific community, and contribute back to the science and research by providing anonymised data from our users. We don’t share any personal (identifiable) information with 3rd parties, and we never share data for profit.\n\n**To improve your and others’ user experience**\n\n> If you give us consent, we will also analyse your app usage data not only in order to provide you with the basic service of the app, but also to improve the app for you and other users, and help more people grow (see details below).",
+    "consent": {
+      "title": "Your Consent",
+      "sections": [
+        {
+          "title": "Necessary storing and processing",
+          "text": "*In order to use the app*, you need to give us consent to **store and/or process the required data**. You can withdraw your consent for us to store and process your data at any time, by deleting your account."
+        },
+        {
+          "text": "*In order to use the app*, you need to also give us consent to **anonymise your data and use the anonymised data for research purposes** (see details below). Once anonymised, the data can, by definition, no longer be linked to you.",
+          "title": "Anonymising data for research"
+        },
+        {
+          "title": "Analytics to improve the app",
+          "text": "*By separate consent*, you decide if you want to let us **analyse your app usage data** not only in order to provide you with the basic service of the app, but also to improve the app for you and other users (see details below). You can withdraw your consent at any time in your profile."
+        }
+      ],
+      "text": "Some of the data that the 29k app stores about you is classified as **personal** (e.g. your email or year of birth), and some as **special category/sensitive** data (e.g. which courses you have taken). Therefore, we need your consent to process and store any of this data."
+    },
+    "data": {
+      "categories": "### Categories of Data",
+      "required": {
+        "title": "Required",
+        "description": "necessary for the app to function properly",
+        "text": "* Email\n* Password\n* Year of birth\n* Preferred language(s)"
+      },
+      "optional": {
+        "title": "Optional",
+        "description": "stored if you choose to provide it",
+        "text": "* Name\n* Avatar (picture)\n* Gender\n* Communication data (chat, video, open text/image/video sharings)\n* Self-test and journaling data (self-assessments and free-text self-reflections)\n* Feedback (app / exercise ratings and free-text comments)\n* Error reporting (app version, phone model, OS and OS version)"
+      },
+      "usage": {
+        "title": "Usage/analytical",
+        "description": "used to improve the app if you give us your consent ",
+        "text": "* Phone data (pseudonymized user ID, country, city, language setting, timezone, phone operator, phone model, OS, version and app version)\n* Course and group data (statistical data regarding course and group participation)\n* Push notifications (do we have permission to send them to you or not)\n* Referral link (the initial link that installed or opened the app)\n\nFind a [complete list of what we process here](https://docs.google.com/spreadsheets/d/12ENHQd2CgvSCRHdL-uQVd3VEJ0tCu81V-b2nvFBq1n8/edit#gid=367769533)."
+      },
+      "retention": "### How Long We Store Your Data\n\n* If you delete your account, we’ll anonymise your data and delete it.\n* If you don’t use your account, we’ll anonymise and delete your personal data after one year of inactivity.\n* If you withdraw your consent for us to track your usage data for the app improvement purposes, we’ll stop doing that immediately.\n* Otherwise, we’ll continue to process your data as long as you use the app."
+    },
+    "eu": "### International Transfers \n\nWe use service providers based in the USA (see processors above). As an appropriate safeguard for international transfers, we have for each of the processors, entered into Standard Contractual Clauses that have been approved by the EU Commission. As an additional safeguard to those Standard Contractual Clauses, we minimise the amount of data we process on you and anonymise as much of it as possible.\n\n### Your Rights\n\nIn the European Union your data and your privacy are fundamental human rights. These rights include:\n\n> **Right of access:** You can always ask us for a copy of your data.\n>\n> **Right to erasure:** Just delete your account in your profile and we’ll delete your data.\n>\n> **Right to rectification:** If your data is inaccurate, you can ask us to correct or amend your data.\n>\n> **Right to restrict processing:** If you believe we’re processing your data in ways that are unlawful or that you don't agree with, you can ask us to stop processing that data until we finish an investigation.\n>\n> **Right to data portability:** You can ask for your data in .json format that you can save or send to anyone.\n>\n> **Right to withdraw consent:** You can withdraw your consent at any time . You’ll find your consent in your profile.\n>\n> **Right to object:** You have the right to object to how we process your data.\n>\n> **Right to complain to a regulator:** You have the right to submit a formal complaint about how we process your data. Find the contact details of your [national data protection regulator](https://edpb.europa.eu/about-edpb/board/members_en).\n\nRead more about your digital rights on the [European Commission’s web site](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en)."
+  },
+  "sv": {
+    "statements": {
+      "text": "### Integritetslöfte",
+      "tracking": {
+        "title": "Spårning",
+        "list": [
+          {
+            "statement": "Spårar vi din enhetsplats?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Spårar vi din enhetsplats medan du inte använder appen?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Använder vi kakor?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Spårar vi dina surfaktiviteter på andra webbplatser?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Lyssnar vi på dig med din mikrofon?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Spelar vi in och lagrar video och ljud av dig?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Spårar vi din användning av appen med ditt samtycke?",
+            "answer": "Ja"
+          }
+        ]
+      },
+      "pii": {
+        "title": "Personlig information",
+        "list": [
+          {
+            "statement": "Säljer vi din personliga information?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Säljer vi någon anonymiserad information?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Delar vi anonymiserad data för forskningsändamål?",
+            "answer": "Ja"
+          },
+          {
+            "statement": "Måste du registrera dig med personlig information?",
+            "answer": "Nej"
+          },
+          {
+            "statement": "Anonymiserar vi dina uppgifter när du tar bort ditt konto?",
+            "answer": "Ja"
+          },
+          {
+            "statement": "Anonymiserar vi dina uppgifter efter ett års inaktivitet?",
+            "answer": "Ja"
+          },
+          {
+            "statement": "Kan du hämta en kopia av all din information från oss?",
+            "answer": "Ja"
+          }
+        ]
+      },
+      "comms": {
+        "title": "Kommunikation",
+        "list": [
+          {
+            "statement": "Skickar vi pushmeddelanden om händelser i appen med ditt samtycke?",
+            "answer": "Ja"
+          }
+        ]
+      }
+    },
+    "serviceProviders": {
+      "text": "### Tjänsteleverantörer (personuppgiftsbiträden)",
+      "headings": {
+        "service": "Tjänst",
+        "what": "Vad",
+        "dataStored": "Data lagrad",
+        "anonymized": "Anonymiserad",
+        "pii": "Personlig information",
+        "category": "Datakategori"
+      },
+      "rows": [
+        {
+          "service": "**Daily**",
+          "what": "Plattform för videostreaming",
+          "dataStored": "Ingen",
+          "anonymized": "Ja",
+          "pii": "Ingen",
+          "privacyPolicy": "[Integritetspolicy](https://daily.co/privacy)",
+          "category": "* Frivillig"
+        },
+        {
+          "service": "**TokBox**",
+          "what": "Plattform för videostreaming",
+          "dataStored": "Ingen",
+          "anonymized": "Ja",
+          "pii": "Ingen",
+          "privacyPolicy": "[Integritetspolicy](https://www.vonage.com/privacy-policy)",
+          "category": "* Frivillig"
+        },
+        {
+          "service": "**Google Cloud Platform**",
+          "what": "Molninfrastruktur",
+          "dataStored": "* Profilinformation\n* Chattmeddelanden\n* Självtestdata\n* Feedback\n* Felrapporter",
+          "anonymized": "Nej",
+          "pii": "* Kontoinformation\n* Chattmeddelanden\n* Självtestdata",
+          "privacyPolicy": "[Integritetspolicy](https://cloud.google.com/security/privacy/)",
+          "category": "* Nödvändig\n* Frivillig\n* Analys"
+        },
+        {
+          "service": "**Sentry**",
+          "what": "Rapportering av appfel",
+          "dataStored": "* Felrapporter",
+          "anonymized": "Ja",
+          "pii": "Ingen",
+          "privacyPolicy": "[Integritetspolicy](https://sentry.io/security/)",
+          "category": "*  Frivillig"
+        },
+        {
+          "service": "Amplitude",
+          "what": "Analys av användarbeteende",
+          "dataStored": "* Appanvändning",
+          "anonymized": "Nej",
+          "category": "* Analys",
+          "privacyPolicy": "[Integritetspolicy](https://sentry.io/security/)"
+        }
+      ]
+    },
+    "other": "### Frågor eller kommentarer?\n\nFör att ställa frågor eller kommentera denna information, kontakta oss på: [privacy@29k.org](mailto:privacy@29k.org)",
+    "title": "Integritetsnotis",
+    "intro": "Vi är 29k, en svensk stiftelse finansierad av privata och offentliga medel. Vår applikation innehåller inga avgifter och inga reklamannonser, och vi säljer ingen användardata till tredje parter. Vi är baserade i Stockholm och du kan nå oss på [privacy@29k.org](mailto:privacy@29k.org).\n\n### Syfte\n\nDenna app hjälper dig att utvecklas och få ut det mesta av livet. Det inkluderar kurser, övningar och samtalsgrupper, alltihop baserat på den senaste psykologiforskningen.\n\nVi använder din data för följande syften:\n\n**Att erbjuda dig appens grundtjänster**\n\n> Appen behöver behandla din data, som din ungefärliga ålder, vilka övningar du har gjort eller inte, vilka grupper du är medlem i osv., för att kunna fungera. Utan lagring av denna data, så skulle vi inte kunna ge dig en meningsful appupplevelse. Vi lagrar även ytterligare data om du så önskar, som din profilbild, dina personliga anteckningar och liknande, som ligger helt under din kontroll. \n\n**Att bidra tillbaka till vetenskapen och forskningen**\n\n> Vi får gratis verktyg från vetenskapsvärlden, och bidrar tillbaka till vetenskapen och forskningen genom anonymiserad data från våra användare. Vi delar ingen personlig (identifierbar)information med tredje parter, och delar aldrig data i vinstdrivande syften.\n\n**Att förbättra din och andras användarupplevelse**\n\n> Om du ger oss samtycke, så kommer vi också att analysera data om din appanvändning inte bara för att erbjuda dig appens grundtjänster, utan också för att förbättra appen för dig och andra användare, och hjälpa fler människor att utvecklar (mer info nedan).",
+    "consent": {
+      "title": "Ditt samtycke",
+      "text": "En del av den data som 29k lagrar om dig klassas som **personlig** (t.ex. din epost eller födelseår), och en del som **särskild/känslig** data (t.ex. vilka kurser du har gjort). Därför behöver vi ditt samtycke för att behandla och lagra denna data.",
+      "sections": [
+        {
+          "title": "Nödvändig lagring och behandling",
+          "text": "*För att använda appen*, behöver du ge oss samtycke att **lagra och/eller behandla nödvändig data**. Du kan återkalla samtycket att lagra och behandla din data när som helst, genom att radera ditt användarkonto."
+        },
+        {
+          "title": "Dataanonymisering för forskning",
+          "text": "*För att använda appen*, behöver du ge också oss samtycke att **anonymisera din data och använda den anonymiserade datan för forskningsändamål** (mer information nedan). Den anonymiserade data kan, per definition, inte längre kopplas till dig på något sätt."
+        },
+        {
+          "title": "Analys för att förbättra appen",
+          "text": "*Genom separat samtycke*, bestämmer du om du vill låta oss att **analysera din appanvändning** inte bara för att kunna erbjuda dig appens grundtjänster, utan även för att förbättra appen för dig och andra användare (mer info nedan). Du kan dra återkalla detta samtycke när som helst i din profil."
+        }
+      ]
+    },
+    "eu": "### Internationella överföringar\n\nVi använder tjänsteleverantörer baserade i USA (se tjänsteleverantörer ovan). Som en säkerhetsåtgärd för internationella överföringar så har vi standardavatalsklausuler med varje leverantör, godkända av EU-Kommissionen. Som en ytterligare säkerhetsåtgärd, utöver standardavtalsklausuler, så minimerar vi mängden av din data som vi behandlar, och anonymiserar så stor del av den som möjligt.\n\n### Dina rättigheter\n\nI Europeiska unionen är dina uppgifter och din integritet grundläggande mänskliga rättigheter. Dessa rättigheter inkluderar:\n\n> **Tillgångsrätt:** Du kan alltid be oss om en kopia av dina uppgifter.\n>\n> **Rätt att radera:** Radera bara ditt konto i din profil så tar vi bort dina data.\n>\n> **Rätt till rättelse:** Om dina uppgifter är felaktiga kan du be oss om att korrigera eller ändra dina uppgifter.\n>\n> **Rätt att begränsa behandlingen:** Om du tror att vi behandlar dina uppgifter på olagliga sätt eller som du inte håller med om, kan du be oss att sluta behandla dessa uppgifter tills vi avslutat en utredning.\n>\n> **Rätt till dataportabilitet:** Du kan be om dina data i .json-format som du kan spara eller skicka till vem som helst.\n>\n> **Rätt att dra tillbaka samtycke:** Du kan återkalla ditt samtycke när som helst. Du hittar ditt samtycke i din profil.\n>\n> **Rätt att protestera:** Du har rätt att invända mot hur vi bearbetar dina data.\n>\n> **Rätt att klaga till en tillsynsmyndighet:** Du har rätt att lämna in ett formellt klagomål om hur vi behandlar dina uppgifter. Hitta kontaktinformationen för din [nationella dataskyddsreglerare](https://edpb.europa.eu/about-edpb/board/members_en).\n\nLäs mer om dina digitala rättigheter på [Europeiska kommissionens webbplats](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en).",
+    "data": {
+      "categories": "### Kategorier av data",
+      "required": {
+        "title": "Nödvändig",
+        "description": "krävs för appens grundfunktioner",
+        "text": "* Epost\n* Lösenord\n* Födelseår\n* Talade språk"
+      },
+      "optional": {
+        "title": "Frivillig",
+        "description": "lagras om du väljer att ange den",
+        "text": "* Namn\n* Profilbild\n* Kön\n* Kommunikationsdata (chatt, video, öppna text/bild/video delningar)\n* Själv-tester och anteckningar (självskattninger och reflektioner i fritext)\n* Återkoppling (app/övningsbetyg och fritextkommentarer)\n* Felrapportering (appversion, telefonmodell, OS och OS-version)"
+      },
+      "usage": {
+        "title": "Användning/analys",
+        "description": "används för att förbättra appen, om du ger oss samtycke",
+        "text": "* Telefondata (pseudonymiserad användarID, land, stad, språkinställning, tidszon, telefonoperatör, telefonmodell, operativsystem, operativsystemversion och applikationsversion)\n* Övnings- och gruppdata (statistik kring deltagande i kurser och grupper)\n* Push-aviseringar (på / av)\n* Inbjudningslänk (vilken länk användaren installerade applikationen från)\n\nDu hittar en [komplett lista över vad vi spårar här](https://docs.google.com/spreadsheets/d/12ENHQd2CgvSCRHdL-uQVd3VEJ0tCu81V-b2nvFBq1n8/edit#gid=367769533)."
+      },
+      "retention": "### Hur länge lagrar vi dina data\n\n* Om du tar bort ditt konto, anonymiserar vi dina uppgifter och tar bort dem.\n* Om du inte använder ditt konto, anonymiserar vi och raderar dina uppgifter efter ett års inaktivitet.\n* Om du återkallar ditt samtycke för analysdata, så slutar vi omedelbart att spåra din användningsdata för appförbättringsändamål.\n* Annars fortsätter vi att behandla din data så länge du använder appen."
+    }
+  },
+  "pt": {
+    "statements": {
+      "text": "### Declarações",
+      "tracking": {
+        "title": "Rastreabilidade",
+        "list": [
+          {
+            "statement": "Rastreamos a localização do teu dispositivo?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Rastreamos a localização do teu dispositivo quando não estás a utilizar a app?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Utilizamos cookies?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Rastreamos a tua atividade noutros sites?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Recolhemos o som quando utilizas o microfone do teu dispositivo?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Gravamos e guardamos os vídeos e áudios das tuas atividades?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Rastreamos a tua utilização da aplicação com o teu consentimento?",
+            "answer": "Sim"
+          }
+        ]
+      },
+      "pii": {
+        "title": "Dados Pessoais",
+        "list": [
+          {
+            "statement": "Vendemos a tua informação pessoal?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Vendemos informação anonimizada?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Partilhamos dados anonimizados para objetivos de investigação?",
+            "answer": "Sim"
+          },
+          {
+            "statement": "Tenho de disponibilizar dados pessoais no registo na aplicação?",
+            "answer": "Não"
+          },
+          {
+            "statement": "Anonimizamos os teus dados quando removemos a tua conta?",
+            "answer": "Sim"
+          },
+          {
+            "statement": "Anonimizamos os teus dados depois de um ano de inatividade?",
+            "answer": "Sim"
+          },
+          {
+            "statement": "Consegues obter uma cópia de todos os teus dados se nos pedires?",
+            "answer": "Sim"
+          }
+        ]
+      },
+      "comms": {
+        "list": [
+          {
+            "statement": "Enviamos notificações de eventos da aplicação com o teu consentimento?",
+            "answer": "Sim"
+          }
+        ],
+        "title": "Comunicação"
+      }
+    },
+    "serviceProviders": {
+      "text": "### Fornecedores de Serviços (processadores)",
+      "headings": {
+        "service": "Serviço",
+        "what": "O quê",
+        "dataStored": "Dados armazenados",
+        "anonymized": "Anonimizados",
+        "pii": "Dados Pessoais",
+        "category": "Categorias de dados"
+      },
+      "rows": [
+        {
+          "service": "**Daily**",
+          "what": "Plataforma de streaming de vídeo",
+          "dataStored": "Nenhum",
+          "anonymized": "Sim",
+          "pii": "Nenhum",
+          "privacyPolicy": "[Política de Privacidade](https://daily.co/privacy)",
+          "category": "* Opcional"
+        },
+        {
+          "service": "**TokBox**",
+          "what": "Plataforma de streaming de vídeo",
+          "dataStored": "Nenhum",
+          "anonymized": "Sim",
+          "pii": "Nenhum",
+          "privacyPolicy": "[Política de Privacidade](https://www.vonage.com/privacy-policy)",
+          "category": "* Opcional"
+        },
+        {
+          "service": "**Google Cloud Platform**",
+          "what": "Cloud infrastructure",
+          "dataStored": "* Infomação de perfil\n* Mensagens de *chat* \n* Dados de testes internos\n* Comentários\n* Relatórios de erro",
+          "anonymized": "Não",
+          "pii": "* Informação de perfil\n* Mensagens de *chat*\n* Dados de testes internos",
+          "privacyPolicy": "[Política de Privacidade](https://cloud.google.com/security/privacy/)",
+          "category": "* Obligatórios\n* Opcionais\n* Analíticos"
+        },
+        {
+          "service": "**Sentry**",
+          "what": "Relatórios de erros da 29k FJN",
+          "dataStored": "* Relatórios de erro da aplicação",
+          "anonymized": "Sim",
+          "pii": "Nenhum",
+          "privacyPolicy": "[Política de Privacidade](https://sentry.io/security/)",
+          "category": "* Opcional"
+        },
+        {
+          "service": "**Amplitude**",
+          "what": "Dados comportamentais (analíticos)",
+          "dataStored": "* Utilização da aplicação",
+          "anonymized": "Não",
+          "category": "* Analíticos",
+          "privacyPolicy": "[Política de Privacidade](https://sentry.io/security/)"
+        }
+      ]
+    },
+    "other": "### Dúvidas ou Comentários?\n\nSe tiveres dúvidas ou comentários neste contexto, contacta-nos através de: [privacy@29k.org](mailto:privacy@29k.org) ou [dpo@joseneves.org](mailto:privacy@29k.org).",
+    "intro": "A 29k é uma fundação sem fins lucrativos financiada por doadores públicos e privados. Não existem taxas nem publicidade na nossa aplicação, e não vendemos dados dos utilizadores a terceiros. Estamos baseados em Estocolmo e neste contexto podes contactar-nos através do email [privacy@29k.org](mailto:privacy@29k.org).\n\nA Fundação José Neves (FJN) é uma fundação sem fins lucrativos que tem o objetivo de melhorar os índices de desenvolvimento humano em Portugal e de proporcionar aos portugueses oportunidades de melhorarem as suas competências num enquadramento saudável e equilibrado. Neste contexto, podes contactar-nos através do email [dpo@joseneves.org](mailto:dpo@joseneves.org).\n\n### Propósito\n\nEsta aplicação ajuda-te no teu desenvolvimento pessoal e a tirar o máximo partido da tua vida. Inclui cursos, exercícios e grupos de partilha, todos baseados na investigação científica mais recente nesta área.\n\nUtilizamos os teus dados com os seguintes propósitos:\n\n**Para te dar acesso aos serviços básicos da aplicação**\n\n> Para funcionar a aplicação precisa de processar alguns dos teus dados, como a tua idade aproximada, os exercícios que fizeste e os que ainda não fizeste, os grupos de partilha de que és membro, etc. Sem armazenar estes dados, não seríamos capazes de te fornecer uma experiência de utilização adequada. Também armazenamos dados adicionais relativamente aos quais tens o controlo completo, como a tua foto de perfil, as tuas notas pessoais e similares.\n\n**Para retribuir à investigação e à ciência**\n\n> Utilizamos recursos gratuitos da comunidade científica e retribuímos fornecendo dados anónimos dos nossos utilizadores que contribuam para a melhoria e evolução da investigação nesta área. Não partilhamos nenhuma informação pessoal (identificável) com terceiros e nunca partilhamos dados com fins lucrativos.\n\n**Para melhorar a tua experiência e a dos outros utilizadores**\n\n> Se nos deres o teu consentimento, também analisaremos os dados de utilização da aplicação não apenas para fornecer o serviço mais básico, mas para melhorar a experiência da aplicação de forma a tornar cada vez mais eficaz o teu desenvolvimento e o das outras pessoas (ver detalhes abaixo).",
+    "consent": {
+      "title": "O teu consentimento",
+      "text": "Alguns dos dados que a 29k FJN armazena são classificados como **pessoais** (por exemplo, o e-mail ou o ano de nascimento), e alguns como dados de **categoria especial/sensíveis**  (por exemplo, que cursos fizeste). Precisamos do teu consentimento para processar e armazenar qualquer um desses dados.",
+      "sections": [
+        {
+          "title": "Necessidades de armazenamento e processamento",
+          "text": "*Para poderes utilizar a aplicação*, precisamos do teu consentimento para **armazenar e/ou processar os dados obrigatórios**. Podes retirar o teu consentimento para que armazenemos e processemos os teus dados a qualquer momento, removendo a tua conta."
+        },
+        {
+          "title": "Anonimização de dados para investigação",
+          "text": "*Ao utilizares a aplicação*, também nos dás consentimento para **tornar os teus dados anónimos e utilizar esses dados anonimizados para fins de investigação científica** (ver detalhes abaixo). Depois de anonimizados, os dados deixam de estar associados a ti."
+        },
+        {
+          "title": "Análise de dados para melhorar a aplicação",
+          "text": "Num consentimento separado, podes decidir se nos vais permitir **analisar os teus dados de utilização da aplicação** não apenas para fornecer o serviço básico, mas também para melhorar a aplicação para ti e para os outros utilizadores (ver detalhes abaixo). Podes retirar o teu consentimento a qualquer momento no teu perfil."
+        }
+      ]
+    },
+    "data": {
+      "categories": "### Categorias de Dados",
+      "required": {
+        "title": "Obrigatórios",
+        "description": "necessários para a aplicação funcionar de forma adequada",
+        "text": "* Email\n* Password\n* Ano de nascimento\n* Idioma(s) preferencial/ais"
+      },
+      "optional": {
+        "title": "Opcionais",
+        "description": "armazenados se optares por os forneceres",
+        "text": "* Nome\n* Imagem (fotografia)\n* Género\n* Dados de comunicação (chat, vídeo, partilhas abertas de texto/imagem/vídeo)\n* Autoavaliações e reflexões de texto livre\n* Comentários (aplicação / avaliações de exercícios e comentários de texto livre)\n* Reporte de erros (versão da aplicação, modelo do telemovel, sistema operativo e versão do SO)"
+      },
+      "usage": {
+        "title": "Utilização/Analíticos",
+        "description": "utilizados para melhorar a aplicação se nos deres o teu consentimento",
+        "text": "* Dados do telefone (pseudónimo do ID do utilizador, país, cidade, configuração de idioma, fuso horário, operadora do telefone, modelo do telefone, sistema operativo, versão e versão da aplicação)\n* Dados do curso e do grupo de partilha (dados estatísticos sobre a participação no curso e no grupo de partilha)\n* Notificações push (termos permissão para enviar ou não)\n* Link de referência (o link inicial que instalou ou abriu a aplicação)\n\nEncontra a [lista completa aqui](https://docs.google.com/spreadsheets/d/12ENHQd2CgvSCRHdL-uQVd3VEJ0tCu81V-b2nvFBq1n8/edit#gid=367769533)."
+      },
+      "retention": "### Por quanto tempo retemos os teus dados\n\n* Se removeres a tua conta, iremos anonimizar os teus dados e removê-los.\n* Se não utilizares a tua conta, iremos anonimizar e remover os teus dados pessoais após um ano de inatividade.\n* Se retirares o teu consentimento para que possamos utilizar os teus dados de utilização para fins de melhoria da aplicação, pararemos de fazer isso imediatamente.\n* Caso contrário, continuaremos a processar os teus dados enquanto utilizares a aplicação."
+    },
+    "eu": "### Transferências Internacionais \n\nUtilizamos prestadores de serviços com base nos EUA (consulta os processadores acima). Como uma salvaguarda adequada para transferências internacionais, temos para cada um dos processadores, cláusulas contratuais padrão que foram aprovadas pela Comissão Europeia. Como proteção adicional a essas cláusulas contratuais padrão, minimizamos a quantidade de dados que processamos sobre ti e anonimizamos o máximo possível dos dados.\n\n### Os teus direitos\n\nNa União Europeia, os teus dados e a tua privacidade são direitos humanos fundamentais. Estes direitos incluem:\n\n> **Direito ao acesso:** Podes sempre pedir-nos uma cópia dos teus dados.\n>\n> **Direito ao esquecimento:** Remove a conta no teu perfil e apagamos todos os teus dados.\n>\n> **Direito a correção:** Se os teus dados estão errados, podes pedir para os corrigirmos ou alterarmos.\n>\n> **Direito a restringir o processamento:** Se pensares que estamos a processar os teus dados de forma ilegal ou com a qual não concordas, podes pedir para pararmos o processamento desses dados até finalizarmos uma investigação.\n>\n> **Direito à portabilidade dos dados:** Podes pedir os teus dados num formato .json que poderás guardar ou enviar para outras entidades ou pessoas.\n>\n> **Direito a retirar o consentimento:** Podes retirar o teu consentimento em qualquer altura. Encontras as tuas definições de consentimento no teu perfil.\n>\n> **Direito à objeção:** Podes objetar à forma como processamos os teus dados.\n>\n> **Direito a reclamar junto a uma entidade de regulação de dados:** Tens o direito de submeter uma reclamação formal acerca do modo como processamos os teus dados. Encontra os detalhes na nossa entidade nacional de [regulação de proteção de dados](http://www.cnpd.pt/).\n\nLê mais acerca dos teus direitos digitais no [site da Comissão Europeia](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_pt).",
+    "title": "Aviso de Privacidade"
+  }
+}

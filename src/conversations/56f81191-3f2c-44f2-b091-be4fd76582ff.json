@@ -1,0 +1,46 @@
+{
+  "en": {
+    "id": "56f81191-3f2c-44f2-b091-be4fd76582ff",
+    "alias": "sleep-day-2",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome back",
+        "task": {
+          "days": 2,
+          "hours": 12,
+          "minutes": 15,
+          "id": "sleep-day-2",
+          "title": "Day 2",
+          "body": "Today, try to switch your afternoon coffee for another decaffeinated drink like tea, water or a smoothie."
+        },
+        "sharingWall": {
+          "question": "How did you feel about switching your coffee for another drink?",
+          "exampleText": "I missed my coffee, but I'm excited to see how it will affect my sleep."
+        },
+        "followUp": {
+          "days": 5,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followupsleepDay2",
+          "title": "Check-in",
+          "body": "So, how did it go?"
+        },
+        "lessonlastDay": false,
+        "alias": "sleep-day-2",
+        "nextConversationId": "sleep-day-3",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "3ab9a3cc-d4df-42b8-9f58-72a57ea497fa"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "56f81191-3f2c-44f2-b091-be4fd76582ff",
+    "alias": "sleep-day-2"
+  },
+  "pt": {
+    "id": "56f81191-3f2c-44f2-b091-be4fd76582ff",
+    "alias": "sleep-day-2"
+  }
+}

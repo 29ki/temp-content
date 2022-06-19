@@ -1,0 +1,248 @@
+{
+  "en": {
+    "id": "d12e3558-86e3-456a-a31f-0f6b6ac24b28",
+    "alias": "RUS: Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "95166c3e-26b7-444e-8bd3-eed11be8dbae",
+        "alias": "Act for change",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg",
+        "title": "Действуй, чтобы измениться",
+        "content": "До этого момента мы **концентрировались** на изучении того, как изменение и вызовы влияют на нас, и на практике принятия в тех ситуациях, которые мы не можем изменить.\n\nВ этом последнем уроке мы посмотрим на те ситуации в вашей жизни, которые вы **можете контролировать**. Действие для изменения – это последний ингредиент, который помогает вам постоянно двигать **вашу жизнь в осмысленном направлении.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готов",
+            "sectionId": "fc3f7973-af47-4c3d-98da-95545587fbad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc3f7973-af47-4c3d-98da-95545587fbad",
+        "alias": "Today's lesson",
+        "content": "### Узнать больше:\n\n* Предпринять действие\n* Решение проблем\n* Практические шаги\n\n### Вам понадобятся:\n\n* 20 минут\n* Ручка и бумага",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Поехали!",
+            "sectionId": "1a81d364-cbb1-4979-86ca-8930eae999bb"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1a81d364-cbb1-4979-86ca-8930eae999bb",
+        "alias": "Meditation",
+        "title": "Размышление",
+        "description": "Прежде чем мы начнём, давайте на минутку настроимся. **Это размышление** направлено на то, чтобы помочь вам стать **более осознанным** и присутствующим и подготовиться к упражнению, которое вы будете выполнять.\n\nНажмите **играть**, чтобы начать.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+            "content": "Я завершил"
+          }
+        ],
+        "duration": 439,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/3_Breathing_anchor_-_Russian_wfamya.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+        "alias": "Anxiety cycle",
+        "content": "Ранее вы **идентифицировали**, что находится вне вашего контроля и что было бы разумнее всего принять.\n\n**Зацикливание и беспокойство** могут казаться решением проблемы, но на деле мы не достигаем реального успеха в решении проблем до тех пор, пока остаёмся застрявшими в **цикле беспокойства.**\n\n**Но почти в каждой** ситуации (какой бы сложной она ни была) есть значительное действие, которое мы можем **предпринять.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Понятно",
+            "sectionId": "8fcda2d0-cd6e-497e-a51f-c99902930953"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8fcda2d0-cd6e-497e-a51f-c99902930953",
+        "alias": "Take action",
+        "content": "Теперь вам пора изучить одну вещь, которая в настоящее время **способствует** вашему **беспокойству,** и идентифицировать, что вы можете сделать, чтобы изменить это – от поиска решений до принятия **конкретного** действия.\n\nТакие **изменения** не должны быть резкими. Иногда достаточно **скорректировать** наши действия, чтобы внести **существенное** отличие в наше благополучие.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далee",
+            "conversationId": "5a5c9207-0779-443e-8e36-d682f4400d0c"
+          }
+        ]
+      }
+    ],
+    "root": "95166c3e-26b7-444e-8bd3-eed11be8dbae"
+  },
+  "sv": {
+    "id": "d12e3558-86e3-456a-a31f-0f6b6ac24b28",
+    "alias": "RUS: Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "95166c3e-26b7-444e-8bd3-eed11be8dbae",
+        "alias": "Act for change",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg",
+        "title": "Действуй, чтобы измениться",
+        "content": "До этого момента мы **концентрировались** на изучении того, как изменение и вызовы влияют на нас, и на практике принятия в тех ситуациях, которые мы не можем изменить.\n\nВ этом последнем уроке мы посмотрим на те ситуации в вашей жизни, которые вы **можете контролировать**. Действие для изменения – это последний ингредиент, который помогает вам постоянно двигать **вашу жизнь в осмысленном направлении.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готов",
+            "sectionId": "fc3f7973-af47-4c3d-98da-95545587fbad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc3f7973-af47-4c3d-98da-95545587fbad",
+        "alias": "Today's lesson",
+        "content": "### Узнать больше:\n\n* Предпринять действие\n* Решение проблем\n* Практические шаги\n\n### Вам понадобятся:\n\n* 20 минут\n* Ручка и бумага",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Поехали!",
+            "sectionId": "1a81d364-cbb1-4979-86ca-8930eae999bb"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1a81d364-cbb1-4979-86ca-8930eae999bb",
+        "alias": "Meditation",
+        "title": "Размышление",
+        "description": "Прежде чем мы начнём, давайте на минутку настроимся. **Это размышление** направлено на то, чтобы помочь вам стать **более осознанным** и присутствующим и подготовиться к упражнению, которое вы будете выполнять.\n\nНажмите **играть**, чтобы начать.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+            "content": "Я завершил"
+          }
+        ],
+        "duration": 439,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/3_Breathing_anchor_-_Russian_wfamya.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+        "alias": "Anxiety cycle",
+        "content": "Ранее вы **идентифицировали**, что находится вне вашего контроля и что было бы разумнее всего принять.\n\n**Зацикливание и беспокойство** могут казаться решением проблемы, но на деле мы не достигаем реального успеха в решении проблем до тех пор, пока остаёмся застрявшими в **цикле беспокойства.**\n\n**Но почти в каждой** ситуации (какой бы сложной она ни была) есть значительное действие, которое мы можем **предпринять.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Понятно",
+            "sectionId": "8fcda2d0-cd6e-497e-a51f-c99902930953"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8fcda2d0-cd6e-497e-a51f-c99902930953",
+        "alias": "Take action",
+        "content": "Теперь вам пора изучить одну вещь, которая в настоящее время **способствует** вашему **беспокойству,** и идентифицировать, что вы можете сделать, чтобы изменить это – от поиска решений до принятия **конкретного** действия.\n\nТакие **изменения** не должны быть резкими. Иногда достаточно **скорректировать** наши действия, чтобы внести **существенное** отличие в наше благополучие.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далee",
+            "conversationId": "5a5c9207-0779-443e-8e36-d682f4400d0c"
+          }
+        ]
+      }
+    ],
+    "root": "95166c3e-26b7-444e-8bd3-eed11be8dbae"
+  },
+  "pt": {
+    "id": "d12e3558-86e3-456a-a31f-0f6b6ac24b28",
+    "alias": "RUS: Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "95166c3e-26b7-444e-8bd3-eed11be8dbae",
+        "alias": "Act for change",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg",
+        "title": "Действуй, чтобы измениться",
+        "content": "До этого момента мы **концентрировались** на изучении того, как изменение и вызовы влияют на нас, и на практике принятия в тех ситуациях, которые мы не можем изменить.\n\nВ этом последнем уроке мы посмотрим на те ситуации в вашей жизни, которые вы **можете контролировать**. Действие для изменения – это последний ингредиент, который помогает вам постоянно двигать **вашу жизнь в осмысленном направлении.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готов",
+            "sectionId": "fc3f7973-af47-4c3d-98da-95545587fbad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fc3f7973-af47-4c3d-98da-95545587fbad",
+        "alias": "Today's lesson",
+        "content": "### Узнать больше:\n\n* Предпринять действие\n* Решение проблем\n* Практические шаги\n\n### Вам понадобятся:\n\n* 20 минут\n* Ручка и бумага",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Поехали!",
+            "sectionId": "1a81d364-cbb1-4979-86ca-8930eae999bb"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1a81d364-cbb1-4979-86ca-8930eae999bb",
+        "alias": "Meditation",
+        "title": "Размышление",
+        "description": "Прежде чем мы начнём, давайте на минутку настроимся. **Это размышление** направлено на то, чтобы помочь вам стать **более осознанным** и присутствующим и подготовиться к упражнению, которое вы будете выполнять.\n\nНажмите **играть**, чтобы начать.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+            "content": "Я завершил"
+          }
+        ],
+        "duration": 439,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646499038/Meditations/3_Breathing_anchor_-_Russian_wfamya.mp3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9208ab0f-bac9-4d6c-b08a-50efa018c415",
+        "alias": "Anxiety cycle",
+        "content": "Ранее вы **идентифицировали**, что находится вне вашего контроля и что было бы разумнее всего принять.\n\n**Зацикливание и беспокойство** могут казаться решением проблемы, но на деле мы не достигаем реального успеха в решении проблем до тех пор, пока остаёмся застрявшими в **цикле беспокойства.**\n\n**Но почти в каждой** ситуации (какой бы сложной она ни была) есть значительное действие, которое мы можем **предпринять.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Понятно",
+            "sectionId": "8fcda2d0-cd6e-497e-a51f-c99902930953"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8fcda2d0-cd6e-497e-a51f-c99902930953",
+        "alias": "Take action",
+        "content": "Теперь вам пора изучить одну вещь, которая в настоящее время **способствует** вашему **беспокойству,** и идентифицировать, что вы можете сделать, чтобы изменить это – от поиска решений до принятия **конкретного** действия.\n\nТакие **изменения** не должны быть резкими. Иногда достаточно **скорректировать** наши действия, чтобы внести **существенное** отличие в наше благополучие.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далee",
+            "conversationId": "5a5c9207-0779-443e-8e36-d682f4400d0c"
+          }
+        ]
+      }
+    ],
+    "root": "95166c3e-26b7-444e-8bd3-eed11be8dbae"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "en": {
+    "id": "778f3637-810f-4923-8390-db4bbea973ca",
+    "alias": "Leadership-scenarioplanning-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "bb011c32-bff8-4274-b117-24349427434c",
+        "alias": "Scenario Planning",
+        "title": "",
+        "content": "**Scenario planning** takes a different approach to traditional planning in that it looks at how different aspects of a situation could relate under different circumstances.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "d93d2dc4-937c-4d4e-9a82-46fae40b152e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d93d2dc4-937c-4d4e-9a82-46fae40b152e",
+        "alias": "Scenario Planning 2",
+        "content": "Scenario planning sees planning as a collective learning and takes into account:\n\n1. Things you know\n2. Things you know you don't know\n3. Things you don't know that you don't know",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "60d22a31-f15d-4326-a32a-a9315002b56a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60d22a31-f15d-4326-a32a-a9315002b56a",
+        "alias": "Scenario Planning 3",
+        "content": "Using scenario planning makes your work more **resilient** as it helps you **adapt** to the situation and see multiple ways of pursuing a goal.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2",
+            "content": "Let's practice this"
+          }
+        ]
+      }
+    ],
+    "root": "bb011c32-bff8-4274-b117-24349427434c"
+  },
+  "sv": {
+    "id": "778f3637-810f-4923-8390-db4bbea973ca",
+    "alias": "Leadership-scenarioplanning-3"
+  },
+  "pt": {
+    "id": "778f3637-810f-4923-8390-db4bbea973ca",
+    "alias": "Leadership-scenarioplanning-3",
+    "root": "bb011c32-bff8-4274-b117-24349427434c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "bb011c32-bff8-4274-b117-24349427434c",
+        "alias": "Scenario Planning",
+        "title": "",
+        "content": "O **planeamento de cenários** tem uma abordagem diferente do planeamento tradicional, analisando de que forma os diferentes aspectos de uma situação podem relacionar-se dependendo das circunstâncias.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "d93d2dc4-937c-4d4e-9a82-46fae40b152e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d93d2dc4-937c-4d4e-9a82-46fae40b152e",
+        "alias": "Scenario Planning 2",
+        "content": "O planeamento de cenários vê o planeamento como uma aprendizagem coletiva e tem em consideração:\n\n1. Coisas que sabes\n2. Coisas que sabes que não sabes\n3. Coisas que não sabes que não sabes",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte ",
+            "sectionId": "60d22a31-f15d-4326-a32a-a9315002b56a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60d22a31-f15d-4326-a32a-a9315002b56a",
+        "alias": "Scenario Planning 3",
+        "content": "Usar o planeamento de cenários torna o teu trabalho mais **resiliente**, pois ajuda-te a **adaptares-te** à situação e a ver várias maneiras de alcançar um objetivo.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2",
+            "content": "Vamos praticar isto "
+          }
+        ]
+      }
+    ]
+  }
+}

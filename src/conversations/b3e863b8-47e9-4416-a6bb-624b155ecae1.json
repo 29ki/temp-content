@@ -1,0 +1,212 @@
+{
+  "en": {
+    "id": "b3e863b8-47e9-4416-a6bb-624b155ecae1",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8cce5a29-7737-49b8-83b1-621e1b1ec65d",
+        "content": "Por vezes, encontramo-nos em situações que **nunca esperamos**.\n\nExperimentar emoções difíceis pode impulsionar-nos para uma ação construtiva. Mas muitas vezes ficamos **presos** na nossa **ansiedade** e acabamos por assumir comportamentos que nos fazem sentir pior.\n\nHoje vais começar a aprender a utilizar **ferramentas psicológicas** que comprovadamente reduzem a sobrecarga, a ansiedade e o stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f84a08fd-c52b-411f-ad7c-8163a5cc0625"
+          }
+        ],
+        "alias": "Intro",
+        "title": "Não estás sozinho",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629882415/farrinni-0dso2fC54ug-unsplash_niwntf.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f84a08fd-c52b-411f-ad7c-8163a5cc0625",
+        "alias": "Conteúdos",
+        "content": "### Vais aprender a:\n\n* Respirar com atenção plena\n* Não alimentar o monstro\n* Sair do ciclo da ansiedade\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "1c5defca-514b-4a88-9d4d-560cf572f9b2"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1c5defca-514b-4a88-9d4d-560cf572f9b2",
+        "alias": "O teu contributo",
+        "title": "O teu contributo",
+        "content": "**Ajuda-nos a melhorar**\n\nO teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada",
+            "sectionId": "d9adbd99-973f-436c-af34-db232e2d48f7"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "6637aaf7-d706-4f23-82d1-1ef3549038e6"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "",
+        "duration": "3:30",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d9adbd99-973f-436c-af34-db232e2d48f7",
+        "description": "Quando estamos stressados e/ou ansiosos, a **respiração consciente** ajuda-nos a acalmar, a ligarmo-nos ao momento presente e a ver com mais clareza.\n\nComeça a lição com esta meditação curta."
+      }
+    ],
+    "root": "8cce5a29-7737-49b8-83b1-621e1b1ec65d"
+  },
+  "sv": {
+    "id": "b3e863b8-47e9-4416-a6bb-624b155ecae1",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8cce5a29-7737-49b8-83b1-621e1b1ec65d",
+        "content": "Por vezes, encontramo-nos em situações que **nunca esperamos**.\n\nExperimentar emoções difíceis pode impulsionar-nos para uma ação construtiva. Mas muitas vezes ficamos **presos** na nossa **ansiedade** e acabamos por assumir comportamentos que nos fazem sentir pior.\n\nHoje vais começar a aprender a utilizar **ferramentas psicológicas** que comprovadamente reduzem a sobrecarga, a ansiedade e o stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f84a08fd-c52b-411f-ad7c-8163a5cc0625"
+          }
+        ],
+        "alias": "Intro",
+        "title": "Não estás sozinho",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629882415/farrinni-0dso2fC54ug-unsplash_niwntf.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f84a08fd-c52b-411f-ad7c-8163a5cc0625",
+        "alias": "Conteúdos",
+        "content": "### Vais aprender a:\n\n* Respirar com atenção plena\n* Não alimentar o monstro\n* Sair do ciclo da ansiedade\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "1c5defca-514b-4a88-9d4d-560cf572f9b2"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1c5defca-514b-4a88-9d4d-560cf572f9b2",
+        "alias": "O teu contributo",
+        "title": "O teu contributo",
+        "content": "**Ajuda-nos a melhorar**\n\nO teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada",
+            "sectionId": "d9adbd99-973f-436c-af34-db232e2d48f7"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "6637aaf7-d706-4f23-82d1-1ef3549038e6"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "",
+        "duration": "3:30",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d9adbd99-973f-436c-af34-db232e2d48f7",
+        "description": "Quando estamos stressados e/ou ansiosos, a **respiração consciente** ajuda-nos a acalmar, a ligarmo-nos ao momento presente e a ver com mais clareza.\n\nComeça a lição com esta meditação curta."
+      }
+    ],
+    "root": "8cce5a29-7737-49b8-83b1-621e1b1ec65d"
+  },
+  "pt": {
+    "id": "b3e863b8-47e9-4416-a6bb-624b155ecae1",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8cce5a29-7737-49b8-83b1-621e1b1ec65d",
+        "content": "Por vezes, encontramo-nos em situações que **nunca esperamos**.\n\nExperimentar emoções difíceis pode impulsionar-nos para uma ação construtiva. Mas muitas vezes ficamos **presos** na nossa **ansiedade** e acabamos por assumir comportamentos que nos fazem sentir pior.\n\nHoje vais começar a aprender a utilizar **ferramentas psicológicas** que comprovadamente reduzem a sobrecarga, a ansiedade e o stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f84a08fd-c52b-411f-ad7c-8163a5cc0625"
+          }
+        ],
+        "alias": "Intro",
+        "title": "Não estás sozinho",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629882415/farrinni-0dso2fC54ug-unsplash_niwntf.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f84a08fd-c52b-411f-ad7c-8163a5cc0625",
+        "alias": "Conteúdos",
+        "content": "### Vais aprender a:\n\n* Respirar com atenção plena\n* Não alimentar o monstro\n* Sair do ciclo da ansiedade\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "1c5defca-514b-4a88-9d4d-560cf572f9b2"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1c5defca-514b-4a88-9d4d-560cf572f9b2",
+        "alias": "O teu contributo",
+        "title": "O teu contributo",
+        "content": "**Ajuda-nos a melhorar**\n\nO teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Obrigada",
+            "sectionId": "d9adbd99-973f-436c-af34-db232e2d48f7"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "6637aaf7-d706-4f23-82d1-1ef3549038e6"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "",
+        "duration": "3:30",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d9adbd99-973f-436c-af34-db232e2d48f7",
+        "description": "Quando estamos stressados e/ou ansiosos, a **respiração consciente** ajuda-nos a acalmar, a ligarmo-nos ao momento presente e a ver com mais clareza.\n\nComeça a lição com esta meditação curta."
+      }
+    ],
+    "root": "8cce5a29-7737-49b8-83b1-621e1b1ec65d"
+  }
+}

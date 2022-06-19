@@ -1,0 +1,261 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Doing what matters",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/doing_what_matters_awxyzr.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [],
+    "type": "exercise",
+    "id": "3eb09052-5270-4fef-92e1-5ccdd4461312",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-3eb09052-5270-4fef-92e1-5ccdd4461312",
+        "name": "Doing what matters",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "febe937e-a894-4aff-80f1-ae2deaca5676",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/doing_what_matters_awxyzr.png",
+            "title": "Doing what matters",
+            "content": "Our values represent what's most important to us. Recognizing our values helps us better understand what can steer us towards a meaningful life and what concrete actions we can take to head in that direction.\n\nTake steps towards the life you want to live — starting today.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "e404ab31-9013-4e8d-b4f4-4fb93bde1f98",
+            "content": "**Learn more about:**\n\n* Your values\n* Moving from intention to action\n\n**You'll need:**\n\n* 10 minutes\n* Pen & paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7d0de8b7-517a-468b-b45e-db24cd060537",
+            "content": "Values can refer to both what’s important to you now and what you wish to pursue in the future. They can be divided into different areas in life, for example:\n\n* **Health**: Mental health, physical health\n* **Relationships**: Friends, family, co-workers, social contacts\n* **Work/education**: Workspace, education, skills development\n* **Leisure**: Free time, play, recreation",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "93e045ae-597e-4d30-a843-1e7b7a826db1",
+            "title": "",
+            "content": "1. Start by drawing your own dartboard on a piece of paper, similar to the one above.\n2. In each corner, write down leisure, relationships, health and work/education.\n3. Use a pen to mark a dot on the board representing where you stand today in relation to your value.\n\n*Center / the bull's eye = I live fully by my values*\n\n*Outer circle = I don’t live according to my values*",
+            "buttonText": "I'm done",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/relationship1_iv1btm.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0bb27679-87ae-4bc5-94f5-dac56daa1312",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/relationship_2_s6gtxp.png",
+            "content": "4. Which dot is farthest away from the bull's eye?\n5. Identify and write down 2-4 values within that domain.",
+            "infoItems": [
+              {
+                "description": "* **Health**: Being active.\n* **Relationships**: Being trustworthy.\n* **Work/education**: Learning new things.\n* **Leisure**: Meeting new people.",
+                "title": "Show examples"
+              }
+            ],
+            "buttonText": "I'm done",
+            "title": ""
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5b89977a-94fe-426b-82a1-d3b248dfd203",
+            "content": "6. Choose one of the values you wrote down. If you were to live more by this value, what would you do more of?\n7. Decide on one concrete action you can take here and now in order to live a more meaningful life.\n8. If possible, complete the action now. If not, plan when and where you'll complete it.",
+            "buttonText": "I'm done",
+            "infoItems": [
+              {
+                "title": "Show examples",
+                "description": "*Text a friend, go out for a walk, read a page, take 10 deep breaths.*\n\nRemember, it doesn't have to be a huge change, just something that will move you a step closer towards living the way you want to."
+              }
+            ]
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "e352b4fa-469e-46d0-a42e-b3a969eebee3",
+            "question": "How would your life differ, if you lived more by the value you've identified?",
+            "exampleText": "I would spend less time on my own and more with others.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6d48824a-7ceb-441b-90cb-cb5dd998c978",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "",
+            "content": "Well done on taking the time to reflect and take action.\n\nEach and every day, we make hundreds of decisions – big and small – about how we want to show up and act in the world. It can be helpful to keep your dartboard in mind to remind you of the steps you want to take in order to live a value-driven life.\n\nYou can come back to this exercise on a regular basis to follow your progress and update your board.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Gör det som är viktigt",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/doing_what_matters_awxyzr.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [],
+    "type": "exercise",
+    "id": "3eb09052-5270-4fef-92e1-5ccdd4461312",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-3eb09052-5270-4fef-92e1-5ccdd4461312",
+        "name": "Gör det som är viktigt",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "febe937e-a894-4aff-80f1-ae2deaca5676",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/doing_what_matters_awxyzr.png",
+            "title": "Gör det som är viktigt",
+            "content": "Att identifiera sina värderingar — det vi tycker är viktigast i livet — kan göra oss mer motiverade samtidigt som det hjälper oss hitta konkreta saker vi vill förändra.\n\nI den här övningen kan du börja ta steg mot det liv du vill leva redan idag.",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3769a12c-a21c-42c8-ae20-28b102bbdca9",
+            "content": "**Lär dig mer om:**\n\n* Dina värderingar\n* Gå från idé till handling\n\n**Du behöver:**\n\n* 10 minuter\n* Papper och penna",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5405057a-54ba-4037-b9e0-f53bc9a1aedf",
+            "content": "Värderingar representerar både det som är viktigt för dig nu och sådant som du vill ägna dig åt i framtiden. De kan delas in i olika områden i livet, till exempel:\n\n* **Hälsa**: Mental hälsa, fysisk hälsa.\n* **Relationer**: Vänner, familj, kollegor, sociala kontakter.\n* **Arbete/utbildning**: Arbete, utbildning, kompetensutveckling.\n* **Fritid**: Fritid, lek, återhämtning.",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c6ae37cb-4f41-455b-bb56-afa91fac423f",
+            "title": "Övning",
+            "content": "1. Ta fram papper och penna. Börja med att rita din egen darttavla, ungefär som den ovan.\n2. Skriv ned kategorierna fritid, relationer, hälsa och arbete/utbildning i varsitt hörn.\n3. Markera med en punkt var på tavlan du befinner dig idag inom respektive område.\n\n*Bulls eye/i mitten = jag lever fullt ut enligt mina värderingar*\n\n*Yttersta cirkeln/längst ut = jag lever inte enligt mina värderingar*",
+            "buttonText": "Jag är klar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/relation1_aseqlk.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c866ac9c-2206-47bc-9368-fed25e8a40f6",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/relation_2_r3x8eg.png",
+            "content": "\n\n4. Vilken punkt är längst ut från mitten?\n5. Identifiera och skriv ned 2-4 värderingar inom det området i livet.",
+            "infoItems": [
+              {
+                "title": "Visa exempel",
+                "description": "* **Hälsa**: Vara fysiskt aktiv.\n* **Relationer**: Vara en pålitlig vän.\n* **Arbete/utbildning**: Lära mig nya saker.\n* **Fritid**: Träffa nya människor."
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f82768d0-d109-4830-b0d9-d00da7058b0c",
+            "content": "6. Välj en av värderingarna du skrivit ned. Om du skulle leva mer efter den här värderingen, vad skulle du göra mer av?\n7. Välj ut ett konkret beteende du kan göra här och nu för att leva ett mer meningsfullt liv. Det behöver inte vara en stor förändring, bara något som tar dig ett steg närmare att leva som du vill. \n8. Om det är möjligt, gör beteendet nu. Om det inte går, planera när och var du ska göra det.",
+            "buttonText": "Jag är klar",
+            "infoItems": [
+              {
+                "title": "Visa exempel",
+                "description": "*Sms:a en kompis, ta en promenad, läsa en sida, ta tio djupa andetag. Kom ihåg att det inte behöver vara en stor förändring, bara något som tar dig ett steg närmare att leva som du vill.*"
+              }
+            ]
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "5ed0f53e-c6ff-427d-b03c-8cfbce4023b1",
+            "buttonText": "Jag är klar",
+            "question": "Hur skulle ditt liv se ut om du levde mer utifrån den värdering du valt?",
+            "exampleText": "Jag skulle vara mindre ensam och umgås mer och oftare med andra."
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6d48824a-7ceb-441b-90cb-cb5dd998c978",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "",
+            "content": "Du har nu tagit dig tid åt att reflektera över dina värderingar och vad du kan göra för att leva så som du vill. Bra jobbat!\n\nVarje dag fattar vi hundratals beslut – stora som små – om hur vi vill agera i världen. Du kan plocka fram din darttavla i huvudet då och då för att hjälpa dig uppmärksamma inom vilket område du vill ta steg för att leva mer i linje med dina värderingar.\n\nKom gärna tillbaka till övningen för att följa din utveckling och uppdatera din tavla.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/doing_what_matters_awxyzr.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "3eb09052-5270-4fef-92e1-5ccdd4461312",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-3eb09052-5270-4fef-92e1-5ccdd4461312",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "1b9641bc-b2b8-4c22-a475-75bd9078e3ff",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "febe937e-a894-4aff-80f1-ae2deaca5676",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6d48824a-7ceb-441b-90cb-cb5dd998c978",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

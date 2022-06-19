@@ -1,10 +1,24 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-insideoutside-1",
-    "alias": "relationships-insideoutside-1",
-    "root": "1",
+    "alias": "YA building relationships 4: insideoutside-1",
+    "root": "983f6a4d-7a1e-45a6-9429-1f01251072be",
     "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "983f6a4d-7a1e-45a6-9429-1f01251072be",
+        "alias": "1a",
+        "title": "Inside-outside",
+        "content": "So far, you have trained to **pause**, your **friendship skills** and to be **conscious** and **permissive**. In this challenge, you'll try the **inside-outside** check–a way to understand yourself and others better.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "1"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610758/Building%20Relationships/inside-outside_lession_voxu2r.png"
+      },
       {
         "content": [
           {
@@ -12,7 +26,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Welcome back! Glad to see you again. In this challenge you'll learn:\n\n* Inside-outside-view\n* What others may think\n* Practice asking\n\nSo far you’ve learned these skills: **pause**, **aware** and **allow.** In this challenge we’ll add the skill of **inside-outside vision**."
+                "content": "This challenge contains\n\n* Mind reading\n* Inside-outside check\n* What do others think?\n* Practice asking\n* Build relationships in five steps"
               }
             ]
           },
@@ -22,7 +36,6 @@
               {
                 "component": "Button",
                 "content": "I'm ready",
-                "conversationId": "relationships-insideoutside-1",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +54,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "It is a super skill for learning to connect with others and understanding them better. How? Inside-outside is all about looking at things from *different perspectives*. It can also help you be understood.\n\nPractice it, and you’ll learn to connect better with others - and jump to less faulty conclusions."
+                "content": "The inside-out check is a super skill for sensing connection to others and understanding them better. It's about taking different **perspectives** and can also help others understand you better.\n\nIf you practice the inside-outside check, you'll be able to feel closer to others – and make fewer mistakes in your conclusions."
               }
             ]
           },
@@ -51,7 +64,6 @@
               {
                 "component": "Button",
                 "content": "Let's start",
-                "conversationId": "relationships-insideoutside-1",
                 "sectionId": "3"
               }
             ]
@@ -68,7 +80,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# **Inside-outside vision**\n\nWe humans have evolved to try to read other people – kinda like mind-reading. We guess what they might think or feel about us.\n\nBeing social is so important to humans that our brains are constantly trying to guess what others feel and whether they like us, or will be kind to us. This helps us decide if we like people, and whether they seem to like us or not."
+                "content": "## Mind reading\n\nWe humans have evolved to be really good at reading other people, much like mind reading. We **guess** what others think or feel about us – all the time.\n\nBeing part of the herd is so important to us that our brains **constantly** try to understand if others like us or will be kind."
               }
             ]
           },
@@ -78,7 +90,6 @@
               {
                 "component": "Button",
                 "content": "Go on",
-                "conversationId": "relationships-insideoutside-1",
                 "sectionId": "4"
               }
             ]
@@ -95,7 +106,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Mind-reading is a great ability.\n\nExcept when you’re wrong.\n\nWhich, statistically, is most of the time.\n\nWith inside-outside vision you'll learn how to use your existing mind-reading skill - but in your favor. It will help build relationships instead of risking to tear them apart."
+                "content": "Mind reading is a great thing.\n\nExcept when we're wrong.\n\nWhich we actually are most of the time.\n\nToday, you'll get to test the **inside-outside check**, a smart way to get the mind-reading ability we already have to **help** in relationships, instead of destroying."
               }
             ]
           },
@@ -103,10 +114,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Next",
                 "conversationId": "relationships-insideoutside-2",
-                "sectionId": "1"
+                "variant": "primary"
               }
             ]
           }
@@ -116,9 +127,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-insideoutside-1",
-    "alias": "relationships-insideoutside-1",
+    "alias": "YA building relationships 4: insideoutside-1",
     "root": "1a",
     "sections": [
       {
@@ -133,7 +143,8 @@
             "content": "Nästa",
             "sectionId": "1"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610758/Building%20Relationships/inside-outside_lession_voxu2r.png"
       },
       {
         "id": "1",
@@ -154,7 +165,6 @@
               {
                 "component": "Button",
                 "content": "Kör igång",
-                "conversationId": "relationships-insideoutside-1",
                 "sectionId": "2"
               }
             ]
@@ -181,7 +191,6 @@
               {
                 "component": "Button",
                 "content": "Okej",
-                "conversationId": "relationships-insideoutside-1",
                 "sectionId": "3"
               }
             ]
@@ -208,7 +217,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-1",
                 "sectionId": "4"
               }
             ]
@@ -233,10 +241,137 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
-                "sectionId": "1",
+                "component": "NextConversationButton",
                 "conversationId": "relationships-insideoutside-2",
-                "content": "Gå vidare"
+                "content": "Gå vidare",
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-insideoutside-1",
+    "alias": "YA building relationships 4: insideoutside-1",
+    "root": "983f6a4d-7a1e-45a6-9429-1f01251072be",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "983f6a4d-7a1e-45a6-9429-1f01251072be",
+        "alias": "1a",
+        "title": "De dentro para fora",
+        "content": "Até agora, praticaste a **pausa,** as tuas **competências de amizade**, bem como a ser **mais consciente** e a **aceitar**. Neste desafio, vais experimentar o check-in **de dentro para fora** – uma maneira de te entenderes melhor a ti mesma/o e aos outros.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "1"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619610758/Building%20Relationships/inside-outside_lession_voxu2r.png"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Este desafio contém\n\n* Leitura de pensamentos\n* Check-in de dentro para fora\n* O que os outros pensam?\n* Pratica perguntar\n* Constrói relações em cinco passos"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Estou pronta/o",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "O check-in de dentro para fora é uma super competência para sentir a conexão com os outros e entendê-los melhor. Trata-se de ter diferentes **perspectivas** e também pode ajudar as outras pessoas a entender-te melhor.\n\nSe praticares o check-in de dentro para fora, poderás sentir-te mais próxima/o dos outros – e cometer menos erros nas tuas conclusões."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos começar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Leitura de pensamentos\n\nNós, humanos, evoluímos para sermos realmente bons a ler as outras pessoas, assim como os pensamentos. **Tentamos adivinhar** o que os outros pensam ou sentem em relação a nós a toda a hora.\n\nFazer parte do rebanho é tão importante para nós que os nossos cérebros tentam **constantemente** entender se os outros gostarão de nós ou se serão gentis."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "A leitura dos pensamentos é uma coisa fantástica.\n\nExceto quando estamos errados.\n\nO que na maioria das vezes estamos.\n\nHoje, vais poder testar o **check-in de dentro para fora**, uma maneira inteligente de usar a capacidade que já temos de ler os pensamentos para **ajudar** nos relacionamentos, em vez de os danificar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Seguinte ",
+                "conversationId": "relationships-insideoutside-2",
+                "variant": "primary"
               }
             ]
           }

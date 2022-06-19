@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "kritikern-och-kompisen-2",
-    "alias": "kritikern-och-kompisen-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-2",
     "root": "section1",
     "sections": [
       {
@@ -32,7 +31,6 @@
               {
                 "component": "Button",
                 "content": "Move on",
-                "conversationId": "kritikern-och-kompisen-2",
                 "sectionId": "section2"
               }
             ]
@@ -47,8 +45,8 @@
           {
             "component": "AudioPlayer",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv/Andningsankaret.mp3",
-              "duration": 208
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624537734/Become%20friends%20with%20yourself/sound%20files/YA_breathinganchor_wxmssf.mp4",
+              "duration": 3
             }
           },
           {
@@ -57,7 +55,6 @@
               {
                 "component": "Button",
                 "content": "continue",
-                "conversationId": "kritikern-och-kompisen-2",
                 "sectionId": "section3"
               }
             ]
@@ -78,7 +75,7 @@
               },
               {
                 "component": "Text",
-                "content": "Focusing on breathing can be a way to land when emotions and thoughts pull away."
+                "content": "Focusing on your breathing can be a way to become present in the moment, when emotions and thoughts try to pull us away."
               }
             ]
           },
@@ -87,9 +84,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Next",
-                "conversationId": "kritikern-och-kompisen-3",
-                "sectionId": "section1"
+                "conversationId": "kritikern-och-kompisen-3"
               }
             ]
           }
@@ -102,8 +99,7 @@
   },
   "sv": {
     "id": "kritikern-och-kompisen-2",
-    "alias": "kritikern-och-kompisen-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-2",
     "root": "section1",
     "sections": [
       {
@@ -133,7 +129,6 @@
               {
                 "component": "Button",
                 "content": "Gå vidare",
-                "conversationId": "kritikern-och-kompisen-2",
                 "sectionId": "section2"
               }
             ]
@@ -158,7 +153,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "kritikern-och-kompisen-2",
                 "sectionId": "section3"
               }
             ]
@@ -188,9 +182,107 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Nästa",
-                "conversationId": "kritikern-och-kompisen-3",
-                "sectionId": "section1"
+                "conversationId": "kritikern-och-kompisen-3"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "kritikern-och-kompisen-2",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-2",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_focus_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Exercício de foco"
+              },
+              {
+                "component": "Text",
+                "content": "Agora que já pensaste no teu crítico interior, podem surgir algumas emoções e pensamentos. Uma maneira de lidar com eles é fazer um exercício de foco."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893823/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Meditations%20Exercises%20Audio/S%C3%AA_teu_amigo_-_-_o_cr%C3%ADtico_e_o_amigo_-_EXERCICIO_DE_FOCO_-_04_11_oa0bjs.mp3",
+              "duration": 4
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "continuar",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Muito bem!"
+              },
+              {
+                "component": "Text",
+                "content": "Centrares-te na respiração pode ser uma forma de estar presente no momento, quando emoções e pensamentos nos tentam afastar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte ",
+                "conversationId": "kritikern-och-kompisen-3"
               }
             ]
           }

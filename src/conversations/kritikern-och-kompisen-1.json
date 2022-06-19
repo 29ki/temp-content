@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "kritikern-och-kompisen-1",
-    "alias": "kritikern-och-kompisen-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-1",
     "root": "section1",
     "sections": [
       {
@@ -18,15 +17,15 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Critics & buddy"
+                "content": "# The critic & the friend"
               },
               {
                 "component": "Text",
-                "content": "Every human being has both a critic and a friend within him."
+                "content": "Every human being keeps both a critic and a friend within themselves."
               },
               {
                 "component": "Text",
-                "content": "In this challenge, you get to know them both, so that it becomes easier to pick out your inner friend when you need it best."
+                "content": "In this lesson, you'll get to know them both, so that it becomes easier to call on  your inner friend when you really need to."
               }
             ]
           },
@@ -36,7 +35,6 @@
               {
                 "component": "Button",
                 "content": "Sounds good",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "sectionContents"
               }
             ]
@@ -53,11 +51,11 @@
             "content": [
               {
                 "component": "Subtitle",
-                "content": "The critic & friend contains 3 steps:"
+                "content": "The critic & the friend has three parts:"
               },
               {
                 "component": "Text",
-                "content": "* Internal critic\n* Focus exercise\n* Inner buddy"
+                "content": "* Inner critic\n* Focus exercise\n* Inner friend"
               }
             ]
           },
@@ -67,7 +65,6 @@
               {
                 "component": "Button",
                 "content": "Let's go!",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section2"
               }
             ]
@@ -84,11 +81,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Our inner critic"
+                "content": "# The inner critic"
               },
               {
                 "component": "Text",
-                "content": "We often have high demands on ourselves. At school, at training, or when we are with our friends."
+                "content": "We often place high demands on ourselves. At school, at the gym, or when we hang out with friends."
               }
             ]
           },
@@ -98,7 +95,6 @@
               {
                 "component": "Button",
                 "content": "Okay, keep going",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section3"
               }
             ]
@@ -115,7 +111,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "If we do not live up to the requirements, our inner critic often goes ahead and says that we are not good enough, nothing can or is bad."
+                "content": "If we don't live up to those demands, the inner critic often steps out to say we're not good enough, are incapable or bad."
               }
             ]
           },
@@ -124,8 +120,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "See others tell",
-                "conversationId": "kritikern-och-kompisen-1",
+                "content": "See others share",
                 "sectionId": "section4"
               }
             ]
@@ -144,19 +139,22 @@
                 "title": "",
                 "duration": 49,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623855754/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/sharing1-en_xm17vq.vtt"
               },
               {
                 "title": "",
                 "duration": 72,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.1.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.1.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.1.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623855755/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/sharings1.1-en_ekrgk6.vtt"
               },
               {
                 "title": "",
                 "duration": 45,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623855755/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/sharings1.2-en_ynh447.vtt"
               }
             ]
           },
@@ -165,15 +163,14 @@
             "content": [
               {
                 "component": "Button",
-                "content": "continue",
-                "conversationId": "kritikern-och-kompisen-1",
+                "content": "Continue",
                 "sectionId": "section5"
               }
             ]
           }
         ],
         "id": "section4",
-        "alias": "section4",
+        "alias": "section4 - Videos",
         "type": "defaultSection"
       },
       {
@@ -183,11 +180,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Most of us do not even notice when our inner critic starts. It may have always been there as an obvious part of what we experience every day."
+                "content": "Most of us don't even notice when the inner critic gets going. Maybe it's always been there, as a part of what we experience every day."
               },
               {
                 "component": "Text",
-                "content": "So, now you have to look inward and find your own inner critic."
+                "content": "So, now it's time to gaze inward and find your own inner critic."
               }
             ]
           },
@@ -196,8 +193,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Okay, keep going",
-                "conversationId": "kritikern-och-kompisen-1",
+                "content": "Okay",
                 "sectionId": "section6"
               }
             ]
@@ -212,7 +208,7 @@
           {
             "component": "Exercise",
             "exerciseId": "when-do-you-feel-inadequate",
-            "exerciseTitle": "In what situations does your inner critic start?",
+            "exerciseTitle": "What situations trigger your inner critic?",
             "content": [
               {
                 "component": "TextGroup",
@@ -223,15 +219,15 @@
                   },
                   {
                     "component": "Text",
-                    "content": "# In what situations does your inner critic start?"
+                    "content": "# What situations gets your inner critic started?"
                   },
                   {
                     "component": "Quote",
-                    "content": "My inner critic starts when I feel left out or when I fail at something."
+                    "content": "My inner critic gets going when I feel left out or when I fail at something."
                   },
                   {
                     "component": "Text",
-                    "content": "Write down your answer where only you can see it."
+                    "content": "Write down your answer somewhere only you can see it."
                   }
                 ]
               }
@@ -242,7 +238,6 @@
             "content": [
               {
                 "component": "Button",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section7",
                 "content": "I'm finished"
               }
@@ -258,7 +253,7 @@
           {
             "component": "Exercise",
             "exerciseId": "what-does-your-inner-critic-sound-like",
-            "exerciseTitle": "And how does your inner critic sound?",
+            "exerciseTitle": "How does your inner critic sound?",
             "content": [
               {
                 "component": "TextGroup",
@@ -269,15 +264,15 @@
                   },
                   {
                     "component": "Text",
-                    "content": "# And how does your inner critic sound?"
+                    "content": "# How does your inner critic sound?"
                   },
                   {
                     "component": "Quote",
-                    "content": "My inner critic says that I am stupid, stupid, nothing can or is not worth anything."
+                    "content": "My inner critic says that I am dumb, stupid, can't do anything or aren't worth anything."
                   },
                   {
                     "component": "Text",
-                    "content": "Write down your answer where only you can see it."
+                    "content": "Write down your answer somewhere only you can see it."
                   }
                 ]
               }
@@ -288,9 +283,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "I'm finished",
-                "conversationId": "kritikern-och-kompisen-2",
-                "sectionId": "section1"
+                "variant": "primary",
+                "content": "I'm done",
+                "conversationId": "kritikern-och-kompisen-2"
               }
             ]
           }
@@ -303,8 +298,7 @@
   },
   "sv": {
     "id": "kritikern-och-kompisen-1",
-    "alias": "kritikern-och-kompisen-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-1",
     "root": "section1",
     "sections": [
       {
@@ -338,7 +332,6 @@
               {
                 "component": "Button",
                 "content": "Låter bra",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "sectionContents"
               }
             ]
@@ -369,7 +362,6 @@
               {
                 "component": "Button",
                 "content": "Kör igång!",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section2"
               }
             ]
@@ -400,7 +392,6 @@
               {
                 "component": "Button",
                 "content": "Okej, fortsätt",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section3"
               }
             ]
@@ -427,7 +418,6 @@
               {
                 "component": "Button",
                 "content": "Se andra berätta",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section4"
               }
             ]
@@ -446,19 +436,22 @@
                 "title": "",
                 "duration": 49,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943805/Become%20friends%20with%20yourself/subtitles/sharing1_d42fmd.vtt"
               },
               {
                 "title": "",
                 "duration": 72,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.1.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.1.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharing1.1.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943805/Become%20friends%20with%20yourself/subtitles/sharings1.1_lemy0k.vtt"
               },
               {
                 "title": "",
                 "duration": 45,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings1.2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943805/Become%20friends%20with%20yourself/subtitles/sharings1.2_kufklj.vtt"
               }
             ]
           },
@@ -468,7 +461,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section5"
               }
             ]
@@ -499,7 +491,6 @@
               {
                 "component": "Button",
                 "content": "Okej, fortsätt",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section6"
               }
             ]
@@ -544,7 +535,6 @@
             "content": [
               {
                 "component": "Button",
-                "conversationId": "kritikern-och-kompisen-1",
                 "sectionId": "section7",
                 "content": "Jag är klar"
               }
@@ -590,9 +580,312 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Jag är klar",
-                "conversationId": "kritikern-och-kompisen-2",
-                "sectionId": "section1"
+                "conversationId": "kritikern-och-kompisen-2"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "kritikern-och-kompisen-1",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-1",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# O crítico e o amigo ou a amiga"
+              },
+              {
+                "component": "Text",
+                "content": "Todos os seres humanos têm dentro de si um crítico e um amigo ou uma amiga."
+              },
+              {
+                "component": "Text",
+                "content": "Nesta lição, vais conhecer os dois, para que seja mais fácil chamar o teu amigo ou a tua amiga interior quando realmente precisares."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Parece-me bem ",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "O crítico e o amigo ou a amiga tem três partes:"
+              },
+              {
+                "component": "Text",
+                "content": "* Crítico interior\n* Exercício de foco\n* Amigo ou amiga interior"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos lá!",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# O crítico interior"
+              },
+              {
+                "component": "Text",
+                "content": "Muitas vezes colocamo-nos exigências muito elevadas. Na escola, no ginásio ou quando saímos com amigos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se não estivermos à altura dessas exigências, o crítico interior muitas vezes aparece para dizer que não somos bons o suficiente, somos incapazes ou maus."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Ver algumas partilhas",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "António Casalinho",
+                "duration": 143,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357230/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L1V1_mu59xn.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_L1V1_co086d.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Leonor",
+                "duration": 85,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358576/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L1V1_pdgg2y.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379529/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/O_critico_e_o_amigo_-_video_1_thyk2e.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Daniela",
+                "duration": 62,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357776/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L1V1_xzrhnp.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375117/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_S%C3%AA_teu_amigo_-_video_1_raceyx.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358340/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L1V1_iclrsn.mp4",
+                "duration": 137,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379408/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/O_critico_e_o_amigo_-_video_1_phzwpn.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4 - Videos",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "A maioria de nós nem percebe quando o crítico interior começa a agir. Talvez sempre tenha estado lá, como parte do que vivenciamos todos os dias."
+              },
+              {
+                "component": "Text",
+                "content": "Então, agora é hora de olhar para dentro e encontrar o teu próprio crítico interior."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "when-do-you-feel-inadequate",
+            "exerciseTitle": "Que situações desencadeiam o teu crítico interior?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercício"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# Que situações fazem com que o teu crítico interior se ative?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "O meu crítico interior ativa-se quando me sinto excluído/a ou quando falho em alguma coisa."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Escreve a tua resposta e guarda-a num lugar a que só tu tenhas acesso."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "section7",
+                "content": "Já acabei"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "what-does-your-inner-critic-sound-like",
+            "exerciseTitle": "Como soa o teu crítico interior?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercício"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# Como soa o teu crítico interior?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "O meu crítico interior diz que sou burra/o, estúpida/o, não consigo fazer nada bem ou que não valho nada."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Escreve a tua resposta num lugar que só tu possas ver."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Já acabei ",
+                "conversationId": "kritikern-och-kompisen-2"
               }
             ]
           }

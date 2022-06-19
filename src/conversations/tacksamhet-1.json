@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "tacksamhet-1",
-    "alias": "tacksamhet-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 4-Gratitude-1",
     "root": "section1",
     "sections": [
       {
@@ -18,15 +17,15 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Tacksamhet"
+                "content": "# Gratitude"
               },
               {
                 "component": "Text",
-                "content": "Ibland kan det kännas som att dagarna passerar, utan att vi lägger märke till att det är dom som är livet. Att göra-listor, aktiviteter, kompisar, familj och beslut fyller lätt upp vardagen och vi funderar kanske sällan på vad det är som gör livet meningsfullt."
+                "content": "Sometimes it feels like the days pass by without us noticing that this is life. To-do lists, activities, friends, family and decisions easily fill our everyday life and we may rarely think about what makes life meaningful."
               },
               {
                 "component": "Text",
-                "content": "I den här utmaningen får du stanna upp och fundera över olika saker som du är tacksam över i ditt liv."
+                "content": "In this lesson, you'll get to stop and think about different things that you are grateful for in life."
               }
             ]
           },
@@ -35,9 +34,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Låter bra",
-                "sectionId": "section2",
-                "conversationId": "tacksamhet-1"
+                "content": "Sounds good",
+                "sectionId": "section2"
               }
             ]
           }
@@ -53,11 +51,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Den här utmaningen innehåller tre delar:"
+                "content": "This lesson has three parts:"
               },
               {
                 "component": "Text",
-                "content": "* Tacksamhetsbrev ett\n* Fokusövning\n* Tacksamhetsbrev två"
+                "content": "* Letter of gratitude one\n* Focus exercise\n* Letter of gratitude two"
               }
             ]
           },
@@ -66,9 +64,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Kör igång",
-                "sectionId": "section3",
-                "conversationId": "tacksamhet-1"
+                "content": "Let's go",
+                "sectionId": "section3"
               }
             ]
           }
@@ -84,11 +81,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Vad är du tacksam för?"
+                "content": "# What are you grateful for?"
               },
               {
                 "component": "Text",
-                "content": "Välj en person som du uppskattar. Fundera på vad den här personen gör som du gillar."
+                "content": "Chose a person that you appreciate. Think about what this person does that you like."
               }
             ]
           },
@@ -98,8 +95,7 @@
               {
                 "component": "Button",
                 "content": "ok",
-                "sectionId": "section4",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section4"
               }
             ]
           }
@@ -115,7 +111,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Se om du kan komma på exempel på vad personen gjort som du känner tacksamhet för. Det kan till exempel handla om att någon lyssnade på dig när du behövde det, att någon hjälpte dig med läxan eller att någon frågade om du ville följa med och fika. Stort eller smått spelar ingen roll."
+                "content": "See if you can come up with examples of what the person has done that you feel grateful for. \n\nFor example, it could be that someone listened to you when you needed it, that someone helped you with your homework or that someone asked if you wanted to come along and hang out. Big or small actions doesn't matter."
               }
             ]
           },
@@ -124,9 +120,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Se andra berätta",
-                "sectionId": "section5",
-                "conversationId": "tacksamhet-1"
+                "content": "See others explain",
+                "sectionId": "section5"
               }
             ]
           }
@@ -146,19 +141,22 @@
                 "title": "Isaac, 20",
                 "duration": 53,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623859964/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/laila-tacksamhet-en_lcpby4.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 48,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623859964/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/emelia-tacksamhet-en_kyz5ny.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 46,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623859964/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/laila-tacksamhet-en_lcpby4.vtt"
               }
             ]
           },
@@ -167,9 +165,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "sectionId": "section6",
-                "conversationId": "tacksamhet-1"
+                "content": "Keep going",
+                "sectionId": "section6"
               }
             ]
           }
@@ -185,15 +182,15 @@
             "content": [
               {
                 "component": "Subtitle",
-                "content": "Övning"
+                "content": "Exercise"
               },
               {
                 "component": "Text",
-                "content": "Formulera nu ett brev eller meddelande till den här personen, där du berättar varför du är tacksam för att hen finns i ditt liv. Beskriv vad personen betyder för dig. Tänk dig att du ska skicka ett brev eller ett meddelande, men skriv eller spela in dig själv någonstans där bara du kan se det. "
+                "content": "Now write a letter or a text message to this person, where you tell them **why** you're grateful that they are part of your life. \n\nDescribe what the person **means** to you. Imagine sending a letter or message, but write or record what you say somewhere where only you can see it."
               },
               {
                 "component": "Text",
-                "content": "Om du vill kan du börja med ”Kära ...”"
+                "content": "If you like, you can start with \"Dear...\""
               }
             ]
           },
@@ -202,9 +199,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är klar",
-                "sectionId": "section7",
-                "conversationId": "tacksamhet-1"
+                "content": "I'm done",
+                "sectionId": "section7"
               }
             ]
           }
@@ -220,15 +216,20 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Bra jobbat, det var modigt av dig att formulera din tacksamhet mot den här personen."
+                "content": "Good job, it was brave of you to formulate your gratitude to that person."
               }
             ]
           },
           {
-            "component": "NextConversationButton",
-            "content": "Next step",
-            "sectionId": "section1",
-            "conversationId": "tacksamhet-2"
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next step",
+                "conversationId": "tacksamhet-2"
+              }
+            ]
           }
         ],
         "type": "defaultSection"
@@ -237,8 +238,7 @@
   },
   "sv": {
     "id": "tacksamhet-1",
-    "alias": "tacksamhet-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 4-Gratitude-1",
     "root": "section1",
     "sections": [
       {
@@ -258,11 +258,11 @@
               },
               {
                 "component": "Text",
-                "content": "Ibland kan det kännas som att dagarna passerar, utan att vi lägger märke till att det är dom som är livet. Att göra-listor, aktiviteter, kompisar, familj och beslut fyller lätt upp vardagen och vi funderar kanske sällan på vad det är som gör livet meningsfullt."
+                "content": "Ibland kan det kännas som att dagarna passerar, utan att vi riktigt lägger märke till att det är det här som är livet. Att göra-listor, aktiviteter, kompisar, familj och beslut fyller lätt upp vardagen och vi funderar kanske sällan på vad det är som gör livet meningsfullt."
               },
               {
                 "component": "Text",
-                "content": "I den här utmaningen får du stanna upp och fundera över olika saker som du är tacksam över i ditt liv."
+                "content": "I den här lektionen får du stanna upp och fundera över olika saker som du är tacksam över i ditt liv."
               }
             ]
           },
@@ -272,8 +272,7 @@
               {
                 "component": "Button",
                 "content": "Låter bra",
-                "sectionId": "section2",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section2"
               }
             ]
           }
@@ -289,7 +288,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Den här utmaningen innehåller tre delar:"
+                "content": "Den här lektionen innehåller tre delar:"
               },
               {
                 "component": "Text",
@@ -303,8 +302,7 @@
               {
                 "component": "Button",
                 "content": "Kör igång",
-                "sectionId": "section3",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section3"
               }
             ]
           }
@@ -334,8 +332,7 @@
               {
                 "component": "Button",
                 "content": "ok",
-                "sectionId": "section4",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section4"
               }
             ]
           }
@@ -351,7 +348,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Se om du kan komma på exempel på vad personen gjort som du känner tacksamhet för. Det kan till exempel handla om att någon lyssnade på dig när du behövde det, att någon hjälpte dig med läxan eller att någon frågade om du ville följa med och fika. Stort eller smått spelar ingen roll."
+                "content": "Se om du kan komma på exempel på vad personen gjort som du känner tacksamhet för. \n\nDet kan till exempel handla om att någon lyssnade på dig när du behövde det, att någon hjälpte dig med läxan eller att någon frågade om du ville följa med och fika. Stort eller smått spelar ingen roll."
               }
             ]
           },
@@ -361,8 +358,7 @@
               {
                 "component": "Button",
                 "content": "Se andra berätta",
-                "sectionId": "section5",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section5"
               }
             ]
           }
@@ -382,19 +378,22 @@
                 "title": "Isaac, 20",
                 "duration": 53,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621609239/Become%20friends%20with%20yourself/subtitles/isaac-tacksamhet_sgyamw.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 48,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621609238/Become%20friends%20with%20yourself/subtitles/emelia-tacksamhet_yvlynr.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 46,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621609238/Become%20friends%20with%20yourself/subtitles/laila-tacksamhet_pwguoo.vtt"
               }
             ]
           },
@@ -404,8 +403,7 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "sectionId": "section6",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section6"
               }
             ]
           }
@@ -425,7 +423,7 @@
               },
               {
                 "component": "Text",
-                "content": "Formulera nu ett brev eller meddelande till den här personen, där du berättar varför du är tacksam för att hen finns i ditt liv. Beskriv vad personen betyder för dig. Tänk dig att du ska skicka ett brev eller ett meddelande, men skriv eller spela in dig själv någonstans där bara du kan se det. "
+                "content": "Formulera nu ett brev eller meddelande till den här personen, där du berättar **varför** du är tacksam för att hen finns i ditt liv. \n\nBeskriv vad personen **betyder** för dig. Tänk dig att du ska skicka ett brev eller ett meddelande, men skriv eller spela in dig själv någonstans där bara du kan se det."
               },
               {
                 "component": "Text",
@@ -439,8 +437,7 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "sectionId": "section7",
-                "conversationId": "tacksamhet-1"
+                "sectionId": "section7"
               }
             ]
           }
@@ -465,8 +462,251 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Next step",
-                "sectionId": "section1",
+                "variant": "primary",
+                "content": "Nästa steg",
+                "conversationId": "tacksamhet-2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "tacksamhet-1",
+    "alias": "YA Become friends: 4-Gratitude-1",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Gratidão"
+              },
+              {
+                "component": "Text",
+                "content": "Às vezes parece que os dias passam sem que percebamos que isso é a vida. Listas de tarefas, atividades, amigos, família e decisões preenchem facilmente a nossa vida quotidiana e raramente pensamos sobre o que dá significado à vida."
+              },
+              {
+                "component": "Text",
+                "content": "Nesta lição, vais parar e pensar em coisas diferentes pelas quais agradeces na tua vida."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Soa-me bem",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Esta lição tem três partes:"
+              },
+              {
+                "component": "Text",
+                "content": "* Carta de agradecimento número um;\n* Exercício de foco;\n* Carta de agradecimento número dois."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos lá",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Pelo que agradeces?"
+              },
+              {
+                "component": "Text",
+                "content": "Escolhe uma pessoa de quem gostes. Pensa naquilo que essa pessoa faz que te agrada."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Vê se consegues dar exemplos de uma coisa que a pessoa fez e pela qual te sentes grata/o.\n\nPor exemplo, pode ser que alguém te tenha ouvido quando precisaste, que alguém te tenha ajudado com o teu trabalho de casa ou que alguém tenha perguntado se gostarias de sair com ela. Podem ser grandes ou pequenas ações."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vê os outros a partilhar",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "António Casalinho",
+                "duration": 131,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357224/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L4V1_cs2kah.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_L4V1_u9lxsp.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Leonor",
+                "duration": 68,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358567/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L4V1_ornkxo.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379528/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/Gratid%C3%A3o_-_video_1_z1wlso.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Daniela",
+                "duration": 93,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357792/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L4V1_lkhfvi.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375117/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_Gratid%C3%A3o_-_Video_1_baqxbb.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358306/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L4V1_enufbf.mp4",
+                "duration": 72,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379420/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/Gratid%C3%A3o_-_video_1_br8rdt.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercício"
+              },
+              {
+                "component": "Text",
+                "content": "Agora escreve uma carta ou uma mensagem de texto a essa pessoa, dizendo-lhe **por que** razão lhe agradeces ela fazer parte da tua vida.\n\nDescreve o que a pessoa **significa** para ti. Imagina enviar uma carta ou mensagem, mas escreve ou grava o que disseres em algum sítio onde só tu possas ver."
+              },
+              {
+                "component": "Text",
+                "content": "Se quiseres, podes começar com \"Querido/a...\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Acabei ",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bom trabalho, foi corajoso da tua parte pores por palavras a tua gratidão a essa pessoa."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Passo seguinte",
                 "conversationId": "tacksamhet-2"
               }
             ]

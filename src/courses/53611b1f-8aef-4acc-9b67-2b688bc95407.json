@@ -1,0 +1,349 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "José Neves",
+      "name": "José Neves"
+    },
+    "alias": "(COPY) Lidar com a ansiedade em momentos difíceis",
+    "name": "Lidar com a ansiedade em momentos difíceis",
+    "about": {
+      "body": "Não estamos sozinhos. Por vezes, a nossa vida coloca-nos em situações inesperadas.\n\nQuando somos confrontados com um desafio, é perfeitamente normal experienciar emoções fortes como stress, preocupação e ansiedade. É desta forma que o teu corpo e o teu cérebro te dizem que alguma coisa está errada.\n\nExperienciar emoções difíceis pode impulsionar-nos para ações construtivas. Mas, em vez disso, muitas vezes ficamos bloqueados na nossa ansiedade e adotamos comportamentos que nos fazem sentir pior.\n\nNeste curso, vamos aprender um conjunto de ferramentas psicológicas que podem reduzir os efeitos de tensão, de stress e de ansiedade.",
+      "howThisWorks": "#### Como funciona este curso\n\n* Este curso tem uma duração de 3 semanas\n* Uma lição por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com José Neves"
+          }
+        ],
+        "text": "**Lidar com a ansiedade em momentos difíceis** baseia-se na investigação desenvolvida por Stephen Hayes na área de ”Acceptance and Commitment Therapy” (**ACT**) .\n\nEste curso foi desenvolvido por psicólogos da 29k em colaboração com professores e investigadores do Karolinska Institute."
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958193/29k%20FJN/Courses/Menu%20Thumbnails/Jos%C3%A9_Menu02_final_qckifu.jpg"
+    },
+    "cta": "Estás numa situação difícil com medo do que o futuro te reserva? Este curso vai dar-te ferramentas para lidares com a ansiedade e o stress.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "53611b1f-8aef-4acc-9b67-2b688bc95407",
+    "lessons": [
+      {
+        "id": "8cee6eec-064a-424f-a9ef-4d73be928452",
+        "name": "Sair do ciclo da ansiedade",
+        "index": 0,
+        "description": "Aprende formas eficazes de interromper o ciclo de ansiedade",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "b3e863b8-47e9-4416-a6bb-624b155ecae1",
+            "title": "Não estás sozinho"
+          },
+          {
+            "title": "Não alimentes o monstro",
+            "conversationId": "6637aaf7-d706-4f23-82d1-1ef3549038e6"
+          },
+          {
+            "title": "Quebrar o ciclo da ansiedade",
+            "conversationId": "098276e4-d770-4701-b9ff-421f443a4677"
+          }
+        ]
+      },
+      {
+        "id": "c2e65531-5829-466a-9486-931e9b779b0c",
+        "name": "Agir para mudar",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Dá passos numa direção que faça sentido quando enfrentas obstáculos",
+        "conversations": [
+          {
+            "title": "Agir para mudar",
+            "conversationId": "3bcf5236-edb2-4231-8b56-bdb8e345088f"
+          },
+          {
+            "title": "Resolução de problemas",
+            "conversationId": "18ae1329-ec41-42f1-af35-1c2f1d596e8a"
+          },
+          {
+            "title": "Passos práticos",
+            "conversationId": "54202cad-449f-4cb9-bc73-733d111a37ea"
+          }
+        ]
+      },
+      {
+        "id": "1eb9834f-cca4-4207-bcfb-9aaa805b187e",
+        "name": "Enfrentar o que não podemos mudar",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Formas de enfrentar experiências difíceis e dolorosas.",
+        "conversations": [
+          {
+            "title": "Enfrentar a vida",
+            "conversationId": "8e61b45b-1d29-4b4d-b4f7-ef84995f5ec1"
+          },
+          {
+            "title": "A mão que cura",
+            "conversationId": "8748d940-0475-45d5-91d4-1a5379ea2f96"
+          },
+          {
+            "title": "Enfrentar as emoções",
+            "conversationId": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 122,
+      "rating": 4.3
+    },
+    "wip": true,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543629/29k%20FJN/Courses/Coping%20with%20Anxiety/Photos%20Final/1coursecover-copingwithanxiety_kecfjz.jpg"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "José Neves",
+      "name": "José Neves"
+    },
+    "alias": "(COPY) Lidar com a ansiedade em momentos difíceis",
+    "name": "Lidar com a ansiedade em momentos difíceis",
+    "about": {
+      "body": "Não estamos sozinhos. Por vezes, a nossa vida coloca-nos em situações inesperadas.\n\nQuando somos confrontados com um desafio, é perfeitamente normal experienciar emoções fortes como stress, preocupação e ansiedade. É desta forma que o teu corpo e o teu cérebro te dizem que alguma coisa está errada.\n\nExperienciar emoções difíceis pode impulsionar-nos para ações construtivas. Mas, em vez disso, muitas vezes ficamos bloqueados na nossa ansiedade e adotamos comportamentos que nos fazem sentir pior.\n\nNeste curso, vamos aprender um conjunto de ferramentas psicológicas que podem reduzir os efeitos de tensão, de stress e de ansiedade.",
+      "howThisWorks": "#### Como funciona este curso\n\n* Este curso tem uma duração de 3 semanas\n* Uma lição por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com José Neves"
+          }
+        ],
+        "text": "**Lidar com a ansiedade em momentos difíceis** baseia-se na investigação desenvolvida por Stephen Hayes na área de ”Acceptance and Commitment Therapy” (**ACT**) .\n\nEste curso foi desenvolvido por psicólogos da 29k em colaboração com professores e investigadores do Karolinska Institute."
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958193/29k%20FJN/Courses/Menu%20Thumbnails/Jos%C3%A9_Menu02_final_qckifu.jpg"
+    },
+    "cta": "Estás numa situação difícil com medo do que o futuro te reserva? Este curso vai dar-te ferramentas para lidares com a ansiedade e o stress.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "53611b1f-8aef-4acc-9b67-2b688bc95407",
+    "lessons": [
+      {
+        "id": "8cee6eec-064a-424f-a9ef-4d73be928452",
+        "name": "Sair do ciclo da ansiedade",
+        "index": 0,
+        "description": "Aprende formas eficazes de interromper o ciclo de ansiedade",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "b3e863b8-47e9-4416-a6bb-624b155ecae1",
+            "title": "Não estás sozinho"
+          },
+          {
+            "title": "Não alimentes o monstro",
+            "conversationId": "6637aaf7-d706-4f23-82d1-1ef3549038e6"
+          },
+          {
+            "title": "Quebrar o ciclo da ansiedade",
+            "conversationId": "098276e4-d770-4701-b9ff-421f443a4677"
+          }
+        ]
+      },
+      {
+        "id": "c2e65531-5829-466a-9486-931e9b779b0c",
+        "name": "Agir para mudar",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Dá passos numa direção que faça sentido quando enfrentas obstáculos",
+        "conversations": [
+          {
+            "title": "Agir para mudar",
+            "conversationId": "3bcf5236-edb2-4231-8b56-bdb8e345088f"
+          },
+          {
+            "title": "Resolução de problemas",
+            "conversationId": "18ae1329-ec41-42f1-af35-1c2f1d596e8a"
+          },
+          {
+            "title": "Passos práticos",
+            "conversationId": "54202cad-449f-4cb9-bc73-733d111a37ea"
+          }
+        ]
+      },
+      {
+        "id": "1eb9834f-cca4-4207-bcfb-9aaa805b187e",
+        "name": "Enfrentar o que não podemos mudar",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Formas de enfrentar experiências difíceis e dolorosas.",
+        "conversations": [
+          {
+            "title": "Enfrentar a vida",
+            "conversationId": "8e61b45b-1d29-4b4d-b4f7-ef84995f5ec1"
+          },
+          {
+            "title": "A mão que cura",
+            "conversationId": "8748d940-0475-45d5-91d4-1a5379ea2f96"
+          },
+          {
+            "title": "Enfrentar as emoções",
+            "conversationId": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 122,
+      "rating": 4.3
+    },
+    "wip": true,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543629/29k%20FJN/Courses/Coping%20with%20Anxiety/Photos%20Final/1coursecover-copingwithanxiety_kecfjz.jpg"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "José Neves",
+      "name": "José Neves"
+    },
+    "alias": "(COPY) Lidar com a ansiedade em momentos difíceis",
+    "name": "Lidar com a ansiedade em momentos difíceis",
+    "about": {
+      "body": "Não estamos sozinhos. Por vezes, a nossa vida coloca-nos em situações inesperadas.\n\nQuando somos confrontados com um desafio, é perfeitamente normal experienciar emoções fortes como stress, preocupação e ansiedade. É desta forma que o teu corpo e o teu cérebro te dizem que alguma coisa está errada.\n\nExperienciar emoções difíceis pode impulsionar-nos para ações construtivas. Mas, em vez disso, muitas vezes ficamos bloqueados na nossa ansiedade e adotamos comportamentos que nos fazem sentir pior.\n\nNeste curso, vamos aprender um conjunto de ferramentas psicológicas que podem reduzir os efeitos de tensão, de stress e de ansiedade.",
+      "howThisWorks": "#### Como funciona este curso\n\n* Este curso tem uma duração de 3 semanas\n* Uma lição por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com José Neves"
+          }
+        ],
+        "text": "**Lidar com a ansiedade em momentos difíceis** baseia-se na investigação desenvolvida por Stephen Hayes na área de ”Acceptance and Commitment Therapy” (**ACT**) .\n\nEste curso foi desenvolvido por psicólogos da 29k em colaboração com professores e investigadores do Karolinska Institute."
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958193/29k%20FJN/Courses/Menu%20Thumbnails/Jos%C3%A9_Menu02_final_qckifu.jpg"
+    },
+    "cta": "Estás numa situação difícil com medo do que o futuro te reserva? Este curso vai dar-te ferramentas para lidares com a ansiedade e o stress.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "53611b1f-8aef-4acc-9b67-2b688bc95407",
+    "lessons": [
+      {
+        "id": "8cee6eec-064a-424f-a9ef-4d73be928452",
+        "name": "Sair do ciclo da ansiedade",
+        "index": 0,
+        "description": "Aprende formas eficazes de interromper o ciclo de ansiedade",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "b3e863b8-47e9-4416-a6bb-624b155ecae1",
+            "title": "Não estás sozinho"
+          },
+          {
+            "title": "Não alimentes o monstro",
+            "conversationId": "6637aaf7-d706-4f23-82d1-1ef3549038e6"
+          },
+          {
+            "title": "Quebrar o ciclo da ansiedade",
+            "conversationId": "098276e4-d770-4701-b9ff-421f443a4677"
+          }
+        ]
+      },
+      {
+        "id": "c2e65531-5829-466a-9486-931e9b779b0c",
+        "name": "Agir para mudar",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Dá passos numa direção que faça sentido quando enfrentas obstáculos",
+        "conversations": [
+          {
+            "title": "Agir para mudar",
+            "conversationId": "3bcf5236-edb2-4231-8b56-bdb8e345088f"
+          },
+          {
+            "title": "Resolução de problemas",
+            "conversationId": "18ae1329-ec41-42f1-af35-1c2f1d596e8a"
+          },
+          {
+            "title": "Passos práticos",
+            "conversationId": "54202cad-449f-4cb9-bc73-733d111a37ea"
+          }
+        ]
+      },
+      {
+        "id": "1eb9834f-cca4-4207-bcfb-9aaa805b187e",
+        "name": "Enfrentar o que não podemos mudar",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Formas de enfrentar experiências difíceis e dolorosas.",
+        "conversations": [
+          {
+            "title": "Enfrentar a vida",
+            "conversationId": "8e61b45b-1d29-4b4d-b4f7-ef84995f5ec1"
+          },
+          {
+            "title": "A mão que cura",
+            "conversationId": "8748d940-0475-45d5-91d4-1a5379ea2f96"
+          },
+          {
+            "title": "Enfrentar as emoções",
+            "conversationId": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 122,
+      "rating": 4.3
+    },
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543629/29k%20FJN/Courses/Coping%20with%20Anxiety/Photos%20Final/1coursecover-copingwithanxiety_kecfjz.jpg"
+    }
+  }
+}

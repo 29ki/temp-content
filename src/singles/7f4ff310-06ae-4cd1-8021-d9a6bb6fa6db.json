@@ -1,0 +1,970 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Distance to your emotions",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/distance_to_your_emotions_alosoe.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db",
+    "description": "Brain shortcuts are often deceiving",
+    "wip": false,
+    "stations": [
+      {
+        "id": "synvillan",
+        "alias": "Exercise Distance to your emotions",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/distance_to_your_emotions_alosoe.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Distance to your emotions"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Our brains take shortcuts, and sometimes it doesn't work out right."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "In this exercise, you'll practice being skeptical of thoughts and consider how big a place anxiety occupies in life."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Start"
+          },
+          {
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+                },
+                "props": {
+                  "resizeMode": "cover"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Look closely at the center circles of these two figures. Which center circle is largest?"
+                  }
+                ]
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "We commonly perceive the right center circle as larger. But in fact, they are exactly the same size."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Why does the brain fool us like this?"
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Move on"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Our brains are programmed to constantly compare with what is around."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "In comparison with the small balls, the right center circle appears larger."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "In comparison with the large balls, the left center circle appears smaller."
+                  }
+                ]
+              }
+            ],
+            "id": "section4",
+            "alias": "section4",
+            "type": "defaultSection",
+            "buttonText": "Continue"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Our brain saves time and energy by taking shortcuts. And even when it comes to simple things - like comparing a group of circles - the brain sometimes draws conclusions that aren't  true."
+                  }
+                ]
+              }
+            ],
+            "id": "section5",
+            "alias": "section5",
+            "type": "defaultSection",
+            "buttonText": "Continue"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "More complicated things - like what others are thinking, what the future holds for us or what we need to do to get along with a friend - are even harder for our brains to deal with."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "The risk that our conclusions and thoughts aren't correct is high."
+                  }
+                ]
+              }
+            ],
+            "id": "section6",
+            "alias": "section6",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercise"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Do you recognize that your brain sometimes draws hasty conclusions?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "To yourself, describe a situation when your brain interpreted something wrong last week, and what that interpretation made you do."
+                  }
+                ]
+              }
+            ],
+            "id": "section7",
+            "alias": "section7",
+            "type": "defaultSection",
+            "buttonText": "I'm done"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "What would you like to do the next time you notice that your brain is drawing a hasty conclusion that may not be true? Think of another way to behave."
+                  }
+                ]
+              }
+            ],
+            "id": "section8",
+            "alias": "section8",
+            "type": "defaultSection",
+            "buttonText": "I'm done"
+          },
+          {
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+                },
+                "props": {
+                  "resizeMode": "cover"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Good work. Now we are back at the optical illusion. We can use it in more ways. Now imagine that the center circles are anxiety and the circles around are the rest of life."
+                  }
+                ]
+              }
+            ],
+            "id": "section9",
+            "alias": "section9",
+            "type": "defaultSection",
+            "buttonText": "Okay"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "If you don't do much of what's important to you in life—perhaps because anxiety stands in the way—then there is a great risk that your anxiety takes up a large place in life."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "In the same way that we interpret the right center circle as larger."
+                  }
+                ]
+              }
+            ],
+            "id": "section10",
+            "alias": "section10",
+            "type": "defaultSection",
+            "buttonText": "continue"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "If anxiety takes up a lot of space in life, you can change what the brain compares this with. That is, do more of what you find meaningful, even if you're anxious."
+                  }
+                ]
+              }
+            ],
+            "id": "section11",
+            "alias": "section11",
+            "type": "defaultSection",
+            "buttonText": "Move on"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "If you give more space and time to what's important to you in life, anxiety will take up less space in relation to the rest of life. In the same way as we perceive the left center circle."
+                  }
+                ]
+              }
+            ],
+            "id": "section12",
+            "alias": "section12",
+            "type": "defaultSection",
+            "buttonText": "continue"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "#### Well done!"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "You are now finished with the Distance to your emotions exercise and have practiced creating distance to the brain's interpretations and discovered that anxiety can be diminished if we increase other activities."
+                  }
+                ]
+              }
+            ],
+            "id": "section13",
+            "alias": "section13",
+            "type": "defaultSection",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "104eda7c-23d7-47f9-bf94-7ccf7b062db9",
+            "alias": "Sharing wall Distance to your emotions",
+            "question": "How can you use what you learned from the optical illusion in your everyday life?",
+            "exampleText": "Not trust my brain all the time, and try to do more of what I like... Hard, but possible?"
+          }
+        ],
+        "name": "Distance to your emotions",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Distans till känslor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/distance_to_your_emotions_alosoe.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db",
+    "description": "Hjärnans genvägar luras ofta",
+    "stations": [
+      {
+        "id": "synvillan",
+        "alias": "Exercise Distance to your emotions",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/distance_to_your_emotions_alosoe.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Distans till känslor"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Våra hjärnor tar genvägar i tillvaron, och ibland blir det inte rätt. "
+                  },
+                  {
+                    "component": "Text",
+                    "content": "I den här övningen får du träna på att vara skeptisk mot tankar och fundera på hur stor plats ångest tar i tillvaron."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Börja"
+          },
+          {
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+                },
+                "props": {
+                  "resizeMode": "cover"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Titta noga på mittcirklarna i de här båda figurerna. Vilken mittcirkel är störst?"
+                  }
+                ]
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Det vanligaste är att vi uppfattar den högra mittcirkeln som större. Men i själva verket så är de exakt lika stora."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Varför lurar hjärnan oss så här?"
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Gå vidare"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Våra hjärnor är programmerade att ständigt jämföra med det som finns runt omkring."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "I jämförelse med de små bollarna framstår den högra mittcirkeln som större."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "I jämförelse med de stora bollarna framstår den vänstra mittcirkeln som mindre."
+                  }
+                ]
+              }
+            ],
+            "id": "section4",
+            "alias": "section4",
+            "type": "defaultSection",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Vår hjärna sparar tid och energi genom att ta genvägar. Och även när det gäller enkla saker – som att jämföra en grupp med cirklar – så drar hjärnan ibland slutsatser som inte stämmer."
+                  }
+                ]
+              }
+            ],
+            "id": "section5",
+            "alias": "section5",
+            "type": "defaultSection",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Mer komplicerade saker – som vad andra tänker, hur det ska gå för oss i framtiden eller vad vi behöver göra för att bli sams med en kompis – är ännu svårare för våra hjärnor att hantera."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Risken att våra slutsatser och tankar inte stämmer är stor."
+                  }
+                ]
+              }
+            ],
+            "id": "section6",
+            "alias": "section6",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Övning"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Känner du igen att din hjärna drar förhastade slutsatser ibland?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Beskriv för dig själv en situation senaste veckan när din hjärna tolkade något fel, och vad tolkningen fick dig att göra."
+                  }
+                ]
+              }
+            ],
+            "id": "section7",
+            "alias": "section7",
+            "type": "defaultSection",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Nästa gång du märker att din hjärna drar en snabb slutsats som kanske inte stämmer, vad skulle du vilja gör då? Fundera ut ett alternativt beteende."
+                  }
+                ]
+              }
+            ],
+            "id": "section8",
+            "alias": "section8",
+            "type": "defaultSection",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+                },
+                "props": {
+                  "resizeMode": "cover"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Bra jobbat. Nu är vi tillbaka vid synvillan igen. Vi kan nämligen använda den på fler sätt. Tänk dig nu att mittcirklarna är ångest och cirklarna runt omkring är resten av livet."
+                  }
+                ]
+              }
+            ],
+            "id": "section9",
+            "alias": "section9",
+            "type": "defaultSection",
+            "buttonText": "Okej"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Om du inte gör så mycket av sådant som är viktigt för dig i livet – kanske för att ångesten står i vägen – så är det stor risk att din ångest tar upp stor plats i tillvaron."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "På samma sätt som att vi tolkar den högra mittcirkeln som större."
+                  }
+                ]
+              }
+            ],
+            "id": "section10",
+            "alias": "section10",
+            "type": "defaultSection",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Om ångest tar stor plats i livet så kan du ändra på det hjärnan jämför med – alltså göra mer av sådant du tycker är meningsfullt, även om du samtidigt har ångest."
+                  }
+                ]
+              }
+            ],
+            "id": "section11",
+            "alias": "section11",
+            "type": "defaultSection",
+            "buttonText": "Gå vidare"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Om det som är viktigt för dig i livet får mer utrymme och tid så kommer ångesten att ta mindre plats i relation till resten av livet. På samma sätt som vi uppfattar den vänstra mittcirkeln."
+                  }
+                ]
+              }
+            ],
+            "id": "section12",
+            "alias": "section12",
+            "type": "defaultSection",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Du är nu klar med övningen Distans till känslor och har tränat på att skaffa lite avstånd till hjärnans tolkningar och att ångest i livet kan kännas mindre om vi ökar på andra aktiviteter."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Bra jobbat!"
+                  }
+                ]
+              }
+            ],
+            "id": "section13",
+            "alias": "section13",
+            "type": "defaultSection",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "4acff747-3c95-4890-9983-0abf9d08a549",
+            "alias": "Sharing wall Distance to your emotions",
+            "exampleText": "Kanske lita mindre på min hjärna och göra mer av sånt som är kul. Känns svårt, men kan funka.",
+            "question": "Hur kan du använda det du lärde dig av den optiska illusionen i din vardag?"
+          }
+        ],
+        "name": "Synvillan",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Distancia-te das tuas emoções",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/distance_to_your_emotions_alosoe.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db",
+    "description": "Os atalhos do nosso cérebro são muitas vezes enganadores ",
+    "wip": false,
+    "stations": [
+      {
+        "id": "synvillan",
+        "alias": "Exercise Distance to your emotions",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/distance_to_your_emotions_alosoe.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Distancia-te das tuas emoções"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Os nossos cérebros criam atalhos que às vezes não funcionam muito bem."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Neste exercício, vais ser cético em relação aos teus pensamentos e avaliar qual a dimensão da ansiedade na tua vida."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Vamos começar"
+          },
+          {
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+                },
+                "props": {
+                  "resizeMode": "cover"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Observa atentamente os círculos centrais destas duas figuras. Qual dos círculos centrais é o maior?"
+                  }
+                ]
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Próximo"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Normalmente temos perceção de que o círculo central direito é o maior. Mas, na verdade, eles são exatamente do mesmo tamanho."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Porque é que o nosso cérebro nos engana desta maneira?"
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Os nossos cérebros são programados para comparar constantemente com o que está à volta."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Em comparação com as bolas pequenas, o círculo central direito parece maior."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Em comparação com as bolas grandes, o círculo central esquerdo parece menor."
+                  }
+                ]
+              }
+            ],
+            "id": "section4",
+            "alias": "section4",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "O nosso cérebro economiza tempo e energia criando atalhos. E mesmo quando se trata de coisas simples - como comparar um grupo de círculos - o cérebro às vezes tira conclusões que não são verdadeiras."
+                  }
+                ]
+              }
+            ],
+            "id": "section5",
+            "alias": "section5",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "O nosso cérebro tem ainda mais dificuldade em lidar com coisas mais complicadas. Por exemplo no que os outros estão a pensar, o que o futuro nos reserva ou o que precisamos de fazer para nos darmos bem com um/a amigo/a."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Corremos um risco elevado das nossas conclusões e pensamentos mais imediatos não estarem certos."
+                  }
+                ]
+              }
+            ],
+            "id": "section6",
+            "alias": "section6",
+            "type": "defaultSection",
+            "buttonText": "Próximo"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercício"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Reconheces que o teu cérebro às vezes tira conclusões precipitadas?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Descreve para ti mesma/o uma situação em que o teu cérebro interpretou algo de forma errada na semana passada e o que essa interpretação te levou a fazer."
+                  }
+                ]
+              }
+            ],
+            "id": "section7",
+            "alias": "section7",
+            "type": "defaultSection",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "O que gostarias de fazer da próxima vez que perceberes que o teu cérebro está a tirar uma conclusão precipitada que pode não ser verdade? Pensa numa forma diferente de te comportares."
+                  }
+                ]
+              }
+            ],
+            "id": "section8",
+            "alias": "section8",
+            "type": "defaultSection",
+            "buttonText": "Terminei"
+          },
+          {
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7f4ff310-06ae-4cd1-8021-d9a6bb6fa6db/synvillan_header.png"
+                },
+                "props": {
+                  "resizeMode": "cover"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Bom trabalho. Vamos voltar à ilusão de ótica. Podemos usá-la de outras formas. Imagina agora que os círculos centrais são a ansiedade e os círculos ao redor são o resto da tua vida."
+                  }
+                ]
+              }
+            ],
+            "id": "section9",
+            "alias": "section9",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Se não fizeres muitas das coisas importantes para ti na vida - talvez por causa da presença da ansiedade - então há um grande risco de que essa ansiedade esteja a ocupar um lugar demasiado grande na tua vida."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Da mesma forma que interpretamos o círculo central direito como maior."
+                  }
+                ]
+              }
+            ],
+            "id": "section10",
+            "alias": "section10",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Se a ansiedade ocupa muito espaço na tua vida, podes mudar a forma como o cérebro a compara com as outras coisas que são importantes para ti. Ou seja, conquista espaço para fazeres mais vezes aquilo que gostas, mesmo que estejas ansiosa/o."
+                  }
+                ]
+              }
+            ],
+            "id": "section11",
+            "alias": "section11",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Se dedicares mais tempo e deres mais espaço ao que é importante para ti na vida, a ansiedade ocupará menos espaço em relação ao resto da tua vida. Da mesma forma que percebemos o círculo central esquerdo."
+                  }
+                ]
+              }
+            ],
+            "id": "section12",
+            "alias": "section12",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Concluíste o exercício de criar distância das tuas emoções. Praticaste a criação de distância às interpretações do teu cérebro e descobriste que podes diminuir a ansiedade se aumentares o espaço e tempo dedicado às outras atividades importantes para ti."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Parabéns!"
+                  }
+                ]
+              }
+            ],
+            "id": "section13",
+            "alias": "section13",
+            "type": "defaultSection",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "759056b7-65f7-4cf8-9786-a99251bd6299",
+            "alias": "Sharing wall Distance to your emotions",
+            "question": "Como podes utilizar o que aprendeste com a ilusão de ótica na tua vida quotidiana?",
+            "exampleText": "Não confiar o tempo todo no meu cérebro e tentar fazer mais aquilo que gosto .... Difícil, mas possível..."
+          }
+        ],
+        "name": "Distancia-te das tuas emoções",
+        "type": "station"
+      }
+    ]
+  }
+}

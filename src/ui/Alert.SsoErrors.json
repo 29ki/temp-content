@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Error authenticating",
+    "text": "There was an error authenticating, pleace try again.",
+    "confirmButton": "OK"
+  },
+  "sv": {
+    "title": "Fel vid autentisering",
+    "text": "Ett fel inträffade vid autentisering, försök igen.",
+    "confirmButton": "Okej"
+  },
+  "pt": {
+    "title": "Erro ao autenticar",
+    "text": "Ocorreu um erro de autenticação, tente novamente.",
+    "confirmButton": "OK"
+  }
+}

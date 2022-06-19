@@ -1,0 +1,413 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "(Ukrainian) Coping with crisis",
+    "about": {
+      "body": "**Ви не самотні.** Іноді ми опиняємось у ситуаціях, яких ніколи не очікували. Це може бути пов'язано з особистими проблемами, глобальними подіями або з тими й іншими одночасно.\n\n**Коли це відбувається**, цілком нормально відчувати сильні емоції, такі як тривога.\n\nПереживання складних емоцій може спонукати нас до конструктивних дій. Але часто ми застрягаємо у своєму занепокоєнні і наша поведінка натомість **змушує нас почуватися гірше.**\n\nУ цьому курсі ви вивчите низку **психологічних інструментів**, які, як доведено, зменшують ефекти пригніченості, занепокоєння та стресу.",
+      "howThisWorks": "### Як це працює\n\n* цей курс має 3 уроки\n* Один урок на тиждень\n* Один обмін відео на тиждень",
+      "courseValue": "### Чому я навчуся?\n\n* Підвищите свою здатність долати труднощі\n* Навчитеся сприймати ситуацію такою, якою вона є\n* Навчитеся стикатися з важкими емоціями та переживаннями",
+      "createdBy": {
+        "text": "Діяти заради змін заснована на **Терапії прийняття та зобов’язання** (ACT), розробленої професором Стівеном Хейсом та його колегами.   \n\nКурс був розроблений психологами з **29k** у співпраці з викладачами та дослідниками з **Каролінського інституту** в Стокгольмі, Швеція.",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Як подолати кризу\n\nВи перебуваєте у скрутному становищі, побоюючись того, що на вас чекає у майбутньому? Цей курс надасть вам інструменти для того, щоб краще справитися зі змінами та діяти мудро.",
+
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "0cc50a7a-129c-4305-b1af-2ef7c77d179e",
+    "lessons": [
+      {
+        "version": 1,
+        "wip": false,
+        "id": "83e1663f-217f-44cd-9ee5-f1a8c76c4181",
+        "conversations": [
+          {
+            "title": "Ви не самотні",
+            "conversationId": "7918dcc7-4123-457c-b731-12a18aecaa81"
+          },
+          {
+            "title": "Не годувати монстра",
+            "conversationId": "eb945c04-818f-4a10-86d9-5ffd6e565d15"
+          },
+          {
+            "title": "Вирватися з “петлі тривоги” ",
+            "conversationId": "94ff873e-2449-4c28-9172-5881b696474b"
+          }
+        ],
+        "name": "Вирватися з “петлі тривоги”",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        },
+        "description": "Навчися ефективних методів побороти тривогу"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "bcb14784-fa38-472f-bbe9-0b7b58b331d5",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        },
+        "name": "Зіткнення з тим, що ми не можемо змінити",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Зіткнення з життям",
+            "conversationId": "8963ee40-3938-4894-9d43-ce57fa3a4605"
+          },
+          {
+            "title": "Наші емоції не можуть нам зашкодити",
+            "conversationId": "39646b1e-207f-41f7-96ee-76b18a07c1f9"
+          },
+          {
+            "title": "Підсумки",
+            "conversationId": "33ffcfdb-633d-4696-ad39-7c56e01b122d"
+          }
+        ],
+        "description": "Знайдіть способи протистояти важким і болючим переживанням"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "63d3671c-903d-48b7-a891-6b3ad002c3f8",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        },
+        "name": "Діяти заради змін",
+        "description": "Робіть кроки в осмисленому напрямку, зіштовхуючись із перешкодами. ",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Діяти заради змін 1",
+            "conversationId": "cc85f8c7-c283-48c6-9e14-0464adcb6ac6"
+          },
+          {
+            "title": "Діяти заради змін 2",
+            "conversationId": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3"
+          },
+          {
+            "title": "Діяти заради змін 3",
+            "conversationId": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2"
+          }
+        ]
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "name": "(Ukrainian) Coping with crisis",
+    "about": {
+      "body": "Ви не самотні. Іноді ми опиняємось у ситуаціях, яких ніколи не очікували. Це може бути пов'язано з особистими проблемами, глобальними подіями або з тими й іншими одночасно.\n\nКоли це відбувається, цілком нормально відчувати сильні емоції, такі як тривога.\n\nПереживання складних емоцій може спонукати нас до конструктивних дій. Але часто ми застрягаємо у своєму занепокоєнні і наша поведінка натомість змушує нас почуватися гірше.\n\nУ цьому курсі ви вивчите низку психологічних інструментів, які, як доведено, зменшують ефекти пригніченості, занепокоєння та стресу.",
+      "howThisWorks": "### Як це працює\n\n* Цей курс триває 3 тижні\n* Один урок на тиждень\n* Один обмін відео на тиждень",
+      "courseValue": "### Чому я навчуся?\n\n* Підвищите свою здатність долати труднощі\n* Навчитеся сприймати ситуацію такою, якою вона є\n* Навчитеся стикатися з важкими емоціями та переживаннями",
+      "createdBy": {
+        "text": "Діяти заради змін заснована на «Терапії прийняття та зобов’язання» (ACT), розробленої професором Стівеном Хейсом та його колегами.   \n\n**Курс був розроблений психологами з 29k у співпраці з викладачами та дослідниками з Каролінського інституту в Стокгольмі, Швеція.**",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Як подолати кризу\n\nВи перебуваєте у скрутному становищі, побоюючись того, що на вас чекає у майбутньому? Цей курс надасть вам інструменти для того, щоб краще справитися зі змінами та діяти мудро.",
+
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "0cc50a7a-129c-4305-b1af-2ef7c77d179e",
+    "lessons": [
+      {
+        "version": 1,
+        "wip": false,
+        "id": "83e1663f-217f-44cd-9ee5-f1a8c76c4181",
+        "conversations": [
+          {
+            "title": "Ви не самотні",
+            "conversationId": "7918dcc7-4123-457c-b731-12a18aecaa81"
+          },
+          {
+            "title": "Не годувати монстра",
+            "conversationId": "eb945c04-818f-4a10-86d9-5ffd6e565d15"
+          },
+          {
+            "title": "Вирватися з “петлі тривоги” ",
+            "conversationId": "94ff873e-2449-4c28-9172-5881b696474b"
+          }
+        ],
+        "name": "Вирватися з “петлі тривоги”",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Навчися ефективних методів побороти тривогу",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        }
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "bcb14784-fa38-472f-bbe9-0b7b58b331d5",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        },
+        "name": "Зіткнення з тим, що ми не можемо змінити",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Зіткнення з життям",
+            "conversationId": "8963ee40-3938-4894-9d43-ce57fa3a4605"
+          },
+          {
+            "title": "Наші емоції не можуть нам зашкодити",
+            "conversationId": "39646b1e-207f-41f7-96ee-76b18a07c1f9"
+          },
+          {
+            "title": "Підсумки",
+            "conversationId": "33ffcfdb-633d-4696-ad39-7c56e01b122d"
+          }
+        ],
+        "description": "Знайдіть способи протистояти важким і болючим переживанням"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "63d3671c-903d-48b7-a891-6b3ad002c3f8",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        },
+        "name": "Діяти заради змін",
+        "description": "Робіть кроки в осмисленому напрямку, зіштовхуючись із перешкодами. ",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Діяти заради змін 1",
+            "conversationId": "cc85f8c7-c283-48c6-9e14-0464adcb6ac6"
+          },
+          {
+            "title": "Діяти заради змін 2",
+            "conversationId": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3"
+          },
+          {
+            "title": "Діяти заради змін 3",
+            "conversationId": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2"
+          }
+        ]
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+
+    "name": "(Ukrainian) Coping with crisis",
+    "about": {
+      "body": "Ви не самотні. Іноді ми опиняємось у ситуаціях, яких ніколи не очікували. Це може бути пов'язано з особистими проблемами, глобальними подіями або з тими й іншими одночасно.\n\nКоли це відбувається, цілком нормально відчувати сильні емоції, такі як тривога.\n\nПереживання складних емоцій може спонукати нас до конструктивних дій. Але часто ми застрягаємо у своєму занепокоєнні і наша поведінка натомість змушує нас почуватися гірше.\n\nУ цьому курсі ви вивчите низку психологічних інструментів, які, як доведено, зменшують ефекти пригніченості, занепокоєння та стресу.",
+      "howThisWorks": "### Як це працює\n\n* Цей курс триває 3 тижні\n* Один урок на тиждень\n* Один обмін відео на тиждень",
+      "courseValue": "### Чому я навчуся?\n\n* Підвищите свою здатність долати труднощі\n* Навчитеся сприймати ситуацію такою, якою вона є\n* Навчитеся стикатися з важкими емоціями та переживаннями",
+      "createdBy": {
+        "text": "Діяти заради змін заснована на «Терапії прийняття та зобов’язання» (ACT), розробленої професором Стівеном Хейсом та його колегами.   \n\n**Курс був розроблений психологами з 29k у співпраці з викладачами та дослідниками з Каролінського інституту в Стокгольмі, Швеція.**",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Як подолати кризу\n\nВи перебуваєте у скрутному становищі, побоюючись того, що на вас чекає у майбутньому? Цей курс надасть вам інструменти для того, щоб краще справитися зі змінами та діяти мудро.",
+
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "0cc50a7a-129c-4305-b1af-2ef7c77d179e",
+    "lessons": [
+      {
+        "version": 1,
+        "wip": false,
+        "id": "83e1663f-217f-44cd-9ee5-f1a8c76c4181",
+        "conversations": [
+          {
+            "title": "Ви не самотні",
+            "conversationId": "7918dcc7-4123-457c-b731-12a18aecaa81"
+          },
+          {
+            "title": "Не годувати монстра",
+            "conversationId": "eb945c04-818f-4a10-86d9-5ffd6e565d15"
+          },
+          {
+            "title": "Вирватися з “петлі тривоги” ",
+            "conversationId": "94ff873e-2449-4c28-9172-5881b696474b"
+          }
+        ],
+        "name": "Вирватися з “петлі тривоги”",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Навчися ефективних методів побороти тривогу",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        }
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "bcb14784-fa38-472f-bbe9-0b7b58b331d5",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        },
+        "name": "Зіткнення з тим, що ми не можемо змінити",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Зіткнення з життям",
+            "conversationId": "8963ee40-3938-4894-9d43-ce57fa3a4605"
+          },
+          {
+            "title": "Наші емоції не можуть нам зашкодити",
+            "conversationId": "39646b1e-207f-41f7-96ee-76b18a07c1f9"
+          },
+          {
+            "title": "Підсумки",
+            "conversationId": "33ffcfdb-633d-4696-ad39-7c56e01b122d"
+          }
+        ],
+        "description": "Знайдіть способи протистояти важким і болючим переживанням"
+      },
+      {
+        "version": 1,
+        "wip": false,
+        "id": "63d3671c-903d-48b7-a891-6b3ad002c3f8",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        },
+        "name": "Діяти заради змін",
+        "description": "Робіть кроки в осмисленому напрямку, зіштовхуючись із перешкодами. ",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Діяти заради змін 1",
+            "conversationId": "cc85f8c7-c283-48c6-9e14-0464adcb6ac6"
+          },
+          {
+            "title": "Діяти заради змін 2",
+            "conversationId": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3"
+          },
+          {
+            "title": "Діяти заради змін 3",
+            "conversationId": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2"
+          }
+        ]
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  }
+}

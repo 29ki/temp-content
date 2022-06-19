@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Leave this group",
+    "text": "Are you sure you want to leave this group?",
+    "cancelButton": "Stay",
+    "confirmButton": "Leave"
+  },
+  "sv": {
+    "title": "Lämna gruppen",
+    "text": "Är du säker på att du vill lämna gruppen?",
+    "cancelButton": "Stanna",
+    "confirmButton": "Lämna"
+  },
+  "pt": {
+    "title": "Sair do grupo",
+    "text": "Tens a certeza que queres sair do grupo?",
+    "cancelButton": "Ficar",
+    "confirmButton": "Sair"
+  }
+}

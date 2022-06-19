@@ -1,0 +1,510 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "byline": "Created by Frank W. Bond and Jonathan R. Dowling (2020)",
+    "author": {
+      "name": "Frank Bond and Jonathan Dowling",
+      "nickname": "Frank Bond & Jonathan Dowling",
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647352225/New_images/courses%20png/frank_bond_rqynb8.jpg"
+    },
+    "name": "ALIVE: Daily quests – pilot",
+    "about": {
+      "body": "This is a pilot testing of the application of a new psychological model called ALIVE. The acronym ALIVE stands for **A**ctively **L**iving and **I**nterconnecting **V**itally in one’s **E**mbedded-world, which essentially means to engage in doing what’s important to you, connect with others and have a sense of belonging. ALIVE comprises three fundamental skills that can be practiced:\n\n* Tune into what we see, feel, think and perceive\n* See that we have possibilities to chose our actions, even in challenging circumstances\n* Choose to act in a way that’s meaningful, as the person we want to be\n\nResearch has shown that people who engage in an ALIVE-related intervention tend to recover faster from sickness, are more satisfied with life and less depressed. ALIVE has also been linked to a number of other positive outcomes.\n\nIn this first version of the course we will not save or store your answers anywhere, so if you want to be able to get back to your own answers and reflections, you’ll need to write them down or take a screen shot. As this is a pilot testing of both the content and the format with daily quests and check-ins, we would really appreciate your feedback.",
+      "courseValue": "In life, it’s easy to loose track of what’s important and the things that are meaningful to us. In this novel course format you will be able to try out new ways of approaching your daily go-abouts with small daily quests, challenging you to break a habit, push your boundaries, try new social behaviors or chose to do something meaningful at this very moment.",
+      "howThisWorks": "In this course you will get a daily quest: a brief push notification with instructions to do something in a different way than you usually do it.\n\nYou will get a daily quest for six days a week on a random time point during the first half of the day. Each day you will be offered to do a brief check-in at the end of the day where you can share your thoughts, read other’s reflections and evaluate today’s quest.\n\nOnce a week you are offered to share your experiences in a live video sharing group with other participants.",
+      "createdBy": {
+        "text": "#### Who created this course?\nThis course has been created by Frank W. Bond and Jonathan R. Dowling (2020)",
+        "profiles": [
+          {
+            "name": "Frank W. Bond",
+            "linkUri": "https://contextualscience.org/wc17_invited_speakers_bios_and_abstracts",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/a2360ac2-cd92-480b-be50-5d10d22552b9/frank-bond.png"
+          },
+          {
+            "name": "Jonathan R. Dowling",
+            "linkUri": "https://contextualscience.org/wc17_invited_speakers_bios_and_abstracts",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/a2360ac2-cd92-480b-be50-5d10d22552b9/jonathan-dowling.png"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+    },
+    "cta": "Do more of what matters in this groundbreaking pilot course",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "lessonRefs": [],
+    "tags": [],
+    "trailerUri": "",
+    "id": "a2360ac2-cd92-480b-be50-5d10d22552b9",
+    "lessons": [
+      {
+        "id": "bbbdb4f46-7d5a-44d9-92e5-8bef89585995",
+        "index": 0,
+        "name": "Daily Quests: Week 1",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081229/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%201.png"
+        },
+        "time": "Daily",
+        "description": "The first week contains 6 daily quests",
+
+        "conversations": [
+          {
+            "conversationId": "alive-day-1",
+            "title": "Quest 1",
+            "id": "9fa1709e-7cd2-483d-b944-0ffb684656e7"
+          },
+          {
+            "conversationId": "alive-day-2",
+            "title": "Quest 2",
+            "id": "a5df8606-d5e8-49e3-acbb-542eb292c90d"
+          },
+          {
+            "conversationId": "alive-day-3",
+            "title": "Quest 3",
+            "id": "41d8cbfa-0d40-4eec-9c88-13cbe72b98eb"
+          },
+          {
+            "conversationId": "alive-day-4",
+            "title": "Quest 4",
+            "id": "f844f3bb-dc97-4bd5-8f29-20ea107d9977"
+          },
+          {
+            "conversationId": "alive-day-5",
+            "title": "Quest 5",
+            "id": "1a871400-0866-4fb8-a974-d08473162ea9"
+          },
+          {
+            "conversationId": "alive-day-6",
+            "title": "Quest 6",
+            "id": "5b7ea234-3b40-4eed-b0ed-a83330727573"
+          }
+        ]
+      },
+      {
+        "id": "821ec125-9ca3-4e28-97db-e1717c2a274d",
+        "index": 1,
+        "name": "Daily Quests: Week 2",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081229/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%202.png"
+        },
+        "time": "Daily",
+        "description": "This week contains 6 daily quests",
+
+        "conversations": [
+          {
+            "conversationId": "alive-day-7",
+            "title": "Quest 7",
+            "id": "f9173ade-228f-4524-b570-595edf788e6b"
+          },
+          {
+            "conversationId": "alive-day-8",
+            "title": "Quest 8",
+            "id": "1825c374-5cf1-40fc-8669-913759456d5d"
+          },
+          {
+            "conversationId": "alive-day-9",
+            "title": "Quest 9",
+            "id": "e8a445b5-c540-4783-bf7c-9e78fe9ff3ec"
+          },
+          {
+            "conversationId": "alive-day-10",
+            "title": "Quest 10",
+            "id": "82538158-fbdb-40a1-9a55-b919ea8add60"
+          },
+          {
+            "conversationId": "alive-day-11",
+            "title": "Quest 11",
+            "id": "96c3e030-5804-4337-b787-fb029be1b1dd"
+          },
+          {
+            "conversationId": "alive-day-12",
+            "title": "Quest 12",
+            "id": "599ee309-a976-4d24-8b39-08bf192cb38c"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "77efdba2-e962-4706-998a-7550386a0e64",
+        "name": "Daily Quests: Week 3",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081228/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%203.png"
+        },
+        "time": "Daily",
+        "description": "This week contains 4 daily quests",
+        "conversations": [
+          {
+            "conversationId": "3965cb60-9a6c-4516-bcc6-b2c42208937f",
+            "title": "Quest 13"
+          },
+          {
+            "title": "Quest 14",
+            "conversationId": "76737ec5-01cd-41de-b68d-0ad6e254a4f6"
+          },
+          {
+            "conversationId": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+            "title": "Quest 15"
+          },
+          {
+            "conversationId": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+            "title": "Quest 16"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "c9dbe622-d1ca-41dc-a559-383292e9baff",
+        "name": "Daily Quests: Week 4",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081228/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%204.png"
+        },
+        "time": "Daily",
+        "description": "This week contains 3 daily quests",
+        "conversations": [
+          {
+            "conversationId": "5eb11f07-be88-4f18-896b-383282564e04",
+            "title": "Quest 17"
+          },
+          {
+            "conversationId": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+            "title": "Quest 18"
+          },
+          {
+            "title": "Quest 19",
+            "conversationId": "a0264243-681a-4ebb-8261-945be35be966"
+          }
+        ]
+      }
+    ],
+    "description": "This course explores how to be more mindful every day.",
+    "rating": {
+      "count": 6225,
+      "rating": 5
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "byline": "Skapad av Frank Bond",
+    "author": {
+      "name": "Frank Bond",
+      "nickname": "Frank Bond"
+    },
+    "name": "VID LIV",
+    "about": {
+      "body": "Denna kurs är utformad för att förändra ditt liv genom att engagera sig med uppmärksamma reflektioner hela dagen.",
+      "courseValue": "* Värde 1\n* Värde 2",
+      "howThisWorks": "* Registrera dig för att få push-aviseringar.",
+      "createdBy": {
+        "text": "#### Vem skapade den här kursen?\nDenna kurs har skapats av Frank Bonds team",
+        "profiles": [
+          {
+            "name": "Frank Bond",
+            "linkUri": "https://contextualscience.org/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+    },
+    "cta": "För dem som blir oroliga när de känner sig otillräckliga.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": [],
+    "trailerUri": "",
+    "id": "a2360ac2-cd92-480b-be50-5d10d22552b9",
+    "lessons": [
+      {
+        "id": "821ec125-9ca3-4e28-97db-e1717c2a274d",
+        "index": 0,
+        "name": "Vecka 1",
+        "duration": {
+          "count": 10,
+          "type": "minute"
+        },
+        "description": "Den första veckan innehåller mikrointerventioner och slutar med videodelning",
+
+        "conversations": [
+          {
+            "conversationId": "alive-day-1",
+            "title": "Dag 1"
+          },
+          {
+            "conversationId": "alive-day-2",
+            "title": "Dag 2"
+          },
+          {
+            "conversationId": "alive-day-3",
+            "title": "Dag 3"
+          },
+          {
+            "conversationId": "alive-day-4",
+            "title": "Dag 4"
+          },
+          {
+            "conversationId": "alive-day-5",
+            "title": "Dag 5"
+          },
+          {
+            "conversationId": "alive-day-6",
+            "title": "Dag 6"
+          }
+        ]
+      },
+      {
+        "id": "ec783bfa-43b4-44fc-9a39-dfb40eb06cc2",
+        "index": 1,
+        "name": "Vecka 2",
+        "duration": {
+          "count": 10,
+          "type": "minute"
+        },
+        "description": "Den andra veckan innehåller mikrointerventioner och slutar med videodelning",
+
+        "conversations": [
+          {
+            "conversationId": "alive-day-7",
+            "title": "Dag 7"
+          },
+          {
+            "conversationId": "alive-day-8",
+            "title": "Dag 8"
+          },
+          {
+            "conversationId": "alive-day-9",
+            "title": "Dag 9",
+            "id": "4718726f-9a3f-4e51-a90c-7a1ed8204bed"
+          },
+          {
+            "conversationId": "alive-day-10",
+            "title": "Dag 10",
+            "id": "cc4cf5c1-933f-4ac9-96fd-7a4995dffb8c"
+          },
+          {
+            "conversationId": "alive-day-11",
+            "title": "Dag 11",
+            "id": "d14737a8-9f82-4154-ac87-bc1e72eb97c1"
+          },
+          {
+            "conversationId": "alive-day-12",
+            "title": "Dag 12",
+            "id": "79af3c37-ddfa-48cb-bd9f-c5483eb4325c"
+          }
+        ]
+      }
+    ],
+    "description": "Denna kurs utforskar hur man kan vara mer uppmärksam varje dag.",
+    "rating": {
+      "count": 6225,
+      "rating": 5
+    },
+    "wip": true,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "byline": "Created by Frank W. Bond and Jonathan R. Dowling (2020)",
+    "author": {
+      "name": "Frank Bond e Jonathan Dowling",
+      "nickname": "Frank Bond & Jonathan Dowling"
+    },
+    "name": "ALIVE: Desafios diários (curso piloto e inovador)",
+    "about": {
+      "body": "Este é um teste piloto da aplicação de um novo modelo psicológico denominado ALIVE. A sigla ALIVE significa **\\*A**ctively **L**iving and **I**nterconnecting **V**itally in one **E**mbedded-world *(*Viver Ativamente e Interligar-se Vitalmente num Mundo Interconectado). O objetivo deste modelo é focares e envolveres-te em fazer o que é importante para ti, conectares-te com outras pessoas e teres um sentimento de pertença. A ALIVE compreende três competências fundamentais que podem ser praticadas:\n\n* Sintonizarmos com o que vemos, sentimos, pensamos e percebemos;\n* Percebermos que temos possibilidades de escolher as nossas ações, mesmo em circunstâncias desafiadoras;\n* Escolher agir de uma forma significativa, alinhada com a pessoa que desejamos ser.\n\nA investigação mostra que as pessoas que se envolvem em intervenções relacionadas com o ALIVE tendem a recuperar mais rapidamente de doenças, estão mais satisfeitas com a vida e menos deprimidas. O ALIVE também foi associado a uma série de outros resultados positivos.\n\nNesta primeira versão do curso, não vamos guardar ou armazenar as tuas respostas. Se quiseres voltar às tuas próprias respostas e reflexões, precisarás de anotá-las ou fazer uma captura do ecrã. Sendo este um teste piloto do conteúdo e do formato com desafios diários e *check-ins*, gostaríamos muito de receber sempre os teus comentários.",
+      "courseValue": "Na nossa vida, é fácil perdermos noção do que é importante e significativo para nós. Neste novo formato de curso, poderás experimentar novas formas de abordares os teus desafios diários através de pequenas missões diárias, que te desafiam a quebrar hábitos, ultrapassar os teus limites e experimentar novos comportamentos sociais.",
+      "howThisWorks": "Neste curso, vais receber um desafio diário: uma breve notificação *push* com instruções para agires de uma forma diferente da habitual nos aspetos importantes para o teu bem-estar.\n\nDurante a primeira metade do dia receberás um desafio. No final do dia terás de fazer um breve *check-in*, onde poderás partilhar os teus pensamentos, ler as reflexões dos outros e avaliar o desafio que realizaste.\n\nUma vez por semana, podes partilhar as tuas experiências com o teu grupo de partilha através de uma sessão de vídeo ao vivo.",
+      "createdBy": {
+        "text": "#### Quem criou este curso?\n\nEste curso foi criado por Frank W. Bond e Jonathan R. Dowling (2020)",
+        "profiles": [
+          {
+            "name": "Frank W. Bond",
+            "linkUri": "https://contextualscience.org/wc17_invited_speakers_bios_and_abstracts",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/a2360ac2-cd92-480b-be50-5d10d22552b9/frank-bond.png"
+          },
+          {
+            "name": "Jonathan R. Dowling",
+            "linkUri": "https://contextualscience.org/wc17_invited_speakers_bios_and_abstracts",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/a2360ac2-cd92-480b-be50-5d10d22552b9/jonathan-dowling.png"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+    },
+    "cta": "Foca no que é mais relevante para o teu bem-estar neste curso piloto e inovador",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "lessonRefs": [],
+    "tags": [],
+    "trailerUri": "",
+    "id": "a2360ac2-cd92-480b-be50-5d10d22552b9",
+    "lessons": [
+      {
+        "id": "bbbdb4f46-7d5a-44d9-92e5-8bef89585995",
+        "index": 0,
+        "name": "Desafios Diários: 1ª Semana",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081229/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%201.png"
+        },
+        "time": "Diário",
+        "description": "A primeira semana tem 6 desafios diários",
+
+        "conversations": [
+          {
+            "conversationId": "alive-day-1",
+            "title": "Desafio 1",
+            "id": "9fa1709e-7cd2-483d-b944-0ffb684656e7"
+          },
+          {
+            "conversationId": "alive-day-2",
+            "title": "Desafio 2",
+            "id": "a5df8606-d5e8-49e3-acbb-542eb292c90d"
+          },
+          {
+            "conversationId": "alive-day-3",
+            "title": "Desafio 3",
+            "id": "41d8cbfa-0d40-4eec-9c88-13cbe72b98eb"
+          },
+          {
+            "conversationId": "alive-day-4",
+            "title": "Desafio 4",
+            "id": "f844f3bb-dc97-4bd5-8f29-20ea107d9977"
+          },
+          {
+            "conversationId": "alive-day-5",
+            "title": "Desafio 5",
+            "id": "1a871400-0866-4fb8-a974-d08473162ea9"
+          },
+          {
+            "conversationId": "alive-day-6",
+            "title": "Desafio 6",
+            "id": "5b7ea234-3b40-4eed-b0ed-a83330727573"
+          }
+        ]
+      },
+      {
+        "id": "821ec125-9ca3-4e28-97db-e1717c2a274d",
+        "index": 1,
+        "name": "Desafios Diários: 2ª Semana",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081229/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%202.png"
+        },
+        "time": "Diário",
+        "description": "A segunda semana tem 6 desafios diários",
+
+        "conversations": [
+          {
+            "conversationId": "alive-day-7",
+            "title": "Desafio 7",
+            "id": "f9173ade-228f-4524-b570-595edf788e6b"
+          },
+          {
+            "conversationId": "alive-day-8",
+            "title": "Desafio 8",
+            "id": "1825c374-5cf1-40fc-8669-913759456d5d"
+          },
+          {
+            "conversationId": "alive-day-9",
+            "title": "Desafio 9",
+            "id": "e8a445b5-c540-4783-bf7c-9e78fe9ff3ec"
+          },
+          {
+            "conversationId": "alive-day-10",
+            "title": "Desafio 10",
+            "id": "82538158-fbdb-40a1-9a55-b919ea8add60"
+          },
+          {
+            "conversationId": "alive-day-11",
+            "title": "Desafio 11",
+            "id": "96c3e030-5804-4337-b787-fb029be1b1dd"
+          },
+          {
+            "conversationId": "alive-day-12",
+            "title": "Desafio 12",
+            "id": "599ee309-a976-4d24-8b39-08bf192cb38c"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "77efdba2-e962-4706-998a-7550386a0e64",
+        "name": "Desafios Diários: 3ª Semana",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081228/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%203.png"
+        },
+        "time": "Diário",
+        "description": "Esta semana tem 4 desafios diários",
+        "conversations": [
+          {
+            "conversationId": "3965cb60-9a6c-4516-bcc6-b2c42208937f",
+            "title": "Desafio 13"
+          },
+          {
+            "title": "Desafio 14",
+            "conversationId": "76737ec5-01cd-41de-b68d-0ad6e254a4f6"
+          },
+          {
+            "conversationId": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+            "title": "Desafio 15"
+          },
+          {
+            "conversationId": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+            "title": "Desafio 16"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "c9dbe622-d1ca-41dc-a559-383292e9baff",
+        "name": "Desafios Diários: 4ª Semana",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081228/New_images/courses%20png/ALIVE:%20daily%20quests%20-%20lesson%20illustrations/Week%204.png"
+        },
+        "time": "Diário",
+        "description": "Esta semana tem 3 desafios diários",
+        "conversations": [
+          {
+            "conversationId": "5eb11f07-be88-4f18-896b-383282564e04",
+            "title": "Desafio 17"
+          },
+          {
+            "conversationId": "ff84188f-bb00-48d2-a73c-b8aff69a365d",
+            "title": "Desafio 18"
+          },
+          {
+            "title": "Desafio 19",
+            "conversationId": "a0264243-681a-4ebb-8261-945be35be966"
+          }
+        ]
+      }
+    ],
+    "description": "This course explores how to be more mindful every day.",
+    "rating": {
+      "count": 6225,
+      "rating": 5
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/ALIVE_Daily_quests_pilot_khoh5u.png"
+    }
+  }
+}

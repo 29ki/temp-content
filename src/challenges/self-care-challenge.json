@@ -1,0 +1,149 @@
+{
+  "en": {
+    "segments": ["ADULTS", "YOUNG_ADULTS"],
+    "outro": "#### Well done on completing the 7 day self-care challenge!\nNow that you’ve reached the end, it’s time to reflect on what you’ve learned along the way.",
+    "name": "Self-care challenge",
+    "intro": "This year, travelling looks a lot different. Take the “7 day self-care challenge” and go on an inner journey to support your mental health.\n\nWe’ll send you reminders to complete short exercises every day for a week. All you have to do is show up for yourself.",
+    "type": "challenge",
+    "duration": {
+      "count": 7,
+      "type": "day"
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "content": [
+      {
+        "id": "0d9dfd34-a90d-45ed-a6bb-390a5e215ceb",
+        "contentId": "3299d5f5-1058-4149-9e7c-60876ef05106"
+      },
+      {
+        "id": "577fb471-7337-460b-b17c-6f4849c0d600",
+        "contentId": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      },
+      {
+        "id": "ccb50934-b0c1-4876-876e-71ec7eebaf67",
+        "contentId": "e6cf480e-9b4d-458a-88bd-6d88093c5918"
+      },
+      {
+        "id": "05357636-1aa4-4eeb-82d6-593abf834658",
+        "contentId": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710"
+      },
+      {
+        "id": "bdff5185-6995-41b6-b30a-1b30c6bc7d07",
+        "contentId": "d679ed16-1170-40c4-8aec-9121d21cf3bf"
+      },
+      {
+        "id": "abf2b42a-9c15-4e64-94dc-612c62ff53ad",
+        "contentId": "9528d6db-f979-47ea-88f8-e1e413ecee4c"
+      },
+      {
+        "id": "2bb46e42-dc60-4880-b572-62e7b4097132",
+        "contentId": "af8eade3-482d-48a3-8845-2bd992fe3792"
+      }
+    ],
+    "id": "self-care-challenge",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647370403/New_images/challenges/Self-care_challenge_xz67b1.png"
+    },
+    "reflectionExerciseId": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "wip": false,
+    "nextStep": "Looking for what to do next?"
+  },
+  "sv": {
+    "segments": ["ADULTS", "YOUNG_ADULTS"],
+    "outro": "#### Du har just klarat Ta hand om dig själv-utmaningen, bra jobbat!\nNu är det dags att reflektera över vad du lärt dig.",
+    "name": "Ta hand om dig själv",
+    "intro": "I år finns möjligheten att resa på ett annorlunda sätt. Anta “Ta hand om dig själv-utmaningen” och påbörja en veckolång inre resa för att stärka din mentala hälsa.\n\nVi ger dig korta övningar och dagliga påminnelser. Allt du behöver göra är att finnas där för dig själv.",
+    "type": "challenge",
+    "duration": {
+      "count": 7,
+      "type": "day"
+    },
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "content": [
+      {
+        "id": "0d9dfd34-a90d-45ed-a6bb-390a5e215ceb",
+        "contentId": "3299d5f5-1058-4149-9e7c-60876ef05106"
+      },
+      {
+        "id": "577fb471-7337-460b-b17c-6f4849c0d600",
+        "contentId": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      },
+      {
+        "id": "ccb50934-b0c1-4876-876e-71ec7eebaf67",
+        "contentId": "e6cf480e-9b4d-458a-88bd-6d88093c5918"
+      },
+      {
+        "id": "05357636-1aa4-4eeb-82d6-593abf834658",
+        "contentId": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710"
+      },
+      {
+        "id": "bdff5185-6995-41b6-b30a-1b30c6bc7d07",
+        "contentId": "d679ed16-1170-40c4-8aec-9121d21cf3bf"
+      },
+      {
+        "id": "abf2b42a-9c15-4e64-94dc-612c62ff53ad",
+        "contentId": "9528d6db-f979-47ea-88f8-e1e413ecee4c"
+      },
+      {
+        "id": "2bb46e42-dc60-4880-b572-62e7b4097132",
+        "contentId": "af8eade3-482d-48a3-8845-2bd992fe3792"
+      }
+    ],
+    "id": "self-care-challenge",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647370403/New_images/challenges/Self-care_challenge_xz67b1.png"
+    },
+    "reflectionExerciseId": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "wip": false,
+    "nextStep": "Vad vill du göra nu?"
+  },
+  "pt": {
+    "segments": ["ADULTS", "YOUNG_ADULTS"],
+    "outro": "#### Parabéns por completares os 7 dias do desafio de autocuidado!\nComo esta viagem está a chegar ao fim, recomendamos que pares um pouco e reflitas sobre o que aprendeste durante a semana.",
+    "name": "Desafio de autocuidado",
+    "intro": "Este ano, propomos-te uma viagem diferente. Aceita o nosso desafio de autocuidado em que durante 7 dias vais fazer uma caminhada interior para melhorar a tua saúde mental e emocional.\n\nTemos exercícios diários curtos e notificações que te acompanham e ajudam nesta caminhada.",
+    "duration": {
+      "count": 7,
+      "type": "day"
+    },
+    "type": "challenge",
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "content": [
+      {
+        "id": "0d9dfd34-a90d-45ed-a6bb-390a5e215ceb",
+        "contentId": "3299d5f5-1058-4149-9e7c-60876ef05106"
+      },
+      {
+        "id": "577fb471-7337-460b-b17c-6f4849c0d600",
+        "contentId": "db7b8ede-4965-4618-9cc9-382d81b479d8"
+      },
+      {
+        "id": "ccb50934-b0c1-4876-876e-71ec7eebaf67",
+        "contentId": "e6cf480e-9b4d-458a-88bd-6d88093c5918"
+      },
+      {
+        "id": "05357636-1aa4-4eeb-82d6-593abf834658",
+        "contentId": "0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16"
+      },
+      {
+        "id": "bdff5185-6995-41b6-b30a-1b30c6bc7d07",
+        "contentId": "d679ed16-1170-40c4-8aec-9121d21cf3bf"
+      },
+      {
+        "id": "abf2b42a-9c15-4e64-94dc-612c62ff53ad",
+        "contentId": "9528d6db-f979-47ea-88f8-e1e413ecee4c"
+      },
+      {
+        "id": "2bb46e42-dc60-4880-b572-62e7b4097132",
+        "contentId": "af8eade3-482d-48a3-8845-2bd992fe3792"
+      }
+    ],
+    "id": "self-care-challenge",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647370403/New_images/challenges/Self-care_challenge_xz67b1.png"
+    },
+    "reflectionExerciseId": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "wip": false,
+    "nextStep": "O que fazer a seguir?"
+  }
+}

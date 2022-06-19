@@ -1,0 +1,63 @@
+{
+  "en": {
+    "id": "meaning-making-in-a-crisis-making-change",
+    "alias": "Meaning-making in a crisis: Making change 1",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Turning values into action",
+        "content": "Creating beautiful values that reflect what’s important to us is an important first step. But what use are values if we’re not acting in line with them? This lesson is all about taking action.\n\nTo translate our values into practice, we need clearly defined goals. Goals propel us to action. No matter how ambitious the goal, as long as it’s backed up by our values, we’re more likely to achieve it.\n\n### Today’s lesson has two parts:\n\n* Setting clear goals\n* Creating daily actions\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "meaning-making-in-a-crisis-making-change",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Transformar valores em ações",
+        "content": "Criar valores positivos que refletem o que é importante para nós é um primeiro passo importante. Mas para que servem os valores se não estivermos a agir de acordo com eles? Esta lição é para agirmos segundo esses valores.\n\nPara passarmos os nossos valores à prática, precisamos de objetivos claramente definidos. Os objetivos impulsionam a ação. Não importa se o objetivo é muito ambicioso, desde que seja apoiado pelos nossos valores, teremos mais probabilidade de alcançá-lo.\n\n### A lição de hoje tem duas partes:\n\n* Estabelecer objetivos claros\n* Definir ações diárias\n\n### Vais precisar de:\n\n* 40 min sossegados sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "meaning-making-in-a-crisis-making-change",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Omvandla värderingar till beteenden",
+        "content": "Att skapa värderingar som återspeglar det som är viktigt för oss är ett viktigt första steg. Men värderingar hjälper oss inte, om vi inte gör beteenden i linje med värderingarna. \n\nFör att omsätta värderingar i praktiska beteenden behöver vi klart definierade mål. Mål driver oss till handling. Oavsett hur ambitiöst målet är – så länge det är i linje med våra värderingar är vi mer benägna att jobba mot det.\n\n### Den här lektionen har två delar:\n\n* SMART:a mål\n* Vardagliga beteenden\n\n### Du behöver:\n\n* 30 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section2"
+          }
+        ]
+      }
+    ]
+  }
+}

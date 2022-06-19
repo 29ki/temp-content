@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Error signing up",
+    "text": "There was an error signing up, pleace try again.",
+    "confirmButton": "OK"
+  },
+  "sv": {
+    "title": "Fel vid skapande av konto",
+    "text": "Ett fel inträffade vid skapande av konto, försök igen.",
+    "confirmButton": "Okej"
+  },
+  "pt": {
+    "title": "Erro ao se inscrever",
+    "text": "Ocorreu um erro ao inscrever-se, tente novamente.",
+    "confirmButton": "OK"
+  }
+}

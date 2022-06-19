@@ -1,0 +1,205 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Pure simple love",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/pure_simple_love_ugdusj.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "type": "meditation",
+    "id": "ccc0dd08-549f-4120-a194-07d258b3093f",
+    "description": "Return to a precious moment of love.",
+    "stations": [
+      {
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f",
+        "root": "section1",
+        "alias": "Meditation: Pure simple love",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Pure simple love",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/pure_simple_love_ugdusj.png",
+            "title": "Pure simple love",
+            "content": "*4 minutes*\n\nThis meditation helps you cultivate the feeling of connection and pure love.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You are invited to a short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/pure-simple-love.mp3",
+            "alias": "Pure simple love section 2",
+            "duration": "03:51",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "de12fc6f-ce77-4b79-a81a-3c02dce5a931",
+            "alias": "Sharing wall: Pure simple love",
+            "question": "How do you feel after completeing this meditation?",
+            "exampleText": "I have a sense of warmth in my chest and a feeling of calm joy.",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/ccc0dd08-549f-4120-a194-07d258b3093f/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nCultivating love helps us build a deeper connection with ourselves and others.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Pure simple love",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Enkel kärlek",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/pure_simple_love_ugdusj.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "type": "meditation",
+    "id": "ccc0dd08-549f-4120-a194-07d258b3093f",
+    "description": "Återbesök en kärleksfull stund.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f",
+        "root": "section1",
+        "alias": "Meditation: Pure simple love",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Enkel kärlek",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/pure_simple_love_ugdusj.png",
+            "title": "Enkel kärlek",
+            "content": "I den här meditationen fokuserar du på en känsla av samhörighet och kärlek.",
+            "buttonText": "Kör igång"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Tryck på play för att starta ljudfilen.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1619102739/Meditations/Pure_Simple_Love_svenska_-_2021-04-22_14.19_qywyi7.mp3",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "76b299cc-b2b5-4c41-94ee-92421a5c33d5",
+            "exampleText": "Det känns varmt i bröstkorgen och jag har något slags inre lugn.",
+            "question": "Hur känner du dig i kroppen efter den här meditationen?",
+            "alias": "sharing wall pure simple love",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra jobbat",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/ccc0dd08-549f-4120-a194-07d258b3093f/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra jobbat!",
+            "content": "Du har just gett dig själv några minuters paus från vardagen och fokuserat på något fint i livet.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Enkel kärlek",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "O amor puro e simples",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/pure_simple_love_ugdusj.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "type": "meditation",
+    "id": "ccc0dd08-549f-4120-a194-07d258b3093f",
+    "description": "Volta a um momento de amor valioso.",
+    "stations": [
+      {
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f",
+        "root": "section1",
+        "alias": "Meditation: Pure simple love",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "O amor puro e simples",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/pure_simple_love_ugdusj.png",
+            "title": "O amor puro e simples",
+            "content": "*4:11 minutos*\n\nEsta meditação ajuda-te a cultivar sentimentos de conexão e amor puro.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para uma meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013537/29k%20FJN/Meditations/Cristina%20Final/O_AMOR_PURO_E_SIMPLES_-_04_10_lo18fe.mp3",
+            "duration": "04:11",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/ccc0dd08-549f-4120-a194-07d258b3093f/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por concluíres esta meditação.\n\nEm tempos difíceis, cultivar o amor ajuda-nos a construir uma conexão mais profunda connosco e com os outros.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "dea3f07c-9330-43c8-b525-c6f8d950722f",
+            "alias": "Sharing wall: Pure simple love",
+            "question": "O que estás a sentir depois de fazeres esta meditação?",
+            "exampleText": "Sinto um calor no meu peito e uma sensação de calma e alegria."
+          }
+        ],
+        "name": "O amor puro e simples",
+        "type": "station"
+      }
+    ]
+  }
+}

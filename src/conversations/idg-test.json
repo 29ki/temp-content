@@ -1,0 +1,1593 @@
+{
+  "en": {
+    "id": "idg-test",
+    "alias": "IDG Test",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Inner Development Goals"
+              },
+              {
+                "component": "Text",
+                "content": "Want to change the world for the better? It starts with you."
+              },
+              {
+                "component": "Text",
+                "content": "The Inner Development Goals – the IDG’s – is a collection of skills we all need to practice to achieve the [Sustainable Development Goals](https://sdgs.un.org/goals), the goals for a better world in 2030, set by UN."
+              },
+              {
+                "component": "Text",
+                "content": "In this test you‘ll get to rate yourself on the 23 IDG’s and reflect on where you are – and where you want to go."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start the assessment",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "nearest",
+            "calcType": "sum",
+            "hideSubScores": false,
+            "saveScore": true,
+            "options": [
+              { "score": 1, "label": "Not at all" },
+              { "score": 2, "label": "Hardly any" },
+              { "score": 3, "label": "Very little" },
+              { "score": 4, "label": "Somewhat" },
+              { "score": 5, "label": "Fairly much" },
+              { "score": 6, "label": "Much" },
+              { "score": 7, "label": "Completely" }
+            ],
+            "questions": [
+              {
+                "title": "Inner compass",
+                "questionKey": "inner-compass",
+                "question": "I contribute with a deeply felt sense of responsibility and commitment to values and purposes relating to the good of the whole.",
+                "sharingQuestion": "What are your three most important values?",
+                "sharingExampleText": "Being authentic, always strive for learning and being a good enough parent I think."
+              },
+              {
+                "title": "Optimism",
+                "questionKey": "optimism",
+                "question": "I contribute with the ability to sustain and communicate a sense of hope, positive attitude and confidence in the possibility of meaningful change.",
+                "sharingQuestion": "How do you foster a sense of hope?",
+                "sharingExampleText": "I try to focus on solutions. That gives me hope."
+              },
+              {
+                "title": "Co-creation skills",
+                "questionKey": "co-creation-skills",
+                "question": "I contribute with the skills and motivation to build, develop and facilitate collaborative relationships with diverse stake-holders, characterized by psychological safety and genuine co-creation.",
+                "sharingQuestion": "How can we create more agency and creativity in collaborative efforts?",
+                "sharingExampleText": "Maybe give others space to reflect before I talk (because I tend to talk a lot)."
+              },
+              {
+                "title": "Connectedness",
+                "questionKey": "connectedness",
+                "question": "I contribute with a keen sense of being connected with and/or being a part of a larger whole, such as a community, humanity or global ecosystem.",
+                "sharingQuestion": "How do you nurture the sense of belonging to a larger whole?",
+                "sharingExampleText": "Stopping now and then to ask myself why I am doing this."
+              },
+              {
+                "title": "Long-term orientation and visioning",
+                "questionKey": "long-term-orientation-and-visioning",
+                "question": "I contribute with long-term orientation and ability to formulate and sustain commitment to visions relating to the larger context.",
+                "sharingQuestion": "What 3 tasks are most important for your role in a 5, 10 and 50 years perspective?",
+                "sharingExampleText": "Supervision, planning, strategize first, then later foster dialogue, asking questions, and set the stage, sort of."
+              },
+              {
+                "title": "Integrity and Authenticity",
+                "questionKey": "integrity-and-authenticity",
+                "question": "I contribute with a commitment and ability to act with sincerity, honesty and integrity.",
+                "sharingQuestion": "In what situations do you feel challenged being yourself?",
+                "sharingExampleText": "Making myself heard in larger crowds."
+              },
+              {
+                "title": "Creativity",
+                "questionKey": "creativity",
+                "question": "I contribute with the ability to generate and develop original ideas, innovate and being willing to disrupt conventional patterns.",
+                "sharingQuestion": "What can you do to boost others' creativity?",
+                "sharingExampleText": "Ask questions, set boundaries."
+              },
+              {
+                "title": "Communication skills",
+                "questionKey": "communication-skills",
+                "question": "I contribute with the ability to really listen to others, to foster genuine dialogue, to advocate own views skillfully, to manage conflicts constructively and to adapt communication to diverse groups.",
+                "sharingQuestion": "What helps you contribute to a real dialogue?",
+                "sharingExampleText": "Asking things that I am actually curious of."
+              },
+              {
+                "title": "Humility",
+                "questionKey": "humility",
+                "question": "I contribute with being able to act in accordance with the needs of the situation without concern for one's own importance.",
+                "sharingQuestion": "When do you care more about “looking good” than you would like to? What helps you put the “we“ over the “I“ when needed?",
+                "sharingExampleText": "When I’m with people with high status I tend to be more self aware, thinking about how I come across."
+              },
+              {
+                "title": "Critical thinking",
+                "questionKey": "critical-thinking",
+                "question": "I contribute with skills in critically reviewing the validity of views, evidence and plans.",
+                "sharingQuestion": "In what situations do you need to be more critical?",
+                "sharingExampleText": "When I feel I don’t understand."
+              },
+              {
+                "title": "Openness and Learning mindset",
+                "questionKey": "openness-and-learning-mindset",
+                "question": "I contribute with a basic mindset of curiosity and a willingness to be vulnerable and embrace change and grow.",
+                "sharingQuestion": "How do you foster an inquiring mindset?",
+                "sharingExampleText": "Meeting new people, reading and actually also resting."
+              },
+              {
+                "title": "Perseverance",
+                "questionKey": "perseverance",
+                "question": "I contribute with the ability to sustain engagement and remain determined and patient even when efforts take a long time to bear fruit.",
+                "sharingQuestion": "How can we strengthen our ability to sustain efforts over time?",
+                "sharingExampleText": "Maybe pausing more often, and ask ourselves how this contributes to the bigger picture."
+              },
+              {
+                "title": "Trust",
+                "questionKey": "trust",
+                "question": "I contribute with the ability to show trust and to create and maintain trusting relationships.",
+                "sharingQuestion": "How can we consciously build trust?",
+                "sharingExampleText": "Well, by giving trust, I guess?"
+              },
+              {
+                "title": "Appreciation",
+                "questionKey": "appreciation",
+                "question": "I contribute with relating to others and to the world with a basic sense of appreciation, gratitude and joy.",
+                "sharingQuestion": "Who has contributed to your success?",
+                "sharingExampleText": "Oh my, a lot of people. Parents, partner, brother, friends... the list is endless 🙂"
+              },
+              {
+                "title": "Complexity awareness",
+                "questionKey": "complexity-awareness",
+                "question": "I contribute with an understanding of, and skills in working with, complex and systemic conditions and causalities.",
+                "sharingQuestion": "What helps you see the deeper causes and dependencies of a system?",
+                "sharingExampleText": "It helps to take a step back."
+              },
+              {
+                "title": "Self-awareness",
+                "questionKey": "self-awareness",
+                "question": "I contribute with the ability to be in reflective contact with own thoughts, feelings and desires; having a realistic self-image and ability to regulate oneself.",
+                "sharingQuestion": "What are your strengths and weaknesses?",
+                "sharingExampleText": "Optimistic, fast learner. Stubborn, sometimes inflexible."
+              },
+              {
+                "title": "Courage",
+                "questionKey": "courage",
+                "question": "I contribute with the ability to stand up for values, make decisions, take decisive action and, if need be, challenge and disrupt existing structures and views.",
+                "sharingQuestion": "When did you last act courageously?",
+                "sharingExampleText": " Looked out for a friend in a hard situation."
+              },
+              {
+                "title": "Inclusive mindset and intercultural competence",
+                "questionKey": "inclusive-mindset-and-intercultural-competence",
+                "question": "I contribute with the willingness and competence to embrace diversity and include people and collectives with different views and backgrounds.",
+                "sharingQuestion": "What stakeholders would you like to better understand and include?",
+                "sharingExampleText": "The slowness of large organisations puts me off, and at the same time I know they’re important."
+              },
+              {
+                "title": "Empathy and Compassion",
+                "questionKey": "empathy-and-compassion",
+                "question": "I contribute with the ability to relate to others, oneself and nature with kindness, empathy and compassion and address related suffering",
+                "sharingQuestion": "What helps you feel with people even when they act in ways that you disapprove of?",
+                "sharingExampleText": "Reminding myself that most people do the best they can with the information that they have."
+              },
+              {
+                "title": "Perspective skills",
+                "questionKey": "perspective-skills",
+                "question": "I contribute with skills in seeking, understanding and actively making use of insights from contrasting perspectives.",
+                "sharingQuestion": "How do you work to integrate contrasting perspectives?",
+                "sharingExampleText": "I try to be flexible and believe that different perspectives are valid under different circumstances - the one truth valid for everything is probably not out there."
+              },
+              {
+                "title": "Presence",
+                "questionKey": "presence",
+                "question": "I contribute with the ability to be in the here and now, without judgement and in a state of open-ended presence.",
+                "sharingQuestion": "What is most alive in you right now?",
+                "sharingExampleText": "Sadness, disappointment, mellow. But also a small sense of hope for the future."
+              },
+              {
+                "title": "Mobilization skills",
+                "questionKey": "mobilization-skills",
+                "question": "I contribute with skills in inspiring and mobilizing others to engage in shared purposes.",
+                "sharingQuestion": "How do you energize people to work for shared visions?",
+                "sharingExampleText": "How about asking others for their opinion on how to move forward?"
+              },
+              {
+                "title": "Sense-making",
+                "questionKey": "sense-making",
+                "question": "I contribute with skills in seeing patterns, structuring the unknown and being able to consciously create stories.",
+                "sharingQuestion": "What helps you become aware of the stories that run your life?",
+                "sharingExampleText": "Just had an encounter with an estranged family member that turned parts of my life story around. So meeting people from your past, maybe?"
+              }
+            ],
+            "groups": {
+              "being": {
+                "id": "being",
+                "label": "Being",
+                "description": "Relationship to self",
+                "resultText": "Cultivating our inner life and developing and deepening our relationship to our thoughts, feelings and body help us be present, intentional and non-reactive when we face complexity.",
+                "questions": [0, 5, 10, 15, 20],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "thinking": {
+                "id": "thinking",
+                "label": "Thinking",
+                "description": "Cognitive skills",
+                "resultText": "Developing our cognitive skills by taking different perspectives, evaluating information and making sense of the world as an interconnected whole is essential for wise decision-making.",
+                "questions": [4, 9, 14, 19, 22],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "collaborating": {
+                "id": "collaborating",
+                "label": "Collaborating",
+                "description": "Social skills",
+                "resultText": "To make progress on shared concerns, we need to develop our abilities to include, hold space and communicate with stakeholders with different values, skills and competencies.",
+                "questions": [2, 7, 12, 17, 21],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "acting": {
+                "id": "acting",
+                "label": "Acting",
+                "description": "Driving change",
+                "resultText": "Qualities such as courage and optimism help us acquire true agency, break old patterns, generate original ideas and act with persistence in uncertain times.",
+                "questions": [1, 6, 11, 16],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 28,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "relating": {
+                "id": "relating",
+                "label": "Relating",
+                "description": "Caring for others and the world",
+                "resultText": "Appreciating, caring for and feeling connected to others, such as neighbors, future generations or the biosphere, helps us create more just and sustainable systems and societies for everyone.",
+                "questions": [3, 8, 13, 18],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 28,
+                    "label": "Hög"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Low",
+                "description": "Din relation till dig själv är ganska dömande och kritisk snarare än förstående och snäll. När du har det tufft har du en tendens att glömma att lidande är en del av att vara människa och istället isolerar du dig från andra. När saker känns jobbiga dras du ofta in i dina självkritiska tankar och har då svårt att stanna i nuet."
+              },
+              {
+                "score": 80.5,
+                "label": "Moderate",
+                "description": "Din relation till dig själv är en blandning av att både vara förstående och snäll men också dömande och kritisk. Ibland när du har det tufft påminner du dig själv om att lidande är en del av att vara människa, medan du andra gånger kan isolera dig. När du har det jobbigt växlar du mellan att stanna i nuet och att tro på dina självkritiska tankar."
+              },
+              {
+                "score": 161,
+                "label": "High",
+                "description": "Din relation till dig själv är att du är förstående och snäll mot dig själv snarare än av dömande eller kritisk. När du har det tufft tenderar du att påminna dig själv om att lidande är en del av att vara människa och du undviker att isolera dig från andra. När du har det jobbigt hittar du sätt att stanna i nuet istället för att dras in i dina självkritiska tankar."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "being",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section3-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "being",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section3-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section4"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "thinking",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section4-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "thinking",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section4-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section5"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "collaborating",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section5-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "collaborating",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section5-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section6"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "acting",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section6-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "acting",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section6-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section7"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "relating",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section7-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "relating",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section7-sharing",
+        "alias": "IDG test sharing wall"
+      }
+    ]
+  },
+  "sv": {
+    "id": "idg-test",
+    "alias": "IDG Test",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Inner Development Goals"
+              },
+              {
+                "component": "Text",
+                "content": "The Inner Development Goals (IDGs) are a blueprint of the capabilities, qualities and skills we need in order to be a positive force for change in society and find a more purposeful way to look at our lives and the lives of the people around us. Find out more at innerdevelopmentgoals.org."
+              },
+              {
+                "component": "Text",
+                "content": "Take this assessment to see which skills you might want to work on."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start the assessment",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "nearest",
+            "calcType": "sum",
+            "hideSubScores": false,
+            "saveScore": false,
+            "options": [
+              { "score": 1, "label": "Not at all" },
+              { "score": 2, "label": "Hardly any" },
+              { "score": 3, "label": "Very little" },
+              { "score": 4, "label": "Somewhat" },
+              { "score": 5, "label": "Fairly much" },
+              { "score": 6, "label": "Much" },
+              { "score": 7, "label": "Completely" }
+            ],
+            "questions": [
+              {
+                "title": "Inner compass",
+                "questionKey": "Inner compass",
+                "question": "Having a deeply felt sense of responsibility and commitment to values and purposes relating to the good of the whole.",
+                "sharingQuestion": "What are your three most important values?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Optimism",
+                "questionKey": "Optimism",
+                "question": "Ability to sustain and communicate a sense of hope, positive attitude and confidence in the possibility of meaningful change.",
+                "sharingQuestion": "How do you foster a sense of hope?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Co-creation skills",
+                "questionKey": "Co-creation skills",
+                "question": "Skills and motivation to build, develop and facilitate collaborative relationships with diverse stake-holders, characterized by psychological safety and genuine co-creation.",
+                "sharingQuestion": "How can we create more agency and creativity in collaborative efforts?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Connectedness",
+                "questionKey": "Connectedness",
+                "question": "Having a keen sense of being connected with and/or being a part of a larger whole, such as a community, humanity or global ecosystem.",
+                "sharingQuestion": "How do you nurture the sense of belonging to a larger whole?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Long-term orientation and visioning",
+                "questionKey": "Long-term orientation and visioning",
+                "question": "Long-term orientation and ability to formulate and sustain commitment to visions relating to the larger context.",
+                "sharingQuestion": "What 3 tasks are most important for your role in a 5, 10 and 50 years perspective?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Integrity and Authenticity",
+                "questionKey": "Integrity and Authenticity",
+                "question": "A commitment and ability to act with sincerity, honesty and integrity.",
+                "sharingQuestion": "In what situations do you feel challenged being yourself?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Creativity",
+                "questionKey": "Creativity",
+                "question": "Ability to generate and develop original ideas, innovate and being willing to disrupt conventional patterns.",
+                "sharingQuestion": "What can you do to boost others' creativity?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Communication skills",
+                "questionKey": "Communication skills",
+                "question": "Ability to really listen to others, to foster genuine dialogue, to advocate own views skillfully, to manage conflicts constructively and to adapt communication to diverse groups.",
+                "sharingQuestion": "What helps you contribute to a real dialogue?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Humility",
+                "questionKey": "Humility",
+                "question": "Being able to act in accordance with the needs of the situation without concern for one's own importance.",
+                "sharingQuestion": "When do you care more about “looking good” than you would like to? What helps you put the “we“ over the “I“ when needed?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Critical thinking",
+                "questionKey": "Critical thinking",
+                "question": "Skills in critically reviewing the validity of views, evidence and plans.",
+                "sharingQuestion": "In what situations do you need to be more critical?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Openness and Learning mindset",
+                "questionKey": "Openness and Learning mindset",
+                "question": "Having a basic mindset of curiosity and a willingness to be vulnerable and embrace change and grow.",
+                "sharingQuestion": "How do you foster an inquiring mindset?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Perseverance",
+                "questionKey": "Perseverance",
+                "question": "Ability to sustain engagement and remain determined and patient even when efforts take a long time to bear fruit.",
+                "sharingQuestion": "How can we strengthen our ability to sustain efforts over time?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Trust",
+                "questionKey": "Trust",
+                "question": "Ability to show trust and to create and maintain trusting relationships.",
+                "sharingQuestion": "How can we consciously build trust?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Appreciation",
+                "questionKey": "Appreciation",
+                "question": "Relating to others and to the world with a basic sense of appreciation, gratitude and joy.",
+                "sharingQuestion": "Who has contributed to your success?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Complexity awareness",
+                "questionKey": "Complexity awareness",
+                "question": "Understanding of and skills in working with complex and systemic conditions and causalities.",
+                "sharingQuestion": "What helps you see the deeper causes and dependencies of a system?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Self-awareness",
+                "questionKey": "Self-awareness",
+                "question": "Ability to be in reflective contact with own thoughts, feelings and desires; having a realistic self-image and ability to regulate oneself.",
+                "sharingQuestion": "What are your strengths and weaknesses?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Courage",
+                "questionKey": "Courage",
+                "question": "Ability to stand up for values, make decisions, take decisive action and, if need be, challenge and disrupt existing structures and views.",
+                "sharingQuestion": "When did you last act courageously?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Inclusive mindset and intercultural competence",
+                "questionKey": "Inclusive mindset and intercultural competence",
+                "question": "Willingness and competence to embrace diversity and include people and collectives with different views and backgrounds.",
+                "sharingQuestion": "What stakeholders would you like to better understand and include?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Empathy and Compassion",
+                "questionKey": "Empathy and Compassion",
+                "question": "Ability to relate to others, oneself and nature with kindness, empathy and compassion and address related suffering",
+                "sharingQuestion": "What helps you feel with people even when they act in ways that you disapprove of?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Perspective skills",
+                "questionKey": "Perspective skills",
+                "question": "Skills in seeking, understanding and actively making use of insights from contrasting perspectives.",
+                "sharingQuestion": "How do you work to integrate contrasting perspectives?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Presence",
+                "questionKey": "Presence",
+                "question": "Ability to be in the here and now, without judgement and in a state of open-ended presence.",
+                "sharingQuestion": "What is most alive in you right now?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Mobilization skills",
+                "questionKey": "Mobilization skills",
+                "question": "Skills in inspiring and mobilizing others to engage in shared purposes.",
+                "sharingQuestion": "How do you energize people to work for shared visions?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Sense-making",
+                "questionKey": "Sense-making",
+                "question": "Skills in seeing patterns, structuring the unknown and being able to consciously create stories.",
+                "sharingQuestion": "What helps you become aware of the stories that run your life?",
+                "sharingExampleText": "What's up with me?"
+              }
+            ],
+            "groups": {
+              "being": {
+                "id": "being",
+                "label": "Being",
+                "description": "Relationship to self",
+                "resultText": "Cultivating our inner life and developing and deepening our relationship to our thoughts, feelings and body help us be present, intentional and non-reactive when we face complexity.",
+                "questions": [0, 5, 10, 15, 20],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "thinking": {
+                "id": "thinking",
+                "label": "Thinking",
+                "description": "Cognitive skills",
+                "resultText": "Developing our cognitive skills by taking different perspectives, evaluating information and making sense of the world as an interconnected whole is essential for wise decision-making.",
+                "questions": [4, 9, 14, 19, 22],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "collaborating": {
+                "id": "collaborating",
+                "label": "Collaborating",
+                "description": "Social skills",
+                "resultText": "To make progress on shared concerns, we need to develop our abilities to include, hold space and communicate with stakeholders with different values, skills and competencies.",
+                "questions": [2, 7, 12, 17, 21],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "acting": {
+                "id": "acting",
+                "label": "Acting",
+                "description": "Driving change",
+                "resultText": "Qualities such as courage and optimism help us acquire true agency, break old patterns, generate original ideas and act with persistence in uncertain times.",
+                "questions": [1, 6, 11, 16],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 28,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "relating": {
+                "id": "relating",
+                "label": "Relating",
+                "description": "Caring for others and the world",
+                "resultText": "Appreciating, caring for and feeling connected to others, such as neighbors, future generations or the biosphere, helps us create more just and sustainable systems and societies for everyone.",
+                "questions": [3, 8, 13, 18],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 28,
+                    "label": "Hög"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Låg",
+                "description": "Din relation till dig själv är ganska dömande och kritisk snarare än förstående och snäll. När du har det tufft har du en tendens att glömma att lidande är en del av att vara människa och istället isolerar du dig från andra. När saker känns jobbiga dras du ofta in i dina självkritiska tankar och har då svårt att stanna i nuet."
+              },
+              {
+                "score": 3,
+                "label": "Måttlig",
+                "description": "Din relation till dig själv är en blandning av att både vara förstående och snäll men också dömande och kritisk. Ibland när du har det tufft påminner du dig själv om att lidande är en del av att vara människa, medan du andra gånger kan isolera dig. När du har det jobbigt växlar du mellan att stanna i nuet och att tro på dina självkritiska tankar."
+              },
+              {
+                "score": 5,
+                "label": "Hög",
+                "description": "Din relation till dig själv är att du är förstående och snäll mot dig själv snarare än av dömande eller kritisk. När du har det tufft tenderar du att påminna dig själv om att lidande är en del av att vara människa och du undviker att isolera dig från andra. När du har det jobbigt hittar du sätt att stanna i nuet istället för att dras in i dina självkritiska tankar."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "being",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section3-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "being",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section3-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section4"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "thinking",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section4-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "thinking",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section4-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section5"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "collaborating",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section5-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "collaborating",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section5-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section6"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "acting",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section6-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "acting",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section6-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section7"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "relating",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section7-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "relating",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section7-sharing",
+        "alias": "IDG test sharing wall"
+      }
+    ]
+  },
+  "pt": {
+    "id": "idg-test",
+    "alias": "IDG Test",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Inner Development Goals"
+              },
+              {
+                "component": "Text",
+                "content": "The Inner Development Goals (IDGs) are a blueprint of the capabilities, qualities and skills we need in order to be a positive force for change in society and find a more purposeful way to look at our lives and the lives of the people around us. Find out more at innerdevelopmentgoals.org."
+              },
+              {
+                "component": "Text",
+                "content": "Take this assessment to see which skills you might want to work on."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start the assessment",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "nearest",
+            "calcType": "sum",
+            "hideSubScores": false,
+            "saveScore": false,
+            "options": [
+              { "score": 1, "label": "Not at all" },
+              { "score": 2, "label": "Hardly any" },
+              { "score": 3, "label": "Very little" },
+              { "score": 4, "label": "Somewhat" },
+              { "score": 5, "label": "Fairly much" },
+              { "score": 6, "label": "Much" },
+              { "score": 7, "label": "Completely" }
+            ],
+            "questions": [
+              {
+                "title": "Inner compass",
+                "questionKey": "Inner compass",
+                "question": "Having a deeply felt sense of responsibility and commitment to values and purposes relating to the good of the whole.",
+                "sharingQuestion": "What are your three most important values?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Optimism",
+                "questionKey": "Optimism",
+                "question": "Ability to sustain and communicate a sense of hope, positive attitude and confidence in the possibility of meaningful change.",
+                "sharingQuestion": "How do you foster a sense of hope?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Co-creation skills",
+                "questionKey": "Co-creation skills",
+                "question": "Skills and motivation to build, develop and facilitate collaborative relationships with diverse stake-holders, characterized by psychological safety and genuine co-creation.",
+                "sharingQuestion": "How can we create more agency and creativity in collaborative efforts?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Connectedness",
+                "questionKey": "Connectedness",
+                "question": "Having a keen sense of being connected with and/or being a part of a larger whole, such as a community, humanity or global ecosystem.",
+                "sharingQuestion": "How do you nurture the sense of belonging to a larger whole?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Long-term orientation and visioning",
+                "questionKey": "Long-term orientation and visioning",
+                "question": "Long-term orientation and ability to formulate and sustain commitment to visions relating to the larger context.",
+                "sharingQuestion": "What 3 tasks are most important for your role in a 5, 10 and 50 years perspective?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Integrity and Authenticity",
+                "questionKey": "Integrity and Authenticity",
+                "question": "A commitment and ability to act with sincerity, honesty and integrity.",
+                "sharingQuestion": "In what situations do you feel challenged being yourself?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Creativity",
+                "questionKey": "Creativity",
+                "question": "Ability to generate and develop original ideas, innovate and being willing to disrupt conventional patterns.",
+                "sharingQuestion": "What can you do to boost others' creativity?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Communication skills",
+                "questionKey": "Communication skills",
+                "question": "Ability to really listen to others, to foster genuine dialogue, to advocate own views skillfully, to manage conflicts constructively and to adapt communication to diverse groups.",
+                "sharingQuestion": "What helps you contribute to a real dialogue?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Humility",
+                "questionKey": "Humility",
+                "question": "Being able to act in accordance with the needs of the situation without concern for one's own importance.",
+                "sharingQuestion": "When do you care more about “looking good” than you would like to? What helps you put the “we“ over the “I“ when needed?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Critical thinking",
+                "questionKey": "Critical thinking",
+                "question": "Skills in critically reviewing the validity of views, evidence and plans.",
+                "sharingQuestion": "In what situations do you need to be more critical?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Openness and Learning mindset",
+                "questionKey": "Openness and Learning mindset",
+                "question": "Having a basic mindset of curiosity and a willingness to be vulnerable and embrace change and grow.",
+                "sharingQuestion": "How do you foster an inquiring mindset?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Perseverance",
+                "questionKey": "Perseverance",
+                "question": "Ability to sustain engagement and remain determined and patient even when efforts take a long time to bear fruit.",
+                "sharingQuestion": "How can we strengthen our ability to sustain efforts over time?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Trust",
+                "questionKey": "Trust",
+                "question": "Ability to show trust and to create and maintain trusting relationships.",
+                "sharingQuestion": "How can we consciously build trust?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Appreciation",
+                "questionKey": "Appreciation",
+                "question": "Relating to others and to the world with a basic sense of appreciation, gratitude and joy.",
+                "sharingQuestion": "Who has contributed to your success?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Complexity awareness",
+                "questionKey": "Complexity awareness",
+                "question": "Understanding of and skills in working with complex and systemic conditions and causalities.",
+                "sharingQuestion": "What helps you see the deeper causes and dependencies of a system?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Self-awareness",
+                "questionKey": "Self-awareness",
+                "question": "Ability to be in reflective contact with own thoughts, feelings and desires; having a realistic self-image and ability to regulate oneself.",
+                "sharingQuestion": "What are your strengths and weaknesses?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Courage",
+                "questionKey": "Courage",
+                "question": "Ability to stand up for values, make decisions, take decisive action and, if need be, challenge and disrupt existing structures and views.",
+                "sharingQuestion": "When did you last act courageously?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Inclusive mindset and intercultural competence",
+                "questionKey": "Inclusive mindset and intercultural competence",
+                "question": "Willingness and competence to embrace diversity and include people and collectives with different views and backgrounds.",
+                "sharingQuestion": "What stakeholders would you like to better understand and include?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Empathy and Compassion",
+                "questionKey": "Empathy and Compassion",
+                "question": "Ability to relate to others, oneself and nature with kindness, empathy and compassion and address related suffering",
+                "sharingQuestion": "What helps you feel with people even when they act in ways that you disapprove of?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Perspective skills",
+                "questionKey": "Perspective skills",
+                "question": "Skills in seeking, understanding and actively making use of insights from contrasting perspectives.",
+                "sharingQuestion": "How do you work to integrate contrasting perspectives?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Presence",
+                "questionKey": "Presence",
+                "question": "Ability to be in the here and now, without judgement and in a state of open-ended presence.",
+                "sharingQuestion": "What is most alive in you right now?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Mobilization skills",
+                "questionKey": "Mobilization skills",
+                "question": "Skills in inspiring and mobilizing others to engage in shared purposes.",
+                "sharingQuestion": "How do you energize people to work for shared visions?",
+                "sharingExampleText": "What's up with me?"
+              },
+              {
+                "title": "Sense-making",
+                "questionKey": "Sense-making",
+                "question": "Skills in seeing patterns, structuring the unknown and being able to consciously create stories.",
+                "sharingQuestion": "What helps you become aware of the stories that run your life?",
+                "sharingExampleText": "What's up with me?"
+              }
+            ],
+            "groups": {
+              "being": {
+                "id": "being",
+                "label": "Being",
+                "description": "Relationship to self",
+                "resultText": "Cultivating our inner life and developing and deepening our relationship to our thoughts, feelings and body help us be present, intentional and non-reactive when we face complexity.",
+                "questions": [0, 5, 10, 15, 20],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "thinking": {
+                "id": "thinking",
+                "label": "Thinking",
+                "description": "Cognitive skills",
+                "resultText": "Developing our cognitive skills by taking different perspectives, evaluating information and making sense of the world as an interconnected whole is essential for wise decision-making.",
+                "questions": [4, 9, 14, 19, 22],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "collaborating": {
+                "id": "collaborating",
+                "label": "Collaborating",
+                "description": "Social skills",
+                "resultText": "To make progress on shared concerns, we need to develop our abilities to include, hold space and communicate with stakeholders with different values, skills and competencies.",
+                "questions": [2, 7, 12, 17, 21],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 17.5,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 35,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "acting": {
+                "id": "acting",
+                "label": "Acting",
+                "description": "Driving change",
+                "resultText": "Qualities such as courage and optimism help us acquire true agency, break old patterns, generate original ideas and act with persistence in uncertain times.",
+                "questions": [1, 6, 11, 16],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 28,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "relating": {
+                "id": "relating",
+                "label": "Relating",
+                "description": "Caring for others and the world",
+                "resultText": "Appreciating, caring for and feeling connected to others, such as neighbors, future generations or the biosphere, helps us create more just and sustainable systems and societies for everyone.",
+                "questions": [3, 8, 13, 18],
+                "hidden": false,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 28,
+                    "label": "Hög"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Låg",
+                "description": "Din relation till dig själv är ganska dömande och kritisk snarare än förstående och snäll. När du har det tufft har du en tendens att glömma att lidande är en del av att vara människa och istället isolerar du dig från andra. När saker känns jobbiga dras du ofta in i dina självkritiska tankar och har då svårt att stanna i nuet."
+              },
+              {
+                "score": 3,
+                "label": "Måttlig",
+                "description": "Din relation till dig själv är en blandning av att både vara förstående och snäll men också dömande och kritisk. Ibland när du har det tufft påminner du dig själv om att lidande är en del av att vara människa, medan du andra gånger kan isolera dig. När du har det jobbigt växlar du mellan att stanna i nuet och att tro på dina självkritiska tankar."
+              },
+              {
+                "score": 5,
+                "label": "Hög",
+                "description": "Din relation till dig själv är att du är förstående och snäll mot dig själv snarare än av dömande eller kritisk. När du har det tufft tenderar du att påminna dig själv om att lidande är en del av att vara människa och du undviker att isolera dig från andra. När du har det jobbigt hittar du sätt att stanna i nuet istället för att dras in i dina självkritiska tankar."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "being",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section3-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "being",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section3-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section4"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "thinking",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section4-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "thinking",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section4-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section5"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "collaborating",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section5-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "collaborating",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section5-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section6"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "acting",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section6-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "acting",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section6-sharing",
+        "alias": "IDG test sharing wall",
+        "nextSection": "section7"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireCategoryResult",
+            "categoryId": "relating",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "section7-sharing"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      },
+      {
+        "categoryId": "relating",
+        "title": "Based on your answers, we suggest you reflect on the following:",
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "dynamicQuestion": true,
+        "id": "section7-sharing",
+        "alias": "IDG test sharing wall"
+      }
+    ]
+  }
+}

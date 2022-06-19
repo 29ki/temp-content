@@ -1,0 +1,209 @@
+{
+  "en": {
+    "id": "7918dcc7-4123-457c-b731-12a18aecaa81",
+    "alias": "UKR: Coping with crisis 1: Snap out of anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg",
+        "title": "Ви не самотні",
+        "content": "Іноді ми опиняємось у **ситуаціях**, яких не очікували. Це може бути пов'язано з особистими проблемами, глобальними подіями або з тими й іншими одночасно.\n\nКоли це **відбувається,** цілком **нормально** відчувати сильні емоції, такі як тривога.\n\nСьогодні ви почнете вивчати психологічні **інструменти**, які, як доведено, зменшують пригніченість, тривогу та стрес.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готовий",
+            "sectionId": "e44477ff-f7c9-438d-9ff4-d540540100c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e44477ff-f7c9-438d-9ff4-d540540100c4",
+        "alias": "Table of content",
+        "content": "### Дізнатися більше про:\n\n* Усвідомлене дихання\n* Не годувати монстра\n* Вирватися з петлі тривоги\n\n### Тобі знадобиться:\n\n* 20 хвилин\n* Папір та ручка",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "cfac664e-d9d5-4f46-9903-1d1494fca6f9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "cfac664e-d9d5-4f46-9903-1d1494fca6f9",
+        "longDescription": "Знайдіть хвилинку, щоб **налаштуватися на себе.**\n\n* Як ви себе **почуваєте** в цей момент? \n* Про що ви **думаєте?** \n* Як ви себе **почуваєте** у своєму тілі? \n* Як **справи** у вашому житті?\n\nЗапишіть свої відповіді.",
+        "alias": "Writing exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продовжити",
+            "sectionId": "1e9f7964-bba2-4a8f-b297-0242b06d2003"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1e9f7964-bba2-4a8f-b297-0242b06d2003",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "description": "Коли ми в стресі та занепокоєнні, усвідомлене дихання допомагає нам заспокоїтися, усвідомити наявний момент і набути ясності.\n\n**Натисніть кнопку відтворення для початку.**",
+        "duration": 339,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494787/Meditations/1_Slow_full_breathing_-_Ukrainian_rr9imj.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "eb945c04-818f-4a10-86d9-5ffd6e565d15",
+            "content": "Я зробив"
+          }
+        ]
+      }
+    ],
+    "root": "9ceae336-07ae-4fb6-9583-e1eb09564dd4"
+  },
+  "sv": {
+    "id": "7918dcc7-4123-457c-b731-12a18aecaa81",
+    "alias": "UKR: Coping with crisis 1: Snap out of anxiety loop 1",
+    "root": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg",
+        "title": "Ви не самотні",
+        "content": "Іноді ми опиняємось у ситуаціях, яких не очікували. Це може бути пов'язано з особистими проблемами, глобальними подіями або з тими й іншими одночасно.\n\nКоли це відбувається, цілком нормально відчувати сильні емоції, такі як тривога.\n\n**Сьогодні ви почнете вивчати психологічні інструменти, які, як доведено, зменшують пригніченість, тривогу та стрес.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готовий",
+            "sectionId": "e44477ff-f7c9-438d-9ff4-d540540100c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e44477ff-f7c9-438d-9ff4-d540540100c4",
+        "alias": "Table of content",
+        "content": "### Дізнатися більше про:\n\n* Усвідомлене дихання\n* Не годувати монстра\n* Вирватися з петлі тривоги\n\n### Тобі знадобиться:\n\n* 20 хвилин\n* Папір та ручка",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "cfac664e-d9d5-4f46-9903-1d1494fca6f9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "cfac664e-d9d5-4f46-9903-1d1494fca6f9",
+        "longDescription": "Знайдіть хвилинку, щоб **налаштуватися на себе.**\n\n* Як ви себе почуваєте в цей момент? \n* Про що ви думаєте? \n* Як ви себе почуваєте у своєму тілі? \n* Як справи у вашому житті?\n\nЗапишіть свої відповіді.",
+        "alias": "Writing exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продовжити",
+            "sectionId": "1e9f7964-bba2-4a8f-b297-0242b06d2003"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1e9f7964-bba2-4a8f-b297-0242b06d2003",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "description": "Коли ми в стресі та занепокоєнні, усвідомлене дихання допомагає нам заспокоїтися, усвідомити наявний момент і набути ясності.\n\n**Натисніть кнопку відтворення для початку.**",
+        "duration": 339,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494787/Meditations/1_Slow_full_breathing_-_Ukrainian_rr9imj.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "eb945c04-818f-4a10-86d9-5ffd6e565d15",
+            "content": "Я зробив"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "7918dcc7-4123-457c-b731-12a18aecaa81",
+    "alias": "UKR: Coping with crisis 1: Snap out of anxiety loop 1",
+    "root": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "9ceae336-07ae-4fb6-9583-e1eb09564dd4",
+        "alias": "Intro",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg",
+        "title": "Ви не самотні",
+        "content": "Іноді ми опиняємось у ситуаціях, яких не очікували. Це може бути пов'язано з особистими проблемами, глобальними подіями або з тими й іншими одночасно.\n\nКоли це відбувається, цілком нормально відчувати сильні емоції, такі як тривога.\n\n**Сьогодні ви почнете вивчати психологічні інструменти, які, як доведено, зменшують пригніченість, тривогу та стрес.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я готовий",
+            "sectionId": "e44477ff-f7c9-438d-9ff4-d540540100c4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e44477ff-f7c9-438d-9ff4-d540540100c4",
+        "alias": "Table of content",
+        "content": "### Дізнатися більше про:\n\n* Усвідомлене дихання\n* Не годувати монстра\n* Вирватися з петлі тривоги\n\n### Тобі знадобиться:\n\n* 20 хвилин\n* Папір та ручка",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "cfac664e-d9d5-4f46-9903-1d1494fca6f9"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "cfac664e-d9d5-4f46-9903-1d1494fca6f9",
+        "longDescription": "Знайдіть хвилинку, щоб **налаштуватися на себе.**\n\n* Як ви себе почуваєте в цей момент? \n* Про що ви думаєте? \n* Як ви себе почуваєте у своєму тілі? \n* Як справи у вашому житті?\n\nЗапишіть свої відповіді.",
+        "alias": "Writing exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продовжити",
+            "sectionId": "1e9f7964-bba2-4a8f-b297-0242b06d2003"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "1e9f7964-bba2-4a8f-b297-0242b06d2003",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "description": "Коли ми в стресі та занепокоєнні, усвідомлене дихання допомагає нам заспокоїтися, усвідомити наявний момент і набути ясності.\n\n**Натисніть кнопку відтворення для початку.**",
+        "duration": 339,
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494787/Meditations/1_Slow_full_breathing_-_Ukrainian_rr9imj.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "eb945c04-818f-4a10-86d9-5ffd6e565d15",
+            "content": "Я зробив"
+          }
+        ]
+      }
+    ]
+  }
+}

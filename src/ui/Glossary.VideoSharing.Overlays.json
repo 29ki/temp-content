@@ -1,0 +1,62 @@
+{
+  "en": {
+    "waiting": {
+      "line1": "Welcome to your sharing!",
+      "line2": "You are the first one here. Waiting for others to join."
+    },
+    "entrance": {
+      "line1": "You are about to join your sharing.",
+      "line2": "How brave of you to be here!",
+      "joinButton": "Join sharing now"
+    },
+    "gettingStarted": {
+      "heading": "Getting ready!",
+      "text": "Please wait while we get you started..."
+    },
+    "connectionError": {
+      "heading": "Oooops...",
+      "text": "Something went wrong!",
+      "reconnectButton": "Reconnect"
+    }
+  },
+  "sv": {
+    "waiting": {
+      "line1": "Välkommen till din gruppdelning!",
+      "line2": "Du är först här. Väntar på att de andra ska gå med."
+    },
+    "entrance": {
+      "line1": "Du håller på att gå med i gruppdelningen.",
+      "line2": "Du är här, modigt av dig!",
+      "joinButton": "Gå med i gruppdelningen nu"
+    },
+    "gettingStarted": {
+      "heading": "Snart är vi redo!",
+      "text": "Ett ögonblick..."
+    },
+    "connectionError": {
+      "heading": "Hoppsan...",
+      "text": "Något gick fel!",
+      "reconnectButton": "Anslut igen"
+    }
+  },
+  "pt": {
+    "waiting": {
+      "line1": "Bem-vinda/o à tua sessão de partilha! ",
+      "line2": "És a primeira pessoa a chegar. Aguarda que outros se juntem."
+    },
+    "entrance": {
+      "line1": "Estás quase a juntar-te à sessão de partilha.",
+      "line2": "Agradecemos a coragem de estares aqui!",
+      "joinButton": "Junta-te à sessão agora"
+    },
+    "gettingStarted": {
+      "heading": "Em preparação!",
+      "text": "Por favor, espera enquanto começamos..."
+    },
+    "connectionError": {
+      "heading": "Oooops...",
+      "text": "Alguma coisa correu mal!",
+      "reconnectButton": "Voltar a ligar"
+    }
+  }
+}

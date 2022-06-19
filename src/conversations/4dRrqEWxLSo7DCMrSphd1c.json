@@ -1,0 +1,544 @@
+{
+  "en": {
+    "id": "4dRrqEWxLSo7DCMrSphd1c",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "We all meet trouble along the way",
+        "title": "We all meet trouble along the way",
+        "content": "While walking your values path, you may find that your past can get in a way of how you want to live your life. \n\nFor example, you may think that you are unable to get that new job because you've failed to do so in the past. In this lesson we want to challenge the beliefs that hold you back. \n\n\n\n### Today’s lesson has three parts:\n\n* The story you tell yourself\n* A less common true story about yourself\n* The story about your future\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "The stories we tell ourselves",
+        "title": "The stories we tell ourselves",
+        "content": "We all have our own stories to tell. Some are pleasant, other are not. \n\nWe can’t control everything about how our lives play out. But when it comes to things we can control, sometimes we judge our ability to pursue what’s most important to us against our own stories of past failures. Sometimes it feels like the stories of our past also dictate what’s possible in the future.\n\nHow do the stories we tell ourselves affect us and our ability to do what’s most important in our lives in the future?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Spill the beans",
+        "title": "Spill the beans",
+        "content": "A lot has happened in your life since the day you were born. It's time to explore how the events of the past affect you at present.\n\nFor example:\n\n1. *“I am a mother/father/ the only child…”*\n2. *“When I was in first grade, a teacher told me I had a gift for writing…it made me so proud of myself I used to spend all my lunch breaks writing stories.”* \n3. “*As a student I went to a prom and had a panic attack. I was sure I was going to die when...”*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Key moments",
+        "title": "Key moments",
+        "time": "15 min",
+        "longDescription": "Now, write down your story. Describe in detail who you are and which major life events made you become who you are today. Remember to also include any feelings, sensations and thoughts you've experienced alongside these events.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "A whole different story",
+        "title": "A whole different story",
+        "content": "How did you find writing your story?\n\nAs we go through life, we all notice things. However some things stick around. They come up time after time, whether we're by ourselves or with others. Our tendency to focus on a narrow range of specific events, makes everything else fall into the background. \n\nIn this next exercise you're about to bring that other stuff into the light again. Your mission is to rewrite the story of your life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "A whole different story",
+        "title": "A whole different story",
+        "time": "15 min",
+        "longDescription": "Take a moment to rewrite your story, this time using a different set of events that also took place. Some events you did not include in your first story. Maybe some events you need to search your memory for. \n\nNow, again, describe in detail who you are, with these other life events. Remember to include any feelings, sensations and thoughts you've experienced alongside these events.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm ready",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Create your own story",
+        "title": "Create your own story",
+        "content": "* How did writing this other story make you feel? \n* Are there any difference between the two stories?\n\nSeeing things from different perspectives can help you to take the necessary steps to create new stories.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Write your future",
+        "title": "Write your future",
+        "content": "As this lesson aims to help you create new stories that are in line with who you want to be, we direct the next exercise towards your future.  \n\nThroughout this course you've explored how living in line with your values is both fulfilling and difficult. Opening up to both good and bad experiences, and accepting yourself as good enough, will help you stay on your desired course in life.\n\nIn this next exercise, your mission is to tell a story from your future in which you're taking daily actions aligned with your values.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Create your own story",
+        "title": "Create your own story",
+        "time": "15 min",
+        "longDescription": "Write half a page on the future scenario when you're living in line with your values. This is what you'll be offered to share with your group.\n\n* Describe where you're in life and some of the roles and daily actions you're performing. \n* How would you feel to live this way?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "Well done on completing **The story about yourself.**\n\nThe stories we tell ourselves affect our lives in profound ways. In this lesson, you've explored how different stories affect your life in different ways.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "You're now ready to share.\n\n1. Describe what it would feel like to be fully aligned with your values and what daily actions would help you achieve so.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - The story about yourself"
+  },
+  "sv": {
+    "id": "4dRrqEWxLSo7DCMrSphd1c",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "We all meet trouble along the way",
+        "title": "We all meet trouble along the way",
+        "content": "While walking your values path, you may find that your past can get in a way of how you want to live your life. \n\nFor example, you may think that you are unable to get that new job because you've failed to do so in the past. In this lesson we want to challenge the beliefs that hold you back. \n\n\n\n### Today’s lesson has three parts:\n\n* The story you tell yourself\n* A less common true story about yourself\n* The story about your future\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "The stories we tell ourselves",
+        "title": "The stories we tell ourselves",
+        "content": "We all have our own stories to tell. Some are pleasant, other are not. \n\nWe can’t control everything about how our lives play out. But when it comes to things we can control, sometimes we judge our ability to pursue what’s most important to us against our own stories of past failures. Sometimes it feels like the stories of our past also dictate what’s possible in the future.\n\nHow do the stories we tell ourselves affect us and our ability to do what’s most important in our lives in the future?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Spill the beans",
+        "title": "Spill the beans",
+        "content": "A lot has happened in your life since the day you were born. It's time to explore how the events of the past affect you at present.\n\nFor example:\n\n1. *“I am a mother/father/ the only child…”*\n2. *“When I was in first grade, a teacher told me I had a gift for writing…it made me so proud of myself I used to spend all my lunch breaks writing stories.”* \n3. “*As a student I went to a prom and had a panic attack. I was sure I was going to die when...”*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Key moments",
+        "title": "Key moments",
+        "time": "15 min",
+        "longDescription": "Now, write down your story. Describe in detail who you are and which major life events made you become who you are today. Remember to also include any feelings, sensations and thoughts you've experienced alongside these events.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "A whole different story",
+        "title": "A whole different story",
+        "content": "How did you find writing your story?\n\nAs we go through life, we all notice things. However some things stick around. They come up time after time, whether we're by ourselves or with others. Our tendency to focus on a narrow range of specific events, makes everything else fall into the background. \n\nIn this next exercise you're about to bring that other stuff into the light again. Your mission is to rewrite the story of your life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "A whole different story",
+        "title": "A whole different story",
+        "time": "15 min",
+        "longDescription": "Take a moment to rewrite your story, this time using a different set of events that also took place. Some events you did not include in your first story. Maybe some events you need to search your memory for. \n\nNow, again, describe in detail who you are, with these other life events. Remember to include any feelings, sensations and thoughts you've experienced alongside these events.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm ready",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Create your own story",
+        "title": "Create your own story",
+        "content": "* How did writing this other story make you feel? \n* Are there any difference between the two stories?\n\nSeeing things from different perspectives can help you to take the necessary steps to create new stories.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Write your future",
+        "title": "Write your future",
+        "content": "As this lesson aims to help you create new stories that are in line with who you want to be, we direct the next exercise towards your future.  \n\nThroughout this course you've explored how living in line with your values is both fulfilling and difficult. Opening up to both good and bad experiences, and accepting yourself as good enough, will help you stay on your desired course in life.\n\nIn this next exercise, your mission is to tell a story from your future in which you're taking daily actions aligned with your values.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Create your own story",
+        "title": "Create your own story",
+        "time": "15 min",
+        "longDescription": "Write half a page on the future scenario when you're living in line with your values. This is what you'll be offered to share with your group.\n\n* Describe where you're in life and some of the roles and daily actions you're performing. \n* How would you feel to live this way?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Summary",
+        "title": "Summary",
+        "content": "Well done on completing **The story about yourself.**\n\nThe stories we tell ourselves affect our lives in profound ways. In this lesson, you've explored how different stories affect your life in different ways.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "You're now ready to share.\n\n1. Describe what it would feel like to be fully aligned with your values and what daily actions would help you achieve so.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "4dRrqEWxLSo7DCMrSphd1c",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Todos nós encontramos obstáculos ao longo do caminho",
+        "title": "Todos nós encontramos obstáculos ao longo do caminho",
+        "content": "Ao percorreres o teu caminho dos valores, podes descobrir que o teu passado pode interferir na forma como desejas viver a tua vida.\n\nPor exemplo, podes pensar que não consegues um novo emprego porque isso já te aconteceu no passado. Nesta lição, queremos desafiar as convicções que te impedem de avançar.\n\n### A lição de hoje tem três partes:\n\n* A história que contas a ti própria/o\n* Uma história menos comum acerca de ti\n* A história sobre o teu futuro\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "As histórias que contamos a nós próprios",
+        "title": "As histórias que contamos a nós próprios",
+        "content": "Todos temos as nossas próprias histórias para contar. Algumas são agradáveis, outras não.\n\nNão podemos controlar todos os aspetos relacionados com o desenrolar das nossas vidas. Mas, quando se trata das coisas que podemos controlar, às vezes julgamos a nossa capacidade de alcançar o que é mais importante para nós, utilizando comparações com as nossas próprias histórias de fracassos passados. Às vezes parece que as histórias do nosso passado também ditam o que é possível no futuro.\n\nComo é que as histórias que contamos a nós próprios afetam e nossa capacidade de fazer o que é mais importante para as nossas vidas no futuro?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Desabafar",
+        "title": "Desabafar",
+        "content": "Desde o teu nascimento, aconteceu muita coisa na tua vida. Está na altura de explorar como os acontecimentos do passado te afetam no presente.\n\nPor exemplo:\n\n1. *“Eu sou mãe/ pai/ filha única/ filho único…”*\n2. *“Quando estava na escola primária, um professor disse-me que tinha o dom de escrever... isso deixou-me tão orgulhosa/o de mim própria/o que costumava passar todas as horas de almoço a escrever histórias.”* \n3. “*Quando era estudante, fui a um baile e tive um ataque de pânico. Tinha certeza que ia morrer quando*...\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Os momentos chave",
+        "title": "Os momentos chave",
+        "time": "15 min",
+        "longDescription": "Agora, escreve a tua história. Descreve em detalhe quem és e que acontecimentos mais marcantes da tua vida te fizeram a pessoa que és hoje. Não te esqueças de incluir todos os sentimentos, sensações e pensamentos que sentiste ao longo desse percurso.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Uma história completamente diferente",
+        "title": "Uma história completamente diferente",
+        "content": "O que achaste de escrever a tua história?\n\nAo longo da vida, todos nós sentimos coisas. No entanto, algumas coisas permanecem. Elas surgem repetidamente, quer estejamos sós ou com outras pessoas. A nossa tendência de nos focarmos apenas em alguns acontecimentos específicos faz com que tudo o resto fique em segundo plano.\n\nNeste próximo exercício, estás prestes a trazer essas outras coisas à tona. A tua missão é reescrever a história da tua vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "alias": "A minha outra história",
+        "title": "A minha outra história",
+        "description": "“Como eu gostava de chegar à noite e de me estender no chão e olhar o infinito. Que coisa fantástica! Que sensação de sintonia com o Universo. Por um lado de pequenez, mas ao mesmo tempo de pertença. Eu faço parte desta imensidão.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L7THESTORYABOUTYOURELF_ri0gwk.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020677/29k%20FJN/Courses/Values/Videos%209:16/L7_Values_V1_-_9x16_cb3gnr.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Uma história completamente diferente",
+        "title": "Uma história completamente diferente",
+        "time": "15 min",
+        "longDescription": "Reserva um momento para reescrever a tua história, desta vez usando um conjunto diferente de acontecimentos que também ocorreram. Alguns dos acontecimentos que não incluíste na tua primeira história. Talvez necessites de procurar atentamente na tua memória para os encontrares.\n\nAgora, descreve novamente em detalhe quem és utilizando estes outros acontecimentos da tua vida. Lembra-te de incluir os sentimentos, sensações e pensamentos que experienciaste durante esses acontecimentos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Estou pronta/o",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Cria a tua própria história",
+        "title": "Cria a tua própria história",
+        "content": "* Como te sentiste ao escrever esta nova história? \n* Existem diferenças entre as duas histórias?\n\nVer as coisas a partir de perspetivas diferentes pode ajudar-te a dar os passos necessários para criar novas histórias.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Escreve o teu futuro",
+        "title": "Escreve o teu futuro",
+        "content": "Como esta lição pretende ajudar-te a criar novas histórias que estejam alinhadas com quem desejas ser, direcionámos o próximo exercício para o teu futuro.\n\nAo longo deste curso, exploraste como é gratificante e difícil viver de acordo com os teus valores. Abrires-te a experiências positivas e negativas e aceitares-te como suficientemente bom vai ajudar-te a permanecer no caminho que desejas para a tua vida.\n\nNeste próximo exercício, a tua missão é contar uma história acerca do teu futuro, na qual realizes ações diárias alinhadas com os teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Mensagem do eu futuro",
+        "title": "Mensagem do eu futuro",
+        "description": "“Acho que há um materialismo algo desenfreado e nós, de alguma forma, terminamos por nos deixarmos envolver, uns mais outros menos.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640020238/29k%20FJN/Courses/Values/Thumbnails%209:16/L6OBSTACLES_j4cpud.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640020631/29k%20FJN/Courses/Values/Videos%209:16/L7_Values_V2_-_9x16_vtwe4v.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "alias": "Cria a tua própria história",
+        "title": "Cria a tua própria história",
+        "time": "15 min",
+        "longDescription": "Escreve meia página acerca do cenário futuro onde vives alinhado com os teus valores. Será isto que vais poder partilhar com o teu grupo.\n\n* Descreve onde estás neste momento da tua vida, as funções que desempanhas e as ações diárias que fazes. \n* Como te sentirias a viver assim?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **A tua história**.\n\nAs histórias que contamos a nós próprios afetam as nossas vidas de forma profunda. Nesta lição, exploraste como histórias diferentes afetam a tua vida de formas distintas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Já podes partilhar.\n\n1. Descreve como seria estar totalmente alinhada/o com os teus valores e que ações diárias te ajudariam a alcançá-los.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Values - The story about yourself"
+  }
+}

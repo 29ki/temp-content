@@ -1,0 +1,14 @@
+{
+  "en": {
+    "placeholder": "Choose language",
+    "label": "Language"
+  },
+  "sv": {
+    "placeholder": "Väl språk",
+    "label": "Språk"
+  },
+  "pt": {
+    "placeholder": "Escolher idioma",
+    "label": "Idioma"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "en": {
+    "id": "6e12ebc7-b3ff-49c4-9420-9f3b96d7a912",
+    "alias": "Leadership-coursesummary-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "678452a7-7435-4b0a-82ee-68b85d2246b5",
+        "alias": "What a journey!",
+        "title": "What a journey it has been!",
+        "content": "Over the past 8 weeks you've practiced the skills of a **purposeful leader** by **engaging in your current situatio**n, choosing to **tune-in and owning-up to your emotions** and experiences which can guide you to take decisions that better help you stay on your path to purpose.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "c764f2d8-5c41-49ff-bdc9-a9d1f546276b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c764f2d8-5c41-49ff-bdc9-a9d1f546276b",
+        "alias": "In this lesson",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "12395f20-40d3-436e-866c-550ef76e9e34",
+            "content": "Let's dive in"
+          }
+        ],
+        "title": "Today's lesson will cover",
+        "content": "* Benefits of purposeful leadership\n* Reflections\n* Key takeaways"
+      }
+    ],
+    "root": "678452a7-7435-4b0a-82ee-68b85d2246b5"
+  },
+  "sv": {
+    "id": "6e12ebc7-b3ff-49c4-9420-9f3b96d7a912",
+    "alias": "Leadership-coursesummary-1"
+  },
+  "pt": {
+    "id": "6e12ebc7-b3ff-49c4-9420-9f3b96d7a912",
+    "alias": "Leadership-coursesummary-1",
+    "root": "678452a7-7435-4b0a-82ee-68b85d2246b5",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "678452a7-7435-4b0a-82ee-68b85d2246b5",
+        "alias": "What a journey!",
+        "title": "Que jornada!",
+        "content": "Nas últimas 8 semanas, praticaste as competências de um/a **líder relevante** ao **envolveres-te na tua situação atual**, ao escolheres **sintonizares-te** com as **tuas emoções** e **assumi-las**, bem como às tuas experiências, sabendo que podem orientar-te a tomar decisões que melhor te ajudem a permanecer no teu caminho em direção ao teu propósito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "c764f2d8-5c41-49ff-bdc9-a9d1f546276b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c764f2d8-5c41-49ff-bdc9-a9d1f546276b",
+        "alias": "In this lesson",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "0cb276b2-461c-4d91-af78-ef1db482fb0c"
+          }
+        ],
+        "title": "A lição de hoje é sobre",
+        "content": "* Benefícios da liderança com propósito\n* Reflexões\n* Principais conclusões"
+      },
+      {
+        "type": "video",
+        "id": "0cb276b2-461c-4d91-af78-ef1db482fb0c",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "12395f20-40d3-436e-866c-550ef76e9e34",
+            "content": "Vamos mergulhar"
+          }
+        ],
+        "alias": "AHO Video",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652374298/29k%20FJN/Courses/Purposeful%20Leadership/Photos/li%C3%A7%C3%A3o_8_-_video_1_z8psbb.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652432218/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L8V1_r3pg1k.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

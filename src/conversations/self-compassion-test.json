@@ -1,0 +1,583 @@
+{
+  "en": {
+    "id": "self-compassion-test",
+    "alias": "Self-compassion Test",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795939/New_images/test/1024x1024/self_compassion_dxyi7r.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# How do you treat yourself?"
+              },
+              {
+                "component": "Text",
+                "content": "Think about a situation you are experiencing right now that is painful or difficult. It could be some challenge in your life, or perhaps you are feeling inadequate in some way. \n\nPlease indicate how well each statement applies to how you are feeling toward yourself right now as you think about this situation."
+              },
+              {
+                "component": "Text",
+                "content": "*This is the actual test used for Self-compassion research, reproduced with permission from Kristin Neff.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start test",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "calcType": "avg",
+            "hideSubScores": true,
+            "scoreCategoryMethod": "nearest",
+            "saveScore": true,
+            "options": [
+              {
+                "label": "Never",
+                "score": 1
+              },
+              {
+                "label": "Almost never",
+                "score": 2
+              },
+              {
+                "label": "Sometimes",
+                "score": 3
+              },
+              {
+                "label": "Fairly often",
+                "score": 4
+              },
+              {
+                "label": "Very often",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "I’m giving myself the caring and tenderness I need."
+              },
+              {
+                "question": "I’m obsessing and fixating on everything that’s wrong."
+              },
+              {
+                "question": "I'm remembering that there are lots of others in the world feeling like I am."
+              },
+              { "question": "I feel intolerant and impatient toward myself." },
+              { "question": "I’m keeping things in perspective." },
+              {
+                "question": "I feel like I’m struggling more than others right now."
+              }
+            ],
+            "groups": {
+              "invertedScore": {
+                "label": "Inverted Score",
+                "description": "Your score",
+                "questions": [1, 3, 5],
+                "hidden": true,
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              },
+              "score": {
+                "label": "Score",
+                "description": "Your score",
+                "questions": [0, 2, 4],
+                "hidden": true,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Low",
+                "description": "Your relationship towards yourself in this situation seems quite judgmental and critical rather than understanding and kind. In this struggle, you tend to forget that suffering is a part of being human and isolate yourself from others. In this painful situation you can become consumed by self-critical thoughts.\n\nGiven this result, we recommend you to learn more on how to be compassionate towards yourself. If you want, you can try the Self compassion course or one of our exercises to get started."
+              },
+              {
+                "score": 3,
+                "label": "Moderate",
+                "description": "Your relationship towards yourself in this situation is a mix of both understanding and kindness but also judgment and criticism. Sometimes when you are struggling you remember that suffering is a part of being human, but other times you may isolate yourself from connecting. When you are in pain you alternate between staying in the present moment and believing your self-critical thoughts. Given this result, you might want to learn more on how to be more compassionate towards yourself with the help of these exercises or courses."
+              },
+              {
+                "score": 5,
+                "label": "High",
+                "description": "Your relationship towards yourself in this situation is one of understanding and kindness rather than of judgment or criticism. When you are struggling you tend to remember that suffering is a part of being human and you avoid isolating yourself from others. When you are in pain you find ways to stay in the present moment instead of being consumed by self-critical thoughts. If you would like to continue your practice of being compassionate towards yourself, you might want to try some of these exercises:"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "3e51026d-f249-40ef-86b8-5821067ad980"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "3e51026d-f249-40ef-86b8-5821067ad980",
+        "alias": "Self-compassion test sharing wall",
+        "question": "How did doing this test affect you? Anything you'd like to change?",
+        "exampleText": "Was pretty hard, did not know I am so hard on myself. Would like to be kinder."
+      }
+    ]
+  },
+  "sv": {
+    "id": "self-compassion-test",
+    "alias": "Self-compassion Test",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795939/New_images/test/1024x1024/self_compassion_dxyi7r.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Hur är du mot dig själv?"
+              },
+              {
+                "component": "Text",
+                "content": "Tänk på något smärtsamt som du går igenom just nu. Det kan vara något som är svårt, utmanande eller kanske en situation där du känner att du inte räcker till. Markera för varje påstående hur väl det stämmer in på dig i den här svåra situationen."
+              },
+              {
+                "component": "Text",
+                "content": "*Det här testet används inom forskning om självmedkänsla. Det är återskapat med tillstånd från Dr Kristin Neff.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Starta testet",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "nearest",
+            "calcType": "avg",
+            "hideSubScores": true,
+            "saveScore": true,
+            "options": [
+              {
+                "label": "Nästan aldrig",
+                "score": 1
+              },
+              {
+                "label": "Ibland",
+                "score": 2
+              },
+              {
+                "label": "Ungefär hälften av tiden",
+                "score": 3
+              },
+              {
+                "label": "Ganska ofta",
+                "score": 4
+              },
+              {
+                "label": "Nästan alltid",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "Jag ger mig själv den ömhet och omtanke jag behöver."
+              },
+              {
+                "question": "Jag blir som besatt och fixerar bara på allt som är fel."
+              },
+              {
+                "question": "Jag påminner mig själv om att det finns många andra människor i världen som känner som jag."
+              },
+              {
+                "question": "Jag blir intolerant och otålig gentemot mig själv."
+              },
+              { "question": "Jag försöker ta perspektiv på det som händer." },
+              {
+                "question": "Det känns som att jag kämpar mer än de flesta andra just nu."
+              }
+            ],
+            "groups": {
+              "invertedScore": {
+                "label": "Inverted Score",
+                "description": "Your score",
+                "questions": [1, 3, 5],
+                "hidden": true,
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "score": {
+                "label": "Score",
+                "description": "Your score",
+                "questions": [0, 2, 4],
+                "hidden": true,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Låg",
+                "description": "Din relation till dig själv är ganska dömande och kritisk snarare än förstående och snäll. När du har det tufft har du en tendens att glömma att lidande är en del av att vara människa och istället isolerar du dig från andra. När saker känns jobbiga dras du ofta in i dina självkritiska tankar och har då svårt att stanna i nuet."
+              },
+              {
+                "score": 3,
+                "label": "Måttlig",
+                "description": "Din relation till dig själv är en blandning av att både vara förstående och snäll men också dömande och kritisk. Ibland när du har det tufft påminner du dig själv om att lidande är en del av att vara människa, medan du andra gånger kan isolera dig. När du har det jobbigt växlar du mellan att stanna i nuet och att tro på dina självkritiska tankar."
+              },
+              {
+                "score": 5,
+                "label": "Hög",
+                "description": "Din relation till dig själv är att du är förstående och snäll mot dig själv snarare än av dömande eller kritisk. När du har det tufft tenderar du att påminna dig själv om att lidande är en del av att vara människa och du undviker att isolera dig från andra. När du har det jobbigt hittar du sätt att stanna i nuet istället för att dras in i dina självkritiska tankar."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "3e51026d-f249-40ef-86b8-5821067ad980"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "3e51026d-f249-40ef-86b8-5821067ad980",
+        "alias": "Self-compassion test sharing wall",
+        "question": "Hur påverkade det dig att göra det här testet? Något du skulle vilja ändra på framöver?",
+        "exampleText": "Det var svårare än jag trodde. Visste inte att jag är så hård mot mig själv. Vill bli snällare."
+      }
+    ]
+  },
+  "pt": {
+    "id": "self-compassion-test",
+    "alias": "Self-compassion Test",
+
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795939/New_images/test/1024x1024/self_compassion_dxyi7r.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Como te tratas a ti própria/o?"
+              },
+              {
+                "component": "Text",
+                "content": "Pensa numa situação que estás a enfrentar neste momento, que seja dolorosa ou difícil. Pode ser um desafio na tua vida ou apenas uma situação que de alguma forma te faça sentir inadequada/o. \n\nPor favor, reflete sobre a situação e indica como cada afirmação se aplica à forma como te estás a sentir em relação a ti mesma/o neste momento."
+              },
+              {
+                "component": "Text",
+                "content": "*Este teste vem da área de investigação em autocompaixão e foi utilizado com permissão de Kristin Neff.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Iniciar teste",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "nearest",
+            "calcType": "avg",
+            "hideSubScores": true,
+            "saveScore": true,
+            "options": [
+              {
+                "label": "Nunca",
+                "score": 1
+              },
+              {
+                "label": "Quase nunca",
+                "score": 2
+              },
+              {
+                "label": "Por vezes",
+                "score": 3
+              },
+              {
+                "label": "Frequentemente",
+                "score": 4
+              },
+              {
+                "label": "Quase sempre",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "Estou a dar a mim própria/o o cuidado e a ternura de que preciso."
+              },
+              {
+                "question": "Estou obcecada/o e fixada/o em tudo o que está errado."
+              },
+              {
+                "question": "Lembro-me que existem muitas outras pessoas no mundo que se sentem como eu."
+              },
+              { "question": "Sinto-me impaciente e intolerante comigo." },
+              { "question": "Mantenho as coisas em perspetiva." },
+              {
+                "question": "Neste momento sinto que estou a lutar mais do que os outros."
+              }
+            ],
+            "groups": {
+              "invertedScore": {
+                "label": "Resultado",
+                "description": "O teu resultado",
+                "questions": [1, 3, 5],
+                "hidden": true,
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "score": {
+                "label": "Resultado",
+                "description": "O teu resultado",
+                "questions": [0, 2, 4],
+                "hidden": true,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Baixo",
+                "description": "Nesta situação, o teu relacionamento contigo parece bastante autocrítico em vez de ser compreensivo e gentil. Neste desafio, tendes a esquecer que o sofrimento faz parte do ser humano e a isolares-te dos outros. Nessa situação difícil, podes ser consumido por pensamentos de autocrítica. \n\nDado este resultado, recomendamos que aprendas mais sobre como ser compassivo contigo mesma/o. Se quiseres, podes tentar o curso de Autocompaixão ou num dos nossos exercícios para começar."
+              },
+              {
+                "score": 3,
+                "label": "Moderado",
+                "description": "Nesta situação, o teu relacionamento contigo é uma mistura de compreensão e bondade, mas também de julgamento e crítica. Às vezes, quando estás nestas situações difíceis, lembras-te de que o sofrimento faz parte do ser humano, mas outras vezes perdes essa noção e isolas-te. Quando estás em sofrimento, alternas entre permanecer no momento presente e os teus pensamentos de autocrítica. Dado este resultado, podes querer aprender mais sobre como ser mais compassiva/o contigo mesma/o com a ajuda destes exercícios ou cursos."
+              },
+              {
+                "score": 5,
+                "label": "Alto",
+                "description": "Nesta situação, o teu relacionamento contigo é de compreensão e gentileza, e não de julgamento ou crítica. Quando estás em situações difíceis, tendes a lembrar-te que o sofrimento faz parte do ser humano e evitas isolar-te dos outros. Quando estás em sofrimento, encontras maneiras de permanecer no momento presente, em vez de seres consumida/o por pensamentos de autocrítica. Se pretenderes continuar a tua prática de ser compassivo contigo mesma/o, podes querer tentar alguns destes exercícios:"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3e51026d-f249-40ef-86b8-5821067ad980"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "3e51026d-f249-40ef-86b8-5821067ad980",
+        "alias": "Self-compassion test sharing wall",
+        "question": "O que sentiste ao fazer este teste? Gostarias de mudar alguma coisa?",
+        "exampleText": "Foi exigente, não sabia que sou tão dura/o comigo mesma/o. Gostaria de ser mais gentil comigo."
+      }
+    ]
+  }
+}

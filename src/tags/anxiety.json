@@ -1,0 +1,20 @@
+{
+  "en": {
+    "id": "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+    "tag": "Anxiety",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/values_h3pue1.png",
+    "description": "Anxiety is a powerful human emotion that is a normal response to a threat – often threats that actually aren't present here and now but something that may happen or have happened already. It can impact you mentally and physically and may feel overwhelming the longer it goes on. \n\nHere you will learn how to use proven psychological tools to reduce the negative impact of anxiety on your wellbeing."
+  },
+  "sv": {
+    "id": "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+    "tag": "Ångest",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/values_h3pue1.png",
+    "description": "Ångest är en mänsklig reaktion på något hotfullt – oftast hot som faktiskt inte finns här och nu, utan något som kan hända i framtiden eller redan har hänt. Ångest påverkar oss både fysiskt och mentalt och kan många gånger kännas överväldigande. \n\nHär kan du lära dig psykologiska verktyg för att hantera ångest och minska ångestens påverkan på ditt välmående."
+  },
+  "pt": {
+    "id": "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+    "tag": "Ansiedade",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1618470345/Categories/values_h3pue1.png",
+    "description": "Ansiedade é uma emoção humana poderosa, uma resposta normal a qualquer ameaça. Começa como preocupação, mas pode ter impacto mental e físico também. E quando se prolonga no tempo, pode ser avassaladora. \n\nAqui vais aprender como usar ferramentas psicológicas com efeitos comprovados na redução do impacto negativo da ansiedade no teu bem-estar."
+  }
+}

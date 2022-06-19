@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "what-is-stress-3",
-    "alias": "What is stress - 3",
+    "alias": "Stress YA: What is stress - 3",
     "root": "1",
     "sections": [
       {
@@ -11,11 +10,60 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/v1616182969/Stress/exercise-icon-hack_ty5q1x.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "**Övning del ett:**\n\nSkriv ner svaren någonstans där bara du kan se dem.\n\n1. Tänk nu på en period i ditt liv som var särskilt stressig. Beskriv situationen kort för dig själv.\n\n2. Vilka saker som var viktiga för dig slutade du göra under den perioden?\n\n*Exempel: hoppade över lunchen, slutade träna, slutade träffa kompisar, gick och la mig sent.*"
+                "content": "# Exercise\n\nWrite down all your answers.\n\n1. Think of a **period** in your life that was particularly **stressful**. Describe the situation briefly to yourself.\n2. What things that are **usually important** to you did you **stop** doing during that period? Write down your answer.\n\n*Example: skipped lunch, stopped exercising, stopped hanging out with friends, went to bed late.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm done",
+                "sectionId": "7386ee58-cb31-4647-aa82-c50437165bc4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "7386ee58-cb31-4647-aa82-c50437165bc4",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Saga",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1619594181/Hantera%20Stress%20YA/Fra%CC%8Aga_1_Saga_eel7dc.mp4",
+                "duration": 49,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-1/saga.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623756930/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_1-Saga.eng-vtt_1_twagie.vtt"
+              },
+              {
+                "title": "Ilaria",
+                "duration": 53,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-1/ilaria.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-1/ilaria.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623756983/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_1-ilaria.eng-vtt_ftuhvb.vtt"
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-1/max.mp4",
+                "title": "Max",
+                "duration": 64,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-1/max.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623757018/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_1-max.-eng_dmv7km.vtt"
               }
             ]
           },
@@ -41,7 +89,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Övning del två:**\\\nSkriv ned dina svar.\n\n3. Vilka aktiviteter eller relationer hjälpte dig, eller gav dig energi under den perioden?\n\n*Exempel: ringa en kompis, gå på en promenad, lyssna på musik, vila.*\n\n4. När du tänker tillbaka på den här stressiga perioden, lärde du dig något som kan vara till hjälp för dig idag? Vad brukar oftast stressa dig? Hur märker du att du är stressad? \n\n*Exempel: att jag brukar bli stressad av skolan, att jag brukar bli stressad av att jag alltid vill göra bra ifrån mig, att jag ofta får ont i magen och huvudet, att jag isolerar mig.*\n\n*Exempel: att det hjälper att ha rutiner, att jag brukar må bättre av att berätta för någon jag litar på hur jag mår.*"
+                "content": "3. What **activities** or **relationships** **helped** you **feel** **better** or gave you energy during that period? \n\n*Examples: calling a friend, going for a walk, listening to music, resting, talking to a parent.*"
               }
             ]
           },
@@ -67,7 +115,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Övning del tre:**\n\n5. Titta igenom dina svar. Se om du kan få en bättre bild över vilka aktiviteter som ofta faller bort när du är stressad, och vilka saker som hjälper dig att må bra."
+                "content": "4. Looking back at this stressful period, did you **learn anything** that might **help** you today? For example, what **usually** **makes** you stressed? How do you **notice** that you are **stressed**?\n\n*Examples: I usually get stressed at school. When I'm stressed, I often get a stomach ache and a headache. I find it helpful to have clear routines and feel better when I can talk to someone about how I feel.*"
               }
             ]
           },
@@ -75,21 +123,34 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "I'm done",
                 "conversationId": "what-is-stress-4",
-                "sectionId": "1"
+                "variant": "primary"
               }
             ]
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "631e395a-2532-4092-94bc-1de2007efd20",
+        "alias": "4",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Next",
+            "conversationId": "what-is-stress-4",
+            "variant": "primary"
+          }
+        ],
+        "content": "5. **Look at your answers**. See if you can get a sense of what activities you often **stop** doing when you are stressed and which things make you feel better again."
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "what-is-stress-3",
-    "alias": "What is stress - 3",
+    "alias": "Stress YA: What is stress - 3",
     "root": "1",
     "sections": [
       {
@@ -98,11 +159,60 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/v1616182969/Stress/exercise-icon-hack_ty5q1x.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "**Övning del ett:**\\\nSkriv ner svaren någonstans där bara du kan se dem.\n\n1. Tänk nu på en period i ditt liv som var särskilt stressig. Beskriv situationen kort för dig själv.\n2. Vilka saker som var viktiga för dig slutade du göra under den perioden?\n\n*Exempel: hoppade över lunchen, slutade träna, slutade träffa kompisar, gick och la mig sent.*"
+                "content": "# Övning\n\nSkriv ner alla dina svar.\n\n1. Tänk på en **period** i ditt liv som var särskilt **stressig**. Beskriv situationen kort för dig själv.\n2. Vilka saker som **brukar** **vara** **viktiga** för dig **slutade** du göra under den perioden? \n\n*Exempel: hoppade över lunchen, slutade träna, slutade träffa kompisar, gick och la mig sent.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Jag är färdig",
+                "sectionId": "d077d358-4ebe-4591-a544-2d84aa1eca81"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "d077d358-4ebe-4591-a544-2d84aa1eca81",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Saga",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1619594181/Hantera%20Stress%20YA/Fra%CC%8Aga_1_Saga_eel7dc.mp4",
+                "duration": 49,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-1/saga.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621602909/Hantera%20Stress%20YA/subtitles/Fr%C3%A5ga_1-Saga_nbw2bq.vtt"
+              },
+              {
+                "title": "Ilaria",
+                "duration": 53,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-1/ilaria.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-1/ilaria.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621602909/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_1-ilaria_zqxcju.vtt"
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/ya-stress-lesson-1/max.mp4",
+                "title": "Max",
+                "duration": 64,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya-stress-lesson-1/max.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621602909/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_1-max_tu0smp.vtt"
               }
             ]
           },
@@ -128,7 +238,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Övning del två:**\\\nSkriv ned dina svar.\n\n3. Vilka aktiviteter eller relationer hjälpte dig, eller gav dig energi under den perioden?\n\n*Exempel: ringa en kompis, gå på en promenad, lyssna på musik, vila.*\n\n4. När du tänker tillbaka på den här stressiga perioden, lärde du dig något som kan vara till hjälp för dig idag? Vad brukar oftast stressa dig? Hur märker du att du är stressad? \n\n*Exempel: att jag brukar bli stressad av skolan, att jag brukar bli stressad av att jag alltid vill göra bra ifrån mig, att jag ofta får ont i magen och huvudet, att jag isolerar mig.*\n\n*Exempel: att det hjälper att ha rutiner, att jag brukar må bättre av att berätta för någon jag litar på hur jag mår.*"
+                "content": "3. Vilka **aktiviteter** eller **relationer** **hjälpte** dig **må** **bättre** eller gav dig energi under den perioden? \n\n*Exempel: ringa en kompis, gå på en promenad, lyssna på musik, vila, prata med en förälder.*"
               }
             ]
           },
@@ -137,7 +247,168 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
+                "content": "Nästa",
+                "sectionId": "f77d7237-00c3-4ab3-9288-84ae1b01014c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f77d7237-00c3-4ab3-9288-84ae1b01014c",
+        "content": "4. När du tänker tillbaka på den här stressiga perioden, **lärde du dig något** som kan vara till **hjälp** för dig idag? Till exempel, vad **brukar** oftast **stressa** dig? Hur **märker** du att du är **stressad**? \n\n*Exempel: Jag brukar bli stressad av skolan. När jag är stressad får jag ofta ont i magen och huvudet. Det hjälper att ha tydliga rutiner och jag brukar må bättre av att berätta för någon hur jag mår.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "3"
+          }
+        ],
+        "alias": "3",
+        "title": "Övning"
+      },
+      {
+        "type": "defaultSection",
+        "id": "3",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "5. **Titta igenom dina svar**. Se om du kan få en bättre bild över vilka aktiviteter som du ofta **slutar** med när du är stressad och vilka saker som hjälper dig att må bättre igen."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Jag är färdig",
+                "conversationId": "what-is-stress-4",
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "what-is-stress-3",
+    "alias": "Stress YA: What is stress - 3",
+    "root": "1",
+    "sections": [
+      {
+        "type": "defaultSection",
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/v1616182969/Stress/exercise-icon-hack_ty5q1x.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Exercício\n\nAnota todas as tuas respostas.\n\n1. Pensa num **período** da tua vida que tenha sido particularmente **stressante**. Descreve a situação sucintamente a ti mesma/o.\n2. Quais foram as coisas **importantes** para ti que **deixaste** de fazer durante esse período? Escreve a tua resposta.\n\n*Exemplo: falhaste o almoço, paraste de te exercitar, deixaste de sair com os teus amigos, deitaste-te tarde.*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Concluí",
+                "sectionId": "7386ee58-cb31-4647-aa82-c50437165bc4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "7386ee58-cb31-4647-aa82-c50437165bc4",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Zicky Té",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361619/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Videos/Zicky_T%C3%A9_-_Lidar_Com_o_Stress_-_Li%C3%A7%C3%A3o_1_O_que_%C3%A9_o_Stress-_lwrncd.mp4",
+                "duration": 186,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366643/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Photos/Li%C3%A7%C3%A3o_1_-_o_que_%C3%A9_o_stress_-_video_1_fojz89.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rita Rocha",
+                "duration": 180,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360863/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Videos/Rita_Rocha_-_Lidar_com_o_Stress_L1V1_fm2oeb.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366776/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Photos/Rita_Rocha_-_o_que_%C3%A9_o_Stress_n3wask.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360613/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Videos/Rita_-_Lidar_com_o_Stress_L1V1_pecwg4.mp4",
+                "title": "Rita",
+                "duration": 110,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366948/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Photos/O_que_%C3%A9_o_stress_-_video_1_os1g5x.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rodrigo",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361088/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Videos/L1V1_-_Rodrigo_Ara%C3%BAjo-_Lidar_com_o_Stress_xtxa3c.mp4",
+                "duration": 107,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366866/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Photos/O_que_%C3%A9_o_stress_-_video_1_wc8hul.jpg"
+              },
+              {
+                "title": "Francisca",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360468/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Videos/L1V1_-_Francisca_Costa_-_Lidar_com_o_stress_jtqdbf.mp4",
+                "duration": 71,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650367026/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Photos/O_que_%C3%A9_o_stress_-_Video_1_bsomcz.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "3. Que **atividades** ou **relações te** **ajudaram** a **sentires-te** **melhor** ou te deram energia durante esse período?\n\n*Exemplos: ligar a um amigo, passear, ouvir música, descansar, conversar com a mãe ou o pai..*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
                 "sectionId": "3"
               }
             ]
@@ -154,7 +425,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Övning del tre:**\n\n5. Titta igenom dina svar. Se om du kan få en bättre bild över vilka aktiviteter som ofta faller bort när du är stressad, och vilka saker som hjälper dig att må bra."
+                "content": "4. Relembrando esse período stressante, **aprendeste algo** que poderia **ajudar-te** hoje? Por exemplo, o que **geralmente** **te deixa** stressada/o? Como **percebes** que estás **stressada/o**?\n\n*Exemplos: Eu costumo ficar stressada/o na escola. Quando estou stressada/o, muitas vezes fico com dor de estômago e dor de cabeça. Acho útil ter rotinas definidas e sinto-me melhor quando posso conversar com alguém sobre como me sinto.*"
               }
             ]
           },
@@ -162,14 +433,28 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
-                "content": "Jag är färdig",
-                "sectionId": "1",
-                "conversationId": "what-is-stress-4"
+                "component": "NextConversationButton",
+                "content": "Acabei",
+                "conversationId": "what-is-stress-4",
+                "variant": "primary"
               }
             ]
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "631e395a-2532-4092-94bc-1de2007efd20",
+        "alias": "4",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Seguinte",
+            "conversationId": "what-is-stress-4",
+            "variant": "primary"
+          }
+        ],
+        "content": "5. **Olha para as tuas respostas**. Vê se consegues ter uma noção de quais são as atividades que costumas **deixar** de fazer quando estás stressada/o e quais são as coisas que te fazem sentir melhor novamente."
       }
     ]
   }

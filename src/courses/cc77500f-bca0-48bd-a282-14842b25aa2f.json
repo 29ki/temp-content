@@ -1,0 +1,445 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "name": "Values",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Values_ohwbbq.png"
+    },
+    "about": {
+      "courseValue": "#### What will I Learn?\n* Guide to finding your values\n* Live a more meaningful life\n* Opening up to life\n",
+      "howThisWorks": "#### How this works\n\n* This course takes 7 weeks to complete\n* One lesson per week\n* One video sharing per week",
+      "body": "In our everyday life, we easily lose touch with what matters to us. This is especially true when we’re dealing with a challenging situation. That is also when we tend to give up on the activities that fill us up.\n\nConnecting to our core values is a powerful tool to take meaningful action in every moment of our lives.",
+      "createdBy": {
+        "text": "."
+      }
+    },
+    "cta": "Take the first step on a journey to a more meaningful life, based on what matters to you.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Values_ohwbbq.png"
+    },
+    "duration": {
+      "count": 7,
+      "type": "lesson"
+    },
+    "tags": ["9f02a381-9950-4f53-9a10-5f8365c456a1"],
+    "id": "cc77500f-bca0-48bd-a282-14842b25aa2f",
+    "lessons": [
+      {
+        "id": "c9903941-28ad-4287-9f3b-87272558a829",
+        "name": "Feeling lost",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/Feeling%20lost.png"
+        },
+        "index": 0,
+        "description": "This course is about connecting to your values and living a more meaningful life. We’re walking straight into a jungle in this first lesson.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "FLiF3XRNMrZCXKvU56K6wC",
+            "title": "Feeling lost"
+          }
+        ]
+      },
+      {
+        "id": "a5f12e6b-5a23-4a27-a6c3-66d40bbc16e9",
+        "name": "The Compass",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/The%20compass.png"
+        },
+        "index": 1,
+        "description": "Put in writing how you want to be in life and what’s most important to you.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "LFQLkspDS5KYxewmjzrZYN",
+            "title": "The Compass"
+          }
+        ]
+      },
+      {
+        "id": "0324886b-225e-4394-baab-943878fb49e6",
+        "name": "Your choices",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/Your%20choices.png"
+        },
+        "index": 2,
+        "description": "Learn how to make your compass clearer, more practical and true to yourself.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "gpjsbXwUA8eJLn1nPbRC9",
+            "title": "Your choices"
+          }
+        ]
+      },
+      {
+        "id": "5a771ac2-d05f-4eec-af37-37b399326f16",
+        "name": "A colorful life",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/A%20colorful%20life.png"
+        },
+        "index": 3,
+        "description": "This lesson is all about opening up and truly experiencing life.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "T8D5NvrXdZkspWMpGqfPV6",
+            "title": "A colorful life"
+          }
+        ]
+      },
+      {
+        "id": "bea39a23-0d72-4b42-8889-9f70b27330db",
+        "name": "Making it happen",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081220/New_images/courses%20png/Values%20-%20lesson%20illustrations/Making%20it%20happen.png"
+        },
+        "index": 4,
+        "wip": false,
+        "description": "This lesson is about putting your plans into action.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "U3Y8zfaZbq32NKw7VyKFkx",
+            "title": "Making it happen"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "29316145-c41a-4140-bcab-43877c6a14c6",
+        "name": "Obstacles ",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081220/New_images/courses%20png/Values%20-%20lesson%20illustrations/Obstacles.png"
+        },
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "This lesson is about overcoming the hurdles on your journey to the life you want.",
+        "conversations": [
+          {
+            "conversationId": "LVcQtZqVqjSEUh69zeJ5u1",
+            "title": "Obstacles "
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "60f3e116-477a-4ba4-a3c3-da2d07ab9f64",
+        "name": "The story about yourself",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081220/New_images/courses%20png/Values%20-%20lesson%20illustrations/The%20story%20about%20yourself.png"
+        },
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Today’s lesson explores a different way to look at your past.",
+        "conversations": [
+          {
+            "conversationId": "4dRrqEWxLSo7DCMrSphd1c",
+            "title": "The story about yourself"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 163,
+      "rating": 4.2
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "name": "Värderingar",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Values_ohwbbq.png"
+    },
+    "about": {
+      "courseValue": "#### Vad lär jag mig?\n\n* Guide för att hitta dina värderingar\n* Lev ett mer meningsfullt liv\n* Öppnar upp för livet",
+      "howThisWorks": "#### Så här fungerar det\n* Kursen tar fyra veckor att genomföra\n* En lektion per vecka\n* En videodelning per vecka",
+      "body": "I vardagen kan vi lätt tappa kontakten med det som betyder något för oss. Detta gäller särskilt när vi har att göra med utmanande situationer eller känner oss konsumerade av ansvar - som arbete eller vård av en sjuk förälder. Det är också när vi tenderar att ge upp aktiviteter som laddar våra batterier.\n\nAtt ansluta till våra djupaste värderingar är ett kraftfullt verktyg som leder oss till att göra meningsfulla åtgärder i varje ögonblick av våra liv."
+    },
+    "cta": "Ta det första steget på en resa till ett mer meningsfullt liv, baserat på vad som betyder något för dig.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Values_ohwbbq.png"
+    },
+    "duration": {
+      "count": 7,
+      "type": "lesson"
+    },
+    "tags": ["9f02a381-9950-4f53-9a10-5f8365c456a1"],
+    "id": "cc77500f-bca0-48bd-a282-14842b25aa2f",
+    "lessons": [
+      {
+        "id": "c9903941-28ad-4287-9f3b-87272558a829",
+        "name": "Känner mig vilsen",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/Feeling%20lost.png"
+        },
+        "index": 0,
+        "description": "Den här kursen handlar om att ansluta till dina värderingar och leva ett mer meningsfullt liv. Vi går rakt in i en djungel i den här första lektionen.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "FLiF3XRNMrZCXKvU56K6wC",
+            "title": "Känner mig vilsen"
+          }
+        ]
+      },
+      {
+        "id": "a5f12e6b-5a23-4a27-a6c3-66d40bbc16e9",
+        "name": "Kompassen",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/The%20compass.png"
+        },
+        "index": 1,
+        "description": "Skriv ut hur du vill vara och vad som är viktigast i ditt liv - dina egna värderingar.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "LFQLkspDS5KYxewmjzrZYN",
+            "title": "Kompassen"
+          }
+        ]
+      },
+      {
+        "id": "0324886b-225e-4394-baab-943878fb49e6",
+        "name": "Dina val",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/Your%20choices.png"
+        },
+        "index": 2,
+        "description": "Lär dig hur du gör värdena i din kompass tydligare, mer praktisk och trogen mot dig själv.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "gpjsbXwUA8eJLn1nPbRC9",
+            "title": "Dina val"
+          }
+        ]
+      },
+      {
+        "id": "5a771ac2-d05f-4eec-af37-37b399326f16",
+        "name": "Upplevelser",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/A%20colorful%20life.png"
+        },
+        "index": 3,
+        "description": "Den här lektionen handlar om att öppna upp och verkligen uppleva livet.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "T8D5NvrXdZkspWMpGqfPV6",
+            "title": "Upplevelser"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 163,
+      "rating": 4.2
+    },
+    "wip": true
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "Luís Portela",
+      "name": "Luís Portela"
+    },
+    "name": "Valores",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855721/29k%20FJN/Courses/Values/Photos/luisportelaMIRROR_gmuofn.jpg"
+    },
+    "about": {
+      "courseValue": "#### O que vou aprender?\n\n* Um guião para encontrares os teus valores\n* A viver uma vida com mais significado\n* A abrires-te para a vida",
+      "howThisWorks": "#### Como funciona este curso?\n\n* O curso tem a duração de 7 semanas\n* Uma lição por semana\n* Uma partilha de vídeo todas as semanas",
+      "body": "Na nossa vida diária, perdemos facilmente o contacto com o que é importante para nós. Isto é particularmente verdade quando lidamos com situações desafiantes. É também nestas alturas que temos tendência a abdicar das atividades que nos preenchem e satisfazem.\n\nConectarmo-nos com os nossos valores fundamentais é uma ferramenta poderosa para despoletar ações com significado em todos os momentos da nossa vida.",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com Luís Portela"
+          }
+        ]
+      }
+    },
+    "cta": "Dá o primeiro passo na caminhada para uma vida com mais significado baseada no que é importante para ti.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958193/29k%20FJN/Courses/Menu%20Thumbnails/luisportela_MENU01final_nvtmx3.jpg"
+    },
+    "duration": {
+      "count": 7,
+      "type": "lesson"
+    },
+    "tags": ["9f02a381-9950-4f53-9a10-5f8365c456a1"],
+    "id": "cc77500f-bca0-48bd-a282-14842b25aa2f",
+    "lessons": [
+      {
+        "id": "c9903941-28ad-4287-9f3b-87272558a829",
+        "name": "Sentirmo-nos perdidos",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/Feeling%20lost.png"
+        },
+        "index": 0,
+        "description": "Neste curso vais conectar-te aos teus valores para viveres uma vida com mais significado. Nesta primeira lição vamos entrar diretamente numa selva.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "FLiF3XRNMrZCXKvU56K6wC",
+            "title": "Sentirmo-nos perdidos"
+          }
+        ]
+      },
+      {
+        "id": "a5f12e6b-5a23-4a27-a6c3-66d40bbc16e9",
+        "name": "A bússola ",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/The%20compass.png"
+        },
+        "index": 1,
+        "description": "Escreve como queres ser na vida e o que é mais importante para ti",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "LFQLkspDS5KYxewmjzrZYN",
+            "title": "A bússola "
+          }
+        ]
+      },
+      {
+        "id": "0324886b-225e-4394-baab-943878fb49e6",
+        "name": "As tuas escolhas",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/Your%20choices.png"
+        },
+        "index": 2,
+        "description": "Aprende a tornar a tua bússola mais compreensível, prática e fiel a ti.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "gpjsbXwUA8eJLn1nPbRC9",
+            "title": "As tuas escolhas"
+          }
+        ]
+      },
+      {
+        "id": "5a771ac2-d05f-4eec-af37-37b399326f16",
+        "name": "Uma vida cheia de cor",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081219/New_images/courses%20png/Values%20-%20lesson%20illustrations/A%20colorful%20life.png"
+        },
+        "index": 3,
+        "description": "Esta lição é sobre como te abrires e experienciares verdadeiramente a vida.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "T8D5NvrXdZkspWMpGqfPV6",
+            "title": "Uma vida cheia de cor"
+          }
+        ]
+      },
+      {
+        "id": "bea39a23-0d72-4b42-8889-9f70b27330db",
+        "name": "Fazer acontecer",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081220/New_images/courses%20png/Values%20-%20lesson%20illustrations/Making%20it%20happen.png"
+        },
+        "index": 4,
+        "wip": false,
+        "description": "Esta lição é sobre como colocares os teus planos em ação.",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "U3Y8zfaZbq32NKw7VyKFkx",
+            "title": "Fazer acontecer"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "29316145-c41a-4140-bcab-43877c6a14c6",
+        "name": "Os obstáculos",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081220/New_images/courses%20png/Values%20-%20lesson%20illustrations/Obstacles.png"
+        },
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Esta lição é sobre como superar os obstáculos no caminho da vida que desejas.",
+        "conversations": [
+          {
+            "conversationId": "LVcQtZqVqjSEUh69zeJ5u1",
+            "title": "Os obstáculos"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "60f3e116-477a-4ba4-a3c3-da2d07ab9f64",
+        "name": "A tua história",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081220/New_images/courses%20png/Values%20-%20lesson%20illustrations/The%20story%20about%20yourself.png"
+        },
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "A lição de hoje explora uma forma diferente de olhares para o teu passado.",
+        "conversations": [
+          {
+            "conversationId": "4dRrqEWxLSo7DCMrSphd1c",
+            "title": "A tua história"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 163,
+      "rating": 4.2
+    }
+  }
+}

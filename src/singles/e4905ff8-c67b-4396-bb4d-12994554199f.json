@@ -1,0 +1,367 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Act for yourself",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/act_for_yourself_ll7fpg.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "exercise",
+    "id": "e4905ff8-c67b-4396-bb4d-12994554199f",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": false,
+    "stations": [
+      {
+        "id": "555ba0ad-7b2c-4a5f-83e7-b623a072a060",
+        "root": "fc249323-e443-4c47-9ae8-3d132e5b723b",
+        "alias": "Exercise Act for yourself",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "fc249323-e443-4c47-9ae8-3d132e5b723b",
+            "alias": "Intro",
+            "content": "In different situations in life, we all know what it’s like from a place of:\n\n* Pleasing other people\n* Doing what’s expected of us\n* Worry, loneliness or anxiety",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/act_for_yourself_ll7fpg.png",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2dde15c2-89ef-4a05-80cb-6d1ad461f1e6",
+            "alias": "Intro 2",
+            "content": "In these situations, it’s normal to forget about making choices based on what really is important to us.\n\nBut it doesn’t have to be this way. Let's learn how to **tune-in to your values and act on them.**",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "dd74a1ca-2f5c-4aa9-bb38-5e0e508e0ef3",
+            "content": "**Learn more about:**\n\n* What matters to you\n* Act for change\n\n**You'll need:**\n\n* Pen & paper\n* 10 minutes",
+            "alias": "Intro 3",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "15b296af-4baf-489f-bb15-20ee8cffc952",
+            "alias": "1",
+            "content": "Consider your day so far.\n\nWhere on the scale below do you place yourself right now?\n\n1. I’ve acted on what’s expected from me \n2. ...\n3. ...\n4. ...\n5. ...\n6. I’ve acted on what really matters to me",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1636117634/scale_exercise_r7zfyy.png",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7e4cc369-5956-401e-a884-d3e8d81e19c6",
+            "alias": "2",
+            "content": "In every situation we face, we can ask ourselves:\n\n> If I choose to do this, is it because it is important to me?\n\nOr \n\n>  Am I doing it to please others, to do what’s expected from me, or to escape difficult feelings?",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+            "id": "e57a210c-e602-4c85-bb9d-fa4e0edc1b9c",
+            "alias": "Exercise part 1",
+            "longDescription": "Think of a problem you have right now or a situation from the past week that didn’t turn out as you’d hoped.\n\n1. If you were to act in a way that you feel like you should or that's expected from you, what would you do and how would that make you feel? Write down your answer.",
+            "title": "",
+            "question": "",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "",
+            "id": "640f891e-bd2c-4356-abbd-ed0814ac78e6",
+            "longDescription": "2. If you were to act in a way that matters to you instead in this situation, what would you do? How would that make you feel?",
+            "alias": "Exericse part 2",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "video",
+            "id": "6991853e-29d9-443e-989d-1e0f0f9bdd39",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646754639/Challenges/Sandro_Act_for_yourself_tifpi9.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647338208/Challenges/Sandro%20subtitles/ENG__Act_for_yourself_tk3js6.vtt"
+              }
+            ],
+            "alias": "Sandro sharing",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "ef4ea1aa-6d2c-477c-809f-71cde7a1bee8",
+            "alias": "Sharing question",
+            "question": "Are there any differences between these two lines of action? ",
+            "nextConversation": "",
+            "exampleText": "Yes. I realized that I don't value my own needs.",
+            "nextSection": "c34bcb16-8511-4d29-9efc-092523c8cc12",
+            "enableEarlySkip": true
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c34bcb16-8511-4d29-9efc-092523c8cc12",
+            "content": "Doing what matters to us is not always an easy choice. \n\nWe might confront a fear of failing. Or decide that we have to do something we are uncomfortable with, like saying no or having a difficult conversation.",
+            "title": "Well done for completing this exercise!",
+            "alias": "Outro 1",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d5f62bb8-5a7f-4479-a37e-8c1926ee68c3",
+            "content": "The way forward may not be clear. The only way to find out which way to go is to try these actions in real life. We suggest you do that, and afterwards reflect on the results. \n\nRemember that you only have control over your own behavior, not others'. If it doesn't end the way you want it to this time, you've still done what you can to make a meaningful decision and you can be proud of that.",
+            "alias": "Outro 2",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Act for yourself",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Agera efter dina värderingar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/act_for_yourself_ll7fpg.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "exercise",
+    "id": "e4905ff8-c67b-4396-bb4d-12994554199f",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": false,
+    "stations": [
+      {
+        "id": "555ba0ad-7b2c-4a5f-83e7-b623a072a060",
+        "alias": "Exercise Act for yourself",
+        "root": "fc249323-e443-4c47-9ae8-3d132e5b723b",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "fc249323-e443-4c47-9ae8-3d132e5b723b",
+            "alias": "Introduktion",
+            "content": "I olika situationer i livet vet vi alla hur det kan vara att agera:\n\n* För att vara andra till lags\n* Efter vad som förväntas av oss\n* För att undvika känslor som oro, ensamhet och ångest",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/act_for_yourself_ll7fpg.png",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2dde15c2-89ef-4a05-80cb-6d1ad461f1e6",
+            "alias": "Introduktion 2",
+            "content": "Det är lätt att glömma bort att prioritera sig själv.\n\nMen det behöver inte vara så. Den här övningen hjälper dig förstå hur du **kan agera i linje med dina värderingar och vad som är betydelsefullt för dig.**",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "dd74a1ca-2f5c-4aa9-bb38-5e0e508e0ef3",
+            "content": "**Lär dig mer om:**\n\n* Vad som är betydelsefullt för dig\n* Att skapa förändring\n\n**Du behöver:**\n\n* Papper och penna\n* 10 minuter",
+            "alias": "Introduktion 3",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "15b296af-4baf-489f-bb15-20ee8cffc952",
+            "alias": "1",
+            "content": "Tänk på din dag såhär långt.\n\nVart på skalan nedan placerar du dig själv just nu?\n\n1. Jag har agerat efter vad andra förväntar sig av mig\n2. ...\n3. ...\n4. ...\n5. ...\n6. Jag har agerat efter vad som verkligen är betydelsefullt för mig",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7e4cc369-5956-401e-a884-d3e8d81e19c6",
+            "alias": "2",
+            "content": "I varje situation vi befinner oss i kan vi ställa oss frågan: \n\n> Om jag väljer att göra det här, är det för att det är viktigt för mig personligen? \n\nEller \n\n> Gör jag det för att vara andra till lags, för att jag tror att det förväntas av mig eller för att jag försöker undvika jobbiga känslor?",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+            "id": "e57a210c-e602-4c85-bb9d-fa4e0edc1b9c",
+            "alias": "Övning del 1",
+            "longDescription": "Tänk på ett problem du har just nu eller på en situation från de senaste veckorna som inte blev som du hade hoppats på.\n\n1. Om du skulle agera på ett sätt som du känner förväntas av dig, vad skulle du göra då? Hur skulle det få dig att må?",
+            "title": "",
+            "question": "",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "",
+            "id": "640f891e-bd2c-4356-abbd-ed0814ac78e6",
+            "longDescription": "2. Om du istället skulle agera på ett sätt som känns betydelsefullt för dig i den här situationen, vad skulle du göra då? Hur skulle det få dig att må?",
+            "alias": "Övning del 2",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "video",
+            "id": "00f337aa-a9e4-4ffd-a786-ba89d12f653b",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646754639/Challenges/Sandro_Agera_enligt_dina_va%CC%88rderingar_ulbjim.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647338208/Challenges/Sandro%20subtitles/SWE_Act_for_yourself_eg62v2.vtt"
+              }
+            ],
+            "alias": "Sandro delning",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "ef4ea1aa-6d2c-477c-809f-71cde7a1bee8",
+            "alias": "Delningsfråga",
+            "question": "Fanns det några skillnader mellan dessa två sätt att agera på?",
+            "nextConversation": "",
+            "exampleText": "Ja, jag förstod att jag inte värdesätter mina egna behov. ",
+            "nextSection": "c34bcb16-8511-4d29-9efc-092523c8cc12",
+            "enableEarlySkip": true
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c34bcb16-8511-4d29-9efc-092523c8cc12",
+            "content": "Att göra det som är viktigt för oss är inte alltid ett lätt val. \\\n\\\nVi kan vara rädda för att misslyckas. Eller så kan det leda till att vi måste ta beslut som vi är obekväma med, som att säga nej eller ha ett svårt samtal.",
+            "title": "Bra jobbat med att genomföra övningen! ",
+            "alias": "Outro 1",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d5f62bb8-5a7f-4479-a37e-8c1926ee68c3",
+            "content": "Vägen framåt kanske inte är tydlig. Det enda sättet att ta reda på vilken väg som funkar för dig är att testa. Vi föreslår att du gör det och sedan reflekterar över resultat. \n\nKom ihåg att du bara har kontroll över ditt eget beteende, inte andras. Om det inte går som du vill den här gången har du ändå gjort vad du kan för att fatta ett meningsfullt beslut — och det kan du vara stolt över.",
+            "alias": "Outro 2",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Agera efter dina värderingar",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Age por ti",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/act_for_yourself_ll7fpg.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "exercise",
+    "id": "e4905ff8-c67b-4396-bb4d-12994554199f",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": false,
+    "stations": [
+      {
+        "id": "555ba0ad-7b2c-4a5f-83e7-b623a072a060",
+        "root": "fc249323-e443-4c47-9ae8-3d132e5b723b",
+        "alias": "Exercise Act for yourself",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "fc249323-e443-4c47-9ae8-3d132e5b723b",
+            "alias": "Intro",
+            "content": "Todos sabemos o que é agirmos para:\n\n* Agradar às outras pessoas\n* Fazer o que é esperado de nós\n* Evitar sentimentos de preocupação, solidão e ansiedade",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/act_for_yourself_ll7fpg.png",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2dde15c2-89ef-4a05-80cb-6d1ad461f1e6",
+            "alias": "Intro 2",
+            "content": "É muito **natural** termos esses comportamentos, esquecendo-nos de fazer as nossas escolhas com base no que é **realmente importante para nós**.\n\nMas, não tem que ser assim. Este exercício vai ajudar-te a agir com mais frequência de acordo com o que é realmente importante para **ti.**",
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "dd74a1ca-2f5c-4aa9-bb38-5e0e508e0ef3",
+            "content": "**Exercício de hoje:**\n\n* O que é importante para mim\n* Agir para mudar\n\n**Vais precisar de:**\n\n* Papel e caneta\n* 10 minutos",
+            "alias": "Intro 3",
+            "buttonText": "Estou pronta/o!"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "15b296af-4baf-489f-bb15-20ee8cffc952",
+            "alias": "1",
+            "content": "**Reflete no teu dia até agora.** Onde te posicionas na escala abaixo?\n\n1. Hoje agi de acordo com o que é esperado de mim\n2. ...\n3. ...\n4. ...\n5. ...\n6. Hoje agi de acordo com o que realmente importava para mim",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7e4cc369-5956-401e-a884-d3e8d81e19c6",
+            "alias": "2",
+            "content": "Em cada situação que enfrentamos, podemos interrogar-nos; Se eu decidir fazer isto, é porque **é importante** para mim?\n\nOu estou a fazer isto para **agradar** aos outros, para fazer o que **se espera** de mim ou para **escapar** a sentimentos difíceis?",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+            "id": "e57a210c-e602-4c85-bb9d-fa4e0edc1b9c",
+            "alias": "Exercise part 1",
+            "longDescription": "Se **agisses da forma** que sentes que “**deverias agir**”, ou de uma forma que **é esperada** de ti:\n\n1. O que farias?\n2. Como te sentirias?\n\n*Escreve a tua resposta.*",
+            "title": "Exercício",
+            "question": "Pensa num problema que estás a enfrentar agora ou numa situação da semana passada que não correu como esperavas.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "writing",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+            "id": "640f891e-bd2c-4356-abbd-ed0814ac78e6",
+            "longDescription": "Se, por outro lado, nessa situação agisses de uma forma que **é importante para ti**:\n\n1. O que farias?\n2. Como te sentirias?\n\n*Escreve a tua resposta.*",
+            "alias": "Exericse part 2",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "ef4ea1aa-6d2c-477c-809f-71cde7a1bee8",
+            "alias": "Sharing question",
+            "question": "Houve alguma diferença entre estas duas linhas de ação?",
+            "nextConversation": "",
+            "exampleText": "Sim. Percebi que não valorizo muito os meus próprios desejos e necessidades.",
+            "nextSection": "c34bcb16-8511-4d29-9efc-092523c8cc12"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c34bcb16-8511-4d29-9efc-092523c8cc12",
+            "content": "Fazer o que é importante para nós **nem sempre é uma escolha fácil.** \n\nPodemos enfrentar o medo de falhar, ou decidir que temos de fazer algo com o qual não nos sentimos confortáveis, como dizer não ou ter uma conversa difícil.",
+            "title": "Parabéns por completares este exercício!",
+            "alias": "Outro 1",
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d5f62bb8-5a7f-4479-a37e-8c1926ee68c3",
+            "content": "O caminho a seguir pode não ser claro. A única maneira de descobrirmos esse caminho é **tentar estas ações na vida real.** \n\nSugerimos que faças isso e depois reflitas sobre os resultados. Provavelmente, essa forma de pensar vai ajudar-te a viver uma vida mais alinhada com o que é importante para ti.",
+            "alias": "Outro 2",
+            "buttonText": "Terminei"
+          }
+        ],
+        "name": "Age por ti",
+        "type": "station"
+      }
+    ]
+  }
+}

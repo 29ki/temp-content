@@ -1,0 +1,29 @@
+{
+  "en": {
+    "question": {
+      "heading__markdown": "Question ~~{{current}} of {{count}}~~"
+    },
+    "result": {
+      "heading__markdown": "# Your ~~Results~~",
+      "overallHeading": "Overall"
+    }
+  },
+  "sv": {
+    "question": {
+      "heading__markdown": "Fråga ~~{{current}} av {{count}}~~"
+    },
+    "result": {
+      "heading__markdown": "# Dina ~~resultat~~",
+      "overallHeading": "Generellt"
+    }
+  },
+  "pt": {
+    "question": {
+      "heading__markdown": "Pergunta ~~{{current}} de {{count}}~~"
+    },
+    "result": {
+      "heading__markdown": "# Os teus ~~Resultados~~",
+      "overallHeading": "Geral"
+    }
+  }
+}

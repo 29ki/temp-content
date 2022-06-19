@@ -1,0 +1,1118 @@
+{
+  "en": {
+    "id": "ENYMoPMGe6NLhACTSZDco-2",
+    "alias": "Self compassion - Intention 2",
+    "type": "lesson",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Our actions towards ourselves are not always kind",
+        "topImageUri": "",
+        "title": "Our actions towards ourselves are not always kind",
+        "content": "The inner critic often makes us behave in a **non-caring** and **non-loving** way towards ourselves.\n\nTo better understand yourself, it can be helpful to take time to reflect about how you treat yourself in difficult times.\n\n*This is the actual test used for Self-Compassion research, reproduced with permission from Kristin Neff.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Start test",
+            "sectionId": "self-test"
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "test-result"
+            },
+            "component": "Questionnaire",
+            "calcType": "avg",
+            "hideSubScores": false,
+            "options": [
+              {
+                "label": "Almost Never",
+                "score": 1
+              },
+              {
+                "label": "Occasionally",
+                "score": 2
+              },
+              {
+                "label": "About Half of the Time",
+                "score": 3
+              },
+              {
+                "label": "Fairly Often",
+                "score": 4
+              },
+              {
+                "label": "Almost Always",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "I’m disapproving and judgmental about my own flaws and inadequacies."
+              },
+              {
+                "question": "When I’m feeling down I tend to obsess and fixate on everything that’s wrong."
+              },
+              {
+                "question": "When things are going badly for me, I see the difficulties as part of life that everyone goes through."
+              },
+              {
+                "question": "When I think about my inadequacies, it tends to make me feel more separate and cut off from the rest of the world."
+              },
+              {
+                "question": "I try to be loving towards myself when I’m feeling emotional pain."
+              },
+              {
+                "question": "When I fail at something important to me I become consumed by feelings of inadequacy."
+              },
+              {
+                "question": "When I’m down and out, I remind myself that there are lots of other people in the world feeling like I am."
+              },
+              {
+                "question": "When times are really difficult, I tend to be tough on myself."
+              },
+              {
+                "question": "When something upsets me I try to keep my emotions in balance.  "
+              },
+              {
+                "question": "When I feel inadequate in some way, I try to remind myself that feelings of inadequacy are shared by most people."
+              },
+              {
+                "question": "I’m intolerant and impatient towards those aspects of my personality I don’t like."
+              },
+              {
+                "question": "When I’m going through a very hard time, I give myself the caring and tenderness I need."
+              },
+              {
+                "question": "When I’m feeling down, I tend to feel like most other people are probably happier than I am."
+              },
+              {
+                "question": "When something painful happens I try to take a balanced view of the situation."
+              },
+              {
+                "question": "I try to see my failings as part of the human condition."
+              },
+              {
+                "question": "When I see aspects of myself that I don’t like, I get down on myself."
+              },
+              {
+                "question": "When I fail at something important to me I try to keep things in perspective."
+              },
+              {
+                "question": "When I’m really struggling, I tend to feel like other people must be having an easier time of it."
+              },
+              {
+                "question": "I’m kind to myself when I’m experiencing suffering."
+              },
+              {
+                "question": "When something upsets me I get carried away with my feelings."
+              },
+              {
+                "question": "I can be a bit cold-hearted towards myself when I’m experiencing suffering."
+              },
+              {
+                "question": "When I’m feeling down I try to approach my feelings with curiosity and openness."
+              },
+              { "question": "I’m tolerant of my own flaws and inadequacies." },
+              {
+                "question": "When something painful happens I tend to blow the incident out of proportion."
+              },
+              {
+                "question": "When I fail at something that’s important to me, I tend to feel alone in my failure."
+              },
+              {
+                "question": "I try to be understanding and patient towards those aspects of my personality I don’t like."
+              }
+            ],
+            "groups": {
+              "self-kindness": {
+                "label": "Self-Kindness",
+                "description": "Self-Kindness is about meeting yourself with patience, caring and tenderness when you are going through a hard time or are in emotional pain.",
+                "questions": [4, 11, 18, 22, 25],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              },
+              "self-judgment": {
+                "label": "Self-Judgment",
+                "description": "Self-Judgement is about being intolerant, tough and impatient towards yourself when you are experiencing suffering or when confronted with aspects of yourself that you dislike.",
+                "questions": [0, 7, 10, 15, 20],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              },
+              "common-humanity": {
+                "label": "Common Humanity",
+                "description": "Common Humanity is about seeing your difficulties, pain and flaws as part of being human and something that everyone shares and goes through.",
+                "questions": [2, 6, 9, 14],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              },
+              "isolation": {
+                "label": "Isolation",
+                "description": "Isolation is about feeling alone in your struggles and inadequacies. It is also thinking that other people have an easier time and are happier than you are.",
+                "questions": [3, 12, 17, 24],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              },
+              "mindfulness": {
+                "label": "Mindfulness",
+                "description": "Mindfulness is about trying to keep your emotions in balance, staying open and keeping things in perspective when you are upset or something painful happens.",
+                "questions": [8, 13, 16, 21],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              },
+              "over-identified": {
+                "label": "Over-identified",
+                "description": "Over-identification is about obsessing, fixating and becoming consumed by feelings of failure or inadequacies when something goes wrong.",
+                "questions": [1, 5, 19, 23],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 5,
+                    "label": "High"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Low",
+                "description": "Your relationship towards yourself is quite judgmental and critical rather than understanding and kind. When you are struggling you have a tendency to forget that suffering is a part of being human and instead isolate yourself from others. When you are in pain you often become consumed by self-critical thoughts have a hard time staying in the present moment. "
+              },
+              {
+                "score": 3,
+                "label": "Moderate",
+                "description": "Your relationship towards yourself is a mix of both understanding and kindness but also judgment and criticism. Sometimes when you are struggling you remember that suffering is a part of being human, but other times you may isolate yourself from connecting. When you are in pain you alternate between staying in the present moment and believing your self-critical thoughts. "
+              },
+              {
+                "score": 5,
+                "label": "High",
+                "description": "Your relationship towards yourself is one of understanding and kindness rather than of judgment or criticism. When you are struggling you tend to remember that suffering is a part of being human and you avoid isolating yourself from others. When you are in pain you find ways to stay in the present moment instead of being consumed by self-critical thoughts. "
+              }
+            ]
+          }
+        ],
+        "id": "self-test",
+        "alias": "Self test",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "section4",
+                "content": "Continue"
+              }
+            ]
+          }
+        ],
+        "id": "test-result",
+        "alias": "Result",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Rachel sharing her results",
+        "title": "Rachel sharing her results",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/intention/yg_intention_video_result-min.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622194544/Self%20Compassion/intention_exercise1_oxbfv9.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639660582/Self%20Compassion/Subtitles/intention-exercise1-oxbfv9_1_qjiqv9.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "ENYMoPMGe6NLhACTSZDco-2",
+    "alias": "Self compassion - Intention 2",
+    "type": "lesson",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Våra handlingar mot oss själva är inte alltid snälla",
+        "topImageUri": "",
+        "title": "Våra handlingar mot oss själva är inte alltid snälla",
+        "content": "Den inre kritikern får oss ofta att bete oss på ett **icke-omtänksamt** och **icke-kärleksfullt** sätt mot oss själva.\n\nFör att bättre förstå dig själv kan det vara till hjälp att ta dig tid att fundera över hur du behandlar dig själv när det känns svår.\n\n*Detta är just det test som används vid forskning om självmedkänsla, återgivet med tillstånd av forskaren Kristin Neff.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Börja testet",
+            "sectionId": "self-test"
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "test-result"
+            },
+            "component": "Questionnaire",
+            "calcType": "avg",
+            "hideSubScores": false,
+            "options": [
+              {
+                "label": "Nästan aldrig",
+                "score": 1
+              },
+              {
+                "label": "Ibland",
+                "score": 2
+              },
+              {
+                "label": "Ungefär hälften av tiden",
+                "score": 3
+              },
+              {
+                "label": "Ganska ofta",
+                "score": 4
+              },
+              {
+                "label": "Nästan alltid",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "Jag ser ogillande och fördömande på mina egna fel och brister."
+              },
+              {
+                "question": "När jag känner mig nere, brukar jag bli besatt och fixerar på allt som är fel."
+              },
+              {
+                "question": "När det går dåligt för mig, ser jag svårigheterna som en del av livet, något som alla går igenom."
+              },
+              {
+                "question": "När jag tänker på mina brister brukar jag känna mig mer avskärmad och separerad från resten av världen."
+              },
+              {
+                "question": "Jag försöker vara kärleksfull mot mig själv när jag känner känslomässig smärta."
+              },
+              {
+                "question": "När jag misslyckas med något som är viktigt för mig, blir jag uppslukad av en känsla av otillräcklighet."
+              },
+              {
+                "question": "När jag känner mig låg och nere påminner jag mig själv om att det finns många andra människor i världen som känner som jag."
+              },
+              {
+                "question": "I riktigt svåra stunder brukar jag bli hård mot mig själv."
+              },
+              {
+                "question": "När något gör mig upprörd försöker jag hålla mina känslor i balans."
+              },
+              {
+                "question": "När jag känner mig otillräcklig på något sätt försöker jag påminna mig själv om att känslor av otillräcklighet är något de flesta människor upplever."
+              },
+              {
+                "question": "Jag är intolerant och otålig gentemot de sidor av mig själv som jag inte tycker om."
+              },
+              {
+                "question": "När jag går igenom en riktigt svår tid ger jag mig själv den ömhet och omtanke jag behöver."
+              },
+              {
+                "question": "När jag känner mig nere, brukar jag tänka att de flesta andra förmodligen är lyckligare än jag."
+              },
+              {
+                "question": "När något smärtsamt händer försöker jag se nyktert på situationen."
+              },
+              {
+                "question": "Jag försöker se mina misslyckanden som en del av vad det innebär att vara människa."
+              },
+              {
+                "question": "När jag ser sidor hos mig själv som jag inte gillar blir jag kritisk mot mig själv."
+              },
+              {
+                "question": "När jag misslyckas med något viktigt försöker jag ta perspektiv på saker och ting."
+              },
+              {
+                "question": "När jag har det kämpigt brukar det kännas som att andra människor nog har det lättare."
+              },
+              {
+                "question": "Jag är snäll mot mig själv när jag upplever lidande."
+              },
+              {
+                "question": "När något gör mig upprörd brukar jag dras med av mina känslor."
+              },
+              {
+                "question": "Jag kan vara ganska hård mot mig själv när jag har det svårt."
+              },
+              {
+                "question": "När jag känner mig nere försöker jag närma mig mina känslor med nyfikenhet och öppenhet."
+              },
+              {
+                "question": "Jag är oftast tolerant mot mina egna fel och brister."
+              },
+              {
+                "question": "När något smärtsamt inträffar brukar jag förstora situationen."
+              },
+              {
+                "question": "När jag misslyckas med något som är viktigt för mig brukar jag känna mig ensam om det."
+              },
+              {
+                "question": "Jag försöker vara förstående och tålmodig gentemot de sidor av mig själv som jag inte tycker om."
+              }
+            ],
+            "groups": {
+              "self-kindness": {
+                "label": "Självmedkänsla",
+                "description": "Självmedkänsla handlar om att möta sig själv med tålamod, omtanke och ömhet när du går igenom en svår tid eller har ont känslomässigt. ",
+                "questions": [4, 11, 18, 22, 25],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Måttlig"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "self-judgment": {
+                "label": "Självkritik",
+                "description": "Självkritik handlar om att vara intolerant, hård och otålig mot dig själv när du lider eller när du konfronteras med sidor av dig själv du ogillar.",
+                "questions": [0, 7, 10, 15, 20],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Måttlig"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "common-humanity": {
+                "label": "Allmänmänsklighet",
+                "description": "Allmänmänsklighet handlar om att se dina svårigheter, din smärta och dina brister som en del av att vara människa och något som alla delar och går igenom.",
+                "questions": [2, 6, 9, 14],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Måttlig"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "isolation": {
+                "label": "Isolering",
+                "description": "Isolering handlar om att känna sig ensam i sin kamp och sin otillräcklighet. Det är också att tänka att andra människor har det lättare och är lyckligare än du.",
+                "questions": [3, 12, 17, 24],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Måttlig"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "mindfulness": {
+                "label": "Mindfulness",
+                "description": "Mindfulness handlar om att försöka hålla sina känslor i balans, vara öppen och sätta saker i perspektiv när du är upprörd eller något jobbigt händer",
+                "questions": [8, 13, 16, 21],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Måttlig"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              },
+              "over-identified": {
+                "label": "Överidentifierad",
+                "description": "Överidentifiering handlar om att vara besatt, fixerad och bli uppslukad av känslor av misslyckande eller brister när något går snett",
+                "questions": [1, 5, 19, 23],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Måttlig"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Hög"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Låg",
+                "description": "Ditt förhållande till dig själv är rätt fördömande och kritiskt snarare än förstående och snällt. När du har det svårt har du en tendens att glömma att lidande är en del av att vara människa och du isolerar dig istället från andra. När du mår dåligt får du ofta massor av självkritiska tankar och har svårt att stanna kvar i nuet."
+              },
+              {
+                "score": 3,
+                "label": "Måttlig",
+                "description": "Ditt förhållande till dig själv är en blandning av både förståelse och vänlighet, men också fördömande och kritik. Ibland när du har det jobbigt minns du att lidande är en del av att vara människa, men andra gånger kan du isolera dig istället för att ta kontakt med andra. När du har det svårt växlar du mellan att vara kvar i nuet och att tro på dina självkritiska tankar."
+              },
+              {
+                "score": 5,
+                "label": "Hög",
+                "description": "Ditt förhållande till dig själv handlar om förståelse och vänlighet snarare än fördömande eller kritik. Ibland när du har det jobbigt tenderar du att minnas att lidande är en del av att vara människa och du kan undvika att isolera dig från andra. När du har det svårt hittar du sätt att stanna kvar i nuet istället för att ätas upp av självkritiska tankar."
+              }
+            ]
+          }
+        ],
+        "id": "self-test",
+        "alias": "Self test",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "section4",
+                "content": "Fortsätt"
+              }
+            ]
+          }
+        ],
+        "id": "test-result",
+        "alias": "Result",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Rachel delar med sig av sina resultat ",
+        "title": "Rachel delar med sig av sina resultat ",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/intention/yg_intention_video_result-min.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622194544/Self%20Compassion/intention_exercise1_oxbfv9.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639660583/Self%20Compassion/Subtitles/intention-exercise1-oxbfv9_1_Swedish_oduuym.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "ENYMoPMGe6NLhACTSZDco-2",
+    "alias": "Self compassion - Intention 2",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "alias": "Intenção",
+        "title": "Intenção",
+        "description": "\"Talvez por todas as mudanças que aconteceram na minha vida (…), eu senti que tinha de ser muito boa, se possível, não falhar.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P1intentionautocompaixao_owiufs.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895747/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L2_Self-compassion_V1_rtsdyi.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "O próximo passo da tua jornada começa aqui",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448852/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P2intentionautocompaixao_o2ko2h.jpg",
+        "title": "O próximo passo da tua jornada começa aqui",
+        "content": "Hoje estás a dar o próximo passo da tua jornada em direção a uma relação mais compassiva contigo.\nNesta segunda lição, irás explorar as tuas atitudes atuais de autocompaixão e por que razão é importante para ti trabalhar a autocompaixão.\n\n### A lição de hoje tem três partes:\n\n* O teste da autocompaixão\n* Explorar onde é que a compaixão é mais importante \n* Definir uma intenção para o curso\n\n### Preparação para a lição:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "As nossas atitudes para connosco nem sempre são bondosas",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448852/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P3intentionautocompaixao_rrm2bc.jpg",
+        "title": "As nossas atitudes para connosco nem sempre são bondosas",
+        "content": "A/o crítica/o interior faz-nos muitas vezes comportarmo-nos de uma forma pouco atenciosa e até hostil para connosco.\n\nPara te compreenderes melhor, pode ser útil reservar algum tempo para refletir sobre como te tratas em tempos difíceis.\n\n*Este teste vem da área de investigação em autocompaixão e foi utilizado com permissão de Kristin Neff.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Comece o teste",
+            "sectionId": "self-test"
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "test-result"
+            },
+            "component": "Questionnaire",
+            "calcType": "avg",
+            "hideSubScores": false,
+            "options": [
+              {
+                "label": "Quase nunca",
+                "score": 1
+              },
+              {
+                "label": "Ocasionalmente",
+                "score": 2
+              },
+              {
+                "label": "Cerca de metade do tempo",
+                "score": 3
+              },
+              {
+                "label": "Frequentemente",
+                "score": 4
+              },
+              {
+                "label": "Quase sempre",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "Eu desaprovo e julgo as minhas próprias falhas e incapacidades."
+              },
+              {
+                "question": "Quando me sinto em baixo, tendo a ficar obcecada/o e a focar-me em tudo o que está errado."
+              },
+              {
+                "question": "Quando as coisas me correm mal, vejo as dificuldades como uma parte da vida pela qual toda a gente passa."
+              },
+              {
+                "question": "Quando penso nas minhas incapacidades, tenho tendência a sentir-me separada/o e desligada/o do mundo."
+              },
+              {
+                "question": "Eu tento ser amável comigo quando sinto dor emocional."
+              },
+              {
+                "question": "Quando falho em alguma coisa importante para mim, sou consumida/o por sentimentos de incapacidade."
+              },
+              {
+                "question": "Quando me sinto perdida/o, lembro-me que há muitas pessoas no mundo a sentir-se como eu."
+              },
+              {
+                "question": "Quando me encontro em situações difíceis, tendo a ser dura/o comigo."
+              },
+              {
+                "question": "Quando alguma coisa me perturba, tento manter o meu equilíbrio emocional."
+              },
+              {
+                "question": "Quando me sinto desadequada/o, tento lembrar-me que estes sentimentos são comuns para a maioria das pessoas."
+              },
+              {
+                "question": "Sou intolerante e impaciente com os aspetos da minha personalidade dos quais desgosto."
+              },
+              {
+                "question": "Quando passo por uma situação muito difícil, dou a mim própria/o o carinho e a ternura de que preciso."
+              },
+              {
+                "question": "Quando me sinto em baixo, tendo a sentir que a maioria das pessoas é provavelmente mais feliz do que eu."
+              },
+              {
+                "question": "Quando acontece algo doloroso, tento ter uma visão equilibrada da situação."
+              },
+              {
+                "question": "Tento ver os meus fracassos como parte da condição humana."
+              },
+              {
+                "question": "Eu rebaixo-me quando vejo aspetos meus dos quais não gosto."
+              },
+              {
+                "question": "Quando falho em algo importante para mim, tento manter as coisas em perspetiva."
+              },
+              {
+                "question": "Quando passo por uma situação muito difícil, tendo a sentir que as outras pessoas têm a vida mais facilitada nessa situação."
+              },
+              {
+                "question": "Sou bondosa/o comigo quando experiencio sofrimento."
+              },
+              {
+                "question": "Quando algo me perturba, deixo-me levar pelos meus sentimentos."
+              },
+              {
+                "question": "Posso ser um pouco fria/o comigo quando experiencio sofrimento."
+              },
+              {
+                "question": "Quando me sinto em baixo, tento abordar os meus sentimentos com curiosidade e abertura."
+              },
+              {
+                "question": "Sou tolerante com as minhas imperfeições e insuficiências."
+              },
+              {
+                "question": "Quando acontece algo doloroso, tendo a fazer com que as coisas fiquem fora de controlo."
+              },
+              {
+                "question": "Quando falho em algo importante para mim, tendo a sentir-me sozinha/o no meu fracasso."
+              },
+              {
+                "question": "Tento ser compreensiva/o e paciente com as características da minha personalidade das quais não gosto."
+              }
+            ],
+            "groups": {
+              "self-kindness": {
+                "label": "Amabilidade",
+                "description": "A amabilidade para contigo refere-se a encontrares-te com paciência, carinho e ternura quando passas por situações difíceis ou estás a sofrer emocionalmente.",
+                "questions": [4, 11, 18, 22, 25],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "self-judgment": {
+                "label": "Autocrítica",
+                "description": "A autocrítica refere-se a seres intolerante, dura/o e impaciente contigo quando experiencias sofrimento ou és confrontada/o com aspetos pessoais dos quais não gostas.",
+                "questions": [0, 7, 10, 15, 20],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "common-humanity": {
+                "label": "Humanidade comum",
+                "description": "A humanidade comum passa por veres as tuas dificuldades, dor e defeitos como parte de ser humano e como algo que é comum a toda gente e pelo qual toda a gente passa.",
+                "questions": [2, 6, 9, 14],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "isolation": {
+                "label": "Solidão",
+                "description": "A solidão consiste em sentires-te sozinha/o nas tuas dificuldades e insuficiências. E também em pensares que as outras pessoas têm uma vida mais fácil e mais feliz.",
+                "questions": [3, 12, 17, 24],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "mindfulness": {
+                "label": "Mindfulness",
+                "description": "Mindfulness consiste em manter as tuas emoções em equilíbrio, estar disponível e pôr as coisas em perspetiva quando estás perturbada/o ou quando alguma coisa dolorosa acontece.",
+                "questions": [8, 13, 16, 21],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "over-identified": {
+                "label": "Identificação excessiva",
+                "description": "A identificação excessiva está relacionada com obcecar, focar ou ficar consumida/o com sentimentos de fracasso ou insuficiência quando algo corre mal.",
+                "questions": [1, 5, 19, 23],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Baixo",
+                "description": "Quando a relação contigo própria/o é crítica em vez de compreensiva e bondosa. Quando passas por dificuldades, tens tendência a esquecer-te de que o sofrimento é parte de ser humano e isolas-te dos outros. Quando estás em sofrimento, és frequentemente consumida/o por pensamentos autocríticos e tens dificuldade em estar no momento presente."
+              },
+              {
+                "score": 3,
+                "label": "Moderado",
+                "description": "A relação contigo própria/o é uma mistura de compreensão e amabilidade, mas também julgamento e criticismo. Às vezes, quando estás em situações difíceis, lembras-te que o sofrimento é parte de ser humano, mas, outras vezes, tendes a isolar-te. Quando estás a sofrer, alternas entre estar no momento presente e acreditar nos teus pensamentos autocríticos."
+              },
+              {
+                "score": 5,
+                "label": "Alto",
+                "description": "A relação contigo própria/o tem compreensão e amabilidade em vez de julgamento e criticismo. Quando passas por momentos complicados, tendes a lembrar-te que o sofrimento é parte de ser humano e evitas isolar-te dos outros. Quando sofres, encontras formas de estar no momento presente em vez de ser consumido por pensamentos autocríticos."
+              }
+            ]
+          }
+        ],
+        "id": "self-test",
+        "alias": "Self test",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "section4",
+                "content": "Continuar"
+              }
+            ]
+          }
+        ],
+        "id": "test-result",
+        "alias": "Result",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "A Fátima partilha os seus resultados",
+        "title": "A Fátima partilha os seus resultados",
+        "description": "“Achei uma avaliação que exige honestidade. (…) Se eu enganar os testes, não vou estar a fazer outra coisa senão enganar-me a mim própria.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P4intentionautocompaixao_vgvtbs.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895746/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L2_Self_compassion_V2_rsogzx.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Onde é que a compaixão é mais importante para ti?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P5intentionautocompaixao_a3iw8s.jpg",
+        "title": "Onde é que a compaixão é mais importante para ti?",
+        "content": "Agora que já viste os teus resultados, pode ser uma boa altura para explorares em que área da tua vida mais precisas de compaixão.\n\nSaber onde estás a ter dificuldades ajudar-te-á a ver as situações de forma mais clara e a iniciar um processo de mudança.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Tornar a compaixão importante",
+        "title": "Tornar a compaixão importante",
+        "time": "Tira 5-10 min",
+        "longDescription": "#### Escreve as tuas respostas a estas perguntas\n\n* Qual é a área da tua vida com menos autocompaixão?\n* Quais são os obstáculos que te impedem de ser compassiva/o para contigo nessa área em particular?\n* O que significaria para ti e para os que te rodeiam ser mais compassiva/o para contigo nesta área?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai preparar-te para o próximo passo do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523410/29k%20FJN/Meditations/Joanna%20Final/Setting_My_Intention_t5janl.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Define a tua intenção para o curso",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P8intentionautocompaixao_ro0qbl.jpg",
+        "title": "Define a tua intenção para o curso",
+        "content": "Como gostarias que a tua vida mudasse em resultado deste curso?\n\nAprender os conceitos e as técnicas da autocompaixão pode ajudar-te a ultrapassar os momentos difíceis da tua vida.\n\nUma forma de explorar o que queres da tua vida é imaginares-te num momento futuro e pensares em como gostarias que as coisas fossem nessa altura. Como seria a relação autocompassiva contigo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "O teu eu futuro",
+        "title": "O teu eu futuro",
+        "time": "Tira 5-10 min",
+        "shortDescription": "Imagina-te daqui a um ano e que a tua relação contigo é atenciosa, solidária e compassiva. O que o teu eu futuro diria sobre a forma como te relacionas contigo? Tenta ser o mais específica/o possível e inclui as áreas que mais mudaram ao longo deste último ano. Por exemplo: \"No futuro, eu sorrio quando me olho ao espelho. Sou compassiva/o e aceito os meus erros\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Intenção",
+        "title": "Intenção",
+        "description": "A carta da Fátima\n\n“Que eu consiga valorizar ainda mais o meu caminho e os passos que dei até aqui”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P10intentionautocompaixao_wc1blq.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895786/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L2_Self_compassion_V3_ctkdud.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Autocompaixão",
+        "title": "Autocompaixão",
+        "content": "A autocompaixão pode ser complicada. Muitas vezes temos sucesso na vida porque trabalhamos ou nos esforçamos demais. A autocompaixão implica menos trabalho, menos esforço. Passa mais por sermos amáveis e pacientes connosco.\n\nPor vezes, podemos achar que o objetivo da autocompaixão é sentirmo-nos melhor e fazer com que a dor desapareça. Esta perspetiva pode bloquear os benefícios da autocompaixão. A autocompaixão é uma aceitação bondosa, e também radical, do que se está a passar dentro de nós. Em momentos de dificuldade, podemos usar a autocompaixão não para nos sentirmos melhor, mas porque nos sentimos mal.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por teres completado a lição da **Intenção**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires fazer uma partilha com o teu grupo, vais precisar de ter à mão os seguintes exercícios:\n\n* O teste da autocompaixão\n* Fazer com que a compaixão importe\n* O teu eu futuro",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

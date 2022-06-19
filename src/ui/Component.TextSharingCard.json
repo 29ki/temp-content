@@ -1,0 +1,26 @@
+{
+  "en": {
+    "title": "Text sharing",
+    "when": "{{date}}",
+    "error": "**Failed to load cards**\n An problem accured while loading cards",
+    "more": "More",
+    "less": "Less",
+    "noQuote": "No comment added"
+  },
+  "sv": {
+    "title": "Textdelning",
+    "when": "{{date}}",
+    "error": "**Det gick inte att ladda korten** \n Ett problem uppstod när korten laddades",
+    "more": "Mer",
+    "less": "Mindre",
+    "noQuote": "Kommentar saknas"
+  },
+  "pt": {
+    "title": "Faz a tua partilha",
+    "when": "{{date}}",
+    "error": "**Falha ao carregar cartões** Ocorreu um problema durante o carregamento dos cartões",
+    "more": "Mais",
+    "less": "Menos",
+    "noQuote": "Nenhum comentário"
+  }
+}

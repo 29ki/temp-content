@@ -1,0 +1,302 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Accept your emotions",
+    "time": "15 minutes",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/accepting_your_emotions_tdhm1b.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "89ba5bd7-d73e-462a-b621-cb468b482653",
+    "description": "Find space for dealing with and overcoming negative feelings.",
+    "stations": [
+      {
+        "id": "89ba5bd7-d73e-462a-b621-cb468b482653",
+        "root": "section1",
+        "alias": "Exercise: Accept your emotions",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Accept your emotions",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/accepting_your_emotions_tdhm1b.png",
+            "title": "Accept your emotions",
+            "content": "Like all emotions, stress and emotional discomfort **take** **time** **to process**. However, we often try to **avoid**, **suppress** **or** **flee** them instead.\n\nWithout facing our internal experiences, we often end up having more of unwanted inner experiences, **distracting** **ourselves or even projecting our** **feelings** onto others. \n\nFace your feelings with acceptance and compassion in this exercise co-created with [Dr. K Neff](https://self-compassion.org/) and [Dr. C Germer](https://chrisgermer.com/).",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Exercise - Part 1",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "1. Write down a situation that is **causing you stress or discomfort** right now.\n2. Put down **what thoughts and feelings arise** when you're in that situation. Be as specific as possible.\n\nFor example: *When I haven’t been able to contact loved ones for several days, I feel sad, lonely and have thoughts about all being hopeless.*",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercise - Part 2",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "3. **Take a deep breath in, and a deep breath out**. Become aware of your body.\n4. Write down **how the stress and emotional discomfort is showing up** in your body right now.\n\nFor example: *I feel my shoulders getting tense. I notice that I'm clenching my jaw.*",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercise - Part 3",
+            "title": "",
+            "longDescription": "5. Now, say the following to yourself:\n\n*I am not alone in this experience.*",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "alias": "Kindness",
+            "topImageUri": "",
+            "title": "",
+            "content": "6. Put your **hands** **on your** **heart**. Feel the warmth of your hands and the gentle touch of your chest.\n   Now say the following:\n\n*May I be kind to myself.*\n\nConsider whether any other kindness expression resonates with you right now.",
+            "infoItems": [
+              {
+                "title": "Show other examples",
+                "description": "* May I give myself the compassion that I need.\n* May I accept myself as I am.\n* May I forgive myself."
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done",
+            "content": "7. Take another deep breath. Allow yourself to just be with what you wrote and said to yourself. \n8. Thank yourself for taking this moment to take care of yourself.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "086fde89-b072-4dea-93f1-424a37872ff1",
+            "alias": "sharing wall accept your emotions",
+            "question": "In what way do you think accepting your emotions can be helpful for you?",
+            "exampleText": "Less inner fighting can free up some space and energy to do other things."
+          }
+        ],
+        "name": "Accept your emotions",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Tillåt dina känslor",
+    "time": "15 minuter",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/accepting_your_emotions_tdhm1b.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "89ba5bd7-d73e-462a-b621-cb468b482653",
+    "description": "Tillåt jobbiga känslor och låt dem passera.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "89ba5bd7-d73e-462a-b621-cb468b482653",
+        "root": "section1",
+        "alias": "Exercise: Accept your emotions",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Tillåt alla känslor",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/accepting_your_emotions_tdhm1b.png",
+            "title": "Tillåt alla känslor",
+            "content": "Att våga möta inre upplevelser som stress och svåra känslor kan vara svårt. Därför är det vanligt att vi försöker **undvika** **eller** **fly** ifrån dem. Slippa känna dem.\n\nMen om vi inte erkänner och möter våra känslor slutar det ibland med att de blir **mer påträngande, att vi distraherar oss eller tillskriver andra personer** saker som egentligen är våra egna upplevelser. \n\nMöt dina inre upplevelser med medkänsla och acceptans i en övning utvecklad i samarbete med [Dr. K Neff ](https://self-compassion.org/)och [Dr. C Germer](https://chrisgermer.com/).",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Övning - Del 1",
+            "title": "Övning",
+            "time": "",
+            "question": "",
+            "longDescription": "1. Skriv ner en situation som **känns obehaglig eller som gör dig stressad**.\n2. Beskriv **vilka tankar och känslor som uppstår** i den här situationen. Var så specifik du kan.\n\nTill exempel: *När jag inte har haft kontakt med vänner eller familj på flera dagar känner jag mig ledsen, ensam och tänker att allt är hopplöst.*",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Övning - Del 2",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "3. **Andas in – långsamt och djupt – och sedan sakta ut igen**. Lägg märke till hur det känns i kroppen.\n4. **Var upplever du stress och obehag** i din kropp just nu? Skriv ner hur det känns.\n\nTill exempel: *Jag känner hur min nacke blir stel. Jag märker att jag spänner käken.*",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Övning - Del 3",
+            "title": "",
+            "longDescription": "5. Säg nu till dig själv:\n\n*Jag är inte ensam om att känna så här.*",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "alias": "Omtanke",
+            "topImageUri": "",
+            "title": "",
+            "content": "6. Lägg **händerna** **på ditt hjärta**. Känn värmen från dina händer som mjukt landar på ditt bröst. Säg nu till dig själv:\n\n*Låt mig vara snäll mot mig själv.*\n\nOm något annat uttryck passar dig bättre, använd det.",
+            "infoItems": [
+              {
+                "title": "Visa andra exempel",
+                "description": "* *Låt mig ge mig själv den omtanke jag behöver.*\n* *Låt mig acceptera mig själv som jag är.*\n* *Låt mig förlåta mig själv*."
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "",
+            "title": "",
+            "content": "7. Ta ett djupt andetag igen. Låt det du just sagt och skrivit till dig själv sjunka in\n8. Tacka dig själv för att du tagit dig tid att ta hand om dig själv en kort stund.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "086fde89-b072-4dea-93f1-424a37872ff1",
+            "alias": "Reflektionsövning - tillåt dina känslor",
+            "question": "Hur påverkas du av att tillåta dina känslor?",
+            "exampleText": "Jag slipper den där hotfulla klumpen i magen och kan lägga min energi på andra saker."
+          }
+        ],
+        "name": "Tillåt dina känslor",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Aceita as tuas emoções",
+    "time": "15 minutes",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/accepting_your_emotions_tdhm1b.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "89ba5bd7-d73e-462a-b621-cb468b482653",
+    "description": "Encontra o espaço para lidar e superar sentimentos negativos.",
+    "stations": [
+      {
+        "id": "89ba5bd7-d73e-462a-b621-cb468b482653",
+        "root": "section1",
+        "alias": "Exercise: Accept your emotions",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Aceita as tuas emoções",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/accepting_your_emotions_tdhm1b.png",
+            "title": "Aceita as tuas emoções",
+            "content": "*15 minutos*\n\nComo todas as emoções, o stress e o desconforto emocional demoram tempo a processar. No entanto, muitas vezes tentamos evitar, reprimir ou contornar estas emoções.\n\nSem abordar os nossos problemas internamente, muitas vezes acabamos por nos distrair e projetar os nossos sentimentos nos outros.\n\nNeste exercício, vais abordar os teus sentimentos através da aceitação e da compaixão.\n\n*Cocriado com o Dr. K. Neff e o Dr. C. Germer*",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "Exercício - Parte 1",
+            "title": "Exercício - Parte 1",
+            "time": "",
+            "question": "",
+            "longDescription": "Escreve num papel uma situação que te esteja a causar stress ou desconforto. Sê específica/o. Descreve a situação, os pensamentos que te vêm à cabeça e os teus sentimentos.\n\n\"Quando não consigo sair de casa durante vários dias, sinto-me desligada/o, sozinha/o e tenho pensamentos de que sou inútil\".",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "Exercício - Parte 2",
+            "title": "Exercício - Parte 2",
+            "time": "",
+            "question": "",
+            "longDescription": "Respira fundo. \n\nAnota como e onde sentes no teu corpo o stress e o desconforto emocional neste momento.\n\n> \"Sinto os meus ombros a ficarem tensos\"\n>\n> \"Sinto que o quarto está a encolher\"",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercício - Parte 3",
+            "title": "Exercício - Parte 3",
+            "longDescription": "Agora, diz o seguinte a ti própria/o: \n\n> \"Eu não estou sozinha/o nesta experiência\"",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "alias": "Bondade",
+            "topImageUri": "",
+            "title": "Bondade",
+            "content": "Põe as mãos no teu coração. \n\nSente o calor das tuas mãos e o toque suave do teu peito. \nAgora diz o seguinte: \n\n**Que eu seja amável comigo.**\n\nConsidera se alguma outra expressão de bondade está em sintonia contigo neste momento. Por exemplo:\n\n* Que eu me possa dar a compaixão de que preciso.\n* Que eu me aceite como sou.\n* Que eu me perdoe.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Agora respira fundo e deixa-te estar com o que escreveste e disseste a ti própria/o.\n\nAgradece-te por teres usado este tempo para te concentrares no teu bem-estar.\n\nA autorreflexão é uma ótima maneira de aumentar a compreensão de quem és e para perceberes porque pensas e ages da forma que o fazes.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "e8440681-3bde-4da0-9aee-2781dea5ea1f",
+            "exampleText": "Ao diminuir as minhas lutas interiores liberto espaço e energia para fazer outras coisas que contribuem para a minha felicidade e bem-estar.",
+            "question": "Como achas que aceitares as tuas emoções pode ser útil para ti?",
+            "alias": "sharing wall accept your emotions"
+          }
+        ],
+        "name": "Aceita as tuas emoções",
+        "type": "station"
+      }
+    ]
+  }
+}

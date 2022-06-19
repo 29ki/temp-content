@@ -1,0 +1,646 @@
+{
+  "en": {
+    "id": "ENYMoPMGe6NLhACTSZDco-4",
+    "alias": "Self compassion - Intention 4",
+    "type": "lesson",
+    "root": "section7",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "07:06",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/intention/yogagirl_meditation_Lesson_02_Setting_my_intention.mp3",
+        "title": "Setting my intention",
+        "type": "audio",
+        "id": "section7",
+        "description": ""
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "What's your intention for this course?",
+        "topImageUri": "",
+        "title": "What's your intention for this course?",
+        "content": "* How would you like to see your life change as the result of taking this course?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's set an intention",
+            "sectionId": "section9"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Good to know",
+            "description": "Learning the knowledge and skills of self-compassion can help you get through difficult times in life.\n\nOne way of exploring what you want from life is by imagining yourself at a different time further in the future, and reflecting on how you would like things to be then. What would your self-compassionate relationship with yourself look like?"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "My future self",
+        "title": "My future self",
+        "time": "5-10 min",
+        "shortDescription": "Imagine that you are one year into the future and your relationship towards yourself is caring, supportive and compassionate. ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section10"
+          }
+        ],
+        "longDescription": "What would your future self say about how you relate to yourself? For example:\n\n> “In the future, I smile when I look at myself in the mirror.\"\n>\n> \"I’m compassionate and accepting of my mistakes.\""
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Rachel sharing about her future self",
+        "title": "Rachel sharing about her future self",
+        "description": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/intention/yg_intention_video_letter-min.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622194759/Self%20Compassion/intention_exercise2_1_p5qe0d.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639660582/Self%20Compassion/Subtitles/intention-exercise2-1-p5qe0d_1_lppev7.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "ENYMoPMGe6NLhACTSZDco-4",
+    "alias": "Self compassion - Intention 4",
+    "type": "lesson",
+    "root": "section7",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "09:26",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646903/Meditations/15_Swe_Intention_szze5v.wav",
+        "title": "Bestämma min avsikt  ",
+        "type": "audio",
+        "id": "section7",
+        "description": "I den här meditationen reflekterar du kring vad du vill åstadkomma med kursen."
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Ange din avsikt med kursen ",
+        "topImageUri": "",
+        "title": "Ange din avsikt med kursen ",
+        "content": "#### Hur vill du att ditt liv ska förändras genom kursen?\n\nKunskap om, och färdigheter i självmedkänsla kan hjälpa dig igenom svåra perioder i livet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Bra att veta",
+            "description": "Ett sätt att ta reda på vad du vill ha av livet är att se dig själv i framtiden och fundera på hur du vill att det ska bli. Hur skulle din självmedkännande relation med dig själv se ut?"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Mitt framtida jag",
+        "title": "Mitt framtida jag",
+        "time": "5-10 min",
+        "shortDescription": "Föreställ dig att du har rest ett år framåt i tiden och att din relation med dig själv är omtänksam, stödjande och medkännande.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "section10"
+          }
+        ],
+        "longDescription": "**Vad säger ditt framtida jag om hur du förhåller dig till dig själv nu?**\n\nFörsök att vara specifik och ta med de områden som har förändrats mest under det senaste året. \n\nTill exempel: \n\n*I framtiden ler jag när jag ser mig i spegeln. Jag är medkännande och accepterar mina misstag*"
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Rachels framtida jag",
+        "title": "Rachels framtida jag",
+        "description": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "ENYMoPMGe6NLhACTSZDco-5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/intention/yg_intention_video_letter-min.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622194759/Self%20Compassion/intention_exercise2_1_p5qe0d.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1639660582/Self%20Compassion/Subtitles/intention-exercise2-1-p5qe0d_1_Swedish_xzdmhr.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "ENYMoPMGe6NLhACTSZDco-4",
+    "alias": "Self compassion - Intention 4",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "video",
+        "alias": "Intenção",
+        "title": "Intenção",
+        "description": "\"Talvez por todas as mudanças que aconteceram na minha vida (…), eu senti que tinha de ser muito boa, se possível, não falhar.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P1intentionautocompaixao_owiufs.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895747/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L2_Self-compassion_V1_rtsdyi.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "O próximo passo da tua jornada começa aqui",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448852/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P2intentionautocompaixao_o2ko2h.jpg",
+        "title": "O próximo passo da tua jornada começa aqui",
+        "content": "Hoje estás a dar o próximo passo da tua jornada em direção a uma relação mais compassiva contigo.\nNesta segunda lição, irás explorar as tuas atitudes atuais de autocompaixão e por que razão é importante para ti trabalhar a autocompaixão.\n\n### A lição de hoje tem três partes:\n\n* O teste da autocompaixão\n* Explorar onde é que a compaixão é mais importante \n* Definir uma intenção para o curso\n\n### Preparação para a lição:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "As nossas atitudes para connosco nem sempre são bondosas",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448852/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P3intentionautocompaixao_rrm2bc.jpg",
+        "title": "As nossas atitudes para connosco nem sempre são bondosas",
+        "content": "A/o crítica/o interior faz-nos muitas vezes comportarmo-nos de uma forma pouco atenciosa e até hostil para connosco.\n\nPara te compreenderes melhor, pode ser útil reservar algum tempo para refletir sobre como te tratas em tempos difíceis.\n\n*Este teste vem da área de investigação em autocompaixão e foi utilizado com permissão de Kristin Neff.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Comece o teste",
+            "sectionId": "self-test"
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "test-result"
+            },
+            "component": "Questionnaire",
+            "calcType": "avg",
+            "hideSubScores": false,
+            "options": [
+              {
+                "label": "Quase nunca",
+                "score": 1
+              },
+              {
+                "label": "Ocasionalmente",
+                "score": 2
+              },
+              {
+                "label": "Cerca de metade do tempo",
+                "score": 3
+              },
+              {
+                "label": "Frequentemente",
+                "score": 4
+              },
+              {
+                "label": "Quase sempre",
+                "score": 5
+              }
+            ],
+            "questions": [
+              {
+                "question": "Eu desaprovo e julgo as minhas próprias falhas e incapacidades."
+              },
+              {
+                "question": "Quando me sinto em baixo, tendo a ficar obcecada/o e a focar-me em tudo o que está errado."
+              },
+              {
+                "question": "Quando as coisas me correm mal, vejo as dificuldades como uma parte da vida pela qual toda a gente passa."
+              },
+              {
+                "question": "Quando penso nas minhas incapacidades, tenho tendência a sentir-me separada/o e desligada/o do mundo."
+              },
+              {
+                "question": "Eu tento ser amável comigo quando sinto dor emocional."
+              },
+              {
+                "question": "Quando falho em alguma coisa importante para mim, sou consumida/o por sentimentos de incapacidade."
+              },
+              {
+                "question": "Quando me sinto perdida/o, lembro-me que há muitas pessoas no mundo a sentir-se como eu."
+              },
+              {
+                "question": "Quando me encontro em situações difíceis, tendo a ser dura/o comigo."
+              },
+              {
+                "question": "Quando alguma coisa me perturba, tento manter o meu equilíbrio emocional."
+              },
+              {
+                "question": "Quando me sinto desadequada/o, tento lembrar-me que estes sentimentos são comuns para a maioria das pessoas."
+              },
+              {
+                "question": "Sou intolerante e impaciente com os aspetos da minha personalidade dos quais desgosto."
+              },
+              {
+                "question": "Quando passo por uma situação muito difícil, dou a mim própria/o o carinho e a ternura de que preciso."
+              },
+              {
+                "question": "Quando me sinto em baixo, tendo a sentir que a maioria das pessoas é provavelmente mais feliz do que eu."
+              },
+              {
+                "question": "Quando acontece algo doloroso, tento ter uma visão equilibrada da situação."
+              },
+              {
+                "question": "Tento ver os meus fracassos como parte da condição humana."
+              },
+              {
+                "question": "Eu rebaixo-me quando vejo aspetos meus dos quais não gosto."
+              },
+              {
+                "question": "Quando falho em algo importante para mim, tento manter as coisas em perspetiva."
+              },
+              {
+                "question": "Quando passo por uma situação muito difícil, tendo a sentir que as outras pessoas têm a vida mais facilitada nessa situação."
+              },
+              {
+                "question": "Sou bondosa/o comigo quando experiencio sofrimento."
+              },
+              {
+                "question": "Quando algo me perturba, deixo-me levar pelos meus sentimentos."
+              },
+              {
+                "question": "Posso ser um pouco fria/o comigo quando experiencio sofrimento."
+              },
+              {
+                "question": "Quando me sinto em baixo, tento abordar os meus sentimentos com curiosidade e abertura."
+              },
+              {
+                "question": "Sou tolerante com as minhas imperfeições e insuficiências."
+              },
+              {
+                "question": "Quando acontece algo doloroso, tendo a fazer com que as coisas fiquem fora de controlo."
+              },
+              {
+                "question": "Quando falho em algo importante para mim, tendo a sentir-me sozinha/o no meu fracasso."
+              },
+              {
+                "question": "Tento ser compreensiva/o e paciente com as características da minha personalidade das quais não gosto."
+              }
+            ],
+            "groups": {
+              "self-kindness": {
+                "label": "Amabilidade",
+                "description": "A amabilidade para contigo refere-se a encontrares-te com paciência, carinho e ternura quando passas por situações difíceis ou estás a sofrer emocionalmente.",
+                "questions": [4, 11, 18, 22, 25],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "self-judgment": {
+                "label": "Autocrítica",
+                "description": "A autocrítica refere-se a seres intolerante, dura/o e impaciente contigo quando experiencias sofrimento ou és confrontada/o com aspetos pessoais dos quais não gostas.",
+                "questions": [0, 7, 10, 15, 20],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "common-humanity": {
+                "label": "Humanidade comum",
+                "description": "A humanidade comum passa por veres as tuas dificuldades, dor e defeitos como parte de ser humano e como algo que é comum a toda gente e pelo qual toda a gente passa.",
+                "questions": [2, 6, 9, 14],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "isolation": {
+                "label": "Solidão",
+                "description": "A solidão consiste em sentires-te sozinha/o nas tuas dificuldades e insuficiências. E também em pensares que as outras pessoas têm uma vida mais fácil e mais feliz.",
+                "questions": [3, 12, 17, 24],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "mindfulness": {
+                "label": "Mindfulness",
+                "description": "Mindfulness consiste em manter as tuas emoções em equilíbrio, estar disponível e pôr as coisas em perspetiva quando estás perturbada/o ou quando alguma coisa dolorosa acontece.",
+                "questions": [8, 13, 16, 21],
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              },
+              "over-identified": {
+                "label": "Identificação excessiva",
+                "description": "A identificação excessiva está relacionada com obcecar, focar ou ficar consumida/o com sentimentos de fracasso ou insuficiência quando algo corre mal.",
+                "questions": [1, 5, 19, 23],
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 1,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 3,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 5,
+                    "label": "Alto"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 1,
+                "label": "Baixo",
+                "description": "Quando a relação contigo própria/o é crítica em vez de compreensiva e bondosa. Quando passas por dificuldades, tens tendência a esquecer-te de que o sofrimento é parte de ser humano e isolas-te dos outros. Quando estás em sofrimento, és frequentemente consumida/o por pensamentos autocríticos e tens dificuldade em estar no momento presente."
+              },
+              {
+                "score": 3,
+                "label": "Moderado",
+                "description": "A relação contigo própria/o é uma mistura de compreensão e amabilidade, mas também julgamento e criticismo. Às vezes, quando estás em situações difíceis, lembras-te que o sofrimento é parte de ser humano, mas, outras vezes, tendes a isolar-te. Quando estás a sofrer, alternas entre estar no momento presente e acreditar nos teus pensamentos autocríticos."
+              },
+              {
+                "score": 5,
+                "label": "Alto",
+                "description": "A relação contigo própria/o tem compreensão e amabilidade em vez de julgamento e criticismo. Quando passas por momentos complicados, tendes a lembrar-te que o sofrimento é parte de ser humano e evitas isolar-te dos outros. Quando sofres, encontras formas de estar no momento presente em vez de ser consumido por pensamentos autocríticos."
+              }
+            ]
+          }
+        ],
+        "id": "self-test",
+        "alias": "Self test",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "section4",
+                "content": "Continuar"
+              }
+            ]
+          }
+        ],
+        "id": "test-result",
+        "alias": "Result",
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "A Fátima partilha os seus resultados",
+        "title": "A Fátima partilha os seus resultados",
+        "description": "“Achei uma avaliação que exige honestidade. (…) Se eu enganar os testes, não vou estar a fazer outra coisa senão enganar-me a mim própria.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P4intentionautocompaixao_vgvtbs.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895746/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L2_Self_compassion_V2_rsogzx.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "Onde é que a compaixão é mais importante para ti?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P5intentionautocompaixao_a3iw8s.jpg",
+        "title": "Onde é que a compaixão é mais importante para ti?",
+        "content": "Agora que já viste os teus resultados, pode ser uma boa altura para explorares em que área da tua vida mais precisas de compaixão.\n\nSaber onde estás a ter dificuldades ajudar-te-á a ver as situações de forma mais clara e a iniciar um processo de mudança.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Tornar a compaixão importante",
+        "title": "Tornar a compaixão importante",
+        "time": "Tira 5-10 min",
+        "longDescription": "#### Escreve as tuas respostas a estas perguntas\n\n* Qual é a área da tua vida com menos autocompaixão?\n* Quais são os obstáculos que te impedem de ser compassiva/o para contigo nessa área em particular?\n* O que significaria para ti e para os que te rodeiam ser mais compassiva/o para contigo nesta área?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai preparar-te para o próximo passo do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523410/29k%20FJN/Meditations/Joanna%20Final/Setting_My_Intention_t5janl.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Define a tua intenção para o curso",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448853/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P8intentionautocompaixao_ro0qbl.jpg",
+        "title": "Define a tua intenção para o curso",
+        "content": "Como gostarias que a tua vida mudasse em resultado deste curso?\n\nAprender os conceitos e as técnicas da autocompaixão pode ajudar-te a ultrapassar os momentos difíceis da tua vida.\n\nUma forma de explorar o que queres da tua vida é imaginares-te num momento futuro e pensares em como gostarias que as coisas fossem nessa altura. Como seria a relação autocompassiva contigo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "O teu eu futuro",
+        "title": "O teu eu futuro",
+        "time": "Tira 5-10 min",
+        "shortDescription": "Imagina-te daqui a um ano e que a tua relação contigo é atenciosa, solidária e compassiva. O que o teu eu futuro diria sobre a forma como te relacionas contigo? Tenta ser o mais específica/o possível e inclui as áreas que mais mudaram ao longo deste último ano. Por exemplo: \"No futuro, eu sorrio quando me olho ao espelho. Sou compassiva/o e aceito os meus erros\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Intenção",
+        "title": "Intenção",
+        "description": "A carta da Fátima\n\n“Que eu consiga valorizar ainda mais o meu caminho e os passos que dei até aqui”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L2P10intentionautocompaixao_wc1blq.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895786/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L2_Self_compassion_V3_ctkdud.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Autocompaixão",
+        "title": "Autocompaixão",
+        "content": "A autocompaixão pode ser complicada. Muitas vezes temos sucesso na vida porque trabalhamos ou nos esforçamos demais. A autocompaixão implica menos trabalho, menos esforço. Passa mais por sermos amáveis e pacientes connosco.\n\nPor vezes, podemos achar que o objetivo da autocompaixão é sentirmo-nos melhor e fazer com que a dor desapareça. Esta perspetiva pode bloquear os benefícios da autocompaixão. A autocompaixão é uma aceitação bondosa, e também radical, do que se está a passar dentro de nós. Em momentos de dificuldade, podemos usar a autocompaixão não para nos sentirmos melhor, mas porque nos sentimos mal.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por teres completado a lição da **Intenção**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires fazer uma partilha com o teu grupo, vais precisar de ter à mão os seguintes exercícios:\n\n* O teste da autocompaixão\n* Fazer com que a compaixão importe\n* O teu eu futuro",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

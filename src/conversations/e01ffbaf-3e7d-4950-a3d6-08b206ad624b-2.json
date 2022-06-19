@@ -1,0 +1,62 @@
+{
+  "en": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 3",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "Illusion of control",
+        "content": "Though our urge to control our lives makes us feel in charge, it is in fact an illusion. We think that the more we control our lives, the closer we will get to our goals, but in fact we end up diverging from our values and stuck in a comfort zone instead.\n\nThink about a situation in your life you’re trying to control right now.\n\n* In what way does this situation reinforce your comfort zone?\n* What happens the more you try to control the situation? ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 3",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "A ilusão do controlo",
+        "content": "Embora o nosso desejo de controlar as nossas vidas nos faça sentir no comando, é na verdade uma ilusão. Achamos que quanto mais controlamos as nossas vidas, mais perto estamos de atingir os nossos objetivos, mas acabamos por divergir dos nossos valores ficando presos numa zona de conforto.\n\nPensa num aspeto da tua vida que estás a tentar controlar neste momento.\n\n* De que forma esse aspeto reforça a tua zona de conforto?\n* O que acontece quanto tentas controlar esse aspeto?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 3",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "Kontroll är en illusion",
+        "content": "Även om lusten att kontrollera ofta får oss att känna att det är vi som styr, så är det faktiskt en illusion. ibland känns det som att ju mer vi kontrollerar i våra liv, desto närmare kommer vi våra mål eller lyckan. Men ofta innebär kontrollerande att kortsiktiga undvikanden eller åtgärder håller oss kvar i en slags comfort zone. \n\nTänk på en situation i ditt liv som du försöker kontrollera just nu.\n\n* På vilket sätt förstärker den här situationen din comfort zone?\n* Vad händer när du försöker kontrollera situationen?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ]
+      }
+    ]
+  }
+}

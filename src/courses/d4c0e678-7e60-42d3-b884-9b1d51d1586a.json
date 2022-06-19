@@ -1,0 +1,604 @@
+{
+  "en": {
+    "segments": ["KI"],
+
+    "name": "Influence my future",
+    "about": {
+      "body": "fftfitfo"
+    },
+    "card": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/influence_my_future_card.png"
+    },
+    "cta": "Welcome",
+    "duration": {
+      "type": "lesson",
+      "count": 6
+    },
+
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "id": "d4c0e678-7e60-42d3-b884-9b1d51d1586a",
+    "lessons": [
+      {
+        "name": "The critic and the buddy",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kritikern-och-kompisen-1",
+            "title": "Internal critic"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-2",
+            "title": "Focus exercise"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-3",
+            "title": "Inner buddy"
+          }
+        ],
+        "id": "de7da467-003a-46c8-98c4-0be5f60dce3f",
+        "description": "Bli din egen bästa vän i svåra situationer",
+        "wip": false
+      },
+      {
+        "wip": false,
+        "id": "349467f3-5a1d-47ae-8d00-456a17a8abd1",
+        "name": "The body",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_thumb.png"
+        },
+        "description": "Utforska hur kropp och känslor hänger ihop",
+        "conversations": [
+          {
+            "conversationId": "kroppen-1",
+            "title": "Your stress reaction"
+          },
+          {
+            "conversationId": "kroppen-2",
+            "title": "The body's surcharge"
+          },
+          {
+            "conversationId": "kroppen-3",
+            "title": "Your body, your home"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "71be24ef-e9fb-4426-b176-7f84844d2414",
+        "name": "Take care of yourself",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-1",
+            "title": "Utifrån och in"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "ta-hand-om-dig-sjalv-2"
+          },
+          {
+            "title": "Ta hand om div själv-kollen",
+            "conversationId": "ta-hand-om-dig-sjalv-3"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_thumb.png"
+        },
+        "description": "Använd kroppen för att ta hand om dig själv"
+      },
+      {
+        "wip": false,
+        "id": "cafeb987-92be-4d81-8823-e125403cf4ff",
+        "name": "Tacksamhet",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_thumb.png"
+        },
+        "description": "Fundera på vad du är tacksam för",
+        "conversations": [
+          {
+            "title": "Tacksamhetsbrev ett",
+            "conversationId": "tacksamhet-1"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "tacksamhet-2"
+          },
+          {
+            "title": "Tacksamhetsbrev två",
+            "conversationId": "tacksamhet-3"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "3688a989-d07a-4d01-9dbc-1b781492fccb",
+        "name": "Om relationer",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Vilken slags kompis vill du vara?",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/relationships_thumbnail.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "relationship-basics-1",
+            "title": "Varför vi bryr oss"
+          },
+          {
+            "conversationId": "relationship-basics-2",
+            "title": "Andningspaus"
+          },
+          {
+            "title": "Vad är viktigt i kompisrelationer?",
+            "conversationId": "relationship-basics-3"
+          },
+          {
+            "title": "Träna på att bygga relationer",
+            "conversationId": "relationship-basics-4"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "6d051979-0efa-407c-b589-100f44c601dc",
+        "name": "Stress – så funkar det",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/stress_thumbnail.png"
+        },
+        "conversations": [
+          {
+            "title": "Stressreaktionen",
+            "conversationId": "what-is-stress-1"
+          },
+          {
+            "title": "Stress – vad är det?",
+            "conversationId": "what-is-stress-2"
+          },
+          {
+            "title": "Stressbeteenden",
+            "conversationId": "what-is-stress-3"
+          },
+          {
+            "conversationId": "what-is-stress-4",
+            "title": "Återhämtning"
+          }
+        ],
+        "description": "Lär dig hur stress fungerar och ta steg mot ett mindre stressigt liv"
+      }
+    ],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/influence_my_future_transparent_bg.png"
+    }
+  },
+  "sv": {
+    "segments": ["KI"],
+
+    "name": "Influence my future",
+    "about": {
+      "howThisWorks": "Den här kursen har sex lektioner där du: \n\n* Gör övningar\n* Reflekterar\n* Tar del av andras erfarenheter och delar dina egna\n\nDu förväntas göra en lektion i veckan, och varje vecka delar du dina erfarenheter i en digital gruppträff. I gruppen lyssnar ni på varandra och en vuxen person är med som facilitator för att hjälpa till att hålla ramarna. Din grupps facilitator skickar tid och länk för gruppträffen, och påminner om vilken lektion du förväntas göra varje vecka.",
+      "courseValue": "I den här kursen får lära dig mer om hur du kan bli en bättre kompis med dig själv, hantera stress och fundera på hur du vill ha det i dina relationer. Målet med kursen är att du ska öka dina möjligheter att påverka din framtid, genom att träna på att ta hand om dig själv och fundera på vad du tycker är viktigt i livet.\n\nKursen ges i samarbete med Karolinska Institutet som en del i forskningsstudien \"Influence my future\"."
+    },
+    "card": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/influence_my_future_card.png"
+    },
+    "cta": "Kursen för dig som deltar i studien Influence my future.",
+    "duration": {
+      "type": "lesson",
+      "count": 6
+    },
+
+    "id": "d4c0e678-7e60-42d3-b884-9b1d51d1586a",
+    "lessons": [
+      {
+        "name": "Kritikern & kompisen",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kritikern-och-kompisen-1",
+            "title": "Inre kritiker"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-2",
+            "title": "Fokusövning"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-3",
+            "title": "Inre kompis"
+          }
+        ],
+        "id": "de7da467-003a-46c8-98c4-0be5f60dce3f",
+        "description": "Bli din egen bästa vän i svåra situationer",
+        "wip": false
+      },
+      {
+        "wip": false,
+        "id": "349467f3-5a1d-47ae-8d00-456a17a8abd1",
+        "name": "Kroppen",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_thumb.png"
+        },
+        "description": "Utforska hur kropp och känslor hänger ihop",
+        "conversations": [
+          {
+            "title": "Din stressreaktion",
+            "conversationId": "kroppen-1"
+          },
+          {
+            "title": "Kroppens påslag",
+            "conversationId": "kroppen-2"
+          },
+          {
+            "title": "Din kropp, ditt hem",
+            "conversationId": "kroppen-3"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "71be24ef-e9fb-4426-b176-7f84844d2414",
+        "name": "Ta hand om dig själv",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-1",
+            "title": "Utifrån och in"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "ta-hand-om-dig-sjalv-2"
+          },
+          {
+            "title": "Ta hand om dig själv",
+            "conversationId": "ta-hand-om-dig-sjalv-3"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_thumb.png"
+        },
+        "description": "Använd kroppen för att ta hand om dig själv"
+      },
+      {
+        "wip": false,
+        "id": "cafeb987-92be-4d81-8823-e125403cf4ff",
+        "name": "Tacksamhet",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_thumb.png"
+        },
+        "description": "Fundera på vad du är tacksam för",
+        "conversations": [
+          {
+            "title": "Tacksamhetsbrev ett",
+            "conversationId": "tacksamhet-1"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "tacksamhet-2"
+          },
+          {
+            "title": "Tacksamhetsbrev två",
+            "conversationId": "tacksamhet-3"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "3688a989-d07a-4d01-9dbc-1b781492fccb",
+        "name": "Om relationer",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Vilken slags kompis vill du vara?",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/relationships_thumbnail.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "relationship-basics-1",
+            "title": "Varför vi bryr oss"
+          },
+          {
+            "conversationId": "relationship-basics-2",
+            "title": "Andningspaus"
+          },
+          {
+            "title": "Vad är viktigt i kompisrelationer?",
+            "conversationId": "relationship-basics-3"
+          },
+          {
+            "title": "Träna på att bygga relationer",
+            "conversationId": "relationship-basics-4"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "6d051979-0efa-407c-b589-100f44c601dc",
+        "name": "Stress – så funkar det",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/stress_thumbnail.png"
+        },
+        "conversations": [
+          {
+            "title": "Stressreaktionen",
+            "conversationId": "what-is-stress-1"
+          },
+          {
+            "title": "Stress – vad är det?",
+            "conversationId": "what-is-stress-2"
+          },
+          {
+            "title": "Stressbeteenden",
+            "conversationId": "what-is-stress-3"
+          },
+          {
+            "conversationId": "what-is-stress-4",
+            "title": "Återhämtning"
+          }
+        ],
+        "description": "Lär dig hur stress fungerar, och ta steg mot ett mindre stressigt liv"
+      }
+    ],
+    "rating": {
+      "rating": 3
+    },
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/influence_my_future_transparent_bg.png"
+    }
+  },
+  "pt": {
+    "segments": ["KI"],
+
+    "name": "Influence my future",
+    "about": {
+      "body": "fftfitfo"
+    },
+    "card": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/influence_my_future_card.png"
+    },
+    "cta": "Welcome",
+    "duration": {
+      "type": "lesson",
+      "count": 6
+    },
+
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "id": "d4c0e678-7e60-42d3-b884-9b1d51d1586a",
+    "lessons": [
+      {
+        "name": "The critic and the buddy",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kritikern-och-kompisen-1",
+            "title": "Internal critic"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-2",
+            "title": "Focus exercise"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-3",
+            "title": "Inner buddy"
+          }
+        ],
+        "id": "de7da467-003a-46c8-98c4-0be5f60dce3f",
+        "description": "Bli din egen bästa vän i svåra situationer",
+        "wip": false
+      },
+      {
+        "wip": false,
+        "id": "349467f3-5a1d-47ae-8d00-456a17a8abd1",
+        "name": "The body",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_thumb.png"
+        },
+        "description": "Utforska hur kropp och känslor hänger ihop",
+        "conversations": [
+          {
+            "conversationId": "kroppen-1",
+            "title": "Your stress reaction"
+          },
+          {
+            "conversationId": "kroppen-2",
+            "title": "The body's surcharge"
+          },
+          {
+            "conversationId": "kroppen-3",
+            "title": "Your body, your home"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "71be24ef-e9fb-4426-b176-7f84844d2414",
+        "name": "Take care of yourself",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-1",
+            "title": "Utifrån och in"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "ta-hand-om-dig-sjalv-2"
+          },
+          {
+            "title": "Ta hand om div själv-kollen",
+            "conversationId": "ta-hand-om-dig-sjalv-3"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_thumb.png"
+        },
+        "description": "Använd kroppen för att ta hand om dig själv"
+      },
+      {
+        "wip": false,
+        "id": "cafeb987-92be-4d81-8823-e125403cf4ff",
+        "name": "Tacksamhet",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_thumb.png"
+        },
+        "description": "Fundera på vad du är tacksam för",
+        "conversations": [
+          {
+            "title": "Tacksamhetsbrev ett",
+            "conversationId": "tacksamhet-1"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "tacksamhet-2"
+          },
+          {
+            "title": "Tacksamhetsbrev två",
+            "conversationId": "tacksamhet-3"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "3688a989-d07a-4d01-9dbc-1b781492fccb",
+        "name": "Om relationer",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Vilken slags kompis vill du vara?",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/relationships_thumbnail.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "relationship-basics-1",
+            "title": "Varför vi bryr oss"
+          },
+          {
+            "conversationId": "relationship-basics-2",
+            "title": "Andningspaus"
+          },
+          {
+            "title": "Vad är viktigt i kompisrelationer?",
+            "conversationId": "relationship-basics-3"
+          },
+          {
+            "title": "Träna på att bygga relationer",
+            "conversationId": "relationship-basics-4"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "6d051979-0efa-407c-b589-100f44c601dc",
+        "name": "Stress – så funkar det",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/stress_thumbnail.png"
+        },
+        "conversations": [
+          {
+            "title": "Stressreaktionen",
+            "conversationId": "what-is-stress-1"
+          },
+          {
+            "title": "Stress – vad är det?",
+            "conversationId": "what-is-stress-2"
+          },
+          {
+            "title": "Stressbeteenden",
+            "conversationId": "what-is-stress-3"
+          },
+          {
+            "conversationId": "what-is-stress-4",
+            "title": "Återhämtning"
+          }
+        ],
+        "description": "Lär dig hur stress fungerar och ta steg mot ett mindre stressigt liv"
+      }
+    ],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/d4c0e678-7e60-42d3-b884-9b1d51d1586a/influence_my_future_transparent_bg.png"
+    }
+  }
+}

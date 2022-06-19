@@ -1,0 +1,177 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "name": "Giving and receiving compassion",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/giving_and_reciving_compassion_wfhuck.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 19
+    },
+    "version": 1,
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "0e17b6c7-3886-4dbc-a19e-551175ada895",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-0e17b6c7-3886-4dbc-a19e-551175ada895",
+        "name": "Giving and receiving compassion",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "e607c1ac-f90e-403a-9b62-94ee4d62ef89",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/giving_and_reciving_compassion_wfhuck.png",
+            "title": "Giving and receiving compassion",
+            "content": "Compassion is about **treating yourself with patience, care and tenderness** when we face adversity.\n\nCompassion makes us stronger, more motivated and resilient.",
+            "buttonText": "Let's try it"
+          },
+          {
+            "type": "audio",
+            "id": "ccad93e7-dab9-421d-9795-4b5938dc3d6e",
+            "alias": "Meditation introduction",
+            "imageUri": "",
+            "title": "Meditation",
+            "description": "See if you can find a quiet and isolated place to meditate.\n\nPress play to start.\n\n*This meditation is created and guided by [Dr. Kristin Neff.](https://self-compassion.org/)*",
+            "buttonText": "I'm done",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1642166013/Meditations/GivingandReceivingCompassion_Neff_01.-cleanedbydanmp3_puaquk.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "531a4166-e350-4abe-be9c-036bd60c9e74",
+            "question": "How do you show compassion to yourself and others?",
+            "exampleText": "I think it is easier to show compassion to others rather than myself. ",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "name": "Ge och ta emot medkänsla",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/giving_and_reciving_compassion_wfhuck.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 19
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "0e17b6c7-3886-4dbc-a19e-551175ada895",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-0e17b6c7-3886-4dbc-a19e-551175ada895",
+        "name": "Ge och ta emot medkänsla",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "e607c1ac-f90e-403a-9b62-94ee4d62ef89",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/giving_and_reciving_compassion_wfhuck.png",
+            "title": "Ge och ta emot medkänsla",
+            "content": "Medkänsla handlar om att möta sig själv och andra med **tålamod**, **omtanke** **och** **ömhet** när vi möter motgångar.\n\nMedkänsla gör oss starkare, mer motiverade och motståndskraftiga.",
+            "buttonText": "Kör igång"
+          },
+          {
+            "type": "audio",
+            "id": "ccad93e7-dab9-421d-9795-4b5938dc3d6e",
+            "alias": "Meditation introduction",
+            "imageUri": "",
+            "title": "Meditation",
+            "description": "Se om du kan hitta en lugn och avskild plats att meditera på.\n\nTryck på play för att starta.\n\n*Guidad av [Camilla Sköld](https://cfms.se/), PhD. Skapad av Dr Neff och Dr Germer.*",
+            "buttonText": "Jag är klar",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1641224106/Meditations/Ge_ta_emot_medka%CC%88nsla_sv2_vqtw6q.wav"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "3c2c2afc-136b-4252-8901-4584d7e845e6",
+            "question": "Hur visar du dig själv och andra medkänsla?",
+            "exampleText": "Jag tycker det är lättare att visa medkänsla för andra än för mig själv. ",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "name": "Dar e receber compaixão",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/giving_and_reciving_compassion_wfhuck.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 19
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "0e17b6c7-3886-4dbc-a19e-551175ada895",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-0e17b6c7-3886-4dbc-a19e-551175ada895",
+        "name": "Dar e receber compaixão",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "e607c1ac-f90e-403a-9b62-94ee4d62ef89",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/giving_and_reciving_compassion_wfhuck.png",
+            "title": "Dar e receber compaixão",
+            "content": "Compaixão é **tratarmo-nos com paciência, cuidado e ternura** quando enfrentamos a adversidade.\n\nA compaixão torna-nos mais fortes, motivados e resilientes.",
+            "buttonText": "Vamos experimentar"
+          },
+          {
+            "type": "audio",
+            "id": "ccad93e7-dab9-421d-9795-4b5938dc3d6e",
+            "alias": "Meditation introduction",
+            "imageUri": "",
+            "title": "Meditação",
+            "description": "Procura um local sossegado e isolado para meditares.\n\nCarrega no *play* para iniciar.\n\n*Meditação criada por [Dr. Kristin Neff](https://self-compassion.org/) e guiada por Cristina Alves.*",
+            "buttonText": "Terminei",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1647007082/29k%20FJN/Meditations/Cristina%202022/DAR_E_RECEBER_COMPAIXAO_-_18_28_tpckpu.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "531a4166-e350-4abe-be9c-036bd60c9e74",
+            "question": "Como mostras compaixão por ti e pelos outros?",
+            "exampleText": "Penso que é mais fácil mostrar compaixão pelos outros do que por mim própria/o.. ",
+            "buttonText": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

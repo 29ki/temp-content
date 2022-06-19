@@ -1,0 +1,46 @@
+{
+  "en": {
+    "id": "c32fcbe1-44d5-44cf-823f-11a893b1d868",
+    "alias": "sleep-day-5",
+    "sections": [
+      {
+        "welcomeHeading": "welcome to the fifth day of the sleep challenge!",
+        "task": {
+          "days": 3,
+          "hours": 12,
+          "minutes": 0,
+          "id": "sleep-day-5",
+          "title": "Day 1",
+          "body": "Pretend you're asleep."
+        },
+        "sharingWall": {
+          "question": "Did you trick yourself into sleeping?",
+          "exampleText": "Of course. "
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 0,
+          "id": "followUpSleepDay5",
+          "title": "Check in",
+          "body": "What happened, mate?"
+        },
+        "lessonlastDay": false,
+        "alias": "sleep-day-5",
+        "nextConversationId": "",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "552e5f2a-4186-428c-b098-48e1dab1924a"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "c32fcbe1-44d5-44cf-823f-11a893b1d868",
+    "alias": "sleep-day-5"
+  },
+  "pt": {
+    "id": "c32fcbe1-44d5-44cf-823f-11a893b1d868",
+    "alias": "sleep-day-5"
+  }
+}

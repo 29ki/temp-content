@@ -1,0 +1,314 @@
+{
+  "en": {
+    "id": "6637aaf7-d706-4f23-82d1-1ef3549038e6",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "55410abe-2723-4c13-b351-875c22c5a486",
+        "alias": "Não alimentes o monstro",
+        "title": "Não alimentes o monstro",
+        "content": "Quando estamos ansiosos, temos tendência a fazer coisas que nos fazem sentir melhor **no momento**, mas que podem tornar as coisas piores a longo prazo. O que realmente estamos a fazer é **alimentar o monstro da ansiedade**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+            "content": "Continuar"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+        "alias": "Não alimentes o monstro II",
+        "content": "Quando dedicamos muito tempo e energia a controlar a nossa ansiedade, ela pode passar a **dominar-nos.** \n\nÉ comum ter efeitos negativos na qualidade do nosso sono, nas nossas relações e noutros aspetos importantes ao nosso bem-estar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Saber mais",
+            "sectionId": "d7766c01-4dd2-48e9-b771-cf87e88fe65f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7766c01-4dd2-48e9-b771-cf87e88fe65f",
+        "alias": "Não alimentes o monstro III",
+        "content": "Digamos que a situação atual te preocupa. Podes passar a maior parte do tempo em que estás acordada/o a ler notícias ou a ver documentários acerca do assunto.\n\nEstes comportamentos fazem-te sentir bem no momento, porque te dão uma **sensação de controlo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e702ef7e-074a-42c7-b3df-6d2f6cad899d"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "e702ef7e-074a-42c7-b3df-6d2f6cad899d",
+        "alias": "Questão para partilha",
+        "exampleText": "Passei muito tempo a tentar controlar coisas que não posso mudar. Evitei muitas situações e adiei coisas importantes que precisavam de ser feitas.",
+        "question": "Já alguma vez alimentaste o monstro da ansiedade? De que forma(s)?",
+        "nextSection": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39"
+          }
+        ],
+        "alias": "Sair do ciclo da ansiedade",
+        "title": "Sair do ciclo da ansiedade",
+        "content": "Quando o monstro da ansiedade assume o controlo da tua vida, o melhor que tens a fazer é **quebrar o seu ciclo.**\n\nUma das formas de fazê-lo é **mudar** o teu **comportamento** – por exemplo, podes limitar a leitura de notícias a meia hora por dia."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39",
+        "alias": "Quebra o padrão",
+        "title": "Quebra o padrão",
+        "content": "Se notares que os teus pensamentos estão constantemente a regressar às tuas preocupações, interpreta isto como um **sinal** de que tens de **fazer** alguma coisa **diferente**.\n\nTenta tomar mais consciência do teu corpo, dá um passeio, faz exercício ou medita.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d8762e61-c49e-47de-ae8a-4f7295b23852"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8762e61-c49e-47de-ae8a-4f7295b23852",
+        "title": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Pensa que **comportamentos alternativos** poderias adotar para ajudar a quebrar o teu ciclo de ansiedade.\n2. Lista **3 a 5** desses comportamentos.\n3. **Guarda a lista** e usa-a como **suporte** na próxima vez que precisares.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "098276e4-d770-4701-b9ff-421f443a4677"
+          }
+        ],
+        "alias": "Exercício"
+      }
+    ],
+    "root": "55410abe-2723-4c13-b351-875c22c5a486"
+  },
+  "sv": {
+    "id": "6637aaf7-d706-4f23-82d1-1ef3549038e6",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "55410abe-2723-4c13-b351-875c22c5a486",
+        "alias": "Não alimentes o monstro",
+        "title": "Não alimentes o monstro",
+        "content": "Quando estamos ansiosos, temos tendência a fazer coisas que nos fazem sentir melhor **no momento**, mas que podem tornar as coisas piores a longo prazo. O que realmente estamos a fazer é **alimentar o monstro da ansiedade**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+            "content": "Continuar"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+        "alias": "Não alimentes o monstro II",
+        "content": "Quando dedicamos muito tempo e energia a controlar a nossa ansiedade, ela pode passar a **dominar-nos.** \n\nÉ comum ter efeitos negativos na qualidade do nosso sono, nas nossas relações e noutros aspetos importantes ao nosso bem-estar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Saber mais",
+            "sectionId": "d7766c01-4dd2-48e9-b771-cf87e88fe65f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7766c01-4dd2-48e9-b771-cf87e88fe65f",
+        "alias": "Não alimentes o monstro III",
+        "content": "Digamos que a situação atual te preocupa. Podes passar a maior parte do tempo em que estás acordada/o a ler notícias ou a ver documentários acerca do assunto.\n\nEstes comportamentos fazem-te sentir bem no momento, porque te dão uma **sensação de controlo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e702ef7e-074a-42c7-b3df-6d2f6cad899d"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "e702ef7e-074a-42c7-b3df-6d2f6cad899d",
+        "alias": "Questão para partilha",
+        "exampleText": "Passei muito tempo a tentar controlar coisas que não posso mudar. Evitei muitas situações e adiei coisas importantes que precisavam de ser feitas.",
+        "question": "Já alguma vez alimentaste o monstro da ansiedade? De que forma(s)?",
+        "nextSection": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39"
+          }
+        ],
+        "alias": "Sair do ciclo da ansiedade",
+        "title": "Sair do ciclo da ansiedade",
+        "content": "Quando o monstro da ansiedade assume o controlo da tua vida, o melhor que tens a fazer é **quebrar o seu ciclo.**\n\nUma das formas de fazê-lo é **mudar** o teu **comportamento** – por exemplo, podes limitar a leitura de notícias a meia hora por dia."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39",
+        "alias": "Quebra o padrão",
+        "title": "Quebra o padrão",
+        "content": "Se notares que os teus pensamentos estão constantemente a regressar às tuas preocupações, interpreta isto como um **sinal** de que tens de **fazer** alguma coisa **diferente**.\n\nTenta tomar mais consciência do teu corpo, dá um passeio, faz exercício ou medita.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d8762e61-c49e-47de-ae8a-4f7295b23852"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8762e61-c49e-47de-ae8a-4f7295b23852",
+        "title": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Pensa que **comportamentos alternativos** poderias adotar para ajudar a quebrar o teu ciclo de ansiedade.\n2. Lista **3 a 5** desses comportamentos.\n3. **Guarda a lista** e usa-a como **suporte** na próxima vez que precisares.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "098276e4-d770-4701-b9ff-421f443a4677"
+          }
+        ],
+        "alias": "Exercício"
+      }
+    ],
+    "root": "55410abe-2723-4c13-b351-875c22c5a486"
+  },
+  "pt": {
+    "id": "6637aaf7-d706-4f23-82d1-1ef3549038e6",
+    "alias": "Pt special Coping with crisis 1: Snap out of the anxiety loop 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "55410abe-2723-4c13-b351-875c22c5a486",
+        "alias": "Não alimentes o monstro",
+        "title": "Não alimentes o monstro",
+        "content": "Quando estamos ansiosos, temos tendência a fazer coisas que nos fazem sentir melhor **no momento**, mas que podem tornar as coisas piores a longo prazo. O que realmente estamos a fazer é **alimentar o monstro da ansiedade**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+            "content": "Continuar"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629444832/michael-olsen--djS1aPrSr4-unsplash_xupx70.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cec6f205-7a0d-471a-bb2a-6be013c78cdc",
+        "alias": "Não alimentes o monstro II",
+        "content": "Quando dedicamos muito tempo e energia a controlar a nossa ansiedade, ela pode passar a **dominar-nos.** \n\nÉ comum ter efeitos negativos na qualidade do nosso sono, nas nossas relações e noutros aspetos importantes ao nosso bem-estar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Saber mais",
+            "sectionId": "d7766c01-4dd2-48e9-b771-cf87e88fe65f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7766c01-4dd2-48e9-b771-cf87e88fe65f",
+        "alias": "Não alimentes o monstro III",
+        "content": "Digamos que a situação atual te preocupa. Podes passar a maior parte do tempo em que estás acordada/o a ler notícias ou a ver documentários acerca do assunto.\n\nEstes comportamentos fazem-te sentir bem no momento, porque te dão uma **sensação de controlo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "e702ef7e-074a-42c7-b3df-6d2f6cad899d"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "e702ef7e-074a-42c7-b3df-6d2f6cad899d",
+        "alias": "Questão para partilha",
+        "exampleText": "Passei muito tempo a tentar controlar coisas que não posso mudar. Evitei muitas situações e adiei coisas importantes que precisavam de ser feitas.",
+        "question": "Já alguma vez alimentaste o monstro da ansiedade? De que forma(s)?",
+        "nextSection": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fd388882-e0d1-4e9e-9005-a4ecc136d6c2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39"
+          }
+        ],
+        "alias": "Sair do ciclo da ansiedade",
+        "title": "Sair do ciclo da ansiedade",
+        "content": "Quando o monstro da ansiedade assume o controlo da tua vida, o melhor que tens a fazer é **quebrar o seu ciclo.**\n\nUma das formas de fazê-lo é **mudar** o teu **comportamento** – por exemplo, podes limitar a leitura de notícias a meia hora por dia."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "61fbd2c4-3e65-436c-a4dc-ba01dc02dc39",
+        "alias": "Quebra o padrão",
+        "title": "Quebra o padrão",
+        "content": "Se notares que os teus pensamentos estão constantemente a regressar às tuas preocupações, interpreta isto como um **sinal** de que tens de **fazer** alguma coisa **diferente**.\n\nTenta tomar mais consciência do teu corpo, dá um passeio, faz exercício ou medita.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d8762e61-c49e-47de-ae8a-4f7295b23852"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8762e61-c49e-47de-ae8a-4f7295b23852",
+        "title": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Pensa que **comportamentos alternativos** poderias adotar para ajudar a quebrar o teu ciclo de ansiedade.\n2. Lista **3 a 5** desses comportamentos.\n3. **Guarda a lista** e usa-a como **suporte** na próxima vez que precisares.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "098276e4-d770-4701-b9ff-421f443a4677"
+          }
+        ],
+        "alias": "Exercício"
+      }
+    ],
+    "root": "55410abe-2723-4c13-b351-875c22c5a486"
+  }
+}

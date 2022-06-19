@@ -1,56 +1,44 @@
 {
   "en": {
-    "type": "lesson",
     "id": "5fae9e29-aab8-4026-a725-f42825608cb7",
-    "alias": "Leadership-reframe-1",
+    "alias": "Leadership-connect-1",
     "root": "00d433e7-c710-42dc-83b2-74f063b7058d",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "00d433e7-c710-42dc-83b2-74f063b7058d",
         "alias": "Intro",
-        "content": "We form habits in all areas of life, not least in our communication. Think of the last time you greeted a colleague. Did you ask them 'How are you?' If so, what happened next? Did you listen fully to their response or immediately moved on to something else?",
+        "content": "Especially when it comes to how we see other people and interact with them. Think about how often you see a colleague, family member, or someone you dislike in one immutable way, that’s set in stone and won’t change.\n\nEven if your original assumption was quite accurate, it quickly becomes outdated. Both you, the other person and the situation constantly evolve. So it's fair to say that the person is at least a little different now than the label you gave them.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Let's get started",
             "conversationId": "",
             "sectionId": "938f1b46-f464-4659-a29a-bf05dc97fb17"
           }
-        ]
+        ],
+        "title": "We're creatures of habit"
       },
       {
         "type": "editorialWithImage",
         "id": "938f1b46-f464-4659-a29a-bf05dc97fb17",
-        "alias": "Intro2",
-        "content": "How we relate to people and situations can become habitual. Whenever a behaviour becomes a habit, it becomes automatic. We no longer think about it in order to carry it out. In other words, by forming habits, we free up our precious cognitive resources for other tasks, like learning or problem-solving.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Next",
-            "sectionId": "f7760274-2d88-4aa3-a234-7c4237c3f7d4"
-          }
-        ]
-      },
-      {
-        "type": "editorialWithImage",
-        "id": "f7760274-2d88-4aa3-a234-7c4237c3f7d4",
-        "content": "In this session you’ll learn about **Reframing** – a technique used to look at the same situation from different points of view. \n\nReframing is an important part of your leadership toolkit for 2 reasons:\n\n* It helps you see a given situation in a new way\n* It helps your colleagues see a given situation in a new way.",
+        "alias": "In this lesson",
+        "content": "In this session you’ll learn how to **reframe** – to you look at the same situation in a different way. Being able to reframe is an important part of your leadership toolkit for 2 reasons:\n\n* It allows you to see yourself, others, and your current situation in a new way\n* It allows you to help your colleagues see themselves, others, and the situation in a new way\n\n#### Today's lesson will cover:\n\n* The benefits of habits\n* Cost of habits\n* Changing how you relate",
         "buttons": [
           {
             "component": "NextConversationButton",
-            "content": "More",
-            "sectionId": "root"
+            "variant": "primary",
+            "content": "Got it",
+            "conversationId": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af"
           }
         ],
-        "alias": "Intro3"
+        "title": ""
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "5fae9e29-aab8-4026-a725-f42825608cb7",
-    "alias": "Leadership-reframe-1",
+    "alias": "Leadership-connect-1",
     "sections": [
       {
         "type": "editorialWithImage",
@@ -65,5 +53,42 @@
       }
     ],
     "root": "393434d2-306f-4c3d-b505-3991df94ff90"
+  },
+  "pt": {
+    "id": "5fae9e29-aab8-4026-a725-f42825608cb7",
+    "alias": "Leadership-connect-1",
+    "root": "00d433e7-c710-42dc-83b2-74f063b7058d",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "00d433e7-c710-42dc-83b2-74f063b7058d",
+        "alias": "Intro",
+        "content": "Particularmente quando se trata de como vemos as outras pessoas e interagimos com elas. Pensa em quantas vezes vês um colega, membro da família ou alguém de quem não gostas de uma forma imutável, uma opinião de pedra e cal em ti e que não vai mudar.\n\nMesmo que a tua primeira suposição seja bastante precisa, rapidamente se torna desatualizada. Tanto tu, como a outra pessoa e a própria situação em si, evoluem constantemente. Portanto, é justo dizer que a pessoa é, pelo menos, um pouco diferente agora do que quando lhe 'colocas-te' o rótulo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos começar ",
+            "conversationId": "",
+            "sectionId": "938f1b46-f464-4659-a29a-bf05dc97fb17"
+          }
+        ],
+        "title": "Somos criaturas de hábitos"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "938f1b46-f464-4659-a29a-bf05dc97fb17",
+        "alias": "In this lesson",
+        "content": "Nesta sessão, vais aprender como reformular - para olhares para a mesma situação de uma maneira diferente. Ser capaz de reformular é uma parte importante do teu *kit* de ferramentas de liderança por duas razões:\n\n* Permite que te vejas a ti mesmo/a, aos outros e à sua situação atual a partir de uma nova perspetiva\n* Permite que ajudes os teus colegas a verem-se a si mesmos, aos outros e à situação numa nova perspetiva\n\n**A lição de hoje abordará:**\n\n* Os benefícios dos hábitos\n* Os custos dos hábitos\n* Mudar como te relacionas",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Percebi ",
+            "conversationId": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af"
+          }
+        ],
+        "title": ""
+      }
+    ]
   }
 }

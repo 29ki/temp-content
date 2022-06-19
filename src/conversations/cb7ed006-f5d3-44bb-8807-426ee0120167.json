@@ -1,0 +1,100 @@
+{
+  "en": {
+    "id": "cb7ed006-f5d3-44bb-8807-426ee0120167",
+    "alias": "Acting with purpose 3: The anxiety loop-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "4d97cb86-931f-4af5-b2fb-db297951ab80",
+        "alias": "Section 1",
+        "content": "In this short course you've **reconnected** to what matters to you in order to live a **meaningful life.**\n\nAs practice over time is crucial, we highly recommend that you **continue** **using** your tools over and over again. So, the next step on your path is to **reflect** on your **learnings** and how they can help you going forward.",
+        "title": "Keep practicing",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "3ccc9bf8-7ff5-47d1-b3a3-48b5ddd063c8"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629877872/jens-lelie-u0vgcIOQG08-unsplash_wpyc47.jpg"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "3ccc9bf8-7ff5-47d1-b3a3-48b5ddd063c8",
+        "question": "What tools are you committed to continue practicing?",
+        "exampleText": "All of them: reconnecting to my values, creating a compass, meditation, snapping out of the anxiety loop by changing my actions or helping someone else out.",
+        "alias": "Section 2",
+        "nextSection": "dc339095-e460-4201-900a-c2f70f6bc909"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "dc339095-e460-4201-900a-c2f70f6bc909",
+        "alias": "Section 3",
+        "longDescription": "Write down your answers.\n\n1. What **tools** help you **connect** to and **act** according with your **values**?\n2. What, if anything, has **changed** for you since you've started this course?",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "0022d76e-2e61-4aca-8c05-db549232f43f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0022d76e-2e61-4aca-8c05-db549232f43f",
+        "content": "3. Why is it important to you to keep **developing** your toolkit for **acting** on your values?\n4. What are the most **important** **learnings** you want to carry with you?",
+        "alias": "Exercise pt 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "37e54316-d7b0-43eb-9a7c-8558026f7947"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "37e54316-d7b0-43eb-9a7c-8558026f7947",
+        "alias": "Section 4",
+        "content": "Well done on completing the course **Acting with purpose**.\n\nTo continue your practice, we recommend **incorporating** the **tools** you've found helpful into your life. You may also like to check out our **other** **courses**, for examples on Dealing with stress and Self-compassion.\n\nFor the **research** behind this course, you’ll find references on our [website](https://29k.org/).\n\nLove,\n\nThe 29k-team",
+        "title": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next steps",
+            "sectionId": "fa652b88-07b1-41bf-a424-4356c39e9db0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fa652b88-07b1-41bf-a424-4356c39e9db0",
+        "alias": "Section 5",
+        "title": "Sharing",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember the questions:\n\n1. What **alternative** **behaviors** helps you break your anxiety loop?\n2. What **tools** help you **connect** to and **act** according with your **values**?\n3. What, if anything, has **changed** for you since you've started this course?\n4. Why is it important to you to keep **developing** your toolkit for **acting** on your values?\n5. What are the most **important** **learnings** you want to carry with you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ],
+    "root": "4d97cb86-931f-4af5-b2fb-db297951ab80"
+  },
+  "sv": {
+    "id": "cb7ed006-f5d3-44bb-8807-426ee0120167",
+    "alias": "Acting with purpose 3: The anxiety loop-4"
+  },
+  "pt": {
+    "id": "cb7ed006-f5d3-44bb-8807-426ee0120167",
+    "alias": "Acting with purpose 3: The anxiety loop-4"
+  }
+}

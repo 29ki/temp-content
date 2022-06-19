@@ -1,0 +1,149 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+    "name": "Allowing difficult feelings",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/allowing_difficult_feelings_czbbu4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "version": 1,
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "c251a229-b80b-4153-adb9-b1160bfa84ab",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c251a229-b80b-4153-adb9-b1160bfa84ab",
+        "name": "Allowing difficult feelings",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "256c4072-bd63-41db-87a6-a70e1de9d93e",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/allowing_difficult_feelings_czbbu4.png",
+            "title": "Allowing difficult feelings",
+            "description": "When we experience difficult feelings, it's common to try to **avoid** or **escape** them. In this meditation, you'll practice **allowing** your **experiences** instead.\n\nPress play to start.\n\n*Created by [Dr. Kristin Neff](https://self-compassion.org/) and Dr. Chris Germer.*",
+            "buttonText": "I'm done",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1642168160/Meditations/softensootheallow_cleaned_01-cleanedbydan_1_xbobbl.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "7091d9a5-b22a-4c31-a2d3-ca72d35b7801",
+            "question": "What was it like to allow your feelings?",
+            "exampleText": "It was difficult in the beginning because I'm not used to just being with difficult feelings. ",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "name": "Tillåt svåra känslor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/allowing_difficult_feelings_czbbu4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "c251a229-b80b-4153-adb9-b1160bfa84ab",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c251a229-b80b-4153-adb9-b1160bfa84ab",
+        "name": "Tillåt svåra känslor",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "256c4072-bd63-41db-87a6-a70e1de9d93e",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/allowing_difficult_feelings_czbbu4.png",
+            "title": "Tillåt svåra känslor",
+            "description": "När vi upplever svåra känslor är det vanligt att vi försöker undvika eller fly från våra upplevelser. I den här meditationen får du istället öva på att **tillåta** **det som pågår på** **insidan**.\n\nTryck på play för att starta.\n\n*Guidad av [Camilla Sköld](https://cfms.se/), PhD. Skapad av Dr Neff och Dr Germer.*",
+            "buttonText": "Jag är klar",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1641211183/Meditations/Vara_med_sva%CC%8Ara_ka%CC%88nslor2_anofvz.wav"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "7dc6e601-cb24-4ece-80d3-f966c280a2f5",
+            "question": "Hur gick det att försöka tillåta dina känslor?",
+            "exampleText": "Det var svårt i början, jag inte är van vid att bara vara med mina känslor. ",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/allowing_difficult_feelings_czbbu4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "type": "meditation",
+    "id": "c251a229-b80b-4153-adb9-b1160bfa84ab",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-c251a229-b80b-4153-adb9-b1160bfa84ab",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "256c4072-bd63-41db-87a6-a70e1de9d93e",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/allowing_difficult_feelings_czbbu4.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "862f25f7-fc20-4400-81d5-20e88ae8bd8c",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ab08d15f-0d16-40b2-a2a0-519ab6cb1461",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

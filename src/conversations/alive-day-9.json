@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-9",
     "alias": "alive-day-9",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-9",
-        "alias": "alive-day-9",
-        "nextConversationId": "alive-day-10",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 9",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay9rev1",
           "days": 0,
           "hours": 8,
           "minutes": 11,
-          "title": "Alive Day 9 Mission",
+          "title": "Alive Day 9 Quest",
           "body": "Recall a great time you had with someone. How were you being yourself? Please write down 3 ways you can be that type of person, now."
         },
+        "sharingWall": {
+          "question": "How were you being yourself?",
+          "exampleText": "I was relaxed, spontaneous and felt a lot of joy."
+        },
         "followUp": {
+          "id": "followUpDay9",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 9 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-9",
+        "nextConversationId": "alive-day-10",
+        "type": "microInterventionDay",
+        "id": "alive-day-9"
       }
     ]
   },
   "sv": {
     "id": "alive-day-9",
     "alias": "alive-day-9",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-9",
-        "alias": "alive-day-9",
-        "nextConversationId": "alive-day-10",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 9",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 9",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 9",
-          "body": "Recall a great time you had with someone. How were you being yourself? Please write down 3 ways you can be that type of person, now."
+          "title": "Uppdrag dag 9",
+          "body": "Tänk på en härlig stund du delat tillsammans med någon. På vilka sätt var du dig själv? Skriv ner tre sätt du kan vara den typen av person på.",
+          "id": "aliveDay9rev1swe"
+        },
+        "sharingWall": {
+          "question": "På vilka sätt var du dig själv?",
+          "exampleText": "Jag var avslappnad, spontan och glad."
         },
         "followUp": {
+          "id": "followUpDay9",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 9 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 9 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-9",
+        "nextConversationId": "alive-day-10",
+        "type": "microInterventionDay",
+        "id": "alive-day-9"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-9",
+    "alias": "alive-day-9",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 9",
+        "task": {
+          "id": "aliveDay9rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 11,
+          "title": "Desafio ALIVE dia 9",
+          "body": "Recorda-te de um momento fantástico que tiveste com alguém. Como foste nesse momento? Escreve por favor 3 formas de poderes ser esse tipo de pessoa agora."
+        },
+        "sharingWall": {
+          "question": "Como estavas a ser? Estavas a ser tu própria/o?",
+          "exampleText": "Estava relaxada/o, a sentir uma alegria imensa e a ser espontânea/o."
+        },
+        "followUp": {
+          "id": "followUpDay9",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 9 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-9",
+        "nextConversationId": "alive-day-10",
+        "type": "microInterventionDay",
+        "id": "alive-day-9"
       }
     ]
   }

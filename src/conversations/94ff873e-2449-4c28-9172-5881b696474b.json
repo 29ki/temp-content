@@ -1,0 +1,299 @@
+{
+  "en": {
+    "id": "94ff873e-2449-4c28-9172-5881b696474b",
+    "alias": "UKR: Coping with crisis 1: Snap out of anxiety loop 3",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2be300fb-eadf-4040-b3b5-72a00ba86dc8",
+        "alias": "Intro exercise",
+        "longDescription": "Ще один спосіб розірвати тривожну петлю – **зробити щось** для **інших.** Ми знаємо, що це може бути **важко,** коли ми перебуваємо у складній ситуації.\n\nАле **співчуття** та **сприйняття ситуації з точки зору інших людей** можуть допомогти нам вийти зі своєї голови та подивитися на речі через іншу призму.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Давайте спробуємо",
+            "sectionId": "230e5d9d-fefc-4ffb-8216-c23e79e7ffa8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "230e5d9d-fefc-4ffb-8216-c23e79e7ffa8",
+        "alias": "Exercise",
+        "title": "Вправа",
+        "content": "Запишіть свої відповіді.\n\n1. Подумайте про **потреби іншої людини**. Це може бути хтось із близьких вам людей або зовсім незнайома людина. \n2. Думаючи з їхнього **погляду**, чи можете ви зробити для цієї людини щось, що **допоможе** їй або за що вона буде вам **вдячна?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "e01d4654-0245-4579-a124-8922be89418c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e01d4654-0245-4579-a124-8922be89418c",
+        "alias": "Exercise",
+        "content": "3. **Виберіть** одну просту дію, яку ви можете зробити просто зараз. Заплануйте, коли і де ви це робитимете.",
+        "infoItems": [
+          {
+            "title": "Наприклад: ",
+            "description": "Сходіть за покупками для сусіда, висловіть подяку батькові, відправте повідомлення другу, поступіться своїм місцем літній людині."
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Завершено",
+            "sectionId": "62998ffb-8074-4d79-b75a-f3823a2fab3b"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "62998ffb-8074-4d79-b75a-f3823a2fab3b",
+        "alias": "Exercise",
+        "longDescription": "1. Що **трапилося** з вашою **тривогою**, коли ви думали про потреби цієї людини?\n2. Що ви **відчували** після того, як запланували зробити щось для когось?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "9c6c2572-868f-4efe-a89b-c8d7afa37fad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9c6c2572-868f-4efe-a89b-c8d7afa37fad",
+        "alias": "Summary",
+        "title": " Підсумки",
+        "content": "Ви успішно пройшли урок **Вирватися з тривожної петлі.**\n\nІноді ми робимо якісь дії, тому що в цей момент вони приємні. Вони дають нам відчуття **контролю.** Але насправді ми годуємо тривожного монстра.\n\nНайкраще, що ви можете зробити, це розірвати тривожну петлю. Один зі способів зробити це – **змінити** свою **поведінку**. Інший спосіб – робити щось **для інших.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Наступний крок",
+            "sectionId": "2cb6f73e-ad7e-44bc-8ef4-637cc3df67ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2cb6f73e-ad7e-44bc-8ef4-637cc3df67ca",
+        "alias": "Sharing",
+        "content": "Тепер ви готові до наступного кроку — поділитися зі своєю групою.\n\nЗапам'ятайте питання:\n\n1. Які **потреби** ви виявили?\n2. Які дії допомагають вам **задовольнити** ваші **потреби?**\n3. Які **альтернативні моделі поведінки** допомагають вам розірвати тривожну петлю?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Я закінчив"
+          }
+        ]
+      }
+    ],
+    "root": "2be300fb-eadf-4040-b3b5-72a00ba86dc8"
+  },
+  "sv": {
+    "id": "94ff873e-2449-4c28-9172-5881b696474b",
+    "alias": "UKR: Coping with crisis 1: Snap out of anxiety loop 3",
+    "root": "2be300fb-eadf-4040-b3b5-72a00ba86dc8",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2be300fb-eadf-4040-b3b5-72a00ba86dc8",
+        "alias": "Intro exercise",
+        "longDescription": "Ще один спосіб розірвати тривожну петлю – **зробити щось** для **інших.** Ми знаємо, що це може бути **важко,** коли ми перебуваємо у складній ситуації.\n\nАле **співчуття** та **сприйняття ситуації з точки зору інших людей** можуть допомогти нам вийти зі своєї голови та подивитися на речі через іншу призму.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Давайте спробуємо",
+            "sectionId": "230e5d9d-fefc-4ffb-8216-c23e79e7ffa8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "230e5d9d-fefc-4ffb-8216-c23e79e7ffa8",
+        "alias": "Exercise",
+        "title": "Вправа",
+        "content": "Запишіть свої відповіді.\n\n1. Подумайте про **потреби іншої людини**. Це може бути хтось із близьких вам людей або зовсім незнайома людина. \n2. Думаючи з їхнього **погляду**, чи можете ви зробити для цієї людини щось, що **допоможе** їй або за що вона буде вам **вдячна?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "e01d4654-0245-4579-a124-8922be89418c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e01d4654-0245-4579-a124-8922be89418c",
+        "alias": "Exercise",
+        "content": "3. **Виберіть** одну просту дію, яку ви можете зробити просто зараз. Заплануйте, коли і де ви це робитимете.",
+        "infoItems": [
+          {
+            "title": "Наприклад: ",
+            "description": "Сходіть за покупками для сусіда, висловіть подяку батькові, відправте повідомлення другу, поступіться своїм місцем літній людині."
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Завершено",
+            "sectionId": "62998ffb-8074-4d79-b75a-f3823a2fab3b"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "62998ffb-8074-4d79-b75a-f3823a2fab3b",
+        "alias": "Exercise",
+        "longDescription": "1. Що **трапилося** з вашою **тривогою**, коли ви думали про потреби цієї людини?\n2. Що ви **відчували** після того, як запланували зробити щось для когось?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "9c6c2572-868f-4efe-a89b-c8d7afa37fad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9c6c2572-868f-4efe-a89b-c8d7afa37fad",
+        "alias": "Summary",
+        "title": " Підсумки",
+        "content": "Ви успішно пройшли урок **Вирватися з тривожної петлі.**\n\nІноді ми робимо якісь дії, тому що в цей момент вони приємні. Вони дають нам відчуття **контролю.** Але насправді ми годуємо тривожного монстра.\n\nНайкраще, що ви можете зробити, це розірвати тривожну петлю. Один зі способів зробити це – **змінити** свою **поведінку**. Інший спосіб – робити щось **для інших.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Наступний крок",
+            "sectionId": "2cb6f73e-ad7e-44bc-8ef4-637cc3df67ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2cb6f73e-ad7e-44bc-8ef4-637cc3df67ca",
+        "alias": "Sharing",
+        "content": "Тепер ви готові до наступного кроку — поділитися зі своєю групою.\n\nЗапам'ятайте питання:\n\n1. Які **потреби** ви виявили?\n2. Які дії допомагають вам **задовольнити** ваші **потреби?**\n3. Які **альтернативні моделі поведінки** допомагають вам розірвати тривожну петлю?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Я закінчив"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "94ff873e-2449-4c28-9172-5881b696474b",
+    "alias": "UKR: Coping with crisis 1: Snap out of anxiety loop 3",
+    "root": "2be300fb-eadf-4040-b3b5-72a00ba86dc8",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "2be300fb-eadf-4040-b3b5-72a00ba86dc8",
+        "alias": "Intro exercise",
+        "longDescription": "Ще один спосіб розірвати тривожну петлю – **зробити щось** для **інших.** Ми знаємо, що це може бути **важко,** коли ми перебуваємо у складній ситуації.\n\nАле **співчуття** та **сприйняття ситуації з точки зору інших людей** можуть допомогти нам вийти зі своєї голови та подивитися на речі через іншу призму.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Давайте спробуємо",
+            "sectionId": "230e5d9d-fefc-4ffb-8216-c23e79e7ffa8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "230e5d9d-fefc-4ffb-8216-c23e79e7ffa8",
+        "alias": "Exercise",
+        "title": "Вправа",
+        "content": "Запишіть свої відповіді.\n\n1. Подумайте про **потреби іншої людини**. Це може бути хтось із близьких вам людей або зовсім незнайома людина. \n2. Думаючи з їхнього **погляду**, чи можете ви зробити для цієї людини щось, що **допоможе** їй або за що вона буде вам **вдячна?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "e01d4654-0245-4579-a124-8922be89418c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e01d4654-0245-4579-a124-8922be89418c",
+        "alias": "Exercise",
+        "content": "3. **Виберіть** одну просту дію, яку ви можете зробити просто зараз. Заплануйте, коли і де ви це робитимете.",
+        "infoItems": [
+          {
+            "title": "Наприклад: ",
+            "description": "Сходіть за покупками для сусіда, висловіть подяку батькові, відправте повідомлення другу, поступіться своїм місцем літній людині."
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Завершено",
+            "sectionId": "62998ffb-8074-4d79-b75a-f3823a2fab3b"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "62998ffb-8074-4d79-b75a-f3823a2fab3b",
+        "alias": "Exercise",
+        "longDescription": "1. Що **трапилося** з вашою **тривогою**, коли ви думали про потреби цієї людини?\n2. Що ви **відчували** після того, як запланували зробити щось для когось?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "9c6c2572-868f-4efe-a89b-c8d7afa37fad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9c6c2572-868f-4efe-a89b-c8d7afa37fad",
+        "alias": "Summary",
+        "title": " Підсумки",
+        "content": "Ви успішно пройшли урок **Вирватися з тривожної петлі.**\n\nІноді ми робимо якісь дії, тому що в цей момент вони приємні. Вони дають нам відчуття **контролю.** Але насправді ми годуємо тривожного монстра.\n\nНайкраще, що ви можете зробити, це розірвати тривожну петлю. Один зі способів зробити це – **змінити** свою **поведінку**. Інший спосіб – робити щось **для інших.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Наступний крок",
+            "sectionId": "2cb6f73e-ad7e-44bc-8ef4-637cc3df67ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2cb6f73e-ad7e-44bc-8ef4-637cc3df67ca",
+        "alias": "Sharing",
+        "content": "Тепер ви готові до наступного кроку — поділитися зі своєю групою.\n\nЗапам'ятайте питання:\n\n1. Які **потреби** ви виявили?\n2. Які дії допомагають вам **задовольнити** ваші **потреби?**\n3. Які **альтернативні моделі поведінки** допомагають вам розірвати тривожну петлю?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Я закінчив"
+          }
+        ]
+      }
+    ]
+  }
+}

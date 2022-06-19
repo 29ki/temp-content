@@ -1,0 +1,158 @@
+{
+  "en": {
+    "id": "a3f17325-278c-48ff-bd11-d9f5c0770bbd",
+    "alias": "Leadership-Interactforapurpose-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "22f30573-47da-4e15-a6ea-47ca8b6d75eb",
+        "alias": "Social Astuteness",
+        "title": "Social Astuteness",
+        "content": "> Seek and you shall find new ways of understanding yourself, others and the situation\n\nThe second SIP skill, **Social Astuteness**, is knowing how to read, interpret, and understand people's interpersonal behavior. \n\nThis skill will enable you to gather valuable information about yourself, others and the situation which can better equip you to purposefully lead.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "ac5a9b98-d9ca-4165-a266-e666402f6bb6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ac5a9b98-d9ca-4165-a266-e666402f6bb6",
+        "content": "#### Social Astuteness will help you:\n\n1. Get a better sense of how your colleagues see a given situation\n2. See what you may be missing\n3. Learn how you could better pursue purpose and handle your current situation by drawing on one of the richest sources - other people\n\nWhile being able to read other people might seem like magic to some and easy for others, there's one way we can all do it better.",
+        "alias": "Social Astuteness 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Are there any pitfalls?",
+            "sectionId": "47970c83-effd-4e44-965a-eafd03789aa7"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "47970c83-effd-4e44-965a-eafd03789aa7",
+        "alias": "Social Astuteness 3",
+        "content": "People who think they're great at this skill often tend to try to *mind read* or assume other people's perspectives.\n\nBut who knows their own perspective better than **the person themselves**?! After all, by imagining the other person's perspective, we've no way of knowing how right or wrong we are.\n\nWhether being able to read others is second nature to you or a mysterious magic, there's one way we can all do it better.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "What's that?",
+            "sectionId": "970e2710-a541-4f6a-b1ad-8019333729cb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "970e2710-a541-4f6a-b1ad-8019333729cb",
+        "alias": "Social Astuteness 4",
+        "title": "",
+        "content": "The alternative to reading people's mind is, quite simply, **asking them about their perspective**.\n\n*Asking* others how they see, think and feel about a situation instead of *assuming* that you already know.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "How can I use this style in the real world? ",
+            "sectionId": "ff142778-1d0d-4b60-a3b7-40c9b769518d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ff142778-1d0d-4b60-a3b7-40c9b769518d",
+        "alias": "Social Astuteness 4",
+        "title": "",
+        "content": "To develop this skill, ask people how they see things. For example:\n\n* What they think and feel about a situation\n* What they think you might be missing or that you might not be aware of\n* If they know anything that might help or could be useful\n* What they think might be important to keep in mind while pursuing this goal",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c"
+          }
+        ]
+      }
+    ],
+    "root": "22f30573-47da-4e15-a6ea-47ca8b6d75eb"
+  },
+  "sv": {
+    "id": "a3f17325-278c-48ff-bd11-d9f5c0770bbd",
+    "alias": "Leadership-Interactforapurpose-3"
+  },
+  "pt": {
+    "id": "a3f17325-278c-48ff-bd11-d9f5c0770bbd",
+    "alias": "Leadership-Interactforapurpose-3",
+    "root": "22f30573-47da-4e15-a6ea-47ca8b6d75eb",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "22f30573-47da-4e15-a6ea-47ca8b6d75eb",
+        "alias": "Astúcia Social",
+        "title": "Astúcia Social",
+        "content": "> Se procurares, vais encontrar novas formas de te entenderes a ti mesmo/a, aos outros e à situação.\n\nA segunda competência SIP, **Astúcia Social**, é saber ler, interpretar e compreender o comportamento interpessoal das pessoas.\n\nEsta competência permite-te reunir informações valiosas sobre ti, sobre os outros e sobre a situação, que vão permitir-te liderar de forma mais relevante e eficaz.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem mais ",
+            "sectionId": "ac5a9b98-d9ca-4165-a266-e666402f6bb6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ac5a9b98-d9ca-4165-a266-e666402f6bb6",
+        "content": "#### Astúcia Social vai ajudar-te a:\n\n1. Ter uma noção melhor de como os teus colegas vêem uma determinada situação\n2. Ver o que podes estar a perder\n3. Saber como poderias alcançar de forma mais eficaz o teu propósito e lidar com a tua situação atual recorrendo a uma das fontes mais ricas, isto é, a outras pessoas.\n\nEmbora ser capaz de ler outras pessoas possa parecer magia para alguns é mais fácil que para outros. Porém, há uma maneira em que todos o podemos fazer melhor.",
+        "alias": "Social Astuteness 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Há armadilhas?",
+            "sectionId": "47970c83-effd-4e44-965a-eafd03789aa7"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "47970c83-effd-4e44-965a-eafd03789aa7",
+        "alias": "Social Astuteness 3",
+        "content": "As pessoas que são ótimas nesta competência geralmente tendem a tentar ler a mente ou assumir as perspectivas dos outros.\n\nMas quem sabe melhor a perspectiva de alguém do que a própria pessoa?! Além disso, ao imaginarmos a perspectiva da outra pessoa, não temos como saber se estamos certos ou errados.\n\nQuer ser capaz de ler os outros seja inato em ti ou algo mágico e misterioso, há uma maneira melhor de o fazermos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Qual é?",
+            "sectionId": "970e2710-a541-4f6a-b1ad-8019333729cb"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "970e2710-a541-4f6a-b1ad-8019333729cb",
+        "alias": "Social Astuteness 4",
+        "title": "",
+        "content": "A alternativa a ler a mente das pessoas é, simplesmente, **perguntar-lhes a sua perspectiva**. \n\nPerguntar aos outros o que pensam, como veem determinada situação, o que sentem a respeito dela, em vez de presumir que já sabes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Como posso usar esse estilo no mundo real? ",
+            "sectionId": "ff142778-1d0d-4b60-a3b7-40c9b769518d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ff142778-1d0d-4b60-a3b7-40c9b769518d",
+        "alias": "Social Astuteness 4",
+        "title": "",
+        "content": "Para desenvolver esta competência, pergunta às pessoas como veem as coisas. Por exemplo:\n\n* O que pensam e sentem sobre uma situação\n* O que acham que podes estar a perder ou algo sobre o qual podes não estar ciente \n* Se sabem de algo que possa ajudar ou ser útil\n* O que acham que pode ser importante ter em mente ao perseguir esse determinado objetivo",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c"
+          }
+        ]
+      }
+    ]
+  }
+}

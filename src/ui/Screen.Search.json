@@ -1,0 +1,41 @@
+{
+  "en": {
+    "contentTypes": "Types",
+    "15-30 minutes": "15-30 minutes",
+    "searchPlaceholder": "What do you need?",
+    "screenTitle": "Search",
+    "30+ minutes": "30+ minutes",
+    "showContent__button": "Show content ({{numberOfResults}})",
+    "duration": "Duration",
+    "noResults": "No results",
+    "1-5 minutes": "1-5 minutes",
+    "tags": "Tags",
+    "5-15 minutes": "5-15 minutes"
+  },
+  "sv": {
+    "contentTypes": "Typer",
+    "15-30 minutes": "15-30 minuter",
+    "searchPlaceholder": "Vad kan vi hjälpa till med?",
+    "screenTitle": "Sök",
+    "30+ minutes": "30+ minuter",
+    "showContent__button": "Visa innehåll ({{numberOfResults}})",
+    "duration": "Längd",
+    "noResults": "Tyvärr hittade vi inget",
+    "1-5 minutes": "1-5 minuter",
+    "tags": "Taggar",
+    "5-15 minutes": "5-15 minuter"
+  },
+  "pt": {
+    "contentTypes": "Tipos",
+    "15-30 minutes": "15-30 minutos",
+    "searchPlaceholder": "Do que precisas?",
+    "screenTitle": "Procura",
+    "30+ minutes": "30+ minutos",
+    "showContent__button": "Mostrar conteúdo ({{numberOfResults}})",
+    "duration": "Duração",
+    "noResults": "Sem resultados",
+    "1-5 minutes": "1-5 minutos",
+    "tags": "Tags",
+    "5-15 minutes": "5-15 minutos"
+  }
+}

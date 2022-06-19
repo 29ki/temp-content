@@ -1,20 +1,19 @@
 {
   "en": {
-    "type": "lesson",
     "id": "bde7c256-0426-4496-aa72-4a934281ad31",
-    "alias": "Förändra det som inte fungerar",
+    "alias": "Stress YA: Change what's not working1",
     "root": "7d2b498a-4329-4325-8c77-84d8724cd640",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "7d2b498a-4329-4325-8c77-84d8724cd640",
-        "alias": "Påverka eller acceptera?",
-        "title": "Påverka eller acceptera?",
-        "content": "I livet finns det vissa saker vi *kan* påverka. Och andra vi *inte* kan påverka, eller som vi har mindre kontroll över. \n\nI den här lektionen kommer du få fundera på vad som orsakar stress i ditt liv och prova vad du kan göra för att må bättre.",
+        "alias": "Change or accept?",
+        "title": "Change or accept?",
+        "content": "There are certain things in life that we **can** **influence**. And then there are other things that we **can’t** **change**, or have little control over.\n\nIn this lesson, you’ll understand more about what's **causing you stress** and learn what to do to feel better.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Let's dive in",
             "sectionId": "8c1ee731-791e-4009-89c7-75c9a5266b71"
           }
         ],
@@ -29,7 +28,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**I den här lektionen får du lära dig mer om:** \n\n* Skilja på vad som går att påverka och inte\n* Förändra det som inte fungerar\n* Problemlösa"
+                "content": "### You'll learn more about:\n\n* Distinguishing between what can and can't be changed\n* Changing what's not working\n* Problem-solving"
               }
             ]
           },
@@ -44,18 +43,18 @@
             ]
           }
         ],
-        "alias": "Du kommer lära dig"
+        "alias": "You will learn"
       },
       {
         "type": "editorialWithImage",
         "id": "f6bfd89d-d3a7-4ee5-a3d1-233b9a2fda92",
-        "alias": "Stress och kontroll",
-        "title": "Stress och kontroll",
-        "content": "Stress är inte nödvändigtvis någonting jobbigt eller svårt. Om vi känner att vi har kontroll över situationen, så kan kravfyllda uppgifter faktiskt kännas ganska **roliga**. \n\nMen en känsla av **brist på kontroll —** att vi inte kan påverka vår situation — leder ofta till ökad stress. Om kraven känns höga och känslan av kontroll låg, är det stor risk att vi känner oss stressade.",
+        "alias": "Stress and control",
+        "title": "Stress and control",
+        "content": "Stress isn't necessarily something bad or difficult. When we feel like we have **control** over a situation, a **demanding** task can actually be quite **fun**.\n\nBut when we **lack control over** a situation — for example by thinking that we can't influence or change it — our stress levels go up. When **demands** are **high** and the **feeling** of control is **low**, the risk of feeling **stressed** is great.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Next",
             "sectionId": "cb2a6f61-048b-403f-99a5-9eed03e1ca39"
           }
         ]
@@ -63,13 +62,13 @@
       {
         "type": "editorialWithImage",
         "id": "cb2a6f61-048b-403f-99a5-9eed03e1ca39",
-        "alias": "Livets utmaningar",
-        "title": "Livets utmaningar",
-        "content": "Ibland har vi förväntningar på att livet ska flyta på smidigt och smärtfritt, att det normala är att alltid må bra. Men så ser inte verkligheten ut för de flesta av oss.\n\nLivet går upp, och livet går ner.",
+        "alias": "Challenges in life",
+        "title": "Challenges in life",
+        "content": "Sometimes we expect our life to flow smoothly and painlessly. We want to **always feel good.** \n\n But that's not what reality looks like for most of us. **Life** goes **up** and it goes **down**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Continue",
             "sectionId": "a1276985-b36d-4ccb-b7af-92cce4096d5a"
           }
         ]
@@ -77,12 +76,12 @@
       {
         "type": "editorialWithImage",
         "id": "a1276985-b36d-4ccb-b7af-92cce4096d5a",
-        "content": "Hur mycket vi än planerar kan vi inte undvika svåra händelser. \n\nNågon gång kommer ett krossat hjärta, sorg, höga krav i skolan, konflikter eller andra utmaningar drabba oss alla. Och i perioder kan livet kännas *orättvist*. Som att vi inte orkar med, eller förstår hur vi ska klara av en situation.",
+        "content": "No matter how much we plan and prepare, we **can't avoid difficult things from happening.**\n\nAt some point, a broken heart, grief, high demands at school, conflicts or other challenges will affect us all. \n\nAt times, **life can feel** **unfair**. We may worry about the present or future and struggle to deal with certain situations.",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "More",
             "sectionId": "1a7e800c-88b2-476c-8344-7801097da249"
           }
         ]
@@ -90,12 +89,12 @@
       {
         "type": "editorialWithImage",
         "id": "1a7e800c-88b2-476c-8344-7801097da249",
-        "content": "När kraven blir för många eller när livet känns orättvist, kan det vara svårt att skilja på situationer där vi:\n\n*  Faktiskt har en möjlighet att lösa problemet (som att hitta tid för att plugga inför ett prov).\n\noch \n\n* Situationer där vi inte kan lösa problemet (som att någon nära oss har gått bort).",
+        "content": "Times like these, it can be difficult to **distinguish** between situations where we:\n\n* **Can** **solve** the problem (i.e. finding time to study before an exam).\n\nand\n\n* Situations where we **can't** **solve** the problem (i.e. someone close to us passing away).",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Mer",
+            "content": "Got it",
             "sectionId": "07dee602-85d3-42eb-986e-176a95935c49"
           }
         ]
@@ -103,13 +102,13 @@
       {
         "type": "editorialWithImage",
         "id": "07dee602-85d3-42eb-986e-176a95935c49",
-        "alias": "Övning",
-        "title": "Övning",
-        "content": "I den här övningen ska du få definiera vad kan du kontrollera och vad du inte kan kontrollera. Skriv ned dina svar där bara du kan se dem.\n\n1. Gör en lista med **alla** de saker du kan komma på som bidrar till att du känner dig **pressad** just nu.",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "content": "In this exercise, you'll define what you **can** and **can't** **control**.\n\nWrite down all your answers.\n\n1. Begin by making a list of **all** the things that are **stressing you out** right now.\n\n   ",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "I'm done",
             "sectionId": "3ccc142d-9579-4123-be92-91a5dba16a71"
           }
         ]
@@ -117,12 +116,12 @@
       {
         "type": "editorialWithImage",
         "id": "3ccc142d-9579-4123-be92-91a5dba16a71",
-        "content": "2. Dela upp din lista i två. Börja med att **ringa in** de saker **du** har möjlighet att **kontrollera**.\n\n*Exempel på saker vi kan kontrollera:* g*öra läxorna i tid, sätta gränser, träffa vänner oftare, träna regelbundet, säga nej.*",
+        "content": "2. From your list, **circle** what’s within your **control.**\n\n*Examples: do homework on time, set boundaries, meet friends more often, exercise regularly, say no.*",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Jag är klar",
+            "content": "I'm done",
             "sectionId": "510931bb-7e2f-422a-b663-e42e3a2dbbf5"
           }
         ]
@@ -130,12 +129,12 @@
       {
         "type": "editorialWithImage",
         "id": "510931bb-7e2f-422a-b663-e42e3a2dbbf5",
-        "content": "\n\n3. Markera eller sortera ut de saker där du just här och nu har **begränsad** eller ingen **kontroll** över. \n\n*Exempel på saker vi inte kan kontrollera:* *hur andra personer reagerar, att klimatkrisen får en lösning idag, att det är prov i skolan, att någon blir sjuk, saker som redan har hänt.*",
+        "content": "3. Now, put a cross against or mark the things that you have **limited** to **no control** over at this moment.\n\n*Examples: how other people react, solving the climate crisis today, exams in school, someone being sick, things that have already happened.*",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Klar",
+            "content": "I'm done",
             "sectionId": "459ff7b3-3474-4644-88d1-b6766299cef4"
           }
         ]
@@ -143,23 +142,23 @@
       {
         "type": "editorialWithImage",
         "id": "459ff7b3-3474-4644-88d1-b6766299cef4",
-        "content": "Bra gjort! I stressiga situationer är det lätt att blanda ihop vad som är möjligt att göra något åt här och nu, och vad som inte är det. \n\nFör saker vi inte kan påverka kan det ibland vara bra att träna **acceptans**. Att låta saker vara precis som de är. Att istället välja att lägga kraft och energi på sådant vi **faktiskt kan påverka**.\n\nI nästa steg kommer vi fokusera på problemlösning.",
+        "content": "In stressful situations, it's easy to mix up things we *can* change with those we can't.\n\nWe can cope better with things we can't control by practicing **acceptance**. Letting things be, as they are, even if we don't like them. This enables us to spend our precious **energy** on what we **can** **control**.\n\nNext we will focus on **problem-solving.**",
         "alias": "x",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "root",
-            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111"
+            "component": "NextConversationButton",
+            "content": "Let's go",
+            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+            "variant": "primary"
           }
-        ]
+        ],
+        "title": ""
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "bde7c256-0426-4496-aa72-4a934281ad31",
-    "alias": "Förändra det som inte fungerar",
+    "alias": "Stress YA: Change what's not working1",
     "root": "7d2b498a-4329-4325-8c77-84d8724cd640",
     "sections": [
       {
@@ -167,11 +166,11 @@
         "id": "7d2b498a-4329-4325-8c77-84d8724cd640",
         "alias": "Påverka eller acceptera?",
         "title": "Påverka eller acceptera?",
-        "content": "I livet finns det vissa saker vi *kan* påverka. Och andra vi *inte* kan påverka, eller som vi har mindre kontroll över. \n\nI den här lektionen kommer du få fundera på vad som orsakar stress i ditt liv och prova vad du kan göra för att må bättre.",
+        "content": "I livet finns det vissa saker vi **kan** **påverka**. Och andra vi **inte kan påverka**, eller som vi har mindre kontroll över. \n\nI den här lektionen kommer du få fundera på vad som **orsakar** **stress** i ditt liv och lära dig vad du kan göra för att må bättre.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Jag är redo",
             "sectionId": "197d0f26-13ba-4cb2-8429-ef5ae0bda115"
           }
         ],
@@ -186,7 +185,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**I den här lektionen får du lära dig mer om:** \n\n* Skilja på vad som går att påverka och inte\n* Förändra det som inte fungerar\n* Problemlösa"
+                "content": "### Lär dig mer om:\n\n* Skilja på vad som går att påverka och inte\n* Förändra det som inte fungerar\n* Problemlösning"
               }
             ]
           },
@@ -195,7 +194,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är redo",
+                "content": "Sätt igång",
                 "sectionId": "f6bfd89d-d3a7-4ee5-a3d1-233b9a2fda92"
               }
             ]
@@ -208,7 +207,7 @@
         "id": "f6bfd89d-d3a7-4ee5-a3d1-233b9a2fda92",
         "alias": "Stress och kontroll",
         "title": "Stress och kontroll",
-        "content": "Stress är inte nödvändigtvis någonting jobbigt eller svårt. Om vi känner att vi har kontroll över situationen, så kan kravfyllda uppgifter faktiskt kännas ganska **roliga**. \n\nMen en känsla av **brist på kontroll —** att vi inte kan påverka vår situation — leder ofta till ökad stress. Om kraven känns höga och känslan av kontroll låg, är det stor risk att vi känner oss stressade.",
+        "content": "Stress är inte nödvändigtvis någonting jobbigt eller svårt. Om vi känner att vi har **kontroll** över situationen, så kan **kravfyllda** **uppgifter** faktiskt kännas ganska **roliga**. \n\nMen en känsla av **brist på kontroll** — till exempel att vi inte kan påverka eller förändra situationen — leder ofta till ökad stress. När **kraven** känns **höga** och **känslan** **av** **kontroll** **låg**, är det stor risk att vi känner oss **stressade**.",
         "buttons": [
           {
             "component": "Button",
@@ -221,8 +220,8 @@
         "type": "editorialWithImage",
         "id": "cb2a6f61-048b-403f-99a5-9eed03e1ca39",
         "alias": "Livets utmaningar",
-        "title": "Livets utmaningar",
-        "content": "Ibland har vi förväntningar på att livet ska flyta på smidigt och smärtfritt. Att det normala är att alltid må bra. Men så ser inte verkligheten ut för de flesta av oss.\n\nLivet går upp, och livet går ner.",
+        "title": "Utmaningar i livet",
+        "content": "Ibland har vi förväntningar på att livet ska flyta på smidigt och smärtfritt. Vi vill **alltid** **må bra**. \n\nMen så ser inte verkligheten ut för de flesta av oss. **Livet** går **upp**, och livet går **ner**.",
         "buttons": [
           {
             "component": "Button",
@@ -234,7 +233,7 @@
       {
         "type": "editorialWithImage",
         "id": "a1276985-b36d-4ccb-b7af-92cce4096d5a",
-        "content": "Hur mycket vi än planerar kan vi inte undvika svåra händelser. \n\nNågon gång kommer ett krossat hjärta, sorg, höga krav i skolan, konflikter eller andra utmaningar drabba oss alla. Och i perioder kan livet kännas *orättvist*. Som att vi inte orkar med, eller förstår hur vi ska klara av en situation.",
+        "content": "Hur mycket vi än planerar och förbereder oss, **kan vi inte undvika svåra händelser.** \n\nNågon gång kommer ett krossat hjärta, sorg, höga krav i skolan, konflikter eller andra utmaningar drabba oss alla. \n\nOch i perioder kan **livet kännas orättvist**. Vi kanske oroar oss över framtiden, eller har svårt att hantera en jobbig situation.",
         "alias": "x",
         "buttons": [
           {
@@ -247,7 +246,7 @@
       {
         "type": "editorialWithImage",
         "id": "1a7e800c-88b2-476c-8344-7801097da249",
-        "content": "När kraven blir för många eller när livet känns orättvist, kan det vara svårt att skilja på situationer där vi:\n\n*  Faktiskt har en möjlighet att lösa problemet (som att hitta tid för att plugga inför ett prov).\n\noch \n\n* Situationer där vi inte kan lösa problemet (som att någon nära oss har gått bort).",
+        "content": "När kraven blir för många eller när livet känns orättvist, kan det vara svårt att **skilja** på situationer där vi:\n\n* Faktiskt har en **möjlighet att lösa problemet** (exempelvis att hitta tid för att plugga inför ett prov).\n\noch \n\n* Situationer där vi **inte kan lösa problemet** (exempelvis att någon nära oss har dött).",
         "alias": "x",
         "buttons": [
           {
@@ -262,7 +261,7 @@
         "id": "07dee602-85d3-42eb-986e-176a95935c49",
         "alias": "Övning",
         "title": "Övning",
-        "content": "I den här övningen ska du få definiera vad du *kan* kontrollera och vad du *inte kan* kontrollera. Skriv ned dina svar där bara du kan se dem.\n\n1. Gör en lista med **alla** de saker du kan komma på som bidrar till att du känner dig **stressad** just nu.",
+        "content": "I den här övningen ska du få definiera vad du **kan** **kontrollera** och vad du **inte kan kontrollera.**  \n\nSkriv ned alla dina svar.\n\n1. Gör en lista med **alla** de saker du kan komma på som bidrar till att du känner dig **stressad** just nu.",
         "buttons": [
           {
             "component": "Button",
@@ -274,7 +273,7 @@
       {
         "type": "editorialWithImage",
         "id": "3ccc142d-9579-4123-be92-91a5dba16a71",
-        "content": "2. Dela upp din lista i två. Börja med att **ringa in** de saker **du** har möjlighet att **kontrollera**.\n\n*Exempel på saker vi kan kontrollera:* g*öra läxorna i tid, sätta gränser, träffa vänner oftare, träna regelbundet, säga nej.*",
+        "content": "2. Sortera i din lista genom att **ringa in** de saker **du** har möjlighet att **kontrollera**.\n\n*Exempel:* g*öra läxorna i tid, sätta gränser, träffa vänner oftare, träna regelbundet, säga nej.*",
         "alias": "x",
         "buttons": [
           {
@@ -287,7 +286,7 @@
       {
         "type": "editorialWithImage",
         "id": "510931bb-7e2f-422a-b663-e42e3a2dbbf5",
-        "content": "3. Markera eller sortera ut de saker där du just här och nu har **begränsad** eller ingen **kontroll** över. \n\n*Exempel på saker vi inte kan kontrollera:* *hur andra personer reagerar, att klimatkrisen får en lösning idag, att det är prov i skolan, att någon blir sjuk, saker som redan har hänt.*",
+        "content": "3. Stryk över eller markera de saker där du just här och nu har **begränsad** eller ingen **kontroll** över. \n\n*Exempel:* *hur andra personer reagerar, att klimatkrisen får en lösning idag, att det är prov i skolan, att någon blir sjuk, saker som redan har hänt.*",
         "alias": "x",
         "buttons": [
           {
@@ -300,16 +299,174 @@
       {
         "type": "editorialWithImage",
         "id": "459ff7b3-3474-4644-88d1-b6766299cef4",
-        "content": "Bra gjort! I stressiga situationer är det lätt att blanda ihop vad som är möjligt att göra något åt här och nu, och vad som inte är det. \n\nFör saker vi inte kan påverka kan det ibland vara bra att träna **acceptans**. Att låta saker vara precis som de är. Att istället välja att lägga kraft och energi på sådant vi **faktiskt kan påverka**.\n\nI nästa steg kommer vi fokusera på problemlösning.",
+        "content": "I stressiga situationer är det lätt att **blanda ihop** vad som är möjligt att göra något åt här och nu, och vad som inte är det. \n\nDet blir enklare att hantera sakerna vi inte kan kontrollera om vi tränar på **acceptans**. Att låta saker vara precis som de är. Då kan vi istället lägga vår kraft och energi på sådant vi **faktiskt kan kontrollera**.\n\nI nästa steg kommer vi fokusera på **problemlösning**.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Fortsätt",
+            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+            "variant": "primary"
+          }
+        ],
+        "title": ""
+      }
+    ]
+  },
+  "pt": {
+    "id": "bde7c256-0426-4496-aa72-4a934281ad31",
+    "alias": "Stress YA: Change what's not working1",
+    "root": "7d2b498a-4329-4325-8c77-84d8724cd640",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "7d2b498a-4329-4325-8c77-84d8724cd640",
+        "alias": "Mudar ou aceitar?",
+        "title": "Mudar ou aceitar?",
+        "content": "Há certas coisas na vida sobre as quais temos **influência**. E há outras coisas que **não podemos** **mudar** ou sobre as quais temos pouco controlo.\n\nNesta lição, vais ficar a saber mais sobre o que te **está a causar stress** e vais aprender o que fazer para te sentires melhor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos mergulhar ",
+            "sectionId": "8c1ee731-791e-4009-89c7-75c9a5266b71"
+          }
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/change_header.png"
+      },
+      {
+        "type": "defaultSection",
+        "id": "8c1ee731-791e-4009-89c7-75c9a5266b71",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "### Vais aprender mais sobre:\n\n* Distinguir entre o que pode e o que não pode ser alterado\n* Mudar o que não está a funcionar\n* Solucionar problemas"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Estou pronta/o",
+                "sectionId": "f6bfd89d-d3a7-4ee5-a3d1-233b9a2fda92"
+              }
+            ]
+          }
+        ],
+        "alias": "Vais aprender "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f6bfd89d-d3a7-4ee5-a3d1-233b9a2fda92",
+        "alias": "Stress and control",
+        "title": "Stress e controlo",
+        "content": "O stress não é necessariamente algo mau ou difícil. Quando sentimos que temos **controlo** sobre uma situação, uma tarefa **exigente** pode ser bastante **divertida**.\n\nMas quando **não temos controlo** sobre uma situação - por exemplo, pensando que não podemos influenciá-la ou mudá-la - os nossos níveis de stress aumentam. Quando as **exigências** são **altas** e a **sensação** de controlo é **baixa**, o risco de nos sentirmos **stressadas/os** é grande.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "cb2a6f61-048b-403f-99a5-9eed03e1ca39"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cb2a6f61-048b-403f-99a5-9eed03e1ca39",
+        "alias": "Desafios na vida",
+        "title": "Desafios na vida",
+        "content": "Às vezes esperamos que a nossa vida flua suavemente e sem dor. Queremos **sentir-nos sempre bem.**\n\nMas não é assim a realidade para a maioria de nós. **A vida** anda **para cima** e **para baixo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "a1276985-b36d-4ccb-b7af-92cce4096d5a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a1276985-b36d-4ccb-b7af-92cce4096d5a",
+        "content": "Não importa o quanto planeemos e nos preparemos, **não podemos evitar que coisas difíceis aconteçam**.\n\nEm algum momento, um coração partido, tristeza, elevadas exigências na escola, conflitos ou outros desafios vão afetar-nos. Isso acontece-nos a todos.\n\nÀs vezes, **a vida pode parecer** **injusta**. Podemos preocupar-nos com o presente ou o futuro e lutar para lidar com certas situações.",
         "alias": "x",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "root",
-            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111"
+            "content": "Mais ",
+            "sectionId": "1a7e800c-88b2-476c-8344-7801097da249"
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1a7e800c-88b2-476c-8344-7801097da249",
+        "content": "Em momentos como esses, pode ser difícil **distinguir** entre situações em que:\n\n* **Podemos** **resolver** o problema (por exemplo, encontrar tempo para estudar antes de um exame).\n\ne\n\n* Situações em que **não conseguimos** **resolver** o problema (por exemplo, alguém próximo que faleceu).",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi",
+            "sectionId": "07dee602-85d3-42eb-986e-176a95935c49"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "07dee602-85d3-42eb-986e-176a95935c49",
+        "alias": "Exercise",
+        "title": "Exercício",
+        "content": "Neste exercício, vais definir o que **podes** e o que **não podes** **controlar**.\n\nAnota todas as tuas respostas.\n\n1. Começa por fazer uma lista de **todas** as coisas que te estão a **stressar** agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Acabei",
+            "sectionId": "3ccc142d-9579-4123-be92-91a5dba16a71"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3ccc142d-9579-4123-be92-91a5dba16a71",
+        "content": "2. Na tua lista, **sublinha** o que está sob o teu **controlo**.\n\n   *Exemplos: fazer o trabalho de casa no horário, estabelecer limites, encontrar amigos com mais frequência, fazer exercício regularmente, dizer não.*",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí",
+            "sectionId": "510931bb-7e2f-422a-b663-e42e3a2dbbf5"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "510931bb-7e2f-422a-b663-e42e3a2dbbf5",
+        "content": "3. Agora, coloca uma cruz ou marca as coisas sobre as quais tens controlo **limitado** ou **nenhum controlo** neste momento.\n\n   *Exemplos: como as outras pessoas reagem, resolver a crise climática hoje, exames na escola, alguém doente, coisas que já aconteceram.*",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Concluí",
+            "sectionId": "459ff7b3-3474-4644-88d1-b6766299cef4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "459ff7b3-3474-4644-88d1-b6766299cef4",
+        "content": "Em situações stressantes, é fácil misturar as coisas que podemos mudar com aquelas que não podemos.\n\nPodemos lidar melhor com coisas que não podemos controlar praticando a **aceitação**. Deixar as coisas como são, mesmo que não gostemos delas. Isso permite-nos usar a nossa preciosa **energia** naquilo que **podemos** **controlar**.\n\nEm seguida, vamos focar-nos na **resolução de problemas**.",
+        "alias": "x",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Vamos lá",
+            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+            "variant": "primary"
+          }
+        ],
+        "title": ""
       }
     ]
   }

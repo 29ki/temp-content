@@ -1,0 +1,113 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "What do you need today?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/what_do_you_need_today_wzbcog.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "c0603c26-fd0b-4796-a090-45e046da1209",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c0603c26-fd0b-4796-a090-45e046da1209",
+        "name": "What do you need today?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "602670aa-d275-452b-900f-b39128324c08",
+            "question": "What do you need today?",
+            "exampleText": "I need some time for myself to just ground my thoughts and calm down.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Vad behöver du idag?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/what_do_you_need_today_wzbcog.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "c0603c26-fd0b-4796-a090-45e046da1209",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c0603c26-fd0b-4796-a090-45e046da1209",
+        "name": "Vad behöver du idag?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "98bfff0a-d57f-4635-afbe-07ec2a6ea9b5",
+            "question": "Vad behöver du idag?",
+            "exampleText": "Jag behöver lite tid för mig själv. För att landa och samla mina tankar.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "O que precisas hoje?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/what_do_you_need_today_wzbcog.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "c0603c26-fd0b-4796-a090-45e046da1209",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c0603c26-fd0b-4796-a090-45e046da1209",
+        "name": "O que precisas hoje?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": false,
+            "id": "04184204-7c99-4382-90ad-2ca13ad7fdbd",
+            "question": "O que precisas hoje?",
+            "buttonText": "Terminei",
+            "exampleText": "Preciso de tempo de qualidade para compreender os meus pensamentos e me acalmar."
+          }
+        ]
+      }
+    ]
+  }
+}

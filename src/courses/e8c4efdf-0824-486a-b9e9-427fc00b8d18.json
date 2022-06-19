@@ -1,0 +1,398 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "Coping with crisis",
+    "about": {
+      "body": "You are not alone. Sometimes we find ourselves in situations we never expected.\n\nWhen we’re faced with a challenge, it’s perfectly normal to experience strong emotions such as stress, worry and anxiety. Experiencing difficult emotions can propel us into constructive action. But often we get stuck in our anxiety and engage in behaviors that make us feel worse instead.\n\nIn this course, you’ll learn a range of psychological tools that are proven to reduce the effects of overwhelm, anxiety and stress.",
+      "howThisWorks": "#### How this works\n* This course takes 3 weeks to complete\n* One lesson per week\n* One video sharing per week",
+      "courseValue": "#### What will I learn?\n\n* Increase your ability to handle challenges\n* Practice to meet the situation as it is\n* Face difficult emotions and experiences",
+      "createdBy": {
+        "text": "**Coping with crisis** is based on ”Acceptance and Commitment Therapy” (**ACT**) developed by professor Steven Hayes and colleagues.\n\nThe course was crafted by the psychologists at 29k in collaboration with teachers and researchers from the university Karolinska Institute in Stockholm, Sweden.",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Are you in a tough spot fearing what the future might hold? This course will give you tools for better dealing with change and acting wisely.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "e8c4efdf-0824-486a-b9e9-427fc00b8d18",
+    "lessons": [
+      {
+        "name": "Snap out of the anxiety loop",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "1c263541-89bc-438e-b0f7-6b3aeab3513c",
+            "title": "Mindful breathing"
+          },
+          {
+            "title": "Don't feed the monster",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          },
+          {
+            "title": "Snap out of the anxiety loop",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ],
+        "index": 0,
+        "id": "dada9c8f-29a9-4e4f-aa01-0b93dce30b49",
+        "description": "Learn effective ways to break out of your anxiety."
+      },
+      {
+        "id": "48b40c34-e065-40dd-892a-4d3b28477a1f",
+        "name": "Facing what we can’t change",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Find ways to face difficult and painful experiences.",
+        "conversations": [
+          {
+            "title": "Facing life",
+            "conversationId": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632"
+          },
+          {
+            "title": "The healing hand",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108"
+          },
+          {
+            "title": "Opening up to emotions",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        }
+      },
+      {
+        "id": "8aa2e6e9-75ce-41db-8eb3-9033a311664f",
+        "name": "Act for change",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Take steps in a meaningful direction when facing obstacles.",
+        "conversations": [
+          {
+            "title": "Being present",
+            "conversationId": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961"
+          },
+          {
+            "title": "Problem-solving",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          },
+          {
+            "title": "Practical steps",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 122,
+      "rating": 4.3
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "name": "Hantera kriser",
+    "about": {
+      "body": "Ibland finner vi oss i situationer vi aldrig hade kunnat föreställa oss. \n\nNär vi står inför en utmaning är det helt normalt att uppleva starka känslor som stress, oro och ångest. Att uppleva svåra känslor kan driva oss till konstruktiva handlingar. Men ofta fastnar vi i vår ångest och gör sådant som istället får oss att må sämre. \n\nI den här kursen lär du dig en rad psykologiska verktyg som har visat sig minska effekterna av överväldigande känslor som ångest och stress.",
+      "howThisWorks": "#### Hur det fungerar\n\n* Kursen tar tre veckor att slutföra\n* En lektion per vecka\n* En gruppdelning per vecka",
+      "courseValue": "#### Vad kommer jag lära mig?\n\n* Öka din förmåga att hantera utmaningar\n* Öva på acceptans\n* Möta svåra känslor och upplevelser",
+      "createdBy": {
+        "text": "**Hantera kriser** bygger på \"Acceptance and Commitment Therapy\" (**ACT**) som utvecklats av Steven Hayes.\n\nKursen skapades av psykologerna vid 29k i samarbete med lärare och forskare från Karolinska Institutet.",
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Befinner du dig i en utmanande period och är orolig över framtiden? Den här kursen ger dig verktyg för att hantera förändring.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "e8c4efdf-0824-486a-b9e9-427fc00b8d18",
+    "lessons": [
+      {
+        "id": "dada9c8f-29a9-4e4f-aa01-0b93dce30b49",
+        "name": "Ta dig ur ångestspiralen",
+        "index": 0,
+        "description": "Effektiva sätt att komma ur din ångest.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "1c263541-89bc-438e-b0f7-6b3aeab3513c",
+            "title": "Medveten andning"
+          },
+          {
+            "title": "Mata inte monstret",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          },
+          {
+            "title": "Bryt ångestspiralen",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        }
+      },
+      {
+        "id": "48b40c34-e065-40dd-892a-4d3b28477a1f",
+        "name": "Att möta det vi inte kan förändra",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Sätt att möta svåra och smärtsamma upplevelser.",
+        "conversations": [
+          {
+            "title": "Erkänna det som händer",
+            "conversationId": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632"
+          },
+          {
+            "title": "Den helande handen",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108"
+          },
+          {
+            "title": "Låta känslor vara",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        }
+      },
+      {
+        "id": "8aa2e6e9-75ce-41db-8eb3-9033a311664f",
+        "name": "Agera för förändring",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Ta steg i en meningsfull riktning när du möter utmaningar.",
+        "conversations": [
+          {
+            "title": "Göra något meningsfullt",
+            "conversationId": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961"
+          },
+          {
+            "title": "Problemlösning",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          },
+          {
+            "title": "Praktiska steg",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 122,
+      "rating": 4.3
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+
+    "name": "Lidar com as crises",
+    "about": {
+      "body": "Não estamos sozinhos. Por vezes, a nossa vida coloca-nos em situações inesperadas.\n\nQuando somos confrontados com um desafio, é perfeitamente normal experienciar emoções fortes como stress, preocupação e ansiedade. Experimentar emoções difíceis pode impulsionar-nos para ações construtivas. Mas, em vez disso, muitas vezes ficamos bloqueados na nossa ansiedade e adotamos comportamentos que nos fazem sentir pior.\n\nNeste curso, vamos aprender um conjunto de ferramentas psicológicas que podem reduzir os efeitos da tensão, do stress e da ansiedade.",
+      "howThisWorks": "#### Como funciona este curso\n\n* Este curso tem uma duração de 3 semanas\n* Uma lição por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "#### O que vou aprender?\n\n* Aumentar a minha capacidade de lidar com desafios\n* Practicar para enfrentar a situação como ela é\n* Lidar com emoções e experiências difíceis",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Daniel Ek"
+          },
+          {
+            "name": "Björn Hedensjö"
+          },
+          {
+            "name": "Jacqueline Levi"
+          }
+        ],
+        "text": "**Lidar com as crises** baseia-se na investigação desenvolvida por Stephen Hayes e os seus colegas na área de ”Acceptance and Commitment Therapy” (**ACT**) .\n\nEste curso foi desenvolvido por psicólogos da 29k em colaboração com professores e investigadores do Karolinska Institute."
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    },
+    "cta": "Estás numa situação difícil com medo do que o futuro te reserva? Este curso vai dar-te ferramentas para lidares com a mudança e agir com sabedoria.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "id": "e8c4efdf-0824-486a-b9e9-427fc00b8d18",
+    "lessons": [
+      {
+        "id": "dada9c8f-29a9-4e4f-aa01-0b93dce30b49",
+        "name": "Sair do ciclo da ansiedade",
+        "index": 0,
+        "description": "Aprende formas eficazes de interromper o ciclo de ansiedade",
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "1c263541-89bc-438e-b0f7-6b3aeab3513c",
+            "title": "Respiração consciente"
+          },
+          {
+            "title": "Não alimentes o monstro",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          },
+          {
+            "title": "Quebrar o ciclo da ansiedade",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Snap%20out%20of%20the%20anxiety%20loop.png"
+        }
+      },
+      {
+        "id": "48b40c34-e065-40dd-892a-4d3b28477a1f",
+        "name": "Enfrentar o que não podemos mudar",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Encontra formas de enfrentar experiências difíceis e dolorosas.",
+        "conversations": [
+          {
+            "title": "Enfrentar a vida",
+            "conversationId": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632"
+          },
+          {
+            "title": "A mão que cura",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108"
+          },
+          {
+            "title": "Enfrentar as emoções",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Facing%20what%20we%20can%27t%20change.png"
+        }
+      },
+      {
+        "id": "8aa2e6e9-75ce-41db-8eb3-9033a311664f",
+        "name": "Agir para mudar",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Dá passos numa direção que faça sentido quando enfrentas obstáculos",
+        "conversations": [
+          {
+            "title": "Estar presente",
+            "conversationId": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961"
+          },
+          {
+            "title": "Resolução de problemas",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          },
+          {
+            "title": "Passos práticos",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081193/New_images/courses%20png/Coping%20With%20Crisis%20-%20lesson%20illustrations/Act%20for%20change.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 122,
+      "rating": 4.3
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Coping_with_crisis_wpwkqt.png"
+    }
+  }
+}

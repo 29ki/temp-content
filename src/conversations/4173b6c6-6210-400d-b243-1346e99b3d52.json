@@ -1,0 +1,102 @@
+{
+  "en": {
+    "id": "4173b6c6-6210-400d-b243-1346e99b3d52",
+    "alias": "Leadership-pursuegoals-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8dc9460a-c357-450b-9d7f-6de50005a100",
+        "content": "In the previous lesson, you've learned the strategies which have been proven to improve goal attainment, work performance and personal outcomes.",
+        "alias": "Recap",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's recap",
+            "sectionId": "31c44928-ba23-4d34-95ad-04dfed0350fc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "31c44928-ba23-4d34-95ad-04dfed0350fc",
+        "content": "**These are:**\n\n1. Actively analysing tasks\n2. Planning\n3. Monitoring progress\n4. Flexibly revising your strategies to meet the needs and challenges of your situation",
+        "alias": "Strategies",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "91fc49a9-644c-41cc-a8a9-8549921e1b36",
+            "content": "Continue"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "91fc49a9-644c-41cc-a8a9-8549921e1b36",
+        "content": "The short answer is: **by changing how you relate.** Whether it's to a goal, a person or a situation. \n\nLet’s explore how this works.",
+        "alias": "Changing how you relate",
+        "title": "So how can I translate these strategies into action?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Show me",
+            "conversationId": "2b9e2672-2141-4396-892a-f761c3d1e187"
+          }
+        ]
+      }
+    ],
+    "root": "8dc9460a-c357-450b-9d7f-6de50005a100"
+  },
+  "sv": {
+    "id": "4173b6c6-6210-400d-b243-1346e99b3d52",
+    "alias": "Leadership-pursuegoals-3"
+  },
+  "pt": {
+    "id": "4173b6c6-6210-400d-b243-1346e99b3d52",
+    "alias": "Leadership-pursuegoals-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8dc9460a-c357-450b-9d7f-6de50005a100",
+        "content": "Na lição anterior, aprendeste as estratégias que comprovadamente melhoram a capacidade de alcançar objetivos, o desempenho no trabalho e os resultados pessoais.",
+        "alias": "Recap",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos recapitular",
+            "sectionId": "31c44928-ba23-4d34-95ad-04dfed0350fc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "31c44928-ba23-4d34-95ad-04dfed0350fc",
+        "content": "Essas estratégias são:\n\n1. Análise ativa das tarefas\n2. Planeamento\n3. Monitorização do progresso\n4. Revisão flexível das tuas estratégias para atender às necessidades e desafios da tua situação",
+        "alias": "Strategies",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "91fc49a9-644c-41cc-a8a9-8549921e1b36",
+            "content": "Continuar"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "91fc49a9-644c-41cc-a8a9-8549921e1b36",
+        "content": "A resposta curta é: **mudando a forma como te relacionas**, seja em relação a um objetivo, uma pessoa ou situação.\n\nVamos ver como isto funciona.",
+        "alias": "Changing how you relate",
+        "title": "Como posso traduzir essas estratégias na prática?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Mostrem-me ",
+            "conversationId": "2b9e2672-2141-4396-892a-f761c3d1e187"
+          }
+        ]
+      }
+    ],
+    "root": "8dc9460a-c357-450b-9d7f-6de50005a100"
+  }
+}

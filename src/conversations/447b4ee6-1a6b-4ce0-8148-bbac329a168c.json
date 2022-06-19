@@ -1,0 +1,60 @@
+{
+  "en": {
+    "id": "447b4ee6-1a6b-4ce0-8148-bbac329a168c",
+    "alias": "Meaning-making in a crisis: Finding meaning 5 (Summary)",
+    "root": "section10",
+    "sections": [
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing Finding meaning. You’ve just done a wonderful thing for yourself.\n\nIf you’re participating in a group sharing, please keep your notes handy.\n\nYou’re being invited to share about a time in your life when you felt a sense of meaning and purpose.\n\nConsider the following questions\n* What was going on in your life at that time?\n* How did you feel as a result of having more meaning and purpose?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ],
+        "alias": "section10"
+      }
+    ]
+  },
+  "sv": {
+    "id": "447b4ee6-1a6b-4ce0-8148-bbac329a168c",
+    "alias": "Meaning-making in a crisis: Finding meaning 5 (Summary)",
+    "root": "section10",
+    "sections": [
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat. Du har precis gjort en fin sak för dig själv.\n\nOm du deltar i en grupp, ha dina anteckningar från övningen där du upplevde mening och syfte nära till hands.\n\nFörbered dig genom att svara på följande frågor\n\n* Vad hände i ditt liv vid den tiden?\n* Hur mådde du när du kände mer mening och syfte?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "447b4ee6-1a6b-4ce0-8148-bbac329a168c",
+    "alias": "Meaning-making in a crisis: Finding meaning 5 (Summary)",
+    "root": "section10",
+    "sections": [
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares **Encontrar significado**. Acabaste de fazer uma coisa maravilhosa pelo teu bem-estar.\n\nSe estiveres a participar num grupo de partilha, mantém as tuas notas à mão.\n\nVais ser convidada/o a partilhar uma fase da tua vida em que tiveste uma sensação de significado e propósito.\n\nConsidera as seguintes perguntas\n\n* O que se estava a passar na tua vida nessa altura?\n* O que sentiste por encontrares mais significado e propósito?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

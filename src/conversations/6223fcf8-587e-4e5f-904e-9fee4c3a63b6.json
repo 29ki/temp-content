@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "6223fcf8-587e-4e5f-904e-9fee4c3a63b6",
+    "alias": "Leadership-pursuegoals-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "2db56602-1b3d-43aa-983b-02db90cc203f",
+        "alias": "Intro",
+        "content": "How can we make the most of the opportunities and challenges we face in today’s ever evolving workplaces? \n\nAnd can work really be more **meaningful**?\n\nThroughout this lesson, you will learn a mindset which enhances your performance and helps you connect to your work.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
+            "sectionId": "1e508dd7-bd95-4102-8d83-7f5c2f77a520"
+          }
+        ],
+        "title": "Welcome back!"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1e508dd7-bd95-4102-8d83-7f5c2f77a520",
+        "alias": " In this lesson",
+        "content": "In this lesson, you will learn about strategic thinking in three steps:\n\n* Connect to your project\n* Change how you relate\n* Achieve your goal",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "conversationId": "53440372-6c44-45bb-a0f8-a8e1b5520b66",
+            "content": "Let's dive in",
+            "variant": "primary"
+          }
+        ],
+        "title": "In this lesson"
+      }
+    ],
+    "root": "2db56602-1b3d-43aa-983b-02db90cc203f"
+  },
+  "sv": {
+    "id": "6223fcf8-587e-4e5f-904e-9fee4c3a63b6",
+    "alias": "Leadership-pursuegoals-1"
+  },
+  "pt": {
+    "id": "6223fcf8-587e-4e5f-904e-9fee4c3a63b6",
+    "alias": "Leadership-pursuegoals-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "2db56602-1b3d-43aa-983b-02db90cc203f",
+        "alias": "Intro",
+        "content": "Como podemos aproveitar ao máximo as oportunidades e desafios que enfrentamos nos locais de trabalho em constante evolução dos dias de hoje?\n\nE o trabalho pode realmente ser mais **relevante**?\n\nAo longo desta lição, vais aprender um *mindset* que apura o teu desempenho e ajuda-te a conectares-te com o teu trabalho.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "1e508dd7-bd95-4102-8d83-7f5c2f77a520"
+          }
+        ],
+        "title": "Gostamos de te ter de volta!"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1e508dd7-bd95-4102-8d83-7f5c2f77a520",
+        "alias": " In this lesson",
+        "content": "Nesta lição, vais saber mais sobre o pensamento estratégico em três etapas:\n\n* Conecta-te com o teu projeto\n* Muda como te relacionas\n* Alcança o teu objetivo",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "conversationId": "53440372-6c44-45bb-a0f8-a8e1b5520b66",
+            "content": "Vamos mergulhar ",
+            "variant": "primary"
+          }
+        ],
+        "title": "Nesta lição "
+      }
+    ],
+    "root": "2db56602-1b3d-43aa-983b-02db90cc203f"
+  }
+}

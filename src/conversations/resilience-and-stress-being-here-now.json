@@ -2,20 +2,20 @@
   "en": {
     "id": "resilience-and-stress-being-here-now",
     "alias": "resilience-and-stress-being-here-now",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/being_here.jpg",
-        "title": "Being here & now",
-        "content": "In this lesson, you will practice getting in touch with what’s going on in your life right now and how to stop wishing for things to be different.",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628243622/Stress/jan-padilla-SQYeNwwCYZ4-unsplash_1_zqmbqv.jpg",
+        "title": "Being here and now",
+        "content": "When we're stressed, it's common to constantly **think** about the **future. Plan** what needs to get done. And **worry** about getting things done on time.\n\nThis makes it **hard** to **focus** on what's happening **here and now**. So in this lesson you'll get to practice getting in touch with what’s going on in your life right now.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "I'm ready",
             "sectionId": "section2"
           }
         ]
@@ -25,11 +25,11 @@
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Today’s lesson has three parts:\n\n* Being in the present moment\n* Me, here, now\n* Sharing\n\n### You’ll need:\n\n* 25 min of undisturbed time\n* Paper and pen",
+        "content": "### Learn more about:\n\n* Being in the present moment\n* Common challenges\n* Me, here, now\n\n### You’ll need:\n\n* 25 minutes of undisturbed time\n* Paper and pen",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Let's go",
             "sectionId": "section3"
           }
         ]
@@ -39,128 +39,56 @@
         "alias": "section3",
         "type": "editorialWithImage",
         "title": "Being in the present moment",
-        "content": "Mindfulness is a way of bringing our awareness to what we are experiencing in the present moment, without judging ourselves. \n\nBy practising mindfulness, we learn to accept our thoughts and feelings without pushing them away. Practising mindfulness strengthens our ability to cope and recover from challenging situations. Being mindful means being able to really choose how to act in any situation.",
+        "content": "**Mindfulness** is the ability to **bring our** **awareness** to what we're experiencing in the **present moment** without judging ourselves.\n\nBy practicing mindfulness, we learn to **accept** our **thoughts** and **feelings** without pushing them away.",
         "buttons": [
           {
             "component": "Button",
+            "content": "More",
+            "sectionId": "301554cd-758b-40af-a25a-d39694145bb2"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "301554cd-758b-40af-a25a-d39694145bb2",
+        "content": "Practicing mindfulness strengthens our ability to **cope** with and **recover** from **challenging** **situations**. \n\nBeing mindful really means being able to **choose** our **actions**, regardless of our thoughts.",
+        "alias": "section 3+",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "030082bf-4cb6-4f24-88a6-5c9c82eaa061"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "030082bf-4cb6-4f24-88a6-5c9c82eaa061",
+        "content": "One of the brain's main tasks is to produce thoughts — and we’re naturally wired for negative thinking. \n\nOur thoughts can **distract** us from living the life we want.\n\nWe often **interpret** our **thoughts** as if they were **real**. For example, **thinking** \"I’m a fraud\" can lead us to actually **believe** that we are **frauds**.",
+        "title": "Thoughts",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
             "content": "Continue",
             "sectionId": "section4"
           }
-        ]
+        ],
+        "alias": "section 4+"
       },
       {
         "id": "section4",
         "alias": "section4",
         "type": "editorialWithImage",
-        "title": "Mindfulness helps us see thoughts as thoughts",
-        "content": "Our thoughts can distract us from living the life we want. One of the tasks of the brain is to produce thoughts and we’re naturally more wired for negative thinking. \n\nWe often interpret our thoughts as if they were real events. For example, thinking ‘I’m a fraud’ can lead to feeling like a fraud.\\\n\\\nThrough mindfulness, we can learn to distance ourselves from our thoughts. It helps us see our thoughts for what they are - just thoughts! In other words, mindfulness helps us realise that we’re often thinking all kinds of things and can choose what to do, no matter what we’re thinking. In this way, mindfulness is about freedom.",
+        "title": "",
+        "content": "Through mindfulness, we can learn to **distance** **ourselves** from our thoughts. It helps us see our thoughts for what they are — just thoughts! \n\nIn this way, mindfulness is about experiencing **freedom**.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Common challenges with mindfulness",
-        "content": "**I can’t concentrate:** \n\nWhile practising mindfulness, it’s common we lose focus and let our thoughts wander. Our brain is hardwired to make associations and process things. The good news is that every time you notice your thoughts being elsewhere, you’re actually being mindful.\n\n**It feels uncomfortable and I can’t relax:** \n\nMindfulness is not the same as relaxation. Mindfulness is about being aware of what you’re experiencing. At times being mindful will make you feel more relaxed, other times you will realise how tense and stressed you are. In the end, it’s the act of being present that matters.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "editorialWithImage",
-        "title": "Me, here, now",
-        "content": "Focused attention is a muscle which gets stronger through practice.\n\nThis next exercise helps you train your mindfulness muscles by focusing your attention on the here and now.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "video",
-        "title": "Me, here, now",
-        "description": "",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/stressandresilience_lesson03.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/me-here-now_poster.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "audio",
-        "title": "Meditation",
-        "description": "This is a meditation exercise which takes around 8 minutes. \n\nYour thoughts will likely wander off during this exercise. When this happens, simply bring your attention back to the present moment.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/resilience/me-here-now-sturdy-as-an-oak.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "writing",
-        "title": "Me, here, now",
-        "time": "5-10 min",
-        "question": "",
-        "longDescription": "1. Can you think of a situation where you acted in “autopilot” (impulsively or automatically), not really aware of your thoughts and feelings, and that didn’t turn out too well? \n2. What would you have done differently if you’d been more mindful in that moment?\n\nWrite down your answer on a piece of paper. This is what you’ll be offered to share with your group.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "Summary",
-        "content": "You've now completed **Being Here & Now.**\n\nToday you've learnt how, through mindfulness, you can train your brain to see your thoughts as thoughts and become more present.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "Well done for completing **Being here & now**.\n\nLearning to be more present is a powerful skill and the fact that your thoughts tend to wander is normal and will get less so with some practice.\n\nYou are now ready to share with your group.",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
+            "component": "NextConversationButton",
+            "content": "Learn more",
+            "conversationId": "resilience-and-stress-being-here-now-2",
+            "variant": "primary"
           }
         ]
       }
@@ -169,20 +97,20 @@
   "sv": {
     "id": "resilience-and-stress-being-here-now",
     "alias": "resilience-and-stress-being-here-now",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/being_here.jpg",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628243622/Stress/jan-padilla-SQYeNwwCYZ4-unsplash_1_zqmbqv.jpg",
         "title": "Att vara här och nu",
-        "content": "I den här lektionen kommer du att öva på att komma i kontakt med vad som pågår i ditt liv just nu samt hur du slutar önska att saker var annorlunda.",
+        "content": "När vi är stressade är det lätt hänt att vi hela tiden **tänker** på **framtiden. Planerar** vad som behöver göras. Och **oroar** oss över hur vi ska hinna med allt.\n\nDå blir det extra **svårt** att **fokusera** på **nuet.** Så i den här lektionen kommer du få öva på att komma i kontakt med vad som pågår i ditt liv just nu.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Jag är redo",
             "sectionId": "section2"
           }
         ]
@@ -192,11 +120,11 @@
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Dagens lektion har tre delar:\n\n* Att vara i nuet\n* Jag, här, nu\n* Delning\n\n### Du kommer att behöva:\n\n* 25 minuter \n* Papper och penna",
+        "content": "### Lär dig mer om:\n\n* Att vara i nuet\n* Vanliga utmaningar \n* Jag, här, nu\n\n### Du behöver:\n\n* 25 minuter \n* Papper och penna",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Sätt igång",
             "sectionId": "section3"
           }
         ]
@@ -206,11 +134,106 @@
         "alias": "section3",
         "type": "editorialWithImage",
         "title": "Att vara i nuet",
-        "content": "Medveten närvaro är en förmåga att rikta vår uppmärksamhet mot det vi upplever i nuet utan att värdera eller döma. \n\nGenom att öva medveten närvaro lär vi oss att acceptera våra tankar och känslor utan att kämpa mot dem. Att öva medveten närvaro stärker vår förmåga att hantera utmanande situationer och ta oss igenom dem. Att vara medvetet närvarande ger oss förmågan att själva välja hur vi vill agera i alla lägen i livet.",
+        "content": "**Medveten närvaro** är förmågan att **rikta** **vår** **uppmärksamhet** mot det vi upplever i nuet, utan att värdera eller döma.\n\nGenom att öva medveten närvaro lär vi oss **acceptera** våra **tankar** och **känslor** utan att kämpa mot dem.",
         "buttons": [
           {
             "component": "Button",
+            "content": "Mer",
+            "sectionId": "e75ae869-5577-4511-b9a0-478fa2726795"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e75ae869-5577-4511-b9a0-478fa2726795",
+        "content": "Det stärker även vår förmåga att **hantera** **utmanande** **situationer** och ta oss igenom dem. \n\nAtt vara medvetet närvarande ger oss nämligen förmågan att själva **välja** hur vi vill **agera,** oavsett våra tankar.",
+        "alias": "section 3+",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "ee8d7fdc-2d24-47cc-bf44-6706a64f64d6"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ee8d7fdc-2d24-47cc-bf44-6706a64f64d6",
+        "content": "En av hjärnans uppgifter är nämligen att skapa tankar — och vi är konstruerade av naturen för att tänka negativt. \n\nI många situationer kan våra tankar **hindra** oss från att leva livet som vi vill. Det är vanligt att vi **tolkar** våra **tankar** som om de vore **verkliga**. Att till exempel **tänka** \"jag är inkompetent\" kan leda till att vi **känner** oss **inkompetenta**.",
+        "alias": "section 4+",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
             "content": "Fortsätt",
+            "sectionId": "section4"
+          }
+        ],
+        "title": "Tankar"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Genom medveten närvaro kan vi öva oss på att skapa en **hälsosam** **distans** till våra tankar. Det hjälper oss att se tankar för vad de är — bara tankar.\n\nMed andra ord handlar medveten närvaro om **frihet**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Mer",
+            "conversationId": "resilience-and-stress-being-here-now-2",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-being-here-now",
+    "alias": "resilience-and-stress-being-here-now",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/being_here.jpg",
+        "title": "Estar presente, aqui e agora",
+        "content": "Nesta lição, vais aprender a envolveres-te com o que está a acontecer na tua vida neste momento e a como parar de desejar que as coisas sejam diferentes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "### A lição de hoje tem três partes:\n\n* Estar no momento presente\n* Eu, aqui, agora\n* Partilhar\n\n### Vais precisar de:\n\n* 25 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Estar no momento presente",
+        "content": "*Mindfulness* é uma forma de trazer a nossa consciência para o que estamos a experienciar no momento presente, sem nos julgarmos.\n\nCom a prática do *mindfulness*, aprendemos a aceitar os nossos pensamentos e sentimentos sem a necessidade de os afastar. Isto fortalece a nossa capacidade de lidar e recuperar de situações difíceis. Estar num estado *mindfulness* significa ser capaz de escolher como agir em qualquer situação.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
             "sectionId": "section4"
           }
         ]
@@ -219,115 +242,14 @@
         "id": "section4",
         "alias": "section4",
         "type": "editorialWithImage",
-        "title": "Medveten närvaro hjälper oss att se tankar som tankar",
-        "content": "Våra tankar kan hindra oss från att leva livet som vi vill. En av hjärnans uppgifter är att skapa tankar och vi är konstruerade av naturen för att tänka negativt. \n\nDet är vanligt att vi tolkar våra tankar som om de vore verkliga. Att till exempel tänka \"jag är inkompetent\" kan leda till att vi känner oss inkompetenta. \\\n\\\nGenom medveten närvaro kan vi öva oss på att skapa en hälsosam distans till våra tankar. Det hjälper oss att se tankar för vad de är - bara tankar. Medveten närvaro hjälper oss att förstå att vi tänker oerhört många olika tankar, och att oavsett vad tankarna innehåller kan vi alltid välja hur vi agerar. Med andra ord handlar medveten närvaro om frihet.",
+        "title": "O mindfulness ajuda-nos a ver os pensamentos apenas como pensamentos",
+        "content": "Os nossos pensamentos podem distrair-nos, impedindo-nos de viver a vida que desejamos. Uma das tarefas do nosso cérebro é produzir pensamentos e fazer com que estejamos naturalmente mais moldados para pensar negativamente.\n\nFrequentemente, interpretamos os nossos pensamentos como se fossem acontecimentos reais. Por exemplo, pensar \"eu sou uma fraude\" pode levar-nos a sentirmo-nos uma fraude.\\\n\\\nAtravés do *mindfulness*, podemos aprender a criar distância dos nossos pensamentos. A ver os nossos pensamentos como eles são - apenas pensamentos! Por outras palavras, o *mindfulness* ajuda-nos a perceber que muitas vezes pensamos todos os tipos de coisas, mas que podemos escolher o que fazer independentemente do que estejamos a pensar. Logo, o *mindfulness* é sobre liberdade.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Vanliga utmaningar med medveten närvaro",
-        "content": "**Jag kan inte koncentrera mig:** \n\nNär vi övar medveten närvaro är det vanligt att vi tappar fokus och börjar tänka på annat. Vår hjärna är byggd för att processa intryck och skapa associationer. De goda nyheterna är dock att varje gång du lägger märke till att du vandrat iväg i tankar så är du faktiskt medvetet närvarande. \n\n**Det känns obehagligt och jag kan inte slappna av:** \n\nMedveten närvaro är inte samma sak som avslappning. Medveten närvaro handlar om att vara medveten om vad du upplever. Att vara medvetet närvarande kommer ibland att leda till att du blir mer avslappnad, och ibland kommer du att inse hur spänd och stressad du är. Det egentliga målet är att vara närvarande.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "editorialWithImage",
-        "title": "Jag, här, nu",
-        "content": "Fokuserad uppmärksamhet är en muskel som blir starkare genom övning.\n\nNästa övning hjälper dig att träna dina medveten-närvaro-muskler genom att fokusera din uppmärksamhet på det som händer här och nu.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "video",
-        "title": "En situation när du inte var närvarande",
-        "description": "",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/sharing_3.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/sharing_3.png",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "audio",
-        "title": "Meditation",
-        "description": "Det här är en övning i medveten närvaro som tar cirka 8 minuter.\n\nDina tankar kommer förmodligen vandra iväg under den här övning. När det händer, försök att varsamt ta tillbaka ditt fokus till här och nu.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Tradet.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "writing",
-        "title": "Jag, här, nu",
-        "time": "5-10 min",
-        "question": "",
-        "longDescription": "1. Kan du tänka på en situation där du agerade på ”autopilot” (impulsivt eller automatiskt), kanske inte riktigt medveten om vad du tänkte och kände och där situationen kanske inte blev så bra?\n2. Vad skulle du ha gjort annorlunda om du hade varit mer närvarande i det ögonblicket?\n\nSkriv ner situationen och ditt svar på ett papper. Det här är vad du föreslås dela med din grupp.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "Sammanfattning",
-        "content": "Du har nu slutfört **Att vara här och nu.** \n\nIdag har du lärt dig hur du genom mindfulness kan träna din hjärna att se dina tankar som tankar och bli mer närvarande.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Bra jobbat! Du har nu gjort klart **Att vara här och nu** .\n\nAtt lära sig att vara mer närvarande är en oerhört användbar förmåga. Det faktum att dina tankar har en tendens att vandra är normalt och med övning kommer du att bli bättre på att vara här och nu. \n\nDu är nu redo att dela med din grupp.",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-being-here-now-2",
+            "variant": "primary"
           }
         ]
       }

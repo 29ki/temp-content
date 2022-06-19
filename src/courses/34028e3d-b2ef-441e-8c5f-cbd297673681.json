@@ -1,0 +1,738 @@
+{
+  "en": {
+    "segments": ["ADULTS", "GOLDSMITH"],
+    "author": {
+      "name": "Prof. Frank W. Bond and Dr. Jonathan R. Dowling (Goldsmiths, University of London)",
+      "nickname": "Prof. Frank W. Bond and Dr. Jonathan R. Dowling",
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1655291117/Leadership/Screenshot_2022-06-15_at_13.04.57_kab0l5.png"
+    },
+    "name": "Purposeful Leadership",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Purposeful_leadership_ajv0sj.png"
+    },
+    "about": {
+      "body": "As **Leadership is such a critical skill that runs through every aspect of our lives**, from planning a family holiday to running a multinational company people can lead in so many different situations in different ways. \n\nBecause of this, the course aims to transform people's ability to lead using the skills and knowledge they have to lead to pursue purpose in any situation they're involved in even if the words CEO, director, or manager aren't in their title.\\\n\\\nFor the first time, this course draws together the fragmented fundamentals of effective leadership and gold standard approaches using a cutting edge model that unifies them to pursue success and satisfaction and elevate them above the sum of a disconnected set of separate leadership techniques.\n\n**Purposeful Leadership** is based upon a psychosocial model of human behaviour, successful living, and fulfilment called **ALIVE.** \n\nIt involves three, inseparable actions that allow people to make sense of and use their situation for the purpose of pursuing success and fulfilment, by\n\n* Understanding your current situation\n* Discovering what actions are worth undertaking\n* Committing to taking them",
+      "courseValue": "This course empowers you to become a more **Purposeful Leader**. By drawing on the latest research in **leadership** and Psychology, you'll learn how to **create a deep sense of meaning**, for yourself, and the people around you.\n\nEach week, you'll grow in your ability to lead, thanks to engaging lessons, exercises and daily quests for reinforced learning.",
+      "createdBy": {
+        "text": "The content of the course has been created by **Professor Frank Bond** and **Dr Jonathan Dowling** from the Institute of Management Studies at Goldsmiths, University of London. \\\n\\\n**About Goldsmiths, University of London**\n\nFounded in 1891, Goldsmiths, University of London is an institution with a rich academic history, known for its creative approach. \n\nGoldsmiths research shapes the future, changes lives and is at the forefront of creative practice, with almost three-quarters of research rated internationally excellent or world-leading by the 2014 Research Excellence Framework. Eight winners of the Turner Prize – and almost a quarter of those shortlisted for the award since it began – have been Goldsmiths graduates or staff, while others have gone on to receive Oscars, Mercury Music prizes, Ivor Novellos and BAFTAS.",
+        "profiles": [
+          {
+            "name": "Goldsmiths, University of London",
+            "linkUri": "https://www.gold.ac.uk/short-courses/purposeful-leadership/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1632471045/Leadership/Goldsmiths_logo_s0wwmy.png"
+          },
+          {
+            "name": "Frank Bond, Professor, Psychologist ",
+            "linkUri": "https://www.gold.ac.uk/news/purposeful-leadership/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1632471917/Leadership/FrankBond_rtmwrh.jpg"
+          },
+          {
+            "name": "Jonathan Dowling, PhD., Psychologist",
+            "linkUri": "https://www.gold.ac.uk/news/purposeful-leadership/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1632471843/Leadership/Jonathan-Dowling_boge3f.jpg"
+          },
+          {
+            "name": "Agnes Branny, Editor",
+            "linkUri": "https://29k.org/about",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1634546379/Leadership/Agnes_profile_picture_ioylas.jpg"
+          }
+        ]
+      },
+      "howThisWorks": "The course comprises of 8 weekly lessons, exercises and daily quests to supercharge your learning."
+    },
+    "cta": "Purposeful Leadership is a course tested by Paralympic coaches and space station personnel, designed to help you **grow in your ability to lead** in all areas of your life thanks to engaging lessons, exercises and daily quests.\n\n**As a leader**, this course will equip you with a variety of psychosocial skills that will enable you to more reliably and successfully implement evidence-based leadership strategies. \n\nFrom ‘tried-and-tested’ techniques as goal setting, strategic planning, providing job control to colleagues, and effectively communicating meaningful messages, especially during times of change and uncertainty.\n\nYou can also become certified by **Goldsmiths, University of London.**",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Purposeful_leadership_ajv0sj.png"
+    },
+    "duration": {
+      "type": "lesson",
+      "count": 8
+    },
+    "tags": [
+      "077e6079-48ca-4bc6-b16b-80dbd0bb05e6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "34028e3d-b2ef-441e-8c5f-cbd297673681",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "75039c87-103f-4238-a24e-0fc73efa86be",
+        "name": "Lead purposefully",
+        "description": "Master the magic of leading by tuning in and taking responsibility",
+        "conversations": [
+          {
+            "title": "Purposeful leadership",
+            "conversationId": "72becbaa-8242-412a-937b-4833160ac4ab"
+          },
+          {
+            "conversationId": "467d2a47-11f2-49ab-b23a-83c017b16762",
+            "title": "Pursuing purpose"
+          },
+          {
+            "title": "Find novelty in the normal",
+            "conversationId": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0"
+          },
+          {
+            "conversationId": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5",
+            "title": "Tune-in and own-up"
+          },
+          {
+            "title": "Engage for purpose",
+            "conversationId": "f54396fb-5d42-4b44-980f-1a74906ad3d3"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-1-take-action"
+          }
+        ],
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528228/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Lead%20purposefully.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "0f1553f7-0185-4258-b6c8-fb32579869d0",
+        "name": "Transformational leadership styles",
+        "conversations": [
+          {
+            "title": "Leadership styles",
+            "conversationId": "50fb1198-8d3f-4b54-b13c-dbd618e5831b"
+          },
+          {
+            "title": "Individualized consideration",
+            "conversationId": "41d522a3-b464-4652-9543-eede68f04649"
+          },
+          {
+            "title": "Intellectual stimulation",
+            "conversationId": "a43149fe-e80c-4b8f-a735-9f89be3b79d9"
+          },
+          {
+            "title": "Inspirational motivation",
+            "conversationId": "03aa2eeb-7af5-4087-945c-044cef3e1545"
+          },
+          {
+            "title": "Idealised influence",
+            "conversationId": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b"
+          },
+          {
+            "title": "Building trust",
+            "conversationId": "67670649-ed50-408c-836d-9984b491af35"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-2-engage-to-build-trust"
+          }
+        ],
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Engage others in pursuing purpose, building influence and trust",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528205/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Transformational%20leadership%20styles.png"
+        }
+      },
+      {
+        "name": "Unleash your ability to connect",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528204/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Unleash%20your%20ability%20to%20connect.png"
+        },
+        "conversations": [
+          {
+            "title": "Introduction",
+            "conversationId": "5fae9e29-aab8-4026-a725-f42825608cb7"
+          },
+          {
+            "title": "Benefits of habits",
+            "conversationId": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af"
+          },
+          {
+            "conversationId": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
+            "title": "Cost of habits"
+          },
+          {
+            "conversationId": "3b548b2d-04bf-4495-b585-578462bff5de",
+            "title": "Changing how you relate"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-3-listen-to-connect"
+          }
+        ],
+        "id": "40868eab-5b63-4777-a128-fff9f462be03",
+        "description": "Free yourself from prior assumptions about others",
+        "wip": false
+      },
+      {
+        "wip": false,
+        "id": "00118fc2-1556-4c3d-b791-455b7e5228e8",
+        "name": "Socially interact for a purpose",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "d133719e-c311-49c0-89c3-d141c7f74d1f",
+            "title": "Interact for a purpose"
+          },
+          {
+            "title": "Interpersonal Influence",
+            "conversationId": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce"
+          },
+          {
+            "title": "Social Astuteness",
+            "conversationId": "a3f17325-278c-48ff-bd11-d9f5c0770bbd"
+          },
+          {
+            "title": "Apparent Sincerity",
+            "conversationId": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c"
+          },
+          {
+            "conversationId": "639a992e-0fe2-4f0a-826c-7eab3577895a",
+            "title": "Networking"
+          },
+          {
+            "title": "Practice",
+            "conversationId": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-4-ask-for-advice"
+          }
+        ],
+        "description": "Develop flexible interpersonal styles to effectively work towards shared goals",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528202/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Socially%20interact%20for%20a%20purpose.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "3beb9583-911c-4bb2-852f-712d1bf2e966",
+        "name": "Pursue goals that matter",
+        "conversations": [
+          {
+            "conversationId": "6223fcf8-587e-4e5f-904e-9fee4c3a63b6",
+            "title": "Strategic thinking"
+          },
+          {
+            "title": "Mind map",
+            "conversationId": "53440372-6c44-45bb-a0f8-a8e1b5520b66"
+          },
+          {
+            "conversationId": "4173b6c6-6210-400d-b243-1346e99b3d52",
+            "title": "Change how you relate"
+          },
+          {
+            "conversationId": "2b9e2672-2141-4396-892a-f761c3d1e187",
+            "title": "Achieve your goal"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-5-focus-on-what-matters"
+          }
+        ],
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Involve yourself in a way that enables you and your team to pursue purpose",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528204/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Pursue%20goals%20that%20matter.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "48127bfa-2e4b-46cc-bbdd-7abcdd1cddd3",
+        "name": "Amplify strategy with scenario planning",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Introduction",
+            "conversationId": "c8ed5a28-2fd5-4c0f-ad75-106b8dd37010"
+          },
+          {
+            "title": "Traditional planning",
+            "conversationId": "ae246e3a-f973-4918-b7f6-415d151e0966"
+          },
+          {
+            "title": "Scenario planning",
+            "conversationId": "778f3637-810f-4923-8390-db4bbea973ca"
+          },
+          {
+            "title": "Possible futures",
+            "conversationId": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-6-listen-and-notice"
+          }
+        ],
+        "description": "Foresee possible futures and plan for the road ahead",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528220/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Amplify%20strategy%20with%20scenario%20planning.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "b9bb54a7-a0aa-4477-8da7-eff97308d21a",
+        "name": "Laser focus your purpose and direction",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Introduction",
+            "conversationId": "25e2f77a-0169-423d-87d4-450626980d7c"
+          },
+          {
+            "title": "Purpose and direction",
+            "conversationId": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a"
+          },
+          {
+            "title": "Fit for purpose",
+            "conversationId": "54ce995e-6941-4d31-b3c7-e84d239c3b19"
+          },
+          {
+            "title": "Identify purpose",
+            "conversationId": "527a2664-b1ab-4800-b708-d0f43ce8d4c7"
+          },
+          {
+            "title": "Bring your vision alive",
+            "conversationId": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4"
+          },
+          {
+            "title": "Daily quest",
+            "conversationId": "pl-7-focus-on-the-why"
+          }
+        ],
+        "description": "Distill your mission and vision into crystal clear actionable statements",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528212/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Laser%20focus%20your%20purpose%20and%20direction.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "2c0ed782-8994-4875-a36a-4e259ae04295",
+        "name": "Comprehensive benefits of purposeful leadership",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Living for a purpose can bring a broad range of benefits",
+        "conversations": [
+          {
+            "title": "What a journey!",
+            "conversationId": "6e12ebc7-b3ff-49c4-9420-9f3b96d7a912"
+          },
+          {
+            "conversationId": "12395f20-40d3-436e-866c-550ef76e9e34",
+            "title": "Benefits of pursuing purposeful leadership"
+          },
+          {
+            "conversationId": "501950b9-690b-4334-a2a5-5f866cbdbd21",
+            "title": "Course summary"
+          },
+          {
+            "title": "Exercise",
+            "conversationId": "cc3c8808-ec2f-4525-9089-181c72c5de0e"
+          },
+          {
+            "title": "Final quest",
+            "conversationId": "pl-8-reframe"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528229/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Comprehensive%20benefits%20of%20purposeful%20leadership.png"
+        }
+      }
+    ],
+    "wip": false
+  },
+  "sv": {
+    "segments": ["ADULTS", "GOLDSMITH"],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1616426105/Leadership/purple-brick-wall-covered-in-vines-texture_nk3b2g.jpg"
+    },
+    "duration": {
+      "type": "lesson",
+      "count": 8
+    },
+    "id": "34028e3d-b2ef-441e-8c5f-cbd297673681",
+    "lessons": [],
+    "wip": true
+  },
+  "pt": {
+    "segments": ["ADULTS", "GOLDSMITH"],
+    "author": {
+      "name": "António Horta-Osório",
+      "nickname": "António Horta-Osório"
+    },
+    "name": "Liderança",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179015/29k%20FJN/Courses/Purposeful%20Leadership/lideran%C3%A7a_-_HO_-_capa_qyvd1z.jpg"
+    },
+    "about": {
+      "body": "A **Liderança é uma competência relevante e transversal à maioria dos aspectos das nossas vidas**. As pessoas podem ser chamadas a liderar em muitas situações e de maneiras muito diferentes, desde planear umas férias em família até gerir uma multinacional.\n\nPor esta razão, este curso tem o objetivo de transformar a capacidade de liderança de cada pessoa, usando as suas competências e conhecimentos para liderar de forma relevante em todas as situações em que estejam envolvidas, mesmo aquelas em que as palavras CEO, diretor, ou gestor, não estejam no seu título.\n\nEste curso reúne diversos fundamentos de liderança eficaz e abordagens de padrões de excelência, usando um modelo de elevada qualidade para atingir o sucesso e a realização, além disso, este modelo agrega um conjunto de técnicas fundamentais para uma liderança de sucesso.\n\nEste curso de **Liderança** é baseado num modelo psicológico de comportamento humano, modo de vida bem-sucedido e de realização pessoal, chamado **ALIVE**.\n\nEnvolve três ações inseparáveis que permitem que as pessoas entendam e usem a sua situação com o objetivo de atingir o sucesso e a realização, ao: \n\n• Entenderem a sua situação atual \n\n• Descobrirem quais as ações que vale a pena empreender \n\n• Comprometer-se a concretizá-las",
+      "courseValue": "Este curso ajuda-te a desenvolver capacidades de te tornares um/a **Líder Relevante**. Baseando-se na investigação mais recente em Liderança e Psicologia, vais aprender a **criar um profundo sentido de significado**, para ti mesma/o e para as pessoas à tua volta.\n\nA cada semana, vais aumentar a tua capacidade de liderar, graças a lições motivadoras, exercícios e desafios diários envolventes que consolidam a tua aprendizagem.",
+      "createdBy": {
+        "text": "O conteúdo do curso foi criado pelo **Professor Frank Bond** e **Dr. Jonathan Dowling** *do Institute of Management Studies da Goldsmiths, University of London*.\n\nSobre **Goldsmiths, University of London** \n\nFundada em 1891, a Goldsmiths, University of London é uma instituição com uma história académica muito rica, conhecida pela sua abordagem criativa.\n\nA investigação de Goldsmiths molda o futuro, muda vidas e está na vanguarda da prática criativa, com quase três quartos da sua investigação classificada internacionalmente como excelente pelo 2014 Research Excellence Framework. Oito vencedores do Turner Prize - e quase um quarto dos selecionados para o prémio desde o início - são formados ou funcionários da Goldsmiths. Também há outros que receberam *Oscars, Mercury Music Prizes, Ivor Novellos* e BAFTAS.",
+        "profiles": [
+          {
+            "name": "Goldsmiths, University of London",
+            "linkUri": "https://www.gold.ac.uk/short-courses/purposeful-leadership/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1632471045/Leadership/Goldsmiths_logo_s0wwmy.png"
+          },
+          {
+            "name": "Frank Bond, Professor, Psychologist ",
+            "linkUri": "https://www.gold.ac.uk/news/purposeful-leadership/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1632471917/Leadership/FrankBond_rtmwrh.jpg"
+          },
+          {
+            "name": "Jonathan Dowling, PhD., Psychologist",
+            "linkUri": "https://www.gold.ac.uk/news/purposeful-leadership/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1632471843/Leadership/Jonathan-Dowling_boge3f.jpg"
+          },
+          {
+            "name": "Agnes Branny, Editor",
+            "linkUri": "https://29k.org/about",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1634546379/Leadership/Agnes_profile_picture_ioylas.jpg"
+          }
+        ]
+      },
+      "howThisWorks": "O curso é composto por 8 lições semanais, exercícios e missões diárias para potenciar a tua aprendizagem."
+    },
+    "cta": "Liderança com propósito é um curso validado e testado por treinadores de atletas paralímpicos e por membros de equipas de estações espaciais. Este curso foi concebido para te ajudar a desenvolver a capacidade de liderar em todas as áreas da tua vida, através de lições motivadoras, exercícios e desafios diários. \n\nComo líder, este curso vai dar-te uma variedade de competências sociopsicológicas que te vão permitir implementar de uma forma mais segura e bem sucedida as tuas estratégias de liderança. \n\nAbordará técnicas “experimentadas-e-testadas” como definição de objetivos, estratégia, delegação do controlo de projetos a colegas e comunicação eficiente de mensagens relevantes, particularmente importantes em tempos de incerteza e de mudança.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652108096/29k%20FJN/Courses/Purposeful%20Leadership/HOmenu_ltpidm.jpg"
+    },
+    "duration": {
+      "type": "lesson",
+      "count": 8
+    },
+    "tags": [
+      "077e6079-48ca-4bc6-b16b-80dbd0bb05e6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "id": "34028e3d-b2ef-441e-8c5f-cbd297673681",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "75039c87-103f-4238-a24e-0fc73efa86be",
+        "name": "Lidera com propósito",
+        "description": "Domina a magia da liderança sintonizando-te e assumindo a responsabilidade.",
+        "conversations": [
+          {
+            "title": "Liderança com propósito",
+            "conversationId": "72becbaa-8242-412a-937b-4833160ac4ab"
+          },
+          {
+            "conversationId": "467d2a47-11f2-49ab-b23a-83c017b16762",
+            "title": "Perseguir um propósito"
+          },
+          {
+            "title": "Encontra a novidade no habitual ",
+            "conversationId": "ed55fdb7-526d-43fe-a909-9e94ea4c91d0"
+          },
+          {
+            "conversationId": "7c9c7ea7-8577-4cb6-8ce3-631064024ad5",
+            "title": "Sintoniza-te e abre-te"
+          },
+          {
+            "title": "Envolve-te com propósito",
+            "conversationId": "f54396fb-5d42-4b44-980f-1a74906ad3d3"
+          },
+          {
+            "title": "Desafio diário",
+            "conversationId": "pl-1-take-action"
+          }
+        ],
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528228/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Lead%20purposefully.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "0f1553f7-0185-4258-b6c8-fb32579869d0",
+        "name": "Liderança transformacional",
+        "conversations": [
+          {
+            "title": "Estilos de liderança",
+            "conversationId": "50fb1198-8d3f-4b54-b13c-dbd618e5831b"
+          },
+          {
+            "title": "Consideração individualizada",
+            "conversationId": "41d522a3-b464-4652-9543-eede68f04649"
+          },
+          {
+            "title": "Estímulo intelectual",
+            "conversationId": "a43149fe-e80c-4b8f-a735-9f89be3b79d9"
+          },
+          {
+            "title": "Motivação inspiracional",
+            "conversationId": "03aa2eeb-7af5-4087-945c-044cef3e1545"
+          },
+          {
+            "title": "Influência idealizada",
+            "conversationId": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b"
+          },
+          {
+            "title": "Fomentar confiança",
+            "conversationId": "67670649-ed50-408c-836d-9984b491af35"
+          },
+          {
+            "title": "Desafio diário",
+            "conversationId": "pl-2-engage-to-build-trust"
+          }
+        ],
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Envolver os outros na prossecução do propósito, criando influência e confiança",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528205/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Transformational%20leadership%20styles.png"
+        }
+      },
+      {
+        "name": "Capacidade para te conectares ",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528204/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Unleash%20your%20ability%20to%20connect.png"
+        },
+        "conversations": [
+          {
+            "title": "Introdução",
+            "conversationId": "5fae9e29-aab8-4026-a725-f42825608cb7"
+          },
+          {
+            "title": "Vantagens dos hábitos",
+            "conversationId": "b1df0f4f-b6d1-424e-a050-cc503ee4c7af"
+          },
+          {
+            "conversationId": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
+            "title": "Custo dos hábitos"
+          },
+          {
+            "conversationId": "3b548b2d-04bf-4495-b585-578462bff5de",
+            "title": "Mudar a forma como te relacionas"
+          },
+          {
+            "title": "Desafio diário ",
+            "conversationId": "pl-3-listen-to-connect"
+          }
+        ],
+        "id": "40868eab-5b63-4777-a128-fff9f462be03",
+        "description": "Liberta-te de pressupostos prévios sobre os outros",
+        "wip": false
+      },
+      {
+        "wip": false,
+        "id": "00118fc2-1556-4c3d-b791-455b7e5228e8",
+        "name": "Interagir socialmente",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "d133719e-c311-49c0-89c3-d141c7f74d1f",
+            "title": "Interagir com um propósito"
+          },
+          {
+            "title": "Influência interpessoal",
+            "conversationId": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce"
+          },
+          {
+            "title": "Astúcia social",
+            "conversationId": "a3f17325-278c-48ff-bd11-d9f5c0770bbd"
+          },
+          {
+            "title": "Sinceridade aparente",
+            "conversationId": "3a02d30c-ee07-40a3-9b92-c6b7c245e02c"
+          },
+          {
+            "conversationId": "639a992e-0fe2-4f0a-826c-7eab3577895a",
+            "title": "Networking"
+          },
+          {
+            "title": "Prática",
+            "conversationId": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967"
+          },
+          {
+            "title": "Desafio diário",
+            "conversationId": "pl-4-ask-for-advice"
+          }
+        ],
+        "description": "Desenvolver estilos interpessoais flexíveis para trabalhar eficazmente para objetivos partilhados",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528202/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Socially%20interact%20for%20a%20purpose.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "3beb9583-911c-4bb2-852f-712d1bf2e966",
+        "name": "Perseguir objetivos que importam",
+        "conversations": [
+          {
+            "conversationId": "6223fcf8-587e-4e5f-904e-9fee4c3a63b6",
+            "title": "Pensamento estratégico"
+          },
+          {
+            "title": "Mapa mental",
+            "conversationId": "53440372-6c44-45bb-a0f8-a8e1b5520b66"
+          },
+          {
+            "conversationId": "4173b6c6-6210-400d-b243-1346e99b3d52",
+            "title": "Muda a forma como te relacionas "
+          },
+          {
+            "conversationId": "2b9e2672-2141-4396-892a-f761c3d1e187",
+            "title": "Atinge o teu objectivo"
+          },
+          {
+            "title": "Desafio diário",
+            "conversationId": "pl-5-focus-on-what-matters"
+          }
+        ],
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Envolve-te de uma forma que te permita a ti e à tua equipa perseguirem um propósito",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528204/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Pursue%20goals%20that%20matter.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "48127bfa-2e4b-46cc-bbdd-7abcdd1cddd3",
+        "name": "Amplifica a estratégia",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Introdução",
+            "conversationId": "c8ed5a28-2fd5-4c0f-ad75-106b8dd37010"
+          },
+          {
+            "title": "Planeamento tradicional ",
+            "conversationId": "ae246e3a-f973-4918-b7f6-415d151e0966"
+          },
+          {
+            "title": "Planeamento de cenários",
+            "conversationId": "778f3637-810f-4923-8390-db4bbea973ca"
+          },
+          {
+            "title": "Futuros possíveis",
+            "conversationId": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2"
+          },
+          {
+            "title": "Desafio diário",
+            "conversationId": "pl-6-listen-and-notice"
+          }
+        ],
+        "description": "Antever possíveis futuros e planear o caminho ",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528220/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Amplify%20strategy%20with%20scenario%20planning.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "b9bb54a7-a0aa-4477-8da7-eff97308d21a",
+        "name": "Foco total no teu propósito",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "title": "Introdução",
+            "conversationId": "25e2f77a-0169-423d-87d4-450626980d7c"
+          },
+          {
+            "title": "Propósito e direcção",
+            "conversationId": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a"
+          },
+          {
+            "title": "Apto para o propósito",
+            "conversationId": "54ce995e-6941-4d31-b3c7-e84d239c3b19"
+          },
+          {
+            "title": "Identifica o propósito ",
+            "conversationId": "527a2664-b1ab-4800-b708-d0f43ce8d4c7"
+          },
+          {
+            "title": "Dá vida à tua visão",
+            "conversationId": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4"
+          },
+          {
+            "title": "Desafio diário",
+            "conversationId": "pl-7-focus-on-the-why"
+          }
+        ],
+        "description": "Desconstrói a tua missão e visão em declarações cristalinas e exequíveis",
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528212/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Laser%20focus%20your%20purpose%20and%20direction.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "2c0ed782-8994-4875-a36a-4e259ae04295",
+        "name": "Benefícios abrangentes de liderança com propósito",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Viver com um propósito pode trazer uma ampla gama de vantagens ",
+        "conversations": [
+          {
+            "title": "Que viagem!",
+            "conversationId": "6e12ebc7-b3ff-49c4-9420-9f3b96d7a912"
+          },
+          {
+            "conversationId": "12395f20-40d3-436e-866c-550ef76e9e34",
+            "title": "Vantagens da prossecução de uma liderança com propósito"
+          },
+          {
+            "conversationId": "501950b9-690b-4334-a2a5-5f866cbdbd21",
+            "title": "Sumário do curso"
+          },
+          {
+            "title": "Exercício",
+            "conversationId": "cc3c8808-ec2f-4525-9089-181c72c5de0e"
+          },
+          {
+            "title": "Desafio final ",
+            "conversationId": "pl-8-reframe"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528229/New_images/courses%20png/Purposeful%20Leadership%20-%20lesson%20illustrations/Comprehensive%20benefits%20of%20purposeful%20leadership.png"
+        }
+      }
+    ],
+    "wip": false
+  }
+}

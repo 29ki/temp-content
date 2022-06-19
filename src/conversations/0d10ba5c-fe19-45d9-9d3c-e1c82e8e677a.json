@@ -1,0 +1,104 @@
+{
+  "en": {
+    "id": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a",
+    "alias": "Leadership-purposeanddirection-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e93dec96-e5f0-492c-bfb8-d1cbdd1009f2",
+        "alias": "What direction do you see your organization going in?",
+        "content": "Direction is usually captured in a short statement that answers these two key questions \n\n* Where are we trying to go?\n* What do we want to look like?\n\n**For example:** \n'People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them.'",
+        "title": "What direction do you see your organization going in?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Got it",
+            "sectionId": "4fe4bfdf-af51-44e8-82ba-db9bafe9b19a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4fe4bfdf-af51-44e8-82ba-db9bafe9b19a",
+        "content": "Based on this example, **what do you notice about Facebook's purpose and direction?**\n\n*'People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them.'*",
+        "alias": "Purpose and Direction example",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "c988e987-9002-4cf0-9b81-40fb8d33200c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c988e987-9002-4cf0-9b81-40fb8d33200c",
+        "alias": "What's your organization's purpose?",
+        "title": "",
+        "content": "And now over to you.\n\n### **What's your organization's purpose?**\n\nPurpose is usually captured in a short, one line mission statement, that helps capture and communicate **why your organization exists =** what is its purpose? It's the engine driving all of the organization's activities.\n\nFor example, Facebook's mission statement is *'to give people the power to build community and bring the world closer together.'*",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "54ce995e-6941-4d31-b3c7-e84d239c3b19"
+          }
+        ]
+      }
+    ],
+    "root": "e93dec96-e5f0-492c-bfb8-d1cbdd1009f2"
+  },
+  "sv": {
+    "id": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a",
+    "alias": "Leadership-purposeanddirection-2"
+  },
+  "pt": {
+    "id": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a",
+    "alias": "Leadership-purposeanddirection-2",
+    "root": "e93dec96-e5f0-492c-bfb8-d1cbdd1009f2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e93dec96-e5f0-492c-bfb8-d1cbdd1009f2",
+        "alias": "What direction do you see your organization going in?",
+        "content": "A direção geralmente é definida numa declaração curta que responde a estas duas questões.\n\n* Para onde estamos a ir?\n* Como queremos ser vistos?\n\n**Por exemplo:** \n'As pessoas usam o Facebook para se conectar com amigos e familiares, para descobrir o que está a acontecer no mundo e para partilhar e expressar o que é importante para elas. '",
+        "title": "Em que direção vês a tua organização a ir?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi ",
+            "sectionId": "4fe4bfdf-af51-44e8-82ba-db9bafe9b19a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4fe4bfdf-af51-44e8-82ba-db9bafe9b19a",
+        "content": "Com base neste exemplo, **o que notas em relação ao propósito e direção do Facebook?**\n\n'*As pessoas usam o Facebook para se conectar com amigos e familiares, para descobrir o que está a acontecer no mundo e para partilhar e expressar o que é importante para elas.*'",
+        "alias": "Purpose and Direction example",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei",
+            "sectionId": "c988e987-9002-4cf0-9b81-40fb8d33200c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c988e987-9002-4cf0-9b81-40fb8d33200c",
+        "alias": "What's your organization's purpose?",
+        "title": "",
+        "content": "E agora é contigo!\n\n### Qual é o propósito da tua organização?\n\nO propósito geralmente é definido numa declaração de missão curta de uma linha, que ajuda a capturar e comunicar **a razão pela qual a tua organização existe** = qual é o seu propósito? Esse é o motor que conduz todas as atividades de uma organização.\n\nPor exemplo, a declaração de missão do Facebook é *dar às pessoas o poder de construir uma comunidade, aproximando as pessoas no mundo’.*",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "54ce995e-6941-4d31-b3c7-e84d239c3b19"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Lead from a place of love",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/lead_from_a_place_of_love_gbeuz7.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "type": "meditation",
+    "id": "b28c890c-f526-4578-a825-dde865f0cc3b",
+    "description": "Connect with your inner voice and intuition.",
+    "stations": [
+      {
+        "id": "b28c890c-f526-4578-a825-dde865f0cc3b",
+        "root": "section1",
+        "alias": "Meditation: Lead from a place of love",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Leading from a place of love",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/lead_from_a_place_of_love_gbeuz7.png",
+            "title": "Leading from a place of love",
+            "content": "*6 minutes*\n\nFind your way to holding and working with feelings of shame and inadequacy by embodying The Compassionate Observer. This meditations helps you lean in to your authentic self and lead from a place of love.\n\n*Guided by Rachel Brathen (Yoga Girl), based on research, co-created by Ph.D F. Livheim.*",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "5 minute meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/shame/yogagirl_meditation_Lesson_05_Shame.mp3",
+            "alias": "Audio: lead from a place of love",
+            "duration": "05:05",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/b28c890c-f526-4578-a825-dde865f0cc3b/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nNow matter how challenging the circumstances, you already have all you need to be a force of good in this world.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "73f131f9-abff-46c9-9df3-9382bfca90f7",
+            "alias": "sharing wall lead from a place of love",
+            "question": "How did you feel while doing this meditation? ",
+            "exampleText": "Strange, but I really felt loved by myself. Does not happen too often."
+          }
+        ],
+        "name": "Lead from a place of love",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Ledande från en plats av kärlek",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/lead_from_a_place_of_love_gbeuz7.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "type": "meditation",
+    "id": "b28c890c-f526-4578-a825-dde865f0cc3b",
+    "description": "Anslut med din inre röst och intuition.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "b28c890c-f526-4578-a825-dde865f0cc3b",
+        "root": "section1",
+        "alias": "Meditation: Lead from a place of love",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Ledande från en plats av kärlek",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/lead_from_a_place_of_love_gbeuz7.png",
+            "title": "Ledande från en plats av kärlek",
+            "content": "* 05: 05 minuter *\n\nDenna meditation hjälper dig att luta dig mot ditt autentiska jag och leda från en plats med kärlek.",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "5 minuters meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/shame/yogagirl_meditation_Lesson_05_Shame.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/b28c890c-f526-4578-a825-dde865f0cc3b/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Bra gjort för att slutföra denna meditation.\n\nOavsett hur utmanande omständigheterna har, har du redan allt du behöver för att vara en god kraft i denna värld.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Ledande från en plats av kärlek",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Guia-te a partir de um lugar de amor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/lead_from_a_place_of_love_gbeuz7.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548"
+    ],
+    "type": "meditation",
+    "id": "b28c890c-f526-4578-a825-dde865f0cc3b",
+    "description": "Conecta-te com a tua voz interior e com a tua intuição.",
+    "stations": [
+      {
+        "id": "b28c890c-f526-4578-a825-dde865f0cc3b",
+        "root": "section1",
+        "alias": "Meditation: Lead from a place of love",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Guia-te a partir de um lugar de amor",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/lead_from_a_place_of_love_gbeuz7.png",
+            "title": "Guia-te a partir de um lugar de amor",
+            "content": "*05:12 minutos*\n\nEsta meditação ajuda-te a apoiares-te no teu eu verdadeiro e a guiares-te a partir de um lugar de amor.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Meditação de 05:12 minutos",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523408/29k%20FJN/Meditations/Joanna%20Final/Leading_From_a_Place_of_Love_eynxao.mp3",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/b28c890c-f526-4578-a825-dde865f0cc3b/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por concluíres esta meditação.\n\nAgora, tens tudo para fazer o bem neste mundo independentemente de quão desafiantes sejam as situações.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "13177300-32a3-482c-a081-be5be2d3ef93",
+            "alias": "sharing wall lead from a place of love",
+            "question": "Como te sentiste ao fazer esta meditação?",
+            "exampleText": "Estranha/o, mas senti amor por mim própria/o. O que não acontece frequentemente."
+          }
+        ],
+        "name": "Guia-te a partir de um lugar de amor",
+        "type": "station"
+      }
+    ]
+  }
+}

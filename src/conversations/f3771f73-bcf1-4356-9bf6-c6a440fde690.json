@@ -1,0 +1,298 @@
+{
+  "en": {
+    "id": "f3771f73-bcf1-4356-9bf6-c6a440fde690",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 3",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635846518/erik-mclean-Ei_GhM_7NqI-unsplash_fz6qjg.jpg",
+        "id": "a395fb48-da29-4e61-b80b-2274500ef895",
+        "question": "",
+        "title": "",
+        "alias": "Intro exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "f3276f6d-fd9f-4de1-a152-721c91eec51b",
+            "content": "Let's try it"
+          }
+        ],
+        "longDescription": "Another way to break the anxiety loop is by **doing** **something** for **others**. We know that this might be hard when we're in the middle of a challenging situation.\n\nBut empathy and perspective taking can help us get out of our own head and see things through a different lens."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f3276f6d-fd9f-4de1-a152-721c91eec51b",
+        "content": "Write down your answers.\n\n1. Think about the **needs** **of** **another** **person**. It can be someone close to you or a complete stranger.\n2. Thinking from their perspective, **is there anything you can do for this person** that would help them or that they would appreciate?",
+        "alias": "Exercise",
+        "title": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "f52646bf-842c-4f80-8d37-6b25273c98c0"
+          }
+        ],
+        "topImageUri": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f52646bf-842c-4f80-8d37-6b25273c98c0",
+        "content": "3. Choose one simple action that you can do right now. Plan when and where you'll do it.\n\n*For example: Go shopping for a neighbor, express gratitude to a parent, send a text to your friend, offer your seat to an older person.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Finished",
+            "sectionId": "48c1ad07-e30b-4865-8e4f-0cf685443028"
+          }
+        ],
+        "alias": "Exercise "
+      },
+      {
+        "longDescription": "4. What happened to your anxiety when you were thinking about the needs of this person?\n5. How did you feel after planning to do something for someone else?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "495164bc-20e6-4c2a-aa00-ff134b4c51de"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Exercise - Part 2",
+        "title": "Exercise",
+        "type": "writing",
+        "id": "48c1ad07-e30b-4865-8e4f-0cf685443028"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "495164bc-20e6-4c2a-aa00-ff134b4c51de",
+        "alias": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next step",
+            "sectionId": "beba3061-6bc1-4fda-a9d9-b59937bdfb5b"
+          }
+        ],
+        "content": "Well done, you have now completed **Snap out of the anxiety loop.**\n\nSometimes we engage in behaviours because they feel good in the moment. They give us **a sense of control**. But what we're really doing is feeding the anxiety monster.\n\nThe best thing you can do is to break the anxiety loop. One way of doing this is by **changing your behavior.** Another way is by **doing something for others.**",
+        "title": "Summary"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "beba3061-6bc1-4fda-a9d9-b59937bdfb5b",
+        "alias": "Sharing",
+        "title": "Sharing",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember the questions:\n\n1. What needs did you identify?\n2. What actions help you meet your needs?\n3. What alternative behaviors helps you break your anxiety loop?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ],
+    "root": "a395fb48-da29-4e61-b80b-2274500ef895"
+  },
+  "sv": {
+    "id": "f3771f73-bcf1-4356-9bf6-c6a440fde690",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 3",
+    "root": "3085837d-f3f1-4993-a438-8f330642bef3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635846518/erik-mclean-Ei_GhM_7NqI-unsplash_fz6qjg.jpg",
+        "id": "3085837d-f3f1-4993-a438-8f330642bef3",
+        "alias": "Intro övning",
+        "title": "",
+        "question": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "e0553d70-2068-4148-8c5c-80e2c2b53f96"
+          }
+        ],
+        "content": "Ett annat sätt att bryta ångestspiralen är att **göra någonting för andra**. \n\nDet kan vara extra utmanande när vi är i en svår situation, men forskningen visar att empati och perspektivtagande kan hjälpa oss att avbryta ångestspiralen, må bättre se saker med andra ögon."
+      },
+      {
+        "type": "writing",
+        "id": "e0553d70-2068-4148-8c5c-80e2c2b53f96",
+        "longDescription": "Skriv ned dina svar.\n\n1. Tänk på en **annan människas behov**. Det kan vara någon nära dig eller en främling. \n2. Från den personens perspektiv, **finns det något du kan göra för att hjälpa hen**, eller något hen skulle uppskatta om du gjorde?",
+        "alias": "Övning",
+        "title": "Övning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Klar",
+            "sectionId": "fa3e6084-73b2-4f87-8744-8482cbf071d0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fa3e6084-73b2-4f87-8744-8482cbf071d0",
+        "content": "3. Välj ett enkelt beteende som du kan göra just nu. Planera var och när du ska göra den.\n\n*Exempel: Handla åt en granne, uttrycka tacksamhet till en förälder, skicka ett sms till en vän, erbjuda din plats på bussen till en äldre person.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "9c612dee-48e2-4d39-ad2f-d797afec4cbc"
+          }
+        ],
+        "alias": "Exercise "
+      },
+      {
+        "longDescription": "Skriv ned dina svar.\n\n1. Vad hände med din ångest när du tänkte på den andra personens behov?\n2. Hur kände du dig efter att du planerat att göra något för någon annan?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "4d05ab6e-a5e1-4e12-8248-f7d97e1c53ca"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Övning del 2 ",
+        "title": "Övning",
+        "type": "writing",
+        "id": "9c612dee-48e2-4d39-ad2f-d797afec4cbc"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4d05ab6e-a5e1-4e12-8248-f7d97e1c53ca",
+        "alias": "Sammanfattning",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa steg",
+            "sectionId": "cd0a06dd-cad4-47cc-8942-b5b022a2d5ee"
+          }
+        ],
+        "content": "Du är nu klar med **Ta dig ur ångestspiralen**, bra jobbat!\n\nIbland tar vi till beteenden som får oss att må bra i stunden genom att de ger oss **en känsla av kontroll**. Men vad vi egentligen gör är att mata ångestmonstret.\n\nDet bästa du kan göra är att bryta ångestspiralen. Ett sätt att göra detta är genom att **ändra ditt beteende**. Ett annat sätt är att **göra något för någon annan**.",
+        "title": "Sammanfattning"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cd0a06dd-cad4-47cc-8942-b5b022a2d5ee",
+        "alias": "Delning",
+        "title": "Dela dina erfarenheter",
+        "content": "Du är nu redo för nästa steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Vad är det du behöver just nu? \n2. Vilka beteenden kan hjälpa dig att ta hand om dina behov just nu?\n3. Vilka alternativa beteenden kan hjälpa dig att bryta din ångestspiral?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "f3771f73-bcf1-4356-9bf6-c6a440fde690",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 3",
+    "root": "8db24a00-7178-499b-a49d-0a541db4ca95",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "8db24a00-7178-499b-a49d-0a541db4ca95",
+        "title": "",
+        "longDescription": "Outra forma de quebrar o ciclo da ansiedade é **fazer alguma coisa para os outros**. Sabemos que isso pode ser difícil quando estamos no meio de uma situação desafiadora e que nos causa ansiedade e stress.\n\nMas a empatia e o colocarmo-nos no lugar dos outros podem ajudar-nos a sair da nossa própria cabeça e a ver as coisas numa perspetiva diferente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "bc18498b-b30b-4460-9a5e-03a8b465bb56"
+          }
+        ],
+        "alias": "Exercício - Intro",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635846518/erik-mclean-Ei_GhM_7NqI-unsplash_fz6qjg.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "topImageUri": "",
+        "id": "bc18498b-b30b-4460-9a5e-03a8b465bb56",
+        "alias": "Exercício",
+        "content": "Escreve as tuas respostas.\n\n1. Pensa nas **necessidades de outra pessoa**. Pode ser alguém próximo ou alguém que não conheces.\n2. Pensando na perspetiva dessa pessoa, **há alguma coisa que possas fazer por essa pessoa** que a ajudaria ou que ela apreciaria?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a"
+          }
+        ],
+        "title": "Exercício"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ffd276d5-4b82-41ed-bd7b-a6902acc0f4a",
+        "alias": "Exercício",
+        "content": "3. **Escolhe** uma ação simples que possas fazer agora. Planeia quando e onde a irás realizar.\n\n*Por exemplo: vai às compras para um/a vizinho/a com dificuldades, expressa gratidão a um dos teus pais, envia uma mensagem de texto a um/a amigo/a, oferece o teu lugar a uma pessoa mais velha.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "c6256eb8-6adb-46bb-bca1-1999ec766587"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "c6256eb8-6adb-46bb-bca1-1999ec766587",
+        "alias": "Exercício - Parte 2",
+        "title": "Exercício - Parte 2",
+        "longDescription": "4. O que aconteceu à tua ansiedade quando estavas a pensar nas necessidades dessa pessoa?\n5. Como te sentiste depois de planear fazer alguma coisa para outra pessoa?",
+        "time": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "92d045dc-e267-47fa-9d84-9677984446ac"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "92d045dc-e267-47fa-9d84-9677984446ac",
+        "alias": "Sumário",
+        "title": "Sumário",
+        "content": "Parabéns por completares **Sair do ciclo da ansiedade**.\n\nPor vezes, assumimos comportamentos que nos fazem sentir bem no momento. Dão-nos uma sensação de **controlo**. Mas o que estamos realmente a fazer é alimentar o monstro da ansiedade.\n\nA melhor coisa que podes fazer é quebrar o ciclo de ansiedade. Uma forma de o fazer é **mudando** o teu **comportamento**. Outra é **fazer alguma coisa pelos outros.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4007a9c5-a0a1-4337-ab67-37ec3dd6e959",
+        "alias": "Partilha",
+        "content": "Agora já estás pronta/o para a sessão de partilha com o teu grupo.\n\n#### Recorda-te das questões:\n\n1. Que necessidades identificaste?\n2. Que ações te ajudaram a responder às tuas necessidades?\n3. Que comportamentos alternativos te ajudaram a quebrar o ciclo da ansiedade?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "en": {
+    "name": "{{name}}",
+    "name_pronoun": "You"
+  },
+  "sv": {
+    "name": "{{name}}",
+    "name_pronoun": "Du"
+  },
+  "pt": {
+    "name": "{{name}}",
+    "name_pronoun": "Tu"
+  }
+}

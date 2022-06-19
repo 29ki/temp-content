@@ -1,0 +1,771 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Choose how you act",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/choose_how_you_act_szdto4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "21c84b17-59f1-4a79-95e5-3c2ef20719db",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisechoosehowyouact",
+        "alias": "Exercise choose-how-you-act",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/choose_how_you_act_szdto4.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "A lot of our behaviours happen automatically. Sometimes — without having had the time to think about what we really want to do — we've already done something.\\\n\\\nCreating distance to our thoughts can help us gain more control over our actions. It reduces the risk of us accidentally saying or doing something we later regret."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Got it"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Learn more about:\n\n* Creating distance to your thoughts\n* Becoming less impulsive\n* Choosing how you want to act"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "You can think of emotions as sources of information. Our emotions are connected to different behaviours. \n\nSadness makes us want to withdraw. Happiness makes us want to share our joy. Being afraid prepares us to either fight or flee."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Use this exercise when you notice that you're having a strong reaction and are about to act impulsively. \n\nWe'll be using the metaphor of a traffic light to help guide our behaviour in challenging situations."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Start"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510912/Illustrations_Exercises/redlight_wx4rrl.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "##### **Red light**\n\nThe first step is red light. Here we stop and become aware of what's going on right now.\n\nCheck in with your body and mind. How does your breathing feel? Are you tense? Just notice what is happening on the inside."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Try it"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4c312818-4892-4352-a80f-d94559d64b2b",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Imagine that someone is criticizing you. Maybe a friend or a family member. See if you can really tune in to the thoughts and feelings that come up.\n\n* Stop and notice what's going on inside of you. How does your body feel? Your breathing?\n* Write down your answer if you want to. Otherwise, it's enough to just think it through."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510985/Illustrations_Exercises/yellowlight_z2wtnd.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "##### Yellow light\n\nThe second step is yellow light. This is where we start to put into words what we're experiencing. \n\n* How do you feel? \n* What thoughts are surfacing? \n* What impulses do you have?"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Try it"
+          },
+          {
+            "type": "defaultSection",
+            "id": "fe8ceba6-6c3e-43a7-9ffe-e627754aa3a6",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Go back to the situation you imagined earlier, where someone was criticizing you or something you did.\n\n* How does it feel? \n* What thoughts come up? \n* What impulses do you have?\n\nWrite down your answer if you want to."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628511054/Illustrations_Exercises/greenlight_ckhl2m.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "##### **Green light**\n\nIt's time to get going — but not just anywhere. Think about how you want to act and what consequences your behavior will have — short and long term. \n\nThen, after your thoughts and emotions have had time to settle, act in the way you actually want to."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Try it"
+          },
+          {
+            "type": "defaultSection",
+            "id": "0a547300-a1f9-4100-80e0-a61cfe4bfaa0",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Go back to the situation. Choose how you want to act when someone criticizes you.\n\n* What is the best thing to do? \n* How would you like to behave? \n* Is it different from the impulses you had before? \n* Maybe you could try a new behavior?\n\nWrite down your answer if you want to."
+                  }
+                ]
+              }
+            ],
+            "alias": "8",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "ac4076e0-4750-4501-9c1a-aac7c683ac5d",
+            "question": "What did you learn from this exercise?",
+            "exampleText": "I learned that I should take a moment to think before I act impulsively.",
+            "alias": "Sharing wall question",
+            "nextSection": "8"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "Summary",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Good job, today you've practiced choosing your behaviors.\n\n* At red light we stop. \n* At yellow we get ready by checking what's going on inside and outside of us. \n* And at green we take off in a direction that is important to us."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Choose how you act",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Välj ditt beteende",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/choose_how_you_act_szdto4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "21c84b17-59f1-4a79-95e5-3c2ef20719db",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisechoosehowyouact",
+        "alias": "Exercise choose-how-you-act",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/choose_how_you_act_szdto4.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Många av våra beteenden sker per automatik. bland — utan att vi ens hunnit tänka på vad vi egentligen vill göra — har vi redan gjort något. \n\nAtt skapa avstånd till våra tankar kan hjälpa oss få kontroll över hur vi beter oss. Det minskar risken för att vi råkar säga eller göra någonting vi senare ångrar."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Lär dig mer om:\n\n* Få distans till dina tankar\n* Bli mindre impulsiv\n* Välja hur du vill agera"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Det går att se känslor som informationskällor. Våra känslor hänger nämligen ihop med olika beteenden. \n\nSorg får oss ofta att vilja dra oss undan. Glädje får oss att vilja dela med oss av känslan. Rädsla förbereder oss för att fly eller slåss."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Du kan använda den här övningen i situationer där du märker att du reagerar starkt och är på väg att agera impulsivt.\n\nVi kommer använda ett trafikljus som metafor för att hjälpa oss styra vårt beteende i utmanande situationer."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510912/Illustrations_Exercises/redlight_wx4rrl.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Rött ljus**\n\nDet första steget är rött ljus. Här stannar vi upp, och uppmärksammar vad som pågår just nu. \n\nFokusera på kroppen och tankarna. Hur känns andningen? Spänner du dig? Bara lägg märke till vad som händer inom dig."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Testa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6dda0f70-1096-44b6-949c-a481f07c4d15",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Föreställ dig att någon kritiserar dig. Kanske en vän, en familjemedlem, eller någon annan i din omgivning. Se om du verkligen kan gå in i tankarna och känslorna som dyker upp.\n\n* Stanna bara upp och lägg märke till vad som pågår inom dig. Hur känns kroppen? Andningen? \n* Skriv ned ditt svar om du vill, annars räcker det att tänka igenom svaren."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510985/Illustrations_Exercises/yellowlight_z2wtnd.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Gult ljus**\n\nDet andra steget är gult ljus. Här börjar vi sätta ord på vad det är vi upplever. \n\n* Vad känner du? \n* Vilka tankar dyker upp? \n* Vilka impulser har du?"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Testa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3986759d-c714-49d6-a522-f287827d813c",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Gå tillbaka till situationen du precis föreställde dig, där någon kritiserar dig eller någonting du har gjort.\n\n* Hur känns det?\n* Vilka tankar dyker upp?\n* Vilka impulser har du?\n\nSkriv ned ditt svar om du vill."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628511054/Illustrations_Exercises/greenlight_ckhl2m.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Grönt ljus**\n\nDet är dags att tuta och köra — men inte var som helst. Tänk igenom hur du vill agera, och vad ditt beteende kommer få för konsekvenser både på kort och lite längre sikt. \n\nEter att tankarna och känslorna har fått möjlighet att stilla sig något, agera på det sätt du faktiskt vill."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Testa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "27ae4609-1806-46ff-b8fd-cd0f25a9e625",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Gå tillbaka till situationen. Välj nu hur du vill reagera när någon kritiserar dig.\n\n* Vad är bäst att göra?\n* Hur skulle du vilja bete dig?\n* Skiljer det sig något från impulsen du hade tidigare? \n* Kan du kanske testa på ett nytt beteende?\n\nSkriv ned ditt svar om du vill."
+                  }
+                ]
+              }
+            ],
+            "alias": "8",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "22e25059-879a-485d-aeee-278c3b5b980a",
+            "alias": "Sharing wall question",
+            "question": "Vad har du lärt dig från denna övningen?",
+            "exampleText": "Jag har lärt mig att ta en stund och tänka innan jag agerar baserad på mina känslor. ",
+            "nextSection": "8"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "Sammanfattning",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Bra jobbat, idag har du övat på att välja ditt beteende. \n\n* Vid rött ljus stannar vi upp.\n* Vid gult gör vi oss redo genom att stämma av vad som pågår inom och utanför oss.\n* Vid grönt kör vi vidare i den riktning som är viktig för oss."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Välj ditt beteende",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Escolhe como ages",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/choose_how_you_act_szdto4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "21c84b17-59f1-4a79-95e5-3c2ef20719db",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercisechoosehowyouact",
+        "alias": "Exercise choose-how-you-act",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781083/New_images/exercises%20png/1024x1024/choose_how_you_act_szdto4.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Podes pensar nas emoções como **fontes de informação**. As nossas emoções estão associadas a diferentes comportamentos.\n\nA **tristeza** faz-nos querer **afastar e isolar**. A **felicidade** faz-nos querer **partilhar** a nossa alegria. O **medo** prepara-nos para **lutar** ou fugir."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Muitos dos nossos comportamentos são **automáticos**. Tudo acontece muito rápido. Muitas vezes - sem termos tido tempo de **pensar** sobre o que realmente queremos fazer - **já** o fizemos.\n\nUsa este exercício quando perceberes que estás a ter uma **reação** forte e estás prestes a agir **impulsivamente**."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "Badge",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1624531362/Badges/heart_qbht2f.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Vais aprender a:\n\n* Criar distância dos teus pensamentos\n* Tornares-te menos impulsivo\n* Escolher como queres agir"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Criar distância dos nossos pensamentos pode ajudar-nos a obter mais **controlo** sobre as nossas ações. Isso reduz o risco de **acidentalmente** dizermos ou fazermos alguma coisa de que nos arrependeremos mais tarde.\n\nNeste exercício, vamos utilizar a metáfora de um semáforo para orientar o nosso comportamento em situações **desafiadoras**. Para que possamos fazer o que é melhor para nós - a curto e a **longo prazo**."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510912/Illustrations_Exercises/redlight_wx4rrl.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### **Luz vermelha**\n\nImagina um semáforo com as cores vermelho, amarelo e verde. O primeiro passo é a *luz vermelha*. Aqui paramos e ficamos conscientes do que está a acontecer agora.\n\nSente e alinha-te com o teu corpo e a tua mente. Como está a tua respiração? Estás tensa/o? Observa apenas o que está a acontecer no teu interior."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Experimenta"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4c312818-4892-4352-a80f-d94559d64b2b",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Imagina que alguém te está a **criticar**. Talvez uma amiga, um amigo ou um membro da tua família. Vê se consegues **sintonizar-te** com os pensamentos e sentimentos que estão a surgir.\n\n**Para** e **observa** o que está a acontecer **dentro** de ti. Como sentes o teu corpo? A tua respiração?\n\nSe quiseres podes escrever a tua resposta. Caso contrário, basta pensares bem e concentrares-te no que se está a passar."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510985/Illustrations_Exercises/yellowlight_z2wtnd.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Luz amarela\n\nO segundo passo é a **luz amarela**. É aqui que começamos a **expessar por palavras** o que estamos a experienciar.\n\n* Como te estás a **sentir**?\n* Que **pensamentos** estão a surgir?\n* Que **impulsos** estás a ter?"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Experimenta"
+          },
+          {
+            "type": "defaultSection",
+            "id": "fe8ceba6-6c3e-43a7-9ffe-e627754aa3a6",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Regressa à **situação** que imaginaste anteriormente, onde alguém te estava a **criticar**.\n\n* Que **pensamentos** estão a surgir?\n* Como te estás a **sentir**?\n* Que **impulsos** estás a ter?\n\nSe quiseres escreve a tua resposta."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "Image",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628511054/Illustrations_Exercises/greenlight_ckhl2m.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### **Luz verde**\n\nÉ hora de **avançar**, mas não **sem direção**. Pensa em **como** queres agir e quais as **consequências** do teu comportamento a **curto** e a **longo** prazo.\n\nDepois de dares tempo aos teus pensamentos e emoções para se acalmarem, **age** da maneira que realmente **desejas**."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Experimenta"
+          },
+          {
+            "type": "defaultSection",
+            "id": "0a547300-a1f9-4100-80e0-a61cfe4bfaa0",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Volta para a situação. **Escolhe** como desejas **agir** quando alguém te critica.\n\n* Qual a **melhor** coisa a fazer?\n* Como **gostarias** de te comportar?\n* É **diferente** dos impulsos que tiveste antes?\n* Talvez possas tentar um **novo** comportamento?\n\nSe quiseres escreve a tua resposta."
+                  }
+                ]
+              }
+            ],
+            "alias": "8",
+            "buttonText": "Terminar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "Badge",
+                "content": {
+                  "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1624531362/Badges/String_xmz3rn.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nHoje aprendeste a **escolher os teus comportamentos**.\n\n* Na luz **vermelha**, **paramos**.\n* Na **amarela**, vamos preparar-nos verificando **o que está a acontecer** dentro e fora de nós.\n* Na **verde** partimos na direção que é **importante** para nós."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "28d507c1-ed31-4582-b8f5-aa9bf755ea64",
+            "alias": "Sharing wall question",
+            "question": "O que aprendeste com este exercício?",
+            "exampleText": "Aprendi que é importante parar para pensar antes de agir de forma impulsiva."
+          }
+        ],
+        "name": "Escolhe como ages",
+        "type": "station"
+      }
+    ]
+  }
+}

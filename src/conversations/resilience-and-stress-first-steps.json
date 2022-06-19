@@ -2,7 +2,6 @@
   "en": {
     "id": "resilience-and-stress-first-steps",
     "alias": "resilience-and-stress-first-steps",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
@@ -11,25 +10,39 @@
         "type": "editorialWithImage",
         "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/first_steps.jpeg",
         "title": "First steps",
-        "content": "Today is the first step on your path to becoming more resilient. In this lesson, you’ll discover when stress is helpful and when it’s harmful. You’ll also learn about the steps you can take right now to make your life less stressful.",
+        "content": "Many people feel stress in their everyday life and struggle to manage everything that \"must\" or \"should\" get done. \n\nAlthough we can learn to manage stres, it is a **natural** **reaction** to a perceived threat, so the goal is not to be **completely** **free** from it.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
-            "sectionId": "section2"
+            "content": "More",
+            "sectionId": "088a7441-66a9-4b88-a51f-d0f8674569e6"
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "088a7441-66a9-4b88-a51f-d0f8674569e6",
+        "content": "Throughout this course, you'll become **equipped** **with life-long tools** that will help you better deal with stressful situations. \n\nWe'll start by gaining a greater understanding of when **stress** is **helpful** and when it can be **harmful**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "section2"
+          }
+        ],
+        "alias": "Intro 2"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Today’s lesson has four parts:\n\n* How stress works\n* Common signs of stress\n* My recharging activities\n* Sharing\n\n### You’ll need:\n\n* 20 min of undisturbed time\n* Paper and pen",
+        "content": "### Learn more about:\n\n* How stress works\n* Focusing on the present moment\n* Recovering from stress\n\n### You’ll need:\n\n* 20 minutes\n* Paper and pen",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "I'm ready",
             "sectionId": "section3"
           }
         ]
@@ -39,11 +52,24 @@
         "alias": "section3",
         "type": "editorialWithImage",
         "title": "You’re not alone",
-        "content": "Sometimes life feels like a one long to do-list. Like there’s no time for the things that really matter - being with family and friends, committing to a deep relationship, enjoying the moment or just getting some well-deserved rest. \n\nAnd sometimes we just wish everything would pause. Whatever stressful situation you find yourself in, know that it is perfectly normal to be deeply affected by it.",
+        "content": "Sometimes life feels like a long to do-list. \n\nLike there’s **no time** for the things that really **matter** — being with family and friends, committing to a deep relationship, enjoying the moment, or just getting some well-deserved rest.",
         "buttons": [
           {
             "component": "Button",
             "content": "Continue",
+            "sectionId": "ef92c546-3d00-4f02-84a1-ff0f4d50a10d"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ef92c546-3d00-4f02-84a1-ff0f4d50a10d",
+        "content": "Whatever stressful situation you find yourself in, know that it is perfectly **normal** to be deeply **affected** by it.",
+        "alias": "section 4+",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next",
             "sectionId": "section4"
           }
         ]
@@ -53,11 +79,40 @@
         "alias": "section4",
         "type": "editorialWithImage",
         "title": "How stress works",
-        "content": "Stress is our body’s way to tackle a challenge. Racing heart. Tunnel vision. Sweaty palms. It’s an ancient response that mobilizes both our body and mind. \n\nWithout this stress, we’d never pay our bills. For that reason, what we call short-term stress is actually our friend. It helps us focus and get things done. \n\nWithout recovery, this stress can become long-term and chronic which leads to physical and psychological problems.",
+        "content": "Stress is our body's way of tackling a challenge. Racing heart. Tunnel vision. Sweaty palms. These are our bodies **ancient, instinctual** **reactions** to potential **dangers** and threats. We get ready to fight or flee — to **survive**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Tell me more",
+            "sectionId": "a5aa1013-0a45-438a-bddd-2630901934a0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a5aa1013-0a45-438a-bddd-2630901934a0",
+        "content": "**Short-term stress** is actually **helpful**. \n\nIt helps us **focus** and get things done. This is also called **positive stress.** Without it, we wouldn't be on time, complete work tasks or cope in difficult situations.",
+        "alias": "Short-term stress",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Go on",
+            "sectionId": "f82dbd9e-933e-43f4-8d80-2be352a1d1f6"
+          }
+        ],
+        "title": "Short-term stress"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f82dbd9e-933e-43f4-8d80-2be352a1d1f6",
+        "content": "It's when we experience **long-term** **stress** and the body **doesn't get a chance to recover** that we can begin to develop physical and mental **problems**.\n\nAnd that's the kind of stress we'll focus on in this lesson.",
+        "title": "Long-term stress",
+        "alias": "Long-term stress",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Tell me more",
             "sectionId": "section5"
           }
         ]
@@ -67,109 +122,57 @@
         "alias": "section5",
         "type": "editorialWithImage",
         "title": "Common signs of stress",
-        "content": "So, how do we know if we’re in too much stress? Here are some examples of how to notice the harmful effects of stress:\n\n* Body: Poor sleep, headaches, stomach aches or tense muscles\n* Mood: Anxiety, irritation, sadness, feelings of shame\n* Mind: Difficulty prioritizing, concentrating or remembering\n* Behavior: Always in a hurry, eating too fast, constantly striving for efficiency\n\nIf you recognize a lot of these symptoms, it’s your body’s way of warning you. The more of these signals you get, the more reasons to make a change.",
+        "content": "So, how do we know if we’re **too stressed**? Here are some examples of harmful consequences of stress:\n\n* **Body**: Poor sleep, headaches, stomach aches or tense muscles.\n* **Mood**: Anxiety, irritation, sadness, feelings of shame.\n* **Thoughts**: Difficulty prioritizing, concentrating or remembering.\n* **Behavior**: Always in a hurry, eating too fast, constantly striving for efficiency.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
+            "content": "Next",
+            "conversationId": "",
+            "sectionId": "8cf498f6-d2ce-4fb5-848a-33897671e35d"
           }
         ]
       },
       {
-        "id": "section6",
-        "alias": "section6",
+        "type": "sharingExercise",
+        "id": "8cf498f6-d2ce-4fb5-848a-33897671e35d",
+        "nextSection": "6d6c08f1-49d5-47da-91e1-1d3458c29784",
+        "question": "Have you experienced any symptoms of stress? ",
+        "exampleText": "Yes, these past weeks I've suffered from headache and poor sleep. I've noticed similar symptoms during stressful periods in the past too.",
+        "alias": "Sharing question"
+      },
+      {
         "type": "editorialWithImage",
-        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/activities.jpeg",
-        "title": "Introduction to exercise",
-        "content": "In short: stress is not the real problem, the lack of recovery is. \n\nThe tricky part is that when things start piling up, the activities that fill our cup are often the first ones to go. A good way to get a better balance in life is by actively making room for what you love.",
+        "id": "6d6c08f1-49d5-47da-91e1-1d3458c29784",
+        "alias": "section 6",
+        "content": "These symptoms are your body's way of telling you that you need **recovery** — something that **replenishes** the **reserves**.\n\nThe more of these signals you get, the more reasons there are to make a **change**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
+            "variant": "default",
+            "content": "Got it",
+            "sectionId": "270e1490-8395-466b-87cb-95b1d830c089"
           }
         ]
       },
       {
-        "id": "section7",
-        "alias": "section7",
-        "type": "audio",
-        "duration": "5:53",
-        "title": "Three things",
-        "description": "This short meditation will help you feel more mindful and present and prepare you for the next step of the exercise.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/three-things.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Exercise - Part 1",
-        "time": "5 min",
-        "longDescription": "Think about the activities you love which help you relax, give you energy and make you happy.\n\nIt could be laying in the grass looking at clouds, taking a coffee with a friend or going for a run. Activities that give you comfort and strength. It could also be nurturing a special relationship to a friend, family member or other person. Write 3-10 of these down, you’ll be needing them in the next step.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "writing",
-        "title": "Exercise - Part 2",
-        "time": "5-10 min",
-        "longDescription": "1. Now think of a time in your life that was especially stressful. What activities or relationships did you give up in that situation?\n2. What activities or relationships helped you keep your head above water or filled your cup during that stressful time?\n3. What did you do to make sure this activity you love happened? What did you do to nurture a valued relationship?\n4. Thinking about that time in your life that was especially stressful, did you learn anything that could be helpful for you today?\n\nWrite down your answers. This is what you’ll be offered to share with others.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
         "type": "editorialWithImage",
-        "title": "Summary",
-        "content": "You've now completed the **First Steps**.\n\nYou've learnt why stress exists and how it manifests itself. While we can't eliminate stress from our lives entirely, each of us has the ability to recover from stressful events by engaging in the activities that fill us up.",
+        "id": "270e1490-8395-466b-87cb-95b1d830c089",
+        "content": "The tricky thing is that when we have too many tasks that we \"have to do,\" we tend to **miss out** on the things that would **really** make us feel better.",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section11"
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-first-steps-2",
+            "content": "Go on"
           }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "Well done for completing the **First steps** lesson - you’ve just done a wonderful thing for yourself.\n\nYou are now ready for the next important step - sharing with your group.",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
-          }
-        ]
+        ],
+        "alias": "section 7"
       }
     ]
   },
   "sv": {
     "id": "resilience-and-stress-first-steps",
     "alias": "resilience-and-stress-first-steps",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
@@ -178,25 +181,39 @@
         "type": "editorialWithImage",
         "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/first_steps.jpeg",
         "title": "Stress – så funkar det",
-        "content": "I den här lektionen kommer du att lära dig mer om när stress är hjälpsamt och när det är skadligt. Du kommer också att gå igenom vilka steg du kan ta redan idag för att göra ditt liv mindre stressigt.",
+        "content": "Det är många som känner stress i sin vardag och har svårt att möta alla krav. Allt som \"måste\" och \"borde\" göras.\n\nEftersom stress är en **naturlig** **reaktion** på ett upplevt hot, är målet inte att bli **helt** **fri** från stress.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section2"
+            "content": "Berätta mer",
+            "sectionId": "7394663c-f3e0-448b-ba43-243aac6d7c2d"
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7394663c-f3e0-448b-ba43-243aac6d7c2d",
+        "content": "Under den här kursens gång kommer du bli **utrustad** med **verktyg** för att bättre kunna hantera stressiga situationer. Verktyg du kan bära med dig under resten av ditt liv.\n\nVi kommer börja med att förstå när **stress** är **hjälpsamt** och när det kan vara **skadligt**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "section2"
+          }
+        ],
+        "alias": "Intro 2"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Dagens lektion består av fyra delar:\n\n* Hur stress fungerar\n* Vanliga tecken på stress\n* Återhämtning\n* Gruppdelning\n\n### Du behöver:\n\n* 20 minuter\n* Papper och penna",
+        "content": "### Lär dig mer om:\n\n* Hur stress fungerar\n* Fokus på här och nu\n* Återhämtning\n\n### Du behöver:\n\n* 20 minuter\n* Papper och penna",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Jag är redo",
             "sectionId": "section3"
           }
         ]
@@ -206,11 +223,24 @@
         "alias": "section3",
         "type": "editorialWithImage",
         "title": "Du är inte ensam",
-        "content": "Ibland känns livet som en enda lång att göra-lista. Som att det inte finns tid för saker som verkligen betyder något – att vara med familj och vänner, fördjupa sig i en viktig relation, njuta av ögonblicket eller bara få lite välförtjänt vila.\n\nOch ibland önskar vi bara att allt skulle stanna upp. Oavsett vilken stressig situation du befinner dig i, så kom ihåg att det är helt normalt att bli djupt påverkad av den.",
+        "content": "Ibland känns livet som en enda lång att göra-lista. \n\nSom att det **inte finns tid** för saker som verkligen **betyder** något — som att vara med familj och vänner, fördjupa en viktig relation, njuta av ögonblicket eller bara få lite välförtjänt vila.",
         "buttons": [
           {
             "component": "Button",
             "content": "Fortsätt",
+            "sectionId": "cd65fc84-db4d-4383-876c-9eea237ba719"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cd65fc84-db4d-4383-876c-9eea237ba719",
+        "content": "Och ibland önskar vi bara att allt skulle **stanna upp**. \n\nOavsett vilken stressig situation du befinner dig i, så kom ihåg att det är helt **normalt** att bli djupt **påverkad** av den.",
+        "alias": "section 4+",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa",
             "sectionId": "section4"
           }
         ]
@@ -220,11 +250,40 @@
         "alias": "section4",
         "type": "editorialWithImage",
         "title": "Hur stress fungerar",
-        "content": "Stress är kroppens sätt att hantera en utmaning. Bultande hjärta. Tunnelseende. Svettiga handflator. Det är en uråldrig reaktion som aktiverar kroppen och medvetandet. \n\nUtan stress skulle vi aldrig betala våra räkningar eller klara av svåra situationer. Därför kan man säga att kortvarig stress faktiskt är vår vän. Den hjälper oss att fokusera och få saker gjorda.\n\nMen om stressen är långvarig och vi inte får tillfälle till återhämtning, kan stress leda till fysiska och psykiska problem.",
+        "content": "Stress är kroppens sätt att hantera en **påfrestning**. Bultande hjärta. Tunnelseende. Svettiga handflator. \n\nDet är en **uråldrig** **reaktion** där vår kropp reagerar på en potentiell **fara** eller ett hot. Vi gör oss redo för att slåss eller fly — för att **överleva**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Berätta mer",
+            "sectionId": "1d44b320-a01a-43c6-a361-b67b350dc537"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1d44b320-a01a-43c6-a361-b67b350dc537",
+        "content": "**Kortvarig stress** är faktiskt **hjälpsam**. \n\nDen hjälper oss **fokusera** och få saker gjorda — och kallas även för **positiv stress.** Utan den skulle vi ha svårt att komma i tid, slutföra arbetsuppgifter och klara av svåra situationer.",
+        "alias": "section 5+",
         "buttons": [
           {
             "component": "Button",
             "content": "Fortsätt",
+            "sectionId": "5a80d2cb-1a25-4786-b6fa-085f4771f8af"
+          }
+        ],
+        "title": "Kortvarig stress"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5a80d2cb-1a25-4786-b6fa-085f4771f8af",
+        "content": "Det är när stressen blir **långvarig** och kroppen **inte hinner återhämta** sig som vi kan få fysiska och psykiska **problem**. \n\nOch det är den typen av stress vi kommer att fokusera på i den här lektionen.",
+        "title": "Långvarig stress",
+        "alias": "Långvarig stress",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
             "sectionId": "section5"
           }
         ]
@@ -234,115 +293,142 @@
         "alias": "section5",
         "type": "editorialWithImage",
         "title": "Vanliga tecken på stress",
-        "content": "Så, hur vet vi om vi är för stressade? Här är några exempel på hur man märker skadliga konsekvenser av stress:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg\n* **Saker vi gör:** Alltid bråttom, äter för fort, försöker effektivisera\n\nOm du känner igen dessa eller liknande symtom är det din kropps sätt att varna dig. Ju fler signaler av den här typen du har, desto fler skäl att göra en förändring.",
+        "content": "Så, hur vet vi om vi är **för** **stressade**? Här är några exempel på skadliga konsekvenser av stress:\n\n* **Kroppen:** Dålig sömn, huvudvärk, magont eller spända muskler.\n* **Humöret:** Ångest, irritation, sorg, ilska, känslor av skam.\n* **Tankarna:** Svårigheter att prioritera, koncentrera sig eller komma ihåg.\n* **Saker vi gör:** Alltid bråttom, äter för fort, försöker effektivisera.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section6"
+            "content": "Nästa",
+            "sectionId": "f429bbb2-8620-44e2-b7fe-4cd58087108f"
           }
         ]
       },
       {
-        "id": "section6",
-        "alias": "section6",
+        "type": "sharingExercise",
+        "id": "f429bbb2-8620-44e2-b7fe-4cd58087108f",
+        "nextSection": "d0b06308-cef3-4bae-b86f-be1949fa139e",
+        "question": "Har du upplevt några symtom på stress?",
+        "exampleText": "Ja, de senaste veckorna har jag lidit av huvudvärk och sovit dåligt. Jag har även haft liknande symtom under tidigare stressiga perioder.",
+        "alias": "Sharing question"
+      },
+      {
         "type": "editorialWithImage",
-        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/activities.jpeg",
-        "title": "Gör plats för det du älskar",
-        "content": "Sammanfattning: stress är inte det verkliga problemet, brist på återhämtning är problemet.\n\nMen det knepiga i sammanhanget är att när saker och ting börjar staplas på varandra så brukar de aktiviteter som vi mår bra av vara de första som försvinner. Ett bra sätt att få en bättre balans i livet är att aktivt skapa plats för det du älskar.",
+        "id": "d0b06308-cef3-4bae-b86f-be1949fa139e",
+        "alias": "section 6",
+        "content": "Symtomen är din kropps sätt att säga att du behöver **återhämtning** — något som **fyller** på **reserverna** igen.\n\nJu fler signaler av den här typen du har, desto fler skäl att göra en **förändring**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section7"
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "e3147c10-e0de-4e54-85b8-f41a876b3152"
           }
         ]
       },
       {
-        "id": "section7",
-        "alias": "section7",
-        "type": "audio",
-        "duration": "5:53",
-        "title": "Tre saker",
-        "description": "Den här korta meditationen hjälper dig att bli mer närvarande, uppmärksam och förbereder dig för nästa steg i övningen.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Tre-saker.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Övning – Vad tycker du om?",
-        "time": "5 minuter",
-        "longDescription": "Tänk på aktiviteter du älskar, som hjälper dig att slappna av, som ger dig energi och gör dig lycklig.\n\nDet kan vara saker som att ligga i gräset och titta på moln, ta en kaffe med en vän, eller springa. Aktiviteter som ger dig tillfredsställelse och kraft. Det kan också handla om att vårda en viktig relation med en vän, familjemedlem eller annan person. Skriv ner mellan tre och tio sådana aktiviteter.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Jag har skrivit klart",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "video",
-        "title": "En stressig period",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/sharing_1.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/sharing_1.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "writing",
-        "title": "Övning – Del 2",
-        "time": "5-10 minuter",
-        "longDescription": "Tänk nu på en period i ditt liv som var särskilt stressig. Beskriv det i några meningar. \n\n1. Vilka aktiviteter eller relationer slutade du prioritera under den perioden? \n2. Vilka aktiviteter eller relationer hjälpte dig att hålla näsan ovanför vattenytan, eller gav dig påfyllning under den perioden? \n3. Vad gjorde du under den perioden för att se till att den här aktiviteten du älskar blev av? Vad gjorde du för att ta hand om en viktig relation? \n4. När du tänker tillbaka på den här stressiga perioden i ditt liv, lärde du dig något som kan vara till hjälp för dig idag? \n\nSkriv ner dina svar. Du behöver dem igen när det är dags för delning tillsammans med din grupp.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
         "type": "editorialWithImage",
-        "title": "Sammanfattning",
-        "content": "Du är nu klar med **Stress – så funkar det**.\n\nDu har lärt dig om varför vi blir stressade och hur du märker när det blir för mycket. Även om vi inte kan ta bort stress från våra liv så har var och en av oss förmågan att återhämta sig från stressiga händelser genom att göra saker som ger oss energin tillbaka.",
+        "id": "e3147c10-e0de-4e54-85b8-f41a876b3152",
+        "content": "Det knepiga är att när uppgifterna vi ”måste göra\" blir för många, brukar de saker som vi **egentligen** skulle må bra av att göra **inte bli av.**",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-first-steps-2",
+            "content": "Fortsätt"
+          }
+        ],
+        "alias": "section 7"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-first-steps",
+    "alias": "resilience-and-stress-first-steps",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/first_steps.jpeg",
+        "title": "Os primeiros passos",
+        "content": "Hoje vais dar o primeiro passo no teu caminho para te tornares mais resiliente. Nesta lição, vais descobrir quando o stress é útil e quando é prejudicial. Também vais aprender quais os passos que podes dar, aqui e agora, para tornar a tua vida menos stressante.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section12"
+            "content": "Continuar",
+            "sectionId": "a316795f-ee7c-4cea-8e35-9a140e47e9b0"
           }
         ]
       },
       {
-        "id": "section12",
-        "alias": "section12",
         "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Bra gjort! Du har nu gjort klart Stress – så funkar det. Du har precis gjort något fint för dig själv.\n\nDu är nu redo för nästa viktiga steg – att dela med din grupp. Kom ihåg frågorna till gruppdelningen: \n\n* Beskriv en en stressig period.\n\n1. Vilka aktiviteter eller relationer slutade du prioritera?\n2. Vilka aktiviteter eller relationer hjälpte dig? \n3. Vad gjorde du för att se till att den aktivitet du älskar blev av? Vad gjorde du för att ta hand om en relation? \n4. Lärde du dig något som kan vara till hjälp idag?",
+        "id": "a316795f-ee7c-4cea-8e35-9a140e47e9b0",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
         "buttons": [
           {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "### A lição de hoje tem quatro partes:\n\n* Como funciona o stress\n* Os sinais comuns do stress\n* Como recarregar as baterias\n* Partilhar\n\n### Vais precisar de:\n\n* 20 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Não estás só",
+        "content": "Por vezes, a vida parece uma longa lista de tarefas. Como se não houvesse tempo para as coisas que realmente importam - estar com a família e os amigos, criar relações profundas, gozar o momento ou apenas ter o descanso merecido.\n\nE, às vezes, apenas desejamos que a vida entre em modo de pausa. Qualquer que seja a situação stressante em que te encontres, é perfeitamente normal seres muito afetada/o por ela.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Como funciona o stress",
+        "content": "O stress é a forma como o nosso corpo enfrenta um desafio. O coração acelerado. A visão em túnel. As mãos suadas. É uma resposta ancestral que mobiliza tanto o nosso corpo como a nossa mente.\n\nSem esse stress, nunca pagaríamos as nossas contas. Por esse motivo, o chamado stress agudo é na realidade um amigo. Ajuda-nos a focar e a fazer as coisas.\n\nMas, se nunca recuperarmos, esse stress pode tornar-se crónico e prolongado, levando a problemas físicos e psicológicos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Os sinais comuns do stress",
+        "content": "Então como sabemos se estamos muito stressados? Aqui estão alguns exemplos para podermos perceber os efeitos nocivos do stress:\n\n* Corpo: perturbações do sono, dores de cabeça, dores de estômago ou músculos tensos\n* Humor: ansiedade, irritação, tristeza, sentimentos de vergonha\n* Mente: dificuldade em priorizar, concentrar-se ou recordar-se\n* Comportamento: andar sempre com pressa, comer muito rápido, tentar ser eficiente constantemente\n\nSe reconheceres muitos destes sintomas, é o teu corpo a enviar-te um alerta. Quanto mais destes sinais receberes, mais motivos tens para fazer uma mudança.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Próximo",
+            "conversationId": "resilience-and-stress-first-steps-2",
+            "variant": "primary"
           }
         ]
       }

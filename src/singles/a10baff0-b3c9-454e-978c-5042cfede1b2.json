@@ -1,0 +1,190 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "The observing self",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794027/New_images/meditations%20png/1024x1024/the_observing_self_cxbr3y.png"
+    },
+    "duration": {
+      "count": 12,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "a10baff0-b3c9-454e-978c-5042cfede1b2",
+    "description": "",
+    "stations": [
+      {
+        "id": "a10baff0-b3c9-454e-978c-5042cfede1b2",
+        "root": "section1",
+        "alias": "Meditation: The observing self",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "The Observing Self",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794027/New_images/meditations%20png/1024x1024/the_observing_self_cxbr3y.png",
+            "title": "The Observing Self",
+            "content": "*12 minutes*\n\nThis meditation is a great practice to experience ourselves from a observing point of view, identifying our emotions, that come and go and the part of ourselves that is constant and unchangeable.\n\n*Guided by Vanessa LaBrie, created by Ph.D F. Livheim.*",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You are invited to a short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-observing-self.mp3",
+            "alias": "observing self meditation",
+            "duration": "12:26",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/a10baff0-b3c9-454e-978c-5042cfede1b2/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "You’ve just done a wonderful thing for yourself.",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "b05cdc1e-c12f-402e-a16d-1df2ff0a8e81",
+            "question": "How do you feel after this meditation?",
+            "alias": "Sharing wall: Observing self",
+            "exampleText": "I feel very calm and my thoughts are moving at a slower pace. I notice my heart beat."
+          }
+        ],
+        "name": "The observing self",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Observera",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794027/New_images/meditations%20png/1024x1024/the_observing_self_cxbr3y.png"
+    },
+    "duration": {
+      "count": 12,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "a10baff0-b3c9-454e-978c-5042cfede1b2",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "a10baff0-b3c9-454e-978c-5042cfede1b2",
+        "root": "section1",
+        "alias": "Meditation: The observing self",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Det observerande jaget",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794027/New_images/meditations%20png/1024x1024/the_observing_self_cxbr3y.png",
+            "title": "Det observerande jaget",
+            "content": "* 12 minuter *\n\nDenna meditation är en bra övning för att uppleva oss själva ur en observationssynpunkt, identifiera våra känslor, som kommer och går och den del av oss själva som är konstant och oföränderlig.\n\n* Guidad av Vanessa LaBrie, skapad av doktor F. Livheim. *",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Du är inbjuden till en kort meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-observing-self.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/a10baff0-b3c9-454e-978c-5042cfede1b2/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Du har precis gjort en underbar sak för dig själv.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Observera",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "O eu observador",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794027/New_images/meditations%20png/1024x1024/the_observing_self_cxbr3y.png"
+    },
+    "duration": {
+      "count": 12,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "a10baff0-b3c9-454e-978c-5042cfede1b2",
+    "description": "",
+    "stations": [
+      {
+        "id": "a10baff0-b3c9-454e-978c-5042cfede1b2",
+        "root": "section1",
+        "alias": "Meditation: The observing self",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "O eu observador",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794027/New_images/meditations%20png/1024x1024/the_observing_self_cxbr3y.png",
+            "title": "O eu observador",
+            "content": "*12:16 minutos*\n\nEsta meditação é uma excelente prática para nos experienciarmos do ponto de vista da observação, identificando as nossas emoções, que vêm e vão, e a outra parte de nós que é constante e imutável.\n\n*Criada por Ph.D F. Livheim.*",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para uma meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523422/29k%20FJN/Meditations/Joanna%20Final/The_Observing_Self_zufixi.mp3",
+            "duration": "12:16",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/a10baff0-b3c9-454e-978c-5042cfede1b2/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Acabaste de fazer uma coisa maravilhosa por ti.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "bffde4ee-2265-4eee-9068-4b0fa0a55d58",
+            "alias": "Sharing wall: Observing self",
+            "question": "Como te sentiste depois desta meditação?",
+            "exampleText": "Sinto-me mais calma/o e os meus pensamentos estão mais lentos. Consegui sentir o batimento do meu coração."
+          }
+        ],
+        "name": "O eu observador",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "conversations": [
+      {
+        "conversationId": "idg-test",
+        "title": "Inner Development Goals"
+      }
+    ],
+    "name": "Inner Development Goals",
+    "type": "test",
+    "category": "c63b1190-9194-44c7-970c-a1db8a435363",
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+    },
+
+    "id": "2dca643e-a362-4e54-86ea-417d563869eb",
+    "difficulty": ["Beginner"],
+    "wip": false
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "conversations": [
+      {
+        "conversationId": "idg-test",
+        "title": "Inner Development Goals"
+      }
+    ],
+    "name": "Inner Development Goals",
+    "type": "test",
+    "category": "c63b1190-9194-44c7-970c-a1db8a435363",
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+    },
+
+    "id": "2dca643e-a362-4e54-86ea-417d563869eb",
+    "difficulty": ["Beginner"],
+    "wip": true
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "conversations": [
+      {
+        "conversationId": "idg-test",
+        "title": "Inner Development Goals"
+      }
+    ],
+    "name": "Inner Development Goals",
+    "type": "test",
+    "category": "c63b1190-9194-44c7-970c-a1db8a435363",
+    "duration": {
+      "type": "minute",
+      "count": 15
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649422121/Illustrations_Tests/idg-logo_sculdk.png"
+    },
+
+    "id": "2dca643e-a362-4e54-86ea-417d563869eb",
+    "difficulty": ["Beginner"],
+    "wip": true
+  }
+}

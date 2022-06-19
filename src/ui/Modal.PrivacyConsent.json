@@ -1,0 +1,71 @@
+{
+  "en": {
+    "consentAll": {
+      "title": "Data consent",
+      "text__markdown": "When you register, we need your consent to:\n\n* **store the data needed to provide this service**, which includes **special categories** of data\n* **anonymise** your data for **research purposes**\n* **use** your data for **app improvement** purposes",
+      "button_consent": "Consent to all",
+      "button_customise": "Customise consent",
+      "readMore": "Read more"
+    },
+    "customConsent": {
+      "title": "Your consent",
+      "alert_required_data": {
+        "title": "Required data",
+        "text": "This is the minimum data required for the app to function. We will only keep it as long as you use your 29k account. If you no longer wish to use the 29k app, you can revoke your consent by deleting your account."
+      },
+      "alert_optional_data": {
+        "title": "Optional data",
+        "text": "You are always in control of whether you want to provide this data or not. Most of it you can see and remove it at any point of time from your Profile. We have no way of revoking feedback and reports you send to us, which is why you can’t untoggle this field."
+      },
+      "button_consent": "Consent to all",
+      "button_consentCustom": "Consent to selected",
+      "privacyNotice": "Privacy notice"
+    }
+  },
+  "sv": {
+    "consentAll": {
+      "title": "Samtycke data",
+      "text__markdown": "När du registrerar dig, behöver vi ditt samtycke till att:\n\n* **lagra den information som behövs för att tillhandahålla denna tjänst**, vilket inkluderar **speciella kategorier** av data\n* **anonymisera** din data för **forskningsändamål**\n* **använda** din data för att **förbättra appen**",
+      "button_consent": "Samtyck till alla",
+      "button_customise": "Anpassa samtycke",
+      "readMore": "Läs mer"
+    },
+    "customConsent": {
+      "title": "Ditt samtycke",
+      "alert_required_data": {
+        "title": "Nödvändig data",
+        "text": "Detta är den minsta data som krävs för att appen ska fungera. Vi behåller det bara så länge du använder ditt 29k -konto. Om du inte längre vill använda 29k -appen kan du återkalla ditt samtycke genom att radera ditt konto."
+      },
+      "alert_optional_data": {
+        "title": "Valfri data",
+        "text": "Du har alltid kontroll över om du vill tillhandahålla dessa data eller inte. Det mesta kan du se och ta bort det när som helst från din profil. Vi har inget sätt att återkalla feedback och rapporter du skickar till oss, varför du inte kan avmarkera det här fältet."
+      },
+      "button_consent": "Samtyck till alla",
+      "button_consentCustom": "Samtyck till utvalda",
+      "privacyNotice": "Integritetsnotis"
+    }
+  },
+  "pt": {
+    "consentAll": {
+      "title": "Consentimento de dados",
+      "text__markdown": "Ao fazeres o teu registo, vais dar consentimento para:\n\n* **armazenar os dados necessários ao fornecimento deste serviço**, que incluem **categorias de dados especiais**\n* **anonimizar** os teus dados para **objetivos de investigação** \n* **utilizar** os teus dados para **melhorar a aplicação**",
+      "button_consent": "Consentimento para todos",
+      "button_customise": "Personalizar consentimento",
+      "readMore": "Consultar mais informação"
+    },
+    "customConsent": {
+      "title": "O teu consentimento",
+      "alert_required_data": {
+        "title": "Dados obrigatórios",
+        "text": "Estes são os dados mínimos necessários ao funcionamento da aplicação. Iremos mantê-los apenas enquanto utilizares a tua conta 29k FJN. Se não desejares utilizar mais a aplicação 29k FJN, podes eliminar o teu consentimento removendo a tua conta."
+      },
+      "alert_optional_data": {
+        "title": "Dados opcionais",
+        "text": "Tens sempre o controlo sobre o fornecimento destes dados. A maior parte deles poderás ver e remover a qualquer momento no teu perfil. Não temos como revogar os comentários e relatórios que nos envias, por isso não é possível desmarcar esse campo."
+      },
+      "button_consent": "Consentimento para todos",
+      "button_consentCustom": "Consentimento para selecionados",
+      "privacyNotice": "Aviso de privacidade"
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "en": {
+    "id": "value-based-action-your-behaviors",
+    "root": "78455a2e-b4b7-48ce-8b0e-2e4039cf26d8",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "78455a2e-b4b7-48ce-8b0e-2e4039cf26d8",
+        "alias": "Section 1 ",
+        "content": "Throughout our lives it's easy to lose touch with — or even forget about — what matters to us. Especially when we’re dealing with a challenging situation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "91ab2c43-13a4-408f-b2d0-e2568c5b15a2"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635761023/andy-holmes-xTPnlek9GTw-unsplash_vnh0bu.jpg",
+        "title": "Acting on what's important"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "91ab2c43-13a4-408f-b2d0-e2568c5b15a2",
+        "content": "Taking the time to really understand what's **important** to us helps us take **meaningful** **action** in every moment of our lives.\n\nLet's start by reflecting on who you **want** to **be** as a **person** and how you can **align** your **behaviors** with your **beliefs.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Section 2",
+        "title": ""
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "topImageUri": "",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "ce5371b2-b898-416c-a59b-87aee3b70efb"
+          }
+        ],
+        "alias": "Section 3 ",
+        "content": "### Learn more about:\n\n* Your values\n* Creating a compass\n* Acting on your values\n\n\n\n### You'll need:\n\n* 20 minutes\n* Pen and paper"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce5371b2-b898-416c-a59b-87aee3b70efb",
+        "title": "Values",
+        "content": "Simply put, our **values** represent what's **important** to us. Unlike goals, they can't be \"ticked off\" — instead, they require **continuous** work.\n\nValues give our lives a sense of **direction** by **guiding** our actions in any situation. Therefore, people sometimes refer to their values as a **compass**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "92daa17f-e8c9-43c6-a78f-888152644879"
+          }
+        ],
+        "alias": "Section 4"
+      }
+    ],
+    "alias": "Acting with purpose 1: Your behaviors-1"
+  },
+  "sv": {
+    "id": "value-based-action-your-behaviors",
+    "root": "78455a2e-b4b7-48ce-8b0e-2e4039cf26d8",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "78455a2e-b4b7-48ce-8b0e-2e4039cf26d8",
+        "alias": "Section 1 ",
+        "content": "I livet är det lätt att tappa kontakten med – eller till och med glömma bort – det som är viktigt för oss. \n\nSpeciellt i jobbiga situationer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "91ab2c43-13a4-408f-b2d0-e2568c5b15a2"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635761023/andy-holmes-xTPnlek9GTw-unsplash_vnh0bu.jpg",
+        "title": "Gör det som är viktigt"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "91ab2c43-13a4-408f-b2d0-e2568c5b15a2",
+        "content": "Att försöka förstå vad som är viktigt hjälper oss att alltid göra något meningsfullt.\n\nBörja med att reflektera över **vem du vill vara som person** och hur du kan göra beteenden i enlighet med dina värderingar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Ok, jag är redo",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Section 2",
+        "title": ""
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "topImageUri": "",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nu kör vi",
+            "sectionId": "ce5371b2-b898-416c-a59b-87aee3b70efb"
+          }
+        ],
+        "alias": "Section 3 ",
+        "content": "### **Lär dig mer om:**\n\n* Dina värderingar\n* Skapa en kompass\n* Lev dina värderingar\n\n### Du behöver:\n\n* 20 minuter\n* Penna och papper"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce5371b2-b898-416c-a59b-87aee3b70efb",
+        "title": "Värderingar",
+        "content": "Våra värderingar står för **det som är viktigt för oss**. Till skillnad mot mål kan man inte bocka av dem – istället måste vi ständigt jobba med dem.\n\n**Värderingarna ger livet en känsla av riktning** genom att i alla lägen styra det vi gör. Därför kallas de ibland vår kompass.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "92daa17f-e8c9-43c6-a78f-888152644879"
+          }
+        ],
+        "alias": "Section 4"
+      }
+    ],
+    "alias": "Acting with purpose 1: Your behaviors-1"
+  },
+  "pt": {
+    "id": "value-based-action-your-behaviors",
+    "alias": "Acting with purpose 1: Your behaviors-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "video",
+        "alias": "Comportamentos e valores",
+        "title": "Comportamentos e valores",
+        "description": "Quando agimos segundo os nossos valores fundamentais, damos um propósito à nossa vida, mesmo em circunstâncias extremas.\n\nNesta lição vais:\n\n* Imaginar o teu 90º aniversário\n* Definir os teus valores\n* Agir segundo esses valores",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015857/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L1_Value-based_action_V1_-_9x16_l5tmtb.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015892/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L1P1YourBehaviours_jhibu9.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "O que te deixaria orgulhosa/o?",
+        "title": "O que te deixaria orgulhosa/o?",
+        "description": "Imagina que é a tua 90ª festa aniversário, daqui a muitos anos.\n\nEstás a fazer 90 anos.\n\nAlguém próximo de ti vai fazer um discurso.\n\nO que gostarias que fosse dito acerca de ti?\n\nO que te deixaria orgulhosa/o?\n\nReserva alguns minutos para te imaginares nessa festa.",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015853/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L1_Value-based_action_V2_-_9x16_ka54g6.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015892/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L1P2YourBehaviours_jghmyo.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "O que é importante a longo prazo?",
+        "title": "O que é importante a longo prazo?",
+        "content": "Imaginaste o teu 90º aniversário, muito bem! Visualizar o nosso futuro pode guiar-nos no aqui e agora. Pode mostrar-nos o que é importante a longo prazo. No entanto, quando estamos stressados, temos tendência a ficar míopes, egocêntricos e desligados do que é verdadeiramente importante.\n\nQuando estamos sob pressão, temos tendência a priorizar o que acreditamos que os outros esperam de nós. Trabalhamos mais horas e tentamos estar sempre em cima de todos os acontecimentos. Em simultâneo, esquecemo-nos ou ignoramos as coisas que dão significado, alegria e energia à vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "O que é importante para ti?",
+        "title": "O que é importante para ti?",
+        "time": "15 min",
+        "longDescription": "Olha de novo e com atenção para a tua versão aos 90 anos. Podes utilizar o teu eu futuro como uma bússola da pessoa que ambicionas ser. Foca-te nas coisas que os outros diriam e te deixariam orgulhosa/o. Que valores se destacam como importantes quando olhas para o teu passado? Agora, identifica os valores, as coisas mais importantes ou o tipo de pessoa que gostarias de ser.\n\nDurante 15 minutos, escreve alguns aspetos relevantes do que é mais importante para ti.\n\n**Dica 1:** As relações, o trabalho/educação, a saúde e o lazer podem ser áreas da vida importantes a considerar para este exercício.\n\n**Dica 2:** Os valores são direções, não são objetivos. Os objetivos podem ser riscados de uma lista. Os valores requerem uma ação contínua, por exemplo, ser um colega de confiança, um companheiro carinhoso, uma companheira carinhosa, um pai amoroso, uma mãe amorosa ou alguém que trata o seu corpo com respeito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Lições do fim da vida",
+        "title": "Lições do fim da vida",
+        "content": "Quando nos aproximamos do fim das nossas vidas, muitas vezes arrependemo-nos de algumas escolhas que fizemos. Alguns arrependimentos comuns incluem não termos sido verdadeiros connosco, termos trabalhado demasiado, não termos expressado os nossos sentimentos e termos perdido o contacto com os amigos. Com isto em mente, gostarias de alterar ou adicionar alguma coisa aos valores que escreveste?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Comportamentos e valores",
+        "title": "Comportamentos e valores",
+        "question": "",
+        "shortDescription": "",
+        "longDescription": "Escolhe um dos valores identificados no exercício anterior. Escolhe um particularmente próximo do teu coração.\n\nPergunta: Se a partir de agora vivesses a tua vida de acordo com este valor, o que farias hoje?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "longDescription": "Se pensares nos valores como um caminho a seguir e na tua imagem aos 90 anos como o destino, que passos te levariam até lá?\n\nPrecisarias de alterar as tuas prioridades?\n\nParar de fazer alguma coisa?\n\nComeçar a fazer alguma coisa?\n\nDedica algum tempo a escrever o que te vier à cabeça.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "video",
+        "description": "Age de acordo com o valor que escolheste durante a próxima semana.\n\nRevê as prioridades e repensa as tuas ações de acordo com o que pararias de fazer e com o que começarias a fazer.",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640015832/29k%20FJN/Courses/Value%20Based%20Action/Videos%209:16/L1_Value-based_action_V3_-_9x16_tmkj8c.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640015891/29k%20FJN/Courses/Value%20Based%20Action/Thumbnails%209:16/L1P9YourBehaviours_omblps.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Identificaste valores e comportamentos específicos relacionados com esses valores.\n\nOs comportamentos baseados em valores são uma competência muito útil perante as situações de stress que nos afetam.\n\nUsando as tuas notas sobre as ações, pensa como mudarias as prioridades, o que pararias de fazer e o que começarias a fazer para viver alinhada/o com um valor mais próximo do teu coração. Podes partilhar estas reflexões com o teu grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

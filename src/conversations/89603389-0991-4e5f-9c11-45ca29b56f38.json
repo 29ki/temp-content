@@ -1,0 +1,226 @@
+{
+  "en": {
+    "id": "89603389-0991-4e5f-9c11-45ca29b56f38",
+    "alias": "Nourishing relationships 3: Being there for others-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Noticing opportunities",
+        "content": "The first step to responding with compassion is **noticing** when such **opportunities** arise. \n\nThis means noticing when an other person is being **vulnerable** with us.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show examples",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "3",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1631189031/rohit-tandon-9wg5jCEPBsw-unsplash_rlqbbt.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "482de930-4cfe-4c20-be18-4c28ea4315e7",
+        "content": "* A friend opens up to you about their struggle.\n* Your sibling tells you that they've been feeling depressed lately.\n* Your partner, who knows that you want to have children (or more children) tells you that they don’t want to have any.\n* A friend opens up about losing a job or struggling financially.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "More",
+            "sectionId": "e8023ba5-b054-44e0-9ad9-a53da2fdfc4e"
+          }
+        ],
+        "alias": "Examples",
+        "title": "It could be that:"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e8023ba5-b054-44e0-9ad9-a53da2fdfc4e",
+        "content": "* A colleague tells you that they’ve made a mistake at work and don’t know what to do.\n* Your partner gives you a hug.\n* Someone gives you a compliment.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Move on",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Examples",
+        "title": "And some less-obvious examples: "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b87440fa-3791-4423-8b19-561bd58b12e7",
+        "alias": "How to respond",
+        "title": "How to respond",
+        "content": "Looking at the examples of vulnerability, can you notice that it **always involves** taking a **risk**? \n\nThis risk is **sharing** something deeply personal and **not** **knowing** how the other person will **react**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Tell me more",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Responding with compassion consists of 3 things:\n\n1. **Creating a safe space:** Creating conditions for vulnerability, for example by listening and being present in the moment.\n2. **Validating feelings:** Responding with empathy so that the other person feels understood, for example by acknowledging their feelings.\n3. **Offering support:** Meeting the person’s needs while also taking into account your own needs.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "7775ea15-8ac5-43a8-a7bc-6b66316751a8"
+          }
+        ],
+        "alias": "Responding with compassion"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7775ea15-8ac5-43a8-a7bc-6b66316751a8",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "e55f4658-5328-48cb-9b86-0a061f5de602",
+            "content": "Let's try it"
+          }
+        ],
+        "content": "In the next exercise you'll get to **reflect** on your own **behavior** in a situation where someone was vulnerable with you.",
+        "alias": "Pre exercise"
+      }
+    ]
+  },
+  "sv": {
+    "id": "89603389-0991-4e5f-9c11-45ca29b56f38",
+    "alias": "Nourishing relationships 3: Being there for others-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Lägg märke till möjligheter",
+        "content": "Det första steget mot att bemöta andra med medkänsla är att **uppmärksamma** när en annan personen visar sig **sårbar** för oss.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Visa exempel",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "3",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1631189031/rohit-tandon-9wg5jCEPBsw-unsplash_rlqbbt.jpg"
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "Det kan vara att:",
+        "content": "* En vän berättar om en svår situation hen går igenom.\n* Ett syskon berättar att hen har känt sig deprimerad nyligen.\n* En partner, som vet att du vill ha barn (eller fler barn) säger att hen inte vill ha några barn.\n* En vän berättar att hen förlorat ett jobb eller kämpar ekonomiskt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "31936d0e-deb1-45a0-82d3-11a14eafa148"
+          }
+        ],
+        "alias": "Exempel"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "31936d0e-deb1-45a0-82d3-11a14eafa148",
+        "content": "* En kollega säger att de har gjort ett misstag på jobbet och inte vet vad de ska göra.\n* Din partner ger dig en kram.\n* Någon ger dig en komplimang.",
+        "title": "Och några mindre uppenbara exempel: ",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "2f855dec-f12f-42f2-9461-e1cdf3508f4e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2f855dec-f12f-42f2-9461-e1cdf3508f4e",
+        "alias": "How to respond",
+        "content": "När du ser på exemplen, lägg märke till att de **alltid** innehåller en **risk.** Att **dela** någonting djupt **personligt** – utan att veta hur den andra personen kommer **reagera**.",
+        "title": "Att bemöta sårbarhet",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "b382ae89-ecb6-4dab-b867-1b7758976946"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b382ae89-ecb6-4dab-b867-1b7758976946",
+        "content": "Att bemöta en annan person med medkänsla består av tre delar:\n\n1. **Skapa en trygg plats.** Skapa förutsättningar för sårbarhet, till exempel genom att lyssna och vara närvarande.\n2. **Validera känslor.** Svara med empati så att den andra känner sig förstådd, exempelvis genom att bekräfta hens känslor.\n3. **Erbjuda stöd.** Tillgodose den andras behov, samtidigt som vi tar hänsyn till våra egna behov.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "e522e5f3-1e51-4969-b71e-1abd2cd22e86"
+          }
+        ],
+        "alias": "Responding with compassion"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e522e5f3-1e51-4969-b71e-1abd2cd22e86",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "e55f4658-5328-48cb-9b86-0a061f5de602",
+            "content": "Sätt igång"
+          }
+        ],
+        "content": "I nästa steg kommer du att få reflektera kring ditt **eget** **beteende** i en situation där någon var sårbar med dig.",
+        "alias": "Pre exercise"
+      }
+    ]
+  },
+  "pt": {
+    "id": "89603389-0991-4e5f-9c11-45ca29b56f38",
+    "alias": "Nourishing relationships 3: Being there for others-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Perceber as oportunidades",
+        "content": "O primeiro passo para reagir com compaixão é perceber quando surgem as oportunidades. Isto significa darmo-nos conta quando é que outra pessoa está a ser vulnerável connosco.\n\nAqui estão alguns exemplos:\n\n* Uma amiga ou um amigo abre-se contigo sobre a dificuldade que tem em lidar com um vício\n* A tua companheira ou o teu companheiro, que sabe que queres ter filhos (ou mais filhos), diz-te que não quer ter nenhum (ou mais filhos)\n* A tua irmã ou o teu irmão diz-te que se tem sentido deprimida/o ultimamente\n* Uma amiga ou um amigo abre-se sobre a perda de um emprego ou dificuldades financeiras\n\nE alguns exemplos menos óbvios:\n\n* Um/a colega diz-te que cometeu um erro no trabalho e que não sabe o que fazer\n* A tua companheira ou o teu companheiro dá-te um abraço\n* Alguém te faz um elogio",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "Como reagir",
+        "content": "Olhando para os exemplos de vulnerabilidade, consegues notar que implicam sempre correr um risco? Este risco consiste em partilhar algo muito pessoal e não saber como a outra pessoa vai reagir.\n\nReagir com compaixão implica três coisas:\n\n1. **Criar um espaço seguro:** criar condições para a vulnerabilidade, por exemplo, ouvindo e estando presente\n2. **Validar os sentimentos:** reagir com empatia para que a outra pessoa se sinta compreendida, por exemplo, reconhecendo os seus sentimentos\n3. **Oferecer apoio:** satisfazer as necessidades da outra pessoa, ao mesmo tempo que tens em conta as tuas próprias necessidades.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "e55f4658-5328-48cb-9b86-0a061f5de602",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

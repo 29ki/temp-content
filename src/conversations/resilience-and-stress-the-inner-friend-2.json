@@ -1,0 +1,161 @@
+{
+  "en": {
+    "id": "resilience-and-stress-the-inner-friend-2",
+    "alias": "resilience-and-stress-the-inner-friend-2",
+
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "audio",
+        "title": "",
+        "description": "This meditation can help you become more **present** and get in touch with your inner loving-voice. \n\nThe exercise also prepares you for the next step of the lesson.\n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio%2Fcourses%2F83a9946b-af74-4186-8483-330f6d6fa74a%2FFind-Your-Loving-Voice.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "section6"
+          }
+        ],
+        "duration": "06:02"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "One self-compassionate act is writing a loving letter to a **younger version** of ourselves.\n\nNo one’s childhood is perfect. All of us have felt **lonely** and **abandoned.** Or that our need for **intimacy** or **boundaries** weren’t respected.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "043ff0cd-12c6-4c56-b9b1-d1231190feb9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "043ff0cd-12c6-4c56-b9b1-d1231190feb9",
+        "content": "Think back on a moment when this happened to you.\n\nWe won’t ask you to revisit your most painful memories. If you’ve been through traumatic events, you can choose a less difficult memory.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm ready",
+            "conversationId": "resilience-and-stress-the-inner-friend-3"
+          }
+        ],
+        "alias": "Outro"
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-the-inner-friend-2",
+    "alias": "resilience-and-stress-the-inner-friend-2",
+
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "audio",
+        "title": "",
+        "description": "Den här meditationen hjälper dig bli mer **närvarande** och komma i kontakt med din inre kärleksfulla röst. \n\nÖvningen förbereder dig även inför nästa steg i lektionen.\n\nTryck på play-knappen för att sätta igång.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Hitta-din-omsorgsfulla-rost.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "2bf14c91-bbd8-4106-ae80-b9cff4319904"
+          }
+        ],
+        "duration": "6:06"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2bf14c91-bbd8-4106-ae80-b9cff4319904",
+        "content": "Ett sätt att öva självmedkänsla är att skriva ett kärleksfullt brev till en **yngre** **version** av sig själv.\n\nIngen har haft en helt perfekt barndom. Vi har alla känt oss **ensamma** och **övergivna**. Eller att våra behov av **närhet** eller **gränser** inte blev respekterade.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "d4572281-7331-48e7-9273-d7582410aade"
+          }
+        ],
+        "alias": "Övning"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d4572281-7331-48e7-9273-d7582410aade",
+        "content": "Tänk tillbaka på något **tillfälle** när detta hände dig.\n\nVi tänker inte be dig att **återbesöka** dina mest smärtsamma minnen. Om du varit med om traumatiska händelser, välj ett minne som inte är lika tufft.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är redo",
+            "conversationId": "resilience-and-stress-the-inner-friend-3"
+          }
+        ],
+        "alias": "Outro"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-the-inner-friend-2",
+    "alias": "resilience-and-stress-the-inner-friend-2",
+
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "A tua voz interior",
+        "content": "A maneira como lidamos connosco mesmos é talvez a coisa mais importante ao longo do tempo. A voz interior que dirigimos a nós mesmos será uma companheira constante.\n\nQuando estamos stressados, essa voz fica geralmente mais alta, mais áspera, criando stress e dor desnecessários.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "audio",
+        "title": "Encontrar a tua voz de amor",
+        "description": "Esta meditação vai ajudar-te a sentir mais e a entrar em contato com a tua voz interior de amor, preparando-te para a próxima fase da lição.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621448723/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_20_-_Your_loving_voice_vvaghp.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ],
+        "duration": "04:07"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "Revisitar uma memória dolorosa",
+        "content": "Um ato de compaixão para connosco é escrever uma carta de amor para uma versão nossa mais jovem.\n\nNinguém teve uma infância perfeita. Todos nós nos sentimos sozinhos e abandonados ou que os nossos limites ou intimidade não foram respeitados. Pensa num momento em que isto te aconteceu.\n\nNão vamos pedir-te para revisitar as tuas memórias mais dolorosas. Se já passaste por acontecimentos traumáticos, podes escolher um momento menos difícil e pensares em ti nesse ponto.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-the-inner-friend-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "en": {
+    "id": "c8ed5a28-2fd5-4c0f-ad75-106b8dd37010",
+    "alias": "Leadership-scenarioplanning-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1940ce50-ed89-49c9-8f85-916bdfff05f4",
+        "alias": "Intro",
+        "content": "Making the most out of the opportunities and challenges we face in today’s ever evolving world requires looking beyond the status quo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next ",
+            "sectionId": "6e8e1619-5bcf-4b33-8fff-5777db5567f9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6e8e1619-5bcf-4b33-8fff-5777db5567f9",
+        "alias": "In this Lesson",
+        "content": "In this lesson, you’ll practice the skill of **strategic thinking** in three steps:\n\n* Traditional planning\n* Scenario planning\n* Possible futures\n\nAdding strategic thinking to your skill set can help you approach goals more flexibly and holistically.",
+        "title": "In this lesson",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Let's dive in",
+            "conversationId": "ae246e3a-f973-4918-b7f6-415d151e0966"
+          }
+        ]
+      }
+    ],
+    "root": "1940ce50-ed89-49c9-8f85-916bdfff05f4"
+  },
+  "sv": {
+    "id": "c8ed5a28-2fd5-4c0f-ad75-106b8dd37010",
+    "alias": "Leadership-scenarioplanning-1"
+  },
+  "pt": {
+    "id": "c8ed5a28-2fd5-4c0f-ad75-106b8dd37010",
+    "alias": "Leadership-scenarioplanning-1",
+    "root": "1940ce50-ed89-49c9-8f85-916bdfff05f4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "1940ce50-ed89-49c9-8f85-916bdfff05f4",
+        "alias": "Intro",
+        "content": "Tirar o máximo proveito das oportunidades e desafios que enfrentamos, num mundo em constante evolução, exige olhar além do status quo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte ",
+            "sectionId": "6e8e1619-5bcf-4b33-8fff-5777db5567f9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6e8e1619-5bcf-4b33-8fff-5777db5567f9",
+        "alias": "In this Lesson",
+        "content": "Nesta lição, vais praticar a competência de **pensamento estratégico** em três etapas:\n\n* Planeamento tradicional\n* Planeamento de cenários\n* Futuros possíveis\n\nAdicionar pensamento estratégico ao teu conjunto de competências pode ajudar-te a atingir os objetivos de forma mais flexível e holística.",
+        "title": "Nesta lição",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Vamos mergulhar ",
+            "conversationId": "ae246e3a-f973-4918-b7f6-415d151e0966"
+          }
+        ]
+      }
+    ]
+  }
+}

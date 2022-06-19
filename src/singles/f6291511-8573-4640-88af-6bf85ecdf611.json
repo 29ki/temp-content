@@ -1,0 +1,207 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Slow full breathing",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/slow_full_breathing_asj3y3.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "f6291511-8573-4640-88af-6bf85ecdf611",
+    "description": "Become present by focusing on your breathing.",
+    "stations": [
+      {
+        "id": "f6291511-8573-4640-88af-6bf85ecdf611",
+        "root": "section1",
+        "alias": "Meditation: Slow full breathing",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Slow Full Breathing",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/slow_full_breathing_asj3y3.png",
+            "title": "Slow Full Breathing",
+            "content": "*3:29 minutes*\n\nThis meditation helps you move from shallow breathing to a more useful, mindful breathing.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Welcome to this short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/slow-full-breathing.mp3",
+            "alias": "meditation audio: slow full breath",
+            "duration": "03:39",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6291511-8573-4640-88af-6bf85ecdf611/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nPractising slow, full breathing is a powerful tool for when you feel anxious or stressed. You can do it at anytime, anyplace to become more mindful of your breathing.",
+            "buttonText": "Complete"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "7ef443d8-42bd-446c-8a5e-832c6095a46b",
+            "alias": "Sharing wall: Slow full breathing",
+            "question": "How does your body feel after completing this meditation?",
+            "exampleText": "My shoulders are more relaxed and I feel energy in my shoulders."
+          }
+        ],
+        "name": "Slow full breathing",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Andas djupt",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/slow_full_breathing_asj3y3.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "f6291511-8573-4640-88af-6bf85ecdf611",
+    "description": "Bli närvarande genom att fokusera på din andning.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "f6291511-8573-4640-88af-6bf85ecdf611",
+        "root": "section1",
+        "alias": "Meditation: Slow full breathing",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Andas djupt",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/slow_full_breathing_asj3y3.png",
+            "title": "Andas djupt",
+            "content": "Bli uppmärksam på din andning och försök att andas långsamma och djupa andetag en liten stund.",
+            "buttonText": "Kör igång"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Tryck på play för att starta ljudfilen.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621585394/Meditations/slow_full_breathing_svenska_-_2021-05-20_08_va7svn.mp3",
+            "duration": "4:14",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6291511-8573-4640-88af-6bf85ecdf611/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Att andas djupt och långsamt är ett verktyg vi kan använda när vi känner oss oroliga eller stressade. Vi kan göra det när som helst och var som helst för att bli mer uppmärksamma på det som finns just här, just nu.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "5c1df5e7-1a55-4826-bbaf-2354754e2616",
+            "alias": "sharing wall slow full breathing",
+            "exampleText": "Jag blev mer avslappnad i kroppen och kände hur axlarna sjönk.",
+            "question": "Hur känns det i kroppen efter den här meditationen?"
+          }
+        ],
+        "name": "Andas djupt",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Respiração lenta e profunda",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/slow_full_breathing_asj3y3.png"
+    },
+    "duration": {
+      "count": 4,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "f6291511-8573-4640-88af-6bf85ecdf611",
+    "description": "Torna-te presente focando-te na tua respiração.",
+    "stations": [
+      {
+        "id": "f6291511-8573-4640-88af-6bf85ecdf611",
+        "root": "section1",
+        "alias": "Meditation: Slow full breathing",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Respirar lenta e profundamente",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/slow_full_breathing_asj3y3.png",
+            "title": "Respirar lenta e profundamente",
+            "content": "*3:30 minutos*\n\nEsta meditação ajuda-te a passar de uma respiração superficial para uma respiração mais profunda e consciente.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para esta meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+            "duration": "03:30",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6291511-8573-4640-88af-6bf85ecdf611/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por completares esta meditação.\n\nPraticar uma respiração lenta e consciente é uma ferramenta poderosa para quando estás a sentir ansiedade ou stress. Podes fazer isso a qualquer hora e em qualquer lugar.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "13a08300-773e-4acd-b73e-b3e121ab78dc",
+            "alias": "Sharing wall: Slow full breathing",
+            "question": "Como sentiste o teu corpo depois desta meditação?",
+            "exampleText": "Sinto os ombros mais relaxados e com mais energia"
+          }
+        ],
+        "name": "Respiração lenta e profunda",
+        "type": "station"
+      }
+    ]
+  }
+}

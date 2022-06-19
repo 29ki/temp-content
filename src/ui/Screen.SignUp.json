@@ -1,0 +1,161 @@
+{
+  "en": {
+    "footnote": "You don’t have to provide information that reveals your identity.",
+    "createAccount_button": "Create account",
+    "dividerText": "or",
+    "error": {
+      "displayName": "Fill in a name.",
+      "email": "Provide a valid email address.",
+      "emailAlreadyInUse": "We already have an account with that email.",
+      "network": "Oops! There might be a problem with the network connection. Please try again.",
+      "password": "For safety, use a password that is longer than 6 characters.",
+      "passwordWeak": "Please provide a stronger password.",
+      "unknown": "Oh, no! We encountered an error when creating your account. Please try again,"
+    },
+    "profile": {
+      "description": "Optional photo or avatar."
+    },
+    "ageGate": {
+      "heading__markdown": "## Choose your ~~community~~",
+      "body__markdown": "We tailor our content and sharing groups to best meet your needs.",
+      "adults": {
+        "label": "21+",
+        "heading__markdown": "21 years old or more",
+        "body__markdown": "Broad range of topics for different life phases and a self-organized community."
+      },
+      "youngAdults": {
+        "label": "15-20",
+        "heading__markdown": "15-20 years old",
+        "body__markdown": "Real-life examples from young people and a safe, supportive community."
+      },
+      "tooYoung": {
+        "body__markdown": "If you're under 15, we can recommend [~~Save the children~~](https://play.google.com/store/apps/details?id=com.raddabarnen.calm&hl=en&gl=US) for support."
+      }
+    },
+    "signIn_text": "Already a user?",
+    "submit_button_active": "Signing up",
+    "displayName": "Explorer",
+    "heading__markdown": "## Create an ~~account~~",
+    "body__markdown": "Create an account in less than a minute to track progress, receive useful recommendations, and join group sharings with others.",
+    "signIn_link": "Log in",
+    "apple_button": "Continue with Apple",
+    "google_button": "Continue with Google",
+    "submit_button": "Get started",
+    "password": {
+      "heading__markdown": "## Choose a ~~password~~",
+      "placeholder": "Password",
+      "continue_button": "Continue"
+    },
+    "email": {
+      "heading__markdown": "## What's your ~~email?~~",
+      "placeholder": "Email",
+      "continue_button": "Continue"
+    }
+  },
+  "sv": {
+    "footnote": "Du behöver inte tillhandahålla information som avslöjar din identitet.",
+    "createAccount_button": "Skapa konto",
+    "dividerText": "eller",
+    "error": {
+      "displayName": "Ange ett namn.",
+      "email": "Ange en giltig e-postadress.",
+      "emailAlreadyInUse": "Vi har redan ett konto med denna e-postadress.",
+      "network": "Oops! Det kan vara ett problem med uppkopplingen. Försök igen.",
+      "password": "För din säkerhet, använd ett lösenord som är längre än 6 tecken.",
+      "passwordWeak": "Försök att ange ett lite svårare lösenord.",
+      "unknown": "Åh, nej! Vi stötte på ett fel då vi försökte skapa ditt konto. Försök igen."
+    },
+    "profile": {
+      "description": "Frivilligt foto eller avatar."
+    },
+    "ageGate": {
+      "heading__markdown": "## Välj din ~~community~~",
+      "body__markdown": "Vi anpassar innehåll och grupper för att de ska passa just dig",
+      "adults": {
+        "label": "21+",
+        "heading__markdown": "21 år eller äldre",
+        "body__markdown": "Brett utbud av teman för olika faser i livet och en självorganiserad community"
+      },
+      "youngAdults": {
+        "label": "15-20",
+        "heading__markdown": "15-20 år",
+        "body__markdown": "Verkligt och relevant innehåll för ungdomar och en trygg, stöttande community"
+      },
+      "tooYoung": {
+        "body__markdown": "Om du är under 15 rekommenderar vi [~~Rädda barnen~~](https://apps.apple.com/se/app/safe-place/id1445174667?l=en)"
+      }
+    },
+    "signIn_text": "Redan användare?",
+    "submit_button_active": "Registrerar",
+    "displayName": "Utforskare",
+    "heading__markdown": "## Skapa ett ~~konto~~",
+    "body__markdown": "Skapa ett konto på mindre än en minut för att spåra framsteg, få användbara rekommendationer och gå med i gruppdelningar med andra.",
+    "signIn_link": "Logga in",
+    "apple_button": "Fortsätt med Apple",
+    "google_button": "Fortsätt med Google",
+    "submit_button": "Kom igång",
+    "password": {
+      "heading__markdown": "## Välj ett ~~lösenord~~",
+      "placeholder": "Lösenord",
+      "continue_button": "Fortsätt"
+    },
+    "email": {
+      "heading__markdown": "## Vad har du för ~~epost?~~",
+      "placeholder": "E-post",
+      "continue_button": "Fortsätt"
+    }
+  },
+  "pt": {
+    "footnote": "Não precisas de fornecer informação que revele a tua identidade.",
+    "createAccount_button": "Criar Conta",
+    "dividerText": "ou",
+    "error": {
+      "displayName": "Preenche o teu nome.",
+      "email": "Introduz um endereço de email válido",
+      "emailAlreadyInUse": "Já existe uma conta com esse endereço de email.",
+      "network": "Oops! Parece haver um problema com a ligação à rede. Por favor, tenta outra vez.",
+      "password": "Por questões de segurança, utiliza uma palavra-passe com mais de 6 caracteres.",
+      "passwordWeak": "Por favor, escolhe uma palavra-passe mais forte.",
+      "unknown": "Oh, não! Encontrámos um erro ao criar a tua conta. Por favor, tenta outra vez."
+    },
+    "profile": {
+      "description": "Fotografia ou imagem (opcional)."
+    },
+    "ageGate": {
+      "heading__markdown": "## Escolhe a tua ~~comunidade~~",
+      "body__markdown": "Adaptamos o nosso conteúdo e grupos de partilha às tuas necessidades.",
+      "adults": {
+        "label": "21+",
+        "heading__markdown": "21 anos ou mais",
+        "body__markdown": "Conjunto alargado de tópicos para diferentes fases da tua vida e uma comunidade que te apoia."
+      },
+      "youngAdults": {
+        "label": "15-20",
+        "heading__markdown": "15-20 anos",
+        "body__markdown": "Exemplos da vida real de alguns jovens e uma comunidade segura e solidária"
+      },
+      "tooYoung": {
+        "body__markdown": "Se tiveres menos de 15 anos, podemos recomendar que acedas à [~~UNICEF~~](https://www.unicef.pt/coronavirus-para-os-jovens-como-lidar-com-a-ansiedade/). Para apoio mais especializado visita o [~~SNS24~~](https://www.sns24.gov.pt/guia/aconselhamento-psicologico-no-sns-24/) ou liga para o 808 24 24 24."
+      }
+    },
+    "signIn_text": "Já fizeste o registo?",
+    "submit_button_active": "A registar",
+    "displayName": "Exploradores",
+    "heading__markdown": "## Cria a tua ~~conta~~ aqui",
+    "body__markdown": "Cria uma conta em menos de um minuto para acompanhares o teu progresso, receberes recomendações úteis e se desejares participar em sessões de partilha em grupo com outras pessoas.",
+    "signIn_link": "Entrar",
+    "apple_button": "Continuar com a conta Apple",
+    "google_button": "Continuar com a conta Google",
+    "submit_button": "Começa a explorar",
+    "password": {
+      "heading__markdown": "## Escolhe uma ~~password~~",
+      "placeholder": "Password",
+      "continue_button": "Continuar"
+    },
+    "email": {
+      "heading__markdown": "## Qual é o teu ~~email?~~",
+      "placeholder": "email",
+      "continue_button": "Continuar"
+    }
+  }
+}

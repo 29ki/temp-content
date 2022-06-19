@@ -1,0 +1,623 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Let your thoughts be",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/let_your_thoughts_be_s0tc3m.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "620f887a-ca72-4223-80bc-9b3b87ef00da",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exerciseletyourthoughtsbe",
+        "alias": "Exercise Let your thoughts be",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/let_your_thoughts_be_s0tc3m.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Our thoughts can easily go round and round in circles — almost like a car stuck in a roundabout. This is especially true of thoughts that make us anxious or worried."
+                  }
+                ]
+              }
+            ],
+            "alias": "1",
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Now you'll get to practice **not** getting carried away by your thoughts. And instead taking a step back to just *notice that* *you're thinking.* \n\nYou can use this exercise when you notice that your thoughts are spinning and you're having a hard time focusing."
+                  }
+                ]
+              }
+            ],
+            "alias": "2",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**You'll learn to:**\n\n* See thoughts as just thoughts\n* Observe your thoughts\n* Distance yourself from your thoughts\n* Let your thoughts be"
+                  }
+                ]
+              }
+            ],
+            "alias": "3",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "The human brain is **great** at producing thoughts.\n\nTake a moment to reflect. On average, how many thoughts do you think you have per day?"
+                  }
+                ]
+              }
+            ],
+            "alias": "4",
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Research shows that we have **tens of thousands** of thoughts — *every day*!\n\nIf we'd ask you to give an account of what thoughts you've had today, you probably wouldn't remember more than a fraction of them."
+                  }
+                ]
+              }
+            ],
+            "alias": "5",
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Some thoughts seem to recur several times a day — perhaps even several times an hour, for weeks or months in a row."
+                  }
+                ]
+              }
+            ],
+            "alias": "6",
+            "buttonText": "Go on"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "What's more, thoughts have an ability to *pull us* in various directions. One second we're thinking about what we're going to do tomorrow — and the next we're thinking about how we're not a good enough friend, family member or partner.\n\nThe stronger the feeling connected to a though, the more we believe it. Why? Because it really **feels** like it's true."
+                  }
+                ]
+              }
+            ],
+            "alias": "7",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Time to practice just observing your thoughts. Press the play-button when you feel ready."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 5,
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/f_auto,q_auto,t_global/v1620637235/letyourthoughtsbe_ndep9s.mp3"
+                }
+              }
+            ],
+            "alias": "8",
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\\\n\\\nYou've now learned to take a step back and just observe your thoughts. \\\n\\\nMaybe you noticed that thoughts are just thoughts. That they come and go completely by themselves. And that it can be helpful to just *let them be.*"
+                  }
+                ]
+              }
+            ],
+            "alias": "9",
+            "buttonText": "Finished"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "21f46e2a-f8a1-4512-8887-6220e8ba5c84",
+            "alias": "Sharing wall-question",
+            "exampleText": "I have noticed that it is difficult for me not to get overwhelmed by my thoughts. ",
+            "question": "How did this make you feel?"
+          }
+        ],
+        "name": "Let your thoughts be",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Låt dina tankar vara",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/let_your_thoughts_be_s0tc3m.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "620f887a-ca72-4223-80bc-9b3b87ef00da",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exerciseletyourthoughtsbe",
+        "alias": "Exercise Let your thoughts be",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/let_your_thoughts_be_s0tc3m.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Tankar snurrar gärna runt, runt — som en bil som kör varv efter varv i en rondell utan att hitta ut. Det gäller framför allt tankar som gör oss oroliga eller ger oss ångest."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Du ska få öva på att **inte** dras med i dina tankar. På att ta ett steg tillbaka, och istället testa att bara *lägga märke till att du tänker.* \n\nDu kan till exempel använda dig av den här övningen när du märker att tankarna snurrar och du har svårt att fokusera."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Du kommer få lära dig att:**\n\n* Tankar bara är tankar\n* Observera dina tankar\n* Få distans till dina tankar\n* Låta dina tankar vara"
+                  }
+                ]
+              }
+            ],
+            "alias": "3",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Vi människor har en hjärna som är **superbra** på att producera tankar.\n\nTa en liten stund och fundera. Hur många tankar tror du att du har i genomsnitt per dag?"
+                  }
+                ]
+              }
+            ],
+            "alias": "4",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Forskningen visar att vi människor har **tiotusentals** tankar — *varje dag*!\n\nOm vi bad dig redogöra för vilka tankar du haft idag, skulle sannolikheten vara stor att du inte kom ihåg mer än en bråkdel av alla tankar."
+                  }
+                ]
+              }
+            ],
+            "alias": "5",
+            "buttonText": "Mer"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "En del tankar återkommer flera gånger per dag — kanske till och med flera gånger per timme, under flera veckor eller månader i rad."
+                  }
+                ]
+              }
+            ],
+            "alias": "6",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Dessutom har tankar en förmåga att *dra iväg*. I ena sekunden tänker vi på vad vi ska göra i morgon — och i nästa sekund tänker vi på att vi inte är en tillräckligt bra vän, familjemedlem eller partner.\n\nJu starkare känsla som hänger ihop med tanken, desto sannare tycker vi att tanken är. **Den känns ju verkligen sann.**"
+                  }
+                ]
+              }
+            ],
+            "alias": "7",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Nu ska du få träna på att lägga märke till dina tankar. Tryck på play-knappen när du känner dig redo."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/lattankarnavara.mp3",
+                  "duration": 145
+                }
+              }
+            ],
+            "alias": "8",
+            "buttonText": "Klar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!** \n\nDu har nu lärt dig att ta ett steg tillbaka och bara observera dina tankar. \\\n\\\nKanske märkte du att tankar bara är tankar, som kommer och går helt av sig själva. Och att det kan vara hjälpsamt att bara *låta sina tankar vara.*"
+                  }
+                ]
+              }
+            ],
+            "alias": "9",
+            "buttonText": "Avsluta"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "c145c362-5704-4007-9030-28f008598bfd",
+            "alias": "Sharing wall ",
+            "question": "Hur kändes det för dig?",
+            "exampleText": "Jag kände att det är svårt för mig att låta mina tankar vara och slappna av. "
+          }
+        ],
+        "name": "Låt dina tankar vara",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Aceita os teus pensamentos",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/let_your_thoughts_be_s0tc3m.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "meditation",
+    "id": "620f887a-ca72-4223-80bc-9b3b87ef00da",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exerciseletyourthoughtsbe",
+        "alias": "Exercise Let your thoughts be",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/let_your_thoughts_be_s0tc3m.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Os nossos pensamentos podem muito facilmente andar às voltas, em círculos - quase como um carro preso numa rotunda. Isto acontece principalmente com os pensamentos que nos trazem ansiedade ou preocupação."
+                  }
+                ]
+              }
+            ],
+            "alias": "1",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Agora vais ter a oportunidade de praticar **como não te deixares levar** pelos teus pensamentos. E em vez disso, conseguires dar um passo atrás para *simplesmente tomares consciência do que estás a pensar*.\n\nPodes usar este exercício quando te aperceberes que os teus pensamentos estão às voltas e que estás a ter dificuldades em focar."
+                  }
+                ]
+              }
+            ],
+            "alias": "2",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Vais aprender a:**\n\n* Ver os pensamentos apenas como pensamentos\n* Observar os teus pensamentos\n* Distanciares-te dos teus pensamentos\n* Deixar os teus pensamentos estar"
+                  }
+                ]
+              }
+            ],
+            "alias": "3",
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "O cérebro humano é **fantástico** a produzir pensamentos.\n\nTira um momento para refletir. Em média, quantos pensamentos pensas que tens por dia?"
+                  }
+                ]
+              }
+            ],
+            "alias": "4",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Os estudos mostram que temos dezenas de milhares de pensamentos - todos os dias!\n\nSe te pedíssemos para relatar os pensamentos que tinhas tido hoje, provavelmente não te lembrarias de mais do que de uma pequena fração."
+                  }
+                ]
+              }
+            ],
+            "alias": "5",
+            "buttonText": "Mais"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Alguns pensamentos parecem repetir-se várias vezes ao longo do dia - talvez até várias vezes por hora, durante semanas ou meses consecutivos."
+                  }
+                ]
+              }
+            ],
+            "alias": "6",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Mais, os pensamentos têm uma capacidade de *nos puxar* em várias direcções. Num segundo estamos a pensar no que vamos fazer amanhã - e no seguinte estamos a pensar em como não fomos bons o suficiente enquanto amiga/o, membro da família ou companheira/o.\n\nQuanto mais forte for o sentimento ligado a um pensamento, mais acreditamos nele. Porquê? Porque o **sentimos** realmente como verdadeiro."
+                  }
+                ]
+              }
+            ],
+            "alias": "7",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Agora é hora de praticar o simples observar dos teus pensamentos. Carrega no play quando te sentires preparada/o."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "duration": 4,
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1632841132/29k%20FJN/Meditations/20210928%20Cristina%20New%20/Deixa_Os_Teus_Pensamentos_Fluir_Agua_-_4_00_epcvkb.mp3"
+                }
+              }
+            ],
+            "alias": "8",
+            "buttonText": "Feito"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nAprendeste a dar um passo atrás e a simplesmente observar os teus pensamentos.\n\nTalvez tenhas notado que os pensamentos são apenas pensamentos. E que vêm e vão de forma completamente autónoma. E que pode ser útil simplesmente *deixá-los estar*."
+                  }
+                ]
+              }
+            ],
+            "alias": "9",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "df4e91b5-89de-411c-8a94-aa4f2d96564c",
+            "alias": "Sharing wall-question",
+            "question": "Como te sentiste ao fazer este exercício?",
+            "exampleText": "Percebi que, para mim, é muito difícil não ser oprimido pelos meus pensamentos."
+          }
+        ],
+        "name": "Aceita os teus pensamentos",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "type": "test",
+    "name": "Stress",
+    "featured": true,
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "cta": "Know more about yourself",
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "conversations": [
+      {
+        "conversationId": "stress-test",
+        "title": "Stress"
+      }
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795938/New_images/test/1024x1024/stress_uxbzs9.png"
+    },
+
+    "id": "91b70886-5b69-4ffc-8895-533dea85c4bf",
+    "difficulty": ["Beginner"],
+    "wip": false,
+
+    "category": "ae242e6d-c147-4e5a-b063-572ec905455c"
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "conversations": [
+      {
+        "conversationId": "stress-test",
+        "title": "Stress"
+      }
+    ],
+    "name": "Stress",
+    "type": "test",
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795938/New_images/test/1024x1024/stress_uxbzs9.png"
+    },
+
+    "id": "91b70886-5b69-4ffc-8895-533dea85c4bf",
+    "difficulty": ["Beginner"],
+    "wip": false,
+
+    "category": "ae242e6d-c147-4e5a-b063-572ec905455c"
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "type": "test",
+    "name": "Stress",
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "cta": "Conhece-te melhor",
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "conversations": [
+      {
+        "conversationId": "stress-test",
+        "title": "Stress"
+      }
+    ],
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652795938/New_images/test/1024x1024/stress_uxbzs9.png"
+    },
+
+    "id": "91b70886-5b69-4ffc-8895-533dea85c4bf",
+    "difficulty": ["Beginner"],
+    "wip": false,
+
+    "category": "ae242e6d-c147-4e5a-b063-572ec905455c"
+  }
+}

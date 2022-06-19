@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Safety Toolkit",
+    "text": "Leave the call and show the toolkit?",
+    "confirmButton": "OK",
+    "cancelButton": "Cancel"
+  },
+  "sv": {
+    "title": "Trygghetsfunktioner",
+    "text": "Lämna samtalet och visa trygghetsfunktionerna?",
+    "confirmButton": "Okej",
+    "cancelButton": "Avbryt"
+  },
+  "pt": {
+    "title": "Kit de Ferramentas de segurança",
+    "text": "Sair da chamada e ver o Kit de Ferramentas?",
+    "confirmButton": "OK",
+    "cancelButton": "Cancelar"
+  }
+}

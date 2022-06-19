@@ -2,231 +2,36 @@
   "en": {
     "id": "resilience-and-stress-saying-no-and-yes",
     "alias": "resilience-and-stress-saying-no-and-yes",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Saying no – and yes",
-        "content": "Stressful periods can sometimes feel lonely, and relationships tend to slip down in our list of priorities. But few things in life are more important when we are stressed-out than healthy relationships.\n\nIn this lesson we focus on boundaries and communication skills — foundations of healthy relationships.",
+        "title": "Saying no — and yes",
+        "content": "Stressful periods can sometimes feel **lonely** because relationships tend to **slip down** in our list of **priorities**. But when we're stressed out, few things in life are more important than **healthy** **relationships**.\n\nIn this lesson, we'll focus on **boundaries** and **communication** **skills** — the foundations of both recovery and healthy relationships",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "Let's go",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077481/Stress/harli-marten-M9jrKDXOQoU-unsplash_gga0zs.jpg"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Today’s lesson has four parts:\n\n* Communication for better relationships\n* Acting with calmness\n* Saying yes and no\n* Sharing\n\n### You’ll need\n\n* 25 min undisturbed time\n* Pen and paper",
+        "content": "### Learn more about:\n\n* Saying no — and yes\n* Healthy relationships\n* The yes-trap\n* Your boundaries\n\n### You’ll need:\n\n* 25 minutes\n* Pen and paper",
         "buttons": [
           {
-            "component": "Button",
+            "component": "NextConversationButton",
             "content": "Continue",
-            "sectionId": "section3"
-          }
-        ]
-      },
-      {
-        "id": "section3",
-        "alias": "section3",
-        "type": "editorialWithImage",
-        "title": "Healthy relationships",
-        "content": "When life is stressful it sometimes happen that we let relationships fade away. But relationships matter. \n\nThe most significant source of stress at work is having too much to do, but relationships are also crucial. In fact, good relationships at work (and in general) can not only decrease our stress levels. \n\nGood relationships have also been shown to strengthen our immune system and even positively affect our DNA.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section4"
-          }
-        ]
-      },
-      {
-        "id": "section4",
-        "alias": "section4",
-        "type": "editorialWithImage",
-        "title": "Avoid avoidance ",
-        "content": "Avoidance or aggression are common traps in communication with people around us. \n\nAvoiding means behaviors such as saying nothing, leaving the room, or agreeing just to avoid conflict. \n\nAggression – like threatening or being extremely angry – sometimes works, but usually only in the short term.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Acting with calmness",
-        "content": "A more helpful communication style is often to act with calmness and clarity. \n\nThis means for example: speaking in a normal conversation tone, maintaining relaxed and steady eye contact, and describing instead of accusing when you address a problem.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "editorialWithImage",
-        "title": "The yes trap",
-        "content": "A common problem when we are stressed is that we say yes to too many things. \n\nWe do this for all kinds of reasons: maybe we have too high aspirations, have a fear of missing out or just find it difficult to experience other people’s disappointment.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "editorialWithImage",
-        "title": "The yes trap",
-        "content": "When we say yes to too many things, it can put limits on the actions we can take to live in line with our values.\n\nThe ability to say no is an important relationship skill, especially in times of stress.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "editorialWithImage",
-        "title": "Saying no",
-        "content": "Here’s some advice you might find useful if you want to practice saying no:\n\n• Say thank you and then no: “Oh, that seems fun. Thanks for inviting me and I am sorry I cannot come”.\n\n• When in doubt, ask for some time to think it over: \"Thanks for asking, can I let you know tomorrow?\"\n\n• Try being more honest instead of using a white lie: “Oh, thank you for asking, that seems interesting but I’m not really up for it right now.”",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "editorialWithImage",
-        "title": "Examine what you want",
-        "content": "One reason we don’t set boundaries is that sometimes we don’t know what we want ourselves. We accept other people’s suggestions. \n\nAn important step is to examine what you want in situations where you know you might be asked or might have difficulties refusing.\n\nSo, let’s look inwards and find an area where it would be useful for you to set up boundaries.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "writing",
-        "title": "Your boundaries",
-        "question": "",
-        "longDescription": "1. Think of a situation where you said yes to something even though you didn’t really want to. Describe what happened and if it stopped you from doing something else that you valued more.\n2. Try to think of something in your life where it would be helpful for you to say no. Make concrete plans about how you want to respond when you get the question. Also, think about what saying no will allow you to say yes to.\n\nWrite your answer down on a piece of paper and hold on to it, you’ll be offered to share them with your group.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "audio",
-        "title": "The breathing anchor",
-        "description": "Before moving on, try this meditation to help you feel more mindful and present and prepare you for the next step of the lesson.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section12"
-          }
-        ]
-      },
-      {
-        "id": "section12",
-        "alias": "section12",
-        "type": "editorialWithImage",
-        "title": "Saying yes to what you want",
-        "content": "Now, saying no is not always a good long-term strategy either – it can be inflexible and stop us from pursuing our values. \n\nIn stressful situations, many of us automatically turn down opportunities to recharge our batteries, such as taking lunch break, a walk with a friend, exercising or social events.\n\nWe need to say yes to the things we actually want, the things that we value in the long run.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section13"
-          }
-        ]
-      },
-      {
-        "id": "section13",
-        "alias": "section13",
-        "type": "editorialWithImage",
-        "title": "Examine what you want",
-        "content": "Your next step is to examine what you want in situations where you might be prone to say no when you actually want to say yes.\n\nSo, let’s look inwards again, this time find an area where it would be useful for you to say yes more often.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section14"
-          }
-        ]
-      },
-      {
-        "id": "section14",
-        "alias": "section14",
-        "type": "writing",
-        "title": "Saying yes to valued activities",
-        "longDescription": "* Think of a situation where you said no to something even though it was something that most likely would charge your batteries in the long run. Describe what happened and if it stopped you from doing something you valued.\n* Make a plan for the next time a similar situation comes up. How can you remind yourself that this is something you value? How will you handle it next time?\n\nWrite your answer down on a piece of paper.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section15"
-          }
-        ]
-      },
-      {
-        "id": "section15",
-        "alias": "section15",
-        "type": "editorialWithImage",
-        "title": "Summary",
-        "content": "Well done, you have now completed **Saying no – and yes**. \n\nYou’ve examined a situation where you would like to change how you set your boundaries, and made a plan to say yes to something that is important for you in the long run. Great skills to improve relationships and decrease feelings of stress.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section16"
-          }
-        ]
-      },
-      {
-        "id": "section16",
-        "alias": "section16",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "\n\nYou are now ready to share with your group. Remember the things you are offered to share: \n\n1. A situation in your life where you said yes to something even though you really didn’t want to, and if it stopped you from doing something you valued.\n2. Something in your life that it would be helpful for you to say no to and your plan on how you want to respond. Also, your thoughts about what saying no will allow you to say yes to.",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
+            "conversationId": "resilience-and-stress-saying-no-and-yes-2",
+            "variant": "primary"
           }
         ]
       }
@@ -235,261 +40,74 @@
   "sv": {
     "id": "resilience-and-stress-saying-no-and-yes",
     "alias": "resilience-and-stress-saying-no-and-yes",
-    "type": "lesson",
+
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Att säga nej - och ja",
-        "content": "Stressiga perioder kan ibland kännas ensamma, och relationer tenderar att glida ner i prioriteringslistan. Men få saker i livet är viktigare än hälsosamma relationer när vi är stressade.\n\nI den här lektionen fokuserar vi på gränser och kommunikationsförmåga - grunden till hälsosamma relationer.",
+        "title": "Att säga nej — och ja",
+        "content": "Vår förmåga att **aktivt** fatta **beslut** som styr oss mot de saker som verkligen är **viktiga** för oss är avgörande för att vi ska kunna leva **meningsfulla** och **hållbara** liv.\n\nI den här lektionen fokuserar vi på **gränser** och **kommunikationsförmåga** — grunden till både **återhämtning** och hälsosamma **relationer**.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Sätt igång",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077481/Stress/harli-marten-M9jrKDXOQoU-unsplash_gga0zs.jpg"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Dagens lektion har fyra delar:\n\n* Kommunikation för bättre relationer\n* Agera med lugn \n* Säg ja och nej\n* Delning\n\n### Du kommer att behöva\n\n* 25 min ostörd tid\n* Penna och papper",
+        "content": "### Lär dig mer om:\n\n* Att säga nej — och ja\n* Sunda relationer\n* Ja-fällan\n* Dina gränser\n\n### Du behöver:\n\n* 25 minuter\n* Penna och papper",
         "buttons": [
           {
-            "component": "Button",
+            "component": "NextConversationButton",
             "content": "Fortsätt",
-            "sectionId": "section3"
+            "conversationId": "resilience-and-stress-saying-no-and-yes-2",
+            "variant": "primary"
           }
         ]
-      },
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-saying-no-and-yes",
+    "alias": "resilience-and-stress-saying-no-and-yes",
+
+    "root": "section1",
+    "sections": [
       {
-        "id": "section3",
-        "alias": "section3",
+        "id": "section1",
+        "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Sunda relationer",
-        "content": "När livet är stressigt händer det ibland att vi låter relationer rinna ut i sanden. Men relationer är viktiga. \n\nDen största källan till stress på jobbet är för mycket att göra, men relationer är också avgörande. Faktum är att bra relationer på jobbet (och i allmänhet) inte bara kan minska våra stressnivåer.\n\nGoda relationer har också visat sig stärka vårt immunförsvar och till och med ha positiv inverkan på vårt DNA.",
+        "title": "Dizer não – e sim",
+        "content": "Os períodos de stress podem por vezes parecer solitários e as relações tendem a cair na nossa lista de prioridades. Mas poucas coisas na vida são mais importantes quando estamos stressados do que as relações saudáveis.\n\nNesta lição, vamos focar-nos nos limites e nas ferramentas da comunicação - a base das relações saudáveis.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section4"
+            "content": "Continuar",
+            "sectionId": "section2"
           }
-        ]
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543792/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L6CAPAdizern%C3%A3oesim_c2fo5f.jpg"
       },
       {
-        "id": "section4",
-        "alias": "section4",
+        "id": "section2",
+        "alias": "section2",
         "type": "editorialWithImage",
-        "title": "Undvik undvikande",
-        "content": "Undvikande eller aggressivitet är vanliga fällor när vi kommunicerar med människor i vår närhet. \n\nAtt undvika kan vara beteenden som att inte säga någonting, gå därifrån eller hålla med bara för att slippa en konflikt. \n\nAggressivitet - kan innebära att man är hotfull eller väldigt arg - det fungerar ibland, men oftast bara kortsiktigt.",
+        "title": "",
+        "content": "### A lição de hoje tem quatro partes:\n\n* A comunicação para relações melhores\n* Agir com serenidade\n* Dizer sim e não\n* Partilhar\n\n### Vais precisar de:\n\n* 25 min de sossego sem interrupções\n* Papel e caneta",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Agera med lugn",
-        "content": "Ett effektivare sätt att kommunicera är oftast att agera med lugn och tydlighet.\n\nDet innebär till exempel att prata i normal samtalston, att behålla avslappnad och stadig ögonkontakt och vara beskrivande, snarare än anklaga när du tar upp ett problem.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "video",
-        "title": "Att säga ja men mena nej",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/hanterastress_attsaganejochja_ovning2.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_attsaganejochja_ovning2.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "editorialWithImage",
-        "title": "Ja-fällan",
-        "content": "När vi är stressade är ett vanligt problem att vi säger ja till för många saker.\n\nDet gör vi av alla möjliga anledningar: kanske har vi för höga ambitioner, är rädda för att missa något, eller bara har svårt att hantera att andra blir besvikna.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "editorialWithImage",
-        "title": "Ja-fällan",
-        "content": "När vi säger ja till för många saker kan det begränsa oss i beslutet vi tar för att leva enligt våra livsvärden.\n\nFörmågan att säga nej är en viktig färdighet för att ta hand om relationer, särskilt när vi är stressade.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "video",
-        "title": "Att behöva säga nej",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/hanterastress_attsaganejochja_ovning1.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_attsaganejochja_ovning1.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section10"
-          }
-        ]
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "Säga nej",
-        "content": "Här är några råd som kan vara användbara om du vill öva på att säga nej: \n\n* Inled med ett tack, och sedan ett nej: ”Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.”\n* Om du är osäker, be om lite betänketid: \"Tack för att du frågar, funkar det om jag svarar imorgon?\"\n* Se om du kan vara lite mer ärlig istället för att dra en vit lögn: \"Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu.\"",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section11"
-          }
-        ]
-      },
-      {
-        "id": "section11",
-        "alias": "section11",
-        "type": "editorialWithImage",
-        "title": "Undersök vad du vill",
-        "content": "En anledning till att vi inte sätter gränser är att vi ibland inte själva vet vad vi vill. Så vi gör det som andra föreslår.  \n\nEtt viktigt steg är att undersöka vad du vill i situationer där du vet att du kommer bli tillfrågad eller har svårt att säga nej. \n\nSå, låt oss börja med att titta inåt och hitta ett område där det skulle vara till hjälp för dig att sätta gränser.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section12"
-          }
-        ]
-      },
-      {
-        "id": "section12",
-        "alias": "section12",
-        "type": "writing",
-        "title": "Dina gränser",
-        "question": "",
-        "longDescription": "1. Tänk på en situation där du sa ja till något fast att du egentligen inte ville, och som kanske hindrade dig att göra något annat som du tycker är viktigt. \n2. Försök att tänka på något i ditt liv där det skulle vara till hjälp för dig att säga nej. Gör konkreta planer för hur du vill svara när du får frågan. Tänk också på vad du kommer kunna säga ja till nu när du säger nej.\n3. Om du säger nej till det här, vilka andra saker skulle det bli lättare att säga ja till? \n\nSkriv ner dina svar på ett papper och spara det. Det här är vad vi föreslår att du delar med din grupp.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section13"
-          }
-        ]
-      },
-      {
-        "id": "section13",
-        "alias": "section13",
-        "type": "audio",
-        "title": "Andningsankret",
-        "description": "Innan du går vidare, prova den här meditationen. Den kan hjälpa dig att bli mer närvarande och samtidigt förbereda dig för nästa steg i lektionen.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section14"
-          }
-        ]
-      },
-      {
-        "id": "section14",
-        "alias": "section14",
-        "type": "editorialWithImage",
-        "title": "Att säga ja till det du vill",
-        "content": "Att säga nej hela tiden är inte heller en bra och långsiktig strategi - det blir oflexibelt och hindrar oss från att göra saker vi tycker är viktiga. \n\nNär vi är stressade är det lätt att vi automatiskt säger nej till saker som skulle kunna ladda våra batterier, som att ta lunchrast, en promenad med en vän, träna, eller sociala aktiviteter. \n\nVi behöver säga ja till saker vi faktiskt vill göra, sakerna som verkligen spelar roll i det långa loppet.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section15"
-          }
-        ]
-      },
-      {
-        "id": "section15",
-        "alias": "section15",
-        "type": "editorialWithImage",
-        "title": "Undersök vad du vill",
-        "content": "Ditt nästa steg är att undersöka vad du faktiskt vill i situationer där det kan vara lätt att säga ja, fast du egentligen vill säga nej. \n\nSå, låt oss titta inåt igen. Den här gången, se om du kan hitta ett område där det skulle vara bra för dig att säga ja oftare.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section16"
-          }
-        ]
-      },
-      {
-        "id": "section16",
-        "alias": "section16",
-        "type": "writing",
-        "title": "Att säga ja till det du tycker är viktigt",
-        "longDescription": "* Tänk på en situation där du sa nej till något trots att det var en aktivitetet som förmodligen skulle ha laddat dina batterier på lång sikt. Beskriv vad som hände och om det hindrade dig från att göra något du tycker om.\n* Gör en plan inför nästa gång du hamnar i en liknande situation. Hur kan du påminna dig själv om att det här är något du tycker är viktigt och egentligen vill säga ja till? \n\nSkriv ner ditt svar på ett papper.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section17"
-          }
-        ]
-      },
-      {
-        "id": "section17",
-        "alias": "section17",
-        "type": "editorialWithImage",
-        "title": "Sammanfattning",
-        "content": "Bra gjort, du har nu gjort klart **Att säga nej - och ja**.\n\nDu har undersökt en situation där du vill förändra hur du sätter gränser och lagt en plan för att säga ja till något som är viktigt för dig på lång sikt. Detta är värdefulla färdigheter för att förbättra relationer och minska känslor av stress.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section18"
-          }
-        ]
-      },
-      {
-        "id": "section18",
-        "alias": "section18",
-        "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Du är nu redo att dela med din grupp. Vi föreslår att du delar följande:\n\n1. En situation i ditt liv där du sade ja till något fast du egentligen inte ville, och som kanske hindrade dig att göra något annat som du tycker är viktigt. \n2. En situation i ditt liv där det skulle vara bra för dig att säga nej, och hur du kan säga nej. \n3. Dina tankar kring vad detta nej skulle hjälpa dig att säga ja till för andra saker.",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-2",
+            "variant": "primary"
           }
         ]
       }

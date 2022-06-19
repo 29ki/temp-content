@@ -1,0 +1,130 @@
+{
+  "en": {
+    "id": "ae246e3a-f973-4918-b7f6-415d151e0966",
+    "alias": "Leadership-scenarioplanning-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "42ce7d6d-88fa-4a0b-9981-ed737eb1ff75",
+        "title": "Traditional planning",
+        "alias": "Traditional planning",
+        "content": "Can you imagine thinking like Thomas J. Watson, the chairman of IBM (1943), who said *\"I think there is a world market for about 5 computers”* or the executive from Decca records who turned the Beatles down because guitar groups *“are on the way out”* (1962).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "4f7d661c-58e3-4cb6-b167-420708cc3bbd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4f7d661c-58e3-4cb6-b167-420708cc3bbd",
+        "alias": "Planning 2",
+        "content": "Truth be told, everyone has **blind spots**: things and situations we overlook because of our **past experience, current attitude or future expectations.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Makes sense",
+            "sectionId": "ead51d9e-33b1-488f-9237-4e153fee8683"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ead51d9e-33b1-488f-9237-4e153fee8683",
+        "alias": "Planning 3",
+        "content": "In the past, it was widely believed that in order to achieve something, one needs to come up with a plan – and follow it. \n\nWhile traditional planning is good at outlining the main steps, it also leaves out the **situational details** and how different aspects of the plan **relate** to one another.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Why does this matter?",
+            "conversationId": "",
+            "sectionId": "8c42c4db-54d8-4da0-9cbb-8c93d9e7ae7b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8c42c4db-54d8-4da0-9cbb-8c93d9e7ae7b",
+        "content": "Without accounting for the inevitable changes that occur while working towards a goal, traditional planning can give us a **false sense of security** that the path to success is a straight one.",
+        "alias": "Planning 4",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "So what's the alternative?",
+            "conversationId": "778f3637-810f-4923-8390-db4bbea973ca"
+          }
+        ]
+      }
+    ],
+    "root": "42ce7d6d-88fa-4a0b-9981-ed737eb1ff75"
+  },
+  "sv": {
+    "id": "ae246e3a-f973-4918-b7f6-415d151e0966",
+    "alias": "Leadership-scenarioplanning-2"
+  },
+  "pt": {
+    "id": "ae246e3a-f973-4918-b7f6-415d151e0966",
+    "alias": "Leadership-scenarioplanning-2",
+    "root": "42ce7d6d-88fa-4a0b-9981-ed737eb1ff75",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "42ce7d6d-88fa-4a0b-9981-ed737eb1ff75",
+        "title": "Planeamento tradicional ",
+        "alias": "Traditional planning",
+        "content": "Consegues imaginar-te a pensar como Thomas J. Watson, o presidente da IBM (1943), que disse \"Eu acho que há um mercado mundial para cerca de 5 computadores\" ou o executivo da DECCA Records que rejeitou os Beatles, porque grupos de guitarra \"estão prestes a acabar\" (1962).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "4f7d661c-58e3-4cb6-b167-420708cc3bbd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4f7d661c-58e3-4cb6-b167-420708cc3bbd",
+        "alias": "Planning 2",
+        "content": "Verdade seja dita, todos temos **ângulos mortos**: coisas e situações que negligenciamos devido à nossa **experiência do passado**, **atitude atual** ou **expectativas futuras**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Faz sentido",
+            "sectionId": "ead51d9e-33b1-488f-9237-4e153fee8683"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ead51d9e-33b1-488f-9237-4e153fee8683",
+        "alias": "Planning 3",
+        "content": "No passado, acreditava-se fortemente que, para alcançar algo, era necessário elaborar um plano e segui-lo.\n\nEmbora o planeamento tradicional seja bom para delinear as etapas principais, também deixa de fora os **detalhes circunstanciais,** bem como a forma como os diferentes aspectos do plano se **relacionam** uns com os outros.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Por que importa?",
+            "conversationId": "",
+            "sectionId": "8c42c4db-54d8-4da0-9cbb-8c93d9e7ae7b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8c42c4db-54d8-4da0-9cbb-8c93d9e7ae7b",
+        "content": "Se não tivermos em conta as alterações inevitáveis que ocorrem durante o trabalho em direção a um objetivo, o planeamento tradicional pode dar-nos uma **falsa sensação de segurança** de que o caminho para o sucesso é direto.",
+        "alias": "Planning 4",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Então qual é a alternativa?",
+            "conversationId": "778f3637-810f-4923-8390-db4bbea973ca"
+          }
+        ]
+      }
+    ]
+  }
+}

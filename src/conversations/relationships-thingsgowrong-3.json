@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-3",
-    "alias": "relationships-thingsgowrong-3",
+    "alias": "YA building relationships 3: thingsgowrong-3",
     "root": "1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Next level\n\nYour mind is like a friend, always looking out for you, constantly sending warnings and tips. But just as you wouldn't always do what your friends tell you, you don't always need to react to a thought you have. \n\nThoughts are thoughts – they are not always true."
+                "content": "## Difficult thoughts\n\nYour thoughts are like a friend who is always looking out for you and constantly comes with warnings and tips.\n\nBut just as you wouldn't always do exactly as your friends tell you, you do not always have to do as your mind tells you.\n\nThoughts are thoughts—they're not always true."
               }
             ]
           },
@@ -23,8 +22,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Got it",
-                "conversationId": "relationships-thingsgowrong-3",
+                "content": "Continue",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +39,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Practice **allowing** a thought to pass like yet another cloud in the sky.\n\nSometimes you will need to act on your thoughts to look after yourself, but not always. Sometimes it is just your mind trying to help you out – even if  you didn't ask for it."
+                "content": "Practice **allowing** by letting thoughts come and go, just as clouds do in the sky.\n\nOften thoughts are just your brain trying to help you – even if you did not ask for it.\n\nSometimes you have to act on your thoughts to take care of yourself, but not always. Remember that the choice is yours."
               }
             ]
           },
@@ -49,10 +47,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Next",
                 "conversationId": "relationships-thingsgowrong-4",
-                "sectionId": "root"
+                "variant": "primary"
               }
             ]
           }
@@ -62,9 +60,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-3",
-    "alias": "relationships-thingsgowrong-3",
+    "alias": "YA building relationships 3: thingsgowrong-3",
     "root": "1",
     "sections": [
       {
@@ -86,7 +83,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-thingsgowrong-3",
                 "sectionId": "2"
               }
             ]
@@ -111,10 +107,70 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Nästa",
                 "conversationId": "relationships-thingsgowrong-4",
-                "sectionId": "root"
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-thingsgowrong-3",
+    "alias": "YA building relationships 3: thingsgowrong-3",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Pensamentos difíceis\n\nOs teus pensamentos são como um/a amigo/a que está sempre a cuidar de ti e te dá constantemente avisos e dicas.\n\nMas, assim como nem sempre farias exatamente o que os/as teus/tuas amigos/as te dizem, também não tens de fazer sempre o que a tua mente te diz.\n\nPensamentos são pensamentos — nem sempre são verdadeiros."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Pratica a **aceitação** deixando os pensamentos ir e vir, assim como as nuvens fazem no céu.\n\nMuitas vezes, os pensamentos são apenas o teu cérebro a tentar ajudar-te – mesmo que não tenhas pedido.\n\nÀs vezes tens de agir de acordo com os teus pensamentos para cuidar de ti mesma/o, mas nem sempre. Lembra-te que a escolha é tua."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Seguinte",
+                "conversationId": "relationships-thingsgowrong-4",
+                "variant": "primary"
               }
             ]
           }

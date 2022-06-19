@@ -1,0 +1,351 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "Nourishing relationships",
+    "about": {
+      "howThisWorks": "#### How does it work?\n\n* This course takes 3 weeks to complete\n* One lesson per week\n* One optional video sharing per week",
+      "courseValue": "#### What will I learn?\n\n* Find courage to love\n* Create safety for others to do the same\n* Learn how to fully express yourself in a relationship",
+      "body": "In times of hardship, few things are as important as experiencing deep connection to others.\n\nAt the same time we easily forget to nourish our relations when we’re in the midst of turmoil. This course explores several powerful ways to strengthen and deepen your relationships.",
+      "createdBy": {
+        "text": "This course has been created in collaboration with the renown relationship researchers Mavis Tsai and Jonathan W Kanter, and was edited by 29k psychologist Daniel Ek. The content in the course is based on well-researched exercises and interventions and a list of scientific references can be found on our website [29k.org/research](www.29k.org/research)",
+        "profiles": [
+          {
+            "name": "Jonathan W Kanter, PhD",
+            "linkUri": "https://depts.washington.edu/uwcssc/content/jonathan-w-kanter-phd",
+            "imageUri": "https://392xdjcckkb3mwu5z3dq8ym1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/jonathan-featured.png"
+          },
+          {
+            "name": "Mavis Tsai, PhD",
+            "linkUri": "https://depts.washington.edu/uwcssc/content/mavis-tsai-phd",
+            "imageUri": "https://www.lowcountrymhconference.com/wp-content/uploads/2020/01/Mavis-Tsai-2-1-e1579792151943.jpg"
+          },
+          {
+            "name": "Daniel Ek, lic psychologist",
+            "linkUri": "https://www.vanskapslabbet.se",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Nourishing_realationships_zqhvpb.png"
+    },
+    "cta": "In tough times we need each other more than ever. Learn to take steps towards deepening your relationships even when the world seems upside down.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "973c6250-9136-4f24-a212-10532e42e2b3",
+    "lessons": [
+      {
+        "id": "719f1b15-f4dd-4a84-b4c0-76aa1fc4eb95",
+        "index": 0,
+        "name": "Relationship map",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Explore your relationships and take action to come closer.",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-nourishing-relationships",
+            "title": "Opening up to love"
+          },
+          {
+            "title": "Relationship maps",
+            "conversationId": "a0406792-0aa3-43d9-8568-00fd221cc089"
+          },
+          {
+            "conversationId": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+            "title": "Taking action"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081183/New_images/courses%20png/Nourishing%20Relationships%20-%20lesson%20illustrations/Relationship%20map.png"
+        }
+      },
+      {
+        "id": "f3628c62-a8e7-44fd-a65c-a87a35facf97",
+        "name": "Reframing vulnerability",
+        "index": 1,
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Create deeper connections by opening up.",
+        "conversations": [
+          {
+            "title": "Barriers to vulnerability",
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-reframing-vulnerability"
+          },
+          {
+            "conversationId": "670ddee4-070e-4819-a3f6-0919db42b44d",
+            "title": "Opening up to others"
+          },
+          {
+            "title": "Reaching out",
+            "conversationId": "03490810-525e-45f6-934e-10f1ab70a071"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081183/New_images/courses%20png/Nourishing%20Relationships%20-%20lesson%20illustrations/Reframing%20vulnerability.png"
+        }
+      },
+      {
+        "id": "0aef18f9-4f10-4a74-8327-b6966d22e4d7",
+        "name": "Being there for others",
+        "index": 3,
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "How to open up and respond to others.",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-being-there-for-others",
+            "title": "Noticing opportunities"
+          },
+          {
+            "title": "How to respond",
+            "conversationId": "89603389-0991-4e5f-9c11-45ca29b56f38"
+          },
+          {
+            "title": "Exploring obstacles",
+            "conversationId": "e55f4658-5328-48cb-9b86-0a061f5de602"
+          },
+          {
+            "title": "Opening up",
+            "conversationId": "fa807001-4bee-431f-a68c-27f5d23161b2"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081183/New_images/courses%20png/Nourishing%20Relationships%20-%20lesson%20illustrations/Being%20there%20for%20others.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 460,
+      "rating": 4.4
+    },
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Nourishing_realationships_zqhvpb.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "name": "Ta hand om dina relationer",
+    "about": {
+      "howThisWorks": "#### Hur fungerar det?\n\n* Kursen tar tre veckor \n* En lektion per vecka\n* En frivillig gruppdelning per vecka",
+      "courseValue": "#### Vad kommer jag att lära mig?\n\n* Våga känna och visa kärlek\n* Skapa trygghet för andra att visa kärlek\n* Kommunicera öppet i en relation",
+      "body": "I svåra tider är få saker lika viktiga som nära kontakt med andra människor. \n\nDet är också i utmanande tider som vi lätt glömmer att ta hand om våra relationer. I den här kursen får du därför utforska flera kraftfulla sätt att stärka och fördjupa dina relationer även när omständigheterna är tuffa.",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Nourishing_realationships_zqhvpb.png"
+    },
+    "cta": "I tuffa tider behöver vi varandra mer än någonsin. Lär dig hur du kan fördjupa dina relationer även när det känns som att världen gungar.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "973c6250-9136-4f24-a212-10532e42e2b3",
+    "lessons": [
+      {
+        "id": "719f1b15-f4dd-4a84-b4c0-76aa1fc4eb95",
+        "index": 0,
+        "name": "Relationskartan",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Utforska dina relationer och ta steg mot att komma andra närmre. ",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-nourishing-relationships",
+            "title": "Öppna upp för kärlek"
+          },
+          {
+            "title": "Relationskartan",
+            "conversationId": "a0406792-0aa3-43d9-8568-00fd221cc089"
+          },
+          {
+            "conversationId": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+            "title": "Agera för förändring"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081183/New_images/courses%20png/Nourishing%20Relationships%20-%20lesson%20illustrations/Relationship%20map.png"
+        }
+      },
+      {
+        "id": "f3628c62-a8e7-44fd-a65c-a87a35facf97",
+        "name": "Visa sårbarhet",
+        "index": 1,
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "description": "Skapa samhörighet genom att våga vara sårbar.",
+        "conversations": [
+          {
+            "title": "Hinder mot att visa sårbarhet",
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-reframing-vulnerability"
+          },
+          {
+            "conversationId": "670ddee4-070e-4819-a3f6-0919db42b44d",
+            "title": "Att öppna sig för andra"
+          },
+          {
+            "title": "Att sträcka ut en hand",
+            "conversationId": "03490810-525e-45f6-934e-10f1ab70a071"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081183/New_images/courses%20png/Nourishing%20Relationships%20-%20lesson%20illustrations/Reframing%20vulnerability.png"
+        }
+      },
+      {
+        "id": "0aef18f9-4f10-4a74-8327-b6966d22e4d7",
+        "name": "Att finnas där för andra",
+        "index": 3,
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Att våga öppna sig när andra vill vara nära.",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-being-there-for-others",
+            "title": "Att lägga märke till möjligheter"
+          },
+          {
+            "title": "Hur du kan agera",
+            "conversationId": "89603389-0991-4e5f-9c11-45ca29b56f38"
+          },
+          {
+            "title": "Utforska hinder",
+            "conversationId": "e55f4658-5328-48cb-9b86-0a061f5de602"
+          },
+          {
+            "title": "Att öppna sig",
+            "conversationId": "fa807001-4bee-431f-a68c-27f5d23161b2"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081183/New_images/courses%20png/Nourishing%20Relationships%20-%20lesson%20illustrations/Being%20there%20for%20others.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 460,
+      "rating": 4.4
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546690/New_images/courses%20png/Nourishing_realationships_zqhvpb.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "Catarina Furtado",
+      "name": "Catarina Furtado"
+    },
+    "name": "Nutrir relações em tempos difíceis",
+    "about": {
+      "howThisWorks": "#### Como é que funciona este curso?\n\n* Este curso tem a duração de 4 semanas\n* Uma sessão por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "#### O que vou aprender?\n\n* A encontrar coragem para amar\n* A criar um ambiente seguro para que outros façam o mesmo\n* A aprender a expressar-me livremente numa relação",
+      "body": "Em tempos difíceis, poucas coisas são tão importantes como uma ligação profunda aos outros. \nAo mesmo tempo, quando nos encontramos no meio da agitação, esquecemo-nos facilmente de nutrir as nossas relações. Este curso explora as formas mais poderosas de fortalecer e aprofundar as relações.",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com Catarina Furtado"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958192/29k%20FJN/Courses/Menu%20Thumbnails/Catarina_Menu01_1final_zpiiqk.jpg"
+    },
+    "cta": "Em alturas difíceis, precisamos mais do que nunca uns dos outros. Dá os primeiros passos em direção a ligações mais profundas.",
+    "duration": {
+      "count": 3,
+      "type": "lesson"
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "973c6250-9136-4f24-a212-10532e42e2b3",
+    "lessons": [
+      {
+        "id": "719f1b15-f4dd-4a84-b4c0-76aa1fc4eb95",
+        "index": 0,
+        "name": "Nutrir relações",
+        "duration": {
+          "count": 30,
+          "type": "minute"
+        },
+        "description": "Explora as tuas relações e adota medidas para te aproximares...",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-nourishing-relationships",
+            "title": "Nutrir relações"
+          }
+        ]
+      },
+      {
+        "id": "f3628c62-a8e7-44fd-a65c-a87a35facf97",
+        "name": "Reformular a vulnerabilidade",
+        "index": 1,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Cria relações mais profundas, abrindo-te.",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-reframing-vulnerability",
+            "title": "Reformular a vulnerabilidade"
+          }
+        ]
+      },
+      {
+        "id": "0aef18f9-4f10-4a74-8327-b6966d22e4d7",
+        "name": "Estar lá para os outros",
+        "index": 3,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Como te podes abrir e reagir quando os outros dão passos para aprofundar uma relação contigo.",
+        "conversations": [
+          {
+            "conversationId": "nourishing-relationships-in-times-of-turmoil-being-there-for-others",
+            "title": "Estar lá para os outros"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 460,
+      "rating": 4.4
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448951/29k%20FJN/Courses/Nourishing%20Relationships/Photos%20Final%20(Use%20This%20One)/coursecover2_sxmqha.jpg"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Find your inner peace",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Hitta_lugnet_cy19sy.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "d9b68374-88d8-4b4c-a39f-065a58e3d155",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": true,
+    "stations": [
+      {
+        "id": "b293fa8d-f355-4a47-bf48-cd0735113edb",
+        "alias": "Meditation Find your inner peace",
+        "root": "8ea34774-74fd-4a39-8180-e6342f3265d3",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "8ea34774-74fd-4a39-8180-e6342f3265d3",
+            "alias": "Intro",
+            "title": "Find your inner peace",
+            "content": "In this meditation you will focus on your breathing and shift your attention towards the body. This practice will help you create inner peace.\n\nThis meditation has been recorded for 29k by [](https://www.happymeyoga.se/)[Emma Öström](https://www.happymeyoga.se/).",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Hitta_lugnet_cy19sy.png",
+            "buttonText": "Start"
+          },
+          {
+            "type": "audio",
+            "id": "8e7cd9a9-2233-4b0c-b742-e66a2f89cf55",
+            "alias": "Audio player",
+            "description": "Push the play-button to start.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624883602/Meditation1_alt2_musik_ducked_1_p5m4g2.mp3",
+            "duration": "06:04",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "17650cf7-42f2-4569-8065-7f6639bd34af",
+            "alias": "Summary",
+            "title": "Good job on completing this exercise! ",
+            "content": "You've now practiced shifting your focus towards your breath and your body. \\\n\\\nYour breathing can help calm you down and become more aware of what's going on inside of you.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Find your inner peace",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Hitta lugnet",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Hitta_lugnet_cy19sy.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "d9b68374-88d8-4b4c-a39f-065a58e3d155",
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": false,
+    "stations": [
+      {
+        "id": "b293fa8d-f355-4a47-bf48-cd0735113edb",
+        "alias": "Meditation Find your inner peace",
+        "root": "fb028a45-b3af-4c54-9142-2eb99de6e609",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "fb028a45-b3af-4c54-9142-2eb99de6e609",
+            "alias": "Intro",
+            "title": "Hitta lugnet",
+            "content": "I den här meditationen får du öva på att följa dina andetag och rikta din uppmärksamhet mot kroppen — en övning för dig som vill finna lugn och avslappning.\n\nDen här meditationen har spelats in för 29k av [Emma Öström](https://www.happymeyoga.se/).",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794365/New_images/meditations%20png/1024x1024/Hitta_lugnet_cy19sy.png",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "audio",
+            "id": "cf2cb81f-e2e4-486c-b877-7a333d6c698b",
+            "alias": "Audio player",
+            "title": "",
+            "description": "Tryck på play-knappen för att börja.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624883641/Meditations/Meditation1_alt2_musik_ducked_1_ezdxhb.mp3",
+            "duration": "06:04",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "61396e1e-a7ac-4e65-ab49-e395b182ff70",
+            "alias": "Summary",
+            "title": "Du är nu klar med övningen! ",
+            "content": "Du har övat på att fokusera på din andning och din kropp. \n\nDin andning kan hjälpa dig komma ner i varv och bli mer uppmärksam på vad som pågår på insidan.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Hitta lugnet",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "difficulty": [
+      "Beginner"
+    ],
+    "wip": true,
+    "type": "meditation",
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "id": "d9b68374-88d8-4b4c-a39f-065a58e3d155",
+    "stations": []
+  }
+}

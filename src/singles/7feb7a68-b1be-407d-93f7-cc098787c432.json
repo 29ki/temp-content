@@ -1,0 +1,186 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "My safe place",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/my_safe_place_cvsugt.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "minute"
+    },
+    "tags": [],
+    "type": "meditation",
+    "id": "7feb7a68-b1be-407d-93f7-cc098787c432",
+    "description": "Create a safe place you can revisit any time.",
+    "stations": [
+      {
+        "id": "7feb7a68-b1be-407d-93f7-cc098787c432",
+        "root": "section1",
+        "alias": "Meditation: My Safe Place",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "My Safe Place",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/my_safe_place_cvsugt.png",
+            "title": "My Safe Place",
+            "content": "*3 minutes*\n\nBeing in crisis can evoke many powerful feelings, such as feeling unsafe. This meditation helps you find and connect to your safe place.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You are invited to a short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/my-safe-place.mp3",
+            "alias": "safe place: section 2",
+            "duration": "03:10",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7feb7a68-b1be-407d-93f7-cc098787c432/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nYour safe place is always within you. You can revisit it wherever you are, whenever you need.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "7f667f8a-1f10-4624-8156-1a249e83bf4e",
+            "alias": "Sharing wall: my safe place",
+            "question": "Is there a difficult situation ahead that might be easier if you remember your safe place? ",
+            "exampleText": "I can feel strong emotions when talking with my mom. I'll  remeber my safe place next time we talk."
+          }
+        ],
+        "name": "My safe place",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Min säkra plats",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/my_safe_place_cvsugt.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "7feb7a68-b1be-407d-93f7-cc098787c432",
+    "description": "Skapa en säker plats som du kan besöka när som helst.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "7feb7a68-b1be-407d-93f7-cc098787c432",
+        "root": "section1",
+        "alias": "Meditation: My Safe Place",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Min säkra plats",
+            "title": "Min säkra plats",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/my_safe_place_cvsugt.png",
+            "content": "*3 minuter*\n\nAtt vara i kris kan väcka många kraftfulla känslor, som att känna sig osäkra. Denna meditation hjälper dig att hitta och ansluta till din säkra plats.",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Du är inbjuden till en kort meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/my-safe-place.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7feb7a68-b1be-407d-93f7-cc098787c432/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Bra gjort för att slutföra denna meditation.\n\nDin säkra plats är alltid inom dig. Du kan besöka den vart du än är, när du behöver.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Min säkra plats",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "O meu lugar seguro",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/my_safe_place_cvsugt.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "7feb7a68-b1be-407d-93f7-cc098787c432",
+    "description": "Cria um lugar seguro que possas revisitar em qualquer altura",
+    "stations": [
+      {
+        "id": "7feb7a68-b1be-407d-93f7-cc098787c432",
+        "root": "section1",
+        "alias": "Meditation: My Safe Place",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "O meu lugar seguro",
+            "title": "O meu lugar seguro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794025/New_images/meditations%20png/1024x1024/my_safe_place_cvsugt.png",
+            "content": "*02:56 minutos*\n\nEstar em crise pode despoletar muitos sentimentos poderosos, como insegurança. Esta meditação ajuda-te a encontrar e a conectares-te com o teu lugar seguro.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para uma meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523405/29k%20FJN/Meditations/Joanna%20Final/My_Safe_Place_yidol7.mp3",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/7feb7a68-b1be-407d-93f7-cc098787c432/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por completares esta meditação.\n\nO teu lugar seguro está sempre dentro de ti. Podes revisitá-lo onde quer que estejas, sempre que precisares.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "f77b3a72-fbb5-466c-b645-f22d6d3562ce",
+            "alias": "Sharing wall: my safe place",
+            "question": "Tens uma situação difícil pela frente que pode ser mais fácil de enfrentar se te lembrares do teu lugar seguro?",
+            "exampleText": "Posso sentir emoções fortes ao falar com a minha mãe. Vou-me lembrar do meu lugar seguro na próxima vez que conversarmos."
+          }
+        ],
+        "name": "O meu lugar seguro",
+        "type": "station"
+      }
+    ]
+  }
+}

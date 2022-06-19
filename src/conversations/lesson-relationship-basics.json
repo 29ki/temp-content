@@ -1,9 +1,8 @@
 {
   "en": {
-    "type": "lesson",
     "root": "1",
     "id": "relationship-basics-1",
-    "alias": "relationship-basics-1",
+    "alias": "YA building relationships 1: basics 1",
     "sections": [
       {
         "id": "1",
@@ -12,7 +11,7 @@
           {
             "component": "HeaderImage",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779568/Building%20Relationships/relationship-basics_header_qll51z.png"
             }
           },
           {
@@ -20,7 +19,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Aware and allow\n\nWe’re glad to see you back here. In this challenge you will learn:\n\n* Truth versus idea\n* Friendship super skills\n* Aware and allow\n* Practice"
+                "content": "# Relationships—how they work"
+              },
+              {
+                "component": "Text",
+                "content": "Great that you're here and want to learn more about relationships. In this lesson, you'll think about what is important to you and how you can improve your relationships."
               }
             ]
           },
@@ -29,7 +32,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "I'm ready",
+                "content": "Okay",
                 "sectionId": "2"
               }
             ]
@@ -46,7 +49,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "## Truth versus idea\n\nThe context around us often gives us ideas about how things should be – ideas that sometimes are mistaken for truths. Ideas on what you should and shouldn’t do with your thoughts and feelings could be helpful, but oftentimes they are not. \n\nInstead, they can make our lives harder."
+                "content": "**In this lesson you will learn:**\n\n* Why we care about others so much\n* The pause skill\n* What matters in friendship\n* Practicing building relationships"
               }
             ]
           },
@@ -55,7 +58,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Continue",
+                "content": "Get started",
                 "sectionId": "3"
               }
             ]
@@ -72,7 +75,26 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Which of the following **are truths?**\n\n* It’s best to hide your thoughts and feelings from others\n* If you are sad, you should control that feeling\n* It’s best to tell others if they did something you don’t like\n* It’s best to be happy around others all of the time"
+                "content": "## Why we care"
+              }
+            ]
+          },
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1622799870/Relationship%20Course%20YA/Pic_Dog_and_human_t1mjpq.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Imagine a dog standing outside your door in the rain, and a person sitting inside in a warm room filled with people."
+              },
+              {
+                "component": "Text",
+                "content": "Which one is thinking \"Why don't people like me?\""
               }
             ]
           },
@@ -81,9 +103,13 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Show me!",
-                "sectionId": "4",
-                "conversationId": "relationship-basics-1"
+                "content": "The dog",
+                "sectionId": "5"
+              },
+              {
+                "component": "Button",
+                "content": "The person",
+                "sectionId": "4"
               }
             ]
           }
@@ -99,7 +125,115 @@
             "content": [
               {
                 "component": "Text",
-                "content": "In fact – they’re all *ideas*. But still most people are taught these ideas as truths. They’re everywhere.\n\nAt 29k, we use science to distinguish between truths and ideas. Not because ideas necessarily are bad – they’re great for entertaining stories and being creative. But psychologists have spent decades studying how to best handle thoughts and feelings. \n\nAlong the way they’ve discovered that a lot of the things we assume are truths, actually are *ideas*."
+                "content": "That's right. We humans spend a lot of time worrying and thinking about what others think of us. We can be with others, and at the same time somewhere completely different in mind. The dog doesn't think about why you left it out in the rain. It'll be happy the second you let it in."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Tell me more",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "We get why you chose the dog, but the correct answer is the human. Humans spend a lot of time wondering what other people do and think about them. Your dog, well, once you let it inside it will forgive you."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Tell me more",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Why we care so much"
+              },
+              {
+                "component": "Text",
+                "content": "OK, so people worry about what others think and feel. Since we have always had to work together to survive, our brains are super smart to worry about whether we can join or not. It's been a matter of life or death."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "But sometimes it is precisely our worries, our thoughts or perceptions that get us into trouble. When something goes wrong, we blame ourselves or someone else, dwell on it and worry that it will go wrong again."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Okay",
+                "sectionId": "8"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "8",
+        "alias": "8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now that you know, you don't have to worry about worrying so much about what others think. It is simply natural to do so. OK, so now we can focus on building relationships."
               }
             ]
           },
@@ -108,9 +242,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Got it!",
-                "conversationId": "relationship-basics-1",
-                "sectionId": "root"
+                "variant": "primary",
+                "content": "Let's go",
+                "conversationId": "relationship-basics-2"
               }
             ]
           }
@@ -120,19 +254,18 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "root": "Section1",
     "id": "relationship-basics-1",
-    "alias": "relationship-basics-1",
+    "alias": "YA building relationships 1: basics 1",
     "sections": [
       {
         "id": "Section1",
-        "alias": "Section1",
+        "alias": "1",
         "content": [
           {
             "component": "HeaderImage",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779568/Building%20Relationships/relationship-basics_header_qll51z.png"
             }
           },
           {
@@ -154,7 +287,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Content"
               }
             ]
@@ -164,14 +296,14 @@
       },
       {
         "id": "Content",
-        "alias": "Content",
+        "alias": "2",
         "content": [
           {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "**Den här utmaningen innehåller:**\n\n* Varför vi bryr oss om vad andra tycker\n* Andningspaus\n* Vad är viktigt i kompisrelationer\n* Träna på att bygga relationer"
+                "content": "**I den här lektionen lär du dig om:**\n\n* Varför vi bryr oss om vad andra tycker\n* Andningspaus\n* Vad som är viktigt för dig i kompisrelationer\n* Träna på att bygga relationer"
               }
             ]
           },
@@ -181,7 +313,6 @@
               {
                 "component": "Button",
                 "content": "Kör igång",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section2"
               }
             ]
@@ -191,7 +322,7 @@
       },
       {
         "id": "Section2",
-        "alias": "Section2",
+        "alias": "3",
         "content": [
           {
             "component": "TextGroup",
@@ -212,13 +343,11 @@
               {
                 "component": "Button",
                 "content": "Hunden",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section4"
               },
               {
                 "component": "Button",
                 "content": "Människan",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section3"
               }
             ]
@@ -228,7 +357,7 @@
       },
       {
         "id": "Section3",
-        "alias": "Section3",
+        "alias": "4",
         "content": [
           {
             "component": "TextGroup",
@@ -245,7 +374,6 @@
               {
                 "component": "Button",
                 "content": "Berätta mer",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section5"
               }
             ]
@@ -270,19 +398,18 @@
               {
                 "component": "Button",
                 "content": "Berätta mer",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section5"
               }
             ]
           }
         ],
         "id": "Section4",
-        "alias": "Section4",
+        "alias": "5",
         "type": "defaultSection"
       },
       {
         "id": "Section5",
-        "alias": "Section5",
+        "alias": "6",
         "content": [
           {
             "component": "TextGroup",
@@ -303,7 +430,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section7"
               }
             ]
@@ -313,7 +439,7 @@
       },
       {
         "id": "Section7",
-        "alias": "Section7",
+        "alias": "7",
         "content": [
           {
             "component": "TextGroup",
@@ -330,7 +456,6 @@
               {
                 "component": "Button",
                 "content": "Jag fattar",
-                "conversationId": "relationship-basics-1",
                 "sectionId": "Section8"
               }
             ]
@@ -356,9 +481,263 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Sätt igång",
-                "conversationId": "relationship-basics-2",
-                "sectionId": "Section1"
+                "conversationId": "relationship-basics-2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "root": "1",
+    "id": "relationship-basics-1",
+    "alias": "YA building relationships 1: basics 1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779568/Building%20Relationships/relationship-basics_header_qll51z.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Relações - como funcionam"
+              },
+              {
+                "component": "Text",
+                "content": "Que bom que estás aqui e queres aprender mais sobre relações. Nesta lição, vais pensar sobre o que é importante para ti e como podes melhorar as tuas relações."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos lá",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Nesta lição vais aprender:**\n\n* Porque nos preocupamos tanto com os outros\n* A competência da pausa\n* O que importa na amizade\n* Praticar a construção de relações"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos começar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Porque nos importamos"
+              }
+            ]
+          },
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1622799870/Relationship%20Course%20YA/Pic_Dog_and_human_t1mjpq.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Imagina um cão parado do lado de fora da tua porta à chuva e uma pessoa sentada numa sala confortável cheia de pessoas."
+              },
+              {
+                "component": "Text",
+                "content": "Qual deles está a pensar \"Por que razão estas pessoas não gostam de mim?\""
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "O cão",
+                "sectionId": "5"
+              },
+              {
+                "component": "Button",
+                "content": "A pessoa",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Isso mesmo. Nós, seres humanos, passamos muito tempo a preocupar-nos e a pensar no que os outros pensam de nós. Podemos estar com os outros e, ao mesmo tempo, num sítio completamente diferente na nossa mente. O cão não pensa por que razão o deixaste à chuva. E vai ficar feliz no segundo em que tu o deixares entrar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Contem-me mais",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Entendemos por que razão escolheste o cão, mas a resposta correta é o humano. Os humanos passam muito tempo a perguntar-se com o que as outras pessoas fazem e pensam acerca deles. Já o teu cão, bem, uma vez que tu o deixes entrar, ele vai perdoar-te."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Contem-me mais",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## Porque nos importamos tanto"
+              },
+              {
+                "component": "Text",
+                "content": "OK, então as pessoas preocupam-se com o que os outros pensam e sentem. Como sempre tivemos de trabalhar juntos para sobreviver, os nossos cérebros são super inteligentes e preocupam-se de forma automática para ver se nos podemos juntar ou não. Tem sido uma questão de vida ou de morte."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Mas às vezes são precisamente as nossas preocupações, os nossos pensamentos ou perceções que nos colocam em apuros. Quando algo dá errado, culpamo-nos a nós mesmas/os ou a outra pessoa, insistimos nisso e focamo-nos na crença de que da próxima vez vai voltar a correr mal."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "8"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "8",
+        "alias": "8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora que já sabes, não tens de te preocupar tanto com o que os outros pensam. Simplesmente é natural fazê-lo. Por isso agora já nos podemos concentrar na construção de relações."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Vamos lá",
+                "conversationId": "relationship-basics-2"
               }
             ]
           }

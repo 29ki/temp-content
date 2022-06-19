@@ -1,0 +1,172 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Testing 4.5 video",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "version": 1,
+    "type": "exercise",
+    "id": "bec834b8-2ea8-4f0b-98cc-fbf7875a07f9",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-bec834b8-2ea8-4f0b-98cc-fbf7875a07f9",
+        "name": "Testing 4.5 video",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "d51af89f-ac87-4321-9419-4c661aff4c26",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "This is the exercise",
+            "content": "One sentence describing what the user will gain from this exercise.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "video",
+            "id": "ed6e5e1a-3b4f-4111-be0a-d874df065c37",
+            "title": "Sandros words",
+            "description": "About why to join the challenge",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1649318862/Challenges/29k_PROMO_Reveal_4.5_qqyfxh.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1649318853/Challenges/Sandro_4.5_ft6w5t.png"
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "78f73fbb-7f96-4d88-8e87-50bade23f6b8",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Well done",
+            "content": "You did it",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "exercise",
+    "id": "bec834b8-2ea8-4f0b-98cc-fbf7875a07f9",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-bec834b8-2ea8-4f0b-98cc-fbf7875a07f9",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "75098b8a-78b5-436c-850d-4db843331ad3",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d51af89f-ac87-4321-9419-4c661aff4c26",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "78f73fbb-7f96-4d88-8e87-50bade23f6b8",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "exercise",
+    "id": "bec834b8-2ea8-4f0b-98cc-fbf7875a07f9",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-bec834b8-2ea8-4f0b-98cc-fbf7875a07f9",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "75098b8a-78b5-436c-850d-4db843331ad3",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d51af89f-ac87-4321-9419-4c661aff4c26",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "78f73fbb-7f96-4d88-8e87-50bade23f6b8",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

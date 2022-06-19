@@ -1,0 +1,106 @@
+{
+  "en": {
+    "id": "meaning-making-in-a-crisis-acceptance",
+    "alias": "Meaning-making in a crisis: Acceptance 1",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Introduction",
+        "content": "Gaining clarity on what we value is important in times of crisis as it helps us understand what guides our actions. Having calibrated your inner compass, you’re now in a driver’s seat and ready to move off\n\nBut which road to take? What speed to drive at? And how to deal with all the inevitable challenges that lie ahead?\n\nIn this lesson, you will explore how to drive your life in your chosen direction, even in the face of adversity.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ],
+        "alias": "section1"
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Turning values into action",
+        "content": "As humans we’re social, goal-oriented, progress-driven species.\n\nHowever, when we’re faced with a lot of change and uncertainty, such as during a crisis, it can feel like we are suddenly stopped in our tracks, unsure which way to go next. This in turn can make us feel disappointed, hopeless, disempowered and stuck.\n\nFor example, you might feel disappointed that you can’t leave your home right now due to unforeseen circumstances. You might be angry that your plans, such as to graduate or travel, are being postponed until further notice. You might feel worried about your finances as a result of losing a job.\n\n### Today’s lesson has four parts:\n\n* Being intentional vs Being in control\n* Illusion of control\n* Acceptance\n* The acceptance slider\n\n### You’ll need:\n\n* 30 min of undisturbed time\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ],
+        "alias": "section2"
+      }
+    ]
+  },
+  "sv": {
+    "id": "meaning-making-in-a-crisis-acceptance",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Introduktion",
+        "content": "Att tydliggöra vad som är viktigt för oss i kristider kan hjälpa oss att styra livet i den riktning vi vill. Efter att ha kalibrerat din inre kompass sitter du nu i förarsätet, redo att åka\n\nMen vilken väg ska vi välja? Vilken hastighet ska vi köra? Och hur kan vi hantera alla de oundvikliga utmaningar som väntar?\n\nI den här lektionen kommer du att utforska hur du kan styra ditt liv i din valda riktning, även när du stöter på motgångar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Omvandla värderingar till handling",
+        "content": "Vi människor är sociala djur. Och vi är väldigt bra på att kämpa för att nå mål, lära oss nytt och lösa problem. \n\nMen när vi står inför osäkerhet och stora förändringar, till exempel under en kris, kan det kännas som att det plötsligt tar stopp. Vi blir lätt osäkra på vilken väg vi ska gå. Det kan få oss att känna oss besvikna, hopplösa, svaga eller som att vi sitter fast.\n\nTill exempel kanske du känner dig besviken över att du inte kan lämna ditt hem just nu på grund av oförutsedda omständigheter. Du kanske är arg över att dina planer att studera eller resa, är uppskjutna. Du kanske känner dig orolig för din ekonomi för att du har förlorat jobbet.\n\n### Den här lektionen har fyra delar:\n\n* Avsiktlig vs att ha kontroll\n* Illusionen av kontroll\n* Acceptans\n* Acceptanskontrollen\n\n### Du behöver:\n\n* 30 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis: Acceptance 1"
+  },
+  "pt": {
+    "id": "meaning-making-in-a-crisis-acceptance",
+
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Introdução",
+        "content": "Ter claro o que valorizamos é importante em tempos difíceis, porque nos ajuda a entender o que orienta as nossas ações. Tendo calibrado a tua bússola interna, estás agora no lugar de condutor/a e pronto/a para partir.\n\nMas qual é o caminho seguir? Com que velocidade? E como lidar com todos os desafios inevitáveis que temos pela frente?\n\nNesta lição, vais explorar como podes conduzir a tua vida na direção que escolheste, enfrentando as adversidades pelo caminho.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Transformar valores em ações",
+        "content": "Os humanos são uma espécie social, orientada por objetivos e impulsionada pelo progresso.\n\nNo entanto, quando nos deparamos com muitas mudanças e incertezas, por exemplo durante uma crise, pode parecer que paramos subitamente no nosso caminho, sem saber que direção seguir. Isto, por sua vez, pode-nos fazer sentir desanimados, sem esperança, sem poder e bloqueados.\n\nPor exemplo, podes sentir-te desanimada/o por não poderes sair de casa devido a circunstâncias imprevistas. Podes estar com raiva porque os teus planos estão a ser adiados temporariamente, por exemplo, acabares o teu curso ou viajar. Ou podes ficar preocupada/o com as tuas finanças por poderes perder o emprego.\n\n### A lição de hoje tem quatro partes:\n\n* Ser intencional vs. Estar no controlo\n* A ilusão do controlo\n* Aceitação\n* O regulador da aceitação\n\n### Vais precisar de:\n\n* 30 min sossegados e sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      }
+    ],
+    "alias": "Meaning-making in a crisis: Acceptance 1"
+  }
+}

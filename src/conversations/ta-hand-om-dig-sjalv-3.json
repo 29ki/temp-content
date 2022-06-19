@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "ta-hand-om-dig-sjalv-3",
-    "alias": "ta-hand-om-dig-sjalv-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 3-Selfcare-3",
     "root": "section1",
     "sections": [
       {
@@ -12,15 +11,15 @@
             "content": [
               {
                 "component": "Text",
-                "content": "För att du ska må bra i livet och tycka om dig själv behöver du – om du är som de flesta andra – då och då göra saker för att ta hand om dig."
+                "content": "If you're like most people you'll need to do things to take care of yourself from time to time in order to feel good in life and like yourself."
               },
               {
                 "component": "Text",
-                "content": "Att ta hand om dig själv kan delas in i fem områden"
+                "content": "Taking care of yourself can be split up into five areas."
               },
               {
                 "component": "Text",
-                "content": "* Ta hand om kroppen\n* Vårda viktiga relationer\n* Beskriva och uttrycka känslor\n* Känna mening i tillvaron\n* Lära dig nya saker"
+                "content": "* Take care of your body\n* Nourish relationships\n* Describe and express feelings\n* Find meaning in life\n* Learn new things"
               }
             ]
           },
@@ -29,8 +28,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "content": "Next",
                 "sectionId": "section2"
               }
             ]
@@ -47,19 +45,19 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Ta hand om dig själv-kollen"
+                "content": "# Self-care check-up"
               },
               {
                 "component": "Text",
-                "content": "Senaste veckan har jag tagit hand om:"
+                "content": "Now estimate how you've taken care of yourself over the past week on a scale from one to five (1 = not at all, 5 = exactly the way I want).\n\nSet a number for each area:"
               },
               {
                 "component": "Text",
-                "content": "* Min kropp (1 inte alls –  5 på det sätt jag vill)\n* Mina relationer  (1  –  5)\n* Lagt märke till och uttryckt mina känslor (1 – 5)\n* Gjort meningsfulla saker (1  – 5]\n* Lärt mig nya saker  (1 –  5)"
+                "content": "* My body\n* My relationships\n* Noticed and expressed my feelings\n* Done meaningful things\n* Learnt new things"
               },
               {
                 "component": "Text",
-                "content": "Anteckna någonstans hur det har varit för dig senaste veckan."
+                "content": "Write your answer down somewhere where only you will see it."
               }
             ]
           },
@@ -68,8 +66,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "content": "I'm done",
                 "sectionId": "section3"
               }
             ]
@@ -86,11 +83,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "När du nu tittar på din ta hand om mig själv-koll, välj ett område som inte har fått så mycket uppmärksamhet senaste veckan."
+                "content": "As you look at your self-care check-up, choose an area that hasn't received much attention in the past week."
               },
               {
                 "component": "Text",
-                "content": "Skriv upp det område du har valt."
+                "content": "Write down the area you chose."
               }
             ]
           },
@@ -99,8 +96,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "content": "I'm done",
                 "sectionId": "section4"
               }
             ]
@@ -117,11 +113,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Du ska nu få tänka ut något litet som du kan göra inom det område som du valt. Du kan till exempel ta en kort promenad, ringa en vän, berätta hur du känner för någon, hjälpa någon som behöver det eller träna på att skjuta bollen i krysset. Det behöver inte vara dyrt eller storslaget. Det handlar om att finnas där för dig själv, att du behöver något som du kan hjälpa dig själv med."
+                "content": "Now, think of something small that you can do in the area you have chosen. For example, you can take a short walk, call a friend, explain how you feel, help someone, or practice hitting a target with a ball. It doesn't have to be expensive or grand. It's about being there for yourself."
               },
               {
                 "component": "Text",
-                "content": "Skriv ner beteendet du ska göra."
+                "content": "Make a note of what you are going to do."
               }
             ]
           },
@@ -130,8 +126,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
+                "content": "I'm done",
                 "sectionId": "section5"
               }
             ]
@@ -148,7 +143,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Bra gjort. Fint att du ställer upp för dig själv. Gör gärna om Ta hand om mig själv-kollen då och då för att upptäcka vad du kan göra för dig själv."
+                "content": "Well done. Good job standing up for yourself. Feel free to do the self-care check-up from time to time to discover what you need."
               }
             ]
           },
@@ -157,9 +152,8 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Okey",
-                "sectionId": "Section6",
-                "conversationId": "ta-hand-om-dig-sjalv-3"
+                "content": "Next",
+                "sectionId": "Section6"
               }
             ]
           }
@@ -177,7 +171,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Du är nu klar med **Ta hand om dig själv** och har lärt dig att använda kroppen för att påverka hur saker känns, och att det finns olika sätt att ta hand om sig själv – och vi behöver dem alla."
+                "content": "You've completed **Take care of yourself** and have learned to use the body to influence how things feel, and that there are different ways to take care of yourself—and we need them all."
               }
             ]
           },
@@ -197,8 +191,7 @@
   },
   "sv": {
     "id": "ta-hand-om-dig-sjalv-3",
-    "alias": "ta-hand-om-dig-sjalv-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 3-Selfcare-3",
     "root": "section1",
     "sections": [
       {
@@ -212,7 +205,7 @@
               },
               {
                 "component": "Text",
-                "content": "Att ta hand om dig själv kan delas in i fem områden"
+                "content": "Att ta hand om dig själv kan delas in i fem områden:"
               },
               {
                 "component": "Text",
@@ -226,7 +219,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
                 "sectionId": "section2"
               }
             ]
@@ -265,7 +257,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
                 "sectionId": "section3"
               }
             ]
@@ -296,7 +287,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
                 "sectionId": "section4"
               }
             ]
@@ -327,7 +317,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-3",
                 "sectionId": "section5"
               }
             ]
@@ -354,8 +343,7 @@
               {
                 "component": "Button",
                 "sectionId": "Section6",
-                "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-3"
+                "content": "Nästa"
               }
             ]
           }
@@ -383,6 +371,243 @@
               {
                 "component": "LessonCompleteButton",
                 "content": "Avsluta"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "ta-hand-om-dig-sjalv-3",
+    "alias": "YA Become friends: 3-Selfcare-3",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Se fores como a maioria das pessoas, vais precisar de fazer coisas para cuidares de ti de vez em quando para te sentires bem na vida e gostares de ti."
+              },
+              {
+                "component": "Text",
+                "content": "Cuidar de ti pode ser dividido em cinco áreas."
+              },
+              {
+                "component": "Text",
+                "content": "* Tratar do teu corpo\n* Nutrir relações\n* Descrever e expressar sentimentos\n* Encontrar sentido na vida\n* Aprender coisas novas"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "26dca09d-3c66-48eb-971e-b13a3431cdc8"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "26dca09d-3c66-48eb-971e-b13a3431cdc8",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "António Casalinho",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357264/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L3V1_anqyap.mp4",
+                "duration": 208,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_L3V1_bg4fye.jpg"
+              },
+              {
+                "title": "Leonor",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358562/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L3V1_nyjeht.mp4",
+                "duration": 58,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379537/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/Toma_conta_de_ti_-_video_1_xl0jan.jpg"
+              },
+              {
+                "title": "Daniela",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357800/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L3V1_qfxt65.mp4",
+                "duration": 98,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375121/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_Toma_conta_de_ti_-_Video_1_u6whdc.jpg"
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358318/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L3V1_zmk3k9.mp4",
+                "duration": 98,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379410/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/Toma_conta_de_ti_-_video_1_ycxq0f.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "variant": "default",
+                "content": "Continuar",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# *Check-up* de autocuidado"
+              },
+              {
+                "component": "Text",
+                "content": "Agora avalia como te cuidaste na última semana numa escala de um a cinco (1 = nada, 5 = exatamente da maneira que eu quero).\n\nAtribui uma classificação a cada área:"
+              },
+              {
+                "component": "Text",
+                "content": "* O meu corpo\n* As minhas relações\n* Percebi e expressei os meus sentimentos\n* Fiz coisas com significado\n* Aprendi coisas novas"
+              },
+              {
+                "component": "Text",
+                "content": "Escreve a tua resposta em algum lugar onde só tu a vejas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Já acabei ",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ao olhar para o teu *check-up* de autocuidado, escolhe uma área que não tenha recebido muita atenção na última semana."
+              },
+              {
+                "component": "Text",
+                "content": "Anota a área que escolheste."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Acabei ",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora, pensa em algo pequeno que podes fazer na área que escolheste. Por exemplo, podes dar uma caminhada curta, ligar a um amigo ou a uma amiga a explicar como te sentes, ajudar alguém, ou praticar acertar num alvo com uma bola. Não tem de ser nada caro ou complicado. É sobre estares lá para ti."
+              },
+              {
+                "component": "Text",
+                "content": "Toma nota daquilo que vais fazer."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Acabei ",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Muito bem! Fizeste um bom trabalho a fazer o melhor por ti. Fica à vontade para fazer o *check-up* de autocuidado de tempos a tempos para descobrir aquilo de que precisas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "Section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "id": "Section6",
+        "alias": "Section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Concluíste **Toma conta de ti** e aprendeste a usar o corpo para influenciar como as coisas se sentem. Também aprendeste que há diferentes maneiras de cuidar de ti, e precisamos de todas elas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Acabei "
               }
             ]
           }

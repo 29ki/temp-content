@@ -1,0 +1,65 @@
+{
+  "en": {
+    "report": {
+      "title": "Report",
+      "description": "Feedback / Tech issues / Misbehaviour "
+    },
+    "share": {
+      "title": "Share",
+      "invite": "Invite"
+    },
+    "rate": {
+      "title": "Rate"
+    },
+    "bookmark": {
+      "add": "Save to favorites",
+      "remove": "Remove from favorites"
+    },
+    "contentParent": {
+      "course": "Course overview",
+      "challenge": "Challenge overview"
+    }
+  },
+  "sv": {
+    "bookmark": {
+      "add": "Spara favorit",
+      "remove": "Ta bort favorit"
+    },
+    "report": {
+      "title": "Rapportera problem",
+      "description": "Tyck till / Tekniska problem / Dåligt uppförande"
+    },
+    "share": {
+      "title": "Dela",
+      "invite": "Bjud in"
+    },
+    "rate": {
+      "title": "Betygsätt"
+    },
+    "contentParent": {
+      "course": "Kursöversikt",
+      "challenge": "Utmaningsöversikt"
+    }
+  },
+  "pt": {
+    "bookmark": {
+      "add": "Adicionar aos favoritos",
+      "remove": "Remover dos favoritos"
+    },
+    "report": {
+      "title": "Ocorrência",
+      "description": "Comentário / Problemas técnicos / Má conduta"
+    },
+    "share": {
+      "title": "Partilhar",
+      "invite": "Convite"
+    },
+    "rate": {
+      "title": "Avalia"
+    },
+    "contentParent": {
+      "course": "Acerca do curso",
+      "challenge": "Acerca do desafio"
+    }
+  }
+}

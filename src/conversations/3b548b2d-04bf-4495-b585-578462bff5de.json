@@ -1,0 +1,316 @@
+{
+  "en": {
+    "id": "3b548b2d-04bf-4495-b585-578462bff5de",
+    "alias": "leadership-connect-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e909ddd9-09fd-4222-a940-8de086030d98",
+        "content": "By **relating to our habits and expectations in new ways**, we no longer feel limited by them and therefore become better leaders.\n\nYou may be familiar with a phrase *'you can’t deal with what you can’t see'.*  In other words, the first step to relate differently is to identify which habits and expectations hinder you and your team.",
+        "alias": "Intro to exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's do it!",
+            "sectionId": "5914466c-2eb5-4d53-9b78-736e98c62f5a"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "5914466c-2eb5-4d53-9b78-736e98c62f5a",
+        "alias": "Part 1",
+        "longDescription": "Can you identify your habits and/or expectations that *you* have in terms of **how you're relating to the situation** which are getting in the way of your ability to interact with them in ways that help you pursue what's important with them?\n\n*Write down you answer.*",
+        "question": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "33ee5eb5-d7ff-434b-b89d-7608e389ae79",
+            "content": "I'm done"
+          }
+        ],
+        "title": "Think of how you interact with a colleague at work"
+      },
+      {
+        "type": "writing",
+        "id": "33ee5eb5-d7ff-434b-b89d-7608e389ae79",
+        "alias": "Part 2",
+        "question": "What are the benefits of this habit / expectation?",
+        "longDescription": "For example:\n\n* It keeps my image intact and helps control how other people see me\n* It takes away responsibility\n* It makes me look in control\n* It helps me avoid an argument\n* Something else?\n\n*Write down as many benefits as you can think of.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "fdf05d0c-b970-4a1b-b518-515ddcd97d53",
+            "content": "I'm done"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "fdf05d0c-b970-4a1b-b518-515ddcd97d53",
+        "alias": "Part 3",
+        "question": "Now write down any possible drawbacks this habit or expectation has on you, your colleague and your organisation.",
+        "longDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "52fd7355-12cc-4e17-ab4b-7b5d88670178",
+            "content": "I'm done"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "52fd7355-12cc-4e17-ab4b-7b5d88670178",
+        "question": "If you could name this recurring pattern, what would you call it?",
+        "longDescription": "Try to be as specific as you can.",
+        "alias": "Part 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "e57d13b9-3f93-42a6-b22d-298dd0d461ed"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "e57d13b9-3f93-42a6-b22d-298dd0d461ed",
+        "title": "Write a message to the colleague you’ve identified earlier in which you:",
+        "alias": "Part 5",
+        "question": "",
+        "longDescription": "* Tell them about the unhelpful habit you've identified\n* Label this pattern in your own words\n* Describe the cost of this pattern for you and your colleague and how it's affecting your work relationship\n\nFinish off the message by writing down at least **one suggestion for interacting differently** going forward.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "19984a45-2e9e-494c-ad78-d3b15376ec24",
+            "content": "I'm done!"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "19984a45-2e9e-494c-ad78-d3b15376ec24",
+        "alias": "Part 6",
+        "question": "",
+        "longDescription": "While you do so, notice if sharing helps you see even more ways of interacting differently going forward.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "ce96050e-4aab-42a6-b635-176de11fba45"
+          }
+        ],
+        "title": "It's time to share what you've learnt from this exercise with a friend"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce96050e-4aab-42a6-b635-176de11fba45",
+        "content": "## Congrats on developing skills to more flexibly connect with others this week!\n\nCommunication is a core part of your leadership toolkit. It helps you achieve your goals in ways that make sense and matter to you.\n\nThis week's you've honed your ability to explore your habits and expectations and use this enhanced awareness to change how you relate to people and cultivate better relationships going forward.",
+        "title": "",
+        "alias": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Thanks",
+            "sectionId": "304fa563-d360-4364-8fe9-c7eb7438f981"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "304fa563-d360-4364-8fe9-c7eb7438f981",
+        "alias": "Further reading",
+        "title": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Marian, H., Custers, R., & Aarts H. (2019). Chapter 4: Understanding the Formation of Human Habits: An Analysis of Mechanisms of Habitual Behaviour. In The Psychology of Habit: Theory, mechanisms, change, and contexts. Springer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "a4abd2ee-f529-418e-92c2-53e1a5a39754"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a4abd2ee-f529-418e-92c2-53e1a5a39754",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-3-listen-to-connect",
+            "content": "What happens next?"
+          }
+        ],
+        "title": "You are now ready to share",
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?**\n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "alias": "Sharing Exercise"
+      }
+    ],
+    "root": "e909ddd9-09fd-4222-a940-8de086030d98"
+  },
+  "sv": {
+    "id": "3b548b2d-04bf-4495-b585-578462bff5de",
+    "alias": "leadership-connect-4"
+  },
+  "pt": {
+    "id": "3b548b2d-04bf-4495-b585-578462bff5de",
+    "alias": "leadership-connect-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e909ddd9-09fd-4222-a940-8de086030d98",
+        "content": "Ao **relacionarmo-nos com os nossos hábitos e expectativas de novas maneiras**, deixamos de nos sentir limitados pelo mundo e, portanto, tornamo-nos melhores líderes.\n\nConheces a expressão \"não consegues lidar com o que não consegues ver” (longe da vista, longe do coração)? Isto é, o primeiro passo para te relacionares de forma diferente é identificares quais os hábitos e as expectativas que te atrapalham a ti e à tua equipa.",
+        "alias": "Intro to exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos lá!",
+            "sectionId": "5914466c-2eb5-4d53-9b78-736e98c62f5a"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "5914466c-2eb5-4d53-9b78-736e98c62f5a",
+        "alias": "Part 1",
+        "longDescription": "Consegues identificar os teus hábitos e/ou expetativas em relação a **como te relacionas com a situação** que está a atrapalhar a tua capacidade de interagir com eles de maneira a ajudá-los(as) a alcançar o que é importante para eles?\n\n*Escreve a tua resposta.*",
+        "question": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "33ee5eb5-d7ff-434b-b89d-7608e389ae79",
+            "content": "Terminei"
+          }
+        ],
+        "title": "Pensa em como interages com um/a colega de trabalho"
+      },
+      {
+        "type": "writing",
+        "id": "33ee5eb5-d7ff-434b-b89d-7608e389ae79",
+        "alias": "Parte 2",
+        "question": "Quais são os benefícios deste hábito / expetativa?",
+        "longDescription": "Por exemplo:\n\n* Mantém a minha imagem intacta e ajuda a controlar a forma como as outras \n  pessoas me veem\n* Retira-me alguma responsabilidade\n* Dá-me uma sensação de controlo\n* Ajuda-me a evitar uma discussão\n* Mais alguma coisa?\n\n*Anota todos os benefícios de que te possas lembrar.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "fdf05d0c-b970-4a1b-b518-515ddcd97d53",
+            "content": "Já fiz"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "fdf05d0c-b970-4a1b-b518-515ddcd97d53",
+        "alias": "Part 3",
+        "question": "Agora, anota todas as possíveis desvantagens que esse hábito ou expectativa tem para ti, para os teus colegas e para a tua organização.",
+        "longDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "52fd7355-12cc-4e17-ab4b-7b5d88670178",
+            "content": "Terminei "
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "52fd7355-12cc-4e17-ab4b-7b5d88670178",
+        "question": "Se pudesses dar um nome a esse padrão recorrente, qual seria?",
+        "longDescription": "Tenta ser o mais específico/a possível",
+        "alias": "Part 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "e57d13b9-3f93-42a6-b22d-298dd0d461ed"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "writing",
+        "id": "e57d13b9-3f93-42a6-b22d-298dd0d461ed",
+        "title": "Escreve uma mensagem para um colega que identificaste anteriormente, na qual:",
+        "alias": "Part 5",
+        "question": "",
+        "longDescription": "* Lhe contes o hábito inútil que identificaste\n* Descreves esse padrão com as tuas próprias palavras\n* Descreves o custo que esse padrão tem para ti e para os teus colegas e de que forma isso afeta a vossa relação profissional\n\nTermina a mensagem escrevendo pelo menos **uma sugestão para interagir de forma diferente** daqui para frente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "sectionId": "19984a45-2e9e-494c-ad78-d3b15376ec24",
+            "content": "Já fiz!"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "19984a45-2e9e-494c-ad78-d3b15376ec24",
+        "alias": "Part 6",
+        "question": "",
+        "longDescription": "Ao fazê-lo, observa se a partilha te ajuda a encontrar ainda mais maneiras de interagir de forma diferente daqui para frente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos concluir ",
+            "sectionId": "ce96050e-4aab-42a6-b635-176de11fba45"
+          }
+        ],
+        "title": "É hora de partilhares o que aprendeste com este exercício com um/a amigo/a."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce96050e-4aab-42a6-b635-176de11fba45",
+        "content": "## Parabéns por desenvolveres competências para te conectares com outras pessoas de forma mais flexível esta semana!\n\nA comunicação é uma parte central do teu *kit* de ferramentas de liderança. Ajuda-te a atingir os teus objetivos de maneiras que te fazem sentido e que são relevantes para ti.\n\nEsta semana, apuraste a tua capacidade de explorar os teus hábitos e expectativas, bem como a usar essa consciência apurada para mudar a forma como te relacionas com as pessoas e a cultivar relacionamentos melhores no futuro.",
+        "title": "",
+        "alias": "Summary",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Obrigada/o",
+            "sectionId": "304fa563-d360-4364-8fe9-c7eb7438f981"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "304fa563-d360-4364-8fe9-c7eb7438f981",
+        "alias": "Further reading",
+        "title": "Leitura adicional ",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "content": "1. Marian, H., Custers, R., & Aarts H. (2019). Chapter 4: Understanding the Formation of Human Habits: An Analysis of Mechanisms of Habitual Behaviour. In The Psychology of Habit: Theory, mechanisms, change, and contexts. Springer.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi! ",
+            "sectionId": "a4abd2ee-f529-418e-92c2-53e1a5a39754"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a4abd2ee-f529-418e-92c2-53e1a5a39754",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-3-listen-to-connect",
+            "content": "O que acontece a seguir?"
+          }
+        ],
+        "title": "Estás pronta/o para partilhar",
+        "content": "1. **Que *insights* importantes te ajudaram a entender a tua situação, a concretizar um objetivo ou a ter sucesso esta semana?**\n\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário ou de praticar as competências que aprendeste e perceber aquilo com que mais te identificas.",
+        "alias": "Sharing Exercise"
+      }
+    ],
+    "root": "e909ddd9-09fd-4222-a940-8de086030d98"
+  }
+}

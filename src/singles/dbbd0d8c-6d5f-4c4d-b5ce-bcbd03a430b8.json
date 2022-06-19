@@ -1,0 +1,350 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "Sleep habits",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sleep_habits_wftwsd.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "version": 1,
+    "tags": [
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "dbbd0d8c-6d5f-4c4d-b5ce-bcbd03a430b8",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-dbbd0d8c-6d5f-4c4d-b5ce-bcbd03a430b8",
+        "name": "Sleep habits",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "09d116b5-2265-4cc0-a08a-ce32771a1082",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sleep_habits_wftwsd.png",
+            "title": "Sleep habits",
+            "content": "Sleep is one of our body's main ways to recover. The need for sleep is individual and can change throughout life**.**\n\nOur sleep is influenced by a bunch of things — for example our behaviors, biological factors and events in our daily lives. In this exercise we'll focus on the conditions surrounding your sleep in order to create changes that are within your control.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5881f983-c421-4220-8376-817eeb1e0c86",
+            "content": "**Learn more about:**\n\n* Sorting out what you can control\n* Making a change\n\n**You'll need:** \n\n* 10 minutes\n* Pen and paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "05911ba3-4c2c-471c-b331-76281144e183",
+            "content": "Everyone has a hard time sleeping sometimes. A temporary lack of sleep can affect us in various ways, but it's when our problems become long-term that we may feel an urgent need to make a change to our situation.",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d153c692-c57d-4b9d-be00-f125708e2dd8",
+            "content": "There are several reasons why we experience sleep problems**.** There's a high probability that you've already tried tips and tricks to deal with your sleep issues — some successful, other less so. \n\nIt can be helpful to remember that there's no solution that fits for everyone in any situation, but research shows that there are things we can all try.",
+            "buttonText": "Move on"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8666014f-34db-45e9-894a-8fa18e0d7e75",
+            "content": "If you’ve suffered from sleep problems for some time, it can be difficult to distinguish between what we can change and what we can’t, putting everything in the same bucket making us feel helpless.\n\nThat's why it can be helpful to map out what you can control and then separate it from the things were you might benefit more from practicing acceptance.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "07500cf3-df01-49b0-b68e-473803e57a7a",
+            "content": "Acceptance doesn't mean giving up or passively putting up with whatever is going on. Rather, acceptance is letting things on the inside be as they are, even if we don't like them. This in turn enables us to spend our precious energy on things we cancontrol.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3a28195f-ce10-4f9f-9142-f1d72277616c",
+            "content": "Here's a list of things that **might affect your** **sleep negatively**:\n\n* Late intake of caffeine, nicotine, alcohol and food\n* Physical activity just before bedtime\n* Low amount of daylight during the day\n* Worry, anxiety and stress\n* Stressful work/family/social situation\n* Bad bedroom conditions (too hot, too much light, too noisy)\n* Screen time just before bedtime\n* Daytime napping",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c4e5f8d3-7039-4275-9268-9f478275af19",
+            "title": "Exercise",
+            "content": "1. As precisely as possible, write down your own list of things that affect your sleep conditions right now.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4b6b6aa5-8ddb-427b-8af8-9ef252417422",
+            "topImageUri": "",
+            "content": "2. Now look at your list. Circle or underline the things that are within your control.\n\nFor example: *watching TV in bed, drink coffee in the afternoon, long nap during the day.*",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "30e34016-324a-4459-b5b5-fad65a77275b",
+            "content": "3. Choose on or two of the behaviors that are within your control.\n4. Come up with alternative behaviors that could positively affect your sleep conditions. Make sure your alternative behavior is specific and doable**.**\n5. Implement your changes starting today.",
+            "buttonText": "I'm done",
+            "infoItems": [
+              {
+                "title": "Examples:",
+                "description": "*Only use my bed for sleeping and sex, stop drinking coffee after noon, wind down before bedtime, take a walk to catch day light, turn off my phone at 8 pm, do a short meditation to cope with worry and anxiety just before going to sleep.*"
+              }
+            ]
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "74b837dc-a44b-4683-82e9-8cd8cdf0a480",
+            "content": "Set a reminder for a week from now to revisit and evaluate your alternative behavior by answering these three questions:\n\n1. Did your new behavior lead to a change?\n2. If yes, which area of your life has improved as a result?\n3. If you're not satisfied, can you give it another go or try another alternative behavior?\n\nFeel free to write down the questions to help remember them.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "961e015b-7b1f-4959-bce4-94e174325007",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Well done on completing this exercise! ",
+            "content": "Remember: there are plenty of reasons our sleep gets interrupted. Try to give your behavior **change** an honest chance — we recommend you follow the advice every night for at least a week before evaluating it.\n\nWe also encourage you to regularly come back to your list of behaviors to add more alternatives or make additional changes to your everyday routine.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "Sömnvanor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sleep_habits_wftwsd.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "dbbd0d8c-6d5f-4c4d-b5ce-bcbd03a430b8",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-dbbd0d8c-6d5f-4c4d-b5ce-bcbd03a430b8",
+        "name": "Sömnvanor",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "09d116b5-2265-4cc0-a08a-ce32771a1082",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sleep_habits_wftwsd.png",
+            "title": "Sömnvanor",
+            "content": "**Sömn** är ett av människans **viktigaste** sätt att **återhämta** sig på. Däremot är vårt **sömnbehov** **individuellt** och kan **förändras** genom livet.\n\nSömnen **påverkas** främst av våra **beteenden**, **biologiska** faktorer och det som **pågår** i vår **omgivning**. I den här övningen kommer vi fokusera på **beteenden** som påverkar din sömn för att **förändra** sådant som ligger **inom** din **kontroll**.",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5881f983-c421-4220-8376-817eeb1e0c86",
+            "content": "**Lär dig mer om:**\n\n* Vad du kan kontrollera\n* Skapa förändring\n\n**Du behöver:**\n\n* 10 minuter\n* Papper och penna",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "05911ba3-4c2c-471c-b331-76281144e183",
+            "content": "Alla har svårt att sova ibland. **Tillfällig** **sömnbrist** kan **påverka** oss på olika sätt, men det är när våra **problem** blir **långvariga** som vi kan känna **behov** att **förändra** vår situation.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f51bf54b-1c04-46d3-a56f-7daf8fd476f8",
+            "content": "**Anledningarna** till att vi drabbas av **sömnproblem** är många. Du har säkert redan testat en massa tips och tricks för att **hantera** dina problem – vissa framgångsrika, andra inte. \n\nDet kan vara bra att komma ihåg att det **inte** finns någon **lösning** som **passar** **alla.**",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8666014f-34db-45e9-894a-8fa18e0d7e75",
+            "content": "Om vi har lidit av **sömnproblem** under en **längre** **period** kan det vara **svårt** att **skilja** på vad vi kan **förändra** och vad vi **inte** kan **förändra**. Situationen kanske känns hopplös och vi känner oss hjälplösa.\n\nDärför kan det vara bra att **kartlägga** vad du **kan** **kontrollera** och **skilja** det från sådant du har större nytta av att öva på att **acceptera**.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "07500cf3-df01-49b0-b68e-473803e57a7a",
+            "content": "**Acceptans** är inte detsamma som att **ge upp** eller **passivt** **stå** **ut** med något. Snarare är acceptans att **låta saker vara** som de är, **även** om vi **inte** **gillar** dem.\n\nDå blir det **möjligt** för oss att **spendera** vår dyrbara **energi** på **saker** vi **kan** **kontrollera**.",
+            "buttonText": "Visa mig"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3a28195f-ce10-4f9f-9142-f1d72277616c",
+            "content": "Här är en lista över saker som kan **påverka** din **sömn** **negativt**:\n\n* Sent intag av koffein, nikotin, alkohol och mat\n* Fysisk aktivitet strax innan läggdags\n* För lite fysisk aktivitet dagtid\n* Brist på dagsljus under dagen\n* Oro, ångest och stress\n* En svår arbets-, familje- eller social situation\n* Dåliga sovrumsförhållanden (för varmt, för mycket ljus, för bullrigt)\n* Skärmtid precis innan läggdags\n* Sova på dagtid",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c4e5f8d3-7039-4275-9268-9f478275af19",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "Övning",
+            "content": "1. Skriv ner din egen **lista** över **saker** som **påverkar** din **sömn** just nu. Var så **specifik** som möjligt.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4b6b6aa5-8ddb-427b-8af8-9ef252417422",
+            "content": "2. Titta på din lista. **Ringa** **in** eller **stryk** **under** de saker som ligger **inom** **din** **kontroll** (det vill säga sådant du faktiskt kan **förändra**).\n\n\n\nTill exempel: *titta på TV i sängen, dricka kaffe sent på eftermiddagen, sova längre stunder dagtid.*",
+            "topImageUri": "",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "55fa8e61-e958-40de-a595-268f425c848c",
+            "content": "3. Välj ett eller två av de **beteenden** som är **inom** din kontroll.\n\n4. Skriv ned **alternativa** **beteenden** som kan **påverka** din sömn **positivt**. Se till att dina alternativa beteende är **specifika** och **genomförbara**.\n\n5. **Byt** ut dina **beteenden** från och med **idag**.",
+            "infoItems": [
+              {
+                "title": "Visa exempel",
+                "description": "*Bara använda sängen för sömn och sex, sluta dricka kaffe vid middagstid, ingen tupplur på dagen, varva ner innan läggdags med yoga eller avkoppling, sätta upp gardiner, ta en promenad under lunchen för att få dagsljus, stänga av min telefon vid kl 20.*"
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ebe35043-cb29-45f1-9dab-fb58b7512d8e",
+            "content": "Sätt en **påminnelse** en vecka från nu för att **utvärdera** dina alternativa beteenden genom att svara på dessa tre frågor:\n\n1. Ledde ditt nya beteende till en **förändring**?\n2. Om ja, vilket område av ditt liv har **förbättrats**?\n3. Om du inte är nöjd, kan du **testa** **igen** eller **prova** ett **annat** alternativt **beteende**?\n\n\n\n*Skriv gärna ner frågorna för att komma ihåg dem.*",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b699321e-a64c-45e1-9179-05bd9fb7a68f",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "content": "Kom ihåg: det finns **många** **anledningar** till att vi upplever **sömnstörningar**. Försök ge din **beteendeförändring** en ärlig chans — vi rekommenderar att du testar ditt nya beteende **varje** dag och/eller kväll i **minst** **en** **vecka** innan du **utvärderar**.\n\nDu kan också **komma** **tillbaka** till din lista över alternativa beteenden då och då för att **lägga** **till** fler alternativ eller göra fler **förändringar** i din vardagliga **rutin**.",
+            "buttonText": "Avsluta",
+            "title": "Bra jobbat, du är nu klar med övningen!"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "Hábitos de sono",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sleep_habits_wftwsd.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "dbbd0d8c-6d5f-4c4d-b5ce-bcbd03a430b8",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-dbbd0d8c-6d5f-4c4d-b5ce-bcbd03a430b8",
+        "name": "Hábitos de sono",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "09d116b5-2265-4cc0-a08a-ce32771a1082",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sleep_habits_wftwsd.png",
+            "title": "Hábitos de sono",
+            "content": "O **sono** é uma das principais formas que o nosso corpo tem para **recuperar**. As **necessidades** de sono são **individuais** e podem **mudar** ao longo da **vida**.\n\nO nosso **sono** é **influenciado** por uma data de coisas - por exemplo, os nossos  **comportamentos**, fatores **biológicos** e **acontecimentos** no nosso **dia-a-dia**. Neste exercício, vamos concentrar-nos nas **condições** que influenciam o teu  sono para criar mudanças que estão debaixo do nosso controlo.",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5881f983-c421-4220-8376-817eeb1e0c86",
+            "content": "**Vais aprender a:**\n\n* Compreender o que podes controlar\n* Fazer uma mudança\n\n**Vais precisar de:** \n\n* 10 minutos num local sossegado\n* Caneta e papel",
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "05911ba3-4c2c-471c-b331-76281144e183",
+            "content": "Ocasionalmente **todas as pessoas** sentem **dificuldades** em **dormir**. A falta **temporária** de sono pode **afetar-nos** de várias formas, mas quando os nossos **problemas** se **prolongam no tempo** podemos sentir a necessidade premente de fazer uma mudança.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "d153c692-c57d-4b9d-be00-f125708e2dd8",
+            "content": "Há vários **motivos** pelos quais **experimentamos** problemas de **sono.** Há uma grande probabilidade de já teres tentado alguns truques para lidar com os teus problemas de sono - uns bem-sucedidos, outros nem tanto.\n\nPode ser **útil lembrar** que não há **uma solução** adequada para todos, mas **a investigação** mostra que existem coisas que todos nós podemos **tentar**.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8666014f-34db-45e9-894a-8fa18e0d7e75",
+            "content": "Se **sofres** de problemas de sono há algum tempo, pode ser **difícil distinguir** entre o que **podes mudar** e o que **não podes**, ficando tudo no mesmo saco, o  que nos faz sentir  **impotentes**.\n\nÉ por isso que pode ser **útil identificar** as coisas que podes controlar para depois as **separar** das outras em que podes **beneficiar** mais com a prática da **aceitação**.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "07500cf3-df01-49b0-b68e-473803e57a7a",
+            "content": "**Aceitação** não significa **desistir** ou **aguentar** passivamente o que quer que esteja a acontecer. Pelo contrário, aceitação é **assumir que as coisas são** como são, mesmo que não gostemos delas. Isso permite-nos concentrar a nossa **energia** nas coisas que  **podemos controlar**.",
+            "buttonText": "Percebi"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3a28195f-ce10-4f9f-9142-f1d72277616c",
+            "content": "Aqui está uma **lista** de coisas que podem afetar o teu **sono negativamente**:\n\n* Ingestão tardia de cafeína, nicotina, álcool e alimentos\n* Atividade física antes de dormir\n* Pouca luz natural durante o dia\n* Preocupação, ansiedade e stress\n* Situações de stress no trabalho, família, relações ou sociais\n* Más condições do quarto de dormir (muito quente, muita luz, muito barulhento)\n* Tempo de  ecrã mesmo  antes de dormir, por exemplo telemóvel.\n* Pequenas sestas durante o dia",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c4e5f8d3-7039-4275-9268-9f478275af19",
+            "title": "Exercício",
+            "content": "1. Com o máximo de precisão possível, escreve a tua **própria lista** de coisas que **afetam** as tuas **condições de sono** neste momento.",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4b6b6aa5-8ddb-427b-8af8-9ef252417422",
+            "topImageUri": "",
+            "content": "2. Olha agora para a tua lista. **Sublinha** ou **marca** as **coisas** que estão **dentro** do teu **controlo**.\n\nPor exemplo: *ver televisão na cama, beber café à tarde, sesta longa durante o dia.*",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "30e34016-324a-4459-b5b5-fad65a77275b",
+            "content": "3. Escolhe **1-2** dos comportamentos que podes controlar.\n4. Pensa em **comportamentos alternativos** que possam **afetar positivamente** as condições do teu sono. Garante que estes comportamentos alternativos são **específicos** e **possíveis de concretizar.**\n5. Começa **hoje** a **implementar** as tuas **mudanças**.",
+            "buttonText": "Terminei",
+            "infoItems": [
+              {
+                "title": "Exemplos:",
+                "description": "*Só uso a minha cama para dormir e fazer sexo, deixar  de tomar café ao meio-dia,  nada de sestas durante o dia, relaxar antes de dormir com ioga ou relaxamento, fechar as cortinas, dar um passeio durante o almoço para ficar exposto à luz do dia, desligar o  meu telefone às 20h*"
+              }
+            ]
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "74b837dc-a44b-4683-82e9-8cd8cdf0a480",
+            "content": "Ativa um lembrete para daqui a uma semana reveres  e avaliares os teus comportamentos alternativos, respondendo a estas três questões:\n\n1. O meu **novo comportamento** levou a uma **mudança**?\n2. Se sim, que área da tua vida **melhorou**?\n3. Se não estiveres satisfeita/o, podes tentar novamente ou tentar **outros** comportamentos alternativos?\n\n*Está à vontade para escreveres as perguntas se te ajudar a não as esqueceres.*",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "961e015b-7b1f-4959-bce4-94e174325007",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Parabéns por completares este exercício! ",
+            "content": "Lembra-te: há muitos **motivos** para o nosso sono ser **interrompido**. Tenta dar uma oportunidade de sucesso às tuas **mudanças de comportamento** - recomendamos que apliques os novos comportamentos **todas as noites** pelo menos por uma **semana** antes de  **os avaliares**  .\n\nTambém te encorajamos a voltar **regularmente** à tua lista de **comportamentos** para adicionares mais **alternativas** ou fazeres **alterações** adicionais às tuas **rotinas diárias**.",
+            "buttonText": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

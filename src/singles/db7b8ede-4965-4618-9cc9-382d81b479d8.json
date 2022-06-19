@@ -1,0 +1,325 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Grateful for what I have",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/grateful_for_what_i_have_ml9e6e.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1",
+      "a51726af-47ef-4416-84c3-905fc4039a19"
+    ],
+    "type": "exercise",
+    "id": "db7b8ede-4965-4618-9cc9-382d81b479d8",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-gratitudetowardsthreethings",
+        "root": "1",
+        "alias": "Exercise Grateful for what I have",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "1",
+            "title": "Gratitude",
+            "content": "Our brains are designed to focus on negativity. For evolutionary reasons, this has ensured our survival - but in quite a few other ways, it's not as helpful.\n\nThis exercise helps us shine a light on what we already have instead of taking things for granted.\\\n\\\n*Based on research by PhD S. Lyubomirsky.*",
+            "alias": "1",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/grateful_for_what_i_have_ml9e6e.png",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2",
+            "content": "**Learn more about:**\n\n* Practicing gratitude\n* Paying attention to what is good in life\n\n**You'll need:**\n\n* Pen and paper",
+            "alias": "2",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3",
+            "content": "Practicing gratitude is about taking time to pause, reflect on, and highlight the positive things in life - whether it be about yourself, what you have, or something that's going on in your surrounding.\n\nResearch shows that regularly practicing gratitude can increase happiness and improve your relationships.",
+            "alias": "3",
+            "title": "Pause",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "writing",
+            "id": "5",
+            "title": "Exercise",
+            "longDescription": "1. Write down three things that you are grateful for today. \n\n   For example: \n\n   > I am grateful for taking a walk, I am grateful for clean water, I am grateful for my family.",
+            "alias": "5",
+            "shortDescription": "",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8",
+            "content": "2. Write down why you feel grateful for those three things. Be as specific and detailed as you can in your description.\n\n   For example: \n\n   > I am grateful that I took a walk because the sun was shining in my face and it felt good to move my body.",
+            "alias": "8",
+            "title": "",
+            "infoItems": [
+              {
+                "title": "3. Want to continue practicing?",
+                "description": "If you want to continue practicing gratitude keep writing down three things that you feel grateful for. Every day for the coming month. \\\n\\\nA suggestion is to do the exercise at the same time every day, as this makes it easier to remember."
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "video",
+            "id": "d8cef9d7-da8f-459e-9f4c-ab351331a15d",
+            "alias": "Sandro sharing",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646755956/Challenges/Sandro_Gratitiude_bw2qpk.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647338208/Challenges/Sandro%20subtitles/ENG_Gratitude_s4rohu.vtt"
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "9",
+            "question": "What was it like to do this exercise?",
+            "exampleText": "Made me realise I already have a lot of things in my life to be grateful for. It's all about noticing the small things.",
+            "alias": "9",
+            "nextSection": "7"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7",
+            "title": "Good job!",
+            "content": "By creating a habit of connecting with our gratitude towards life, ourselves and others on a daily basis, we can help balance our negatively biased brains.",
+            "alias": "7",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Grateful for what I have",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Tacksam över det jag har",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/grateful_for_what_i_have_ml9e6e.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1",
+      "a51726af-47ef-4416-84c3-905fc4039a19"
+    ],
+    "type": "exercise",
+    "id": "db7b8ede-4965-4618-9cc9-382d81b479d8",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-gratitudetowardsthreethings",
+        "root": "1",
+        "alias": "Exercise Grateful for what I have",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "1",
+            "title": "Tacksamhet",
+            "content": "Våra hjärnor är gjorda för att fokusera på sånt som är negativt. Det har varit en smart överlevnadsstrategi för människor tusentals år — men på många sätt ställer det till det för oss.\n\nDen här övningen hjälper oss uppmärksamma det vi redan har istället för att ta saker för givet.\\\n\\\n*Baserad på forskning av PhD S. Lyubomirsky.*",
+            "alias": "1",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/grateful_for_what_i_have_ml9e6e.png",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2",
+            "content": "**Lär dig mer om:**\n\n* Att vara tacksam\n* Hur du kan uppmärksamma det goda i livet\n\n**Du behöver:**\n\n* Papper och penna",
+            "alias": "2",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3",
+            "content": "Att öva tacksamhet handlar om att ta sig tid att pausa och lyfta fram positiva saker i livet. Det kan exempelvis vara något hos oss själva som vi kan känna tacksamhet inför, något vi har eller något som pågår runt omkring oss.\n\nForskning visar även att regelbundna tacksamhetsövningar kan hjälpa människor känna sig lyckligare och förbättra sina relationer.",
+            "alias": "3",
+            "title": "Pausa",
+            "buttonText": "Okej"
+          },
+          {
+            "type": "writing",
+            "id": "5",
+            "title": "Övning",
+            "longDescription": "1. Skriv ner tre saker som du är tacksam för idag.\n\n   Till exempel: \n\n   > Jag är tacksam för att jag tog en promenad, jag är tacksam för rent vatten, jag är tacksam för min familj.",
+            "alias": "5",
+            "buttonText": "Jag är färdig"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8",
+            "content": "2. Skriv ner varför du känner dig tacksam för de här tre sakerna. Var så specifik och detaljerad som du bara kan i din beskrivning.\\\n   \\\n   Till exempel: \n\n   > Jag är tacksam för att jag tog en lunchpromenad därför solen sken i mitt ansikte och det var skönt att röra på sig.",
+            "alias": "8",
+            "infoItems": [
+              {
+                "title": "3. Vill du fortsätta öva?",
+                "description": "Om du vill öva mer på tacksamhet kan du fortsätta skriva ner tre saker du är tacksam för. Gör det till en daglig rutin under den kommande månaden. \\\n\\\nEtt tips är att göra övningen vid samma tidpunkt varje dag så blir det lättare att komma ihåg."
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "video",
+            "id": "eac49a50-5d06-4df6-ab9d-135fd482139a",
+            "alias": "Sandro delning",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646756005/Challenges/Sandro_Tacksamhet_f34iqn.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647338208/Challenges/Sandro%20subtitles/SWE_Gratitude_nlll12.vtt"
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "9",
+            "question": "Hur kändes det att göra den här övningen?",
+            "exampleText": " Fick mig att inse att jag har mycket att vara tacksam för. Det handlar om att lägga märke till de små sakerna i livet.",
+            "alias": "9",
+            "nextSection": "7"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7",
+            "title": "Bra jobbat!",
+            "content": "Genom att skapa en vana av att stanna upp och sätta ord på sådant vi är tacksamma för i livet, kan vi balansera upp våra negativt inställda hjärnor.",
+            "alias": "7",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Tacksam över det jag har",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Grata(o) pelo que tenho",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/grateful_for_what_i_have_ml9e6e.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1",
+      "a51726af-47ef-4416-84c3-905fc4039a19"
+    ],
+    "type": "exercise",
+    "id": "db7b8ede-4965-4618-9cc9-382d81b479d8",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-gratitudetowardsthreethings",
+        "root": "1",
+        "alias": "Exercise Grateful for what I have",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "1",
+            "title": "Gratidão",
+            "content": "Os nossos cérebros estão programados para focar na negatividade.\n\nTem sido  uma das mais importantes **estratégias** de **sobrevivência**, usada pelas pessoas há milhares de anos. Mas, em determinadas circunstâncias,  pode criar-nos problemas.\n\nEste exercício vai ajudar-nos a deixar de assumir as coisas como garantidas e, em vez disso, prestar atenção ao que já temos.",
+            "alias": "1",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781084/New_images/exercises%20png/1024x1024/grateful_for_what_i_have_ml9e6e.png",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "2",
+            "content": "### **Vais aprender a:**\n\n* Praticar a gratidão\n* Dar atenção às coisas boas da vida",
+            "alias": "2",
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3",
+            "content": "**Pausa**  \\\nPraticar a gratidão significa reservar tempo para fazer uma pausa e dar atenção às coisas positivas da vida.\\\n\\\nPode ser algo em nós. Ou algo que temos. Talvez algo que esteja a acontecer à nossa volta.",
+            "alias": "3",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4",
+            "content": "Praticar regularmente a gratidão em relação ao que já temos, pode aumentar a nossa capacidade de sentir **felicidade** no nosso dia a dia.\n\nA investigação mostra que pode ajudar-nos a sentirmo-nos melhores e a melhorar as nossas relações.",
+            "alias": "4",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "writing",
+            "id": "5",
+            "title": "Exercício",
+            "longDescription": "1. Escreve **três** coisas pelas quais estás **grata/o** hoje. \n\n   *Por exemplo: estou grata/o por ter dado um passeio, por ter água potável, pela minha família, ...*",
+            "alias": "5",
+            "shortDescription": "",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "writing",
+            "id": "6",
+            "title": "",
+            "longDescription": "2. Escreve **porque** te sentes grata/o por essas três coisas. Faz a  descrição o mais específica e detalhada possível.\n\n   *Por exemplo: estou grata/o por ter feito uma caminhada porque o sol estava a brilhar no meu rosto, era bom sentir o movimento do meu corpo e ouvir o chilrear dos pássaros.*",
+            "alias": "6",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7",
+            "title": "Bom trabalho!",
+            "content": "Escreveste três coisas pelas quais te sentes grata/o e detalhaste o porquê.\n\nCriarmos o hábito de colocar em palavras e escrever de forma refletida as coisas pelas quais somos grata/os, ajuda-nos a **equilibrar** o nosso cérebro, tendencialmente negativo.",
+            "alias": "7",
+            "buttonText": "Continuar a praticar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8",
+            "content": "Durante o próximo mês escreve **todos os dias, três coisas** pelas quais estás grata/o e o **porquê** dessa gratidão.\n\nUma sugestão é fazeres o exercício no mesmo horário todos os dias, só para ser mais fácil não te esqueceres.",
+            "alias": "8",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "9",
+            "question": "O que sentiste ao fazer este exercício?",
+            "exampleText": "Fez-me perceber que já tenho muitas coisas na minha vida pelas quais sou grata/o. É tudo uma questão de percecionar e valorizar as pequenas coisas que já existem na minha vida.",
+            "alias": "9"
+          }
+        ],
+        "name": "Grata/o pelo que tenho",
+        "type": "station"
+      }
+    ]
+  }
+}

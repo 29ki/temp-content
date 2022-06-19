@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-11",
     "alias": "alive-day-11",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-11",
-        "alias": "alive-day-11",
-        "nextConversationId": "alive-day-12",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 11",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay11rev1",
           "days": 0,
           "hours": 8,
           "minutes": 9,
-          "title": "Alive Day 11 Mission",
-          "body": "Over the next few hours, share something with someone that might interest them (e.g., a story, useful information, or a web-link)."
+          "title": "Alive Day 11 Quest",
+          "body": "Today, contact someone you’ve wanted to get in touch with for a while. Notice what was it like (even trying) to get in touch with that person."
+        },
+        "sharingWall": {
+          "question": "What was it like, reaching out to that other person?",
+          "exampleText": "..."
         },
         "followUp": {
+          "id": "followUpDay11",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 11 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-11",
+        "nextConversationId": "alive-day-12",
+        "type": "microInterventionDay",
+        "id": "alive-day-11"
       }
     ]
   },
   "sv": {
     "id": "alive-day-11",
     "alias": "alive-day-11",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-11",
-        "alias": "alive-day-11",
-        "nextConversationId": "alive-day-12",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 11",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 11",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 11",
-          "body": "Over the next few hours, share something with someone that might interest them (e.g., a story, useful information, or a web-link)."
+          "title": "Uppdrag dag 11",
+          "body": "Under dagen, kontakta någon som du har längtat efter att prata med. Lägg märke till hur det känns att (försöka) komma i kontakt med personen.",
+          "id": "aliveDay11rev1"
+        },
+        "sharingWall": {
+          "question": "Hur upplevde du att (försöka) kontakta den andra personen?",
+          "exampleText": "Känslosamt."
         },
         "followUp": {
+          "id": "followUpDay11",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 11 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-11",
+        "nextConversationId": "alive-day-12",
+        "type": "microInterventionDay",
+        "id": "alive-day-11"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-11",
+    "alias": "alive-day-11",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 11",
+        "task": {
+          "id": "aliveDay11rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 9,
+          "title": "Desafio ALIVE dia 11",
+          "body": "Hoje, tenta contactar alguém com quem já querias falar há algum tempo. O que sentiste ao entrar em contacto com essa pessoa (mesmo que tenha sido apenas uma tentativa)?"
+        },
+        "sharingWall": {
+          "question": "O que sentiste ao entrar em contacto com a pessoa com quem querias falar?",
+          "exampleText": "Fez-me sentir mais conectado/a com essa pessoa."
+        },
+        "followUp": {
+          "id": "followUpDay11",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 11 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-11",
+        "nextConversationId": "alive-day-12",
+        "type": "microInterventionDay",
+        "id": "alive-day-11"
       }
     ]
   }

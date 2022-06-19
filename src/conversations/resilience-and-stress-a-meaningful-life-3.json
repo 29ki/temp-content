@@ -1,0 +1,270 @@
+{
+  "en": {
+    "id": "resilience-and-stress-a-meaningful-life-3",
+    "alias": "resilience-and-stress-a-meaningful-life-3",
+    "root": "15cafb3d-3768-4c92-838b-242d4835dd65",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "15cafb3d-3768-4c92-838b-242d4835dd65",
+        "content": "Let’s look **inward** and see if you can **identify** what’s **most** **important** to you in life. You can break it down into four categories: \n\n* Health\n* Relationships\n* Work/education\n* Leisure",
+        "alias": "Values",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Go on",
+            "sectionId": "6176e9f1-f86c-40ff-9677-814427f2026c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6176e9f1-f86c-40ff-9677-814427f2026c",
+        "content": "**Values** can refer to both what’s important to you now and what you wish to pursue in the future, for example:\n\n* **Health**: Being active\n* **Relationships**: Being trustworthy\n* **Work**: Learning new things\n* **Leisure**: Meeting new people",
+        "alias": "Examples",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "longDescription": "Write down your answers.\n\n1. List one **value** in **each** **domain** (health, relationships, work/education and leisure time) that is important to you.\n2. If you lived your life according to these values, what would you **do** **more** of?\n3. What would you **do** **less** of?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "section7"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "section8",
+        "title": "Exercise",
+        "type": "writing",
+        "id": "section8"
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "video",
+        "title": "What core values do you want to live by more often?",
+        "description": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/modeling_poster.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/stressandresilience_lesson02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Well done for completing **A meaningful Life!**\n\nYou've developed your ability to connect to your values and explored what **practical** **steps** you can take right now to live a value-driven, regret-free life.\n\nGetting in touch with our values gives us a powerful **compass** in life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "02db5624-fffe-474c-9f15-8d4024d7b22b"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "02db5624-fffe-474c-9f15-8d4024d7b22b",
+        "alias": "Sharing",
+        "content": "You are now ready for the next important step — sharing with your group. \n\nRemember the questions:\n\n1. Think of one **value** in **each** **domain** (health, relationships, work/education and leisure time) that feels close to your heart. \n2. If you lived your life according to these values, what would you **do** **more** of?\n3. What would you **do** **less** of?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-a-meaningful-life-3",
+    "alias": "resilience-and-stress-a-meaningful-life-3",
+    "root": "7c18f2f4-0c22-45a1-935f-3e651733188b",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "7c18f2f4-0c22-45a1-935f-3e651733188b",
+        "content": "Låt oss vända oss **inåt** och se om du kan **identifiera** vad som är **viktigast** för dig i livet. Du kan dela upp det i fyra kategorier: \n\n* Hälsa\n* Relationer\n* Arbete/utbildning\n* Fritid",
+        "alias": "Värderingar",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "35589087-48eb-4479-b738-5ac3c683d3ae"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "35589087-48eb-4479-b738-5ac3c683d3ae",
+        "content": "**Livsvärden** kan handla både om vad som är viktigt för dig idag men också vad du vill sträva mot, till exempel:\n\n* **Hälsa**: Vara aktiv\n* **Relationer**: Vara pålitlig\n* **Arbete**: Lära mig nya saker\n* **Fritid**: Träffa nya människor",
+        "alias": "Examples",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är redo",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "longDescription": "Skriv ned dina svar.\n\n1. Skriv ned en **värdering** som känns viktigt för dig inom **respektive** **område** (hälsa, relationer, arbete/utbildning och fritid).\n2. Om du levde ditt liv enligt dessa fyra värderingar, vad skulle du **göra** **mer** av?\n3. Vad skulle du **göra** **mindre** av?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "section7"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "section8",
+        "title": "Övning",
+        "type": "writing",
+        "id": "section8"
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "video",
+        "title": "Vilket livsvärde vill du leva mer efter?",
+        "description": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mer",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/sharing_2.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622490055/Hantera%20Stress%20Adult/ettmeningsfulltliv_o%CC%88vning_wslpxg.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Bra jobbat, du har nu gjort färdigt **Ett meningsfullt liv!**\n\nDu har utvecklat din förmåga att koppla an till dina livsvärden och utforskat vilka **praktiska** **steg** du kan ta idag för att leva ett meningsfullt liv utifrån dina värderingar. \n\nAtt komma i kontakt med sina värderingar är en viktig **kompass** i livet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "14cdb45d-a7e9-42c3-8659-9ce86fcb929f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "14cdb45d-a7e9-42c3-8659-9ce86fcb929f",
+        "content": "Du är nu redo för nästa steg — att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Tänk på ett **livsvärde** inom **varje** **område** (hälsa, relationer, arbete/utbildning och fritid) som ligger nära ditt hjärta. \n2. Om du levde ditt liv enligt dina fyra livsvärden, vad skulle du **göra** **mer** av?\n3. Vad skulle du **göra** **mindre** av?",
+        "alias": "Gruppdelning",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-a-meaningful-life-3",
+    "alias": "resilience-and-stress-a-meaningful-life-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "video",
+        "title": "Exercício de modelação pessoal",
+        "description": "“Amor é aquilo que nós somos. É a nossa essência mais profunda.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543795/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L2umavidacomsignificadothumbnailstresseresili%C3%AAncia_bbvasi.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621803302/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L2_Stress_and_resilience_V1_9-16_jcr1cl.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Pensa num valor que seja importante para ti. Se vivesses a tua vida de acordo com esse valor, o que farias cada vez menos e mais?",
+        "longDescription": "Escreve a tua resposta. Guarda as tuas notas, vais precisar delas mais tarde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Parabéns por completares **Uma vida com significado**.\n\nNesta lição, conectaste-te nos valores fundamentais em diferentes áreas da tua vida. Também exploraste os passos práticos que podes seguir a partir de agora para viver uma vida baseada em valores e sem arrependimentos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Parabéns por completares **Uma vida com significado**. Ao contactares com os teus valores fundamentais, ganhas uma bússola poderosa para a vida.\n\nAgora podes passar para a próxima etapa - partilhares com o teu grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

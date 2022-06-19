@@ -1,0 +1,204 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "The way out is through",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_way_out_is_through_fur7tm.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "26ce61f5-115f-484a-ba4c-abba016570b3",
+    "description": "Notice and acknowledge difficult feelings without judgement.",
+    "stations": [
+      {
+        "id": "26ce61f5-115f-484a-ba4c-abba016570b3",
+        "root": "section1",
+        "alias": "Meditation The way out is through",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "The way out is through",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_way_out_is_through_fur7tm.png",
+            "title": "The way out is through",
+            "content": "*8 minutes*\n\nThis meditation helps you experience everything you are going through right now, knowing that the only way out is through.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "8 minute meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/self_care_tool/yogagirl_meditation_Lesson_04_SOS_meditation.mp3",
+            "alias": "section2",
+            "duration": "8:06",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "87efd6cd-e9e2-433b-8f6a-b869dd17eda9",
+            "alias": "sharing wall",
+            "question": "Please describe your experience while doing this meditation",
+            "exampleText": "It was hard, but it also made me feel more comfortable.",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done for completing this meditation!",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620303395/Illustrations_Meditations/Heading_Slow_full_breathing_jplpve.png",
+            "title": "Well done!",
+            "content": "While you can’t prevent suffering and discomfort from happening, you can use your breath as an anchor to stay present and connected in challenging times.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "The way out is through",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Vägen ut är genom",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_way_out_is_through_fur7tm.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "26ce61f5-115f-484a-ba4c-abba016570b3",
+    "description": "Lägg märke till dina känslor utan se dem som bra eller dåliga.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "26ce61f5-115f-484a-ba4c-abba016570b3",
+        "root": "section1",
+        "alias": "Meditation The way out is through",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Vägen ut är genom",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_way_out_is_through_fur7tm.png",
+            "title": "Vägen ut är genom",
+            "content": "*10 minuter* \n\nDen här meditationen hjälper dig att känna och uppleva allt du går igenom just nu, med vetskap om att den enda vägen ut är genom.",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "10 minuters meditation",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646904/Meditations/11_Swe_Va%CC%88gen_ut_a%CC%88r_att_ga%CC%8A_igenom_pekh6q.wav",
+            "duration": "10:23",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "5b3ae349-5639-4522-a7e6-0fd195977d60",
+            "alias": "Sharing wall",
+            "exampleText": "Det var svårt, men samtidigt kändes allt mer okej.",
+            "question": "Hur kände du dig under den här meditationen?",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1625133828/Illustrations_Meditations/Group_718_jir7fz.png",
+            "title": "Bra gjort!",
+            "content": "Även om du inte kan slippa undan svårigheter eller obehag helt och hållet, kan du med hjälp av din andning bli mer närvarande och lugn när det känns tufft.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Vägen ut är genom",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Ultrapassar os desafios",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_way_out_is_through_fur7tm.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "26ce61f5-115f-484a-ba4c-abba016570b3",
+    "description": "Sem julgamentos, observa e reconhece os sentimentos difíceis.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "26ce61f5-115f-484a-ba4c-abba016570b3",
+        "root": "section1",
+        "alias": "Meditation The way out is through",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "A única saída é ultrapassar os desafios",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794026/New_images/meditations%20png/1024x1024/the_way_out_is_through_fur7tm.png",
+            "title": "A única saída é ultrapassar os desafios",
+            "content": "*08:30 minutos*\n\nEsta meditação ajuda-te a vivenciar tudo aquilo por que estás a passar agora, sabendo que a única saída é ultrapassar todos os desafios.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "8:30 minutos",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429300/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_02_-_The_Way_out_is_through___Self_Care_kb8ts2.mp3",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "798f3ad4-3790-4559-ba93-75838c972903",
+            "alias": "sharing wall",
+            "question": "Por favor descreve o que sentiste durante a meditação. ",
+            "exampleText": "Foi difícil, mas fez-me sentir mais confortável",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620303395/Illustrations_Meditations/Heading_Slow_full_breathing_jplpve.png",
+            "title": "Parabéns!",
+            "content": "Parabéns por concluíres esta meditação.\n\nEmbora não possas evitar que o sofrimento e o desconforto aconteçam, podes usar a tua respiração como uma âncora para te manteres presente e conectado nas alturas difíceis.",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Ultrapassar os desafios",
+        "type": "station"
+      }
+    ]
+  }
+}

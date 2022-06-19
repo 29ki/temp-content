@@ -1,0 +1,110 @@
+{
+  "en": {
+    "id": "76737ec5-01cd-41de-b68d-0ad6e254a4f6",
+    "alias": "alive-day-14",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 14",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 15,
+          "id": "aliveDay14rev1",
+          "title": "Alive Day 14 Quest",
+          "body": "Over the next few hours, go against your initial response to something. Do you feel differently about yourself?"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I...."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay14",
+          "title": "Alive Day 14 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-14",
+        "nextConversationId": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "c3e30735-979c-4cd6-be92-c4aa96ba48fa"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "76737ec5-01cd-41de-b68d-0ad6e254a4f6",
+    "alias": "alive-day-14",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 14",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 15,
+          "id": "aliveDay14rev1",
+          "title": "Uppdrag dag 14",
+          "body": "De närmaste timmarna, lägg märke till en impuls du får – och gör tvärtom. Notera hur det känns."
+        },
+        "sharingWall": {
+          "question": "Hur upplevde du att gå emot en impuls?",
+          "exampleText": "Svårt, men samtidigt gav det ett helt nytt perspektiv."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay14",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-14",
+        "nextConversationId": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "c3e30735-979c-4cd6-be92-c4aa96ba48fa"
+      }
+    ]
+  },
+  "pt": {
+    "id": "76737ec5-01cd-41de-b68d-0ad6e254a4f6",
+    "alias": "alive-day-14",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 14",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay14rev1",
+          "title": "Desafio ALIVE dia 14",
+          "body": "Durante as próximas horas, contraria a tua reação e resposta automática a uma situação. Como te sentiste? O que foi diferente?"
+        },
+        "sharingWall": {
+          "question": "O que aprendeste acerca de ti própria/o?",
+          "exampleText": "Hoje eu..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay14",
+          "title": "Check-in Dia 14 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-14",
+        "nextConversationId": "d60fe0f6-a332-45e5-850a-b1adce2cb1f3",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "c3e30735-979c-4cd6-be92-c4aa96ba48fa"
+      }
+    ],
+    "root": "scheduleTask"
+  }
+}

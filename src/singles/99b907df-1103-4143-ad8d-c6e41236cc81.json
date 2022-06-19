@@ -1,0 +1,638 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Be kind to yourself",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/be_kind_to_yourself_oveh9n.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "9528d6db-f979-47ea-88f8-e1e413ecee4c",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-bekindtoyourself",
+        "alias": "Exercise bekindtoyourself",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/be_kind_to_yourself_oveh9n.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Perspective**\n\nImagine taking out a couple of clothespins. \\\n\\\nYou grab your inner voice and \"lift it out,\" so that there's now a person standing in front of you. That person is saying all the things you usually say to yourself when something's gone wrong or when you've failed.\n\nHow long would you stand talking to this person?"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "There's a high probability that you'd want to get out of there **as fast as possible.**\n\nWhy? Because we humans are usually much tougher on ourselves than we are on others."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "This exercise is about **self-compassion.** About being **less self-critical**. And instead trying to be **kinder** to yourself. \n\nResearch has proven that this can increase happiness and motivation, and at the same time reduce anxiety and depressive symptoms."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### You'll learn more about:\n\n* Being kind to yourself\n* Taking different perspectives\n* Finding a new perspective"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# **Exercise**\n\n1. Start by thinking of a situation when you've felt down, failed at something and doubted yourself. How do you usually treat yourself in those kinds of situations?\n\n   Use paper and pen. Write down what you usually do and say to yourself, as well as in what tone (for example harsh or soft) and what words you usually use."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "2. Now, think about how you would've reacted if a friend was feeling down, had failed at something or was doubting themselves.\n\n   Write down what you would have done and what you would say to your friend. Also note the tone and words you'd use."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "3. Look at both your answers. Do you notice any differences? If yes, ask yourself — why? What is it that makes you treat yourself differently from how you treat others? \n\n   Write down your answer."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "4. Write down two things you think would **change** if you talked to yourself in the same way you usually treat friends who feel down. How would you feel? What would you do differently? \n\n   *For example: I wouldn't feel as insecure. I'd dare to try new things.*"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "More"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "alias": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "5. Now your task is to treat yourself in the **same way** you treat your friends.\n\n   In the coming week, see if you can practice being kinder to yourself (especially in difficult situations). Notice how it makes you feel. \n\n   Use the idea of clothespins and start by becoming aware of what your inner voice sounds like."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Done"
+          },
+          {
+            "type": "defaultSection",
+            "id": "10",
+            "alias": "10",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Good job!**\n\nYou've now practiced self-compassion by taking a new perspective. By asking yourself: \"How would I have reacted if a friend was experiencing what I am going through right now?\"\n\nBy becoming aware of what our inner voice sounds like and working on becoming a little kinder, we can change and improve how we relate to ourselves."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "22e0e255-b31a-4ab2-9a41-86f9d549e465",
+            "exampleText": "I think I would be kinder. And maybe happier. Dare doing more.",
+            "question": "What would you do differently if you treated yourself in the same way you usually treat your friends?",
+            "alias": "Sharing wall Be kind"
+          }
+        ],
+        "name": "Be kind to yourself",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Var snäll mot dig själv",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/be_kind_to_yourself_oveh9n.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "9528d6db-f979-47ea-88f8-e1e413ecee4c",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-bekindtoyourself",
+        "alias": "Exercise bekindtoyourself",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/be_kind_to_yourself_oveh9n.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Perspektiv**\n\nFöreställ dig att du tar ett par klädnypor. Du greppar tag i rösten inom dig själv och \"lyfter ut\" den, så att det nu står en person framför dig. Personen säger alla de saker du brukar säga till dig själv när någonting blivit fel, eller när du inte levt upp till dina egna krav.\n\nHur länge skulle du orka prata med den här personen?"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Sannolikheten är att du väldigt snabbt skulle vilja gå därifrån.\n\nVarför? För att vi människor oftast är mycket hårdare mot oss själva än vad vi är mot andra."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Denna övningen handlar om *självmedkänsla* — om att bli *mindre* självkritisk. Och istället försöka vara **snällare** mot sig själv. \n\nForskning har visat att det kan öka både lycka och motivation, samtidigt som det minskar ångest och depressiva symtom."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Du lär dig mer om att:\n\n* Vara snällare mot dig själv\n* Ta olika perspektiv\n* Skapa ett nytt perspektiv"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Övning\n\n1. Börja med att tänka på en situation när du själv mått dåligt, misslyckats med någonting och tvivlat på dig själv. Hur brukar du vanligtvis behandla dig själv i sådana situationer?\n\n   Använd papper och penna. Skriv ned vad du vanligtvis gör och säger till dig själv, samt vilken ton (till exempel mjuk eller hård) och vilka ord du brukar använda."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "2. Fundera nu på hur du hade reagerat om en vän hade känt sig nere, misslyckats med något eller kanske tvivlat på sig själv. \n\n   Skriv ned vad du hade gjort och vad du skulle ha sagt till din vän. Lägg även märke till vilken ton och vilka ord du hade använt."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Jag är färdig"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "3. Titta på båda dina svar. Märker du någon skillnad? Om ja, fråga dig själv — varför? Vad är det som gör att du behandlar dig själv annorlunda från hur du behandlar andra? \n\n   Skriv ned ditt svar."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "4. Skriv ned två saker du tror skulle **förändras** om du pratade med dig själv på samma sätt som du brukar bemöta vänner som känner sig nere. Hur skulle du må? Vad skulle du göra annorlunda? \n\n   *Exempelvis: Jag skulle inte känna mig lika misslyckad. Jag skulle våga testa nya saker.*"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Mer"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "alias": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "5. Nu är din uppgift att behandla dig själv *på samma sätt* som du behandlar dina vänner.\n\n   Se om du närmaste veckan kan öva på att vara snällare mot dig själv (särskilt i jobbiga situationer). Lägg märke till hur det får dig att må. \n\n   Använd dig av bilden med klädnypor och börja med att bli medveten om hur din inre röst låter."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "defaultSection",
+            "id": "10",
+            "alias": "10",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Bra jobbat!**\n\nDu har nu övat dig i självmedkänsla genom att ta ett annat perspektiv. Genom att fråga: \"Hur hade jag reagerat om en vän upplevde det jag gör just nu?\"\n\nGenom att bli medveten om hur vår inre röst låter och börja jobba på att bli lite snällare mot oss själva, kan vi förändra och förbättra relationen till oss själva."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "34c77c19-f3d9-4539-bd6e-403c6320cddd",
+            "alias": "Sharing wall Be kind",
+            "question": "Vad skulle du göra annorlunda om du började behandla dig själv på samma sätt som du behandlar andra?",
+            "exampleText": "Kanske vara snällare mot mig själv. Våga mer. Må bättre."
+          }
+        ],
+        "name": "Var snäll mot dig själv",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Sê gentil contigo",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/be_kind_to_yourself_oveh9n.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "9528d6db-f979-47ea-88f8-e1e413ecee4c",
+    "wip": false,
+    "stations": [
+      {
+        "id": "Exercise-bekindtoyourself",
+        "alias": "Exercise bekindtoyourself",
+        "root": "1",
+        "sections": [
+          {
+            "type": "defaultSection",
+            "id": "1",
+            "alias": "1",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/be_kind_to_yourself_oveh9n.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Perspetiva**\n\nAgarra a tua voz interior e puxa-a para fora, como se tivesses agora uma pessoa parada à tua frente. Essa pessoa diz-te tudo o que costumas dizer a ti mesmo(a) quando alguma coisa corre mal ou quando falhas.\n\nQuanto tempo ficarias a conversar com essa pessoa?"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "2",
+            "alias": "2",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Há uma forte probabilidade de quereres sair dessa situação **o mais rápido possível.**\n\nPorquê? Porque nós, pessoas, geralmente somos muito mais duros com nós próprios do que com os outros."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "3",
+            "alias": "3",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Este exercício é sobre **autocompaixão.** Sobre ser **menos autocrítico**. Tentares ser **mais gentil** contigo.\n\nA investigação provou que isso pode aumentar a felicidade e a motivação reduzindo em simultâneo a ansiedade e os sintomas depressivos."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Vamos lá"
+          },
+          {
+            "type": "defaultSection",
+            "id": "4",
+            "alias": "4",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "### Vais aprender a:\n\n* Ser mais gentil contigo\n* Assumir perspetivas diferentes\n* Encontrar uma nova perspetiva"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "5",
+            "alias": "5",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# **Exercício**\n\n1. Começa por pensar numa situação em que te sentiste em baixo, falhaste em alguma coisa ou duvidaste de ti. Como te costumas tratar neste tipo de situações?\n\n   Usa papel e caneta. Escreve o que costumas fazer e dizer a ti mesma/o, em que tom (por exemplo, áspero ou suave) e que palavras costumas usar."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "defaultSection",
+            "id": "6",
+            "alias": "6",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "2. Agora, pensa em como terias reagido se um(a) amigo(a) se estivesse a sentir em baixo, tivesse falhado em alguma coisa ou estivesse a duvidar de si mesmo(o).\n\n   Escreve o que terias feito e o que dirias a esse(a) amigo(a). Está também atento ao tom e às palavras que utilizarias."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "defaultSection",
+            "id": "7",
+            "alias": "7",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "3. Observa as tuas respostas. Consegues identificar alguma diferença? Se sim, pergunta a ti mesma/o - porquê? O que te faz tratares-te a ti própria/o de forma diferente de como tratas os outros?\n\n   Escreve a tua resposta."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "8",
+            "alias": "8",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "4. Escreve duas coisas que achas que **mudariam** se falasses contigo da mesma forma que costumas tratar os teus amigos que se sentem desanimados. Como te sentirias? O que farias diferente?\n\n   *Por exemplo: Não me sentiria tão inseguro. Teria ousadia para tentar coisas novas.*"
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Próximo"
+          },
+          {
+            "type": "defaultSection",
+            "id": "9",
+            "alias": "9",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "5. Agora, a tua tarefa é tratares-te **da mesma forma** que tratas os teus amigos.\n\n   Na próxima semana, vê se consegues ser mais gentil contigo (especialmente, em situações difíceis). Observa como isso te faz sentir."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "defaultSection",
+            "id": "10",
+            "alias": "10",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "**Parabéns!**\n\nPraticaste a autocompaixão assumindo uma nova perspetiva ao questionares-te: \"Como reagiria se um/a amigo/a estivesse a passar pelo que estou a passar agora?\"\n\nAo tomar consciência de como soa a nossa voz interior e trabalhando para nos tornarmos um pouco mais gentis, podemos mudar e melhorar a forma como nos relacionamos connosco."
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "6970dc21-5312-4e61-b3e7-50407122dccf",
+            "alias": "Sharing wall Be kind",
+            "exampleText": "Acho que seria mais gentil. E talvez mais feliz.",
+            "question": "O que farias diferente se te tratasses da mesma maneira que costumas tratar os teus amigos?"
+          }
+        ],
+        "name": "Sê gentil contigo",
+        "type": "station"
+      }
+    ]
+  }
+}

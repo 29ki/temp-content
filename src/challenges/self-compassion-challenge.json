@@ -1,0 +1,106 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "outro": "### Well done on completing the Deal with difficult emotions challenge!\n\nNow it’s time to reflect on what you’ve learned along the way.",
+    "name": "Deal with difficult emotions",
+    "intro": "**In this challenge, you'll learn strategies to improve your ability to deal with difficult emotions.**\n\nEven though pain can’t be avoided, we often prolong our suffering by engaging in various unhelpful and energy-consuming strategies like trying to ignore, deny or escape difficult emotions.\n\nBut by giving up the struggle with our emotions - that is, by practicing acceptance - we can actually alleviate the pain that the struggling itself can bring.",
+    "type": "challenge",
+    "introVideo": {
+      "imageUri": ""
+    },
+    "duration": {
+      "type": "day",
+      "count": 5
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "content": [
+      {
+        "id": "222bf0bc-1a13-4d3b-8a91-6bca0e8db0ea",
+        "contentId": "e6cf480e-9b4d-458a-88bd-6d88093c5918"
+      },
+      {
+        "id": "ad9c765a-b1c8-4b2b-9528-fd69c34f4591",
+        "contentId": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710"
+      },
+      {
+        "id": "df71203d-c1fe-474d-a240-027c114cc307",
+        "contentId": "5c35a6e5-6e38-4dbb-a247-6b661264c7db"
+      },
+      {
+        "id": "c647d70b-1038-482d-83fe-36d77f4b865f",
+        "contentId": "747e192f-c800-4c7d-8ba7-1f8789f07599"
+      },
+      {
+        "id": "19eaa0dd-4cda-4dda-a8cc-5f97318116b9",
+        "contentId": "b848c084-57d1-44c9-925b-be5b32409ca5"
+      }
+    ],
+    "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651846277/New_images/challenges/dealing_with_difficult_emotions-25_zxtmws.png"
+    },
+    "reflectionExerciseId": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "wip": false,
+    "nextStep": "Looking for what to do next?"
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "outro": "### Du har just klarat utmaningen Hantera svåra känslor, bra jobbat!\n\nNu är det dags att reflektera över vad du lärt dig.",
+    "name": "Hantera svåra känslor",
+    "intro": "**I den här utmaningen kommer du få lära dig strategier för att bättre hantera svåra känslor.**\n\nSmärta går inte att undvika. Livet går upp, och livet går ner. Det är däremot vanligt att vi förlänger vårt lidande genom att engagera oss i olika ohjälpsamma och energikrävande strategier som att försöka ignorera, förneka, eller fly från våra känslor.\n\nGenom att öva på acceptans kan vi faktiskt lindra den smärta som kampen med våra känslor ofta leder till.",
+    "type": "challenge",
+    "introVideo": {
+      "imageUri": ""
+    },
+    "duration": {
+      "type": "day",
+      "count": 5
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "content": [
+      {
+        "id": "cf027275-4633-4b24-b5ea-cb4df4f465f9",
+        "contentId": "e6cf480e-9b4d-458a-88bd-6d88093c5918"
+      },
+      {
+        "id": "28aca756-562e-454d-a50c-5f5aa59e4d36",
+        "contentId": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710"
+      },
+      {
+        "id": "3717ae56-87c6-4f2f-b3d1-4cb008a60264",
+        "contentId": "5c35a6e5-6e38-4dbb-a247-6b661264c7db"
+      },
+      {
+        "id": "85342824-448a-4ea7-b9ff-13a4def69af4",
+        "contentId": "747e192f-c800-4c7d-8ba7-1f8789f07599"
+      },
+      {
+        "id": "9cab83b1-92fd-4052-811d-c2830103c087",
+        "contentId": "b848c084-57d1-44c9-925b-be5b32409ca5"
+      }
+    ],
+    "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1651846277/New_images/challenges/dealing_with_difficult_emotions-25_zxtmws.png"
+    },
+    "reflectionExerciseId": "42f95ecf-9665-4be0-95b4-a86b60eee1d5",
+    "wip": false,
+    "nextStep": "Vad vill du göra nu?"
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "type": "challenge",
+    "wip": true,
+    "duration": {
+      "type": "day",
+      "count": 5
+    },
+    "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
+  }
+}

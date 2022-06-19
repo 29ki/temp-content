@@ -1,0 +1,47 @@
+{
+  "en": {
+    "no": "No",
+    "saveChanges": "Save changes",
+    "continue": "Continue",
+    "yes": "Yes",
+    "save_active": "Saving",
+    "submit": "Submit",
+    "ok": "OK",
+    "save": "Save",
+    "exit": "Exit",
+    "saveChanges_active": "Saving",
+    "cancel": "Cancel",
+    "refresh": "Refresh",
+    "moreCta": "View all"
+  },
+  "sv": {
+    "no": "Nej",
+    "saveChanges": "Spara ändringar",
+    "continue": "Fortsätt",
+    "yes": "Ja",
+    "save_active": "Sparar",
+    "submit": "Skicka",
+    "cancel": "Avbryt",
+    "ok": "Okej",
+    "save": "Spara",
+    "exit": "Lämna",
+    "saveChanges_active": "Sparar",
+    "refresh": "Uppdatera",
+    "moreCta": "Visa alla"
+  },
+  "pt": {
+    "no": "Não",
+    "saveChanges": "Gravar alterações",
+    "continue": "Continuar",
+    "yes": "Sim",
+    "save_active": "A gravar",
+    "submit": "Submeter",
+    "cancel": "Cancelar",
+    "ok": "OK",
+    "save": "Gravar",
+    "exit": "Sair",
+    "saveChanges_active": "A gravar",
+    "refresh": "Refrescar",
+    "moreCta": "Ver mais"
+  }
+}

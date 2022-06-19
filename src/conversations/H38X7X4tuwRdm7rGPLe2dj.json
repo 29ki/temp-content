@@ -1,0 +1,737 @@
+{
+  "en": {
+    "id": "H38X7X4tuwRdm7rGPLe2dj",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Responding well",
+        "title": "Responding well",
+        "content": "### Today’s lesson has four parts:\n\n* Noticing opportunities\n* Exploring vulnerability\n* How to respond\n* Opening up\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Pen and paper\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Introduction",
+        "title": "Introduction",
+        "content": "In every relationship there are moments when a deepening is possible. Each person plays a role in creating these moments.  They look like this: One person does something vulnerable, and the other responds well.\n\n30 years of relationship science tells us the following:  Of all the things that happen in relationships, the single most important thing for a deepening of a relationship is that the first person (the one who just did something vulnerable) perceives the other to have responded well. We will soon unpack what responding well could mean.\n\n### Respond and Connect\n\nWhen someone responds well to our vulnerability, our bodies move from fight or flight to calm and connect, our heart rate and breathing regulate, cortisol goes down, and oxytocin floods our system. We feel safe, seen, heard, and accepted. We trust the other person more, want to spend more time with them, and want to get closer.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Noticing opportunities",
+        "title": "Noticing opportunities",
+        "content": "The first step in responding well is noticing the opportunity to do so.  This means noticing that the other person just did something vulnerable.\n\nSome big vulnerable moments:\n\n* A friend opens up to you about their struggle with their alcoholic father.\n\n* Your partner, knowing you want kids (or more kids) tells you they don’t want any (or any more).\n\n* Your sister or brother shares that they have been depressed since they moved from home.\n\nSome small moments:\n\n* You meet someone at a party and they ask you where you’re from.\n\n* A colleague at work tells you they made a mistake on a project and don’t know what to do.\n\n* Your partner gives you a hug.\n\n* Your child shares a good score on a math test.\n\n* Someone gives you a compliment\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Exploring vulnerability",
+        "title": "Exploring vulnerability",
+        "time": "Take 5 min",
+        "question": "Reflect on why the other person may feel vulnerable in the listed examples of small moments on the last screen. Take some time to think about each. Take notes if it helps.",
+        "longDescription": "For example, you might write:\n\nYou meet someone at a party and they ask you where you’re from:\n\n> They are reaching out for contact and taking a risk, what if I think their question is boring, what if I appear uninterested in talking to them, what if my response is very short and don’t ask them questions?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "Finding vulnerability",
+        "title": "Finding vulnerability",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_4/9.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_4/deepeningrelationships_respondingwell_01.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Finding vulnerability",
+        "title": "Finding vulnerability",
+        "time": "Take 5-10 min",
+        "question": "When were you and others vulnerable?",
+        "longDescription": "Write down examples of moments when you, and others, were a bit vulnerable. Hold on to it, you will be needing it later:\n\n1. What was a big moment of vulnerability that you engaged in over the course of your life? How did the other respond?\n2. What was a big moment of vulnerability that another engaged in with you? How did you respond?\n3. What was a small moment of vulnerability that you engaged in over the last two weeks of your life. How did the other respond?\n4. What was a small moment of vulnerability that another engaged in with you over the last two weeks. How did you respond?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "How to respond",
+        "title": "How to respond",
+        "content": "In the above examples, can you notice that the vulnerability lies in taking a risk? The risk is not knowing how the other person will respond.\n\nResponding well involves providing three things:\n\n1. Safety: Creating a safe space for vulnerability -e.g. listening, being present\n\n2. Validation:  Responding so the other person feels seen and heard, especially in terms of what they are feeling and how they feel about themselves.\n\n3. Care: Giving the other what they ask for in ways that meet their needs while still taking your own needs into account.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "How to respond",
+        "title": "How to respond",
+        "time": "Take 5-10 min",
+        "question": "Take one of the examples you wrote about, when someone else did something vulnerable, where you might have responded more fully. Read the suggestions below and write down the sentences that describe how you responded. Feel free to come up with your own sentences ...",
+        "longDescription": "**SAFETY**\n\n* I was engaged and not distracted…\n* I listened fully\n* I let the other person lead the conversation and did not dominate\n* I offered physical affection (a hug or a hand)\n\n**VALIDATION**\n\n* I shared that I understood the other’s feelings\n* If the other was expressing feelings, my feelings were “sync’ed” with theirs.\n* I shared that I understood what was important for them\n* I expressed acceptance of the other person\n* I joined them in vulnerability by sharing a story from my own life\n\n**CARE**\n\n* If they asked questions, I responded fully and honestly\n* I expressed that I care for them\n* I asked questions to show I want to know more about their situation\n* If they asked for something, I gave them what they asked for while taking my own needs into account\n* If they said no to something, I respected them\n* I apologized for something I did that hurt them, without getting defensive or over-explaining my intentions\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "video",
+        "alias": "Exploring obstacles",
+        "title": "Exploring obstacles",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_4/10.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_4/deepeningrelationships_respondingwell_02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Exploring obstacles",
+        "title": "Exploring obstacles",
+        "time": "Take 5-10 min",
+        "longDescription": "Read the list again. Are there ideas on the list that suggest how you could have responded more fully?\n\nWhat got in the way?\n\nWrite down your answer on a piece of paper, you’ll be needing it later.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Exploring obstacles",
+        "title": "Exploring obstacles",
+        "content": "Typically, the three things that get in the way of responding well for most of us are:\n\n1. We don’t recognize the vulnerability and the importance of responding well\n2. We don’t feel safe ourselves\n3. It is hard to risk responding well, because we might get it wrong\n\nIn the meditation that follows you will be guided to open up just a bit more.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "audio",
+        "title": "Meditation - Opening up",
+        "description": "This meditation may help you open up to the possibility of responding from your deepest good will.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_openingup.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section13"
+          }
+        ],
+        "alias": "Meditation - Opening up",
+        "duration": "06:52"
+      },
+      {
+        "id": "section13",
+        "type": "video",
+        "alias": "Your response",
+        "title": "Your response",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section14"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_4/9.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_4/deepeningrelationships_respondingwell_03.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Your response",
+        "title": "Your response",
+        "time": "Take 5-10 min",
+        "longDescription": "What would your full open-hearted response be if you felt totally safe? Write your answer down on a piece of paper and hold on to it, you’ll be needing it later",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "Learning how to respond well is a lifelong process for most of us.  It is not easy.  Start by being a vulnerability hawk. Notice small moments of vulnerability throughout your day. Tell yourself - these moments are real, and important. See if you can respond with safety, validation and care.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Responding well"
+  },
+  "sv": {
+    "id": "H38X7X4tuwRdm7rGPLe2dj",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Svarar bra",
+        "title": "Svarar bra",
+        "content": "### Dagens lektion består av fyra delar:\n\n* Lägg märke till möjligheter\n* Utforska sårbarhet\n* Hur man svarar\n* Öppna upp\n\n### Du kommer att behöva:\n\n* 40 min ostörd tid\n* Penna och papper\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Introduktion",
+        "title": "Introduktion",
+        "content": "I varje förhållande finns det stunder då en fördjupning är möjlig. Varje person spelar en roll för att skapa dessa ögonblick. De ser ut så här: En person gör något sårbart och den andra svarar bra.\n\n30 år av relationsvetenskap berättar för oss följande: Av alla saker som händer i relationer är det viktigaste för en fördjupning av ett förhållande att den första personen (den som just gjorde något sårbart) uppfattar den andra att ha svarat väl. Vi kommer snart att packa upp vad som kan svara bra.\n\n### Svara och anslut\n\nNär någon svarar bra på vår sårbarhet rör sig våra kroppar från strid eller flykt till lugn och kontakt, vår hjärtfrekvens och andning regleras, kortisol går ner och oxytocin översvämmar vårt system. Vi känner oss säkra, sett, hörda och accepterade. Vi litar mer på den andra personen, vill spendera mer tid med dem och vill komma närmare.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Lägg märke till möjligheter",
+        "title": "Lägg märke till möjligheter",
+        "content": "Det första steget i att svara bra är att märka möjligheten att göra det. Detta innebär att man märker att den andra bara gjorde något sårbart.\n\nNågra stora utsatta stunder:\n\n* En vän öppnar upp för dig om deras kamp med sin alkoholiserade far.\n\n* Din partner vet att du vill ha barn (eller fler barn) säger att de inte vill ha några (eller fler).\n\n* Din syster eller bror berättar att de har varit deprimerade sedan de flyttade hemifrån.\n\nNågra små ögonblick:\n\n* Du träffar någon på en fest och de frågar var du kommer ifrån.\n\n* En kollega på jobbet säger att de gjorde ett misstag i ett projekt och inte vet vad de ska göra.\n\n* Din partner ger dig en kram.\n\n* Ditt barn delar en bra poäng på ett matteprov.\n\n* Någon ger dig en komplimang\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Utforska sårbarhet",
+        "title": "Utforska sårbarhet",
+        "time": "Ta 5 min",
+        "question": "Reflektera över varför den andra personen kan känna sig sårbar i de listade exemplen på små ögonblick på den sista skärmen. Ta dig tid att tänka på var och en. Anteckna om det hjälper.",
+        "longDescription": "Du kan till exempel skriva:\n\nDu träffar någon på en fest och de frågar varifrån du kommer:\n\n> De sträcker sig efter kontakt och tar en risk, tänk om jag tycker att deras fråga är tråkig, vad händer om jag verkar ointresserad av att prata med dem, vad händer om mitt svar är mycket kort och inte ställer frågor?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "Hitta sårbarhet",
+        "title": "Hitta sårbarhet",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_4/9.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_4/deepeningrelationships_respondingwell_01.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Hitta sårbarhet",
+        "title": "Hitta sårbarhet",
+        "time": "Ta 5-10 min",
+        "question": "När var du och andra utsatta?",
+        "longDescription": "Skriv ner exempel på stunder då du och andra var lite sårbara. Håll fast vid det, du kommer att behöva det senare:\n\n1. Vad var ett stort ögonblick av sårbarhet som du engagerade dig under ditt liv? Hur svarade den andra?\n2. Vad var ett stort ögonblick av sårbarhet som en annan engagerade sig i dig? Hur svarade du?\n3. Vad var ett litet ögonblick av sårbarhet som du engagerade dig under de senaste två veckorna i ditt liv. Hur svarade den andra?\n4. Vad var ett litet sårbarhetsögonblick som en annan engagerade sig med dig under de senaste två veckorna. Hur svarade du?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Hur man svarar",
+        "title": "Hur man svarar",
+        "content": "I exemplen ovan kan du märka att sårbarheten ligger i att ta en risk? Risken är att inte veta hur den andra personen kommer att reagera.\n\nAtt svara bra innebär att man tillhandahåller tre saker:\n\n1. Säkerhet: Skapa ett säkert utrymme för sårbarhet - t.ex. lyssnar, är närvarande\n\n2. Validering: Att svara så att den andra personen känns sett och hörd, särskilt när det gäller vad de känner och hur de känner för sig själva.\n\n3. Skötsel: Ge den andra vad de ber om på sätt som tillgodoser deras behov och samtidigt ta hänsyn till dina egna behov.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Hur man svarar",
+        "title": "Hur man svarar",
+        "time": "Ta 5-10 min",
+        "question": "Ta ett av exemplen du skrev om när någon annan gjorde något sårbart, där du kanske har svarat mer fullständigt. Läs förslagen nedan och skriv ner meningarna som beskriver hur du svarade. Kom gärna med dina egna meningar ...",
+        "longDescription": "**SÄKERHET**\n\n* Jag var förlovad och inte distraherad ...\n* Jag lyssnade helt\n* Jag lät den andra personen leda konversationen och dominerade inte\n* Jag erbjöd fysisk tillgivenhet (en kram eller en hand)\n\n**GODKÄNNANDE**\n\n* Jag delade att jag förstod andras känslor\n* Om den andra uttryckte känslor \"synkroniserades\" mina känslor med sina.\n* Jag delade att jag förstod vad som var viktigt för dem\n* Jag uttryckte godkännande av den andra personen\n* Jag gick med i sårbarhet genom att dela en berättelse från mitt eget liv\n\n**VÅRD**\n\n* Om de ställde frågor svarade jag fullständigt och ärligt\n* Jag uttryckte att jag bryr mig om dem\n* Jag ställde frågor för att visa att jag vill veta mer om deras situation\n* Om de frågade efter något gav jag dem det de bad om medan jag tog hänsyn till mina egna behov\n* Om de sa nej till något respekterade jag dem\n* Jag bad om ursäkt för något jag gjorde som skadade dem, utan att bli defensiva eller förklara mina avsikter\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "video",
+        "alias": "Utforska hinder",
+        "title": "Utforska hinder",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_4/10.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_4/deepeningrelationships_respondingwell_02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Utforska hinder",
+        "title": "Utforska hinder",
+        "time": "Ta 5-10 min",
+        "longDescription": "Läs listan igen. Finns det idéer på listan som föreslår hur du kunde ha svarat mer fullständigt?\n\nVad kom i vägen?\n\nSkriv ner ditt svar på ett papper, du behöver det senare.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Utforska hinder",
+        "title": "Utforska hinder",
+        "content": "Vanligtvis är de tre saker som hindrar oss av att svara bra för de flesta av oss:\n\n1. Vi känner inte till sårbarheten och vikten av att svara bra\n2. Vi känner oss inte säkra själva\n3. Det är svårt att riskera att svara bra, eftersom vi kanske får fel\n\nI meditationen som följer kommer du att vägledas att öppna upp lite mer.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "audio",
+        "title": "Meditation - Öppna upp",
+        "description": "Denna meditation kan hjälpa dig att öppna upp för möjligheten att svara från din djupaste goda vilja.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_openingup.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "video",
+        "alias": "Ditt svar",
+        "title": "Ditt svar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section14"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_4/9.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_4/deepeningrelationships_respondingwell_03.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Ditt svar",
+        "title": "Ditt svar",
+        "time": "Ta 5-10 min",
+        "longDescription": "Vad skulle ditt fulla öppenhjärtade svar vara om du kände dig helt säker? Skriv ner ditt svar på ett papper och håll kvar det, du behöver det senare",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Att lära sig att svara bra är en livslång process för de flesta av oss. Det är inte lätt. Börja med att vara en sårbarhetshök. Lägg märke till små ögonblicks sårbarhet hela dagen. Berätta för dig själv - dessa stunder är verkliga och viktiga. Se om du kan svara med säkerhet, validering och vård.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Responding well"
+  },
+  "pt": {
+    "id": "H38X7X4tuwRdm7rGPLe2dj",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Responder adequadamente",
+        "title": "Responder adequadamente",
+        "content": "### Esta lição tem quatro partes:\n\n* Identificar oportunidades\n* Explorar vulnerabilidades\n* Como responder\n* Expores-te\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "title": "Introdução",
+        "content": "Em todas as relações há momentos onde é possível aprofundar. Cada pessoa desempenha um papel na criação desses momentos. Esses momentos são deste género: uma pessoa mostra-se vulnerável e a outra responde bem a isso.\n\nTrinta anos de ciência das relações dizem-nos o seguinte: de tudo o que acontece nas relações, a coisa mais importante para o aprofundamento de uma relação é que a primeira pessoa (aquela que se mostrou vulnerável) perceba que a outra respondeu bem a isso. Em breve iremos desvendar o que pode significar responder bem.\n\n### Responder e Conectar\n\nQuando alguém reage bem à nossa vulnerabilidade, os nossos corpos passam de um modo de lutar ou fugir a um modo de acalmar e conectar. A nossa frequência cardíaca e a respiração estabilizam, o cortisol diminui e a oxitocina inunda o nosso corpo. Sentimo-nos seguros, vistos, ouvidos e aceites. Confiamos mais na outra pessoa, queremos passar mais tempo com ela e queremos aproximar-nos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Identificar oportunidades",
+        "title": "Identificar oportunidades",
+        "content": "O primeiro passo para responder bem é perceber a oportunidade de o fazer. Isso significa perceber que a outra pessoa se mostrou vulnerável naquele momento.\n\nAlguns momentos de grande vulnerabilidade:\n\n* Uma amiga ou um amigo abre-se contigo sobre a luta da família para ajudar o pai alcoólico.\n* O teu companheiro ou a tua companheira, sabendo que queres ter filhos (ou ter mais filhos), diz que não quer ter nenhum (ou não quer ter mais).\n* A tua irmã ou o teu irmão conta-te que está deprimida/o desde que se mudou de casa.\n\nAlguns momentos mais pequenos:\n\n* Conheces alguém numa festa que te pergunta de onde és.\n* Um/a colega de trabalho diz que cometeu um erro num projeto e não sabe o que fazer.\n* A tua companheira ou o teu companheiro dá-te um abraço.\n* A tua filha ou o teu filho partilha contigo uma boa nota num teste de matemática.\n* Alguém te faz um elogio.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Explorar a vulnerabilidade",
+        "title": "Explorar a vulnerabilidade",
+        "time": "Tira 5 min",
+        "question": "Pensa porque é que a outra pessoa se pode sentir vulnerável nas situações descritas na lista de pequenos momentos no último ecrã. Reserva algum tempo para pensar em cada uma delas. Toma notas, se isso ajudar.",
+        "longDescription": "Como exemplo, podes escrever:\n\nConheces alguém numa festa que te pergunta de onde és:\n\n> Esta pessoa está a tentar falar comigo e a correr um risco, eu posso achar a pergunta dela aborrecida, posso parecer desinteressada/o ao falar com ela, posso dar uma resposta muito curta ou não dar continuidade à conversa fazendo mais perguntas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "Descobrir a vulnerabilidade",
+        "title": "Descobrir a vulnerabilidade",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L4P5RESPONDINGWELL_trufpw.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021447/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L4_Deeping_relationships_V1_-_9x16_xmpdqs.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Descobrir a vulnerabilidade",
+        "title": "Descobrir a vulnerabilidade",
+        "time": "Tira 5-10 min",
+        "question": "Quando é que tu e outras pessoas foram vulneráveis?",
+        "longDescription": "Escreve exemplos de momentos em que tu e outras pessoas foram um pouco vulneráveis. Guarda os exemplos, vais precisar deles mais tarde:\n\n1. Tiveste um grande momento de vulnerabilidade ao longo da tua vida? Como respondeu a outra pessoa?\n2. Alguém já teve um grande momento de vulnerabilidade contigo? Como reagiste a isso?\n3. Tiveste algum momento mais pequeno de vulnerabilidade nas últimas duas semanas? Como respondeu a outra pessoa?\n4. Alguém se mostrou um pouco vulnerável contigo nas últimas duas semanas? Como respondeste?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Como responder",
+        "title": "Como responder",
+        "content": "Nos exemplos acima, consegues perceber que a vulnerabilidade passa por correr riscos? O risco é não saber como a outra pessoa vai reagir.\n\nResponder bem à vulnerabilidade envolve dar três coisas:\n\n1. **Segurança**: criar um espaço seguro para a vulnerabilidade - por exemplo, ouvir, estar presente.\n2. **Validação**: responder de forma a que a outra pessoa se sinta vista e ouvida, dando particular atenção ao que ela está a sentir e a como se está a sentir a respeito de si mesma.\n3. **Cuidado**: dar à outra pessoa o que ela pede de forma a responder às suas necessidades, mas tendo em conta também as tuas próprias necessidades.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Como responder",
+        "title": "Como responder",
+        "time": "Tira 5-10 min",
+        "question": "Pega num dos exemplos que descreveste, em que alguém se mostrou vulnerável e em que poderias ter respondido de forma mais completa. Lê as sugestões abaixo e escreve as frases que melhor descrevem a forma como respondeste. Sente-te à vontade para criar as tuas próprias frases...",
+        "longDescription": "**SEGURANÇA**\n\n* Eu estava envolvida/o e não estava distraída/o…\n* Eu ouvi com toda a atenção\n* Eu deixei a outra pessoa conduzir a conversa sem a dominar\n* Eu ofereci conforto físico (um abraço ou uma mão)\n\n**VALIDAÇÃO**\n\n* Eu partilhei que compreendia os sentimentos da outra pessoa\n* Se a outra pessoa estava a expressar sentimentos, os meus sentimentos estavam “sintonizados” com os dela.\n* Eu partilhei que compreendia o que era importante para a outra pessoa\n* Eu expressei aceitação pela outra pessoa\n* Eu juntei-me à outra pessoa na vulnerabilidade, partilhando uma história da minha própria vida\n\n**CUIDADO**\n\n* Se ela me fez perguntas, respondi de forma completa e honesta\n* Eu expressei que me preocupo com ela\n* Eu fiz perguntas que mostraram que queria saber mais acerca da sua situação\n* Se ela pediu alguma coisa, dei-lhe o que pediu tendo também em conta as minhas próprias necessidades\n* Se ela disse que não a alguma coisa, eu respeitei-a\n* Eu pedi desculpa por alguma coisa que tenha feito e que a magoou, sem ser defensiva/o e sem explicar demais as minhas intenções",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "video",
+        "alias": "Explorar os obstáculos",
+        "title": "Explorar os obstáculos",
+        "description": "“Só dizer a palavra rejeição é difícil, mas faz parte.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021345/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L4P9RESPONDINGWELL_szwfi5.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021442/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L4_Deeping_relationships_V2_-_9x16_gbzxuh.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "alias": "Explorar os obstáculos",
+        "title": "Explorar os obstáculos",
+        "time": "Tira 5-10 min",
+        "longDescription": "Lê a lista novamente. Alguma destas ideias te ajuda a ver como poderias ter respondido de forma mais completa?\n\nQue obstáculos estavam no teu caminho?\n\nEscreve a tua resposta numa folha de papel, vais precisar dela mais tarde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Explorar os obstáculos",
+        "title": "Explorar os obstáculos",
+        "content": "Normalmente, para a maioria das pessoas, as três coisas que as impede de responder bem são:\n\n1. Não reconhecer a vulnerabilidade e a importância de responder bem\n2. Não se sentir segura/o\n3. Ser difícil arriscar responder bem, porque se pode errar\n\nNa próxima meditação, serás orientada/o para te abrires um pouco mais.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "audio",
+        "title": "Meditação - Expores-te",
+        "description": "Esta meditação pode ajudar-te a abrires-te à possibilidade de responder com base na tua boa vontade mais profunda.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013532/29k%20FJN/Meditations/Cristina%20Final/EXPOE-TE_-_07_04_afpaxx.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "video",
+        "alias": "A tua resposta",
+        "title": "A tua resposta",
+        "description": "“Acho que o amor é de facto esse tudo que permite que nos aceitemos a nós como ao outro.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L4P13RESPONDINGWELL_fsqbk9.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021459/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L4_Deeping_relationships_V3_-_9x16_nxszmw.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "A tua resposta",
+        "title": "A tua resposta",
+        "time": "Tira 5-10 min",
+        "longDescription": "Qual seria a tua resposta de coração aberto se te sentisses totalmente segura/o? Escreve a tua resposta num papel e guarda-o. Vais precisar desta resposta mais tarde.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Aprender a responder adequadamente é um processo que dura a vida toda para a maioria de nós. Não é fácil. Começa por ter um olho de lince para a vulnerabilidade. Nota pequenos momentos de vulnerabilidade ao longo do dia. Diz a ti mesma/o - estes momentos são reais e importantes. Vê se podes responder com segurança, validação e cuidado.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Responding well"
+  }
+}

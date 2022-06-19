@@ -1,0 +1,755 @@
+{
+  "en": {
+    "id": "EFSZaU3Tk4dCV5GXPG27bx",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Letting love in",
+        "title": "Letting love in",
+        "content": "Someone offers you kindness, affection, attention or closeness. How do you respond? This is a key moment that can determine whether you will deepen the relationship, keep it at status quo or create a rift. Can you let love in?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "content": "### Today’s lesson has five parts:\n\n* Meditation: A unique friend\n* Letting love in\n* Noticing opportunities\n* Exploring obstacles\n* Opening up\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Pen and paper\n  ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ],
+        "alias": "Summary"
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Introduction",
+        "title": "Introduction",
+        "content": "Let’s face it. We’ve all been hurt in relationships. Our first relationship to those who raised us, is our model for how we see ourselves, the world and others. For most of us, those relationships haven’t been ideal. On top of that we have our fear of being left out of the group. For our early ancestors, being left out meant death.\n\n### Wired to connect\n\nResearch tells us the upside of the evolutionary story is that we are wired to connect. Strong bonds and social connections juice up our bodies, minds and souls in a way that no drug, money or job title in the world could beat. The benefits of relationships are enormous: longer life, less stress, increased happiness and sense of meaning.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "content": "\n\n### It takes courage\n\nThe course you are embarking on is calling on your courage -- the courage to be yourself, to show yourself and to take bold action. We will help you to explore how to navigate relationships to create deeper bonds. We will offer you ways of doing this together with others to help you keep on track and to inspire each other.\n\nWe will start by doing a meditation.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ],
+        "alias": "It takes courage"
+      },
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditation - A unique friend",
+        "description": "In this meditation you will prepare for the next exercise by connecting to a unique friendship in your life.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_auniquenewfriend.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ],
+        "duration": "07:04",
+        "alias": "Meditation - A unique friend"
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "alias": "A unique friend",
+        "title": "A unique friend",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_1/1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_1/deepeningrelationships_lettinglovein_01.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "A unique friend: reflections",
+        "title": "A unique friend: reflections",
+        "time": "Take 5 min",
+        "question": "For the following questions, write your answer down on a piece of paper and hold on to it, you’ll be needing it later.",
+        "longDescription": "1. On a scale of 0 (not at all) to 7 (completely), how much were you able to let love in?\n\n2. What positive qualities do others see in you that you have a hard time believing?\n\n3. How would it feel to believe them, even a little bit, and how would that affect what you do?\n\n4. What would help you let love in a little bit more?\n  ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Notice Opportunities",
+        "title": "Notice Opportunities",
+        "content": "Fully accepting another’s good will is something we often miss in relationships. This is a key moment where you can strengthen a relationship by welcoming their gift and showing them appreciation.\n\nIt could be simple. Someone paid you a compliment, was kind to you, or expressed that they want to get to know you better. Maybe your partner gave you a hug when you got home after a long day. It could be subtle. There was something in the way they looked at you, in their tone of voice... the message was, \"I care about you... I want to get closer to you.\"\n\nBy opening up to these moments, savouring them and showing the other you appreciate their act, you are sending them an important message: \"I accept you, your actions towards me matter, *you* matter.\"\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Notice Opportunities",
+        "title": "Notice Opportunities",
+        "content": "In the following exercise we ask you to write down opportunities to let love in and show your appreciation that you may have missed - moments of connection in your life when someone expressed love, kindness, appreciation, respect, or gratitude.\n\nIt could be a big moment… a friend or family member made a big effort to visit you from out of town. It could be a small moment… a colleague or classmate said “thanks, I appreciate it” when you shared your notes with them.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Notice opportunities",
+        "title": "Notice opportunities",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_1/2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_1/deepeningrelationships_lettinglovein_02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "alias": "Notice Opportunities",
+        "title": "Notice Opportunities",
+        "time": "Take 5-10 min",
+        "shortDescription": "Think of 3 – 5 small or big opportunities to let love in that you may have missed recently.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "writing",
+        "alias": "Opening up",
+        "title": "Opening up",
+        "time": "Take 5-10 min",
+        "question": "For the following question, write your answer down on a piece of paper and hold on to it, you’ll be needing it later.",
+        "longDescription": "Maybe in some of the moments you wrote down it felt a bit scary or awkward. After all, you’ve been hurt in the past. Almost all of us have. Let’s explore one of these memories in more detail. Try to reconnect with one of the moments you wrote. Find the memory in your body and visualize that moment.\n\nBy using your imagination, visualize this person’s face, particularly their eyes. Gently look this person in their eyes, even if you hadn’t actually done so.\n\nHow do you feel this persons eyes? Explore this for a moment and then continue.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "video",
+        "alias": "Exploring obstacles",
+        "title": "Exploring obstacles",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section14"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_1/3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_1/deepeningrelationships_lettinglovein_03.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Exploring obstacles",
+        "title": "Exploring obstacles",
+        "time": "Take 5-10 min",
+        "question": "Which of these statements best fit your experience (choose as many as you want). Write them down.",
+        "longDescription": "* I didn’t even regonize it as an opportunity to let love inspire\n* I turned it into the opposite: \"They don’t really mean it\" or \"They just wanted something in return from me\"\n* I didn’t trust them and didn’t feel much.\n* I felt unworthy or undeserving\n* It felt weird\n* It felt unsafe\n* Resentment from other moments of hurt in our relationship got in the way.\n* I was able to let in some of it but I also minimized it: \"They probably are that way to a lot of people\"\n* I let it in: \"This person genuinely cared about me in that moment\"\n* Other\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "audio",
+        "title": "Meditation - Let love in",
+        "description": "Listen to this meditation to practice letting love in. Bring along the memory from the previous exercise when you felt a bit hesitant to let love in.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_letlovein.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section16"
+          }
+        ],
+        "duration": "05:04",
+        "alias": "Meditation - Let love in"
+      },
+      {
+        "id": "section16",
+        "type": "editorialWithImage",
+        "alias": "# Well ~~done!~~",
+        "title": "# Well ~~done!~~",
+        "content": "### Practice for the coming week:\n\nLearning how to let love in is a lifelong process for most of us. This week, your mission is to notice opportunities, even small ones, to let love in. Notice how you feel in these moments, and practice leaning in and opening up to the feelings and even savour them. Practice also expressing appreciation to the person who was caring.\n\nKeep a diary, and complete it at the end of each day:  Write down:\n\n* Any opportunities you observed today?\n* What did you feel in your body?\n* On a scale of 0 (not at all) to 7 (completely), how much were you able to let love in?\n\n* Did you express acceptance to the person who created the opportunity?\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Letting love in"
+  },
+  "sv": {
+    "id": "EFSZaU3Tk4dCV5GXPG27bx",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Släppa in kärleken",
+        "title": "Släppa in kärleken",
+        "content": "Någon erbjuder dig vänlighet, tillgivenhet, uppmärksamhet eller närhet. Hur svarar du? Detta är ett viktigt ögonblick som kan avgöra om du kommer att fördjupa relationen, hålla den i status quo eller skapa en rift. Kan du släppa in kärleken?\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "content": "### Dagens lektion består av fem delar:\n\n* Meditation: En unik vän\n* Släppa in kärleken\n* Lägg märke till möjligheter\n* Utforska hinder\n* Öppna upp\n\n### Du kommer att behöva:\n\n* 40 min ostörd tid\n* Penna och papper\n  ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Introduktion",
+        "title": "Introduktion",
+        "content": "Låt möta det. Vi har alla skadats i relationer. Vårt första förhållande till dem som uppfostrade oss är vår modell för hur vi ser oss själva, världen och andra. För de flesta av oss har dessa relationer inte varit perfekta. Dessutom har vi vår rädsla för att lämnas utanför gruppen. För våra tidiga förfäder betydde döden att utelämnas.\n\n### Kablad för att ansluta\n\nForskning berättar för oss att den evolutionära berättelsen är att vi är anslutna. Starka band och sociala förbindelser drar ihop våra kroppar, sinnen och själar på ett sätt som inget läkemedel, pengar eller jobbtitel i världen kan slå. Fördelarna med relationer är enorma: längre liv, mindre stress, ökad lycka och mening.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "content": "\n\n### Det krävs mod\n\nKursen du börjar på kräver ditt mod - modet att vara dig själv, att visa dig själv och att ta djärva åtgärder. Vi hjälper dig att utforska hur du navigerar i relationer för att skapa djupare band. Vi kommer att erbjuda dig sätt att göra detta tillsammans med andra för att hjälpa dig att hålla koll på och inspirera varandra.\n\nVi börjar med en meditation.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditation - En unik vän",
+        "description": "I denna meditation kommer du att förbereda dig för nästa övning genom att ansluta till en unik vänskap i ditt liv.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_auniquenewfriend.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "video",
+        "alias": "En unik vän",
+        "title": "En unik vän",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section7"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_1/1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_1/deepeningrelationships_lettinglovein_01.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "En unik vän: reflektioner",
+        "title": "En unik vän: reflektioner",
+        "time": "Ta 5 min",
+        "question": "För följande frågor, skriv ditt svar på ett papper och håll kvar det, du behöver det senare.",
+        "longDescription": "1. På en skala från 0 (inte alls) till 7 (helt), hur mycket kunde du släppa in kärleken?\n\n2. Vilka positiva egenskaper ser andra hos dig som du har svårt att tro på?\n\n3. Hur skulle det kännas att tro på dem, till och med lite, och hur skulle det påverka det du gör?\n\n4. Vad skulle hjälpa dig att släppa in kärleken lite mer?\n  ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Lägg märke till möjligheter",
+        "title": "Lägg märke till möjligheter",
+        "content": "Att helt acceptera andras goda vilja är något vi ofta saknar i relationer. Detta är ett viktigt ögonblick där du kan stärka en relation genom att välkomna deras gåva och visa dem uppskattning.\n\nDet kan vara enkelt. Någon betalade en komplimang till dig, var snäll mot dig eller uttryckte att de vill lära känna dig bättre. Kanske gav din partner dig en kram när du kom hem efter en lång dag. Det kan vara subtilt. Det var något i det sätt de såg på dig, i deras röstton ... meddelandet var: \"Jag bryr mig om dig ... Jag vill komma närmare dig.\"\n\nGenom att öppna upp för dessa ögonblick, njuta av dem och visa den andra att du uppskattar deras handling, skickar du dem ett viktigt meddelande: \"Jag accepterar dig, dina handlingar mot mig spelar roll, * du * spelar roll.\"\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Lägg märke till möjligheter",
+        "title": "Lägg märke till möjligheter",
+        "content": "I följande övning ber vi dig att skriva ner möjligheter att släppa in kärlek och visa din uppskattning som du kanske har missat - stunder av anslutning i ditt liv när någon uttryckte kärlek, vänlighet, uppskattning, respekt eller tacksamhet.\n\nDet kan vara ett stort ögonblick ... en vän eller familjemedlem ansträngde sig mycket för att besöka dig utanför staden. Det kan vara ett litet ögonblick ... en kollega eller klasskompis sa \"tack, jag uppskattar det\" när du delade dina anteckningar med dem.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Lägg märke till möjligheter",
+        "title": "Lägg märke till möjligheter",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_1/2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_1/deepeningrelationships_lettinglovein_02.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "alias": "Lägg märke till möjligheter",
+        "title": "Lägg märke till möjligheter",
+        "time": "Ta 5-10 min",
+        "shortDescription": "Tänk på 3 - 5 små eller stora möjligheter att släppa in kärlek som du kanske har missat nyligen.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "writing",
+        "alias": "Öppna upp",
+        "title": "Öppna upp",
+        "time": "Ta 5-10 min",
+        "question": "För följande fråga, skriv ner ditt svar på ett papper och håll kvar det, du behöver det senare.",
+        "longDescription": "Kanske i några av de ögonblick du skrev ner kändes det lite läskigt eller besvärligt. När allt kommer omkring har du skadats tidigare. Nästan alla av oss har det. Låt oss utforska ett av dessa minnen mer detaljerat. Försök att återansluta till en av de ögonblick du skrev. Hitta minnet i din kropp och visualisera det ögonblicket.\n\nGenom att använda din fantasi, visualisera personens ansikte, särskilt deras ögon. Titta försiktigt på den här personen, även om du inte hade gjort det.\n\nHur känner du de här personernas ögon? Utforska detta ett ögonblick och fortsätt sedan.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "video",
+        "alias": "Utforska hinder",
+        "title": "Utforska hinder",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section14"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/human_connection/lesson_1/3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/human_connection/lesson_1/deepeningrelationships_lettinglovein_03.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "writing",
+        "alias": "Utforska hinder",
+        "title": "Utforska hinder",
+        "time": "Ta 5-10 min",
+        "question": "Vilka av dessa uttalanden passar bäst för din upplevelse (välj så många du vill). Skriv ner dem.",
+        "longDescription": "* Jag regoniserade inte ens det som ett tillfälle att låta kärlek inspirera\n* Jag gjorde det motsatta: \"De menar det inte riktigt\" eller \"De ville bara ha något tillbaka från mig\"\n* Jag litade inte på dem och kände mig inte mycket.\n* Jag kände mig ovärdig eller förtjänande\n* Det kändes konstigt\n* Det kändes osäkert\n* Motvilja från andra stunder av ont i vårt förhållande kom i vägen.\n* Jag kunde släppa in en del av det men jag minimerade det också: \"De är förmodligen så för många människor\"\n* Jag släppte in det: \"Den här personen brydde sig verkligen om mig i det ögonblicket\"\n* Övrig\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "audio",
+        "title": "Meditation - Släpp kärleken in",
+        "description": "Lyssna på den här meditationen för att öva på att släppa in kärleken. Ta med minnet från förra övningen när du kände dig lite tveksam att släppa in kärleken.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/human_connection/humanconnection_meditation_letlovein.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "editorialWithImage",
+        "alias": "# Bra ~~jobbat!~~",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "### Övning för den kommande veckan:\n\nAtt lära sig att släppa in kärlek är en livslång process för de flesta av oss. Den här veckan är ditt uppdrag att lägga märke till möjligheter, även små, att släppa in kärleken. Lägg märke till hur du känner dig i dessa ögonblick och öva att luta dig in och öppna upp för känslorna och till och med njuta av dem. Öva också på att uttrycka uppskattning till den som brydde sig.\n\nHåll en dagbok och slutför den i slutet av varje dag: Skriv ner:\n\n* Några möjligheter du har observerat idag?\n* Vad kände du i din kropp?\n* På en skala från 0 (inte alls) till 7 (helt), hur mycket kunde du släppa in kärleken?\n\n* Uttryckte du acceptans för den person som skapade möjligheten?\n",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Letting love in"
+  },
+  "pt": {
+    "id": "EFSZaU3Tk4dCV5GXPG27bx",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Deixar o amor entrar",
+        "title": "Deixar o amor entrar",
+        "content": "Alguém te oferece bondade, afeto, atenção ou proximidade. Como respondes? Este é um momento chave que pode determinar se vais aprofundar a relação, mantê-la igual ou criar um conflito. Consegues deixar entrar o amor ?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "content": "### A lição de hoje tem cinco partes:\n\n* Meditação: Um/a amigo/a único/a\n* Deixar o amor entrar\n* Identificar oportunidades\n* Explorar obstáculos\n* Expores-te\n\n### Vais precisar de:\n\n* 40 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "title": "Introdução",
+        "content": "Vamos encarar a realidade. Todos nós já fomos magoados numa relação. A nossa primeira relação com aqueles que nos criaram é o nosso modelo de como nos vemos a nós mesmos, ao mundo e aos outros. Para a maioria de nós, essas relações não foram as ideais. Além disso, temos medo de sermos deixados de fora do grupo. Para os nossos antepassados mais remotos, ser deixado de fora significava a morte.\n\n### Programados para nos conectarmos\n\nA investigação diz-nos que o lado positivo da evolução é que estamos programados para nos conectarmos. As ligações fortes e os laços sociais alimentam os nossos corpos, mentes e almas de uma forma que nenhum medicamento, dinheiro ou profissão poderia vencer. Os benefícios das relações são enormes: uma vida mais longa, menos stress, uma maior felicidade e um sentido de significado.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "content": "### É preciso coragem\n\nO curso que estás a iniciar exige coragem - a coragem de seres tu, de te expores e de agir ousadamente. Vamos ajudar-te a explorar como navegar nas relações de forma a criar laços mais profundos. Ofereceremos diferentes formas de fazeres isto com outras pessoas para se inspirarem mutuamente e te manteres no caminho certo.\n\nVamos começar por fazer uma meditação.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "audio",
+        "title": "Meditação - Um/a amigo/a único/a",
+        "description": "Nesta meditação, vais-te preparar para o próximo exercício, conectando-te a uma amizade única na tua vida.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013520/29k%20FJN/Meditations/Cristina%20Final/UM_AMIGO_UNICO_-_06_18_udajcx.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "video",
+        "alias": "Um/a amigo/a único/a",
+        "title": "Um/a amigo/a único/a",
+        "description": "“Ao fecharmo-nos para não sofrer, fechamo-nos a tudo, inclusive até ao amor, às hipóteses de ser amada.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L1P1LETTINGLOVEIN_afrnzy.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021450/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L1_Deeping_relationships_V1_-_9x16_tuafvq.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "alias": "Um/a amigo/a único/a: reflexões",
+        "title": "Um/a amigo/a único/a: reflexões",
+        "time": "Tira 5 min",
+        "question": "Escreve a resposta às perguntas seguintes numa folha de papel e guarda-a contigo. Vais precisar dela mais tarde.",
+        "longDescription": "1. Numa escala de 0 (nada) a 7 (completamente), o quanto foste capaz de deixar o amor entrar em ti?\n2. Que qualidades positivas veem em ti as outras pessoas? Em quais delas tens dificuldade em acreditar?\n3. Como te sentirias se acreditasses nessas pessoas, mesmo que ligeiramente? Como é que isso afetaria o que fazes?\n4. O que te ajudaria a deixar entrar o amor um pouco mais?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Identificar oportunidades",
+        "title": "Identificar oportunidades",
+        "content": "Uma das coisas de que muitas vezes sentimos falta nas relações é aceitar totalmente a boa vontade de outra pessoa. É um momento chave em que podes fortalecer uma relação, aceitando o seu presente e mostrando-lhe o teu apreço.\n\nPode ser muito simples. Alguém te fez um elogio, foi simpática/o contigo ou disse que gostaria de te conhecer melhor. Talvez a tua companheira ou o teu companheiro te tenha dado um abraço quando chegaste a casa depois de um longo dia. Pode ser algo subtil. Havia algo na maneira como eles olhavam para ti, no tom de voz... a mensagem era: \"Eu importo-me contigo... eu quero aproximar-me de ti.\"\n\nAo abrires-te para estes momentos, ao saboreá-los e ao mostrares aos outros que os aprecias, estás a enviar uma mensagem muito importante: \"Eu aceito-te, as tuas ações para comigo são importantes, *tu* és importante.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "Identificar oportunidades",
+        "title": "Identificar oportunidades",
+        "content": "No exercício seguinte, pedimos que anotes as oportunidades desperdiçadas para deixar entrar o amor e mostrar gratidão - momentos de conexão na tua vida em que alguém expressou amor, bondade, apreço, respeito ou gratidão.\n\nPode ser um grande momento... uma amiga, um amigo ou um familiar fez um grande esforço para te visitar no estrangeiro. Pode ser um pequeno momento... um colega de trabalho ou da escola disse “obrigada/o, agradeço-te” quando partilhaste informação importante ou apontamentos com ela/e.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "video",
+        "alias": "Identificar oportunidades",
+        "title": "Identificar oportunidades",
+        "description": "“Hoje em dia é raro perder uma oportunidade que seja de ser amada, (...) seja o senhor que me traz o cafezinho mesmo no ponto (...), o sorriso que a minha filha traz da escola(…).”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L1P10LETTINGLOVEIN_nl6hwz.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021445/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L1_Deeping_relationships_V2_-_9x16_bece2j.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "writing",
+        "alias": "Identificar oportunidades",
+        "title": "Identificar oportunidades",
+        "time": "Tira 5-10 min",
+        "shortDescription": "Pensa em 3 a 5 pequenas ou grandes oportunidades para deixar o amor entrar que tenhas desperdiçado recentemente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "writing",
+        "alias": "Expores-te",
+        "title": "Expores-te",
+        "time": "Tira 5-10 min",
+        "question": "Escreve a tua resposta à pergunta seguinte num papel e guarda-o. Vais precisar desta resposta mais tarde.",
+        "longDescription": "Talvez alguns dos momentos que descreveste te tenham parecido um pouco assustadores ou estranhos. Afinal, foste magoada/o no passado. Quase todos nós o fomos. Vamos explorar uma dessas memórias com mais detalhe. Tenta reconectar-te com um dos momentos que descreveste. Encontra a memória no teu corpo e visualiza esse momento.\n\nUtiliza a tua imaginação para visualizar o rosto dessa pessoa, especialmente os seus olhos. Olha suavemente essa pessoa nos olhos, mesmo que não tenhas feito isso na altura.\n\nComo sentes os olhos dessa pessoa? Explora isso por um momento e depois continua.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section14"
+          }
+        ]
+      },
+      {
+        "id": "section14",
+        "type": "video",
+        "alias": "Explorar obstáculos",
+        "title": "Explorar obstáculos",
+        "description": "“É muito importante estarmos presentes, estarmos atentos e vermos quem está do lado de lá e aquilo que está a dar-nos (…) e sabermos receber o que essa pessoa está a dar.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/L1P13LETTINGLOVEIN_vffq7n.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640021427/29k%20FJN/Courses/Deepening%20Relationships/Videos%209:16/L1_Deeping_relationships_V3_-_9x16_lwviep.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "writing",
+        "alias": "Explorar obstáculos",
+        "title": "Explorar obstáculos",
+        "time": "Tira 5-10 min",
+        "question": "Quais destas frases encaixam melhor na tua experiência (escolhe todas as que quiseres)? Escreve-as num papel.",
+        "longDescription": "* Nem sequer reconheci isso como uma oportunidade para deixar o amor inspirar-me\n* Transformei-a no oposto: \"Eles não querem realmente dizer isto\" ou \"Eles queriam alguma coisa em troca\"\n* Não confiei neles e não senti muito o que disseram\n* Senti que não tinha valor e senti-me desmerecedor/a\n* Pareceu-me estranho\n* Pareceu-me inseguro\n* O ressentimento de outros momentos de mágoa na nossa relação impediu-me\n* Consegui assumir uma parte disso, mas ao mesmo tempo minimizei o resto: \"Eles provavelmente são assim com muitas outras pessoas\"\n* Aceitei: \"Esta pessoa preocupou-se genuinamente comigo naquele momento\"\n* Outra",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "### Durante a próxima semana:\n\nPara a maioria de nós, aprender a deixar o amor entrar é um processo que dura a vida toda. Esta semana, a tua missão é aperceberes-te das oportunidades para deixar o amor entrar, mesmo as mais pequenas. Observa como te sentes nesses momentos, aceita e abre-te aos sentimentos. Tenta até saboreá-los. Expressa gratidão à pessoa que criou essa oportunidade.\n\nUsa um diário e preenche-o ao fim do dia. Escreve acerca destes tópicos:\n\n* Identificaste alguma oportunidade hoje?\n* O que sentiste no teu corpo?\n* Numa escala de 0 (nada) a 7 (completamente), o quanto conseguiste deixar o amor entrar?\n* Expressaste aceitação à pessoa que criou essa oportunidade?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ],
+    "alias": "Deepening relationships - Letting love in"
+  }
+}

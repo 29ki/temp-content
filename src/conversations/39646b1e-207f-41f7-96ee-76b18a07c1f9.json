@@ -1,0 +1,200 @@
+{
+  "en": {
+    "id": "39646b1e-207f-41f7-96ee-76b18a07c1f9",
+    "alias": "UKR: Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+        "alias": "Our emotions can't harm us",
+        "title": "Наші емоції не можуть нам зашкодити",
+        "content": "Навіть найсильніші **емоції приходять і відходять** хвилями.\n\nКоли ви відчуваєте сильну емоцію, цілком природно відчувати тривогу, страх чи дискомфорт. Також часто імпульсивно хочеться контролювати свої емоції чи уникати їх.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продовжити",
+            "sectionId": "d8d7dc64-28e5-48a9-bd53-39aa9992d077"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8d7dc64-28e5-48a9-bd53-39aa9992d077",
+        "alias": "Avoiding",
+        "content": "Проте спроби **уникнути** емоцій або **боротися** з ними зазвичай **не працюють.**\n\nХоча уникнення емоцій може допомогти нам подолати гостру ситуацію у короткостроковій перспективі, це часто заважає нам почуватися задоволеними у **довгостроковій** перспективі.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+            "content": "Далі"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+        "content": "Іноді ми чекаємо, поки небажані почуття просто підуть, щоб ми могли робити те, що хочемо. Вчиняючи так, ми ризикуємо поставити своє життя на паузу або не робити те, що є важливим для нас тут і зараз.\n\nБільш корисна **стратегія** – показати свої почуття разом із прийняттям. Це дозволить нам робити невеликі та значущі кроки там, де ми можемо.",
+        "alias": "Opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+            "content": "Далі"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494788/Meditations/2_Healing_hand_-_Ukrainian_lyhjjt.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Я готовий",
+            "conversationId": "33ffcfdb-633d-4696-ad39-7c56e01b122d"
+          }
+        ],
+        "duration": 303
+      }
+    ],
+    "root": "8213a497-5976-4b29-9d6f-4c7449a37e32"
+  },
+  "sv": {
+    "id": "39646b1e-207f-41f7-96ee-76b18a07c1f9",
+    "alias": "UKR: Coping with crisis 2: Facing what we can't change 2",
+    "root": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+        "alias": "Our emotions can't harm us",
+        "title": "Наші емоції не можуть нам зашкодити",
+        "content": "Навіть найсильніші **емоції приходять і відходять** хвилями.\n\nКоли ви відчуваєте сильну емоцію, цілком природно відчувати тривогу, страх чи дискомфорт. Також часто імпульсивно хочеться контролювати свої емоції чи уникати їх.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продовжити",
+            "sectionId": "d8d7dc64-28e5-48a9-bd53-39aa9992d077"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8d7dc64-28e5-48a9-bd53-39aa9992d077",
+        "alias": "Avoiding",
+        "content": "Проте спроби **уникнути** емоцій або **боротися** з ними зазвичай **не працюють.**\n\nХоча уникнення емоцій може допомогти нам подолати гостру ситуацію у короткостроковій перспективі, це часто заважає нам почуватися задоволеними у **довгостроковій** перспективі.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+            "content": "Далі"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+        "content": "Іноді ми чекаємо, поки небажані почуття просто підуть, щоб ми могли робити те, що хочемо. Вчиняючи так, ми ризикуємо поставити своє життя на паузу або не робити те, що є важливим для нас тут і зараз.\n\nБільш корисна **стратегія** – показати свої почуття разом із прийняттям. Це дозволить нам робити невеликі та значущі кроки там, де ми можемо.",
+        "alias": "Opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+            "content": "Далі"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494788/Meditations/2_Healing_hand_-_Ukrainian_lyhjjt.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Я готовий",
+            "conversationId": "33ffcfdb-633d-4696-ad39-7c56e01b122d"
+          }
+        ],
+        "duration": 303
+      }
+    ]
+  },
+  "pt": {
+    "id": "39646b1e-207f-41f7-96ee-76b18a07c1f9",
+    "alias": "UKR: Coping with crisis 2: Facing what we can't change 2",
+    "root": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8213a497-5976-4b29-9d6f-4c7449a37e32",
+        "alias": "Our emotions can't harm us",
+        "title": "Наші емоції не можуть нам зашкодити",
+        "content": "Навіть найсильніші **емоції приходять і відходять** хвилями.\n\nКоли ви відчуваєте сильну емоцію, цілком природно відчувати тривогу, страх чи дискомфорт. Також часто імпульсивно хочеться контролювати свої емоції чи уникати їх.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Продовжити",
+            "sectionId": "d8d7dc64-28e5-48a9-bd53-39aa9992d077"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d8d7dc64-28e5-48a9-bd53-39aa9992d077",
+        "alias": "Avoiding",
+        "content": "Проте спроби **уникнути** емоцій або **боротися** з ними зазвичай **не працюють.**\n\nХоча уникнення емоцій може допомогти нам подолати гостру ситуацію у короткостроковій перспективі, це часто заважає нам почуватися задоволеними у **довгостроковій** перспективі.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+            "content": "Далі"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c9fbb880-1788-4647-aa88-6cbd618e2df4",
+        "content": "Іноді ми чекаємо, поки небажані почуття просто підуть, щоб ми могли робити те, що хочемо. Вчиняючи так, ми ризикуємо поставити своє життя на паузу або не робити те, що є важливим для нас тут і зараз.\n\nБільш корисна **стратегія** – показати свої почуття разом із прийняттям. Це дозволить нам робити невеликі та значущі кроки там, де ми можемо.",
+        "alias": "Opening up",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+            "content": "Далі"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "id": "584924ee-341b-4ac9-81d0-7de88f68f00e",
+        "alias": "Meditation",
+        "title": "Медитація",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646494788/Meditations/2_Healing_hand_-_Ukrainian_lyhjjt.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Я готовий",
+            "conversationId": "33ffcfdb-633d-4696-ad39-7c56e01b122d"
+          }
+        ],
+        "duration": 303
+      }
+    ]
+  }
+}

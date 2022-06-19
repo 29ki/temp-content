@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "ta-hand-om-dig-sjalv-1",
-    "alias": "ta-hand-om-dig-sjalv-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 3-Selfcare-1",
     "root": "section1",
     "sections": [
       {
@@ -18,11 +17,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Utifrån och in"
+                "content": "# Inside out"
               },
               {
                 "component": "Text",
-                "content": "Även om vi ibland önskar det, så går det inte att komma undan att livet ibland är tufft. På samma sätt som att påfrestningar märks i kroppen, kan vi också använda kroppen för att ta hand om oss själva."
+                "content": "Even if we want to, we can't escape the fact that life is tough sometimes. In the same way that we feel tension in our body, we can also use our body to take care of ourselves."
               }
             ]
           },
@@ -31,8 +30,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "content": "Continue",
                 "sectionId": "sectionContents"
               }
             ]
@@ -49,11 +47,11 @@
             "content": [
               {
                 "component": "Subtitle",
-                "content": "Den här utmaningen innehåller tre delar"
+                "content": "This lesson has three parts"
               },
               {
                 "component": "Text",
-                "content": "* Utifrån och in\n* Fokusövning\n* Ta hand om dig själv"
+                "content": "* Inside out\n* Focus exercise\n* Self care"
               }
             ]
           },
@@ -62,8 +60,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Kör igång",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "content": "Let's do this",
                 "sectionId": "section2"
               }
             ]
@@ -80,11 +77,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Utifrån och in"
+                "content": "# Inside out"
               },
               {
                 "component": "Text",
-                "content": "Stress, jobbiga känslor och påfrestningar är en del av vad det innebär att vara människa. Ofta vill vi inte känna det som är jobbigt på insidan, utan gör en massa grejer för att försöka undvika det jobbiga. Att undvika något svårt brukar dock sällan funka särskilt bra i längden."
+                "content": "Stress, difficult feelings and challenges are part of what it means to be human. Often we don't want to feel what is painful on the inside, and do a lot of things to avoid them. But avoiding something painful seldom works very well in the long run."
               }
             ]
           },
@@ -93,8 +90,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Okej",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "content": "Okey",
                 "sectionId": "section3"
               }
             ]
@@ -111,7 +107,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Istället för att försöka fly undan det som är jobbigt på insidan finns det andra val att göra: låta det jobbiga få vara jobbigt, vara snälla mot oss själva, plocka fram vår inre kompis och ta hjälp av den."
+                "content": "Instead of trying to avoid what is challenging on the inside, there are other choices to make: let the difficult be difficult, be kind to ourselves, bring out our inner friend to get help."
               }
             ]
           },
@@ -120,8 +116,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "content": "Continue",
                 "sectionId": "section4"
               }
             ]
@@ -138,11 +133,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Att ta hjälp av sin kropp är också ett smart trick för att utifrån och in påverka hur saker känns. Det kan verka lite bakvänt – testa gärna hur det blir för dig:"
+                "content": "Getting help from our bodies is also a smart trick to influence how things feel from the inside out. It may seem a bit backwards – feel free to try how it works for you."
               },
               {
                 "component": "Text",
-                "content": "Knyt båda händerna hårt, håll upp dem framför dig och gör en arg min. Håll kvar i 20 sekunder och lägg märke till hur det känns."
+                "content": "Place your fists in front of your face as if you were preparing to punch something, and make an angry face. Hold for 20 seconds and notice how it feels."
               }
             ]
           },
@@ -151,8 +146,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "content": "I'm done",
                 "sectionId": "section5"
               }
             ]
@@ -169,7 +163,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Ta nu i stället ett par djupa andetag och lägg en öppen hand på ditt hjärta. Håll kvar i 20 sekunder och notera hur det känns."
+                "content": "Now take a couple of deep breaths instead and place an open hand on your heart. Hold for 20 seconds and note how this feels."
               }
             ]
           },
@@ -178,8 +172,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
+                "content": "I'm done",
                 "sectionId": "section6"
               }
             ]
@@ -196,7 +189,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Vi gillar som du kanske har förstått forskning här på 29k, och det visar sig att samma sköna varma känsla som vi kan få när vi gosar med ett husdjur eller får en kram av en vän, kan också framkallas när vi ger oss själva en vänlig fysisk gest."
+                "content": "Did you notice any difference?\n\nAs you may have learned, we like research here at 29k. It turns out that the same nice warm feeling that we can get when we cuddle a pet or get a hug from a friend, can also be evoked when we give ourselves a friendly physical gesture."
               }
             ]
           },
@@ -205,9 +198,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-2",
-                "sectionId": "section1"
+                "variant": "primary",
+                "content": "Next",
+                "conversationId": "ta-hand-om-dig-sjalv-2"
               }
             ]
           }
@@ -220,8 +213,7 @@
   },
   "sv": {
     "id": "ta-hand-om-dig-sjalv-1",
-    "alias": "ta-hand-om-dig-sjalv-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 3-Selfcare-1",
     "root": "section1",
     "sections": [
       {
@@ -251,7 +243,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
                 "sectionId": "sectionContents"
               }
             ]
@@ -282,7 +273,6 @@
               {
                 "component": "Button",
                 "content": "Kör igång",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
                 "sectionId": "section2"
               }
             ]
@@ -313,7 +303,6 @@
               {
                 "component": "Button",
                 "content": "Okej",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
                 "sectionId": "section3"
               }
             ]
@@ -340,7 +329,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
                 "sectionId": "section4"
               }
             ]
@@ -371,7 +359,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
                 "sectionId": "section5"
               }
             ]
@@ -398,7 +385,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "ta-hand-om-dig-sjalv-1",
                 "sectionId": "section6"
               }
             ]
@@ -424,9 +410,221 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Nästa",
-                "conversationId": "ta-hand-om-dig-sjalv-2",
-                "sectionId": "section1"
+                "conversationId": "ta-hand-om-dig-sjalv-2"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "ta-hand-om-dig-sjalv-1",
+    "alias": "YA Become friends: 3-Selfcare-1",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# De dentro para fora"
+              },
+              {
+                "component": "Text",
+                "content": "Mesmo que queiramos, não podemos escapar do facto de que a vida às vezes é difícil. Da mesma forma que sentimos tensão no nosso corpo, também podemos usar o nosso corpo para cuidar de nós mesmos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Esta lição tem três partes"
+              },
+              {
+                "component": "Text",
+                "content": "\n\n* De dentro para fora\n* Exercício de foco\n* Autocuidado"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos lá  fazer isto",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# De dentro para fora"
+              },
+              {
+                "component": "Text",
+                "content": "Stress, sentimentos difíceis e desafios fazem parte do que significa ser humano. Muitas vezes não queremos sentir o que é doloroso cá dentro e fazemos muitas coisas para o evitar. Mas evitar algo doloroso raramente funciona muito bem a longo prazo."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Compreendi",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Em vez de tentar evitar o que é desafiante no nosso interior, há outras escolhas a fazer: deixar o difícil ser difícil, ser gentil connosco, convocar o nosso amigo interior para lhe pedir ajuda."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Obter ajuda do nosso corpo também é um truque inteligente para influenciar como as coisas se sentem de dentro para fora. Pode parecer um pouco ao contrário - fica à vontade para experimentar como funciona contigo."
+              },
+              {
+                "component": "Text",
+                "content": "Coloca os punhos na frente do rosto como se estivesses a preparar-te para dar um soco em algo e faz uma cara de raiva. Aguenta-te 20 segundos assim e observa como te sentes."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Já acabei",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora, respira fundo algumas vezes e coloca a mão aberta no coração. Fica assim durante 20 segundos e observa como isso te faz sentir."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Já acabei ",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Notaste alguma diferença?\n\nComo deves ter compreendido, aqui na 29k FJN gostamos de investigação. O que acontece aqui é que a mesma sensação agradável e calorosa que podemos ter quando abraçamos um animal de estimação ou recebemos um abraço de um amigo também pode ser evocada quando nos proporcionamos um gesto físico amigável."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte ",
+                "conversationId": "ta-hand-om-dig-sjalv-2"
               }
             ]
           }

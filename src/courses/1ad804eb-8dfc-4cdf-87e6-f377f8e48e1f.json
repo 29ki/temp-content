@@ -1,0 +1,193 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "ONLY TO TEST New Formats (Portuguese)",
+    "about": {
+      "howThisWorks": "Test new formats"
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629877872/jens-lelie-u0vgcIOQG08-unsplash_wpyc47.jpg"
+    },
+    "cta": "TEST New Formats (Portuguese)",
+    "duration": {
+      "type": "week",
+      "count": 10
+    },
+
+    "id": "1ad804eb-8dfc-4cdf-87e6-f377f8e48e1f",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "1ab07410-442d-4552-a8db-b00dc95e37bc",
+        "name": "Test - Sair do ciclo da ansiedade",
+        "conversations": [
+          {
+            "title": "Respirar com atenção plena",
+            "conversationId": "1c263541-89bc-438e-b0f7-6b3aeab3513c"
+          },
+          {
+            "title": "Não alimentar o monstro",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          },
+          {
+            "title": "Sair do ciclo da ansiedade",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "0453cb96-0e9d-4ac2-ae00-e6f16add1503",
+        "name": "Test - Agir para mudar",
+        "conversations": [
+          {
+            "title": "Meditação",
+            "conversationId": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961"
+          },
+          {
+            "title": "Resolução de problemas",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          },
+          {
+            "title": "Adotar medidas práticas",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "2933b186-6686-4776-b1e5-559fb096bc0a",
+        "name": "Test - Enfrentar o que não podemos mudar",
+        "conversations": [
+          {
+            "title": "A dor natural",
+            "conversationId": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632"
+          },
+          {
+            "title": "A mão que cura",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108"
+          },
+          {
+            "title": "Continuar a tua prática",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ]
+      }
+    ],
+    "difficulty": ["Beginner"],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629877872/jens-lelie-u0vgcIOQG08-unsplash_wpyc47.jpg"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "duration": {
+      "type": "week",
+      "count": 10
+    },
+    "id": "1ad804eb-8dfc-4cdf-87e6-f377f8e48e1f",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "c5e6ba1a-0ba5-4056-a17d-36323752859a"
+      }
+    ],
+    "difficulty": ["Beginner"],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+
+    "name": "TESTE de novos formatos (Coping with...)",
+    "about": {
+      "howThisWorks": "Teste novos formatos"
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629877872/jens-lelie-u0vgcIOQG08-unsplash_wpyc47.jpg"
+    },
+    "cta": "TESTE de novos formatos (Coping with...)",
+    "duration": {
+      "type": "week",
+      "count": 10
+    },
+
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "1ad804eb-8dfc-4cdf-87e6-f377f8e48e1f",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "1ab07410-442d-4552-a8db-b00dc95e37bc",
+        "conversations": [
+          {
+            "title": "Respirar com atenção plena",
+            "conversationId": "1c263541-89bc-438e-b0f7-6b3aeab3513c"
+          },
+          {
+            "title": "Não alimentar o monstro",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          },
+          {
+            "title": "Sair do ciclo da ansiedade",
+            "conversationId": "f3771f73-bcf1-4356-9bf6-c6a440fde690"
+          }
+        ],
+        "name": "Sair do ciclo da ansiedade"
+      },
+      {
+        "wip": false,
+        "id": "0453cb96-0e9d-4ac2-ae00-e6f16add1503",
+        "name": "Agir para mudar",
+        "conversations": [
+          {
+            "title": "Meditação",
+            "conversationId": "aee1f1ac-f795-4170-9ee5-1ee4bccfb961"
+          },
+          {
+            "title": "Resolução de problemas",
+            "conversationId": "82790697-a182-46fa-8867-c638ed62a587"
+          },
+          {
+            "title": "Adotar medidas práticas",
+            "conversationId": "514db0c6-204d-4b9a-94d7-4b208bcd1728"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "2933b186-6686-4776-b1e5-559fb096bc0a",
+        "name": "Enfrentar o que não podemos mudar",
+        "conversations": [
+          {
+            "conversationId": "ba2b1cba-ed5b-493f-91c3-7fcc663b8632",
+            "title": "A dor natural"
+          },
+          {
+            "title": "A mão que cura",
+            "conversationId": "c64f8aad-3bd6-4561-afad-397932df6108"
+          },
+          {
+            "title": "Continuar a tua prática",
+            "conversationId": "0f8072dd-6e86-4e4e-9007-5a2b819b7b7e"
+          }
+        ]
+      }
+    ],
+    "difficulty": ["Beginner"],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  }
+}

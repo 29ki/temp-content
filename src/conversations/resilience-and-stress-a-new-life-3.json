@@ -1,0 +1,238 @@
+{
+  "en": {
+    "id": "resilience-and-stress-a-new-life-3",
+    "alias": "resilience-and-stress-a-new-life-3",
+
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "writing",
+        "title": "Me a year from now",
+        "time": "",
+        "longDescription": "Write down your answers.\n\n1. **Reflect** about the value you chose in the previous exercise. **Why** did you pick this value? \n2. If you choose to **ignore** this life value, what would your life look like a year from now?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Done",
+            "sectionId": "8e1afc5b-5a4c-4de7-8ee1-b5b3f21619a6"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "8e1afc5b-5a4c-4de7-8ee1-b5b3f21619a6",
+        "longDescription": "2. Which **concrete** **steps** will you take today or tomorrow on your way towards the goal you’ve set?\n3. Can you see any **obstacles** on your way to this goal? If these obstacles show up, how can you deal with them?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Finished",
+            "sectionId": "6708ba7b-532a-4296-9ab2-90607640de8a"
+          }
+        ],
+        "alias": "Exercise pt 2"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "6708ba7b-532a-4296-9ab2-90607640de8a",
+        "alias": "Sharing question",
+        "question": "What will you take with you from the course?",
+        "nextSection": "section8",
+        "exampleText": "I've learned a lot about myself and my habitual ways of reacting to stress. I've also identified what I value in life and what I need to do to reach my goals."
+      },
+      {
+        "id": "section8",
+        "alias": "Further steps",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Well done for completing the course **Dealing with stress**.\n\nTo continue your practice, we recommend **incorporating** the **tools** you've found helpful into your everyday life.\n\nYou may also like to check out our other courses, for examples on **values** and **self-compassion**. We also have a lot of **need-based** exercises and meditations.\n\nFor the **research** behind this course, you’ll find **references** on our [website](https://29k.org/). And if you’d like to **read** more, *The Happiness Trap* by Russ Harris may be a good place to start.\n\nLet’s continue the journey together!\n\nLove,\n\nThe 29k-team",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next step",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next step — to share with your group. \n\nRemember the questions: \n\n1. Why did you pick this particular value to act on? What will happen if you ignore this value.\n2. Which steps will you take now?\n3. What obstacles can you see? How can you deal with them?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-a-new-life-3",
+    "alias": "resilience-and-stress-a-new-life-3",
+
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "editorialWithImage",
+        "title": "Jag ett år från idag",
+        "content": "Skriv ned dina svar.\n\n1. **Reflektera** över den **värderingen** du valde i förra övningen. **Varför** valde du just den? \n2. Hur skulle ditt liv se ut om ett år om du väljer att **ignorera** den här värderingen?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Färdig",
+            "sectionId": "b44e962d-6546-4439-b37b-bc98e711c1c2"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "b44e962d-6546-4439-b37b-bc98e711c1c2",
+        "longDescription": "2. Vilka **konkreta** **steg** kommer du att ta idag eller imorgon mot det **mål** du har satt upp?\n3. Kan du förutse några **hinder** på väg mot det här målet? Om dessa hinder dyker upp, hur kan du **hantera** dem?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är färdig",
+            "sectionId": "7e6d84de-3544-4176-9e04-f577ea162feb"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "7e6d84de-3544-4176-9e04-f577ea162feb",
+        "alias": "Sharing question",
+        "question": "Vad tar du med dig från kursen?",
+        "nextSection": "section9",
+        "exampleText": "Jag har lärt mig mycket om mig själv och mina vanliga sätt att reagera på stress. Jag har också identifierat vad jag värdesätter i livet och vad jag behöver göra nu för att nå mina mål."
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Du har nu slutfört kursen **Hantera stress**, bra jobbat!\n\nFör att fortsätta din resa rekommenderar vi att du använder och övar på **verktygen** som du tycker har varit **hjälpsamma** i din **vardag**. \n\nDu kanske även vill spana in våra andra kurser, exempelvis om **värderingar** och **självmedkänsla**. Vi har även många **behovsbaserade** övningar och meditationer.\n\n**Forskningen** bakom denna kurs hittar du på vår [hemsida](https://29k.org/). Och om du vill läsa mer kan *Lyckofällan* av Russ Harris vara ett bra ställe att börja på.\n\nLåt oss fortsätta resan tillsammans!\n\nKärlek,\n\n29k-teamet",
+        "buttons": [
+          {
+            "component": "SegmentButton",
+            "content": "Nästa",
+            "sectionId": "section10",
+            "segments": [
+              {
+                "segment": "8be51700-fd9d-43d3-a01a-3963782535df",
+                "content": "Fortsätt",
+                "sectionId": "a3dc4f9f-b3b9-4fd5-846c-c7d904cc1848"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a3dc4f9f-b3b9-4fd5-846c-c7d904cc1848",
+        "content": "Innan du avslutar den här kursen skulle vi vilja att du svarar på en enkät om din upplevelse av att gå den. Enkäten ligger utanför 29k-appen och sammanställs anonymt av Partsrådet.\n\n~~[Klicka här för att komma till enkäten](https://reply.surveygenerator.com/go.aspx?u=42333iPx5poP8DL5k9YQH)~~\n\nDu kan med fördel fortsätta att använda appen och ta del av fler kurser, övningar och grupper som privatperson. För att komma åt dessa behöver du antingen:\n\n* **logga ut med den här användaren** och **skapa ett nytt konto** med en annan epost-adress\n\neller\n\n* **radera detta konto** och **skapa ett nytt med samma epost-adress**, men den här gången utan att klicka på länkar som du fått från din arbetsgivare.",
+        "alias": "Enkät - Partsrådet",
+        "nextSectionId": "section10",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "section10"
+          },
+          {
+            "component": "Button",
+            "content": "Jag vill inte svara",
+            "sectionId": "section10"
+          }
+        ],
+        "title": "Hjälp oss bli bättre"
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Du är nu redo för nästa steg — att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Varför valde du att agera på just det här livsvärdet? Vad skulle hända om du struntade i det här livsvärdet? \n2. Vilka konkreta steg kommer du att ta nu?\n3. Vilka möjliga hinder kan du förutse? Hur kan du hantera dem?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-a-new-life-3",
+    "alias": "resilience-and-stress-a-new-life-3",
+
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "writing",
+        "title": "Eu daqui a um ano",
+        "time": "5-10 min",
+        "longDescription": "1. Reflete sobre o valor que escolheste no exercício que acabaste de fazer. Porque escolheste esse valor? Como será a tua vida dentro de um ano se ignorares esse valor?\n2. Que passos concretos darás hoje ou amanhã no teu caminho em direção ao objetivo que definiste?\n3. Consegues ver algum obstáculo no caminho para atingir esse objetivo? Se esses obstáculos aparecerem, como irás lidar com eles?\n\nEscreve as tuas respostas numa folha de papel. Serão o que poderás partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Parabéns por concluíres **Uma vida nova**.\n\nNesta lição, aprendeste como dar pequenos passos em direção aos teus objetivos que concretizam algo que valorizas. A capacidade de decompor valores em etapas concretas do dia-a-dia é crucial quando queremos fazer mudanças duradouras nas nossas vidas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Agora já podes partilhar com o teu grupo. Lembra-te das perguntas que podes partilhar:\n\n1. Por que escolheste este valor específico para agir? O que acontecerá se ignorares este valor?\n2. Que passos vais dar agora?\n3. Que obstáculos consegues visualizar? Como podes lidar com eles?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "2a853e69-fcb1-440f-a811-0a47ae320cb3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2a853e69-fcb1-440f-a811-0a47ae320cb3",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "ExerciseCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

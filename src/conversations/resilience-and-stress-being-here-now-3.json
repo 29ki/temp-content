@@ -1,0 +1,226 @@
+{
+  "en": {
+    "id": "resilience-and-stress-being-here-now-3",
+    "alias": "resilience-and-stress-being-here-now-3",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "alias": "Exercise",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "question": "",
+        "longDescription": "Write down all your answers.\n\n1. Describe a situation when you were **stressed** and did something **impulsive** or **automatic.** A situation where you weren't really aware of your thoughts and feelings.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "0da9ea88-b066-4c3f-9e13-3cc07e833021"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0da9ea88-b066-4c3f-9e13-3cc07e833021",
+        "content": "2. What would you have done **differently** if you were more **present** in that moment? How do you **wish** to have **acted** **instead**?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Finished",
+            "sectionId": "ce9b0d95-e17c-4585-9a63-4fbeaf215b29"
+          }
+        ],
+        "alias": "section 9+"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce9b0d95-e17c-4585-9a63-4fbeaf215b29",
+        "content": "3. Look back at your answers. What can you do differently the **next** **time** you feel stressed?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Completed",
+            "sectionId": "section10"
+          }
+        ],
+        "alias": "Exercise 3"
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Well done for completing **Being here & now**. \n\nLearning to be present is a powerful **skill**!\n\nThe fact that your thoughts have a tendency to wander is normal and with **practice** it will become easier to stay present. Among other things, you can continue to train your brain to see your **thoughts as thoughts.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next step",
+            "sectionId": "47d588d0-2591-4013-91ab-7237a48ad40c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "47d588d0-2591-4013-91ab-7237a48ad40c",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember, these are the questions:\n\n1. Describe a situation when you were **stressed** and did something **impulsive** or **automatic**, a situation where you weren't really aware of your thoughts and feelings, and that didn’t turn out too well.\n2. What would have done **differently** if you would've been more **present** in that moment? How do you **wish** to have **acted** **instead**?\n\nHeads up — the next lesson (Act for change) needs to be completed at least **a week before** your next sharing.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ],
+        "alias": "section11",
+        "title": ""
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-being-here-now-3",
+    "alias": "resilience-and-stress-being-here-now-3",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "Övning",
+        "time": "",
+        "question": "",
+        "longDescription": "Skriv ner alla dina svar.\n\n1. Beskriv en situation då du var **stressad** och gjorde något **impulsivt** eller **automatiskt.** En situation då du kanske inte riktigt var medveten om vad du tänkte och kände.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "a970675b-5d5c-4764-978b-be1a7870b9d0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a970675b-5d5c-4764-978b-be1a7870b9d0",
+        "content": "2. Vad skulle du ha gjort **annorlunda** om du varit mer **närvarande** i det ögonblicket? Hur hade du **önskat** att du **betett** dig istället?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Färdig",
+            "sectionId": "b766630f-e22f-43d6-a7d6-91ee0a143b4f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b766630f-e22f-43d6-a7d6-91ee0a143b4f",
+        "content": "3. Titta igenom dina svar. Vad kan du försöka göra annorlunda **nästa** **gång** du är stressad?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "362f3acb-fafc-4e9c-8b92-4a98b7552c65"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "362f3acb-fafc-4e9c-8b92-4a98b7552c65",
+        "title": "En situation när du inte var närvarande",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1625748634/sim_qgi1o3.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1632988426/Hantera%20Stress%20Adult/sharing_3_attvaraharochnu_p2mlxb.mp4",
+            "subtitleUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/sharing_3.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Du har nu gjort klart **Att vara här och nu,** bra jobbat!\n\nAtt lära sig vara närvarande är en oerhört användbar **förmåga**. \n\nDet faktum att dina tankar har en tendens att vandra är normalt och med **övning** kommer det bli enklare att vara i nuet. Du kan bland annat fortsätta träna din hjärna att se dina **tankar som tankar.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa steg",
+            "sectionId": "fdf13bdd-cf6b-40a7-af50-0e5e8930cb9e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fdf13bdd-cf6b-40a7-af50-0e5e8930cb9e",
+        "content": "Du är nu redo för nästa steg — att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Beskriv en situation då du var **stressad** och gjorde något **impulsivt** eller **automatiskt.** En situation då du kanske inte riktigt var medveten om vad du tänkte och kände och där resultatet inte blev så bra?\n2. Vad skulle du ha gjort **annorlunda** om du varit mer **närvarande** i det ögonblicket? Hur hade du **önskat** att du **betett** dig istället?\n\nNotera — nästa lektion (Förändra det som inte fungerar) behöver slutföras **minst en vecka** innan nästa delningstillfälle.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-being-here-now-3",
+    "alias": "resilience-and-stress-being-here-now-3",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "writing",
+        "title": "Eu, aqui, agora",
+        "time": "5-10 min",
+        "question": "",
+        "longDescription": "1. Consegues pensar numa situação em que agiste em \"piloto automático\" (impulsivamente ou automaticamente), sem ter realmente consciência dos teus pensamentos e sentimentos, e que acabou por correr mal?\n2. O que farias de diferente se estivesses mais atento naquele momento?\n\nEscreve a tua resposta numa folha de papel. Vais poder partilhá-la com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Sumário",
+        "content": "Parabéns por concluíres **Estar presente, aqui e agora.**\n\nHoje aprendeste como podes treinar o teu cérebro para ver os teus pensamentos apenas como pensamentos e a tornares-te mais presente através do *mindfulness*.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Parabéns por concluíres **Estar presente, aqui e agora**.\n\nAprender a estar mais presente é uma competência poderosa. É normal que os teus pensamentos tendam a vaguear, mas diminuirá com alguma prática.\n\nAgora podes partilhar com o teu grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

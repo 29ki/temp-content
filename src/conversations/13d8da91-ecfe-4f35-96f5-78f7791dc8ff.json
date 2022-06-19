@@ -1,19 +1,39 @@
 {
   "en": {
-    "type": "lesson",
     "id": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
-    "alias": "leadership-reframe-3",
+    "alias": "Leadership-connect-3",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "28fdd3d3-506f-43cf-8e3f-014fc1a6b375",
-        "alias": "Cost of habits",
-        "content": "When we develop habits, we also develop expectations - how we want things and people to be. \n\nHabits and expectations take the pain and fear out of having to listen, observe, speak to people and support them to succeed. \n\n**But at what cost?**",
+        "alias": "Expectations",
+        "content": "When we develop habits, we also develop expectations – how we want things and people to be. \n\nHabits and expectations take the pain and fear out of having to listen, observe, speak to people and support them to succeed. \n\n**But at what cost?**",
         "buttons": [
           {
             "component": "Button",
-            "content": "Next",
+            "content": "Show me",
+            "sectionId": "15adf160-2ad9-4ccd-bfd1-077b5373be89"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "video",
+        "id": "15adf160-2ad9-4ccd-bfd1-077b5373be89",
+        "alias": "Frank's example",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
             "sectionId": "73a34c8f-59b1-4ee8-8810-141986e9f4fa"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622110683/Leadership/Question_3_firstvideo_vjfc9r.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575205/Leadership/Subtitles/lesson3_video1_eng_dfjmho.vtt"
           }
         ]
       },
@@ -21,11 +41,11 @@
         "type": "editorialWithImage",
         "id": "73a34c8f-59b1-4ee8-8810-141986e9f4fa",
         "alias": "Cost of habits 2",
-        "content": "While people and situations change, our habits and expectations can soon become outdated. \\\n\\\nIn other words, by clinging to your, communications habits tightly, you may find yourself more and more distant from others.",
+        "content": "While people and situations change, our habits and expectations can soon become outdated. \n\nFor example by clinging to our communications habits tightly, we may find ourselves less and less able to **connect with others** in order to achieve meaningful goals together. \n\nImagine how hard it is to work towards meaningful goals and pursue purpose together when you're stuck in an imagined rather than an actual situation.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Next",
+            "content": "Got it",
             "sectionId": "94531e31-3c3d-46a3-a32f-961c1076e2cc"
           }
         ]
@@ -34,17 +54,45 @@
         "type": "writing",
         "id": "94531e31-3c3d-46a3-a32f-961c1076e2cc",
         "alias": "Cost of habits 3",
-        "longDescription": "* What does relating in such a ‘closed off’ way cost you and your colleagues? \n* How much does it limit your ability to see ways to create a skilled team who find meaning in their work?",
-        "question": "Take a moment to consider",
-        "buttons": []
+        "longDescription": "* What's the impact of relating in such a ‘closed off’ way?\n* How does this style of communication limit our ability to work together towards meaningful goals?",
+        "question": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "e1c9c160-e9ea-4609-ab30-ffb0e556da7e"
+          }
+        ],
+        "title": "Take a moment to consider"
+      },
+      {
+        "type": "video",
+        "id": "e1c9c160-e9ea-4609-ab30-ffb0e556da7e",
+        "alias": "Frank's example 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "3b548b2d-04bf-4495-b585-578462bff5de",
+            "sectionId": "root"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622188820/Leadership/Question_3_secondvideo_h7k38g.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575205/Leadership/Subtitles/lesson5_video2_eng_w8hk9u.vtt"
+          }
+        ]
       }
     ],
     "root": "28fdd3d3-506f-43cf-8e3f-014fc1a6b375"
   },
   "sv": {
-    "type": "lesson",
     "id": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
-    "alias": "leadership-reframe-3",
+    "alias": "Leadership-connect-3",
     "sections": [
       {
         "type": "editorialWithImage",
@@ -59,5 +107,96 @@
       }
     ],
     "root": "f099945d-d502-4bef-ae1b-405a69d53428"
+  },
+  "pt": {
+    "id": "13d8da91-ecfe-4f35-96f5-78f7791dc8ff",
+    "alias": "Leadership-connect-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "28fdd3d3-506f-43cf-8e3f-014fc1a6b375",
+        "alias": "Expectativas",
+        "content": "Quando desenvolvemos hábitos, também desenvolvemos expetativas - como queremos que as coisas e as pessoas sejam.\n\nOs hábitos e as expectativas eliminam a dor e o medo de ter de ouvir, observar, falar com as pessoas e apoiá-las para que tenham sucesso.\n\n**Mas a que custo?**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me",
+            "sectionId": "15adf160-2ad9-4ccd-bfd1-077b5373be89"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "video",
+        "id": "15adf160-2ad9-4ccd-bfd1-077b5373be89",
+        "alias": "AHO example",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "73a34c8f-59b1-4ee8-8810-141986e9f4fa"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179047/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_3._Desperta_a_tua_capacidade_para_te_conectares_-_video_1_rc1zkg.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179149/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L3V1_nayzdk.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "73a34c8f-59b1-4ee8-8810-141986e9f4fa",
+        "alias": "Custo dos hábitos 2",
+        "content": "Como as pessoas e as situações mudam, os nossos hábitos e expectativas podem ficar desatualizados.\n\nPor exemplo, ao agarrarmo-nos aos nossos hábitos de comunicação com firmeza, podemos acabar por ser cada vez menos capazes de nos **conectarmos com outras pessoas** para alcançarmos juntos objetivos relevantes.\n\nImagina o quão difícil é trabalhar em direção a objetivos relevantes e lutar por um propósito juntos quando estás preso a uma situação imaginária em vez da situação real.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi ",
+            "sectionId": "94531e31-3c3d-46a3-a32f-961c1076e2cc"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "94531e31-3c3d-46a3-a32f-961c1076e2cc",
+        "alias": "Cost of habits 3",
+        "longDescription": "* Qual é o impacto de te relacionares de maneira tão \"fechada\"?\n* Como é que esse estilo de comunicação limita a capacidade de trabalhar em equipa em direção a objetivos relevantes?",
+        "question": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "e1c9c160-e9ea-4609-ab30-ffb0e556da7e"
+          }
+        ],
+        "title": "Tira um momento para ponderar"
+      },
+      {
+        "type": "video",
+        "id": "e1c9c160-e9ea-4609-ab30-ffb0e556da7e",
+        "alias": "AHO example 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "3b548b2d-04bf-4495-b585-578462bff5de",
+            "sectionId": "root"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179046/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_3._Desperta_a_tua_capacidade_para_te_conectares_-_video_2_hadusz.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179138/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L3V2_howrmu.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      }
+    ],
+    "root": "28fdd3d3-506f-43cf-8e3f-014fc1a6b375"
   }
 }

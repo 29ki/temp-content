@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-4",
     "alias": "alive-day-4",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-4",
-        "alias": "alive-day-4",
-        "nextConversationId": "alive-day-5",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 4",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay4rev1",
           "days": 0,
           "hours": 8,
           "minutes": 47,
-          "title": "Alive Day 4 Mission",
+          "title": "Alive Day 4 Quest",
           "body": "Over the next few hours, go against even a small habit you have. Do you feel differently about yourself?"
         },
+        "sharingWall": {
+          "question": "Have you noticed any difference in your sense of purpose since you started this course? Please tell us about it!",
+          "exampleText": "It helped me to break off from my usual thinking patterns."
+        },
         "followUp": {
+          "id": "followUpDay4",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 4 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-4",
+        "nextConversationId": "alive-day-5",
+        "type": "microInterventionDay",
+        "id": "alive-day-4"
       }
     ]
   },
   "sv": {
     "id": "alive-day-4",
     "alias": "alive-day-4",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-4",
-        "alias": "alive-day-4",
-        "nextConversationId": "alive-day-5",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 4",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 4",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 4",
-          "body": "Over the next few hours, go against even a small habit you have. Do you feel differently about yourself?"
+          "title": "Uppdrag dag 4",
+          "body": "Under de närmaste timmarna, gå emot en liten vana du har. Se om det påverkar hur du ser på dig själv.",
+          "id": "aliveDay4rev1swe"
+        },
+        "sharingWall": {
+          "question": "Har du upplevt någon skillnad i meningsfullhet sedan du började den här kursen? Dela gärna med dig.",
+          "exampleText": "Kursen har hjälpt mig bryta mina vanliga tankemönster."
         },
         "followUp": {
+          "id": "followUpDay4",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 4 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 4 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-4",
+        "nextConversationId": "alive-day-5",
+        "type": "microInterventionDay",
+        "id": "alive-day-4"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-4",
+    "alias": "alive-day-4",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 4",
+        "task": {
+          "id": "aliveDay4rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 47,
+          "title": "Desafio ALIVE dia 4",
+          "body": "Durante as próximas horas, contraria um hábito que tenhas mas que não te agrade (mesmo que seja pequeno). Sentes alguma diferença relativamente a ti própria/o?"
+        },
+        "sharingWall": {
+          "question": "Notaste alguma diferença no teu sentimento de propósito desde que iniciaste este curso? Por favor fala-nos acerca disso!",
+          "exampleText": "Ajudou-me a quebrar alguns dos meus padrões habituais de pensamento."
+        },
+        "followUp": {
+          "id": "followUpDay4",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 4 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-4",
+        "nextConversationId": "alive-day-5",
+        "type": "microInterventionDay",
+        "id": "alive-day-4"
       }
     ]
   }

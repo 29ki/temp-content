@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-4-ask-for-advice",
+    "alias": "pl-4-ask-for-advice",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-4-ask-for-advice",
+        "alias": "pl-4-ask-for-advice",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Ask for advice",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-4-ask-for-advice-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Ask for advice",
+          "body": "Over the next few hours, do something that may make someone feel respected, liked, or appreciated (e.g., ask someone for advice, their opinion, the best way to get somewhere)."
+        },
+        "followUp": {
+          "id": "pl-4-ask-for-advice-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "What was it like for you to ask for advice?",
+          "exampleText": "I felt very nervous because..."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-4-ask-for-advice",
+    "alias": "pl-4-ask-for-advice",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-4-ask-for-advice",
+        "alias": "pl-4-ask-for-advice",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Ask for advice",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Ask for advice",
+          "body": "Over the next few hours, do something that may make someone feel respected, liked, or appreciated (e.g., ask someone for advice, their opinion, the best way to get somewhere)."
+        },
+        "followUp": {
+          "id": "pl-4-ask-for-advice-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "..."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-4-ask-for-advice",
+    "alias": "pl-4-ask-for-advice",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-4-ask-for-advice",
+        "alias": "pl-4-ask-for-advice",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Pedir conselhos ",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-4-ask-for-advice-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Pedir conselhos ",
+          "body": "Nas próximas horas, faz algo que possa fazer com que alguém se sinta respeitado/a, valorizado/a ou apreciado/a (por exemplo, pede um conselho a alguém, a sua opinião, a melhor maneira de chegar a algum lugar)."
+        },
+        "followUp": {
+          "id": "pl-4-ask-for-advice-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Vamos fazer o check-in"
+        },
+        "sharingWall": {
+          "question": "Como te sentiste ao pedir conselhos?",
+          "exampleText": "Senti-me muito nervosa/o porque..."
+        }
+      }
+    ]
+  }
+}

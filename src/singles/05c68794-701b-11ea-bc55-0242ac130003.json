@@ -1,0 +1,193 @@
+{
+  "en": {
+    "segments": ["ADULTS", "YOUNG_ADULTS"],
+    "name": "Hear your inner voice",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/hear_your_inner_voice_ia91cg.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "minute"
+    },
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "type": "meditation",
+    "id": "05c68794-701b-11ea-bc55-0242ac130003",
+    "description": "Clear the noise in your mind and let thoughts and feelings appear naturally.",
+    "stations": [
+      {
+        "id": "05c68794-701b-11ea-bc55-0242ac130003",
+        "root": "section1",
+        "alias": "Meditation Hearing your inner voice",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Hearing your inner voice",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/hear_your_inner_voice_ia91cg.png",
+            "title": "Hearing your inner voice",
+            "content": "*03:21 minutes*\n\nA short meditation which helps you notice all the emotions surfacing for you right now.",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "3 minute meditation",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/cwc-your-inner-voice.mp3",
+            "alias": "2",
+            "duration": "3:21",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "32ab5195-316d-456c-9413-e0c11daee96a",
+            "alias": "Sharing wall hearing your inner voice",
+            "question": "What did you experience when listening to your inner voice?",
+            "exampleText": "I discovered that a lot is going on inside me that I never even notice",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/05c68794-701b-11ea-bc55-0242ac130003/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nYou can practice this meditation anytime you want to check in with yourself and connect to the present moment.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Hear your inner voice",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+    "name": "Höra din inre röst",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/hear_your_inner_voice_ia91cg.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "minute"
+    },
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "type": "meditation",
+    "id": "05c68794-701b-11ea-bc55-0242ac130003",
+    "description": "Rensa ljudet i ditt sinne och låt tankar och känslor visas naturligt.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "05c68794-701b-11ea-bc55-0242ac130003",
+        "root": "section1",
+        "alias": "Meditation Hearing your inner voice",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Lyssna till din inre röst",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/hear_your_inner_voice_ia91cg.png",
+            "title": "Lyssna till din inre röst",
+            "content": "* 03: 21 minuter *\n\nEn kort meditation där du får spana inåt och se vad som pågår.",
+            "buttonText": "Kör igång"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Tryck på play för att lyssna.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/cwc-your-inner-voice.mp3",
+            "duration": "",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "0ba6b09a-69e4-46c1-8836-be511f437bd6",
+            "alias": "sharing wall hearing your inner voice",
+            "exampleText": "Att det händer saker på insidan som jag oftast inte alls lägger märke till.",
+            "question": "Vad upplevde du när du lyssnade på din inre röst?",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/05c68794-701b-11ea-bc55-0242ac130003/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Bra gjort för att slutföra denna meditation.\n\nDu kan öva denna meditation när du vill checka in med dig själv och ansluta till nuet.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Höra din inre röst",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ADULTS", "YOUNG_ADULTS"],
+    "name": "Ouve a voz interior",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/hear_your_inner_voice_ia91cg.png"
+    },
+    "duration": {
+      "count": 3,
+      "type": "minute"
+    },
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "type": "meditation",
+    "id": "05c68794-701b-11ea-bc55-0242ac130003",
+    "description": "Elimina o ruído da tua mente e deixa que os teus pensamentos e sentimentos apareçam naturalmente.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "05c68794-701b-11ea-bc55-0242ac130003",
+        "root": "section1",
+        "alias": "Meditation Hearing your inner voice",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Ouve a tua voz interior",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/hear_your_inner_voice_ia91cg.png",
+            "title": "Ouve a tua voz interior",
+            "content": "*04:57 minutos*\n\nUma meditação breve que te ajuda a perceber todas as emoções que estão a surgir agora.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Meditação de 4:57 minutos",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013512/29k%20FJN/Meditations/Cristina%20Final/OUVIR_A_TUA_VOZ_INTERIOR_-_04_56_a854x0.mp3",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "3e3af94e-f1c0-436b-ae19-6517d90aca03",
+            "alias": "Sharing wall hearing your inner voice",
+            "question": "O que sentiste ao ouvir a tua voz interior?",
+            "exampleText": "Descobri que há muitas coisas a acontecer dentro de mim das quais nem me apercebo",
+            "nextSection": "section3"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/05c68794-701b-11ea-bc55-0242ac130003/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por completares esta meditação.\n\nPodes praticar esta meditação em qualquer altura que te queiras conectar contigo própria/o e com o momento presente.",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Ouve a voz interior",
+        "type": "station"
+      }
+    ]
+  }
+}

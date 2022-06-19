@@ -1,0 +1,194 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Become present",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/become_present_ozhpsd.png"
+    },
+    "duration": {
+      "count": 6,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "f602292e-fb95-4a49-a656-2e8e35cb2f8a",
+    "description": "Calm your mind by connecting with your senses.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "f602292e-fb95-4a49-a656-2e8e35cb2f8a",
+        "root": "section1",
+        "alias": "Meditation: Become present",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Become present",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/become_present_ozhpsd.png",
+            "title": "Become present",
+            "content": "This meditation helps you focus and to be present here and now.",
+            "buttonText": "Let’s practice"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You are invited to a short meditation.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/three-things.mp3",
+            "alias": "audio",
+            "duration": "5:53",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f602292e-fb95-4a49-a656-2e8e35cb2f8a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "Well done for completing this meditation.\n\nLoneliness and isolation can evoke a lot of powerful emotions. Practising this meditation helps your move from past or future thinking to being more present and connected.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "fcdd81c6-1cfa-4b06-8929-46a8fa9b3669",
+            "alias": "sharing wall become present",
+            "question": "What happened in your mind and body while doing this meditation?",
+            "exampleText": "Slowly I did calm down. Felt easy, almost."
+          }
+        ],
+        "name": "Become present",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Bli närvarande",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/become_present_ozhpsd.png"
+    },
+    "duration": {
+      "count": 6,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "f602292e-fb95-4a49-a656-2e8e35cb2f8a",
+    "description": "Skapa lugn i stormen genom att fokusera på dina sinnen",
+    "wip": true,
+    "stations": [
+      {
+        "id": "f602292e-fb95-4a49-a656-2e8e35cb2f8a",
+        "root": "section1",
+        "alias": "Meditation: Become present",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Tre saker",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/become_present_ozhpsd.png",
+            "title": "Tre saker",
+            "content": "* 6 minuter *\n\nDen här meditationen hjälper dig att stärka ditt fokus och din förmåga att vara närvarande.",
+            "buttonText": "Kör igång"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/three-things.mp3",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f602292e-fb95-4a49-a656-2e8e35cb2f8a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Fint gjort av dig att genomföra den här lilla meditationen.\n\nEnsamhet och isolering kan väcka många kraftfulla känslor. Att öva på att vara här och nu kan hjälpa oss att komma vidare när oro eller ältande dyker upp.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Bli närvarande",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Torna-te presente",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/become_present_ozhpsd.png"
+    },
+    "duration": {
+      "count": 6,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "f602292e-fb95-4a49-a656-2e8e35cb2f8a",
+    "description": "Acalma a tua mente conectando-te com os teus sentidos",
+    "stations": [
+      {
+        "id": "f602292e-fb95-4a49-a656-2e8e35cb2f8a",
+        "root": "section1",
+        "alias": "Meditation: Become present",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Torna-te presente",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/become_present_ozhpsd.png",
+            "title": "Torna-te presente",
+            "content": "*5:23 minutos*\n\nEsta meditação ajuda-te a estar totalmente focada/o e presente aqui e agora.",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Convidamos-te para esta meditação breve.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013517/29k%20FJN/Meditations/Cristina%20Final/TRES_COISAS_-_05_23_lgw42y.mp3",
+            "duration": "5:23",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f602292e-fb95-4a49-a656-2e8e35cb2f8a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Parabéns por completares esta meditação.\n\nA solidão e o isolamento podem provocar muitas emoções fortes. Praticar esta meditação ajuda-te a deixar de pensar no passado ou no futuro tornando-te mais presente e conectada/o.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "f98cf3ec-16cf-4191-8b51-390545987ee4",
+            "alias": "sharing wall become present",
+            "question": "O que sentiste na tua mente e no teu corpo durante a meditação?",
+            "exampleText": "Fui acalmando de forma gradual. Senti-me mais leve."
+          }
+        ],
+        "name": "Torna-te presente",
+        "type": "station"
+      }
+    ]
+  }
+}

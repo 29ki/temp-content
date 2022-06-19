@@ -1,0 +1,383 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Acceptance",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png"
+    },
+    "time": "15 minutes",
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "18e8c0ba-7027-11ea-bc55-0242ac130003",
+    "description": "Practice on accepting feelings and allowing them to be present.",
+    "stations": [
+      {
+        "id": "18e8c0ba-7027-11ea-bc55-0242ac130003",
+        "root": "section1",
+        "alias": "Exercise Acceptance",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Acceptance",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png",
+            "title": "Acceptance",
+            "content": "Try to observe that even the most unpleasant and unwelcome emotions will pass. \n\nIn this exercise you’ll learn more about accepting your own inside, letting go of expectations and instead open up to what is actually here, in this moment.",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "The Acceptance Slider",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/18e8c0ba-7027-11ea-bc55-0242ac130003/acceptance.png",
+            "title": "The Acceptance Slider",
+            "content": "Imagine that we have two invisible controls inside us, like the volume and tone controls from an old ’70s stereo.\n\nThe slider to the right represents **difficult emotions.**\n\nUnfortunately this slider is hard to move around – we rarely have the power to **decide** **not to feel lonely**, invisible, worried, bored or something else if we for example are isolated. Despite that, it is tempting for many of us to **put a lot of energy to** **try** **to** **control** the volume of difficult emotions on the inside.",
+            "buttonText": "Go on"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "The Acceptance Slider",
+            "topImageUri": "",
+            "title": "",
+            "content": "And here's an important aspect that science has taught us: the more we try not to think of something, **the more that thing seem to come to mind**. Hence, the more we fight to pull down the difficult emotion slider, the harder it seems to be stuck. And the difficult emotions may get even more intense.",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "alias": "section4",
+            "topImageUri": "",
+            "title": "",
+            "content": "Sometimes it is not the situation we are in that prevents us from taking meaningful action, but our interpretation of it. It may often feel like **we need to get rid of what's uncomfortable on the inside**, before we can do any of the important things we'd like to do. This is where the trick with acceptance comes in.",
+            "buttonText": "Tell me more"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1d7c7e5c-f90f-41d6-bb61-4e873c8a7bba",
+            "content": "The left-hand “acceptance slider” represents your willingness to be with your emotions – all of them. When we try to fight or control difficult emotions this willingness slider is down to zero. But this slider is actually **totally within our control.**",
+            "title": "",
+            "alias": "acceptance 2",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4770691c-09b0-48f4-b6ba-c8b6183b8d4a",
+            "content": "When we choose to accept that something is difficult on the inside, we push our acceptance slider all the way up. And then something happens with the right, difficult emotions slider: **it can move freely again**.",
+            "alias": "acceptance 3",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "00aaeae4-958b-48a3-a171-2b9186cfa3f0",
+            "content": "To accept what's happening on the inside then can make it possible for us to chose behaviors in line with our values. And spend less energy on the things that are outside of our control.",
+            "alias": "acceptance 4",
+            "buttonText": "Next"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "Think about your day so far.\n\n* How often have you done anything to reduce or control your own experience of inner discomfort?\n* How has that worked out for you?\n* How often have you done something towards your core values?\n\nWrite down your answers.",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Turn up your acceptance slider",
+            "title": "Turn up your acceptance slider",
+            "time": "",
+            "question": "",
+            "longDescription": "Take a look at your own acceptance slider – your willingness to **allow whatever is there on the inside** – where is it at right now?\n\nNow, decide how much you will turn it up. It doesn’t matter where you stand right now, the point is to **increase your level of acceptance of difficult emotions**.",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8a1b15d6-f874-465f-baa3-c85080f45bdf",
+            "content": "By turning your acceptance slider up, **you’re making an active choice to open up** to all emotions. For example you choose to accept that you’re irritated, angry or sad about the situation in the world.",
+            "alias": "summary",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "74b0b780-8e25-4e42-bee1-58cee4805c9a",
+            "question": "How do you think choosing to accept your emotions, instead of fighting them, can affect you?",
+            "exampleText": "I think it can open other possibilities for me.",
+            "alias": "sharing wall q",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done!",
+            "content": "Well done for completing this exercise.\n\nNow with a new, higher level of acceptance of emotions, we may start to experience our emotions for what they are. That allows us to invest energy in what we actually can control.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Acceptance",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Acceptans",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png"
+    },
+    "time": "15 minuter",
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "18e8c0ba-7027-11ea-bc55-0242ac130003",
+    "description": "Öva på att acceptera känslor och låta dem vara närvarande.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "18e8c0ba-7027-11ea-bc55-0242ac130003",
+        "root": "section1",
+        "alias": "Exercise Acceptance",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Acceptance",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png",
+            "title": "Acceptans",
+            "content": "Även de mest ovälkomna och obehagliga känslor och tankar kommer till slut att passera. \n\nTräna på att acceptera det som sker på insidan och att låta det som är här och nu bestämma ditt beteende – inte förväntningar, oro eller tidigare upplevelser.",
+            "buttonText": "Kör igång"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "The Acceptance Slider",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/18e8c0ba-7027-11ea-bc55-0242ac130003/acceptance.png",
+            "title": "Acceptanskontrollen",
+            "content": "Tänk dig att vi har två osynliga spakar på insidan, som volymkontrollerna på en gammal stereo.\n\nSpaken till höger representerar svåra känslor. Det är tyvärr svårt att dra i den här spaken. **Vi kan sällan bestämma oss för att inte känna oss ensamma, osynliga, oroliga, uttråkade** eller något annat om vi till exempel sitter isolerade från omvärlden. Men ofta lägger vi mycket kraft och energi på att försöka påverka volymen eller till och med bli av med det som känns jobbigt på insidan.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "The Acceptance Slider",
+            "topImageUri": "",
+            "title": "",
+            "content": "Här kommer en viktig grej som du säkert känner igen: **ju mer vi kämpar** för att dra ner svåra känslor-spaken, **desto hårdare verkar den sitta fast**. Och desto mer intensiva kan just de känslor eller tankar som vi försöker undvika bli.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "alias": "section4",
+            "topImageUri": "",
+            "title": "",
+            "content": "Ibland när vi befinner oss i en situation är det inte själva situationen, utan vår tolkning av den som hindrar oss från att göra det som är viktigt i stunden. Ofta känns det som att vi måste bli av med det jobbiga på insidan, innan vi kan ta tag i något viktigt som väntar. Det är här tricket med acceptans kommer in.",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1d7c7e5c-f90f-41d6-bb61-4e873c8a7bba",
+            "content": "Den vänstra spaken representerar acceptans eller villighet att ha jobbiga känslor. När vi försöker bekämpa, kontrollera eller undvika jobbiga känslor är vår villighet att ha dem nere på noll. Men **acceptans-spaken har vi full kontroll över.**",
+            "title": "Acceptans-spaken",
+            "alias": "acceptance 2",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4770691c-09b0-48f4-b6ba-c8b6183b8d4a",
+            "content": "När vi väljer att **acceptera att något är svårt för oss** eller att det är jobbigt med ständiga tankar på situationen i världen, skjutsar vi vår acceptans-spak hela vägen upp till toppen. \n\nOch då händer det nåt med den högra spaken, den som reglerar svåra känslor: **den kan röra sig fritt igen.** Den sitter inte längre fast.",
+            "alias": "acceptance 3",
+            "buttonText": "Gå vidare"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "00aaeae4-958b-48a3-a171-2b9186cfa3f0",
+            "content": "Att acceptera det som är jobbigt på insidan, gör det möjligt för oss välja beteenden i linje med våra värderingar, i stället för att slösa kraft på att försöka påverka det vi inte kan påverka.",
+            "alias": "acceptance 4",
+            "buttonText": "Nästa"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Övning",
+            "time": "",
+            "question": "",
+            "longDescription": "Tänk på din dag hittills.\n\n* Hur ofta har du gjort något för att minska, undvika, kontrollera eller på annat sätt påverka en upplevelse av obehag på insidan?\n* Hur har det fungerat, tycker du?\n* Hur ofta har du gjort något i linje med dina värderingar?\n\nSkriv ner dina svar.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Dra upp din acceptans-spak",
+            "title": "Dra upp din acceptans-spak",
+            "time": "",
+            "question": "",
+            "longDescription": "Ta en titt på din egen acceptans-spak, din villighet att ha det som är svårt på insidan – var står den just nu?\n\nBestäm hur mycket du ska dra upp den. Det spelar ingen roll var på skalan du är just nu, poängen är att **öka din nivå av acceptans för att ha svåra känslor**.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "8a1b15d6-f874-465f-baa3-c85080f45bdf",
+            "content": "Genom att höja din villighet gör du ett **aktivt val att låta alla känslor finnas**. Du väljer till exempel att acceptera att du är irriterad, arg eller ledsen över situationen i världen.",
+            "alias": "summary",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "74b0b780-8e25-4e42-bee1-58cee4805c9a",
+            "question": "Hur tror du att det kan påverka dig att välja att acceptera dina känslor i stället för att undvika dem?",
+            "exampleText": "Det kan öppna nya möjligheter för mig.",
+            "alias": "sharing wall q",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Bra jobbat",
+            "content": "Du är nu klar med den här övningen i acceptans.\n\nMed en ny, högre nivå av acceptans kan vi lägga märke till impulsen att undvika, fly eller kontrollera våra känslor, kan vi uppleva våra känslor för vad de är. Och ägna vår energi åt sådant som vi faktiskt kan kontrollera.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Godkännande",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Aceitação",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png"
+    },
+    "time": "15 minutes",
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "18e8c0ba-7027-11ea-bc55-0242ac130003",
+    "description": "Pratica a aceitação de emoções e permite que estas estejam presentes.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "18e8c0ba-7027-11ea-bc55-0242ac130003",
+        "root": "section1",
+        "alias": "Exercise Acceptance",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Aceitação",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png",
+            "title": "Aceitação",
+            "content": "*15 minutos*\n\nAs metáforas podem ajudar-nos a obter uma nova perspetiva de como diferentes aspetos das nossas vidas estão relacionados entre si.\n\nNeste exercício, vais aprender mais sobre a aceitação.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Regulador de Aceitação",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621437591/29k%20FJN/Images/Slicers_awfezv.png",
+            "title": "Regulador de Aceitação",
+            "content": "O regulador é uma metáfora sobre aceitação.\n\nImagina que temos dois reguladores invisíveis dentro de nós, como os de volume e tom de uma velha aparelhagem dos anos 70. \n\nO da esquerda, \"o regulador da aceitação\", representa a tua disponibilidade para viver com as tuas emoções. Tu tens o controlo total deste regulador. Por exemplo, sempre que aceitas uma emoção difícil, ele aumenta até ao limite. E, de cada vez que te zangas ou sentes frustração por sentires uma emoção difícil, o regulador desce até ao mínimo. Isto acontece porque estás a tentar resistir, controlar ou fugir dessa emoção.\n\nO regulador da direita é o \" regulador das emoções difíceis\". Infelizmente, não o controlamos, ele tem vontade própria.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "O Regulador de Aceitação",
+            "topImageUri": "",
+            "title": "O Regulador de Aceitação",
+            "content": "O regulador da aceitação tem uma função secreta incorporada.\n\nQuando o regulador da aceitação está no mínimo (por exemplo, quando avaliamos ou resistimos às nossas emoções), o regulador das emoções difíceis vai até ao máximo. É quase como sentíssemos que ele fica preso: por muito que tentemos mover o regulador, ele recusa-se a ceder, intensificando as nossas emoções.\n\nPor outro lado, quando nos abrimos às nossas emoções, por mais difícil que seja, empurramos o regulador da aceitação para cima e experienciamos o efeito oposto - o regulador das emoções difíceis solta-se e pode mover-se livremente de acordo com os nossos sentimentos reais em vez das nossas interpretações desses sentimentos.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "alias": "Aquilo a que resistes persiste",
+            "topImageUri": "",
+            "title": "Aquilo a que resistes persiste",
+            "content": "Os nossos pensamentos e emoções funcionam de acordo com a nossa aceitação ou não aceitação. Talvez já tenhas ouvido o ditado: \n\n\"Aquilo a que resistes, persiste\"\n\nEmbora não tenhamos controlo sobre as emoções difíceis, assim que deixamos de lhes resistir e, em vez disso, lhes damos espaço, elas ficam livres para se moverem outra vez.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Pensa sobre o teu dia até agora. Quantas vezes fizeste alguma coisa para reduzir, mudar, controlar ou de alguma forma influenciar a experiência de desconforto?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Aumenta o teu regulador de aceitação ",
+            "title": "Aumenta o teu regulador de aceitação ",
+            "time": "",
+            "question": "",
+            "longDescription": "Agora é contigo!\n\nOlha para o teu próprio regulador da aceitação. Onde é que ele está neste momento? \n\nDecide o quanto desejas aumentá-lo. Não importa onde estás neste momento, o objetivo é aumentar o teu nível de aceitação de emoções difíceis. \n\nAo fazê-lo, estás a fazer uma escolha ativa para te abrires ao que está fora do teu controlo. Por exemplo, escolhe aceitar que estás zangada/o ou triste por não poderes sair de casa.\n\nComo é que a escolha de aceitar a tua emoção, em vez de lhe resistires, te afeta?",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "2bc7d7e7-44fb-4acb-a258-48fc16cc4788",
+            "alias": "sharing wall q",
+            "question": "O que achas que pode mudar na tua vida se aceitares as tuas emoções em vez de lhes resistires?",
+            "exampleText": "Penso que vai abrir um conjunto de oportunidades para ter uma vida mais positiva e saudável.",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Parabéns por completares este exercício. \n\nAgora que estabeleceste um novo e maior nível de aceitação e largaste a tentação de resistir, fugir ou controlar as tuas emoções, vais começar a experienciar as tuas emoções tal como elas são e a investir a tua energia naquilo que podes controlar.",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Aceitação",
+        "type": "station"
+      }
+    ]
+  }
+}

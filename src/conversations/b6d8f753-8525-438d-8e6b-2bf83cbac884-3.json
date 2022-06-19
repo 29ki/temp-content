@@ -1,0 +1,108 @@
+{
+  "en": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 5",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Towards your goal through daily actions",
+        "content": "Daily actions make our goals easier to succeed. However, changing behavior is hard and at times it feels like we’re failing at even the most simple things.\n\nWhen pursuing a goal, it’s important not to blame yourself. Instead, think of how you could simplify your daily actions so that your goal is easier to accomplish.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "Take 5-10 min",
+        "question": "Are there any small actions you could take any day to work towards the goal you’ve set? Think of as many small daily actions as you can, then take one of them today and another one tomorrow. Write down what you’re going to do today and tomorrow.",
+        "shortDescription": "Write down your answers. This is what you’ll be offered to share with your group along with your value-driven goal.",
+        "longDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 5",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Bra jobbat. Oavsett vad du har satt upp för mål i linje med din värdering, så har du just tagit ett viktigt steg på vägen. \n\nUnna dig själv att vila lite i nuet med den här meditationen innan vi går vidare.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-breathing-anchor.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "title": "Omvandla värderingar till handlingar",
+        "content": "Fint. Nu är du redo för nästa steg: att fundera ut flera beteenden i linje med ditt värde. Här gäller det att försöka komma på så många beteenden som möjligt. Om vi återigen tar exemplet med \"Att vara en omtänksam familjemedlem\", så skulle följande beteenden kunna vara exempel:\n\n* Fråga om min dotter behöver hjälp med läxorna\n* Hjälpa pappa ställa in sin iPhone\n* Köpa en blomma till min partner\n* Ringa och fråga hur min brorsa har det",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 5",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "title": "Transformar valores em ações",
+        "content": "Está na altura de implementares o método SMART e transformares um dos teus valores em ação.\n\nEscolhe um dos teus valores e transforma-o num objetivo. Tenta ser o mais específica/o possível, garantindo também que é mensurável, atingível, relevante e limitado no tempo. Por exemplo, se o teu valor for “Ser um familiar mais atencioso”, então “Ver ou telefonar aos meus pais pelo menos duas vezes por semana” é um exemplo de objetivo que se alinha com esse valor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Escolhe um valor que seja importante para ti neste momento. Não importa a que área pertence. Cria um objetivo alinhado com esse valor.",
+        "shortDescription": "O meu objetivo alinhado com o meu valor é… Escreve a tua resposta. Vai ser isto que poderás partilhar com o teu grupo no fim desta lição.",
+        "longDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      }
+    ]
+  }
+}

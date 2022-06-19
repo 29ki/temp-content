@@ -1,0 +1,17 @@
+{
+  "en": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password"
+  },
+  "sv": {
+    "name": "Namn",
+    "email": "E-post",
+    "password": "Lösenord"
+  },
+  "pt": {
+    "name": "Nome",
+    "email": "Email",
+    "password": "Palavra-passe"
+  }
+}

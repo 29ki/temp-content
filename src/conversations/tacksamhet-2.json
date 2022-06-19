@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "tacksamhet-2",
-    "alias": "tacksamhet-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 4-Gratitude-2",
     "root": "section1",
     "sections": [
       {
@@ -18,11 +17,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Fokusövning"
+                "content": "# Focus exercise"
               },
               {
                 "component": "Text",
-                "content": "Nu ska du få prova en fokusövning på temat tacksamhet."
+                "content": "Now it's time to try a focus exercise on the theme of gratitude."
               }
             ]
           },
@@ -31,8 +30,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "tacksamhet-2",
+                "content": "Keep going",
                 "sectionId": "section2"
               }
             ]
@@ -47,7 +45,7 @@
           {
             "component": "AudioPlayer",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/self_compassion_sv/tacksamhet-ya.mp3",
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1624637215/Become%20friends%20with%20yourself/sound%20files/YA_Make_Friends_L4_Meditation_wepuiq.mp4",
               "duration": 208
             }
           },
@@ -56,8 +54,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
-                "conversationId": "tacksamhet-2",
+                "content": "Next",
                 "sectionId": "section3"
               }
             ]
@@ -74,7 +71,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Bra, nu är du redo för nästa del i den här utmaningen: Tacksamhetsbrev till dig själv"
+                "content": "Great, now you're ready for the next part of this exercise. Writing a letter of gratitude to yourself."
               }
             ]
           },
@@ -83,9 +80,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Fortsätt",
-                "conversationId": "tacksamhet-3",
-                "sectionId": "section1"
+                "variant": "primary",
+                "content": "Continue",
+                "conversationId": "tacksamhet-3"
               }
             ]
           }
@@ -98,8 +95,7 @@
   },
   "sv": {
     "id": "tacksamhet-2",
-    "alias": "tacksamhet-2",
-    "type": "lesson",
+    "alias": "YA Become friends: 4-Gratitude-2",
     "root": "section1",
     "sections": [
       {
@@ -129,7 +125,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "tacksamhet-2",
                 "sectionId": "section2"
               }
             ]
@@ -154,7 +149,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "tacksamhet-2",
                 "sectionId": "section3"
               }
             ]
@@ -180,9 +174,103 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Fortsätt",
-                "conversationId": "tacksamhet-3",
-                "sectionId": "section1"
+                "conversationId": "tacksamhet-3"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "tacksamhet-2",
+    "alias": "YA Become friends: 4-Gratitude-2",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_focus_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Exercício de foco"
+              },
+              {
+                "component": "Text",
+                "content": "Agora é hora de praticar um exercício de foco sobre o tema da gratidão."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893796/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Meditations%20Exercises%20Audio/S%C3%AA_teu_amigo_-_gratid%C3%A3o_-_EXERCICIO_DE_FOCO_-_07_12_c6hfy0.mp3",
+              "duration": 7
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte ",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Ótimo, agora estás pronto/a para a parte seguinte deste exercício. Escrever uma carta de gratidão a ti mesmo/a."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Continuar",
+                "conversationId": "tacksamhet-3"
               }
             ]
           }

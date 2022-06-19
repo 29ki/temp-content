@@ -1,0 +1,107 @@
+{
+  "en": {
+    "id": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+    "alias": "alive-day-16",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 16",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay16rev1",
+          "title": "Alive Day 16 Quest",
+          "body": "Over the next few hours, tune into why you’re doing the activity you’re doing. Did you learn anything about yourself?"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I...."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay16",
+          "title": "Alive Day 16 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-16",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "5032d6c4-7348-4b54-b4dd-f62088a0c35a"
+      }
+    ]
+  },
+  "sv": {
+    "id": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+    "alias": "alive-day-16",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 16",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay16rev1",
+          "title": "Uppdrag dag 16",
+          "body": "De närmaste timmarna, fundera på **varför** du gör det du gör. Kan det lära dig något om dig själv?"
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Att jag gör mycket utan att tänka så mycket på det. På rutin."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay16",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-16",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "5032d6c4-7348-4b54-b4dd-f62088a0c35a"
+      }
+    ]
+  },
+  "pt": {
+    "id": "f04fd33c-8d14-4fa0-a9b1-466fc9e8ccb2",
+    "alias": "alive-day-16",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 16",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay16rev1",
+          "title": "Desafio ALIVE dia 16",
+          "body": "Durante as próximas horas, tenta perceber porque estás a executar a atividade que estás a fazer. Aprendeste alguma coisa acerca de ti própia/o?"
+        },
+        "sharingWall": {
+          "question": "Aprendeste alguma coisa acerca de ti própria/o?",
+          "exampleText": "Hoje eu..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay16",
+          "title": "Check-in Dia 16 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-16",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "5032d6c4-7348-4b54-b4dd-f62088a0c35a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "en": {
+    "onboardingEnd": {
+      "title__markdown": "# Do this challenge ~~with others!~~",
+      "text__markdown": "Sharing your journey with others is usually more fun and will make your experience much more powerful.",
+      "joinGroupButton": "Join group",
+      "skipGroupButton": "Skip"
+    },
+    "itemTitle": "Day",
+    "with": "with",
+    "pauseButton": "Pause challenge",
+    "completedTitle": "Completed missions",
+    "reminderDescription": "We'll help remind you daily at:",
+    "redoButton": "Redo challenge",
+    "status": {
+      "started": "Started",
+      "paused": "Paused",
+      "completed": "Finished"
+    },
+    "stopButton": "Leave challenge",
+    "startButton": "Join challenge",
+    "current": "Today's mission",
+    "takeChallengeWithOthersButton": "Do this challenge with others",
+    "onboarding": {
+      "description": "We're happy you want to try this challenge.",
+      "reminderDescription": "What time of the day would you like to do the exercises?",
+      "pushNotifications": "In order to receive daily reminders, please allow push notifications from 29k in the device settings.",
+      "startButton": "Start"
+    },
+    "upcomingTitle": "Missions",
+    "tabs": {
+      "challenge": "Challenge",
+      "about": "About"
+    },
+    "sharingExerciseButton": "Reflect",
+    "nextStep": "Explore"
+  },
+  "sv": {
+    "onboardingEnd": {
+      "title__markdown": "# Anta utmaningen ~~tillsammans!~~",
+      "text__markdown": "Att anta en utmaning tillsammans med andra är både roligare och ger ofta en djupare och mer kraftfull upplevelse.",
+      "joinGroupButton": "Hitta en grupp",
+      "skipGroupButton": "Avbryt"
+    },
+    "itemTitle": "Dag",
+    "with": "med",
+    "pauseButton": "Pausa utmaningen",
+    "completedTitle": "Avklarade uppdrag",
+    "reminderDescription": "Vi påminner dig varje dag klockan:",
+    "redoButton": "Gör utmaningen igen",
+    "status": {
+      "started": "Startad",
+      "paused": "Pausad",
+      "completed": "Avklarad"
+    },
+    "takeChallengeWithOthersButton": "Gör den här utmaningen med andra",
+    "stopButton": "Lämna utmaningen",
+    "startButton": "Gå med i utmaningen",
+    "current": "Dagens uppdrag",
+    "onboarding": {
+      "description": "Vi är glada att du vill ta dig an den här utmaningen.",
+      "reminderDescription": "Vilken tid på dagen skulle det passa dig bäst att göra övningarna?",
+      "pushNotifications": "För att få dagliga påminnelser, aktivera pushnotiser från 29k i telefonens inställningar.",
+      "startButton": "Starta"
+    },
+    "upcomingTitle": "Uppdrag",
+    "tabs": {
+      "challenge": "Utmaning",
+      "about": "Om"
+    },
+    "sharingExerciseButton": "Reflektera",
+    "nextStep": "Utforska"
+  },
+  "pt": {
+    "onboardingEnd": {
+      "title__markdown": "# Faz este desafio ~~com os outros!~~",
+      "text__markdown": "Partilhares a tua jornada com os outros é normalmente mais divertido e torna a tua experiência mais poderosa.",
+      "joinGroupButton": "Junta-te a um grupo",
+      "skipGroupButton": "Agora não"
+    },
+    "itemTitle": "Dia",
+    "with": "com",
+    "pauseButton": "Coloca o desafio em pausa",
+    "completedTitle": "Missões concluídas",
+    "reminderDescription": "Vamos lembrar-te todos os dias às:",
+    "redoButton": "Recomeçar desafio",
+    "status": {
+      "started": "Iniciado",
+      "paused": "Em pausa",
+      "completed": "Concluído"
+    },
+    "stopButton": "Sair do desafio",
+    "startButton": "Entra no desafio",
+    "current": "Missão de hoje",
+    "takeChallengeWithOthersButton": "Faz este desafio com outras pessoas",
+    "onboarding": {
+      "description": "Estamos felizes por saber que estás prestes a entrar neste desafio.",
+      "reminderDescription": "A que horas do dia pretendes fazer o desafio?",
+      "pushNotifications": "Para receberes os teus lembretes diários, tens de ir às definições do teu telemóvel e nas notificações da aplicação 29k FJN permitir o seu recebimento.",
+      "startButton": "Iniciar"
+    },
+    "upcomingTitle": "Missões",
+    "tabs": {
+      "challenge": "Desafio",
+      "about": "Acerca de"
+    },
+    "sharingExerciseButton": "Reflete",
+    "nextStep": "Explorar"
+  }
+}

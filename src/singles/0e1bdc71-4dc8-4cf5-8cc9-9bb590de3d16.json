@@ -1,0 +1,299 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Sticky thoughts",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sticky_thoughts_nynbnc.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16",
+        "name": "Sticky thoughts",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "832396fc-1519-4244-a62f-21aa55454c9d",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sticky_thoughts_nynbnc.png",
+            "title": "Thoughts that won't leave us alone",
+            "content": "Each and every day, we have **thousands** of thoughts. Some of them — often the ones that **evoke** strong **feelings** — tend to come back, over and over again.\n\nThis exercise helps you **deal** with your **sticky** **thoughts** by allowing you to see your thoughts for what they really are — **words**, and not **reality**.",
+            "buttonText": "I'm ready"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "bbbbe646-ab46-4f6e-b4b5-afd5611a6965",
+            "content": "**Learn more about:**\n\n* Negative thoughts\n* How to deal with your sticky thoughts\n\n**You'll need:**\n\n* 10 minutes of undisturbed time\n* Pen and paper",
+            "buttonText": "Start"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "93b046ac-4e81-44b2-a18d-da6cc7508ffd",
+            "content": "You might've heard this before: our **brains** are **hardwired** towards **negativity**. This means that we are **naturally** more likely to **focus** on, **think** about, and **remember** negative events.\n\nIn the modern world, this advantage sometimes turns into a **disadvantage**.",
+            "buttonText": "Tell me more"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1b43cb00-3cdb-40f0-a544-694b6c084e98",
+            "content": "Our **negative** **thoughts** can almost seem like a song that is **stuck** on **repeat**. These sticky thoughts **influence** our **behavior** and **prevent** us from acting in ways we'd actually like to.\n\nWhat's more, we often **interpret** our **thoughts** as if they were **real**. For example, **thinking** \"*I’m not good enough*\" can lead us to actually **believe** that we are indeed **not good enough.**\n\nBut there are ways to **deal** with sticky thoughts.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "video",
+            "id": "cc5259a4-09cd-492b-8a04-82ba7ee3b7c8",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1636362642/Singles/jenny_stickythoughts_jbe0bz.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1636362667/Singles/Screenshot_2021-11-08_094937_z7ji9l.jpg",
+                "subtitleUri": ""
+              }
+            ],
+            "buttonText": "Try it yourself"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6474b83b-f3d7-4e64-9947-bba5ac8d4b5c",
+            "content": "1. Write down **1-3** of your **sticky** **thoughts**.",
+            "title": "Exercise",
+            "buttonText": "I'm done",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/sticky_eng_ps00eg.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "703c6e68-1595-4c33-8493-4b366d1b0b36",
+            "content": "2. Now, let's **play** with your thoughts. **Read** them out in **different** ways, for example:\n\n* **Sing**, **scream** or **whisper** them.\n* Say them in a **funny** voice.\n* Read them in **high** or **low** pitch.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "036d06cc-752e-40ea-b1fd-b75b9dcebec1",
+            "question": "What happened to your sticky thoughts during this exercise?",
+            "exampleText": "I take my sticky thoughts less seriously now. ",
+            "buttonText": "Move on"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "34c2826e-e1b1-47c4-b7d3-0907b8bcc326",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "",
+            "content": "Well done on trying out this new way of **relating** to your **thoughts**.\n\nRemember, thoughts are just **words**. They aren't inherently true — we are the ones who assign them their meaning and thus allow them to **impact** our **behavior**.\n\nBy creating **distance** from your sticky thoughts, you are **dissolving** their **power**, allowing your **actions** to be in line with what's **important** to **you** — **regardless** of what those **thoughts** tell you.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Acceptera tankar och känslor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sticky_thoughts_nynbnc.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16",
+        "name": "Acceptera tankar och känslor",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "832396fc-1519-4244-a62f-21aa55454c9d",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sticky_thoughts_nynbnc.png",
+            "title": "Tankar som fastnar",
+            "content": "Varje dag har vi **tusentals** tankar. Vissa av dem – ofta de som **framkallar** starka **känslor** – brukar komma tillbaka, om och om igen.\n\nDen här övningen hjälper dig **hantera** dina **återkommande** **tankar** genom att hjälpa dig se dina tankar för vad de verkligen är – **ord**, och inte **verklighet**.",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0a7d7857-a83c-4498-9f77-a689dc02d645",
+            "content": "**Lär dig mer om:**\n\n* Negativa tankar\n* Hantera återkommande tankar\n\n**Du behöver:**\n\n* 10 minuter ostörd tid\n* Papper och penna",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "adda084c-ca43-4c6b-ab49-d65526916fb9",
+            "content": "Du har säkert hört det förut och det förtjänar att upprepas: våra **hjärnor** har **utvecklats** för att fokusera på **negativa saker**. Människor är mer benägna att **fokusera** på, **tänka** på och **minnas** negativa händelser.\n\nI vår moderna värld förvandlas ibland den här fördelen till en **nackdel**.",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cb6ab3f7-03be-4cd7-bd17-29a62f11d250",
+            "content": "Våra **negativa tankar** kan påminna om en sång som **fastnat** på **repeat**. Dessa återkommande tankar **påverkar** våra **beteenden** och **hindrar** oss från att göra sånt som vi egentligen skulle vilja.\n\nDessutom **tolkar** vi ofta våra **tankar** som om de vore **sanna**. Till exempel kan tanken \"*Jag är inte tillräcklig*\" leda till att vi faktiskt **tror** att vi inte är tillräckliga.\n\nMen det finns sätt att **hantera** negativa tankar som fastnat.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "video",
+            "id": "c7c14bd4-409d-45f1-b0e2-a08393b6d27c",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1636362642/Singles/jenny_stickythoughts_jbe0bz.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1636362667/Singles/Screenshot_2021-11-08_094937_z7ji9l.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1636362848/Singles/jenny_stickythoughts_swe_rzct9d.vtt"
+              }
+            ],
+            "buttonText": "Testa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3df699bb-27cf-4452-86a0-44dbcfcbda58",
+            "content": "1. Skriv ned **1-3** av dina återkommande negativa tankar.",
+            "title": "Övning",
+            "buttonText": "Jag är klar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/sticky_sve_eo6jy9.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b6bd44c8-fa58-4cb6-8870-372d559e0710",
+            "content": "2. Nu är det dags att **leka** med dina tankar. Läs dem på olika sätt, till exempel:\n\n* Sjung, skrik eller viska dem.\n* Använd en fånig röst.\n* Säg dem i en överdrivet mörk eller ljus ton.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "2145693d-8d71-4f83-8ad0-3ee157e30cb0",
+            "question": "Vad hände med dina tankar under den här övningen?",
+            "buttonText": "Nästa",
+            "exampleText": "Jag slappnade av. Kunde inte ta mina tankar på allvar. "
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "34c2826e-e1b1-47c4-b7d3-0907b8bcc326",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "",
+            "content": "Bra jobbat, du har nu testat ett nytt sätt att **förhålla** dig till dina tankar!\n\nKom ihåg att **tankar** bara är **ord**. Det är vi som ger dem **betydelse** och därmed **makt.** \n\nGenom att skapa **distans** till dina negativa tankar **minskar** deras **kraft** över dig så att du kan göra det som är **viktigt** för **dig** – **oavsett** vad dina **tankar** säger.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Pensamentos pegajosos",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sticky_thoughts_nynbnc.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-0e1bdc71-4dc8-4cf5-8cc9-9bb590de3d16",
+        "name": "Pensamentos pegajosos",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "832396fc-1519-4244-a62f-21aa55454c9d",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/sticky_thoughts_nynbnc.png",
+            "title": "Pensamentos que não nos deixam em paz",
+            "content": "Todos os dias, temos **milhares** de pensamentos. Alguns deles - geralmente aqueles que **invocam** sentimentos **fortes** - tendem a voltar uma e outra vez.\n\nEste exercício ajuda-te a **lidar** com os teus pensamentos **mais recorrentes**, permitindo-te  que vejas o que eles realmente são **\\- palavras** e não a **realidade**.",
+            "buttonText": "Estou pronta/o"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "bbbbe646-ab46-4f6e-b4b5-afd5611a6965",
+            "content": "**Vais aprender acerca de:**\n\n* Pensamentos negativos\n* Como lidar com pensamentos recorrentes\n\n**Vais precisar de:**\n\n* 10 minutos num local sossegado\n* Caneta e pepel",
+            "buttonText": "Iniciar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "93b046ac-4e81-44b2-a18d-da6cc7508ffd",
+            "content": "Já deves ter ouvido dizer que os nossos **cérebros** são **programados** para a **negatividade**. Isso significa que temos **naturalmente** mais apetência para **focar**, **pensar** e **lembrar** eventos negativos.\n\nNo mundo atual, esta vantagem muitas vezes transforma-se em potencial **desvantagem**.",
+            "buttonText": "Diz-me mais"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1b43cb00-3cdb-40f0-a544-694b6c084e98",
+            "content": "Os nossos pensamentos **negativos** muitas vezes são como uma música a tocar **em loop** na nossa cabeça. Estes pensamentos recorrentes **influenciam** o nosso **comportamento** e **impedem-nos** muitas vezes de agir da forma que realmente gostaríamos.\n\nAlém disso, muitas vezes **interpretamos** os nossos **pensamentos** como se fossem **reais**. Por exemplo,  **pensar** \"*Não sou suficiente bom*\" pode levar-nos a **acreditar** que realmente **não somos bons o suficiente.** \n\nMas existem formas de **lidar** com estes pensamentos recorrentes negativos.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "video",
+            "id": "cc5259a4-09cd-492b-8a04-82ba7ee3b7c8",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1642093286/29k%20FJN/Exerc%C3%ADcios/Videos/20220114_Sticky_Thoughts_tyjpmd.mov",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640021346/29k%20FJN/Courses/Deepening%20Relationships/Thumbnails%209:16/DEEPENINGRELATIONSHIPS_COURSECOVER_iog0mk.jpg",
+                "subtitleUri": ""
+              }
+            ],
+            "buttonText": "Experimenta"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6474b83b-f3d7-4e64-9947-bba5ac8d4b5c",
+            "content": "1. Escreve **1-3** dos teus **pensamentos recorrentes**.",
+            "title": "Exercício",
+            "buttonText": "Terminei",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1636016815/Singles/sticky_eng_ps00eg.png"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "703c6e68-1595-4c33-8493-4b366d1b0b36",
+            "content": "2. Agora, vamos **“brincar”** com os teus pensamentos. **Lê-os** com **vozes** e **entoações diferentes** como por exemplo:\n\n* **Canta**, **grita** ou **sussurra-os**.\n* Di-los com uma voz  **engraçada**.\n* Lê-os numa tonalidade **alta** ou **baixa**.",
+            "buttonText": "Terminei"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "036d06cc-752e-40ea-b1fd-b75b9dcebec1",
+            "question": "O que aconteceu aos teus pensamentos recorrentes neste exercício?",
+            "exampleText": "Agora levo os meus pensamentos pegajosos menos a sério. ",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "34c2826e-e1b1-47c4-b7d3-0907b8bcc326",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "",
+            "content": "Parabéns por experimentares esta nova forma de **te relacionares** com os teus **pensamentos** .\n\nLembra-te, os pensamentos são apenas **palavras**. Não são inerentemente verdadeiros - somos nós que lhes atribuímos o seu significado permitindo assim que **impactem** o nosso **comportamento**.\n\nAo criarmos **distância** em relação aos  nossos pensamentos recorrentes, estamos a **dissolver** o seu **poder**, permitindo que as nossas **ações** estejam alinhadas com o que é **importante** para **nós** - **independentemente** do que esses **pensamentos** nos dizem.",
+            "buttonText": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

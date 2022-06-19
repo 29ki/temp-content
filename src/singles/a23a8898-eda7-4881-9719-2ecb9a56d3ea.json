@@ -1,0 +1,154 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "name": "STOP-skill",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919864/New_images/exercises%20png/stop-skill_qfwuj4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "type": "exercise",
+    "id": "a23a8898-eda7-4881-9719-2ecb9a56d3ea",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-a23a8898-eda7-4881-9719-2ecb9a56d3ea",
+        "name": "STOP-skill",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "6a76e6a7-f0b2-4688-9297-88b4bb543218",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "STOP-skill",
+            "content": "Much of human behaviour is **automatic** responses. That's one of the reasons we occasionally say and do things we later regret.\n\nSometimes we experience emotions that are so strong that we feel like we can't control them — we just *have* to act on them right away!\n\nIn this exercise you'll learn to\n\n* Take a step back\n* Become less impulsive\n* Choose how you want to act",
+            "buttonText": "Got it",
+            "infoItems": []
+          },
+          {
+            "type": "exercise",
+            "id": "484a8c1a-6e3d-408b-9d01-11ab743b58b0",
+            "refId": "88dd2a96-5117-4082-abad-778f41647df4",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f1ff710e-d111-4f53-801c-614ba6bc5629",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "Good job on completing this exercise",
+            "content": "You've now learnt the STOP-skill. By stopping, taking a step back, observing and proceeding mindfully you can now **choose your actions.** \n\nSTOP will help you be less impulsive. Instead, you can act in ways that are *important* to you.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919864/New_images/exercises%20png/stop-skill_qfwuj4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "type": "exercise",
+    "id": "a23a8898-eda7-4881-9719-2ecb9a56d3ea",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-a23a8898-eda7-4881-9719-2ecb9a56d3ea",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "1a2381b3-1e5c-458e-8620-4a322e92a125",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6a76e6a7-f0b2-4688-9297-88b4bb543218",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f1ff710e-d111-4f53-801c-614ba6bc5629",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1629457025/Badges/you_re_done_jnypdv.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919864/New_images/exercises%20png/stop-skill_qfwuj4.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 5
+    },
+    "type": "exercise",
+    "id": "a23a8898-eda7-4881-9719-2ecb9a56d3ea",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-a23a8898-eda7-4881-9719-2ecb9a56d3ea",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "1a2381b3-1e5c-458e-8620-4a322e92a125",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "6a76e6a7-f0b2-4688-9297-88b4bb543218",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "f1ff710e-d111-4f53-801c-614ba6bc5629",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1629457025/Badges/you_re_done_jnypdv.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

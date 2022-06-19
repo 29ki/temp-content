@@ -1,0 +1,116 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "What's alive in you today?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/whats_alive_in_you_today_bgsbaq.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "9d2c5576-f7a3-4cc6-95b7-4d73ac6345e6",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-9d2c5576-f7a3-4cc6-95b7-4d73ac6345e6",
+        "name": "What's alive in you today?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "previewSharings": false,
+            "enableEarlySkip": false,
+            "id": "23c346ab-081e-4d3e-a1ed-6c0a4a63baa0",
+            "question": "What's alive in you today?",
+            "exampleText": "I feel grateful for the people around me",
+            "buttonText": "I'm done"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "Vad är levande i dig idag?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/whats_alive_in_you_today_bgsbaq.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "9d2c5576-f7a3-4cc6-95b7-4d73ac6345e6",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-9d2c5576-f7a3-4cc6-95b7-4d73ac6345e6",
+        "name": "Vad är levande i dig idag?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "previewSharings": false,
+            "enableEarlySkip": false,
+            "id": "23c346ab-081e-4d3e-a1ed-6c0a4a63baa0",
+            "question": "Vad är levande i dig idag?",
+            "exampleText": "Jag är tacksam för människorna runt omkring mig.",
+            "buttonText": "Jag är klar"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "name": "O que estás a sentir hoje?",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/whats_alive_in_you_today_bgsbaq.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 1
+    },
+    "type": "checkin",
+    "id": "9d2c5576-f7a3-4cc6-95b7-4d73ac6345e6",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-9d2c5576-f7a3-4cc6-95b7-4d73ac6345e6",
+        "name": "O que estás a sentir hoje?",
+        "type": "station",
+        "sections": [
+          {
+            "type": "sharingExercise",
+            "previewSharings": false,
+            "enableEarlySkip": false,
+            "id": "23c346ab-081e-4d3e-a1ed-6c0a4a63baa0",
+            "question": "O que estás a sentir hoje?",
+            "exampleText": "Sinto-me agradecida/o pelas pessoas que me rodeiam",
+            "buttonText": "Terminei"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "en": {
+    "id": "6603c7a8-faf2-44dd-8b4f-1248b9dd4df1",
+    "alias": "SC-test sharing wall",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "ac50fc28-b1de-4fe8-b977-c5bea5efb7c3",
+        "alias": "Self-compassion test sharing wall",
+        "question": "How did doing this test affect you? Anything you'd like to change?",
+        "exampleText": "Was pretty hard, did not know I am so hard on myself. Would like to be kinder."
+      }
+    ],
+    "root": "ac50fc28-b1de-4fe8-b977-c5bea5efb7c3"
+  },
+  "sv": {
+    "id": "6603c7a8-faf2-44dd-8b4f-1248b9dd4df1",
+    "alias": "SC-test sharing wall",
+    "root": "ac50fc28-b1de-4fe8-b977-c5bea5efb7c3",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "ac50fc28-b1de-4fe8-b977-c5bea5efb7c3",
+        "alias": "Self-compassion test sharing wall",
+        "question": "Hur påverkade det dig att göra det här testet? Något du skulle vilja ändra på framöver?",
+        "exampleText": "Det var svårare än jag trodde. Visste inte att jag är så hård mot mig själv. Vill bli snällare. "
+      }
+    ]
+  },
+  "pt": {
+    "id": "6603c7a8-faf2-44dd-8b4f-1248b9dd4df1",
+    "alias": "SC-test sharing wall"
+  }
+}

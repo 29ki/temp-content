@@ -1,0 +1,218 @@
+{
+  "en": {
+    "id": "527a2664-b1ab-4800-b708-d0f43ce8d4c7",
+    "alias": "Leadership-purposeanddirection-4",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "13247f7f-0d10-48c4-92fc-28e1bda1cf24",
+        "shortDescription": "Let's start by identifying the purpose of your organization or group",
+        "longDescription": "* Write down a short statement that reflects this. \n* Hint: consider **who** and **what** you want your organization to have an impact on, and **what** you want to **provide.**",
+        "question": "",
+        "title": "What is the purpose of your organization or group?",
+        "alias": "Intro to exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "efa947f1-7bbe-4002-a0ed-8dc5f87aff27"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "efa947f1-7bbe-4002-a0ed-8dc5f87aff27",
+        "alias": "What key goals or objectives do you hope to achieve?",
+        "title": "What key goals or objectives do you hope to achieve?",
+        "question": "",
+        "longDescription": "* What would achieving them mean for you and the organization?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "9459b39e-bed0-40e3-95e1-34e375868d53"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "9459b39e-bed0-40e3-95e1-34e375868d53",
+        "alias": "Possible futures",
+        "title": "",
+        "longDescription": "* Now bring to mind the possible **positive and negative futures** you saw in the scenario planning lesson and the possibilities they helped you see.\n* If it helps, you can repeat the scenario planning exercise by imagining a positive and negative future and the impact they would have.",
+        "shortDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "18ef591d-ddbf-420c-a8f4-55b8dbc94b92"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "18ef591d-ddbf-420c-a8f4-55b8dbc94b92",
+        "alias": "Time machine",
+        "question": "",
+        "longDescription": "Imagine you're aboard a time machine which brings you to a desired future where you witness your organization thriving. \n\n* Can you think of the **specific actions** taking place?\n* Can you describe how your colleagues are **working and interacting** with each other? \n\n*Write down your answers.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "ca58a4f6-1a94-4551-bc43-1296391517de"
+          }
+        ],
+        "title": "Time machine"
+      },
+      {
+        "type": "video",
+        "id": "ca58a4f6-1a94-4551-bc43-1296391517de",
+        "alias": "Frank's video",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "21b2f0b1-8e73-4130-9487-ad87b5e430e8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1634205435/Leadership/frank_lesson7_jbvwtm.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575206/Leadership/Subtitles/lesson7_video1_eng_oavbzr.vtt"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "21b2f0b1-8e73-4130-9487-ad87b5e430e8",
+        "longDescription": "* Drawing upon all the insights you've gained thus far, write down a direction statement that captures a direction worth moving towards for your organization.\n* Once you've written down the direction statement, go back to your organization's purpose. \n* Take a moment to reflect on how they fit together and if there is anything else you wish to tweak to make them better aligned.",
+        "shortDescription": "",
+        "title": "Bring it all together",
+        "alias": "Bring it all together",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4",
+            "sectionId": "root",
+            "content": "Let's bring it alive!"
+          }
+        ]
+      }
+    ],
+    "root": "13247f7f-0d10-48c4-92fc-28e1bda1cf24"
+  },
+  "sv": {
+    "id": "527a2664-b1ab-4800-b708-d0f43ce8d4c7",
+    "alias": "Leadership-purposeanddirection-4"
+  },
+  "pt": {
+    "id": "527a2664-b1ab-4800-b708-d0f43ce8d4c7",
+    "alias": "Leadership-purposeanddirection-4",
+    "root": "13247f7f-0d10-48c4-92fc-28e1bda1cf24",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "13247f7f-0d10-48c4-92fc-28e1bda1cf24",
+        "shortDescription": "Vamos começar por identificar o propósito da tua organização ou grupo",
+        "longDescription": "* Escreve um breve texto que reflita isso\n* Dica: tem em mente ‘o **quem**’ e ‘o **quê**’ em que pretendes que a tua organização tenha um impacto, bem como **o que** queres **fornecer**.",
+        "question": "",
+        "title": "Qual é o objetivo da tua organização ou grupo?",
+        "alias": "Intro to exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei",
+            "sectionId": "efa947f1-7bbe-4002-a0ed-8dc5f87aff27"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "efa947f1-7bbe-4002-a0ed-8dc5f87aff27",
+        "alias": "What key goals or objectives do you hope to achieve?",
+        "title": "Que objetivos principais esperas alcançar?",
+        "question": "",
+        "longDescription": "*  O que é que alcançá-los significaria para ti e para a organização?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "9459b39e-bed0-40e3-95e1-34e375868d53"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "9459b39e-bed0-40e3-95e1-34e375868d53",
+        "alias": "Possible futures",
+        "title": "",
+        "longDescription": "* Agora, lembra-te dos possíveis **futuros positivos e negativos** que viste na lição de planeamento de cenários e as possibilidades que eles te ajudaram a ver.\n* Se te ajudar, podes repetir o exercício de planeamento de cenários imaginando um futuro positivo e negativo analisando o impacto que eles teriam.",
+        "shortDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "18ef591d-ddbf-420c-a8f4-55b8dbc94b92"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "18ef591d-ddbf-420c-a8f4-55b8dbc94b92",
+        "alias": "Time machine",
+        "question": "",
+        "longDescription": "Imagina que estás a bordo de uma máquina do tempo que te leva a um futuro desejado, onde assistes ao sucesso da tua organização.\n\n* Consegues pensar nas **ações específicas** que estão a decorrer?\n* Podes descrever como os teus colegas estão a **trabalhar e interagir** uns com os outros?\n\n*Escreve as tuas respostas.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "ca58a4f6-1a94-4551-bc43-1296391517de"
+          }
+        ],
+        "title": "Máquina do tempo "
+      },
+      {
+        "type": "video",
+        "id": "ca58a4f6-1a94-4551-bc43-1296391517de",
+        "alias": "AHO video",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei ",
+            "sectionId": "21b2f0b1-8e73-4130-9487-ad87b5e430e8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179048/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_7._Foco_laser_no_teu_prop%C3%B3sito_e_direc%C3%A7%C3%A3o_-_video_1_fexbck.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179155/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L7V1_piulpa.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "21b2f0b1-8e73-4130-9487-ad87b5e430e8",
+        "longDescription": "* Com base em todos os *insights* que obtiveste até agora, escreve uma definição de direção que trace um caminho no qual vale a pena a tua organização seguir.\n* Assim que tenhas escrito a definição de direção, volta ao propósito da tua organização.\n* Tira um momento para refletir sobre como eles se encaixam e se há mais alguma coisa que queiras ajustar para torná-los mais alinhados.",
+        "shortDescription": "",
+        "title": "Juntar tudo ",
+        "alias": "Bring it all together",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "1f8742dd-fd0d-47f8-a755-b55d9a4f5ad4",
+            "sectionId": "root",
+            "content": "Vamos torná-la realidade!"
+          }
+        ]
+      }
+    ]
+  }
+}

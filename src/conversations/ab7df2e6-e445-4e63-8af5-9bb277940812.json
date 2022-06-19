@@ -1,0 +1,229 @@
+{
+  "en": {
+    "id": "ab7df2e6-e445-4e63-8af5-9bb277940812",
+    "alias": "Acting with purpose 2: Actions I am proud of 3",
+    "root": "212126b6-c564-432c-88d7-a0d662425f6c",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "previewSharings": true,
+        "enableEarlySkip": true,
+        "id": "212126b6-c564-432c-88d7-a0d662425f6c",
+        "alias": "Section 1",
+        "question": "What challenges, if any, do you foresee when it comes to acting on what's important to you? ",
+        "exampleText": "Fear of failing. ",
+        "nextSection": "d7cfb337-e5c4-4249-81c9-f5c0a562a7cf"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d7cfb337-e5c4-4249-81c9-f5c0a562a7cf",
+        "alias": "Section 2",
+        "title": "Summary",
+        "content": "Well done on completing **Actions I'm proud of**.\n\nIn every situation we face, we can ask ourselves: If I do this, is it because it's **important** to me personally? It's easy to become **disconnected** from our values, and comparing the **thoughts** and **feelings** that arise when we don't act on our values versus when we do can help us live a value-based life.\n\nRemember that you only have **control** over **your** own **behavior**, not others'. If it doesn't end the way you want it to this time, you've still done what you can to make a **meaningful** decision and you can be **proud** of that.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "What's next",
+            "sectionId": "3cd47c9d-5880-4696-8361-4546f5307ee1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3cd47c9d-5880-4696-8361-4546f5307ee1",
+        "alias": "Section 3",
+        "content": "You are now ready for the next important step — sharing with your group.\n\nRemember the questions:\n\n1. In the choice you're currently facing, if you were to act on how you feel you should be or what is expected of you, what would that look like?\n2. If you were to act from what matters to you, what would that look like?\n3. What differences are there between these two lines of action?\n4. What challenges, if any, do you foresee when it comes to acting on what's important to you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "ab7df2e6-e445-4e63-8af5-9bb277940812",
+    "alias": "Acting with purpose 2: Actions I am proud of 3",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "writing",
+        "longDescription": "Tänk på din dag hittills. Var på skalan nedan placerar du dig själv just nu?\n\nIdag har jag agerat som jag tror att jag borde\n\n1. ...\n2. ...\n3. ...\n4. ...\n5. ...\n6. Idag har jag handlat för det som verkligen betydde mig\n\nDe flesta av oss befinner oss vid olika punkter i ovanstående skala i olika situationer i livet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section9"
+          }
+        ],
+        "alias": "section8"
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Ditt val",
+        "longDescription": "Nu kan du ställa in det aktuella valet du står inför.\n\nVad är det?\n\nHur känner du för det?\n\nSkriv ner ditt svar på ett papper.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Om du agerar som förväntat",
+        "longDescription": "Om du skulle agera på hur du känner att du borde vara eller vad som förväntas av dig i den här situationen du befinner dig i, hur skulle det se ut? Vad skulle du göra? Hur skulle det få dig att känna dig?\n\nSkriv ner ditt svar på ett papper.\n\n\\\n.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "title": "Om du agerar från hjärtat",
+        "longDescription": "Om du skulle agera utifrån det som är viktigt för dig i det här valet du står inför idag, hur skulle det se ut? Vad skulle du göra? Hur skulle det få dig att känna dig?\n\nSkriv ner ditt svar på ett papper.\n\n\\\n.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "writing",
+        "title": "Jämför möjliga åtgärder",
+        "longDescription": "Vilka skillnader finns det mellan dessa två handlingslinjer i detta val du står inför?\n\nSkriv ner ditt svar på ett papper.\n\nHåll i dina anteckningar så kommer du att erbjudas att dela dem inom kort.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section13"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "video",
+        "description": "Jan Eliasson om ett aktuellt val han står inför.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "770056c9-7557-414b-8442-b2eeb0c59f83",
+            "content": "Fortsätt"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson2_exercise2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/71e1f6ac-dbff-4113-9abb-0eab77c0bd9b/lesson2_exercise2.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "ab7df2e6-e445-4e63-8af5-9bb277940812",
+    "alias": "Acting with purpose 2: Actions I am proud of 3",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "A tua escolha",
+        "longDescription": "Agora, pensa na escolha que tens de enfrentar.\n\nQual é?\n\nO que sentes acerca dela?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Se agires como é esperado",
+        "longDescription": "Como seria se agisses de acordo com o que achas que deverias ser ou com o que é esperado de ti na situação em que estás? O que farias? Como te sentirias?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Se agires com o coração",
+        "longDescription": "Como seria se agisses de acordo com o que é importante para ti na escolha que enfrentas hoje? O que farias? Como te sentirias?\n\nEscreve a tua resposta numa folha de papel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "writing",
+        "title": "Compara linhas de ação",
+        "longDescription": "Quais são as diferenças entre estas duas linhas de ação na escolha que estás a fazer?\n\nEscreve a tua resposta numa folha de papel.\n\nGuarda as tuas notas, vais poder partilhá-las daqui a pouco.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "video",
+        "title": "Escolhas",
+        "description": "\"Isso de agradar às outras pessoas não existe para mim. Agradar para mim é agradar aquilo que é o meu contexto empresarial e às pessoas que colaboram connosco.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section13"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621944075/29k%20FJN/Courses/Value%20Based%20Action/Photos/L2P13Actionsyouareproud_ijaire.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622033578/29k%20FJN/Courses/Value%20Based%20Action/Videos/L2_Value-based_action_V3_rrs788.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section13",
+        "type": "editorialWithImage",
+        "title": "Agir e avaliar",
+        "content": "Ao enfrentares esta escolha, o caminho a seguir pode não ser logo evidente. Às vezes, evitar escolher pode ser inteligente. Por vezes, valores diferentes podem puxar as tuas ações em direções opostas. A única forma de encontrar qual é o caminho a seguir é experimentar estas ações na vida real. Sugerimos-te fazer isso e depois refletir sobre o resultado.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "770056c9-7557-414b-8442-b2eeb0c59f83",
+            "content": "Fortsätt"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "en": {
+    "id": "stress-test",
+    "alias": "Stress test",
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795938/New_images/test/1024x1024/stress_uxbzs9.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# How stressed are you?"
+              },
+              {
+                "component": "Text",
+                "content": "Sometimes things pile up in life, and stress may make us feel overwhelmed or that we are no longer in the driver's seat of our own life. \n\nThis test will help you see where you're at right now when it comes to stress and it helps detect potential symptoms, but is not diagnostic."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start test",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "threshold",
+            "calcType": "sum",
+            "hideSubScores": true,
+            "saveScore": true,
+            "options": [
+              {
+                "label": "Never",
+                "score": 0
+              },
+              {
+                "label": "Almost never",
+                "score": 1
+              },
+              {
+                "label": "Sometimes",
+                "score": 2
+              },
+              {
+                "label": "Fairly often",
+                "score": 3
+              },
+              {
+                "label": "Very often",
+                "score": 4
+              }
+            ],
+            "questions": [
+              {
+                "question": "In the last month, how often have you been upset because of something that happened unexpectedly?"
+              },
+              {
+                "question": "How often have you felt that you were unable to control the important things in your life? "
+              },
+              { "question": "How often have you felt nervous and “stressed”?" },
+              {
+                "question": "How often have you felt confident about your ability to handle your personal problems?"
+              },
+              {
+                "question": "How often have you felt that things were going your way?"
+              },
+              {
+                "question": "How often have you found that you could not cope with all the things that you had to do?"
+              },
+              {
+                "question": "How often have you been able to control irritations in your life?"
+              },
+              {
+                "question": "How often have you felt that you were on top of things?"
+              },
+              {
+                "question": "How often have you been angered because of things that were outside of your control?"
+              },
+              {
+                "question": "How often have you felt difficulties were piling up so high that you could not overcome them?"
+              }
+            ],
+            "groups": {
+              "stress": {
+                "label": "stress",
+                "description": "",
+                "questions": [0, 1, 2, 5, 8, 9],
+                "hidden": true,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 0,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 20,
+                    "label": "High"
+                  },
+                  {
+                    "score": 27,
+                    "label": "Very high"
+                  }
+                ]
+              },
+              "inverted": {
+                "label": "inverted",
+                "description": "",
+                "questions": [3, 4, 6, 7],
+                "hidden": true,
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 0,
+                    "label": "Low"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Moderate"
+                  },
+                  {
+                    "score": 20,
+                    "label": "High"
+                  },
+                  {
+                    "score": 27,
+                    "label": "Very high"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 0,
+                "label": "Low",
+                "description": "Your scores indicates that your stress level is low. Our interpretation is that you currently have a good balance between stress and recovery.\n\nRemember that you're the expert on yourself and your experiences. If you find that there are things in your life that are problematic or that are stressing you out, it may be a good idea to think about what you'd like to change and add some new strategies to your toolbox."
+              },
+              {
+                "score": 14,
+                "label": "Moderate",
+                "description": "Your score indicates that you sometimes feel stressed, and that stress leads to some negative consequences in your life. Experiencing stress is normal and a part of life.\n\nRight now you seem to be in a situation where stress is causing some imbalance in your life. It's common to feel like we don't really have control over our situation. We can also find it difficult to recover and live life the way we really would want to.\n\nIt may be a good idea to increase your knowledge and your toolbox to better manage the stress in your life."
+              },
+              {
+                "score": 20,
+                "label": "High",
+                "description": "Your score indicates that you regularly feel stressed in several areas in your life. Your stress level may lead to negative consequences.\n\nExperiencing stress is part of life. But experiencing high stress for a long time without getting the chance to recover is not good for us. You may feel that you don’t have control over some things in your life, and that you can’t handle the demands that others or yourself have on you.\n\nRemember that you're the expert on your life. The important thing is your own thoughts and feelings about where you're at in life right now. If you feel it would be helpful to make a change to your current situation, one suggestion is that you increase your knowledge about stress and expand your toolbox to manage stressful situations. If your situation persists you might want to consider seeking professional help ."
+              },
+              {
+                "score": 27,
+                "label": "Very high",
+                "description": "Your score indicates that you often feel stressed in most areas in your life. Your stress level seems high and may lead to negative consequences.\n\nExperiencing stress is part of life. But experiencing high stress for a long time without getting the chance to recover is not good for us. You may feel that you don’t have control over a lot of things in your life, and that you can’t handle the demands that others or yourself have on you.\n\nRemember that you're the expert on your life. The important thing is your own thoughts and feelings about where you're at in life right now. However, your score suggests you are in a situation where you need to take action to meet the challenges in your life right now. It might be helpful to increase your knowledge about stress and expand your toolbox to manage stressful situations. You might be in a place where you feel you cannot manage on your own, if so, we recommend you seek professional help."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "21aa8b9c-f17a-41e7-b324-4c00f82cb66a"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "21aa8b9c-f17a-41e7-b324-4c00f82cb66a",
+        "alias": "Stress test sharing wall",
+        "question": "What thoughts and feelings showed up when you got your result?",
+        "exampleText": "Shame, anxiety and also the urge to do something. Can’t go on like this."
+      }
+    ]
+  },
+  "sv": {
+    "id": "stress-test",
+    "alias": "Stress test",
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795938/New_images/test/1024x1024/stress_uxbzs9.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Hur stressad är du?"
+              },
+              {
+                "component": "Text",
+                "content": "Hur **stressade** vi är går **upp och ner** i perioder, men ibland blir det bara **för** **mycket**. Och då kan stress få oss att känna oss **maktlösa** eller **hopplösa**\n\nDet här testet hjälper dig att **förstå mer** om hur du har det med dina **stressnivåer** just nu och hjälper till att upptäcka potentiella symptom, men är inte diagnostiskt."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Starta testet",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "threshold",
+            "calcType": "sum",
+            "hideSubScores": true,
+            "saveScore": true,
+            "options": [
+              {
+                "label": "Nästan aldrig",
+                "score": 0
+              },
+              {
+                "label": "Ibland",
+                "score": 1
+              },
+              {
+                "label": "Ungefär hälften av tiden",
+                "score": 2
+              },
+              {
+                "label": "Ganska ofta",
+                "score": 3
+              },
+              {
+                "label": "Nästan alltid",
+                "score": 4
+              }
+            ],
+            "questions": [
+              {
+                "question": "Hur ofta har du under den senaste månaden blivit upprörd över något som skett helt oväntat?"
+              },
+              {
+                "question": "Hur ofta har du känt att du inte haft kontroll över de viktiga faktorerna i ditt liv? "
+              },
+              { "question": "Hur ofta har du känt dig nervös och stressad?" },
+              {
+                "question": "Hur ofta har du känt dig säker på din förmåga att hantera dina personliga problem?"
+              },
+              {
+                "question": "Hur ofta har du tyckt att saker och ting utvecklat sig så som du velat?"
+              },
+              {
+                "question": "Hur ofta har du känt att du inte kunde hantera allt som måste göras?"
+              },
+              {
+                "question": "Hur ofta har du känt att du haft kontroll över irriterande händelser i ditt liv?"
+              },
+              {
+                "question": "Hur ofta har du känt att du haft kontroll över saker och ting?"
+              },
+              {
+                "question": "Hur ofta har du blivit arg över saker som hänt och som låg utanför din kontroll?"
+              },
+              {
+                "question": "Hur ofta har du känt att problemen blivit så många att du inte kunnat bemästra dem?"
+              }
+            ],
+            "groups": {
+              "stress": {
+                "label": "stress",
+                "description": "",
+                "questions": [0, 1, 2, 5, 8, 9],
+                "hidden": true,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 0,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 20,
+                    "label": "Hög"
+                  },
+                  {
+                    "score": 27,
+                    "label": "Mycket hög"
+                  }
+                ]
+              },
+              "inverted": {
+                "label": "inverted",
+                "description": "",
+                "questions": [3, 4, 6, 7],
+                "hidden": true,
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 0,
+                    "label": "Låg"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Mellan"
+                  },
+                  {
+                    "score": 20,
+                    "label": "Hög"
+                  },
+                  {
+                    "score": 27,
+                    "label": "Mycket hög"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 0,
+                "label": "Låg",
+                "description": "Din poäng på testet pekar på att din stressnivå är låg. Vår tolkning är att du just nu har en bra balans mellan stress och återhämtning.\n\n Kom ihåg att du är expert på dig själv och det du upplever. Om du tycker att det finns saker i ditt liv som är problematiska eller som stressar dig, kan det vara en bra idé att fundera igenom vad du skulle vilja ändra på."
+              },
+              {
+                "score": 14,
+                "label": "Mellan",
+                "description": "Din poäng talar för att du ofta känner dig stressad, och att stressen leder till vissa negativa konsekvenser i ditt liv. Att uppleva stress är normalt och en del av livet.\n\nJust nu verkar du befinna dig i en situation där stressen orsakar obalans i ditt liv. Då är det vanligt att känna att vi inte riktigt har kontroll över vår situation. Vi kan även få svårt att återhämta oss och leva livet så som vi egentligen vill.\n\nDet kan vara en bra idé att öka din kunskap och din verktygslåda för att bättre kunna hantera stressen i ditt liv."
+              },
+              {
+                "score": 20,
+                "label": "Hög",
+                "description": "Din poäng talar för att du återkommande känner dig stressad inom flera områden i livet. Din stressnivå kan få eller kanske redan har fått vissa negativa konsekvenser i ditt liv.\n\nAtt uppleva stress är normalt och en del av livet. Men hög stress utan återhämtning under en längre tid är inte bra för oss. Du upplever kanske att du inte har kontroll över flera saker i ditt liv och att du inte hinner med kraven som andra och du själv ställer på dig.\n\nOm vi utgår från poängen på stresstestet så verkar det vara en bra idé att göra någonting annorlunda för att hantera din situation — till exempel öka din kunskap om stress och utöka din verktygslåda för att hantera det som pågår i ditt liv just nu."
+              },
+              {
+                "score": 27,
+                "label": "Mycket hög",
+                "description": "Din poäng talar för att du ofta känner dig stressad inom många områden i livet. Din stressnivå verkar just nu vara hög och kanske har det redan fått negativa konsekvenser i ditt liv.\n\nAtt känna sig stressad ibland är normalt och en del av livet. Men hög stress utan återhämtning under en längre tid är inte bra för oss. Om du har haft det så här under en längre tid kanske du känner att du har förlorat kontrollen över vad som pågår i ditt liv och att du inte hinner med de krav som andra och du själv ställer på dig.\n\nDu kanske är i en situation där du faktiskt behöver göra någonting annorlunda för att hantera de påfrestningar du möter. Att öka din kunskap och utöka din verktygslåda för att hantera stress är ett sätt. Och om du märker att du har svårt att hantera situationen rekommenderar vi att du söker professionell hjälp."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "21aa8b9c-f17a-41e7-b324-4c00f82cb66a"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "21aa8b9c-f17a-41e7-b324-4c00f82cb66a",
+        "alias": "Stress test sharing wall",
+        "question": "Vilka tankar och känslor dök upp i dig när du såg ditt resultat?",
+        "exampleText": "Jag skäms. Hur hamnade jag här? Fick ångest och känner att jag inte kan fortsätta så här."
+      }
+    ]
+  },
+  "pt": {
+    "id": "stress-test",
+    "alias": "Stress test",
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795938/New_images/test/1024x1024/stress_uxbzs9.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Qual é o teu nível de stress?"
+              },
+              {
+                "component": "Text",
+                "content": "Por vezes nas nossas vidas, as coisas acumulam-se e o stress pode fazer-nos sentir sobrecarregadas/os ou que deixamos de estar no comando de nossa própria vida. \n\nEste teste vai ajudar-te a ver onde estás neste momento relativamente ao teu nível de stress e ajuda a detetar potenciais sintomas, mas não é um diagnóstico."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Iniciar teste",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "Questionnaire",
+            "scoreCategoryMethod": "threshold",
+            "calcType": "sum",
+            "hideSubScores": true,
+            "saveScore": true,
+            "options": [
+              {
+                "label": "Nunca",
+                "score": 0
+              },
+              {
+                "label": "Quase nunca",
+                "score": 1
+              },
+              {
+                "label": "Por vezes",
+                "score": 2
+              },
+              {
+                "label": "Frequentemente",
+                "score": 3
+              },
+              {
+                "label": "Quase sempre",
+                "score": 4
+              }
+            ],
+            "questions": [
+              {
+                "question": "No último mês, quantas vezes ficaste incomodada/o por alguma coisa que aconteceu inesperadamente?"
+              },
+              {
+                "question": "Quantas vezes sentiste que não conseguias controlar as coisas importantes da tua vida?"
+              },
+              {
+                "question": "Quantas vezes te sentiste nervosa/o e stressada/o?"
+              },
+              {
+                "question": "Quantas vezes sentiste confiança na tua capacidade de lidar com os teus problemas pessoais?"
+              },
+              {
+                "question": "Quantas vezes sentiste que as coisas estavam a correr de acordo com as tuas expectativas?"
+              },
+              {
+                "question": "Quantas vezes sentiste que não conseguias lidar com todas as coisas que tinhas de fazer?"
+              },
+              {
+                "question": "Com que frequência conseguiste controlar as coisas que trazem irritabilidade à tua vida?"
+              },
+              {
+                "question": "Quantas vezes sentiste que estavas no controlo das coisas importantes na tua vida?"
+              },
+              {
+                "question": "Quantas vezes ficaste zangada/o com coisas que estavam fora do teu controlo?"
+              },
+              {
+                "question": "Quantas vezes sentiste que as dificuldades se estavam a acumular a um nível que não conseguias superá-las?"
+              }
+            ],
+            "groups": {
+              "stress": {
+                "label": "stress",
+                "description": "",
+                "questions": [0, 1, 2, 5, 8, 9],
+                "hidden": true,
+                "invertedScoring": false,
+                "scores": [
+                  {
+                    "score": 0,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 20,
+                    "label": "Alto"
+                  },
+                  {
+                    "score": 27,
+                    "label": "Muito Alto"
+                  }
+                ]
+              },
+              "inverted": {
+                "label": "inverted",
+                "description": "",
+                "questions": [3, 4, 6, 7],
+                "hidden": true,
+                "invertedScoring": true,
+                "scores": [
+                  {
+                    "score": 0,
+                    "label": "Baixo"
+                  },
+                  {
+                    "score": 14,
+                    "label": "Moderado"
+                  },
+                  {
+                    "score": 20,
+                    "label": "Alto"
+                  },
+                  {
+                    "score": 27,
+                    "label": "Muito Alto"
+                  }
+                ]
+              }
+            },
+            "scores": [
+              {
+                "score": 0,
+                "label": "Baixo",
+                "description": "Completaste o teste. O teu resultado foram X pontos.A tua pontuação indica que o teu nível de stress é baixo. A nossa interpretação é que neste momento consegues estabelecer um bom equilíbrio entre o stress e a recuperação. Se achares que há coisas na tua vida que são problemáticas ou que te estão a stressar pode ser uma boa ideia pensares acerca do que podes mudar e adicionar algumas novas estratégias às tuas ferramentas para lidar com o stress. Lembra-te de que és a pessoa quemelhor te conhece e às tuas experiências também."
+              },
+              {
+                "score": 14,
+                "label": "Moderado",
+                "description": "Completaste o teste. O teu resultado foram X pontos.A tua pontuação indica que por vezes te sentes stressada/o e que esse stress pode ter implicações negativas na tua vida. No entanto, vivenciar o stress é normal e faz parte da vida.Pareces estar numa situação em que o stress está a causar algum desequilíbrio na tua vida. É comum sentirmos que não temos controle sobre determinadas situações. Podemos também ter dificuldade para recuperarmos e vivermos a vida da maneira que realmente gostaríamos.Pode ser uma boa ideia aumentares o teu conhecimento e as tuas ferramentas para gerires melhor o stress na tua vida."
+              },
+              {
+                "score": 20,
+                "label": "Alto",
+                "description": "Completaste o teste. O teu resultado foram X pontos. A tua pontuação indica que costumas sentir-te stressada/o em vários domínios da tua vida. O teu nível de stress pode ter consequências negativas. Apesar de viver em stress fazer parte da vida, não é bom passar por stress elevado durante um longo período, sem ter a oportunidade de recuperar. Podes achar que não tens controlo sobre algumas coisasna tua vida e que não consegues lidar com as exigências que os outros (ou até tu mesma/o) colocam sobre ti. Lembra-te de que és a pessoa que melhor te conhece e às tuas experiências também. O importante são os teus próprios pensamentos e sentimentos relativamente à tua situação de vida neste momento. Se achares que é importante alterares algumas coisas na tua situação atual pode ser uma boa ideia pensares acerca do que podes mudar e adicionar algumas novas estratégias às tuas ferramentas para lidar com o stress. Se a situação persistir pode ser necessário procurar ajuda profissional."
+              },
+              {
+                "score": 27,
+                "label": "Muito Alto",
+                "description": "Completaste o teste. O teu resultado foram X pontos.A tua pontuação indica que costumas sentir-te stressada/o na maioria dos domínios da tua vida. Este nível de stress pode ter consequências negativas. Apesar de viver em stress fazer parte da vida, não é bom passar por stress elevado durante um longo período, sem ter a oportunidade de recuperar. Podes achar que não tens controlo sobre algumas coisas na tua vida e que não consegues lidar com as exigências que os outros (ou até tu mesma/o) colocam sobre ti. Lembra-te de que és a pessoa que melhor te conhece e às tuas experiências também. O importante são os teus próprios pensamentos e sentimentos relativamente à tua situação de vida neste momento. No entanto, o teu resultado indica que tens de tomar ações imediatas para enfrentares os desafios atuais da tua vida. Pode ser útil pensares acerca do que podes mudar e estudar e aprender algumas novas estratégias para lidar com o stress. Se a situação persistir e sentires que não consegues lidar com ela sozinha/o recomendamos que procures ajuda profissional logo que possível."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "21aa8b9c-f17a-41e7-b324-4c00f82cb66a"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "21aa8b9c-f17a-41e7-b324-4c00f82cb66a",
+        "alias": "Stress test sharing wall",
+        "question": "Que pensamentos e sentimentos te surgiram quando viste o resultado?",
+        "exampleText": "Vergonha, ansiedade e também a vontade de fazer alguma coisa. Não posso continuar assim."
+      }
+    ]
+  }
+}

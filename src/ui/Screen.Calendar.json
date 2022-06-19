@@ -1,0 +1,23 @@
+{
+  "en": {
+    "screenTitle": "Calendar",
+    "cta": {
+      "done": "Done",
+      "clear": "Remove sharing date"
+    }
+  },
+  "sv": {
+    "screenTitle": "Kalender",
+    "cta": {
+      "done": "Klar",
+      "clear": "Ta bort datum"
+    }
+  },
+  "pt": {
+    "screenTitle": "Calendário",
+    "cta": {
+      "done": "Continuar",
+      "clear": "Remover data da partilha"
+    }
+  }
+}

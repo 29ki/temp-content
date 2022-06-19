@@ -1,0 +1,400 @@
+{
+  "en": {
+    "id": "WrWJbciTqfsmMpqznL5hv4-3",
+    "alias": "Self compassion - Shame 3",
+    "type": "lesson",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "About exercise",
+        "topImageUri": "",
+        "title": "3 perspectives",
+        "content": "You're now invited to an exercise which explores **3 perspectives:** \n\n* The shamer\n* The shamed \n* The compassionate observer",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm ready",
+            "sectionId": "section5"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Note on exercise",
+            "description": "This is an exercise that can be intense and possibly overwhelming. If you’re feeling shaky, vulnerable, or on the verge of being overwhelmed, then the most self-compassionate thing you can do is to skip this exercise and take care of yourself (you can for example take a walk or have a cup of tea). Please remember that you can stop at any time or go to the safety toolkit: the badge symbol in the upper right corner."
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "The Shamer",
+        "title": "",
+        "question": "Start by embodying the shaming perspective.",
+        "longDescription": "From this harsh and judgemental perspective, write down what you usually say to yourself.\n\n* Write freely for five minutes. Give details and examples.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "ce34e1f1-d1d0-4bec-81e6-e4d747364976"
+          }
+        ],
+        "time": "15 min"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "ce34e1f1-d1d0-4bec-81e6-e4d747364976",
+        "longDescription": "> * *I feel ashamed of you when...*\n> * *You will never be able to…*\n> * *You’re not worthy of…*\n\nBefore you move on, read these messages aloud to yourself.",
+        "alias": "Part 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "eb426801-450b-4efd-8be9-330cc7e7c810"
+          }
+        ],
+        "question": "What does the shamer voice sound like?"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "eb426801-450b-4efd-8be9-330cc7e7c810",
+        "alias": "The Shamed",
+        "shortDescription": "You're doing great. Now, swap seats with the part of your that is being shamed.",
+        "longDescription": "#### How does hearing this make you feel?\n\n> * *When I hear you saying this I feel...*\n> * *If what you’re saying is true...*\n> * *What I want to do when I feel like this is...*\n\nBefore you move on to the next part, read this letter aloud to yourself.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "67423976-9aa9-4588-9761-2c021c58a0c6"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "67423976-9aa9-4588-9761-2c021c58a0c6",
+        "alias": "The compassionate one",
+        "shortDescription": "Now take the seat of the compassionate observer ",
+        "longDescription": "What do you want to say?\n\n> * *What I wish for you is…*\n> * *What I know you’re longing for is…*\n\nBefore you move on to the next part, read these messages aloud to yourself.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "a2fba10e-d2a5-40e7-b67e-ccb85b295a42"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "a2fba10e-d2a5-40e7-b67e-ccb85b295a42",
+        "alias": "Reflection",
+        "question": "Take a moment to reflect:",
+        "longDescription": "* Does your compassionate voice sound like someone you recognize?\n* What does the shamer really want? Is it possible it’s trying to help you?\n* What could you do to strengthen your compassionate voice?\n\n\n\nIf you want, you can continue writing the conversation between the three perspectives.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-4"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "WrWJbciTqfsmMpqznL5hv4-3",
+    "alias": "Self compassion - Shame 3",
+    "type": "lesson",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Om övningen",
+        "topImageUri": "",
+        "title": "Tre perspektiv ",
+        "content": "Du kommer att göra en övning som utforskar dig själv ifrån **tre olika perspektiv:** \n\n* Skambeläggaren\n* Den skamfulla \n* Den medkännande observatören",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Starta övningen",
+            "sectionId": "section5"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Tänk på",
+            "description": "Den här övningen kan vara intensiv och kanske jobbig. Om du känner dig svag, sårbar eller på väg att bli överväldigad är det mest självmedkännande du kan göra att hoppa över övningen och ta hand om dig (till exempel med en promenad eller en kopp te). Du kan avbryta när du vill eller gå till trygghetsfunktioner – symbolen i övre högra hörnet."
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "Skamperspektivet",
+        "title": "",
+        "question": "Börja med att ta skambeläggarens perspektiv",
+        "longDescription": "Ur detta hårda och dömande perspektiv skriver du ned vad du brukar säga till dig själv.\n\nSkriv fritt i fem minuter. Ge detaljer och exempel.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "ce34e1f1-d1d0-4bec-81e6-e4d747364976"
+          }
+        ],
+        "time": "15 min"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "ce34e1f1-d1d0-4bec-81e6-e4d747364976",
+        "longDescription": "Avsluta nu följande meningar\n\n> * Jag skäms mest över dig när...\n> * Du kommer aldrig att kunna ...\n> * Du är inte värd...\n\nInnan du går vidare, läs allt du har skrivit högt för dig själv.",
+        "alias": "Del 2",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "eb426801-450b-4efd-8be9-330cc7e7c810"
+          }
+        ],
+        "question": "Hur låter den skamfulla rösten? "
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "eb426801-450b-4efd-8be9-330cc7e7c810",
+        "alias": "Den som skäms ",
+        "shortDescription": "Sätt dig nu på den stol eller plats som tillhör den delen av dig som lyssnar på skambeläggaren.",
+        "longDescription": "**Hur känns det att höra detta?**\n\n> * När jag hör dig säga detta känner jag...\n> * Om det du säger är sant...\n> * Det jag vill göra när jag känner så här är...\n\nInnan vi går vidare, **läs det du har skrivit högt för dig själv**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "67423976-9aa9-4588-9761-2c021c58a0c6"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "67423976-9aa9-4588-9761-2c021c58a0c6",
+        "alias": "Den medkännande ",
+        "shortDescription": "Sätt dig nu på den plats eller stol som tillhör den medkännande observatören i dig.  ",
+        "longDescription": "Vad vill du säga?\n\n> * Vad jag önskar dig är...\n> * Det jag vet att du längtar efter är...\n\nInnan vi går vidare, läs återigen det du har skrivit högt för dig själv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "a2fba10e-d2a5-40e7-b67e-ccb85b295a42"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "a2fba10e-d2a5-40e7-b67e-ccb85b295a42",
+        "alias": "Frågor att utforska",
+        "question": "",
+        "longDescription": "* Låter din medkännande röst som någon du känner igen?\n* Vad vill skambeläggaren egentligen? Är det möjligt att hen försöker hjälpa dig?\n* Vad kan du göra för att stärka din medkännande röst?",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "WrWJbciTqfsmMpqznL5hv4-4"
+          }
+        ],
+        "title": "Frågor att utforska"
+      }
+    ]
+  },
+  "pt": {
+    "id": "WrWJbciTqfsmMpqznL5hv4-3",
+    "alias": "Self compassion - Shame 3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P1shameautocompaixao_n86s0b.jpg",
+        "title": "Vergonha",
+        "content": "### Que bom ter-te de volta.\n\nNesta lição vais explorar o tema da vergonha. Algo que nos afeta a todos e que por vezes até controla o nosso comportamento, mas de que raramente falamos. Esta lição explora como a vergonha e a compaixão podem interagir entre si para que consigamos ser mais nós próprios.\n\n### A Investigação\n\nEsta lição é uma versão adaptada do exercício \"O crítico, O criticado e O observador compassivo\", que foi desenvolvido pela investigadora e especialista em autocompaixão Dra. Kristin Neff\n\n### Esta lição tem três partes:\n\n* Três perspetivas da vergonha (Escrita)\n* Manter as emoções através da presença (Meditação)\n* Partilha de vídeos\n\n### Preparação para a lição:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P2shameautocompaixao_ucssvh.jpg",
+        "title": "Vergonha",
+        "content": "Todos conhecemos a sensação.\n\nDe não ser o suficiente. De não ser merecedor/a.\n\nUm medo que está dentro de nós, muitas vezes tão profundamente que mal sabemos que está lá ou fingimos que não está.\n\nPor isso trabalhamos. Aperfeiçoamo-nos. Arranjamos desculpas. Pomo-nos à prova. Evitamos senti-lo.\n\nEste exercício explora como o medo de não ser suficiente pode melhorar através de uma conversa entre a parte que está a envergonhar, a que é envergonhada e a que está a observar.\n\nAo entrares fisicamente nestas perspetivas, poderás ver coisas que o pensamento simplesmente não consegue.\n\nConvidamos-te a ver a Fátima a passar por estas três perspetivas: a parte dela que envergonha, a que sente vergonha e a que observa compassivamente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "As três perspetivas",
+        "title": "As três perspetivas",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P3shameautocompaixao_gs4kdm.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895808/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L3_Self_compassion_V1_lkzzf1.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448854/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P4shameautocompaixao_adlxyi.jpg",
+        "title": "Vergonha",
+        "content": "Este exercício explora as três perspetivas através da escrita: a parte que envergonha, a que é envergonhada e a do/a observador/a compassivo/a.\n\nEste é um exercício que pode ser intenso e até possivelmente avassalador. Se te sentires vacilante, vulnerável ou prestes a sentires-te assoberbada/o, a coisa mais autocompassiva que podes fazer é saltar este exercício e cuidar de ti (por exemplo, podes dar um passeio ou beber um chá). Lembra-te que podes parar a qualquer momento ou ir ao kit de ferramentas de segurança: o emblema no canto superior direito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "alias": "A parte que envergonha",
+        "title": "A parte que envergonha",
+        "question": "",
+        "longDescription": "Começa por incorporar a perspetiva da parte que envergonha. A partir desta perspetiva dura e crítica, escreve o que costumas dizer a ti mesma/o.\n\nEscreve livremente durante cinco minutos. Dá exemplos e detalhes.\n\n#### Completa as seguintes frases\n\n* Quando eu sinto mais vergonha de ti é quando...\n* Nunca serás capaz de...\n* Não és merecedor/a de...\n\nAntes de passares à parte seguinte, lê para ti mesma/o esta carta em voz alta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "A parte envergonhada",
+        "title": "A parte envergonhada",
+        "question": "",
+        "longDescription": "Agora coloca-te no lugar da tua parte envergonhada. Como é que te sentes ao ouvir isto? Escreve a tua resposta.\n\n#### Completa as seguintes frases\n\n* Quando te ouço dizer isto, sinto...\n* Se o que estás a dizer é verdade...\n* O que me apetece fazer quando me sinto assim é...\n\nAntes de passares à próxima parte, lê para ti mesma/o esta carta em voz alta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "O/a observador/a compassivo/a",
+        "title": "O/a observador/a compassivo/a",
+        "question": "",
+        "longDescription": "Agora senta-te no lugar da tua parte sensata e compassiva. \n\nO que queres dizer?\n\n#### Completa as seguintes frases\n\n* O que eu desejo para ti é...\n* O que eu sei que anseias é...\n\nAntes de passares à próxima parte, lê para ti mesma/o esta carta em voz alta.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Vergonha",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448855/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P8shameautocompaixao_eafomk.jpg",
+        "title": "Vergonha",
+        "content": "### Explorar o desconhecido...\n\nSe quiseres, podes continuar a escrever sobre a conversa entre as três perspetivas.\n\n#### Perguntas a explorar\n\n* A tua voz compassiva soa a alguém que conheces?\n* O que é que a parte que envergonha realmente quer? É possível que te esteja a tentar ajudar?\n* O que poderias fazer para fortalecer a tua voz compassiva?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai continuar a explorar os sentimentos de vergonha.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523408/29k%20FJN/Meditations/Joanna%20Final/Leading_From_a_Place_of_Love_eynxao.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Refletir sobre as vozes",
+        "title": "Refletir sobre as vozes",
+        "description": "“O que é a condição humana? Falhar e acertar. Escolher bem e escolher mal. (…) É normal. Acontece. ”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448857/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L3P10shameautocompaixao_n0l8gd.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895751/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L3_Self_compassion_V2_mxvmto.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a lição da **Vergonha**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires participar numa partilha com o teu grupo, vais precisar de ter à mão os seguintes exercícios:\n\n* Carta: A parte causadora de vergonha\n* Carta: A parte envergonhada\n* Carta: O/a observador/a compassivo/a",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

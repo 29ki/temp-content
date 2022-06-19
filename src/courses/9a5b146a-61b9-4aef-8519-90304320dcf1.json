@@ -1,0 +1,340 @@
+{
+  "en": {
+    "segments": ["ADULTS"],
+
+    "name": "Deepening relationships",
+    "about": {
+      "howThisWorks": "#### How does it work?\n* This course takes 4 weeks to complete\n* One lesson per week\n* One video sharing per week",
+      "courseValue": "#### What will I learn?\n\n* Find courage to love\n* Create safety for others to do the same\n* Learn how to fully express yourself in a relationship",
+      "body": "What would your life look like if you were able to fully express yourself in relationships, with courage and with love, to create safety for others to do the same, and to accept and let in the love that other people have to offer you?\n\nThis course explores how to grow relationships and take bold steps in letting your true self come to life in relationships. Whether you want to strengthen a relationship to a friend, partner, colleague or family member, this course can help you get going. The basic formula backed up by science is: spending time x being courageous x being loving x being aware = deeper connection.",
+      "createdBy": {
+        "text": "This course has been created in collaboration with the renown relationship researchers Mavis Tsai and Jonathan W Kanter, and was edited by 29k psychologist Daniel Ek. The content in the course is based on well-researched exercises and interventions and a list of scientific references can be found on our website [29k.org/research](www.29k.org/research)",
+        "profiles": [
+          {
+            "name": "Jonathan W Kanter, PhD",
+            "linkUri": "https://depts.washington.edu/uwcssc/content/jonathan-w-kanter-phd",
+            "imageUri": "https://392xdjcckkb3mwu5z3dq8ym1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/jonathan-featured.png"
+          },
+          {
+            "name": "Mavis Tsai, PhD",
+            "linkUri": "https://depts.washington.edu/uwcssc/content/mavis-tsai-phd",
+            "imageUri": "https://www.lowcountrymhconference.com/wp-content/uploads/2020/01/Mavis-Tsai-2-1-e1579792151943.jpg"
+          },
+          {
+            "name": "Daniel Ek, lic psychologist",
+            "linkUri": "https://www.vanskapslabbet.se",
+            "imageUri": "https://www.hjarnkraft.com/wp-content/uploads/bfi_thumb/1-lejrclfzc53atuc90fc2nkhg8kcytldllp8bddxi7o.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Deepening_realationships_e91gzp.png"
+    },
+    "cta": "Explore and develop skills for creating deeper connections with other human beings.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "9a5b146a-61b9-4aef-8519-90304320dcf1",
+    "lessons": [
+      {
+        "id": "bcecd21c-811b-46ac-a0d1-5e549cdfc8b1",
+        "name": "Letting love in",
+        "index": 0,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Learn how to accept love from others and create moments of connection.",
+        "conversations": [
+          {
+            "conversationId": "EFSZaU3Tk4dCV5GXPG27bx",
+            "title": "Letting love in"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Letting%20love%20in.png"
+        }
+      },
+      {
+        "id": "9321387f-2b32-4431-aa06-9d663a267b55",
+        "name": "Nourishing relationships",
+        "index": 1,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Explore your relationships and take action to come closer.",
+        "conversations": [
+          {
+            "conversationId": "S5PVao18y6KQHEBq92u9w4",
+            "title": "Nourishing relationships"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Nourishing%20relationships.png"
+        }
+      },
+      {
+        "id": "05eb4188-e12d-42e5-aaca-ffe258b77780",
+        "name": "Showing yourself",
+        "index": 2,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Create deeper connections by being vulnerable.",
+        "conversations": [
+          {
+            "conversationId": "JEQeL6RPUbmDkdEaaJ94bc",
+            "title": "Showing yourself"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Showing%20yourself.png"
+        }
+      },
+      {
+        "id": "2f4980c2-62c2-4685-b7e5-3cd0dea02151",
+        "name": "Responding well",
+        "index": 2,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Learn how to recognize and respond when others take steps to deepen a relationship with you",
+        "conversations": [
+          {
+            "conversationId": "H38X7X4tuwRdm7rGPLe2dj",
+            "title": "Responding well"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Responding%20well.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 460,
+      "rating": 4.4
+    },
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Deepening_realationships_e91gzp.png"
+    }
+  },
+  "sv": {
+    "segments": ["ADULTS"],
+
+    "name": "Fördjupade relationer",
+    "about": {
+      "howThisWorks": "#### Hur fungerar det?\n* Kursen tar fyra veckor att genomföra\n* En lektion per vecka\n* En gruppdelning per vecka",
+      "courseValue": "#### Vad ska jag lära mig?\n* Hitta mod att älska\n* Skapa säkerhet för andra att göra detsamma\n* Lär dig hur du kan uttrycka dig fullständigt i ett förhållande\n",
+      "body": "Hur skulle ditt liv se ut om du kunde uttrycka dig fullständigt i relationer, med mod och med kärlek, skapa säkerhet för andra att göra detsamma och acceptera och släppa in den kärlek som andra människor har att erbjuda dig?\n\nDen här kursen utforskar hur man växer relationer och tar djärva steg för att låta ditt sanna jag leva upp i relationer. Oavsett om du vill stärka ett förhållande till en vän, partner, kollega eller familjemedlem, kan den här kursen hjälpa dig att komma igång. Grundformeln som backas upp av vetenskapen är: spendera tid x vara modig x vara kärleksfull x vara medveten = djupare koppling."
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Deepening_realationships_e91gzp.png"
+    },
+    "cta": "Utforska och utveckla färdigheter för att skapa djupare kontakter med andra.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "9a5b146a-61b9-4aef-8519-90304320dcf1",
+    "lessons": [
+      {
+        "id": "bcecd21c-811b-46ac-a0d1-5e549cdfc8b1",
+        "name": "Släppa in kärleken",
+        "index": 0,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Lär dig hur du accepterar kärlek från andra och skapar stunder av anslutning.",
+        "conversations": [
+          {
+            "conversationId": "EFSZaU3Tk4dCV5GXPG27bx",
+            "title": "Släppa in kärleken"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Letting%20love%20in.png"
+        }
+      },
+      {
+        "id": "9321387f-2b32-4431-aa06-9d663a267b55",
+        "name": "Närande relationer",
+        "index": 1,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Utforska dina relationer och vidta åtgärder för att komma närmare.",
+        "conversations": [
+          {
+            "conversationId": "S5PVao18y6KQHEBq92u9w4",
+            "title": "Närande relationer"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Nourishing%20relationships.png"
+        }
+      },
+      {
+        "id": "05eb4188-e12d-42e5-aaca-ffe258b77780",
+        "name": "Visar dig själv",
+        "index": 2,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Skapa djupare kopplingar genom att vara sårbar.",
+        "conversations": [
+          {
+            "conversationId": "JEQeL6RPUbmDkdEaaJ94bc",
+            "title": "Visar dig själv"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Showing%20yourself.png"
+        }
+      },
+      {
+        "id": "2f4980c2-62c2-4685-b7e5-3cd0dea02151",
+        "name": "Svarar bra",
+        "index": 2,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Lär dig att känna igen och svara när andra vidtar åtgärder för att fördjupa en relation med dig",
+        "conversations": [
+          {
+            "conversationId": "H38X7X4tuwRdm7rGPLe2dj",
+            "title": "Svarar bra"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652081160/New_images/courses%20png/Deepening%20Relationships%20-%20lesson%20illustrations/Responding%20well.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 460,
+      "rating": 4.4
+    },
+    "wip": true,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Deepening_realationships_e91gzp.png"
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS"],
+    "author": {
+      "nickname": "Cristina Alves",
+      "name": "Cristina Alves"
+    },
+    "name": "Aprofundar relações",
+    "about": {
+      "howThisWorks": "#### Como funciona este curso?\n\n* Este curso tem a duração de 4 semanas\n* Uma lição por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "#### O que vou aprender?\n\n* A encontrar coragem para amar\n* A criar confiança para que outros façam o mesmo\n* A aprender a expressar-me plenamente numa relação",
+      "body": "Como seria a tua vida se fosses capaz de te expressar plenamente nas relações, com coragem e com amor, de forma a criar segurança para os outros fazerem o mesmo e aceitando e recebendo o amor que as outras pessoas têm para te oferecer?\n\nEste curso explora como desenvolver relações e como dar passos ambiciosos para que o teu verdadeiro eu ganhe vida nessas relações. Se desejas fortalecer uma relação com uma amiga, um amigo, parceira, parceiro, colega ou familiar, este curso pode ajudar-te a começar. A fórmula básica vinda da ciência é: \n\n* **dar tempo x ser corajosa/o x ser amável x estar atenta/o = ligação mais profunda**.",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com Cristina Alves"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958192/29k%20FJN/Courses/Menu%20Thumbnails/Cristina_MENU01final_cdxrlk.jpg"
+    },
+    "cta": "Explora e desenvolve competências para criar ligações mais profundas com outros seres humanos.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": ["5a3feb1e-8f7a-414f-8554-26ba8ef57548"],
+    "id": "9a5b146a-61b9-4aef-8519-90304320dcf1",
+    "lessons": [
+      {
+        "id": "bcecd21c-811b-46ac-a0d1-5e549cdfc8b1",
+        "name": "Deixar o amor entrar",
+        "index": 0,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Aprende a aceitar o amor dos outros e a criar momentos de ligação.",
+        "conversations": [
+          {
+            "conversationId": "EFSZaU3Tk4dCV5GXPG27bx",
+            "title": "Deixar o amor entrar"
+          }
+        ]
+      },
+      {
+        "id": "9321387f-2b32-4431-aa06-9d663a267b55",
+        "name": "Nutrir as relações",
+        "index": 1,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Explora as tuas relações e toma medidas para as tornar mais próximas.",
+        "conversations": [
+          {
+            "conversationId": "S5PVao18y6KQHEBq92u9w4",
+            "title": "Nutrir as relações"
+          }
+        ]
+      },
+      {
+        "id": "05eb4188-e12d-42e5-aaca-ffe258b77780",
+        "name": "Revela-te",
+        "index": 2,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Cria ligações mais profundas mostrando a tua vulnerabilidade.",
+        "conversations": [
+          {
+            "conversationId": "JEQeL6RPUbmDkdEaaJ94bc",
+            "title": "Revela-te"
+          }
+        ]
+      },
+      {
+        "id": "2f4980c2-62c2-4685-b7e5-3cd0dea02151",
+        "name": "Responder adequadamente",
+        "index": 2,
+        "duration": {
+          "count": 40,
+          "type": "minute"
+        },
+        "description": "Aprende a reconhecer e a responder quando os outros dão passos para aprofundar uma relação contigo",
+        "conversations": [
+          {
+            "conversationId": "H38X7X4tuwRdm7rGPLe2dj",
+            "title": "Responder adequadamente"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 460,
+      "rating": 4.4
+    },
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621852863/29k%20FJN/Courses/Deepening%20Relationships/Photos/DEEPENINGRELATIONSHIPS_COURSECOVER_qiaml9.jpg"
+    }
+  }
+}

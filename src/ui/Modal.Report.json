@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "Report",
+    "question": "What would you like to report?",
+    "misbehavior": {
+      "title": "Misbehaviour",
+      "message": "Tell us what happened so we can take action"
+    },
+    "techIssue": {
+      "title": "Tech issue",
+      "message": "Tell us what happened so we can improve"
+    },
+    "feedback": {
+      "title": "Feedback",
+      "message": "Share your thoughts so we can improve"
+    },
+    "submitButton": "Submit"
+  },
+  "sv": {
+    "title": "Rapportera",
+    "question": "Vad vill du rapportera?",
+    "misbehavior": {
+      "title": "Dåligt uppförande",
+      "message": "Berätta vad som hände så att vi kan vidta åtgärder"
+    },
+    "techIssue": {
+      "title": "Tekniska problem",
+      "message": "Berätta vad som hände så att vi kan bli bättre"
+    },
+    "feedback": {
+      "title": "Feedback",
+      "message": "Berätta vad du tycker så att vi kan bli bättre"
+    },
+    "submitButton": "Skicka"
+  },
+  "pt": {
+    "title": "Ocorrência",
+    "question": "O que aconteceu?",
+    "misbehavior": {
+      "title": "Má conduta",
+      "message": "Diz-nos o que aconteceu para podermos resolver o problema"
+    },
+    "techIssue": {
+      "title": "Problema técnico",
+      "message": "Diz-nos o que aconteceu para podermos melhorar"
+    },
+    "feedback": {
+      "title": "Comentário",
+      "message": "Partilha as tuas ideias para podermos melhorar"
+    },
+    "submitButton": "Submeter"
+  }
+}

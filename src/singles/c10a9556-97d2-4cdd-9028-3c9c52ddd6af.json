@@ -1,0 +1,335 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Communicate your needs",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653385943/New_images/exercises%20png/non_violent_communication_bbujfb.png",
+      "lottie": ""
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "version": 1,
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "exercise",
+    "id": "c10a9556-97d2-4cdd-9028-3c9c52ddd6af",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c10a9556-97d2-4cdd-9028-3c9c52ddd6af",
+        "name": "Communicate your needs",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "cb8b9f24-94e4-4d8f-ac4b-043ab474fadc",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1654164681/New_images/exercises%20png/1:1.35%20ratio%20images/communicate_your_needs_fyspcy.png",
+            "title": "",
+            "content": "**Expressing our feelings, needs, and desires can be hard.** \n\nSo hard, that we sometimes end up in a vicious circle of misunderstanding, conflict, and harsh words. Especially in our closest relationships with the people who mean the most to us.\n\nIn this exercise you learn how to communicate in a more effective way.",
+            "buttonText": "Tell me more",
+            "lottie": {
+              "file": "",
+              "loop": false
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5e64723c-d648-461c-b041-aeebdff61ce9",
+            "content": "**One of the most important basics in a relationship is communication.** It's how we bond, make ourselves understood, and show that we understand others.\n\nIt might sound simple, but in reality it’s something we might need to work on our entire lives.\n\nSo how can we express ourselves in an empathic and effective way — while helping the other person to meet our needs as well?",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "e73b2f7e-c032-4b35-a7f6-5d0307609a09",
+            "content": "One approach is called [nonviolent communication](https://www.nonviolentcommunication.com/).\n\n**The model consists of four parts:**\n\n1. Observations\n2. Feelings\n3. Needs\n4. Requests",
+            "buttonText": "Start"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a9f34169-fac2-4674-9cc2-c998db1d89a2",
+            "content": "**Start by identifying a conflict or a discussion you have recently experienced**,or that you often find yourself in.\n\nUse this situation as a basis for practicing the different steps in the model.",
+            "buttonText": "Show me"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7be04824-b583-426c-892a-b65cb2243048",
+            "content": "1. Observations\n\nTo observe means to **notice what is happening** without evaluating, interpreting or judging.\n\nBegin with the sentence *When I see / hear / notice that ...*",
+            "infoItems": [],
+            "buttonText": "Show example"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "95cdef0d-8438-4bc6-95d0-09bb3dba9aac",
+            "content": "Person X comes home from work, sits down at the dining table and picks up their phone.\n\n**Possible interpretations:**\n\n* *You're always late!*\n* *You don’t care about me.*\n\n**Observations of the same situation:**\n\n* *I notice it’s 20.30. We had decided to meet at 20.00.*\n* *I see you are texting while I'm talking to you.*",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "57c71e9c-8d86-47ac-8c2d-87d8cbbda1f8",
+            "content": "2. Feelings\n\nThe second step is about becoming aware of what you feel before making observations.  Here, you **name the feeling** without judging or evaluating it.\n\nTo actually feel our feelings – and share them — can be scary, uncomfortable or unfamiliar to us. But it is essential for us in order to feel good and understand what it is that we need in any given moment.",
+            "buttonText": "More"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3d7ebe2d-dcd5-4aff-8dec-c61ab67b0cff",
+            "content": "Begin with the phrase *I feel …*\n\nExample: *When I see that you are texting while I am talking to you, I feel sad/angry/unimportant/irritated.*",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b1691690-3c9f-4267-8bf3-b0ea3f2bca53",
+            "content": "3. Needs\n\nThe third step is to **communicate what you need in the moment**. It increases the possibilities for the other person to be able to meet your needs.\n\nBegin with the phrase *Because I need / value ...*",
+            "buttonText": "Show example"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b88bc5c6-bfb1-4088-83a5-90d8805327d5",
+            "title": "",
+            "content": "* *You never listen to me = I do not feel heard → Need: to be seen and heard.*\n* *You do not prioritize me = I feel alone → Need: to feel connection.*\n\nFor example: *When I see you texting while I'm talking to you, I feel unimportant because it's important for me to be listened to.*",
+            "buttonText": "More"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ce1c533b-cd5b-4ae4-80a4-cc2909e46040",
+            "content": "4. Requests\n\nThe last step is about saying **what concrete action I need or want** from the other person. Try to avoid words such as *must* and *should*.\n\nBegin with the phrase: *Would you be willing to ...*\n\nFor example: *Would you be willing to put away your phone for five minutes while I talk about my day?*",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c649e0c6-0bba-425d-bf8a-429624dc0d48",
+            "alias": "Outro",
+            "topImageUri": "",
+            "title": "",
+            "content": "Relationships are central to our wellbeing.\n\nIn this exercise, you have practiced how to reduce communication that can be perceived as accusatory or aggressive. So instead of saying like above...",
+            "buttonText": "... you can say",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1654171812/New_images/lottie%20animations/exsercises/non_violent_com_eng_2_zvwgld.json"
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "lottie": {
+              "loop": false,
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1654171813/New_images/lottie%20animations/exsercises/non_violent_com_eng_bj8ngk.json"
+            },
+            "id": "6eacfa2d-5600-478e-8344-3fbd3d88adc9",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "3732a1b6-023a-44e6-a336-5082c6e2f6cd",
+            "question": "How do you think non-violent communication could impact your relationships?",
+            "exampleText": "I think that my fights wouldn't escalate as fast, and that there would be an increased chance of getting my needs met.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Tala om vad du behöver",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653385943/New_images/exercises%20png/non_violent_communication_bbujfb.png",
+      "lottie": ""
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "exercise",
+    "id": "c10a9556-97d2-4cdd-9028-3c9c52ddd6af",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "rating": {},
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-c10a9556-97d2-4cdd-9028-3c9c52ddd6af",
+        "name": "Tala om vad du behöver",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "cb8b9f24-94e4-4d8f-ac4b-043ab474fadc",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1654164681/New_images/exercises%20png/1:1.35%20ratio%20images/communicate_your_needs_fyspcy.png",
+            "title": "",
+            "content": "**Att uttrycka våra känslor, behov och önskemål kan vara svårt.** \n\nSå svårt att vi ibland hamnar i en ond cirkel av missförstånd, konflikter och hårda ord. Särskilt i våra närmaste relationer, med människorna som betyder mest för oss.\n\nI den här övningen får du lära dig ett mer effektivt sätt att kommunicera.",
+            "buttonText": "Berätta mer",
+            "lottie": {
+              "file": null,
+              "loop": true
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5e64723c-d648-461c-b041-aeebdff61ce9",
+            "content": "**En av de viktigaste grundpelarna i relationer är kommunikation.** Det är så vi knyter an till varandra, gör oss förstådda, och visar att vi förstår andra.\n\nDet kan låta enkelt, men i verkligheten är det någonting vi kan behöva jobba på – hela livet.\n\nSå hur kan vi uttrycka oss på ett empatiskt och effektivt sätt, samtidigt som vi ser till att hjälpa den andra personen att också möta våra behov?",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "e73b2f7e-c032-4b35-a7f6-5d0307609a09",
+            "content": "Ett tillvägagångssätt kallas för[ icke-våldsam kommunikation](https://www.nonviolentcommunication.com/).\n\n**Modellen består av fyra delar:**\n\n1. Observationer\n2. Känslor\n3. Behov\n4. Önskningar",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a9f34169-fac2-4674-9cc2-c998db1d89a2",
+            "content": "**Börja med att identifiera en konflikt eller en diskussion du nyligen varit med i**, eller som du upplever att du ofta hamnar i.\n\nAnvänd sedan denna situation som underlag för att öva på de olika stegen i modellen.",
+            "buttonText": "Visa mig"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "7be04824-b583-426c-892a-b65cb2243048",
+            "content": "1. Observationer\n\nAtt observera innebär att **lägga märke till det som händer,** utan att värdera, tolka eller döma.\n\nUtgå från meningen *När jag ser/hör/lägger märke till att...*",
+            "infoItems": [],
+            "buttonText": "Visa exempel"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "95cdef0d-8438-4bc6-95d0-09bb3dba9aac",
+            "content": "Person X kommer hem från jobbet, sätter sig vid matbordet och tar upp telefonen.\n\n**Möjliga tolkningar:**\n\n* *Du är alltid sen!*\n* *Du bryr dig inte om mig.*\n\n**Observationer av samma situation:**\n\n* *Jag märker att klockan är 20.30. Vi hade bestämt att träffas klockan 20.00.*\n* *Jag ser att du sms:ar medan jag pratar med dig*.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "57c71e9c-8d86-47ac-8c2d-87d8cbbda1f8",
+            "content": "2. Känslor\n\nDet andra steget är att bli medveten om vad vi känner inför det vi observerar. Det innebär att **benämna känslan vi upplever,** utan att döma eller värdera den.\n\nAtt känna känslor – och att dela med sig av dem – kan vara läskigt, obekvämt eller ovant. Men det är samtidigt avgörande för att vi ska kunna må bra och förstå vad vi behöver.",
+            "buttonText": "Mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3d7ebe2d-dcd5-4aff-8dec-c61ab67b0cff",
+            "content": "Utgå från meningen *Känner jag mig..*\n\nExempel: *När jag ser att du sms:ar medan jag pratar med dig, känner jag mig ledsen/arg/oviktig/irriterad.*",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b1691690-3c9f-4267-8bf3-b0ea3f2bca53",
+            "content": "3. Behov\n\nDet tredje steget är att **kommunicera vad vi behöver i stunden**. Det ökar möjligheten för den andra personen att kunna tillgodose våra behov.\n\nUtgå från meningen: *Därför att jag behöver/värderar...*",
+            "buttonText": "Visa exempel"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b88bc5c6-bfb1-4088-83a5-90d8805327d5",
+            "title": "",
+            "content": "* *Du lyssnar aldrig på mig = Jag känner mig inte hörd → Behov: bli sedd och hörd.*\n* *Du prioriterar inte mig = Jag känner mig ensam → Behov: knyta an.*\n\nExempelvis: *När jag ser att du sms:ar medan jag pratar med dig känner jag mig oviktig, därför att det är viktigt för mig att bli lyssnad på.*",
+            "buttonText": "Mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "ce1c533b-cd5b-4ae4-80a4-cc2909e46040",
+            "content": "4. Önskan\n\nDet fjärde och sista steget är **vilken konkret handling jag skulle behöva eller önska** av den andra personen. Försök undvika ord som *måste* och *borde*.\n\nUtgå från meningen: *Skulle du kunna tänka dig att..*\n\nExempelvis: *Skulle du kunna tänka dig att lägga ned mobilen i fem minuter medan jag berättar om min dag?*",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c649e0c6-0bba-425d-bf8a-429624dc0d48",
+            "alias": "Outro",
+            "topImageUri": "",
+            "title": "",
+            "content": "Relationer är viktiga för vårt välmående.\n\nI den här övningen har du tränat på att minska kommunikation som kan uppfattas som anklagande eller aggressiv. Så att du i stället för att säga som ovan...",
+            "buttonText": " ... kan säga",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/v1652685118/Illustrations_Exercises/non_violent_com_1_txjmc1.json",
+              "loop": false
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "694af3cb-2e0c-4e3b-844e-b8dd29bb7679",
+            "buttonText": "Nästa",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/v1652701497/Illustrations_Exercises/non_violent_com_2_ghj8k9.json",
+              "loop": false
+            }
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "3732a1b6-023a-44e6-a336-5082c6e2f6cd",
+            "question": "Hur tror du att icke-våldsam kommunikation skulle kunna påverka dina relationer?",
+            "exampleText": "Jag tror att mina bråk inte skulle eskalera så snabbt, och att jag dessutom skulle få mina behov tillgodosedda oftare än jag får idag.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 10
+    },
+    "type": "exercise",
+    "id": "c10a9556-97d2-4cdd-9028-3c9c52ddd6af",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "rating": {},
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-c10a9556-97d2-4cdd-9028-3c9c52ddd6af",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "b3c86d79-72ac-48f9-857c-6dbdcec02703",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cb8b9f24-94e4-4d8f-ac4b-043ab474fadc",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "c649e0c6-0bba-425d-bf8a-429624dc0d48",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "en": {
+    "courses": "Courses",
+    "exercises": "Exercises",
+    "meditations": "Meditations",
+    "tests": "Tests",
+    "challenges": "Challenges",
+    "see_all__button": "See all",
+    "error_headline": "Unfortunately, we couldn't find what you were looking for",
+    "error_body": "We're working as fast as we can to fix this!"
+  },
+  "sv": {
+    "courses": "Kurser",
+    "exercises": "Övningar",
+    "meditations": "Meditationer",
+    "tests": "Tester",
+    "challenges": "Utmaningar",
+    "see_all__button": "Visa alla",
+    "error_headline": "Något har gått fel",
+    "error_body": "Vi jobbar så fort vi kan på att lösa problemet!"
+  },
+  "pt": {
+    "body": "Det här är en plats där du kan utvecklas som människa. Tillsammans med andra.",
+    "see_all__button": "Mostrar tudo",
+    "error_headline": "Infelizmente, não estamos a encontrar o que estás a procurar.",
+    "signIn_button": "Redan användare",
+    "heading__markdown": "# ~~Hej~~, välkommen till 29k!",
+    "meditations": "Meditações",
+    "courses": "Cursos",
+    "tests": "Testes",
+    "challenges": "Desafios",
+    "signUp_button": "Kom igång",
+    "error_body": "Estamos a trabalhar o mais rápido possível para resolver o problema!",
+    "exercises": "Exercícios"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "en": {
+    "question": "Rate this sharing",
+    "detailedQuestion": "What did you think about it?"
+  },
+  "sv": {
+    "question": "Sätt betyg på gruppsamtalet",
+    "detailedQuestion": "Vad tyckte du?"
+  },
+  "pt": {
+    "question": "Avalia esta partilha",
+    "detailedQuestion": "Qual é a tua opinião acerca da partilha?"
+  }
+}

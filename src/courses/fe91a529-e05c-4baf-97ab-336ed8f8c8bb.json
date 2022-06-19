@@ -1,0 +1,479 @@
+{
+  "en": {
+    "segments": ["YOUNG_ADULTS"],
+    "byline": "Created by 19 researchers and psychologists",
+
+    "name": "Become friends with yourself",
+    "about": {
+      "body": "The course is designed to change your life by altering the relationship you have with yourself through exercises based on leading self-compassion research.\n\nYou'll learn to identify when you're being too critical of yourself and understand why that is and how it affects you. Most importantly, you'll explore a more constructive way of relating to yourself.\n\nThese exercises are helpful in many aspects of everyday life, from work and education to parenting and self-esteem.\n\nPracticing self-compassion increases happiness, motivation and altruism and reduces anxiety, depressive symptoms and narcissism.",
+      "courseValue": "",
+      "howThisWorks": "* Read and learn\n* Written exercises\n* Meditations\n* Hear from others and share your own thoughts - if you want to\n* After four lessons you're done",
+      "createdBy": {
+        "text": "#### Who created this course?\n\nThis course is based on research from psychologists and PhD's Kristin Neff and Chris Germer. Editor was 29k psychologist and PhD Jenny Rickardsson.",
+        "profiles": [
+          {
+            "name": "Center for Mindful Self-Compassion",
+            "linkUri": "https://centerformsc.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/MSC.jpg"
+          },
+          {
+            "name": "Chris Germer PhD.",
+            "linkUri": "https://chrisgermer.com/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Germer.jpg"
+          },
+          {
+            "name": "Kristin Neff PhD",
+            "linkUri": "https://self-compassion.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Neff.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648566093/New_images/courses%20young%20adults/become_friend_with_yourself_gde9rs.png"
+    },
+    "cta": "Increase your self-compassion and understand yourself better in situations when you're hard on yourself.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "trailerUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/yg_self_compassion/yogagirl29k_selfcompassiontrailer_desktop_60s_nosubtitles_3mbps.mp4",
+    "id": "fe91a529-e05c-4baf-97ab-336ed8f8c8bb",
+    "lessons": [
+      {
+        "id": "b7447080-4906-47ac-bece-035dc1260751",
+        "index": 0,
+        "name": "The critic and the friend",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Become your own best friend in difficult situations",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kritikern-och-kompisen-1",
+            "title": "Inner critic"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-2",
+            "title": "Focus exercise"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-3",
+            "title": "Inner friend"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "2ddb4a83-0fc5-4f08-a937-3461ec80b3f5",
+        "name": "The body",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kroppen-1",
+            "title": "Your stress reaction"
+          },
+          {
+            "conversationId": "kroppen-2",
+            "title": "The body's acute stress response"
+          },
+          {
+            "conversationId": "kroppen-3",
+            "title": "Your body, your home"
+          }
+        ],
+        "description": "Explore how your body and emotions are connected",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "c3868ac7-38c4-48bf-8a2d-a15a333c78e3",
+        "name": "Take care of yourself",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-1",
+            "title": "Outside in"
+          },
+          {
+            "title": "Focus exercise",
+            "conversationId": "ta-hand-om-dig-sjalv-2"
+          },
+          {
+            "title": "Checklist: Take care of yourself ",
+            "conversationId": "ta-hand-om-dig-sjalv-3"
+          }
+        ],
+        "description": "Use your body to take care of yourself",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "bb00c31e-1cab-435b-a7d6-7c95b2442925",
+        "name": "Gratitude",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "tacksamhet-1",
+            "title": "Gratitude: first letter"
+          },
+          {
+            "conversationId": "tacksamhet-2",
+            "title": "Focus exercise"
+          },
+          {
+            "conversationId": "tacksamhet-3",
+            "title": "Gratitude: second letter"
+          }
+        ],
+        "description": "Express what you are grateful for. In someone else – and in yourself.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        }
+      }
+    ],
+    "description": "This course explores how to become less stressed and happier by becoming the person you have been waiting for.",
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/course_bg_transparent.png"
+    }
+  },
+  "sv": {
+    "segments": ["YOUNG_ADULTS"],
+    "byline": "Skapad av 19 forskare och psykologer",
+
+    "name": "Bli kompis med dig själv",
+    "about": {
+      "body": "Kursen hjälper dig att förbättra din relation till dig själv med hjälp av övningar från den ledande forskningen om självmedkänsla.\n\nDu kommer att lära dig att upptäcka när du är kritisk mot dig själv, förstå varför du är det och hur det påverkar dig. Framför allt kommer du få lära dig ett mer snällt sätt att vara med dig själv.\n\nÖvningarna i kursen kan vara hjälpsamma i många situationer, från arbete och skola till relationer och självkänsla.\n\nAtt öva självmedkänsla kan öka din lycka och motivation, samt minska ångest och depressiva symtom.",
+      "courseValue": "",
+      "howThisWorks": "* Läs och lär\n* Skriftliga övningar\n* Meditationer\n* Ta del av andras erfarenheter och dela med dig av dina egna upplevelser — om du vill\n* Efter fyra lektioner är du klar",
+      "createdBy": {
+        "text": "#### Vem skapade den här kursen?\nDenna kurs har skapats av 19 forskare och psykologer",
+        "profiles": [
+          {
+            "name": "Center for Mindful Self-Compassion",
+            "linkUri": "https://centerformsc.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/MSC.jpg"
+          },
+          {
+            "name": "Chris Germer, PhD",
+            "linkUri": "https://chrisgermer.com/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Germer.jpg"
+          },
+          {
+            "name": "Kristin Neff PhD",
+            "linkUri": "https://self-compassion.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Neff.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648566093/New_images/courses%20young%20adults/become_friend_with_yourself_gde9rs.png"
+    },
+    "cta": "Öka din självmedkänsla och lär dig att förstå dig själv bättre i situationer när du är hård mot dig själv.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "trailerUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/yg_self_compassion/yogagirl29k_selfcompassiontrailer_desktop_60s_nosubtitles_3mbps.mp4",
+    "id": "fe91a529-e05c-4baf-97ab-336ed8f8c8bb",
+    "lessons": [
+      {
+        "id": "b7447080-4906-47ac-bece-035dc1260751",
+        "index": 0,
+        "name": "Kritikern & kompisen",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Bli din egen bästa vän i svåra situationer",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kritikern-och-kompisen-1",
+            "title": "Inre kritiker"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-2",
+            "title": "Fokusövning"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-3",
+            "title": "Inre kompis"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "2ddb4a83-0fc5-4f08-a937-3461ec80b3f5",
+        "name": "Kroppen",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kroppen-1",
+            "title": "Din stressreaktion"
+          },
+          {
+            "conversationId": "kroppen-2",
+            "title": "Kroppens påslag"
+          },
+          {
+            "conversationId": "kroppen-3",
+            "title": "Din kropp, ditt hem"
+          }
+        ],
+        "description": "Utforska hur kropp och känslor hänger ihop.",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "c3868ac7-38c4-48bf-8a2d-a15a333c78e3",
+        "name": "Ta hand om dig själv",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-1",
+            "title": "Utifrån och in"
+          },
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-2",
+            "title": "Fokusövning"
+          },
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-3",
+            "title": "Ta hand om dig själv-kollen"
+          }
+        ],
+        "description": "Använd kroppen för att ta hand om dig själv",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "bb00c31e-1cab-435b-a7d6-7c95b2442925",
+        "name": "Tacksamhet",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "tacksamhet-1",
+            "title": "Tacksamhetsbrev ett"
+          },
+          {
+            "conversationId": "tacksamhet-2",
+            "title": "Fokusövning"
+          },
+          {
+            "conversationId": "tacksamhet-3",
+            "title": "Tacksamhetsbrev två"
+          }
+        ],
+        "description": "Fundera på vad du är tacksam för hos någon annan - och hos dig själv.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        }
+      }
+    ],
+    "description": "Den här kursen utforskar hur man blir mindre stressad och lyckligare genom att bli den person du har väntat på.",
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/course_bg_transparent.png"
+    }
+  },
+  "pt": {
+    "segments": ["YOUNG_ADULTS", "ADULTS"],
+    "byline": "Created by 19 researchers and psychologists",
+    "author": {
+      "name": "António Casalinho",
+      "nickname": "António Casalinho"
+    },
+    "name": "Sê teu amigo ou tua amiga",
+    "about": {
+      "body": "O curso é pensado para mudar a tua vida, alterando o relacionamento que tens contigo através de exercícios baseados em investigação na área da autocompaixão.\n\nVais aprender a identificar quando estás a ser demasiado exigente contigo e vais entender por que é que isso acontece e como isso te afeta. Mais importante ainda, vais explorar uma maneira mais construtiva de te relacionares contigo.\n\nEstes exercícios são úteis em muitos aspetos da vida quotidiana, desde o trabalho e a educação até à paternidade e à autoestima.\n\nPraticar a autocompaixão aumenta a felicidade, a motivação e o altruísmo e reduz a ansiedade, os sintomas depressivos e o narcisismo.",
+      "courseValue": "",
+      "howThisWorks": "* Lê e aprende\n* Exercícios escritos\n* Meditações\n* Ouve os outros e compartilha os teus próprios pensamentos (se quiseres)\n* Ao fim de quatro lições terás tudo o que precisas",
+      "createdBy": {
+        "text": "#### Quem criou este curso?\n\nEste curso é baseado em investigação de psicólogos e Professores (Ph.D's) Kristin Neff e Chris Germer, editado pela psicóloga e Professora (Ph.D.) da equipa da 29k, Jenny Rickardsson.",
+        "profiles": [
+          {
+            "name": "Center for Mindful Self-Compassion",
+            "linkUri": "https://centerformsc.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/MSC.jpg"
+          },
+          {
+            "name": "Chris Germer Ph.D.",
+            "linkUri": "https://chrisgermer.com/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Germer.jpg"
+          },
+          {
+            "name": "Kristin Neff Ph.D.",
+            "linkUri": "https://self-compassion.org/",
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/about/Neff.jpg"
+          }
+        ]
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650459065/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/20220420_Casalinhos_Menu_Novo_V1_hxlnqm.jpg"
+    },
+    "cta": "Aumenta a tua autocompaixão e entende-te melhor nas situações em que exiges demasiado de ti.",
+    "duration": {
+      "count": 4,
+      "type": "lesson"
+    },
+
+    "tags": ["4c2079c6-9ce6-4183-96ba-7116d2a38607"],
+    "trailerUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/yg_self_compassion/yogagirl29k_selfcompassiontrailer_desktop_60s_nosubtitles_3mbps.mp4",
+    "id": "fe91a529-e05c-4baf-97ab-336ed8f8c8bb",
+    "lessons": [
+      {
+        "id": "b7447080-4906-47ac-bece-035dc1260751",
+        "index": 0,
+        "name": "O crítico e o amigo ",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Torna-te o teu melhor amigo ou amiga em situações difíceis",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kritikern_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kritikern-och-kompisen-1",
+            "title": "Crítico interior "
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-2",
+            "title": "Exercício de foco"
+          },
+          {
+            "conversationId": "kritikern-och-kompisen-3",
+            "title": "Amigo ou amiga interior"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "2ddb4a83-0fc5-4f08-a937-3461ec80b3f5",
+        "name": "O corpo",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "kroppen-1",
+            "title": "A tua reacção ao stress"
+          },
+          {
+            "conversationId": "kroppen-2",
+            "title": "A resposta aguda do corpo ao stress "
+          },
+          {
+            "conversationId": "kroppen-3",
+            "title": "O teu corpo, a tua casa"
+          }
+        ],
+        "description": "Explora como o teu corpo e emoções estão conectados",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "c3868ac7-38c4-48bf-8a2d-a15a333c78e3",
+        "name": "Toma conta de ti",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "ta-hand-om-dig-sjalv-1",
+            "title": "De fora para dentro"
+          },
+          {
+            "title": "Exercício de foco",
+            "conversationId": "ta-hand-om-dig-sjalv-2"
+          },
+          {
+            "title": "Checklist: Toma conta de ti ",
+            "conversationId": "ta-hand-om-dig-sjalv-3"
+          }
+        ],
+        "description": "Usa o teu corpo para tomares conta de ti",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "bb00c31e-1cab-435b-a7d6-7c95b2442925",
+        "name": "Gratidão",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/tacksamhet_thumb.png"
+        },
+        "conversations": [
+          {
+            "conversationId": "tacksamhet-1",
+            "title": "Gratidão: primeira carta"
+          },
+          {
+            "conversationId": "tacksamhet-2",
+            "title": "Exercício de foco"
+          },
+          {
+            "conversationId": "tacksamhet-3",
+            "title": "Gratidão: segunda carta"
+          }
+        ],
+        "description": "Expressa aquilo que agradeces. Em relação a outra pessoa e a ti",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        }
+      }
+    ],
+    "description": "This course explores how to become less stressed and happier by becoming the person you have been waiting for.",
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650374991/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/casalinhos_-_menu_vhu7vw.jpg"
+    }
+  }
+}

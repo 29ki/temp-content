@@ -1,0 +1,409 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Your recovery guide",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649338936/New_images/exercises%20png/A%CC%8Aterha%CC%88mtningsguiden_3x_h8wuqb.png",
+      "lottie": "https://res.cloudinary.com/twentyninek/raw/upload/v1650462712/Singles/Animations/battery_skwh6q.json"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 9
+    },
+    "version": 1,
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "type": "exercise",
+    "id": "68f40033-6954-4955-b2fb-55625cc593d2",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-68f40033-6954-4955-b2fb-55625cc593d2",
+        "name": "Your recovery guide",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "cf4143ab-47a5-4827-8be4-90f1d3d5a4df",
+            "alias": "Exercise introduction",
+            "topImageUri": "",
+            "title": "",
+            "content": "“*Our need for recovery is much the same as our need for food. We feel best when we have variation, taking time-out to recover regularly. And it’s much better to take several short breaks per day rather than just one long break — or waiting for weekends, or holidays ...”*\n\nIn this exercise you get to tailor **your own toolbox of recovery activities.**\n\n*Developed in collaboration with [Niclas Almén.](https://brightrecovery.se)*",
+            "buttonText": "I'm ready",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/v1650462712/Singles/Animations/battery_skwh6q.json",
+              "loop": true
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0a4e7ea3-582f-4785-a9de-c192ddb292de",
+            "content": "Stress is the body’s **primal reaction to potential danger or threat**.  And in order to survive, our brain prepares us for fight or flight. The very same mechanism is activated in us when we are faced with difficulties, challenges and the demands of everyday life.\n\nIt is precisely this short-term stress that actually helps us to cope with what life throws at us. But **the stress reaction is only helpful if it is activated for a short while**.",
+            "buttonText": "Tell me more"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4b095461-df12-419a-ae59-9acc47ee9fde",
+            "content": "In today’s society it is common for us to experience **prolonged stress reactions without a chance to recover**. This can make it harder for us to cope and we can end up feeling tired and/or depressed along with many other possible symptoms of stress.",
+            "buttonText": "Next",
+            "infoItems": [
+              {
+                "title": "Research shows that recovery is crucial so that we can:",
+                "description": "* Handle stress\n* Feel good\n* Maintain good health\n* Perform well"
+              }
+            ]
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1b1b6da0-e048-4457-a151-dbfe42ded68c",
+            "content": "**It can be harder for us to recover when we are already in a state of stress**. When we're stressed, it is common to remain in a wound-up state and feel that we don’t have time to take a break.\n\nBut even in very trying times, the good news is that we can support our capacity to recover with relatively simple techniques.",
+            "buttonText": "How?",
+            "title": "The recovery paradox",
+            "topImageUri": "",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/v1650523972/Singles/Animations/burst_bnwx11.json",
+              "loop": true
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a6eb3fec-851f-41bf-843d-5534a3696e7e",
+            "content": "Simply put, **recovery is anything that helps us to recharge our batteries**. In general, effective recovery happens when we are in a low-pressure environment without demands, or where we feel the demands are manageable, or maybe even enjoyable.\n\nA particularly powerful method of recovery is to use contrast.",
+            "infoItems": [
+              {
+                "title": "Show examples",
+                "description": "Sitting in front of your computer a while? A brisk walk can feel good. Socialising all day? Maybe you need alone-time. Alone all day? You might want to call a friend. Physically tired? Meditation could be a good idea. Mentally tired? Maybe try going out for a run or a hike."
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "85c4640b-a7ba-40de-a42b-e3c0cd95bab1",
+            "content": "You can aim to mix calming, and completely undemanding passive activities with things that activate you in a positive way.",
+            "infoItems": [
+              {
+                "title": "Passive recovery",
+                "description": "* Relax on the sofa\n* Listen to music\n* Take a warm bath\n* Meet a friend for coffee\n* Watch a series"
+              },
+              {
+                "title": "Active recovery",
+                "description": "* Learn a new chord on the guitar\n* Sport\n* Engage in a discussion\n* Read a non-fiction book\n* Gardening"
+              }
+            ],
+            "buttonText": "I'm ready",
+            "title": "Passive and active recovery"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "e197ee0c-5855-4ee2-9dbe-0b9aba16e31a",
+            "content": "Regularly engaging in recovery can feel unnatural for many of us. So it’s wise to **take things step by step when building a recovery routine** into your everyday life.\n\nIn this exercise, you can choose whether you want to focus on recovery during work time or leisure time - or both.",
+            "buttonText": "Get started",
+            "topImageUri": ""
+          },
+          {
+            "type": "multiSelect",
+            "id": "e1a502dc-308e-4847-ade4-2bc6fd94e1ba",
+            "content": "1. Look at the list below and **choose three recovery activities you would like to try** in the coming week. Don’t worry about ‘answering correctly’ here - it’s a long list because people are so different.",
+            "MultiSelect": {
+              "storageKey": "Recovery-list",
+              "maxSelections": 3,
+              "options": [
+                "Meditate",
+                "Work out",
+                "Have coffee/tea",
+                "Rest",
+                "Garden",
+                "Yoga",
+                "Take a bath",
+                "Close my eyes",
+                "Focused breathing",
+                "Bike",
+                "Dance",
+                "Listen to the radio",
+                "Bake",
+                "Sing",
+                "Read",
+                "Call someone",
+                "Meet someone",
+                "Visit museum",
+                "Spend time in nature",
+                "Have lunch alone",
+                "Mikro pause",
+                "Sudoku",
+                "Audio book",
+                "Hug",
+                "Do nothing",
+                "Cook",
+                "Sleep"
+              ]
+            },
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "multiSelectResult",
+            "id": "cd06518c-4a69-44fb-8210-5bcd893e6993",
+            "MultiSelectResult": {
+              "storageKey": "Recovery-list"
+            },
+            "content": "2. Look at your list below.\n3. Decide **when and where you will recover**.\\\n   \\\n   One suggestion to help get your new recovery routine off the ground is to schedule a fixed time in your calendar for your chosen recovery activity. Another option is to start with one of your recovery activities as soon as you finish this exercise.",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "56b43ed1-6a10-48ab-8fea-0dcbb63bbd9a",
+            "question": "Do you see any obstacles getting in the way of you doing your recovery activities? If so, what can you do to overcome them?",
+            "exampleText": "I might not feel like it when the time comes. However, I will do my chosen recovery activity anyway as planned  - regardless of how I feel at the time.",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "291ebc72-4d2f-42fa-91e1-1351493ce587",
+            "alias": "Outro",
+            "topImageUri": "",
+            "title": "",
+            "content": "Over time, we can practice our ability to recover.\n\nAnd it is good be mindful that potential recovery situations like a lunch, a coffee break or a weekend will not necessarily serve as recovery unless we are careful to approach them in a way that is actually recovery-friendly.\n\n**Remember the most important recovery moments are the ones that actually happen — no matter how big or small.**",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Din återhämtningsguide",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/v1649338936/New_images/exercises%20png/A%CC%8Aterha%CC%88mtningsguiden_3x_h8wuqb.png",
+      "lottie": "https://res.cloudinary.com/twentyninek/raw/upload/v1650462712/Singles/Animations/battery_skwh6q.json"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 9
+    },
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "type": "exercise",
+    "id": "68f40033-6954-4955-b2fb-55625cc593d2",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-68f40033-6954-4955-b2fb-55625cc593d2",
+        "name": "Din återhämtningsguide",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "cf4143ab-47a5-4827-8be4-90f1d3d5a4df",
+            "alias": "Exercise introduction",
+            "topImageUri": "",
+            "title": "",
+            "content": "*“Återhämtningsbehovet ser ut ungefär som kostbehovet. Vi mår bäst av variation och att återhämta oss då och då - några gånger per dag - snarare än jättemycket en gång om dagen, eller bara på helgen… eller semestern.”*\\\n\\\nI den här övningen kommer du få sätta ihop **din alldeles egna verktygslåda fylld med återhämtande aktiviteter.**\\\n\\\n*Framtagen i samarbete med [Niclas Almén.](https://brightrecovery.se)*",
+            "buttonText": "Jag är redo",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/v1650462712/Singles/Animations/battery_skwh6q.json",
+              "loop": true
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "0a4e7ea3-582f-4785-a9de-c192ddb292de",
+            "content": "Stress är kroppen**s uråldriga reaktion på potentiell fara och hot**. Vi gör oss redo för att slåss eller fly – för att överleva. Samma mekanismer aktiveras hos oss när vi ställs inför utmaningar, svårigheter och krav i vardagen.\n\nOch det är just den kortvariga stressen som hjälper oss klara av det vi möter i livet. Men **stressreaktionen är som regel enbart hjälpsam om den är aktiverad en stund.**",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "4b095461-df12-419a-ae59-9acc47ee9fde",
+            "content": "I dagens samhälle är det vanligt att vi upplever **långvariga stressreaktioner utan möjlighet till återhämtning.** Det kan leda till att vi får svårare att hantera krav, känner oss trötta, nedstämda och en rad andra symtom.",
+            "buttonText": "Nästa",
+            "infoItems": [
+              {
+                "title": "Forskning visar att återhämtning från stress är avgörande för att:",
+                "description": "* Hantera stress\n* Må bra\n* Behålla hälsan\n* Prestera bra"
+              }
+            ]
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "1b1b6da0-e048-4457-a151-dbfe42ded68c",
+            "content": "**För den som är stressad kan det vara extra svårt att återhämta sig.** När vi är uppvarvade är det nämligen lätt att fortsätta vara uppvarvad — eller känna att vi inte har tid att pausa.\n\nMen det fina är att vi med relativt enkla medel kan lyckas förbättra vår återhämtning när vi behöver den som mest!",
+            "buttonText": "Hur då?",
+            "title": "Återhämtningsparadoxen",
+            "topImageUri": "",
+            "lottie": {
+              "file": "https://res.cloudinary.com/twentyninek/raw/upload/v1650523972/Singles/Animations/burst_bnwx11.json",
+              "loop": true
+            }
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "a6eb3fec-851f-41bf-843d-5534a3696e7e",
+            "content": "Enkelt sagt är **återhämtning vad som helst som leder till att krafterna kommer tillbaka.** Generellt sett sker återhämtning bäst i en situation utan krav, eller där kraven känns hanterbara och/eller lustfyllda.\n\nDet som ger mest återhämtning brukar vara att jobba med kontraster.",
+            "infoItems": [
+              {
+                "title": "Visa exempel",
+                "description": "Har du suttit framför datorn kanske du vill promenera runt huset. Har du varit social hela dagen, kanske du vill vara ensam. Har du varit ensam hela dagen, kanske du vill ringa en vän. Är du fysiskt trött, kanske du vill meditera. Är du mentalt trött, kanske du vill gå ut och springa."
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "85c4640b-a7ba-40de-a42b-e3c0cd95bab1",
+            "content": "Det kan även vara hjälpsamt att blanda lugna, helt kravlösa aktiviteter med saker som aktiverar dig på ett positivt sätt.",
+            "infoItems": [
+              {
+                "title": "Inaktiv återhämtning",
+                "description": "* Ligga på soffan\n* Lyssna på musik\n* Ta ett varm bad\n* Fika med en kompis\n* Titta på en serie"
+              },
+              {
+                "title": "Aktiv återhämtning",
+                "description": "* Lära sig ett nytt ackord på gitarren\n* Sporta\n* Diskutera med en kompis\n* Läsa en faktabok\n* Hugga ved"
+              }
+            ],
+            "buttonText": "Jag är redo",
+            "title": "Inaktiv och aktiv återhämtning"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "e197ee0c-5855-4ee2-9dbe-0b9aba16e31a",
+            "content": "Att regelbundet ägna sig åt återhämtning kan vara ovant för många. Därför kan det vara hjälpsamt att **steg för steg bygga in en återhämtande rutin** i sin vardag.\n\nI den här övningen väljer du själv om du vill fokusera på återhämtning på jobb, fritid eller både och.",
+            "buttonText": "Sätt igång",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1647608176/Illustrations_Exercises/calendar.image.swe_p3y65j.png"
+          },
+          {
+            "type": "multiSelect",
+            "id": "e1a502dc-308e-4847-ade4-2bc6fd94e1ba",
+            "content": "1. Titta på listan nedan och **välj tre återhämtande aktiviteter du skulle vilja testa** den kommande veckan. Oroa dig inte över att “svara rätt” här, det är en lång lista eftersom människor är så olika.",
+            "MultiSelect": {
+              "storageKey": "Recovery-list",
+              "maxSelections": 3,
+              "options": [
+                "Meditera",
+                "Träna",
+                "Dricka te/kaffe",
+                "Vila",
+                "Trädgårdsarbeta",
+                "Yoga",
+                "Bada",
+                "Ligga på soffan",
+                "Blunda",
+                "Fokusera på andningen",
+                "Cykla",
+                "Lyssna på radio",
+                "Baka",
+                "Sjunga",
+                "Läsa",
+                "Ringa någon",
+                "Träffa någon",
+                "Dansa",
+                "Fika",
+                "Gå på museum",
+                "Vara i naturen",
+                "Ensamlunch",
+                "Lösa sudoku",
+                "Mikropaus",
+                "Ljudbok",
+                "Kramas",
+                "Göra ingenting",
+                "Laga mat",
+                "Sova"
+              ]
+            },
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "multiSelectResult",
+            "id": "cd06518c-4a69-44fb-8210-5bcd893e6993",
+            "MultiSelectResult": {
+              "storageKey": "Recovery-list"
+            },
+            "content": "2. Titta på din lista nedan.\n3. Bestäm **när och var du ska återhämta dig**. \\\n   \\\n   Ett förslag är att planera in tid i din kalender för att se till att aktiviteterna verkligen blir av. Ett annat är att genomföra en återhämtande aktivitet så snart du är klar med övningen.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "56b43ed1-6a10-48ab-8fea-0dcbb63bbd9a",
+            "question": "Vad hindrar dig från att återhämta dig, och vad kan du göra för att överkomma dessa hinder?",
+            "exampleText": "Att jag inte kommer känna för det när stunden är inne. Då ska jag genomföra min återhämtande aktivitet oavsett vad jag känner där och då.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "291ebc72-4d2f-42fa-91e1-1351493ce587",
+            "alias": "Outro",
+            "topImageUri": "",
+            "title": "",
+            "content": "Över tid kan vi öva upp vår förmåga att återhämta oss.\n\nPotentiella återhämtningssituationer som en lunch, en kafferast eller en helg blir inte återhämtande om vi inte beter oss på ett återhämtande sätt.\n\n**Kom ihåg att den viktigaste återhämtningen är den som blir av — oavsett hur stor eller liten.**",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 9
+    },
+    "type": "exercise",
+    "id": "68f40033-6954-4955-b2fb-55625cc593d2",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-68f40033-6954-4955-b2fb-55625cc593d2",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "6bbec1e0-37d0-4cc5-aada-d0cd32b34d55",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "cf4143ab-47a5-4827-8be4-90f1d3d5a4df",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+
+          {
+            "type": "editorialWithImage",
+            "id": "291ebc72-4d2f-42fa-91e1-1351493ce587",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

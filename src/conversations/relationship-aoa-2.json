@@ -1,9 +1,8 @@
 {
   "en": {
-    "type": "lesson",
     "root": "1",
     "id": "relationship-aoa-2",
-    "alias": "relationship-aoa-2",
+    "alias": "YA building relationships 2: aware-allow 2",
     "sections": [
       {
         "content": [
@@ -12,7 +11,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# **Friendship super skills**\n\nIn the last challenge you learned to master the skill of taking a breathing pause – a simple little pause that helps you be less reactive.\n\nNow we’ll build on it with two more skills – awareness and allowing."
+                "content": "# **Friendship super skills**\n\nIn the last lesson you learned to take a breathing pause – a simple little pause that helps you be less reactive.\n\nNow we’ll build on it with two more skills – aware and allow."
               }
             ]
           },
@@ -22,7 +21,6 @@
               {
                 "component": "Button",
                 "sectionId": "2",
-                "conversationId": "relationship-aoa-2",
                 "content": "Go on"
               }
             ]
@@ -41,7 +39,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Think of awareness and allowing as skills for life. Along with the breathing pause, these skills will help you with your friendships. \n\nIt will give you a space to separate your own thoughts from truths and go about with important actions even in the presence of difficult feelings."
+                "content": "Think of awareness and allowing as two tools. Along with the breathing pause, these skills will help you separate thoughts from facts.\n\nAlso, you'll find it easier to continue important behavior even when difficult feelings emerge."
               }
             ]
           },
@@ -51,8 +49,7 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "sectionId": "3",
-                "conversationId": "relationship-aoa-2"
+                "sectionId": "3"
               }
             ]
           }
@@ -68,7 +65,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Awareness** is:\n\nNoticing what is happening in your body\n\nNoticing what sensations you are experiencing"
+                "content": " **Awareness** is to:\n\n* **Notice** what is happening in your body\n* Notice what **experiences** you have on the inside\n* If you want, **put words** on thoughts, feelings and experiences"
               }
             ]
           },
@@ -78,8 +75,7 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "sectionId": "4",
-                "conversationId": "relationship-aoa-2"
+                "sectionId": "4"
               }
             ]
           }
@@ -95,7 +91,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Allowing is:**\n\nSeeing thoughts and feelings as coming and going without grabbing or judging them\n\nSeeing thoughts and feelings as messengers, knowing they are not dangerous like knives or guns"
+                "content": "To **allow** is to:\n\n* Let thoughts and feelings **come and go**, like a constant stream of messages from head and body.\n* Let thoughts and feelings **be as they are** - without trying to capture, change or put a value on them"
               }
             ]
           },
@@ -105,8 +101,7 @@
               {
                 "component": "Button",
                 "content": "Got it",
-                "sectionId": "5",
-                "conversationId": "relationship-aoa-2"
+                "sectionId": "5"
               }
             ]
           }
@@ -122,7 +117,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Becoming aware of and allowing your inner sensations are two great skills in helping with friendships. How? Well, you’ll end up less likely to say and do things you will regret later on.\n\nGet ready for a two minute practice to get you on your way."
+                "content": "Being aware of and allowing towards your inner experiences are two important skills when it comes to relationships with friends. The risk of saying or doing things you may later regret decreases."
               }
             ]
           },
@@ -131,9 +126,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "I'm ready",
-                "conversationId": "relationships-aoa-3",
-                "sectionId": "root"
+                "variant": "primary",
+                "content": "On to the next",
+                "conversationId": "relationships-aoa-3"
               }
             ]
           }
@@ -143,10 +138,9 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "root": "1",
     "id": "relationship-aoa-2",
-    "alias": "relationship-aoa-2",
+    "alias": "YA building relationships 2: aware-allow 2",
     "sections": [
       {
         "id": "1",
@@ -157,7 +151,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Superfärdigheter i kompisrelationer\n\nI den förra utmaningen lärde du dig andningspausen – en kort liten paus som hjälper dig att tänka efter innan du reagerar.\n\nNu ska vi bygga på den färdigheten med två nya – medveten och tillåtande."
+                "content": "# Superfärdigheter i kompisrelationer\n\nI den förra lektionen lärde du dig andningspausen – en kort liten paus som hjälper dig att tänka efter innan du reagerar.\n\nNu ska vi bygga på den färdigheten med två nya – medveten och tillåtande."
               }
             ]
           },
@@ -167,7 +161,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-aoa-2",
                 "sectionId": "2"
               }
             ]
@@ -194,7 +187,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationship-aoa-2",
                 "sectionId": "3"
               }
             ]
@@ -221,7 +213,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationship-aoa-2",
                 "sectionId": "4"
               }
             ]
@@ -248,7 +239,6 @@
               {
                 "component": "Button",
                 "content": "Uppfattat",
-                "conversationId": "relationship-aoa-2",
                 "sectionId": "5"
               }
             ]
@@ -273,10 +263,148 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Jag är redo",
-                "conversationId": "relationships-aoa-3",
-                "sectionId": "root"
+                "conversationId": "relationships-aoa-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "root": "1",
+    "id": "relationship-aoa-2",
+    "alias": "YA building relationships 2: aware-allow 2",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# **Super competências de amizade**\n\nNa última lição, aprendeste a fazer uma pausa na respiração – uma pequena pausa simples que te ajuda a ser menos reativa/o.\n\nAgora vamos apoiar-nos em mais duas competências – consciência e aceitação."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "2",
+                "content": "Continuar"
+              }
+            ]
+          }
+        ],
+        "id": "1",
+        "alias": "1",
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Pensa na consciencialização e na aceitação como duas ferramentas. Juntamente com a pausa para respirar, essas competências vão ajudar-te a separar os pensamentos dos factos.\n\nAlém disso, vai ser-te mais fácil manteres um comportamento importante para ti mesmo quando surgirem sentimentos difíceis."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Consciência** é:\n\n* **Observares** o que está a acontecer no teu corpo\n* Observares que **experiências** ocorrem dentro de ti\n* Se quiseres, **colocar em palavras** pensamentos, sentimentos e experiências"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**Aceitação** é:\n\n* Deixar os pensamentos e sentimentos **ir e vir**, como um fluxo constante de mensagens da cabeça e do corpo\n* Deixar que pensamentos e sentimentos **sejam como são** - sem os tentar prender, alterar ou dar um valor"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Percebi",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Estar consciente e aceitar as tuas experiências internas são duas competências importantes quando se trata de relações com amigas/os. O risco de dizer ou fazer coisas das quais te podes arrepender mais tarde diminui."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Para o seguinte",
+                "conversationId": "relationships-aoa-3"
               }
             ]
           }

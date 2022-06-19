@@ -1,0 +1,121 @@
+{
+  "en": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 6",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "Well done for completing the course Meaning-making in a crisis.\n\nYou are now ready for the next important step — the group sharing.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 6",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "title": "På väg mot dina värderingar, ett steg i taget",
+        "content": "Bra gjort. Små beteenden i linje med värderingar kan hjälpa oss att känna mer **mening** i vardagen och göra oss mer **tillfreds** med livet. \n\nMen att **ändra** beteenden kan vara svårt och ibland misslyckas vi även med de enklaste sakerna. När du strävar mot dina värderingar, försök att inte klandra dig själv när du misslyckas. Ge dig själv någon slags belöning när du **anstränger** dig för att nå målet (en kopp kaffe, en glass, en klapp på axeln, ett inre tack till dig själv...). \n\nFundera också på hur du kan göra det **lätt** för dig att göra dina nya beteenden så att ditt mål blir lättare att uppnå. Ibland funkar det att hänga upp nya beteenden på **sånt vi redan gör**, till exempel: \n\n* borsta tänderna -> ringa pappa, \n* gå in genom dörren -> göra tio armhävningar\n* öppna kylskåpet -> plugga i tio minuter",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "# Bra ~~jobbat!~~",
+        "content": "Bra jobbat. Du är nu klar med lektionen Förändra  och hela kursen Hitta mening när livet vänder.\n\nDu har lärt dig att sätta SMART:a mål, och att hitta på många beteenden som leder dig i riktning mot en långsiktig värdering i livet. \n\nDu är nu redo för nästa viktiga steg – gruppdelningen.\n\nDu behöver ha följande till hands för att dela med din grupp:\n\n* Den värdering du valde att jobba med\n* Vilket SMART mål du satte upp\n* Vilka vardagliga beteenden du valde att göra i dag och i morgon, i linje med din värdering\n* Fundera också på hur du upplevde att göra den här kursen och berätta om dina tankar för din grupp",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Stäng"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "b6d8f753-8525-438d-8e6b-2bf83cbac884",
+    "alias": "Meaning-making in a crisis: Making change 6",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Há alguma pequena ação que possas fazer diariamente para cumprir o objetivo que definiste? Pensa no máximo de pequenas ações diárias que conseguires e executa uma delas hoje e outra amanhã. Escreve o que vais fazer hoje e amanhã.",
+        "shortDescription": "Escreve as tuas respostas. Serão o que poderás partilhar com o teu grupo, juntamente com o teu objetivo alinhado com o teu valor.",
+        "longDescription": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai ajudar-te a estares mais consciente e focada/o no momento presente. Vai-te preparar para o próximo passo.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429299/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_10_-_Breathing_Anchor_r7zkxc.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "title": "Reflexão final",
+        "description": "“Não acredito em receitas. Cada contexto é um contexto, cada pessoa é uma pessoa. (…) Mas (…), se aprendermos com os outros, podemos sempre evoluir.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855831/29k%20FJN/Courses/Meaning%20Making/Photos/L2P12NAVIGATINGSTORMYSEAS_adsmip.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044132/29k%20FJN/Courses/Meaning%20Making/Videos/L4_Meaning_making_in_a_crisis_V2_fqx3ha.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares o curso **Encontrar significado nas dificuldades**.\n\nJá podes dar o próximo passo - a partilha em grupo.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

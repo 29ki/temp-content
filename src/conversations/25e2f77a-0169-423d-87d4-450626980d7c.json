@@ -1,0 +1,132 @@
+{
+  "en": {
+    "id": "25e2f77a-0169-423d-87d4-450626980d7c",
+    "alias": "Leadership-purposeanddirection-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "52f8789c-1048-45a4-9d6c-281fae9b35de",
+        "alias": "Intro ",
+        "content": "Any group you’re a part of, be it an organisation, a team, or a social group, will have to decide what its purpose is, and choose what direction it wants go in. \n\nSetting out your purpose and direction will enhance your ability to successfully achieve your goals in ways that are also fulfilling.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "512428cd-135f-4e7f-b0e1-1fc17d960e84"
+          }
+        ],
+        "title": "Purpose and Direction"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "512428cd-135f-4e7f-b0e1-1fc17d960e84",
+        "alias": "In this lesson",
+        "content": "In this lesson you'll learn:\n\n* Purpose and direction\n* Direction fit for purpose\n* Identifying purpose\n* How to bring your vision alive",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's dive in",
+            "sectionId": "7c89a328-60ea-4183-93f0-2e0a51501641"
+          }
+        ],
+        "title": "In this lesson"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7c89a328-60ea-4183-93f0-2e0a51501641",
+        "alias": "Intro 3",
+        "content": "Developing and communicating your group's purpose and direction can also help to build trust.\n\nHowever despite the increasing economic growth, the levels of trust in organizations are in fact plummeting.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "3d4e7bbf-4777-42a6-a8a1-2a4105af328a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3d4e7bbf-4777-42a6-a8a1-2a4105af328a",
+        "content": "Today CEOs are seen as three times less credible sources of information than the average employee. Thus, for both the organizations and ourselves, **cultivating trust** is a must.\n\nCapturing and communicating your purpose and direction is a vital skill for any leader. Let's start by looking closely at two of the primary vehicles through which leaders can accomplish organisational **purpose and direction.**",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a"
+          }
+        ],
+        "alias": "Cultivating trust",
+        "title": "Cultivating trust"
+      }
+    ],
+    "root": "52f8789c-1048-45a4-9d6c-281fae9b35de"
+  },
+  "sv": {
+    "id": "25e2f77a-0169-423d-87d4-450626980d7c",
+    "alias": "Leadership-purposeanddirection-1"
+  },
+  "pt": {
+    "id": "25e2f77a-0169-423d-87d4-450626980d7c",
+    "alias": "Leadership-purposeanddirection-1",
+    "root": "52f8789c-1048-45a4-9d6c-281fae9b35de",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "52f8789c-1048-45a4-9d6c-281fae9b35de",
+        "alias": "Intro ",
+        "content": "Qualquer grupo de que faças parte, seja uma organização, uma equipa ou um grupo social, terá que decidir qual é o seu propósito e escolher a direção que quer tomar.\n\nDefinir o teu propósito e direção vai aumentar a tua capacidade de, não só alcançar com sucesso os teus objetivos, como também de te realizares ao consegui-lo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "512428cd-135f-4e7f-b0e1-1fc17d960e84"
+          }
+        ],
+        "title": "Propósito e Direção"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "512428cd-135f-4e7f-b0e1-1fc17d960e84",
+        "alias": "In this lesson",
+        "content": "Nesta lição, vais aprender:\n\n* Propósito e direção\n* Direção adequada ao propósito\n* Identificação do propósito\n* Como dar vida à tua visão",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos mergulhar ",
+            "sectionId": "7c89a328-60ea-4183-93f0-2e0a51501641"
+          }
+        ],
+        "title": "Nesta lição "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7c89a328-60ea-4183-93f0-2e0a51501641",
+        "alias": "Intro 3",
+        "content": "Desenvolver e comunicar o teu propósito e a direção do teu grupo também pode ajudar-te a construir confiança.\n\nApesar do grande crescimento económico, os níveis de confiança nas organizações estão de facto a cair.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem-me mais ",
+            "sectionId": "3d4e7bbf-4777-42a6-a8a1-2a4105af328a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3d4e7bbf-4777-42a6-a8a1-2a4105af328a",
+        "content": "Hoje, os CEOs são vistos como fontes de informação três vezes menos fiáveis do que o funcionário médio. Portanto, para as organizações e para nós mesmos, é fundamental **cultivar a confiança**.\n\nDefinir e comunicar o teu propósito e direção é uma capacidade vital para qualquer líder. Vamos começar por analisar de perto dois dos principais veículos através dos quais os líderes podem atingir o **propósito** e a **direção** da organização.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "0d10ba5c-fe19-45d9-9d3c-e1c82e8e677a"
+          }
+        ],
+        "alias": "Cultivating trust",
+        "title": "Cultivar a confiança "
+      }
+    ]
+  }
+}

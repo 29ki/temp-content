@@ -1,0 +1,239 @@
+{
+  "en": {
+    "id": "resilience-and-stress-the-inner-friend-3",
+    "alias": "resilience-and-stress-the-inner-friend-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "longDescription": "Now, **write** your letter and keep it. It doesn’t have to be long — **half a page** is just fine.\n\nKeep in mind to:\n\n1. Use a **loving** and **caring** voice.\n2. Show your younger self that you can **see** the difficulties you were facing. Express that you're trying to **understand** all experiences you had.\n3. **Tell** your younger self that **despite** past experiences and despite doubts, it’s **fully** **possible** to take action and create the person you want to be.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "shortDescription": "Time for reflection",
+        "longDescription": "Write down your answers.\n\n1. How did you **feel** writing this letter to yourself? \n2. Were you able to get **in** **touch** with feelings of compassion for yourself? \n3. If you could travel ten years into the future, would that **future** **version** of yourself express the **same** love and care for the person you are today? \n4. What would that future person say to the person you are today, in a few sentences?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section9"
+          }
+        ],
+        "question": "",
+        "time": "",
+        "alias": "section8",
+        "title": "",
+        "type": "writing",
+        "id": "section8"
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "Summary",
+        "content": "Well done on completing **The inner friend**! \n\nYou've practiced self-compassion by writing a loving letter to a younger version of yourself. \n\nResearch has proven that this can **increase** **happiness** and **motivation**, and at the same time **reduce** **anxiety** and **depressive** symptoms.\n\nAnd remember — being a good friend to yourself may be **the most important** relationship you'll have throughout life.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Next step",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next step — to share with your group. \n\nRemember the questions: \n\n1. How did you **feel** writing this letter to yourself? \n2. Were you able to get **in** **touch** with feelings of compassion for yourself? \n3. If you could travel ten years into the future, would that **future** **version** of yourself express the **same** love and care for the person you are today? \n4. What would that future person say to the person you are today, in a few sentences?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-the-inner-friend-3",
+    "alias": "resilience-and-stress-the-inner-friend-3",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "Övning",
+        "time": "",
+        "longDescription": "Skriv nu ditt brev och behåll det. Det behöver inte vara långt, **en halv sida** räcker gott.\n\nTänk på att:\n\n1. Använd en **kärleksfull** och **omtänksam** röst.\n2. Visa ditt yngre jag att du kan **se** svårigheterna du mötte. Förmedla att du försöker **förstå** alla upplevelser du hade.\n3. **Berätta** för ditt yngre jag att **trots** tidigare upplevelser och trots tvivel, så är det **fullt** **möjligt** att agera och skapa den person du vill vara.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är färdig",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "shortDescription": "Tid för reflektion",
+        "longDescription": "Skriv ned dina svar.\n\n1. Hur **kändes** det att skriva det här brevet till dig själv?\n2. Kunde du **komma i** **kontakt** med din självmedkänsla?\n3. Om du kunde resa tio år framåt i tiden, skulle den **framtida** **versionen** av dig kunna uttrycka **liknande** kärlek och omtanke för den person du är idag? \n4. I några få meningar, vad skulle den framtida versionen av dig säga till den person du är idag?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är färdig",
+            "sectionId": "c91c7598-1c3a-4e33-ba41-6e298592ad13"
+          }
+        ],
+        "question": "",
+        "time": "",
+        "alias": "section9",
+        "title": "",
+        "type": "writing",
+        "id": "section9"
+      },
+      {
+        "type": "video",
+        "id": "c91c7598-1c3a-4e33-ba41-6e298592ad13",
+        "title": "Ett brev till ett yngre jag",
+        "alias": "Video",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_dininrevan_ovning.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622489331/Hantera%20Stress%20Adult/dininreva%CC%88n_o%CC%88vning_z2kp2n.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Sammanfattning",
+        "content": "Bra gjort, du är nu klar med **Din inre vän**!\n\nDu har övat på självmedkänsla genom att skriva ett kärleksfullt brev till en yngre version av dig själv. \n\nForskning har visat att det kan **öka** både **lycka** och **motivation**, samtidigt som det **minskar** **ångest** och **depressiva** symtom.\n\nOch kom ihåg — att vara en god vän med dig själv kan vara det **viktigaste** **förhållandet** du kommer ha genom livet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Nästa steg",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Du är nu redo för nästa steg — att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Hur **kändes** det att skriva det här brevet till dig själv?\n2. Kunde du komma i **kontakt** med din **självmedkänsla**?\n3. Om du kunde resa tio år framåt i tiden, skulle den **framtida** **versionen** av dig kunna uttrycka **liknande** kärlek och omtanke för den person du är idag?\n4. I några få meningar, vad skulle den framtida versionen av dig **säga** till den person du är idag?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-the-inner-friend-3",
+    "alias": "resilience-and-stress-the-inner-friend-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "writing",
+        "title": "Uma carta de amor",
+        "time": "15 min",
+        "longDescription": "Na carta que estás prestes a escrever, tenta falar com essa versão tua mais jovem usando uma voz amável e carinhosa. Mostra ao teu eu mais jovem que consegues ver os pensamentos e sentimentos negativos. As dificuldades que estavas a enfrentar. Expressa a tua compreensão relativamente a esses pensamentos e sentimentos.\n\nDiz também ao teu eu mais jovem que, apesar das experiências anteriores, apesar das dúvidas, é possível agir e criar o teu futuro.\n\nAgora, escreve a tua carta numa folha de papel e guarda-a. Não precisa de ser muito longa, meia página é suficiente.\n\nContinua a lição quando terminares a tua carta de amor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "writing",
+        "title": "A tua carta de amor",
+        "time": "5-10 min",
+        "question": "",
+        "longDescription": "Qual foi a sensação de escreveres esta carta de amor para ti?\n\nConseguiste entrar em contato com sentimentos de compaixão por ti?\n\nSe viajasses dez anos para o futuro, a tua versão futura poderia expressar o mesmo amor e carinho pela pessoa que és hoje?\n\nEm poucas frases, o que diria esse futuro tu à pessoa que és hoje?\n\nEscreve as tuas respostas numa folha de papel e guarda-a. Vais poder partilhá-las com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "bbea321d-fed6-4243-9857-53bdb7fe3011"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "bbea321d-fed6-4243-9857-53bdb7fe3011",
+        "alias": "section9a",
+        "title": "Qual foi a sensação de escreveres... ",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "description": "“E se calhar se o meu eu do futuro estivesse aqui agora diria, tu és tão feliz e nem consegues reparar?”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543792/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L7thumbnailoteuamigointeriorvideo_dguil4.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621807015/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L7_Stress_and_resilience_V1_9-16_nlfojy.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "Parabéns!",
+        "content": "Completaste **O/a amigo/a interior** e praticaste ser uma boa amiga ou um bom amigo para ti, concentrando-te na respiração e escrevendo uma carta de amor para ti quando eras mais jovem.\n\nSeres uma boa amiga ou um bom amigo para ti própria/o poderá ser a relação mais importante que terás ao longo da vida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "# Parabéns!",
+        "content": "Agora já podes partilhar com o teu grupo.\n\nLembra-te das perguntas para partilhar:\n\nComo te sentiste ao escrever uma carta de amor para ti? Entraste em contato com sentimentos de compaixão?\n\nImagina-te daqui a dez anos. Esse teu eu futuro poderia expressar amor e carinho pela pessoa que és hoje? O que te diria esse futuro tu?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

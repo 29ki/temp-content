@@ -1,0 +1,65 @@
+{
+  "en": {
+    "screenTitle": "Share",
+    "sharingPostsTitle": "Gratitude sharings",
+    "joinButton": "Join group",
+    "testimonial": {
+      "text": "It’s great to say your “secret” shame out loud to the people in the group without anyone trying to fix you or shame you even further."
+    },
+    "loadingError": {
+      "title": "Error",
+      "description": "Sorry, there was an error loading your groups. Try to refresh."
+    },
+    "sharingGroups": {
+      "sectionTitle": "Sharing groups",
+      "joinOthers": {
+        "title": "Grow with others",
+        "testimonial": "It's great to say your ”secret” shame out loud to the people in the group without anyone trying to fix you or shame you even further.",
+        "ctaButton": "Choose your group",
+        "learn": "Learn more"
+      }
+    }
+  },
+  "sv": {
+    "screenTitle": "Dela",
+    "sharingPostsTitle": "Delningar om tacksamhet",
+    "joinButton": "Ny grupp",
+    "testimonial": {
+      "text": "Det är så skönt att dela det man egentligen skäms för i en grupp där ingen försöker fixa dig eller få dig att skämmas ännu mer.  "
+    },
+    "loadingError": {
+      "title": "Fel",
+      "description": "Tyvärr uppstod ett fel vid inläsning av dina grupper. Prova att uppdatera."
+    },
+    "sharingGroups": {
+      "sectionTitle": "Grupper",
+      "joinOthers": {
+        "title": "Utvecklas tillsammans med andra",
+        "testimonial": "Så skönt att få dela det man egentligen skäms för i en grupp där ingen försöker fixa dig eller får dig att skämmas ännu mer.",
+        "ctaButton": "Välj din grupp",
+        "learn": "Mer information"
+      }
+    }
+  },
+  "pt": {
+    "screenTitle": "Partilhar",
+    "sharingPostsTitle": "Partilhas Públicas",
+    "joinButton": "Junta-te ao grupo",
+    "testimonial": {
+      "text": "É ótimo poderes partilhar os teus sentimentos mais desafiantes com as pessoas do grupo, sem ninguém te censurar ou deitar abaixo."
+    },
+    "loadingError": {
+      "title": "Erro",
+      "description": "Desculpa, ocorreu um erro no carregamento dos grupos. Tenta atualizar o ecrã."
+    },
+    "sharingGroups": {
+      "sectionTitle": "Grupos de partilha",
+      "joinOthers": {
+        "title": "Desfruta a 29k FJN com os outros",
+        "testimonial": "É ótimo poderes partilhar os teus sentimentos mais desafiantes com as pessoas do grupo, sem ninguém te censurar ou deitar abaixo.",
+        "ctaButton": "Escolhe o teu grupo",
+        "learn": "Sabe mais"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "en": {
+    "subject": "Your feedback to 29k",
+    "body__markdown": "This message was sent from the 29k app:"
+  },
+  "sv": {
+    "subject": "Din feedback till 29k",
+    "body__markdown": "Det här meddelandet skickades från 29k-appen:"
+  },
+  "pt": {
+    "subject": "Os teus comentários para a 29k FJN",
+    "body__markdown": "Esta mensagem foi enviada da aplicação 29k FJN:"
+  }
+}

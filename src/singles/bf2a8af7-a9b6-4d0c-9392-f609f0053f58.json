@@ -1,0 +1,319 @@
+{
+  "en": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Drop all requirements",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/drop_all_requirements_nsborc.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "bf2a8af7-a9b6-4d0c-9392-f609f0053f58",
+    "description": "Focus exercise for stressful moments",
+    "wip": false,
+    "stations": [
+      {
+        "id": "the-long-list",
+        "alias": "Meditation Drop all requirements",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/drop_all_requirements_nsborc.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Drop all requirements"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "When we are stressed, thoughts and emotions often spin around quickly inside our heads and bodies. In this focus exercise, you practice getting a little break from everyday stress."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Listen to the audio file and follow the instructions."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646705/Meditations/2_Drop_all_requirements_mwfeck.wav",
+                  "duration": 5
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Move on"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Lovely. You gave yourself a short recovery break, trained to focus on different things and thought about how different thoughts feel in the body. Good work."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "Sharingquestion08",
+            "alias": "Sharingquestion08",
+            "question": "What did doing this exercise feel like?",
+            "exampleText": "Great! It really put things into perspective and I feel more at ease."
+          }
+        ],
+        "name": "Drop all requirements",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "Släpp alla krav",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/drop_all_requirements_nsborc.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "meditation",
+    "id": "bf2a8af7-a9b6-4d0c-9392-f609f0053f58",
+    "description": "Fokusövning för stressiga stunder",
+    "stations": [
+      {
+        "id": "the-long-list",
+        "alias": "Meditation Drop all requirements",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/drop_all_requirements_nsborc.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# Släpp alla krav"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "När vi är stressade snurrar tankar och känslor ofta snabbt inuti huvudet och kroppen. I den här fokusövningen tränar du på att få en liten paus i vardagsstressen."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Kör igång"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Lyssna på ljudfilen och följ instruktionerna."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-long-list-sv.mp3",
+                  "duration": 411
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Gå vidare"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Härligt. Du har gett dig själv en kort återhämtande paus, tränat på att fokusera på olika saker samt funderat på hur olika tankar känns i kroppen. Bra jobbat."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Färdig"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "Sharingquestion08",
+            "alias": "Sharingquestion08",
+            "question": "Hur upplevde du att göra den här övningen?",
+            "exampleText": "Bra! Övningen hjälpte mig att sätta stressen i perspektiv."
+          }
+        ],
+        "name": "Släpp alla krav",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "YOUNG_ADULTS",
+      "ADULTS"
+    ],
+    "name": "The Long List",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/drop_all_requirements_nsborc.png"
+    },
+    "duration": {
+      "count": 5,
+      "type": "minute"
+    },
+    "type": "meditation",
+    "id": "bf2a8af7-a9b6-4d0c-9392-f609f0053f58",
+    "description": "Focus exercise for stressful moments",
+    "wip": true,
+    "stations": [
+      {
+        "id": "the-long-list",
+        "alias": "Meditation Drop all requirements",
+        "root": "section1",
+        "sections": [
+          {
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794024/New_images/meditations%20png/1024x1024/drop_all_requirements_nsborc.png"
+                }
+              },
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "# The Long List"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "When we are stressed, thoughts and emotions often spin around quickly inside our heads and bodies. In this focus exercise, you practice getting a little break from everyday stress."
+                  }
+                ]
+              }
+            ],
+            "id": "section1",
+            "alias": "section1",
+            "type": "defaultSection",
+            "buttonText": "Let's go"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Listen to the audio file and follow the instructions."
+                  }
+                ]
+              },
+              {
+                "component": "AudioPlayer",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-long-list-sv.mp3",
+                  "duration": 255
+                }
+              }
+            ],
+            "id": "section2",
+            "alias": "section2",
+            "type": "defaultSection",
+            "buttonText": "Move on"
+          },
+          {
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Text",
+                    "content": "Lovely. You gave yourself a short recovery break, trained to focus on different things and thought about how different thoughts feel in the body. Good work."
+                  }
+                ]
+              }
+            ],
+            "id": "section3",
+            "alias": "section3",
+            "type": "defaultSection",
+            "buttonText": "Done"
+          },
+          {
+            "type": "sharingExercise",
+            "id": "Sharingquestion08",
+            "alias": "Sharingquestion08",
+            "question": "What did doing this exercise feel like?",
+            "exampleText": "Great! It really put things into perspective and I feel more at ease."
+          }
+        ],
+        "name": "The Long List",
+        "type": "station"
+      }
+    ]
+  }
+}

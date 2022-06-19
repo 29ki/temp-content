@@ -1,0 +1,14 @@
+{
+  "en": {
+    "question": "Rate this exercise",
+    "detailedQuestion": "What did you think about it?"
+  },
+  "sv": {
+    "question": "Sätt betyg på övningen",
+    "detailedQuestion": "Vad tyckte du om övningen?"
+  },
+  "pt": {
+    "question": "Avalia esta exercício",
+    "detailedQuestion": "O que você achou do exercício?"
+  }
+}

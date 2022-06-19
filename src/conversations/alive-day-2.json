@@ -2,7 +2,6 @@
   "en": {
     "id": "alive-day-2",
     "alias": "alive-day-2",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
@@ -12,15 +11,20 @@
           "days": 0,
           "hours": 8,
           "minutes": 23,
-          "title": "Alive Day 2 Mission",
+          "title": "Alive Day 2 Quest",
           "body": "Over the next few hours, do something that gives you a sense of satisfaction or contentment. Notice if it tells you something about yourself."
         },
+        "sharingWall": {
+          "question": "What did you learn while doing today’s quest?",
+          "exampleText": "I've learnt that fulfilling my needs is important."
+        },
         "followUp": {
+          "id": "followUpDay2",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 2 Check-in",
-          "body": "Time to check-in with your today’s mission!"
+          "body": "Time to check-in with today’s quest!"
         },
         "lessonlastDay": false,
         "alias": "alive-day-2",
@@ -34,29 +38,70 @@
   "sv": {
     "id": "alive-day-2",
     "alias": "alive-day-2",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "welcomeHeading": "Welcome to Day 2",
+        "welcomeHeading": "Välkommen till dag 2",
         "askForPNs": true,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 2",
-          "body": "Over the next few hours, do something that gives you a sense of satisfaction or contentment. Notice if it tells you something about yourself."
+          "title": "Uppdrag dag 2",
+          "body": "Under de närmaste timmarna, gör något som ger dig en känsla av tillfredsställelse eller gör dig nöjd. Lägg märke till om det lär dig något om dig själv.",
+          "id": "aliveDay2rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur kändes det att göra dagens uppdrag?",
+          "exampleText": "Jag lärde mig att det är viktigt att möta mina behov."
         },
         "followUp": {
+          "id": "followUpDay2",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 2 Check-in",
-          "body": "Time to check-in with your today’s mission!"
+          "title": "Uppdrag dag 2 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
         },
         "lessonlastDay": false,
         "alias": "alive-day-2",
         "nextConversationId": "alive-day-3",
+        "type": "microInterventionDay",
+        "id": "alive-day-2"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-2",
+    "alias": "alive-day-2",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 2",
+        "task": {
+          "id": "aliveDay2rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 23,
+          "title": "Desafio ALIVE dia 2",
+          "body": "Durante as próximas horas, faz uma coisa que te dê uma sensação de satisfação ou contentamento. Percebe se isso te diz alguma coisa acerca de ti própria/o."
+        },
+        "sharingWall": {
+          "question": "O que aprendeste durante o desafio de hoje?",
+          "exampleText": "É muito importante dar também atenção às coisas que me trazem boas sensações."
+        },
+        "followUp": {
+          "id": "followUpDay2",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 2 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-2",
+        "nextConversationId": "alive-day-3",
+        "initialDay": false,
         "type": "microInterventionDay",
         "id": "alive-day-2"
       }

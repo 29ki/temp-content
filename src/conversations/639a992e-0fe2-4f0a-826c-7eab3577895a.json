@@ -1,0 +1,177 @@
+{
+  "en": {
+    "id": "639a992e-0fe2-4f0a-826c-7eab3577895a",
+    "alias": "Leadership-Interactforapurpose-5",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ac94feb7-6e02-4e5f-afaa-0e09e59dfc15",
+        "alias": "Networking",
+        "title": "Networking",
+        "content": "The final skill is **networking**. \n\nIt involves identifying and building connections with people who can provide access to personal, professional or societal resources that help you to pursue purpose.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "11c5f9fe-2fd9-4c3f-904c-9c7d48de9d16"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "11c5f9fe-2fd9-4c3f-904c-9c7d48de9d16",
+        "alias": "Networking 2",
+        "content": "Although you might purposefully try to meet particular people that could give you access to certain resources, it's often the unexpected connections that develop naturally that create the most meaningful opportunities to pursue purpose.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "What does it really mean?",
+            "sectionId": "98189b41-8b9e-4ea4-bbec-9ffa426ab02f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "98189b41-8b9e-4ea4-bbec-9ffa426ab02f",
+        "content": "For example, imagine you're at an event with a pre-made list of all the people you want to meet *because* they might be useful to you.\n\nHow genuine do you think you'd come across after you've pre-determined who and what you want to get out of the situation? Would you be likely to miss out or disregard some of the *other* opportunities?\n\nIf this resonates with you, consider for a moment how this gets in a way of connecting and developing networks with people you hadn't expected to meet.",
+        "alias": "Networking 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Makes sense",
+            "sectionId": "9e093a16-cdc8-48c3-8b6a-b9f3b9ac3891"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9e093a16-cdc8-48c3-8b6a-b9f3b9ac3891",
+        "content": "Unexpected connections can be useful in ways you could never imagine beforehand. Maybe they become your partner, spark an idea for an incredible business, or become your new commuting buddy. \nWhether big or small, we often can't imagine what opportunities and possibilities could unfold simply by meeting people.\n\n* Can you recall a situation when you've met someone unexpectedly and it made a big impact on your life?",
+        "title": "How often have you met someone by chance that you immediately clicked with?",
+        "alias": "Networking 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "2836bd3d-4f59-43ee-80da-388b2ef0c1dc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2836bd3d-4f59-43ee-80da-388b2ef0c1dc",
+        "content": "* **Get out more.** The only place you can build networks is by getting out there and going to events where you can connect with new people \n* Remain **tuned-in** and open to opportunities\n* Ask **questions** to better understand people and their point of view\n* Find a **common ground** that matters to you both",
+        "title": "How can you use this style in the real world?",
+        "alias": "Networking 5",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967"
+          }
+        ]
+      }
+    ],
+    "root": "ac94feb7-6e02-4e5f-afaa-0e09e59dfc15"
+  },
+  "sv": {
+    "id": "639a992e-0fe2-4f0a-826c-7eab3577895a",
+    "alias": "Leadership-Interactforapurpose-5"
+  },
+  "pt": {
+    "id": "639a992e-0fe2-4f0a-826c-7eab3577895a",
+    "alias": "Leadership-Interactforapurpose-5",
+    "root": "ac94feb7-6e02-4e5f-afaa-0e09e59dfc15",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ac94feb7-6e02-4e5f-afaa-0e09e59dfc15",
+        "alias": "Networking",
+        "title": "Networking",
+        "content": "A competência final é ***networking***\n\nEsta competência envolve a identificação e construção de conexões com pessoas que podem fornecer acesso a recursos pessoais, profissionais ou sociais que te ajudam a atingir um propósito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem mais",
+            "sectionId": "11c5f9fe-2fd9-4c3f-904c-9c7d48de9d16"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "11c5f9fe-2fd9-4c3f-904c-9c7d48de9d16",
+        "alias": "Networking 2",
+        "content": "Embora possas intencionalmente tentar encontrar pessoas específicas que possam dar-te acesso a certos recursos, geralmente são as conexões inesperadas que se desenvolvem naturalmente que criam as oportunidades mais significativas para atingir um propósito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "O que quer realmente dizer?",
+            "sectionId": "98189b41-8b9e-4ea4-bbec-9ffa426ab02f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "98189b41-8b9e-4ea4-bbec-9ffa426ab02f",
+        "content": "Por exemplo, imagina que estás num evento com uma lista pré-determinada de todas as pessoas que queres conhecer, porque elas te podem ser úteis.\n\nQuão genuíno achas que parecerias depois de pré-determinar quem e o que queres tirar da situação? Será que perderias ou ignorarias algumas das outras oportunidades?\n\nSe isso te faz sentido, tira um momento para avaliar como isto atrapalha a conexão e o desenvolvimento de redes com pessoas que não esperavas encontrar.",
+        "alias": "Networking 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Faz sentido ",
+            "sectionId": "9e093a16-cdc8-48c3-8b6a-b9f3b9ac3891"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9e093a16-cdc8-48c3-8b6a-b9f3b9ac3891",
+        "content": "Conexões inesperadas podem ser úteis de maneiras que nunca poderias imaginar. Talvez essas pessoas se tornem tuas parceiras, desenvolvam uma ideia para um negócio incrível ou se tornem os teus novos companheiros de viagem. \nGrandes ou pequenas, muitas vezes não podemos imaginar que oportunidades e possibilidades podem revelar-se apenas por conhecermos pessoas novas.\n\n* Consegues lembrar-te de uma situação em que tenhas conhecido alguém inesperadamente e que tenha tido um grande impacto na tua vida?",
+        "title": "Quantas vezes já encontraste alguém por acaso, a quem te sentiste ligada/o imediatamente?",
+        "alias": "Networking 4",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Acabei ",
+            "sectionId": "3496864a-b9a0-40a8-9b0b-1438f560148d"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "3496864a-b9a0-40a8-9b0b-1438f560148d",
+        "alias": "AHO Video",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179046/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_4._Interage_socialmente_com_um_prop%C3%B3sito_-_video_1_gujvjs.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179140/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L4V1_pohthk.mp4"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "2836bd3d-4f59-43ee-80da-388b2ef0c1dc"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2836bd3d-4f59-43ee-80da-388b2ef0c1dc",
+        "content": "* **Sai mais**. Um lugar onde podes formar redes é saíres, indo por exemplo a eventos ligando-te a pessoas novas.\n* Fica **atento/a** e aberto/a a oportunidades.\n* **Faz perguntas** para entender melhor as pessoas e os seus pontos de vista.\n* Encontra um **terreno comum** que seja importante para ambos.",
+        "title": "Como posso usar esse estilo no mundo real?",
+        "alias": "Networking 5",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "7799ed3b-dba2-4cad-b4a8-a86bbdf8f967"
+          }
+        ]
+      }
+    ]
+  }
+}

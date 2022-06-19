@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "50fb1198-8d3f-4b54-b13c-dbd618e5831b",
+    "alias": "Leadership-styles-1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b92781d4-85e7-454e-b0e7-aa0ac367871e",
+        "alias": "Intro",
+        "content": "Just as organisations, coaches, and academics almost lost hope that they could develop effective leadership training, Bass & Avolio's (1998) **full range leadership model** created a paradigm shift ushering in a new, effective, evidence-based set of skills to train a new type of leader - **a transformational leader**. \n\nThese are the skills you will learn in this lesson.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's get started!",
+            "sectionId": "19e48c30-1d6a-4b95-9d65-24f7fa6b0442"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "19e48c30-1d6a-4b95-9d65-24f7fa6b0442",
+        "alias": "In this lesson",
+        "content": "In this lesson, you'll learn how to build trust and use 4 core transformational leadership skills that can help you and others pursue meaningful goals in work, life and coaching.  \n\n* Individualized consideration\n* Intellectual stimulation\n* Inspirational motivation\n* Idealized influence\n* **Exercise:** Building trust",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "41d522a3-b464-4652-9543-eede68f04649",
+            "content": "Got it"
+          }
+        ],
+        "title": "In this lesson"
+      }
+    ],
+    "root": "b92781d4-85e7-454e-b0e7-aa0ac367871e"
+  },
+  "sv": {
+    "id": "50fb1198-8d3f-4b54-b13c-dbd618e5831b",
+    "alias": "Leadership-styles-1"
+  },
+  "pt": {
+    "id": "50fb1198-8d3f-4b54-b13c-dbd618e5831b",
+    "alias": "Leadership-styles-1",
+    "root": "b92781d4-85e7-454e-b0e7-aa0ac367871e",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "b92781d4-85e7-454e-b0e7-aa0ac367871e",
+        "alias": "Intro",
+        "content": "Numa altura em que organizações, formadores e académicos quase perderam a esperança de poderem desenvolver uma formação de liderança eficaz, o **modelo completo de liderança** de Bass & Avolio’s (1998) criou uma mudança de paradigma dando início a um novo modelo de competências baseadas em evidências que são eficazes para treinar um novo tipo de líder - um/a **líder transformativo/a.**\n\nEssas são as competências que vais aprender nesta lição.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos começar!",
+            "sectionId": "19e48c30-1d6a-4b95-9d65-24f7fa6b0442"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "19e48c30-1d6a-4b95-9d65-24f7fa6b0442",
+        "alias": "Nesta lição ",
+        "content": "Nesta lição, vais aprender a construir confiança e a usar 4 competências essenciais de uma liderança transformadora que te podem ajudar a ti e a outras pessoas a alcançar objetivos relevantes para o trabalho e para a vida.\n\n* Consideração individualizada\n* Estímulo intelectual\n* Motivação inspiracional \n* Influência idealizada \n* **Exercício:** Construir confiança",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "41d522a3-b464-4652-9543-eede68f04649",
+            "content": "Percebi "
+          }
+        ],
+        "title": "Nesta lição "
+      }
+    ]
+  }
+}

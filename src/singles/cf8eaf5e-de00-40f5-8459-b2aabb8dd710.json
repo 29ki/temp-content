@@ -1,0 +1,153 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Accepting thoughts and feelings",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/accepting_thoughts_and_feelings_mphh2l.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "version": 1,
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+        "name": "Accepting thoughts and feelings",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "a411c85c-4e89-4e2a-a4c2-d7f30fbc5925",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/accepting_thoughts_and_feelings_mphh2l.png",
+            "title": "Acceptance",
+            "description": "Practicing acceptance includes intentionally paying attention to the reality of things **without trying to change, run away from, or fix them**. Just being with whatever shows up.\n\nPress play to practice accepting your thoughts and feelings.",
+            "buttonText": "I'm done",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1643360605/Meditations/Agnes_bell_kmwzos.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "a025fcd3-581b-4516-8dd2-4e9f4e653cfd",
+            "question": "What did you notice during the meditation?",
+            "exampleText": "I realized that I often try to ignore, change, or run away from my feelings.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Acceptera tankar och känslor",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/accepting_thoughts_and_feelings_mphh2l.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+        "name": "Acceptera tankar och känslor",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "a411c85c-4e89-4e2a-a4c2-d7f30fbc5925",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/accepting_thoughts_and_feelings_mphh2l.png",
+            "title": "Acceptans",
+            "description": "Acceptans handlar om att möta verkligheten så som den är utan att **försöka förändra, undvika eller påverka den**. Att bara vara med det som dyker upp.\n\nTryck på play-knappen för att öva på att acceptera dina tankar och känslor.",
+            "buttonText": "Jag är klar",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640090877/Meditations/Meditation_med_musik_olorkf.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "d417c147-332e-4f94-afe1-47ced66d395e",
+            "question": "Vad la du märke till under meditationen?",
+            "exampleText": "Jag insåg att jag ofta försöker ignorera, förändra eller fly från mina känslor.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Aceitar os pensamentos e sentimentos",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/accepting_thoughts_and_feelings_mphh2l.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 7
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "type": "meditation",
+    "id": "cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-cf8eaf5e-de00-40f5-8459-b2aabb8dd710",
+        "name": "Aceitar os pensamentos e sentimentos",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "a411c85c-4e89-4e2a-a4c2-d7f30fbc5925",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/accepting_thoughts_and_feelings_mphh2l.png",
+            "title": "Aceitar os pensamentos e sentimentos",
+            "description": "Praticar a **aceitação** é assumir a **realidade**.\n\nCarrega no play para praticares **aceitar** os teus **pensamentos** e **sentimentos**.",
+            "buttonText": "Já fiz",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1645632260/29k%20FJN/Meditations/Cristina%202022/ACEITA_OS_PENSAMENTOS_SENTIMENTOS_SENSACOES_-_07_06_sfzzpt.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "a025fcd3-581b-4516-8dd2-4e9f4e653cfd",
+            "question": "O que sentiste durante a meditação?",
+            "exampleText": "Percebi que muitas vezes tento ignorar, mudar ou fugir dos meus sentimentos.",
+            "buttonText": "Terminar"
+          }
+        ]
+      }
+    ]
+  }
+}

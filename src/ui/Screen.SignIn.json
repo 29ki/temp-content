@@ -1,0 +1,53 @@
+{
+  "en": {
+    "signUp_link": "Create an account",
+    "dividerText": "or",
+    "error": {
+      "email": "Provide a valid email address",
+      "network": "Oops! There might be a problem with the network connection. Please try again",
+      "password": "Provide a password longer than 6 characters",
+      "unknown": "Your password is incorrect, please try again"
+    },
+    "submit_button_active": "Signing in",
+    "screenTitle": "Log in",
+    "signUp_text": "New here?",
+    "apple_button": "Log in with Apple",
+    "google_button": "Log in with Google",
+    "submit_button": "Log in",
+    "forgotPassword_link": "Forgot password?"
+  },
+  "sv": {
+    "signUp_link": "Skapa ett konto",
+    "dividerText": "eller",
+    "error": {
+      "email": "Ange en e-postadress",
+      "network": "Oops! Det kan vara ett problem med uppkopplingen. Försök gärna igen",
+      "password": "Ange ett lösenord som är längre än 6 tecken",
+      "unknown": "Ditt lösenord stämmer inte, försök gärna igen"
+    },
+    "submit_button_active": "Loggar in",
+    "screenTitle": "Logga in",
+    "signUp_text": "Ny här?",
+    "apple_button": "Logga in med Apple",
+    "google_button": "Logga in med Google",
+    "submit_button": "Logga in",
+    "forgotPassword_link": "Glömt ditt lösenord?"
+  },
+  "pt": {
+    "signUp_link": "Cria a tua conta",
+    "dividerText": "ou",
+    "error": {
+      "email": "Escreve um email válido",
+      "network": "Oops! Parece haver um problema na ligação à rede. Por favor, tenta outra vez",
+      "password": "A palavra-passe deve ter mais de 6 caracteres",
+      "unknown": "A tua palavra-passe está errada, por favor tenta outra vez"
+    },
+    "submit_button_active": "A entrar",
+    "screenTitle": "Entrar",
+    "signUp_text": "És novo por aqui?",
+    "apple_button": "Entra com a tua conta Apple",
+    "google_button": "Entra com a tua conta Google",
+    "submit_button": "Entrar",
+    "forgotPassword_link": "Esqueci-me da palavra-passe"
+  }
+}

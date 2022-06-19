@@ -1,0 +1,310 @@
+{
+  "en": {
+    "id": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+    "alias": "Nourishing relationships 1: Nour rel-3",
+    "root": "section7",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Your task is to **draw** a **map** of your relationships across different domains in your life.\n\nStart off by taking out a blank sheet of **paper**. Draw a small **circle** in the middle of a page, and write your **name** inside it.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "78a8afa6-c167-4379-b603-c98eaa0e22d7"
+          }
+        ],
+        "question": "",
+        "time": "",
+        "alias": "Exercise: relationship map",
+        "title": "Your relationship map",
+        "type": "writing",
+        "id": "section7"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "78a8afa6-c167-4379-b603-c98eaa0e22d7",
+        "content": "Feel free to choose your own design. If you like, here is some inspiration:\n\n* Keep people who are **closest** to you near to your name.\n* Use lines to **connect** your name with others.\n* Use different line shapes to **symbolize** the **quality** of each relationship (e.g. a perforated line for relationships that need repairing).",
+        "alias": "Exercise: relationship map II",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "More suggestions",
+            "sectionId": "00496e01-43b0-42d4-953b-694d1dcb5f13"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630501153/Group_742_haueta.png"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "00496e01-43b0-42d4-953b-694d1dcb5f13",
+        "content": "* **Cluster** people in different areas of the map in ways that makes sense to you (e.g. upper left corner = friends you mainly do activities with, lower right corner = family).\n* Draw **symbols** next to each name symbolizing something of your choosing (e.g. heart = can share difficult emotions with, smile = we have lots of fun, sun = want to get to know better).\n* Use different **colors** and fonts.",
+        "alias": "Exercise: relationship map IIi",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "My map is finished",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "shortDescription": "",
+        "longDescription": "Take a moment to reflect. Write down your answers.\n\n1. What are your **general** **reflections** from creating your relationship map?\n2. Going forward, what would you like to **focus** on and why?\n3. **Whom** would you like to **reach** **out** to today?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "5445a564-819a-4768-94d4-166266715794"
+          }
+        ],
+        "question": "",
+        "time": "",
+        "alias": "Exercise post relationship map",
+        "title": "",
+        "type": "writing",
+        "id": "section8"
+      },
+      {
+        "type": "video",
+        "id": "5445a564-819a-4768-94d4-166266715794",
+        "alias": "My story",
+        "title": "My story",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "b59a00aa-0b73-4bb5-b1e0-a036933edfa6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson1.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b59a00aa-0b73-4bb5-b1e0-a036933edfa6",
+        "content": "Now it's time for you to take the step you've been preparing for by **reaching** **out** to the person you chose.\n\nA call, a text message or an email **all count**, especially if you can’t meet in person right now.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I've reached out",
+            "sectionId": "25dba100-8cd7-48e4-aca8-fe96e244b01e"
+          }
+        ],
+        "alias": "Reaching out"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "25dba100-8cd7-48e4-aca8-fe96e244b01e",
+        "exampleText": "I felt proud, exited and a bit nervous about rekindling the somewhat complicated relationship I have with my sibling.",
+        "question": "Once you reached out to the person in mind, how did it make you feel?",
+        "alias": "Sharing question",
+        "nextSection": "bfa1df6b-b805-4a33-853a-85ef420eb3a3"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bfa1df6b-b805-4a33-853a-85ef420eb3a3",
+        "content": "Well done for completing **The relationship map**!\n\nIn this lesson you've learnt more about the **benefits** of deep relationships. You've also taken concrete actions towards **nourishing** a **relationship** with someone who's **important** to you.\n\nWhen we experience genuine love, our entire body relaxes. Stress hormones go down. And we feel safe and connected.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next step",
+            "sectionId": "section9"
+          }
+        ],
+        "alias": "Summary",
+        "title": "Summary"
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "You are now ready for the next important step — the group sharing.\n\nShare your answers and reflections from this exercise.\n\n* What are your **general** **reflections** from this exercise?\n* What would you like to **focus** on and why?\n* **Whom** did you reach out to?\n* Once you’ve reached out to the person in mind, how did it make you **feel**?\n* How can you **continue** reaching out to people who matter to you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ],
+        "alias": "9"
+      }
+    ]
+  },
+  "sv": {
+    "id": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+    "alias": "Nourishing relationships 1: Nour rel-3",
+    "root": "a1b626ad-38ad-444e-aecc-c065b9cdb928",
+    "sections": [
+      {
+        "longDescription": "Din uppgift är att **rita** en **karta** över relationer från olika delar i ditt liv. Ta fram ett **papper** och rita en liten **cirkel** mitt på sidan. Skriv ditt **namn** inuti cirkeln.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "4e5fd847-641e-4130-9322-761c2d02b389"
+          }
+        ],
+        "topImageUri": "",
+        "question": "",
+        "time": "",
+        "alias": "Övning: relationskarta",
+        "title": "Din relationskarta",
+        "type": "writing",
+        "id": "a1b626ad-38ad-444e-aecc-c065b9cdb928"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4e5fd847-641e-4130-9322-761c2d02b389",
+        "content": "Välj gärna din egen design. Här är lite inspiration:\n\n* Rita cirklar för personer som står dig nära på kort avstånd från ditt namn.\n* Rita linjer för att **koppla** din egen cirkel till andras.\n* Använd **olika** linjer för att visa **kvaliteten** på varje relation – exempelvis en bruten linje för relationer som behöver repareras.",
+        "alias": "Exercise: relationship map II",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630501153/Group_742_haueta.png",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fler förslag",
+            "sectionId": "2244dc6d-8dde-4014-b274-3c0bd8510cd3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "2244dc6d-8dde-4014-b274-3c0bd8510cd3",
+        "content": "* **Gruppera** personer på något sätt som är meningsfullt för dig – exempelvis övre vänstra hörnet = vänner du umgås mest med, nedre högra hörnet = familj.\n* Rita bilder bredvid varje namn som **symboliserar** något – exempelvis hjärta = någon du kan dela svåra känslor med, smiley = vi har mycket roligt, sol = vill lära känna bättre.\n* Använd gärna **olika** **färger** och typsnitt.",
+        "alias": "Exercise: relationship map III",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Min karta är klar",
+            "sectionId": "f3963bfa-21ab-4fb2-9498-8f46d69a9d5e"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "",
+        "id": "f3963bfa-21ab-4fb2-9498-8f46d69a9d5e",
+        "question": "",
+        "longDescription": "Ägna en liten stund åt att reflektera. Skriv ned dina svar.\n\n1. Vad är din **reflektion** efter att ha ritat din relationskarta?\n2. **Vad** vill du fokusera på framöver och varför?\n3. **Vem** vill du ta kontakt med idag?",
+        "time": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "f0f736c3-419b-449a-b284-60ec6a7f3683"
+          }
+        ],
+        "alias": "Exercise post relationship map"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f0f736c3-419b-449a-b284-60ec6a7f3683",
+        "content": "Nu är det dags att ta nästa steg – att **höra av dig** till personen du valde.\n\nEtt samtal, ett sms eller ett mejl går lika bra. **Allt räknas**, även om ni inte kan träffas fysiskt.",
+        "alias": "Reaching out",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag har hört av mig",
+            "sectionId": "93115cf3-2a3b-4a2d-b3c7-bfa551475e56"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "93115cf3-2a3b-4a2d-b3c7-bfa551475e56",
+        "alias": "Sharing question",
+        "question": "Hur kändes det efter att du kontaktat personen? ",
+        "exampleText": "Jag kände mig stolt, exalterad och lite nervös för att ta upp det lite komplicerade förhållandet jag har till mitt syskon.",
+        "nextSection": "6f00e175-a0da-49e0-8cb6-34b187b7f759"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6f00e175-a0da-49e0-8cb6-34b187b7f759",
+        "alias": "Summary",
+        "title": "Sammanfattning",
+        "content": "Bra jobbat, du har nu gjort färdigt **Relationskartan**!\n\nI den här lektionen har du lärt dig mer om **fördelarna** med djupa relationer.  Du har även tagit konkreta steg mot att **ta hand** om en **relation** till någon som är **viktig** för dig.\n\nNär vi upplever äkta kärlek slappnar hela vår kropp av. Stresshormonerna minskar. Och vi känner samhörighet och trygghet.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa steg",
+            "sectionId": "05331142-ac8d-4203-a9c2-b5c62d3d9b41"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "05331142-ac8d-4203-a9c2-b5c62d3d9b41",
+        "content": "Du är nu redo för nästa viktiga steg — gruppdelningen.\n\nDela dina svar och reflektioner från denna övning.\n\n* Vilka är din **reflektion** från relationskartan?\n* Vad skulle du vilja **fokusera** på och varför?\n* **Vem** hörde du av dig till?\n* När du väl hade kontaktat personen, hur fick du dig att **känna** ?\n* Hur kan du **fortsätta** nå ut till människor som är viktiga för dig?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "0fdb6f46-1884-4d7f-8483-1d1afabff375",
+    "alias": "Nourishing relationships 1: Nour rel-3",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 15-20 min",
+        "question": "Pega numa folha de papel em branco e desenha um pequeno círculo no meio da folha. Escreve o teu nome dentro dele.",
+        "longDescription": "A tua tarefa é desenhar um mapa das tuas relações em diferentes áreas da tua vida. Está à vontade para escolheres o teu próprio esquema. Caso queiras, deixamos aqui algumas sugestões:\n\n* Mantém junto do teu nome as pessoas que te são mais próximas\n* Usa linhas para ligar o teu nome aos outros\n* Usa diferentes formatos de linha para simbolizar a qualidade de cada relação (por exemplo, uma linha tracejada para relações que necessitam de ser restabelecidas)\n* Agrupa as pessoas em diferentes áreas do mapa, de forma a que faça sentido para ti. Por exemplo: canto superior esquerdo = amigas ou amigos com quem desenvolves atividades, canto inferior direito = amigas ou amigos recentes\n* Desenha símbolos junto de cada nome, de forma a simbolizar algo à tua escolha. Por exemplo: coração = pessoa com quem podes partilhar emoções difíceis; sorriso = pessoa com quem me divirto muito; sol = pessoa que quero conhecer melhor\n* Usa diferentes cores e tipos de letra",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "writing",
+        "title": "Preparação para partilhar",
+        "time": "Tira 5 min",
+        "question": "Dedica um momento para refletires sobre este exercício:",
+        "longDescription": "* Quais são as tuas principais reflexões sobre este exercício?\n* Em que gostarias de te focar e porquê?\n* Quem gostarias de contactar hoje? Um telefonema, uma mensagem ou um email... tudo conta, especialmente se agora não for possível um encontro pessoal.\n* Como é que te sentiste depois de contactar essa pessoa?\n\nEscreve as tuas respostas. Serás convidada/o a partilhá-las com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por teres completado **O Mapa das Relações**.\n\nAgora já podes dar o próximo passo - a partilha em grupo.\n\nPartilha as tuas respostas e reflexões sobre este exercício:\n\n* Quais são as tuas principais reflexões sobre este exercício?\n* Em que gostarias de te focar e porquê?\n* Quem é que tentaste contactar?\n* Assim que contactaste essa pessoa, como é te sentiste?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "en": {
+    "id": "resilience-and-stress-facing-life-2",
+    "alias": "resilience-and-stress-facing-life-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Natural stress",
+        "content": "No matter how much we plan and prepare, we **can't avoid** difficult life events.\n\nAt some point in our lives, we will all face heart-break, grief, loneliness, conflict or other similar challenges.\n\nDuring these times, life can feel **unfair.** We may worry about the present or future and struggle to deal with certain situations.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "17aa4913-7a8f-4f89-b696-7ee640a8b507"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077081/Stress/ant-rozetsky-q-DJ9XhKkhA-unsplash_evpahv.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "17aa4913-7a8f-4f89-b696-7ee640a8b507",
+        "content": "The stress or pain of difficult events can cause feelings ranging from irritation to deep grief. \n\nAny emotion — like anger or sadness — is a completely **normal** **reaction**. And emotions themselves **can’t** **harm** us. Being open to difficult emotions and experiences can help us to deal with them better.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "More",
+            "sectionId": "dbdb4046-d46b-4587-8ae5-ce99b089a00e"
+          }
+        ],
+        "alias": "Stress"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "dbdb4046-d46b-4587-8ae5-ce99b089a00e",
+        "nextConversation": "resilience-and-stress-facing-life-2",
+        "nextSection": "section4",
+        "exampleText": "I find it hard to open up to difficult emotions as I normally try to avoid them or push them away. But sometimes I've managed to open up to my feelings of fear and anger, and then they usually subside.",
+        "alias": "Sharing question",
+        "question": "What is your experience of opening up to difficult emotions?"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Even our most intense emotions often **come and go** in waves. It’s natural for powerful feelings to make us anxious, scared or uncomfortable. It’s also natural for us to want to escape.\n\nBut trying to **avoid** or **fight** emotions usually **doesn’t** **work**. In the short run, avoiding emotions can be helpful to cope with an urgent situation. But in the long run, it often stops us from living our lives.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Sometimes we say to ourselves, \"*When I don’t feel sad anymore, I will spend time with my friends again*.\" \n\nBut if we wait for an uncomfortable feeling to go away before we do the things that we want, we often **put our life on hold**. Sometimes for a very long time. \n\nAn alternative strategy is to **approach our** **feelings**, **open** up to them and take steps in a meaningful direction.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Next",
+            "conversationId": "resilience-and-stress-facing-life-3"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-facing-life-2",
+    "alias": "resilience-and-stress-facing-life-2",
+    "root": "section4",
+    "sections": [
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Naturlig stress",
+        "content": "Hur mycket vi än planerar och förbereder oss, **kan vi inte undvika svåra händelser.** \n\nNågon vi älskar kommer att dö, någon kommer att såra oss, vi kommer att misslyckas, känna oss vilsna och ensamma.\n\nUnder dessa perioder kan **livet** kännas **orättvist**. Vi kanske **oroar** oss över framtiden, eller har svårt att hantera en jobbig situation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "559517cf-c379-4f50-a637-c2f0769b9736"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077081/Stress/ant-rozetsky-q-DJ9XhKkhA-unsplash_evpahv.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "559517cf-c379-4f50-a637-c2f0769b9736",
+        "content": "Stress eller smärta från svåra händelser kan ge oss alltifrån irritation till djup sorg.\n\n Känslorna som uppstår - exempelvis ilska eller sorg - är helt **normala** **reaktioner**. Och känslor i sig själva kan **inte** **skada** oss. Att öppna upp för svåra känslor och upplevelser kan hjälpa oss att hantera dem bättre.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Mer",
+            "sectionId": "ad5c890b-d823-4766-9a73-77c0d3265efc"
+          }
+        ],
+        "alias": "Stress"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "ad5c890b-d823-4766-9a73-77c0d3265efc",
+        "nextSection": "section5",
+        "nextConversation": "resilience-and-stress-facing-life-2",
+        "alias": "Sharing question",
+        "question": "Vad har du för erfarenhet av att öppna upp för svåra känslor?",
+        "exampleText": "Jag har svårt att öppna upp för svåra känslor eftersom jag normalt sett försöker undvika eller skjuta bort dem. Men ibland har jag lyckats öppna upp mig för mina känslor av rädsla och ilska, och då brukar de avta."
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Även våra mest intensiva känslorna **kommer** **och** **går** i vågor. Det är naturligt att starka känslor gör oss oroliga, rädda eller obekväma. Det är också naturligt för oss att vilja fly.\n\nMen att försöka **undvika** eller **kämpa** **emot** känslor **fungerar** oftast **inte**. Kortsiktigt kan det hjälpa oss för att hantera en akut situation, men på lång sikt kan det hindra oss från att leva våra liv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "video",
+        "title": "Nedtryckta känslor",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/attmotalivet_intro.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622478388/Hantera%20Stress%20Adult/attmo%CC%88telivet_intro_m7qa5x.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Ibland kanske vi säger till oss själva \"*När jag inte känner mig ledsen längre, kommer jag att träffa vänner igen*\". Men om vi väntar på att en känsla ska försvinna innan vi gör de saker vi vill, **sätter vi våra liv i pausläge**. Ibland väldigt länge.\n\nEn alternativ strategi är att **närma** sig våra **känslor**, **öppna** upp för dem och ta steg mot det vi tycker är viktigt.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Nästa",
+            "conversationId": "resilience-and-stress-facing-life-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-facing-life-2",
+    "alias": "resilience-and-stress-facing-life-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "O stress natural",
+        "content": "Alguém que amamos vai morrer, alguém nos vai magoar, vamos falhar, vamos sentir-nos perdidos e sozinhos.\n\nNenhum planeamento nos pode tornar imunes a encontrar situações difíceis. Apesar dos muitos prazeres, o amor que sentimos também nos pode partir o coração.\n\nO stress ou a dor causada por acontecimentos difíceis podem passar por uma ligeira irritação até um sofrimento profundo. Qualquer resposta emocional - como raiva ou tristeza - é completamente natural. E as emoções em si não nos podem prejudicar. Estar aberto a emoções e experiências difíceis pode ajudar-nos a lidar com elas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "As nossas emoções não nos podem magoar",
+        "content": "Mesmo as emoções mais intensas costumam ir e vir como ondas. É natural que sentimentos poderosos nos deixem ansiosos, assustados ou desconfortáveis. Também é natural que queiramos fugir.\n\nMas tentar evitar ou lutar contra as emoções geralmente não funciona. Evitar emoções pode ser útil para lidar com uma situação aguda a curto prazo. Mas, a longo prazo, muitas vezes impede-nos de viver as nossas vidas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Pôr a vida em espera",
+        "content": "Às vezes dizemos a nós mesmos: \"Quando deixar de me sentir triste, voltarei a estar com amigos\". Mas se esperarmos que um sentimento vá embora antes de fazermos as coisas que queremos, muitas vezes colocamos a nossa vida em espera. Às vezes, durante um longo período de tempo.\n\nUma estratégia alternativa é abordar os sentimentos, abrirmo-nos para eles e dar passos numa direção que tenha significado para nós.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "fa941b32-f669-4b10-ba2f-106237552930"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "fa941b32-f669-4b10-ba2f-106237552930",
+        "alias": "section6a",
+        "title": "Vais ser guiada/o num exercício prático...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ],
+        "description": "“Quando sinto emoções negativas, uma das coisas que eu faço é, em meditação, identificar em que parte do corpo está armazenada ou concentrada.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543793/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L5thumbnailagirpelamudan%C3%A7a_tvmxef.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621807031/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L5_Stress_and_resilience_V1_9-16_otiwod.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "Exercício",
+        "content": "Vais ser guiada/o num exercício prático de aceitação de pensamentos e sentimentos. Isso vai ajudar-te a sintonizares-te com o que estás a sentir e a pensar, aqui e agora.\n\nÉ uma técnica que podes aprender e usar em qualquer situação difícil em que a vida te coloque.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-facing-life-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

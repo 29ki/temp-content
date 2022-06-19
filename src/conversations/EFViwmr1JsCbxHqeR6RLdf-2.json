@@ -1,0 +1,292 @@
+{
+  "en": {
+    "id": "EFViwmr1JsCbxHqeR6RLdf-2",
+    "alias": "Self compassion - Closing 2",
+    "type": "lesson",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Quote",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/self_care_tool/yg_self_care_tool_intro_2.jpg",
+        "title": "",
+        "content": "> \"Everyone needs a place to be held and heard.\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "b02a678a-8010-4b7e-8819-aed4e6e5bc20"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b02a678a-8010-4b7e-8819-aed4e6e5bc20",
+        "alias": "Doing the work",
+        "content": "Small changes often pass us by, but over time they **transform** our lives.\n\nTherefore it’s important to stop once in a while to notice how we are continually changing. So we don’t miss all the small stuff and conclude that our work didn’t amount to anything.",
+        "infoItems": [
+          {
+            "description": "Research has shown that doing this type of work, through all the big and small changes, actually has a lasting effect. It decreases anxiety, depression and stress and over time increases feelings of happiness, motivation and willingness to support others.\n\nAnd the best part is that these effects come after just 4-5 hours of practice.",
+            "title": "Why this matters?"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Now it's your turn",
+        "topImageUri": "",
+        "title": "Now it's your turn",
+        "content": "#### Let's look back and reflect on what this process has meant to you.\n\nThis is what we've covered thus far:\n\n* The inner critic\n* Intention\n* Shame\n* Embodied Emotions\n* Self Care Tool\n* Gratitude",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Let's go",
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-3"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Optional",
+            "description": "Find your intention letter from the beginning of the course and read it back to yourself before continuing with the exercise."
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "EFViwmr1JsCbxHqeR6RLdf-2",
+    "alias": "Self compassion - Closing 2",
+    "type": "lesson",
+    "root": "section2",
+    "sections": [
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Quote",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/yg_self_compassion/self_care_tool/yg_self_care_tool_intro_2.jpg",
+        "title": "",
+        "content": "> ”Alla behöver en plats där man får känna sig hållen och lyssnad på.\"\n>\n> ~ Rachel Brathen",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "b02a678a-8010-4b7e-8819-aed4e6e5bc20"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b02a678a-8010-4b7e-8819-aed4e6e5bc20",
+        "alias": "",
+        "content": "Små förändringar går ofta oss förbi, men med tiden förändrar de våra liv.\n\nDärför är det viktigt att stanna upp då och då för att **lägga märke till hur vi ständigt förändras**. Så att vi inte missar alla små steg och drar slutsatsen att vårt arbete inte leder någonstans.",
+        "infoItems": [
+          {
+            "description": "Forskning har visat att den här typen av arbete som du har gjort i den här kursen, genom **alla stora och små förändringar, faktiskt ger en varaktig effekt**. \n\nDet kan minska ångest, depression och stress och kan med tiden öka känslor av lycka, motivation och vilja att stötta andra.\n\nOch det bästa är att dessa effekter kommer efter bara fyra, fem timmars träning.",
+            "title": "Vad spelar det för roll?"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Din tur",
+        "topImageUri": "",
+        "title": "Din tur",
+        "content": "Nu är det din tur att se tillbaka på de olika lektionerna och reflektera över vad processen har betytt för dig.\n\n* Den inre kritikern\n* Avsikt\n* Skam\n* Kroppen\n* Ta hand om dig själv\n* Tacksamhet",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Nu börjar vi",
+            "conversationId": "EFViwmr1JsCbxHqeR6RLdf-3"
+          }
+        ],
+        "infoItems": [
+          {
+            "title": "Om du vill",
+            "description": "Om du vill kan du läsa ditt avsiktsbrev från början av kursen och reflektera över vad du minns från respektive lektion."
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "EFViwmr1JsCbxHqeR6RLdf-2",
+    "alias": "Self compassion - Closing 2",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Encerramento",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L7P1closingautocompaixao_qvjmfz.jpg",
+        "title": "Encerramento",
+        "content": "### É bom ter-te de volta - uma última vez\n\nEste processo de autocompaixão está a chegar ao fim, mas, na verdade, a viagem ainda agora começou.\n\nO objetivo nunca foi ficares livre do sofrimento ou evitares a autocrítica. Em vez disso, o objetivo era seres capaz de reconhecer o sofrimento, vê-lo como uma parte de ser humano e agir com autocompaixão.\n\nEsta sessão final permite-te refletir sobre a tua caminhada até agora, o que está diferente (ou não) e como queres continuar este trabalho.\n\n### A sessão de hoje consiste em três partes:\n\n* Refletir sobre o processo, aprendizagens e onde estavas quando começaste (Escrita)\n* Meditação silenciosa de reflexão\n* Desenhar o teu caminho daqui em diante (Escrita)\n\n### Preparação para a sessão:\n\n* 30 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Encerrar",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L7P2closingautocompaixao_targl0.jpg",
+        "title": "Encerrar",
+        "content": "### As pequenas mudanças muitas vezes passam por nós despercebidas, mas, com o tempo, transformam as nossas vidas.\n\nPor isso, é importante parar de vez em quando para dar conta de como estamos continuamente a mudar. Assim não perdemos as pequenas coisas, nem chegamos à conclusão de que o nosso trabalho foi em vão.\n\nA investigação tem mostrado que adotar este tipo de práticas, quer para as grandes ou pequenas mudanças, tem um efeito duradouro. Diminui a ansiedade, a depressão e o stress e aumenta com o tempo os sentimentos de felicidade, de motivação e de vontade de apoiar os outros.\n\nE a melhor parte é que estes efeitos surgem após apenas 4-5 horas de treino.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448862/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L7P3closingautocompaixao_eiovd7.jpg",
+        "title": "Introdução",
+        "content": "Agora é a tua vez de olhar para as diferentes sessões e refletir sobre o que este processo significou para ti.\n\n* O/a crítico/a interior\n* Intenção\n* Vergonha\n* Emoções incorporadas\n* Ferramentas de autocuidado\n* Gratidão\n\nSe assim o desejares, lê a tua carta de intenção do início do curso e reflete sobre o que te recordas de cada uma das lições.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Refletir sobre a caminhada",
+        "title": "Refletir sobre a caminhada",
+        "time": "Tira 10 min",
+        "question": "",
+        "longDescription": "### Escreve as tuas respostas às seguintes perguntas.\n\nEm que medida é que a tua relação contigo é diferente hoje comparando com o dia em que começaste?\n\nQuais são as aprendizagens mais importantes que queres levar deste processo?\n\nAges de forma diferente hoje em dia?\n\n#### Completa as frases abaixo.\n\n* O que mudou na minha vida desde que comecei foi...\n* A situação em que sou especialmente vulnerável à autocrítica é...\n* As ferramentas que me ajudaram foram...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação silenciosa vai preparar-te para o próximo passo. Vais ouvir um som quando iniciar e terminar.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523412/29k%20FJN/Meditations/Joanna%20Final/SILENT_MEDITATION_x324aa.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Refletir sobre como continuar em frente",
+        "title": "Refletir sobre como continuar em frente",
+        "time": "Tira 5 min",
+        "question": "",
+        "longDescription": "### Responde às seguintes perguntas\n\n* Como vou continuar a usar as técnicas que aprendi neste processo?\n* O que posso fazer se me começar a sentir pior?\n* Como me posso lembrar diariamente de usar as estratégias que funcionaram comigo?\n* Como me posso agradecer por ter iniciado esta caminhada?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Excelente trabalho.",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448851/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L7P7closingautocompaixao_n4x3wz.jpg",
+        "title": "Excelente trabalho.",
+        "content": "Descobrir como te autocriticas pode não ter tornado esta viagem fácil ou agradável.\n\nSe chegaste até aqui, mostraste compaixão por ti, vale a pena notar e honrar este facto. Porquê? Acreditamos que esta é uma forma importante de fazer do mundo um lugar melhor. Uma ação compassiva de cada vez.\n\n### Os próximos passos\n\nPara continuares a praticar, recomendamos vivamente o *Center for Mindful Self-Compassion* (https://centerformsc.org/) e www.self-compassion.org. Aqui podes encontrar livros, materiais e cursos desenvolvidos pelos mesmos especialistas de topo que cocriaram este curso.\n\nSe este processo te ajudou, adoraríamos convidar-te a partilhar a autocompaixão com os outros, da forma que achares melhor.\n\nVamos continuar esta viagem juntos.\n\nCom carinho e amor.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "alias": "A Fátima reflete sobre o curso",
+        "title": "A Fátima reflete sobre o curso",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448851/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L7P8closingautocompaixao_fr58hw.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895780/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L7_Self_compassion_V1_mcawwe.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a sessão **Encerramento**, fizeste uma coisa maravilhosa pelo teu bem-estar.\n\nSe decidires participar numa partilha com o teu grupo, vais precisar de ter à mão estes exercícios:\n\n* Refletir sobre esta jornada\n* Refletir sobre como continuar",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

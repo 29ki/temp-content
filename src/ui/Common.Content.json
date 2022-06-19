@@ -1,0 +1,44 @@
+{
+  "en": {
+    "course": "Course",
+    "courses": "Courses",
+    "exercise": "Exercise",
+    "exercises": "Exercises",
+    "meditation": "Meditation",
+    "meditations": "Meditations",
+    "test": "Test",
+    "tests": "Tests",
+    "checkin": "Check-in",
+    "checkins": "Check-ins",
+    "challenge": "Challenge",
+    "challenges": "Challenges"
+  },
+  "sv": {
+    "course": "Kurs",
+    "courses": "Kurser",
+    "exercise": "Övning",
+    "exercises": "Övningar",
+    "meditation": "Meditation",
+    "meditations": "Meditationer",
+    "test": "Test",
+    "tests": "Tester",
+    "checkin": "Check-in",
+    "checkins": "Check-ins",
+    "challenge": "Utmaning",
+    "challenges": "Utmaningar"
+  },
+  "pt": {
+    "course": "Curso",
+    "courses": "Cursos",
+    "exercise": "Exercício",
+    "exercises": "Exercícios",
+    "meditation": "Meditação",
+    "meditations": "Meditações",
+    "test": "Teste",
+    "tests": "Testes",
+    "checkin": "Check-in",
+    "checkins": "Check-ins",
+    "challenge": "Desafio",
+    "challenges": "Desafios"
+  }
+}

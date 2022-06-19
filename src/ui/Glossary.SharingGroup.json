@@ -1,0 +1,59 @@
+{
+  "en": {
+    "nextSharing": "Your next sharing",
+    "groupStatus": {
+      "UPCOMING_SHARING": "Your upcoming video sharing",
+      "CLOSE_TO_SHARING": "Join your video sharing now",
+      "COURSE_COMPLETED": "Suggested video sharing",
+      "WAITING_FOR_RSVP": "Video sharing coming up!"
+    },
+    "rsvpStatus": {
+      "confirmedUsers_has": "{{names}} has confirmed.",
+      "confirmedUsers_have": "{{names}} have confirmed.",
+      "noConfirmedUsers": "Be the first to confirm.",
+      "noConfirmedUsers_declined": "You declined.",
+      "willYouJoin": "Will you join?",
+      "change": "Change"
+    },
+    "group": "group",
+    "joinGroup": "Join"
+  },
+  "sv": {
+    "nextSharing": "Nästa gruppdelning",
+    "groupStatus": {
+      "UPCOMING_SHARING": "Nästa gruppdelning",
+      "CLOSE_TO_SHARING": "Din gruppdelning börjar snart, gå med nu",
+      "COURSE_COMPLETED": "Föreslagen delningsgrupp",
+      "WAITING_FOR_RSVP": "Gruppdelningen börjar snart!"
+    },
+    "rsvpStatus": {
+      "confirmedUsers_has": "{{names}} har tackat ja.",
+      "confirmedUsers_have": "{{names}} har tackat ja.",
+      "noConfirmedUsers": "Var den första som tackar ja.",
+      "noConfirmedUsers_declined": "Du har tackat nej.",
+      "willYouJoin": "Kommer du att vara med?",
+      "change": "Ändra"
+    },
+    "group": "grupp",
+    "joinGroup": "Gå med"
+  },
+  "pt": {
+    "nextSharing": "A tua próxima partilha",
+    "groupStatus": {
+      "UPCOMING_SHARING": "A tua próxima sessão de partilha de vídeo",
+      "CLOSE_TO_SHARING": "Junta-te à sessão de partilha de vídeo agora",
+      "COURSE_COMPLETED": "Sugestão de partilha de vídeo",
+      "WAITING_FOR_RSVP": "A sessão de partilha de vídeo está próxima!"
+    },
+    "rsvpStatus": {
+      "confirmedUsers_has": "{{names}} confirmou.",
+      "confirmedUsers_have": "{{names}} confirmaram.",
+      "noConfirmedUsers": "Sê a primeira pessoa a confirmar.",
+      "noConfirmedUsers_declined": "Recusaste.",
+      "willYouJoin": "Vais juntar-te?",
+      "change": "Alterar"
+    },
+    "group": "grupo",
+    "joinGroup": "Junta-te"
+  }
+}

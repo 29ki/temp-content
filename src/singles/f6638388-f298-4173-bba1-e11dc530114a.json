@@ -1,0 +1,197 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Body scan",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/body_scan_anv8nu.png"
+    },
+    "duration": {
+      "count": 17,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "f6638388-f298-4173-bba1-e11dc530114a",
+    "description": "Center yourself by connecting to your entire body.",
+    "stations": [
+      {
+        "id": "f6638388-f298-4173-bba1-e11dc530114a",
+        "root": "section1",
+        "alias": "Meditation: Body scan long",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Body Scan 16 mins",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/body_scan_anv8nu.png",
+            "title": "Body Scan",
+            "content": "Practice bringing awareness into every single part of your body.\n\n*Guided by Vanessa LaBrie, created by Ph.D F. Livheim.*",
+            "buttonText": "Let’s meditate"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "You’re welcome to press play to start.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-body-scan.mp3",
+            "duration": "16:45",
+            "alias": "Meditation audio: Body scan",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6638388-f298-4173-bba1-e11dc530114a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Well done!",
+            "content": "You’ve just done a wonderful thing for yourself.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "e308c557-3246-420b-a95b-2b8284e41f20",
+            "alias": "sharing wall: Body scan",
+            "question": "What do you notice after finishing this meditation?",
+            "exampleText": "I notice how much I can feel the palms of my hands and the bottom of my feet."
+          }
+        ],
+        "name": "Body scan",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Body Scan",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/body_scan_anv8nu.png"
+    },
+    "duration": {
+      "count": 17,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "f6638388-f298-4173-bba1-e11dc530114a",
+    "description": "Centrera dig själv genom att ansluta till hela kroppen.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "f6638388-f298-4173-bba1-e11dc530114a",
+        "root": "section1",
+        "alias": "Meditation: Body scan long",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Body Scan",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/body_scan_anv8nu.png",
+            "title": "Body Scan",
+            "content": "* 16: 45 minuter *\n\nEn guidad meditation som hjälper till att öka medvetenheten om varje enskild del av din kropp.\n\n* Guidad av Vanessa LaBrie, skapad av doktor F. Livheim. *",
+            "buttonText": "Låt oss meditera"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditation",
+            "description": "Du är välkommen att trycka på play för att starta.",
+            "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/the-body-scan.mp3",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6638388-f298-4173-bba1-e11dc530114a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Bra gjort!",
+            "content": "Du har precis gjort en underbar sak för dig själv.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Body Scan",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Scan Corporal",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/body_scan_anv8nu.png"
+    },
+    "duration": {
+      "count": 17,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "225763ad-ca6f-4b97-9521-782f80dd8b2a"
+    ],
+    "type": "meditation",
+    "id": "f6638388-f298-4173-bba1-e11dc530114a",
+    "description": "Centra-te através da conexão com todo o teu corpo.",
+    "stations": [
+      {
+        "id": "f6638388-f298-4173-bba1-e11dc530114a",
+        "root": "section1",
+        "alias": "Meditation: Body scan long",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Scan Corporal",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652794023/New_images/meditations%20png/1024x1024/body_scan_anv8nu.png",
+            "title": "Scan Corporal",
+            "content": "Uma meditação guiada que te ajuda a focar a consciência em todas as partes do teu corpo.\n\n*Criada por Dr. F. Livheim.*",
+            "buttonText": "Vamos meditar"
+          },
+          {
+            "id": "section2",
+            "type": "audio",
+            "title": "Meditação",
+            "description": "Carrega no *play* para começar.",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622013549/29k%20FJN/Meditations/Cristina%20Final/SCAN_CORPORAL_-_16_50_t4e97r.mp3",
+            "duration": "16:50",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/f6638388-f298-4173-bba1-e11dc530114a/photo-1510024161681-8a1f66ed1a25.jpg",
+            "title": "Parabéns!",
+            "content": "Acabaste de fazer uma coisa maravilhosa por ti.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "27d58b70-3701-4de9-8c8e-04a4cf7876ee",
+            "alias": "sharing wall: Body scan",
+            "question": "O que sentiste depois de terminares esta meditação?",
+            "exampleText": "Fiquei surpreendida/o com a capacidade de sentir a sola dos meus pés e a palma das minhas mãos!"
+          }
+        ],
+        "name": "Scan Corporal",
+        "type": "station"
+      }
+    ]
+  }
+}

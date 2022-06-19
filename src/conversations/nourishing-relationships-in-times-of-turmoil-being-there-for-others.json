@@ -1,0 +1,319 @@
+{
+  "en": {
+    "id": "nourishing-relationships-in-times-of-turmoil-being-there-for-others",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "content": "In every relationship, there are **moments** that naturally take the relationship to a **deeper** level. \n\nWhen someone **opens up** to another person — and they feel seen and heard — the bond between them **strengthens.** We all play a **crucial** part in **creating** such moments.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm ready",
+            "sectionId": "8431b9ad-5529-4ab2-b708-7777eff49d6b"
+          }
+        ],
+        "alias": "Introduction",
+        "title": "",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629882415/farrinni-0dso2fC54ug-unsplash_niwntf.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8431b9ad-5529-4ab2-b708-7777eff49d6b",
+        "content": "### Learn more about:\n\n* Noticing opportunities\n* How to respond\n* Exploring obstacles\n* Opening up\n\n### You’ll need:\n\n* 25 minutes\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "section2"
+          }
+        ],
+        "alias": "Table of content"
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "While challenging in many ways, a **crisis** can be an opportunity to **enrich** your **relationships** with others.\n\nThe past 30 years of relationship science tell us the following: \n\nOut of all the things that happen in a relationship, it is when our **vulnerability** is met with **compassion** that the relationship **deepens**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Unpack that",
+            "sectionId": "d5c8c295-be5e-473f-b2cb-5cbbcf0d00e4"
+          }
+        ],
+        "alias": "Deepening relationships I "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d5c8c295-be5e-473f-b2cb-5cbbcf0d00e4",
+        "content": "When someone responds to us in a **compassionate** way, we feel **seen**, **safe**, **heard**, and **accepted** as we are. We **trust** the other person more, want to spend time with them and get closer.\n\nOur **bodies** move from fight or flight to feeling calm and connected. Our **heart** **rate** and **breathing** regulate, **cortisol** level goes down and **oxytocin** floods our system.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "89603389-0991-4e5f-9c11-45ca29b56f38",
+            "content": "Next"
+          }
+        ],
+        "alias": "Deepening relationships II"
+      }
+    ],
+    "alias": "Nourishing relationships 3: Being there for others-1"
+  },
+  "sv": {
+    "id": "nourishing-relationships-in-times-of-turmoil-being-there-for-others",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "content": "I varje relation finns det särskilda **tillfällen** som tar förhållandet till en **djupare** nivå. \n\nNär vi **öppnar** oss för någon, och den andra personen får oss att känna oss sedda och hörda, **stärks** **relationen**. Vi spelar alla en **avgörande** roll i att **skapa** sådana stunder.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är redo",
+            "sectionId": "d5c8c295-be5e-473f-b2cb-5cbbcf0d00e4"
+          }
+        ],
+        "alias": "",
+        "title": "",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629882415/farrinni-0dso2fC54ug-unsplash_niwntf.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d5c8c295-be5e-473f-b2cb-5cbbcf0d00e4",
+        "content": "### Lär dig mer om:\n\n* Att lägga märke till möjligheter\n* Hur du kan agera\n* Utforska hinder\n* Att öppna sig\n\n### Du behöver:\n\n* 25 minuter\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "cb8110dc-e4f8-463f-b7e1-649ee8c60031"
+          }
+        ],
+        "alias": "Introduktion"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "cb8110dc-e4f8-463f-b7e1-649ee8c60031",
+        "content": "Även om en kris är utmanande på många sätt, kan den också innebära en **möjlighet** för oss att **fördjupa** våra relationer.\n\nDe senaste 30 årens relationsforskning visar på en viktig slutsats:  Av alla de saker som händer i en relation så är det när vår **sårbarhet** möts med **medkänsla** som relationen till den andra personen **fördjupas**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Förklara mer",
+            "sectionId": "72d93e92-a177-432b-ae78-ed0087df7468"
+          }
+        ],
+        "alias": "Deepening relationships I "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "72d93e92-a177-432b-ae78-ed0087df7468",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "89603389-0991-4e5f-9c11-45ca29b56f38",
+            "content": "Fortsätt"
+          }
+        ],
+        "content": "När någon bemöter oss på ett **empatiskt** och **medkännande** sätt känner vi oss **sedda, trygga**, **hörda**, och **accepterade** som vi är. Vi **litar** mer på den andra, vill tillbringa mer tid med dem och komma närmare.\n\nVår **kropp** går från kamp och flykt till att känna sig lugn. Vår **puls** och **andning** regleras ner. **Kortisolnivåerna** (stresshormonerna) sjunker. Och **oxytocin** frigörs i vårt system. Vi blir lugna.",
+        "alias": "Deepening relationships II"
+      }
+    ],
+    "alias": "Nourishing relationships 3: Being there for others-1"
+  },
+  "pt": {
+    "id": "nourishing-relationships-in-times-of-turmoil-being-there-for-others",
+    "alias": "Nourishing relationships 3: Being there for others-1",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "content": "### A lição de hoje tem cinco partes:\n\n* Perceber as oportunidades\n* Como reagir\n* Explorar obstáculos\n* Abertura\n* Partilha\n\n#### Vais precisar de:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "Introdução",
+        "title": "Introdução",
+        "content": "Em cada relação, há momentos que naturalmente levam a relação para outro nível, um nível mais profundo. E todos desempenham um papel crucial na criação desses momentos. Por exemplo, quando uma pessoa se abre com outra e se sente bem recebida, isso reforça a ligação entre elas.\n\nSe olhares à tua volta, notarás que há muitas oportunidades para enriqueceres as tuas relações com os outros.\n\nOs últimos 30 anos da ciência das relações dizem-nos o seguinte: de todas as coisas que acontecem numa relação, quando a nossa vulnerabilidade é recebida com compaixão, a relação aprofunda-se. Vamos agora abordar o que é que isto significa.\n\nQuando alguém reage para connosco com compaixão, sentimo-nos vistos e compreendidos, os nossos corpos passam do modo de luta ou fuga para um sentimento de calma e ligação, o nosso ritmo cardíaco e a respiração ficam controlados, o nível de cortisol desce e a oxitocina inunda o nosso corpo. Sentimo-nos seguros, vistos, ouvidos e aceites como somos. Confiamos mais na outra pessoa, queremos passar mais tempo com ela e, naturalmente, queremos estar próximos dela.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "Perceber as oportunidades",
+        "title": "Perceber as oportunidades",
+        "content": "O primeiro passo para reagir com compaixão é perceber quando surgem as oportunidades. Isto significa darmo-nos conta quando é que outra pessoa está a ser vulnerável connosco.\n\nAqui estão alguns exemplos:\n\n* Uma amiga ou um amigo abre-se contigo sobre a dificuldade que tem em lidar com um vício\n* A tua companheira ou o teu companheiro, que sabe que queres ter filhos (ou mais filhos), diz-te que não quer ter nenhum (ou mais filhos)\n* A tua irmã ou o teu irmão diz-te que se tem sentido deprimida/o ultimamente\n* Uma amiga ou um amigo abre-se sobre a perda de um emprego ou dificuldades financeiras\n\nE alguns exemplos menos óbvios:\n\n* Um/a colega diz-te que cometeu um erro no trabalho e que não sabe o que fazer\n* A tua companheira ou o teu companheiro dá-te um abraço\n* Alguém te faz um elogio",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Como reagir",
+        "title": "Como reagir",
+        "content": "Olhando para os exemplos de vulnerabilidade, consegues notar que implicam sempre correr um risco? Este risco consiste em partilhar algo muito pessoal e não saber como a outra pessoa vai reagir.\n\nReagir com compaixão implica três coisas:\n\n1. **Criar um espaço seguro:** criar condições para a vulnerabilidade, por exemplo, ouvindo e estando presente\n2. **Validar os sentimentos:** reagir com empatia para que a outra pessoa se sinta compreendida, por exemplo, reconhecendo os seus sentimentos\n3. **Oferecer apoio:** satisfazer as necessidades da outra pessoa, ao mesmo tempo que tens em conta as tuas próprias necessidades.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“É importante que sejamos completamente transparentes e sinceros, que nos ouçamos.”",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640012989/29k%20FJN/Courses/Nourishing%20Relationships/Videos%209:16/L3_Nourishing_relationships_in_times_of_turmoil_V1_srl4db.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640013075/29k%20FJN/Courses/Nourishing%20Relationships/Thumbnails%209:16/L3P5beingthere_mhusr4.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Pensa numa situação da tua vida em que alguém foi vulnerável contigo. Como é que reagiste?",
+        "longDescription": "Lê as frases abaixo e reflete sobre a tua reação. Escreve as tuas reflexões e ideias sobre o que poderias ter feito de forma diferente.\n\n**Criar um espaço seguro**\n\n* Eu estava envolvida/o e não estava distraída/o\n* Ouvi tudo sem interromper\n* Deixei a outra pessoa conduzir a conversa, sem tentar dominar\n* Ofereci conforto físico (por exemplo, um abraço ou um toque no ombro, se apropriado)\n\n**Validar os sentimentos**\n\n* Partilhei com a pessoa que compreendi os seus sentimentos\n* Os meus sentimentos e os da outra pessoa estavam em sintonia\n* Reconheci as necessidades da outra pessoa\n* Expressei a minha aceitação pela outra pessoa\n* Também partilhei a minha vulnerabilidade, contando uma história da minha própria vida.\n\n**Oferecer apoio**\n\n* Quando me fez uma pergunta, respondi genuinamente\n* Expressei que me preocupo com a pessoa\n* Fiz perguntas para mostrar que queria saber mais sobre a sua situação \n* Se me tivesse pedido alguma coisa, eu poderia ter ajudado essa pessoa, tendo em conta as minhas próprias necessidades\n* Se a pessoa disse não a alguma coisa, eu respeitei a sua escolha\n* Se fiz ou disse algo que magoou a pessoa, pedi desculpa por isso, sem ser defensiva/o ou sem me explicar demasiado",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "alias": "Explorar obstáculos",
+        "title": "Explorar obstáculos",
+        "content": "Mesmo quando nos preocupamos com alguém, podemos não reagir bem à sua vulnerabilidade.\n\nIsto é muitas vezes devido a:\n\n1. Não nos apercebermos quando a outra pessoa está vulnerável\n2. Desvalorizarmos o papel da compaixão\n3. Não nos sentirmos seguros\n4. Recearmos dizer a coisa errada\n\nNa meditação seguinte, serás acompanhada/o para te abrires um pouco mais.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai-te ajudar a abrires-te à vulnerabilidade e a reagir a partir de um lugar verdadeiro, compassivo e de amor.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523410/29k%20FJN/Meditations/Joanna%20Final/Opening_Up_tsqxb2.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Exercício",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "longDescription": "Se alguém se mostrasse vulnerável de uma forma amável e de coração aberto, como reagirias se te sentisses completamente segura/o?\n\nEscreve as tuas respostas. Poderás partilhar estas reflexões com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Reflexão sobre o curso",
+        "title": "Reflexão sobre o curso",
+        "description": "“Se as pessoas estivessem bem resolvidas com elas, em paz interior (…) não existiriam tantos conflitos.”",
+        "videos": [
+          {
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1640013024/29k%20FJN/Courses/Nourishing%20Relationships/Videos%209:16/L3_Nourishing_relationships_in_times_of_turmoil_V2_uflglz.mp4",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1640013075/29k%20FJN/Courses/Nourishing%20Relationships/Thumbnails%209:16/L2P6nourishingrelationships_u460yg.jpg"
+          }
+        ],
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos.**\n\nSe respondeste ao nosso questionário no início do curso pedimos-te para concluires a tua participação clicando no link abaixo e respondendo a umas questões breves (**2 minutos**). Relembramos que o teu questionário é **confidencial**.\n\nMais uma vez, obrigado pela tua ajuda. Não te esqueças de regressar aqui para terminar o curso.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section12"
+          }
+        ]
+      },
+      {
+        "id": "section12",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por teres completado esta sessão e este curso.\n\nAgora já podes dar o próximo passo - a partilha em grupo.\n\nPartilha as tuas respostas e reflexões sobre este exercício:\n\nSe tivesses de dar um último presente à pessoa em questão e se te sentisses completamente segura/o:\n\n* Como te aproximarias dessa pessoa de uma forma compassiva?\n* O que é que lhe dirias?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

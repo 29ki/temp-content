@@ -1,0 +1,62 @@
+{
+  "en": {
+    "id": "0b814120-8b3b-4608-9bb3-63e2ca282d35",
+    "alias": "Meaning-making in a crisis: Finding meaning 4 (Reflect)",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "Finding that special place in time",
+        "content": "You have now written two letters, the second one being in stark contrast to the first. Take a moment to read through both of them. Do they remind you of anything that’s really important to you or you want to do more of in life?\n\nBy writing these letters you’ve added a tool to your toolbox. You can use it to recognise situations you avoid as well as what makes you tick! This will give you an important clue as to what really matters to you. Try to act as a supportive friend who stands by your side and gives you a pat on the back every now and then. We all need it!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "0b814120-8b3b-4608-9bb3-63e2ca282d35",
+    "alias": "Finding meaning 4 (Reflect)",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "Bra jobbat",
+        "content": "Du har nu skrivit två brev, om två helt olika situationer i livet. Läs igenom båda breven och fundera på följande: \n\n* Påminner de dig om vad som verkligen är viktigt för dig eller om vad du vill göra mer av i livet?\n\nGenom att skriva dessa brev har du lagt till ett verktyg i din verktygslåda. Du kan använda det för att känna igen situationer du undviker, samt vad som får dig att må bra. Detta ger dig viktiga ledtrådar till sånt som verkligen betyder något för dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "0b814120-8b3b-4608-9bb3-63e2ca282d35",
+    "alias": "Finding meaning 4 (Reflect)",
+    "root": "section9",
+    "sections": [
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "title": "Encontrar aquele lugar especial",
+        "content": "Neste momento, tens duas cartas escritas e a segunda contrasta completamente com a primeira. Reserva um momento para ler as duas. Representam aspetos que são realmente importantes para ti ou o que desejas fazer na vida?\n\nAo escrever estas cartas, adicionaste uma ferramenta à tua caixa de ferramentas. Podes utilizá-la para reconheceres as situações que evitas, bem como as que te motivam! Isso vai dar-te pistas importantes sobre o que realmente é importante para ti. Tenta agir como uma amiga solidária ou um amigo solidário que fica ao teu lado e te dá uma palmadinha nas costas de vez em quando. Todos precisamos disso!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      }
+    ]
+  }
+}

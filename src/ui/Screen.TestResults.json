@@ -1,0 +1,23 @@
+{
+  "en": {
+    "screenTitle": "Test results",
+    "noTestText": "You haven't taken any tests yet.",
+    "noTestCta": "Take a test",
+    "noTestImage": "https://res.cloudinary.com/twentyninek/image/upload/v1634884065/Illustrations_Tests/take-a-test_dv9wvu.png",
+    "showResults": "Show results"
+  },
+  "sv": {
+    "screenTitle": "Testresultat",
+    "noTestText": "Du har inte tagit något test ännu.",
+    "noTestCta": "Gör ett test",
+    "noTestImage": "https://res.cloudinary.com/twentyninek/image/upload/v1634884065/Illustrations_Tests/take-a-test_dv9wvu.png",
+    "showResults": "Show results"
+  },
+  "pt": {
+    "screenTitle": "Resultados do teste",
+    "noTestText": "Ainda não fizeste nenhum teste.",
+    "noTestCta": "Faz um teste",
+    "noTestImage": "https://res.cloudinary.com/twentyninek/image/upload/v1634884065/Illustrations_Tests/take-a-test_dv9wvu.png",
+    "showResults": "Show results"
+  }
+}

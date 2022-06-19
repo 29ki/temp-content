@@ -1,0 +1,136 @@
+{
+  "en": {
+    "id": "resilience-and-stress-first-steps-2",
+    "alias": "resilience-and-stress-first-steps-2",
+
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/activities.jpeg",
+        "title": "",
+        "content": "Stress itself isn't necessarily the real problem, but **lack of recovery** can be. \n\nA good way to get a better **balance** in life is by actively **making** **room** for the things you enjoy and that make you feel good.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me how",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "audio",
+        "duration": "5:53",
+        "title": "Focus",
+        "description": "One way to recover is to practice being in the **present moment**. \n\nThis short meditation will help you be more mindful and present, and prepare you for the next step of the exercise — to plan for your recovery.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/three-things.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "resilience-and-stress-first-steps-3"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-first-steps-2",
+    "alias": "resilience-and-stress-first-steps-2",
+
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/activities.jpeg",
+        "title": "",
+        "content": "Stress i sig självt är alltså inte farligt – men **brist på återhämtning** kan vara det.\n\nEtt bra sätt att få en bättre **balans** i livet är att aktivt **skapa** **plats** för det du tycker om och mår bra av.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Visa mig hur",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "audio",
+        "duration": "4.38",
+        "title": "Fokus",
+        "description": "Ett sätt att återhämta sig är att träna på att vara **här och nu**. \n\nDen här korta meditationen hjälper dig att bli mer närvarande i nuet, och förbereder dig för nästa steg i övningen — att planera din återhämtning.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Tre-saker.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är färdig",
+            "conversationId": "resilience-and-stress-first-steps-3"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-first-steps-2",
+    "alias": "resilience-and-stress-first-steps-2",
+
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/activities.jpeg",
+        "title": "Introdução ao exercício",
+        "content": "Resumindo: o stress não é o verdadeiro problema, a falta de recuperação é que é.\n\nA parte mais complicada é que, quando as coisas se começam a acumular, as atividades que nos ajudam a estar bem costumam ser as primeiras a serem excluídas. Uma boa maneira de conseguir um equilíbrio melhor na vida é criar espaçode forma ativa para as coisas que gostas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "audio",
+        "duration": "6:02",
+        "title": "Três coisas",
+        "description": "Uma forma de recuperar os teus recursos é praticar estar no momento presente. Esta breve meditação vai ajudar-te a sentires-te mais consciente e presente, preparando-te para a próxima etapa do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429297/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_11_-_Three_Things_itia8g.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Próximo",
+            "sectionId": "dc643e35-069f-4243-bbed-79cd9564e19a"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "dc643e35-069f-4243-bbed-79cd9564e19a",
+        "alias": "section7b",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-first-steps-3",
+            "content": "Continuar"
+          }
+        ],
+        "title": "Parabéns!",
+        "content": "Agora podes iniciar o próximo passo: planear a recuperação."
+      }
+    ]
+  }
+}

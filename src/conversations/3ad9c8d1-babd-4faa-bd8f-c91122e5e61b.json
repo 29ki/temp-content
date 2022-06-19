@@ -1,0 +1,78 @@
+{
+  "en": {
+    "id": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b",
+    "alias": "Leadership-styles-5",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "48a52f3d-dba9-4662-b501-2d36c736a46c",
+        "alias": "Idealized influence",
+        "title": "Idealized influence",
+        "content": "The final transformational skill, **idealized Influence**, involves acting in ways others can look up to. \n\nLet your actions show people how competent, trustworthy, and honest you are, and that you have integrity, charisma, and purpose.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Show me an example",
+            "sectionId": "12629151-6d54-4bd9-889c-6db0ff22cdd3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "12629151-6d54-4bd9-889c-6db0ff22cdd3",
+        "alias": "Idealized influence 2",
+        "title": "How can I use idealized influence in the real world?",
+        "content": "* Show you can perform at a high level by building a track record of getting things done\n* Celebrate others' successes and achievements",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "67670649-ed50-408c-836d-9984b491af35"
+          }
+        ]
+      }
+    ],
+    "root": "48a52f3d-dba9-4662-b501-2d36c736a46c"
+  },
+  "sv": {
+    "id": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b",
+    "alias": "Leadership-styles-5"
+  },
+  "pt": {
+    "id": "3ad9c8d1-babd-4faa-bd8f-c91122e5e61b",
+    "alias": "Leadership-styles-5",
+    "root": "48a52f3d-dba9-4662-b501-2d36c736a46c",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "48a52f3d-dba9-4662-b501-2d36c736a46c",
+        "alias": "Influência idealizada ",
+        "title": "Influência idealizada ",
+        "content": "A última competência transformadora, a **influência idealizada**, envolve agir de formas que os outros possam admirar.\n\nDeixa que as tuas ações mostrem às pessoas o quão competente, fiável e honesto/a és; e, que tens integridade, carisma e um propósito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mostrem-me um exemplo",
+            "sectionId": "12629151-6d54-4bd9-889c-6db0ff22cdd3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "12629151-6d54-4bd9-889c-6db0ff22cdd3",
+        "alias": "Idealized influence 2",
+        "title": "Como posso usar a influência idealizada no mundo real?",
+        "content": "* Mostra que podes ter um desempenho de alto nível, construindo um histórico de realizações.\n* Comemora os sucessos e realizações dos outros.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "67670649-ed50-408c-836d-9984b491af35"
+          }
+        ]
+      }
+    ]
+  }
+}

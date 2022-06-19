@@ -1,0 +1,107 @@
+{
+  "en": {
+    "id": "a0264243-681a-4ebb-8261-945be35be966",
+    "alias": "alive-day-19",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 19",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay19rev1",
+          "title": "Alive Day 19 Quest",
+          "body": "Over the next few hours, identify when your feelings are ‘telling you’ that you are currently acting as the person you’d like to be."
+        },
+        "sharingWall": {
+          "question": "Did you learn anything about yourself?",
+          "exampleText": "Today I..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay19",
+          "title": "Alive Day 19 Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-19",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "9d1d1d9b-c545-4d69-a7c4-bbd5d6a485dd"
+      }
+    ]
+  },
+  "sv": {
+    "id": "a0264243-681a-4ebb-8261-945be35be966",
+    "alias": "alive-day-19",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Välkommen till dag 19",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay19rev1",
+          "title": "Uppdrag dag 19",
+          "body": "Under de närmaste timmarna, var uppmärksam på när dina känslor \"talar om\" att du lever ditt liv precis så som du vill leva det."
+        },
+        "sharingWall": {
+          "question": "Lärde du dig något om dig själv och i så fall, vad?",
+          "exampleText": "Att det flera gånger under dagen dök upp en känsla av att livet stämmer. Inte så dumt ändå."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay19",
+          "title": "Hur gick det?",
+          "body": "Dags att checka in dagens uppdrag."
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-19",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "9d1d1d9b-c545-4d69-a7c4-bbd5d6a485dd"
+      }
+    ]
+  },
+  "pt": {
+    "id": "a0264243-681a-4ebb-8261-945be35be966",
+    "alias": "alive-day-19",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 19",
+        "task": {
+          "days": 0,
+          "hours": 8,
+          "minutes": 52,
+          "id": "aliveDay19rev1",
+          "title": "Desafio ALIVE dia 19",
+          "body": "Nas próximas horas, identifica quando os teus sentimentos te “estão a dizer” que estás a agir de acordo com a pessoa que gostarias de ser."
+        },
+        "sharingWall": {
+          "question": "O que aprendeste acerca de ti própria/o? ",
+          "exampleText": "Hoje eu..."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "id": "followUpDay19",
+          "title": "Check-in Dia 19 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": true,
+        "alias": "alive-day-19",
+        "initialDay": false,
+        "type": "microInterventionDay",
+        "id": "9d1d1d9b-c545-4d69-a7c4-bbd5d6a485dd"
+      }
+    ]
+  }
+}

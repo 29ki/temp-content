@@ -2,62 +2,106 @@
   "en": {
     "id": "alive-day-5",
     "alias": "alive-day-5",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-5",
-        "alias": "alive-day-5",
-        "nextConversationId": "alive-day-6",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 5",
-        "lessonlastDay": false,
         "task": {
           "id": "aliveDay5rev1",
           "days": 0,
           "hours": 8,
           "minutes": 33,
-          "title": "Alive Day 5 Mission",
+          "title": "Alive Day 5 Quest",
           "body": "Over the next few hours, ask someone their opinion before giving yours (e.g., ‘How do you think she answered that question?’)"
         },
+        "sharingWall": {
+          "question": "How did today’s quest make you feel?",
+          "exampleText": "It made me feel that listening to others is important."
+        },
         "followUp": {
+          "id": "followUpDay5",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 5 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-5",
+        "nextConversationId": "alive-day-6",
+        "type": "microInterventionDay",
+        "id": "alive-day-5"
       }
     ]
   },
   "sv": {
     "id": "alive-day-5",
     "alias": "alive-day-5",
-    "type": "lesson",
     "root": "scheduleTask",
     "sections": [
       {
-        "id": "alive-day-5",
-        "alias": "alive-day-5",
-        "nextConversationId": "alive-day-6",
-        "type": "microInterventionDay",
+        "welcomeHeading": "Välkommen till dag 5",
         "askForPNs": true,
-        "welcomeHeading": "Welcome to Day 5",
-        "lessonlastDay": false,
         "task": {
-          "days": 1,
+          "days": 0,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 5",
-          "body": "Over the next few hours, ask someone their opinion before giving yours (e.g., ‘How do you think she answered that question?’)"
+          "title": "Uppdrag dag 5",
+          "body": "Under de närmaste timmarna, fråga någon om deras åsikt innan du ger din (t.ex. \"Vad tror du?\")",
+          "id": "aliveDay5rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur kändes det att göra dagens uppdrag?",
+          "exampleText": "Det fick mig att inse att det är viktigt att lyssna på andra."
         },
         "followUp": {
+          "id": "followUpDay5",
           "days": 0,
           "hours": 10,
           "minutes": 0,
-          "title": "Alive Day 5 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 5 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-5",
+        "nextConversationId": "alive-day-6",
+        "type": "microInterventionDay",
+        "id": "alive-day-5"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-5",
+    "alias": "alive-day-5",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 5",
+        "task": {
+          "id": "aliveDay5rev1",
+          "days": 0,
+          "hours": 8,
+          "minutes": 33,
+          "title": "Desafio ALIVE dia 5",
+          "body": "Durante as próximas horas, pergunta a opinião de alguém antes de dares a tua sobre algum tema (por exemplo, ‘Como achas que esta questão foi respondida?’)"
+        },
+        "sharingWall": {
+          "question": "Como te sentiste ao fazer o desafio de hoje?",
+          "exampleText": "Fez-me sentir a importância de ouvir os outros."
+        },
+        "followUp": {
+          "id": "followUpDay5",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 5 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-5",
+        "nextConversationId": "alive-day-6",
+        "type": "microInterventionDay",
+        "id": "alive-day-5"
       }
     ]
   }

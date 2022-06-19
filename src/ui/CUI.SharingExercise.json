@@ -1,0 +1,110 @@
+{
+  "en": {
+    "sharingWall": {
+      "title": "Reflection exercise",
+      "body__markdown": "Here is what others have said",
+      "skip__button": "Skip",
+      "cancel__button": "Cancel"
+    },
+    "exerciseInput": {
+      "title": "Reflection exercise",
+      "input_placeholder": "Write your reflection here...",
+      "skip__button": "No, not right now"
+    },
+    "answerChoice": {
+      "body__markdown": "What is it that makes you feel like this today?"
+    },
+    "exerciseSharingChoice": {
+      "title": "Your reflection",
+      "body__markdown": "Would you like to share your reflection too?\nAnonymously, of course.",
+      "yes__button": "Sure!",
+      "no__button": "I’d rather not"
+    },
+    "exerciseShared": {
+      "heading__markdown": "Thanks for sharing.",
+      "body__markdown": "Reading your reflection can be truly helpful for someone else.",
+      "continue__button": "Got it"
+    },
+    "exerciseNotShared": {
+      "heading__markdown": "That's okay",
+      "body__markdown": "Maybe next time.",
+      "continue__button": "Sure"
+    },
+    "exerciseSkipped": {
+      "body__markdown": "Maybe next time.\n\nHere is what others have said.",
+      "continue__button": "I'm done"
+    }
+  },
+  "sv": {
+    "sharingWall": {
+      "title": "Reflektionsövning",
+      "body__markdown": "Här kan du läsa andras reflektioner",
+      "skip__button": "Hoppa över",
+      "cancel__button": "Avbryt"
+    },
+    "exerciseInput": {
+      "title": "Reflektionsövning",
+      "input_placeholder": "Skriv din reflektion här...",
+      "skip__button": "Hoppa över"
+    },
+    "answerChoice": {
+      "body__markdown": "Vad är det som gör att du känner så idag?"
+    },
+    "exerciseSharingChoice": {
+      "title": "Din reflektion",
+      "body__markdown": "Vill du dela din reflektion?\nHelt anonymt förstås.",
+      "yes__button": "Gärna",
+      "no__button": "Nej, tack"
+    },
+    "exerciseShared": {
+      "heading__markdown": "Tack för att du delar med dig",
+      "body__markdown": "Att läsa din reflektion kan göra stor skillnad för någon annan.",
+      "continue__button": "Okej"
+    },
+    "exerciseNotShared": {
+      "heading__markdown": "## Det är okej",
+      "body__markdown": "Kanske nästa gång.",
+      "continue__button": "Kanske det!"
+    },
+    "exerciseSkipped": {
+      "body__markdown": "Kanske nästa gång.\n\nHär kan du läsa andras reflektioner.",
+      "continue__button": "Jag är klar"
+    }
+  },
+  "pt": {
+    "sharingWall": {
+      "title": "Exercício de reflexão",
+      "body__markdown": "O que os outros disseram",
+      "skip__button": "Agora não",
+      "cancel__button": "Cancelar"
+    },
+    "exerciseInput": {
+      "title": "Exercício de reflexão",
+      "input_placeholder": "Escreve a tua própria reflexão",
+      "skip__button": "Agora não"
+    },
+    "answerChoice": {
+      "body__markdown": "O que te faz sentir assim hoje?"
+    },
+    "exerciseSharingChoice": {
+      "title": "A tua reflexão",
+      "body__markdown": "Ao partilhares, estás a ajudar os outros.\nQueres partilhar a tua resposta de forma anónima?",
+      "yes__button": "Sim!",
+      "no__button": "Prefiro não partilhar"
+    },
+    "exerciseShared": {
+      "heading__markdown": "Agradecemos esta partilha",
+      "body__markdown": "Partilhar é um dos aspetos fundamentais do desenvolvimento pessoal.",
+      "continue__button": "Continuar"
+    },
+    "exerciseNotShared": {
+      "heading__markdown": "## Tudo bem",
+      "body__markdown": "Escolheste não partilhar as tuas reflexões e não há problema nenhum com isso. Partilha ao teu ritmo. Vais ter outras oportunidades.",
+      "continue__button": "Continuar"
+    },
+    "exerciseSkipped": {
+      "body__markdown": "Talvez para a próxima. Aqui podes ver o que os outros partilharam.",
+      "continue__button": "Continuar"
+    }
+  }
+}

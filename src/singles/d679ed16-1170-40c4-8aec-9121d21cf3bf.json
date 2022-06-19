@@ -1,0 +1,364 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Setting boundaries",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/setting_boundaries_jsnhvi.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+    "description": "Identify your needs and learn to set healthy boundaries.",
+    "stations": [
+      {
+        "id": "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+        "root": "section1",
+        "alias": "Exercise: Setting Boundaries",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Setting boundaries",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/setting_boundaries_jsnhvi.png",
+            "title": "Setting boundaries",
+            "content": "We are social species, hard-wired for human connection.\n\nOur ability to communicate our needs and goals is a cornerstone of our relationships.\n\nWithout communicating our needs and goals, however, it’s hard to set and maintain healthy boundaries and consequently meet our needs or reach our goals.",
+            "buttonText": "Got it"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Learn more about",
+            "topImageUri": "",
+            "title": "",
+            "content": "**Learn more about:**\n\n* Your goals and needs\n* Setting healthy boundaries\n\n**You'll need:**\n\n* 10 minutes\n* Pen & paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Setting boundaries",
+            "title": "",
+            "content": "Setting boundaries is particularly hard when we’re under stress of any kind. Instead, we tend to:\n\n* not communicate our needs or deny we have any\n* talk in a more agitated or accusatory tone\n* project our feelings onto others\n* say yes to too many things or things we don’t want to say yes to\n* avoid contact with others",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3bc2f3ad-c71e-4ff5-b392-642dcaeba22d",
+            "content": "Overtime this can lead us to experiencing resentment, anger or guilt, as if life was running away from us.\n\nOne reason we don't set boundaries is that we don't know what we want. That’s why **understanding and communicating your needs and goals** is important.",
+            "alias": "why this matters",
+            "buttonText": "Let's practise this"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b9953536-7cd5-433c-98f1-4ebe939146fa",
+            "content": "**1. Needs**\n\nBegin by examining which of your needs aren’t being met or expressed at the moment.\n\n> *My current needs are…*\n>\n> *What I need right now is...*",
+            "infoItems": [
+              {
+                "title": "2. Current situation",
+                "description": "* How do you communicate your needs at the moment?\n* Where would it be useful for you to set more boundaries and in relation to whom?"
+              },
+              {
+                "title": "3. Opportunities",
+                "description": "* How would you go about setting these new boundaries, given your circumstances.\n* If setting these boundaries involves saying yes or no to events or people, how could you communicate this in a calm and assertive way?"
+              },
+              {
+                "title": "4. Action",
+                "description": "* Commit to when and how you will take action towards meeting your needs this week.\n* Now go ahead and talk to the people you’ve identified about your intentions. If that’s not possible right now, book a time this week to do so."
+              }
+            ],
+            "alias": "Exercise",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "video",
+            "id": "3223c205-297f-4e1d-b52e-58261aa3dfa7",
+            "alias": "Sandro sharing",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646755425/Challenges/Sandro_Boundaries_cy5uav.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647338208/Challenges/Sandro%20subtitles/ENG_Boundaries_hln15a.vtt"
+              }
+            ],
+            "buttonText": "I'm done"
+          },
+          {
+            "question": "How can setting boundaries help you meet your needs?",
+            "alias": "Sharing wall: setting boundaries",
+            "nextSection": "section8",
+            "nextConversation": "",
+            "exampleText": "I can explain to my partner that I need at least ten minutes of quiet time alone each day to reflect.",
+            "type": "sharingExercise",
+            "id": "d831953a-180d-4f59-8e54-986f59e1e89d",
+            "enableEarlySkip": true,
+            "previewSharings": true
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628156294/Illustrations_Meditations/Change_2_iuampr.png",
+            "title": "",
+            "content": "Well done for your openness to explore your needs and your willingness to set healthy boundaries to meet them.\n\nOur ability to communicate our needs and goals enables us to live more meaningfully.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Setting boundaries",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Sätt hälsosamma gränser",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/setting_boundaries_jsnhvi.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+    "description": "Identifiera dina behov och lär dig sätta hälsosamma gränser.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+        "root": "section1",
+        "alias": "Exercise: Setting Boundaries",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Sätta gränser",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/setting_boundaries_jsnhvi.png",
+            "title": "Sätta gränser",
+            "content": "Vi människor är sociala varelser och goda relationer är nödvändiga för att vi ska må bra.\n\nVår förmåga att kommunicera och berätta vad vi behöver hjälp med är på många sätt avgörande.\n\nOm vi av en eller annan anledning inte kan förmedla våra behov får vi svårt att sätta gränser och därmed även svårt att uppnå våra mål.",
+            "buttonText": "Jag förstår"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "I den här övningen lär du dig",
+            "topImageUri": "",
+            "title": "",
+            "content": "**I den här övningen lär du dig:**\n\n* Om dina mål och behov\n* Att sätta gränser\n\n**Du behöver:**\n\n* 10 minuter\n* Penna & papper",
+            "buttonText": "Jag är redo"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Sätta gränser",
+            "title": "",
+            "content": "Att sätta gränser är extra svårt när vi är stressade, till exempel så:\n\n* kommunicerar vi inte våra behov\n* pratar vi i en mer upprörd eller anklagande ton\n* projicerar vi våra känslor på andra\n* säger vi ja för ofta\n* isolerar vi oss",
+            "buttonText": "Okej"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3bc2f3ad-c71e-4ff5-b392-642dcaeba22d",
+            "content": "Det här kan leda till att vi känner oss arga, bittra, eller förvirrade. Och när livet känns stressigt påverkas både vår livskvalitet och våra relationer.\n\nEn annan anledning att vi inte sätter gränser kan vara att vi faktiskt inte vet vad vi behöver. Just därför är det så viktigt att vi ger oss själva möjligheten att att både förstå och dela med oss av våra behov och önskemål.",
+            "alias": "varför det är viktigt",
+            "buttonText": "Nu kör vi igång"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b9953536-7cd5-433c-98f1-4ebe939146fa",
+            "content": "**1. Behov**\n\nBörja med att undersöka vilka av dina behov som inte tillgodoses eller uttrycks för tillfället.\n\n> *My current needs are…*\n>\n> *What I need right now is...*",
+            "infoItems": [
+              {
+                "title": "2. Nuläge",
+                "description": "* How do you communicate your needs at the moment?\n* Where would it be useful for you to set up more boundaries and in relation to whom?"
+              },
+              {
+                "title": "3. Möjligheter",
+                "description": "* Inom vilket område i livet och i förhållande till vem skulle det vara hjälpsamt att sätta fler gränser?\n* Undersök i detalj hur du skulle kunna sätta nya gränser. Om det innefattar att säga ja eller nej, hur kan du kommunicera det på ett lugnt och bestämt sätt?"
+              },
+              {
+                "title": "4. Förändring",
+                "description": "* Bestäm när och hur du ska börja ändra ditt beteende för att bättre tillgodose dina behov med start den här veckan.\n* Prata med personerna som berörs av ditt nya gränssättande. Om det inte är möjligt just nu, boka en tid till senare i veckan."
+              }
+            ],
+            "alias": "Exercise",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "video",
+            "id": "7fe74114-7df5-4f6b-b6a1-d5b2eb04aa8b",
+            "alias": "Sandro sharing",
+            "videos": [
+              {
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1646737091/Challenges/Sandro_video_cover_ttbmx5.png",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1646755425/Challenges/Sandro_Gra%CC%88nser_j5rrrz.mp4",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1647338208/Challenges/Sandro%20subtitles/SWE_Boundaries_g0ejp1.vtt"
+              }
+            ],
+            "buttonText": "Jag är klar"
+          },
+          {
+            "question": "Hur kan gränssättning hjälpa dig att tillfredsställa dina behov?",
+            "alias": "Sharing wall: setting boundaries",
+            "nextSection": "section8",
+            "nextConversation": "",
+            "exampleText": "Jag kan förklara för min partner att jag behöver minst 10 minuter egentid varje morgon.",
+            "type": "sharingExercise",
+            "id": "d831953a-180d-4f59-8e54-986f59e1e89d",
+            "enableEarlySkip": true,
+            "previewSharings": true
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628156294/Illustrations_Meditations/Change_2_iuampr.png",
+            "title": "",
+            "content": "Bra jobbat, du har nu utforskat dina behov och bestämt vad du kan göra för att sätta hälsosamma gränser.\n\nVår förmåga att aktivt fatta beslut som styr oss mot de saker som vi känner verkligen är viktiga, är avgörande för att vi ska kunna leva meningsfulla och hållbara liv.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Sätt hälsosamma gränser",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Estabelecer Limites",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/setting_boundaries_jsnhvi.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "5a3feb1e-8f7a-414f-8554-26ba8ef57548",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+    "description": "Identifica as tuas necessidades e aprende a estabelecer limites saudáveis",
+    "stations": [
+      {
+        "id": "d679ed16-1170-40c4-8aec-9121d21cf3bf",
+        "root": "section1",
+        "alias": "Exercise: Setting Boundaries",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Estabelecer Limites",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781085/New_images/exercises%20png/1024x1024/setting_boundaries_jsnhvi.png",
+            "title": "Estabelecer Limites",
+            "content": "10 minutos \n\nA qualidade da nossa vida e das nossas relações é afetada quando a vida é stressante.\n\nMas as relações são importantes para nós. Os humanos são animais sociais e as nossas relações são vitais para o nosso bem-estar.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Sob stress",
+            "topImageUri": "",
+            "title": "Sob stress",
+            "content": "Quando estamos sob stress, o nosso comportamento tende a ser mais extremo, por exemplo:\n\n* Não comunicamos as nossas necessidades\n* Falamos num tom mais agitado ou crítico\n* Projetamos os nossos sentimentos nos outros\n* Assumimos demasiadas responsabilidades\n* Evitamos o contacto com os outros",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Estabelecer limites",
+            "title": "Estabelecer limites",
+            "content": "Uma boa comunicação está no centro de todas as boas relações. Isto inclui a nossa capacidade de estabelecer e comunicar os nossos limites.\n\nQuando não estabelecemos limites claros e saudáveis, é difícil vivermos de acordo com os nossos valores. Isto pode levar-nos a sentirmo-nos ressentidos, zangados ou culpados para connosco e para com os outros, como se a nossa vida estivesse a escapar-nos.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Começa por examinar quais das tuas necessidades não estão a ser satisfeitas ou expressas neste momento. Escreve-as numa folha de papel\n\n\"As minhas necessidades atuais são...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Como é que comunicas as tuas necessidades neste momento?\n\nOnde seria útil para ti estabelecer mais limites e em relação a quem?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Explora em detalhe como podes estabelecer novos limites, dadas as tuas circunstâncias.\n\nSe estabelecer estes limites envolve dizer sim ou dizer não a coisas ou pessoas, como as poderias comunicar de uma forma calma e assertiva?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section7",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Compromete-te a quando e como poderás tomar medidas para satisfazer as tuas necessidades esta semana.\n\nAgora vai em frente e fala sobre as tuas intenções com as pessoas que identificaste. Se isso não for possível neste momento, marca uma hora esta semana para falar sobre isso.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Parabéns pela tua abertura para explorar as tuas necessidades e pela tua determinação em estabelecer limites saudáveis à tua volta.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "58454e3e-87c4-4bfa-aa67-1d5ae4a845d6",
+            "alias": "Sharing wall: setting boundaries",
+            "question": "Como é que establecer limites te pode ajudar a satisfazer as tuas necessidades?",
+            "exampleText": "Posso explicar à minha família que preciso de pelo menos dez minutos de silêncio sozinha/o todos os dias para refletir."
+          }
+        ],
+        "name": "Estabelecer Limites",
+        "type": "station"
+      }
+    ]
+  }
+}

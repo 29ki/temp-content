@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "kroppen-1",
-    "alias": "kroppen-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 2-body-1",
     "root": "section1",
     "sections": [
       {
@@ -22,7 +21,7 @@
               },
               {
                 "component": "Text",
-                "content": "Stress, fear and love - everything is felt in the body. In this challenge, you will learn to notice how experiences in the body affect you, and how you can practice accepting difficult experiences instead of trying to get rid of them."
+                "content": "Stress, fear, and love – everything is felt in the body. In this lesson, you will learn to notice how these experiences in the body affect you, as well as how you can practice accepting difficult experiences instead of running away from them."
               }
             ]
           },
@@ -32,7 +31,6 @@
               {
                 "component": "Button",
                 "content": "Sounds good",
-                "conversationId": "kroppen-1",
                 "sectionId": "sectionContents"
               }
             ]
@@ -49,11 +47,11 @@
             "content": [
               {
                 "component": "Subtitle",
-                "content": "The body contains 3 steps"
+                "content": "The body contains three parts"
               },
               {
                 "component": "Text",
-                "content": "* Your stress reaction\n* Body surcharge\n* Your body, your home"
+                "content": "* Your stress reaction\n* The stress response\n* Your body, your home"
               }
             ]
           },
@@ -63,7 +61,6 @@
               {
                 "component": "Button",
                 "content": "Start!",
-                "conversationId": "kroppen-1",
                 "sectionId": "section2"
               }
             ]
@@ -84,7 +81,7 @@
               },
               {
                 "component": "Text",
-                "content": "You should now be able to describe a stressful or difficult situation you have experienced in the past week. A situation where you lost your inner friend or did not hear what he said."
+                "content": "Now it's time to describe a stressful or difficult situation you've  experienced in the past week. A situation where you lost your inner friend or didn't hear what it said."
               }
             ]
           },
@@ -94,7 +91,6 @@
               {
                 "component": "Button",
                 "content": "Okay, keep going",
-                "conversationId": "kroppen-1",
                 "sectionId": "stressfulSituationVideos"
               }
             ]
@@ -115,19 +111,22 @@
                 "title": "Isaac, 20",
                 "duration": 57,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856888/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/Isaac-one-question-en_z5q0ha.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 60,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856889/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/Emelia-one-question-en_o0uc6n.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 43,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856889/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/Laila-question-one-en_le70uf.vtt"
               }
             ]
           },
@@ -137,7 +136,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "kroppen-1",
                 "sectionId": "section3"
               }
             ]
@@ -156,15 +154,15 @@
               },
               {
                 "component": "Text",
-                "content": "My stressful situation part 1"
+                "content": "## My stressful situation part 1"
               },
               {
                 "component": "Text",
-                "content": "Where were you? Who were there? Why were you there? What happened that made you stressed?"
+                "content": "* Where were you? \n* Who were there? \n* Why were you there? \n* What happened that made you stressed?"
               },
               {
                 "component": "Quote",
-                "content": "I was home myself and did my math homework. I had several errors and it felt like I was stupid and slow and would get my grade lowered."
+                "content": "I was home alone doing my math homework. I did several mistakes and it felt like I was stupid and slow and would get my grade lowered."
               },
               {
                 "component": "Text",
@@ -178,7 +176,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "kroppen-1",
                 "sectionId": "section4"
               }
             ]
@@ -199,15 +196,15 @@
               },
               {
                 "component": "Text",
-                "content": "# My stressful situation part 2"
+                "content": "## My stressful situation part 2"
               },
               {
                 "component": "Text",
-                "content": "How did it feel in the body? Common examples are tense muscles, tremors, tremors, sweating, nausea and palpitations."
+                "content": "How did that feel in your **body**? \n\nCommon examples are **tense** muscles, **shivering**, sweating, nausea and **fast heart** beating."
               },
               {
                 "component": "Quote",
-                "content": "I was sweating, palpitating and feeling unwell."
+                "content": "I was sweating and feeling unwell."
               },
               {
                 "component": "Text",
@@ -220,8 +217,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Next",
-                "conversationId": "kroppen-1",
+                "content": "I'm done",
                 "sectionId": "section5"
               }
             ]
@@ -242,15 +238,15 @@
               },
               {
                 "component": "Text",
-                "content": "# My stressful situation part 3"
+                "content": "## My stressful situation part 3"
               },
               {
                 "component": "Text",
-                "content": "What feelings did you have? Afraid, angry, frustrated, ashamed or maybe sad? What feeling did you experience most strongly?"
+                "content": "What **feelings** did you have? \n\nAfraid, angry, frustrated, ashamed or maybe sad? What feeling did you experience **most strongly**?"
               },
               {
                 "component": "Quote",
-                "content": "I was scared and angry at myself. most scared perhaps."
+                "content": "I was scared and angry at myself. Mostly scared perhaps."
               },
               {
                 "component": "Text",
@@ -263,8 +259,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Next",
-                "conversationId": "kroppen-1",
+                "content": "Done",
                 "sectionId": "section6"
               }
             ]
@@ -285,11 +280,11 @@
               },
               {
                 "component": "Text",
-                "content": "# My stressful situation part 4"
+                "content": "## My stressful situation part 4"
               },
               {
                 "component": "Text",
-                "content": "If you close your eyes and think about the situation, where in your body was this feeling strongest? In the chest, head, stomach or something else? Can you describe the experience in the body?"
+                "content": "If you close your eyes and think about the situation, **where** in your body was this feeling **strongest**? \n\nIn the chest, head, stomach or somewhere else? \n\nCan you **describe** the experience in your body?"
               },
               {
                 "component": "Quote",
@@ -307,7 +302,6 @@
               {
                 "component": "Button",
                 "content": "I'm finished",
-                "conversationId": "kroppen-1",
                 "sectionId": "section7"
               }
             ]
@@ -324,7 +318,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Nice that you dared to face your feelings and experiences in a difficult situation."
+                "content": "Great that you dared face your feelings and experiences in a difficult situation."
               }
             ]
           },
@@ -333,9 +327,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Next",
-                "conversationId": "kroppen-2",
-                "sectionId": "section1"
+                "conversationId": "kroppen-2"
               }
             ]
           }
@@ -348,8 +342,7 @@
   },
   "sv": {
     "id": "kroppen-1",
-    "alias": "kroppen-1",
-    "type": "lesson",
+    "alias": "YA Become friends: 2-body-1",
     "root": "section1",
     "sections": [
       {
@@ -379,7 +372,6 @@
               {
                 "component": "Button",
                 "content": "Låter bra",
-                "conversationId": "kroppen-1",
                 "sectionId": "sectionContents"
               }
             ]
@@ -410,7 +402,6 @@
               {
                 "component": "Button",
                 "content": "Börja!",
-                "conversationId": "kroppen-1",
                 "sectionId": "section2"
               }
             ]
@@ -441,7 +432,6 @@
               {
                 "component": "Button",
                 "content": "Okej, fortsätt",
-                "conversationId": "kroppen-1",
                 "sectionId": "stressfulSituationVideos"
               }
             ]
@@ -462,19 +452,22 @@
                 "title": "Isaac, 20",
                 "duration": 57,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Isaac_one_question.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608384/Become%20friends%20with%20yourself/subtitles/Isaac-one-question_unk9qw.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 60,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Emelia_one_question.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608384/Become%20friends%20with%20yourself/subtitles/Emelia-one-question_jjqoxn.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 43,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/Laila_question_one.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621608384/Become%20friends%20with%20yourself/subtitles/Laila-question-one_nv0bm1.vtt"
               }
             ]
           },
@@ -484,7 +477,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "kroppen-1",
                 "sectionId": "section3"
               }
             ]
@@ -525,7 +517,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "kroppen-1",
                 "sectionId": "section4"
               }
             ]
@@ -568,7 +559,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "kroppen-1",
                 "sectionId": "section5"
               }
             ]
@@ -611,7 +601,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "kroppen-1",
                 "sectionId": "section6"
               }
             ]
@@ -654,7 +643,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "kroppen-1",
                 "sectionId": "section7"
               }
             ]
@@ -680,9 +668,356 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Nästa",
-                "conversationId": "kroppen-2",
-                "sectionId": "section1"
+                "conversationId": "kroppen-2"
+              }
+            ]
+          }
+        ],
+        "id": "section7",
+        "alias": "section7",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "kroppen-1",
+    "alias": "YA Become friends: 2-body-1",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/lesson_kropp_header.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# O corpo"
+              },
+              {
+                "component": "Text",
+                "content": "Stress, medo e amor – tudo é sentido no corpo. Nesta lição, vais aprender a perceber como essas experiências no corpo te afetam, e também como podes praticar a aceitação de experiências difíceis em vez de fugir delas."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Parece-me bem",
+                "sectionId": "sectionContents"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Esta lição tem três partes"
+              },
+              {
+                "component": "Text",
+                "content": "* A tua reação ao stress\n* A resposta ao stress\n* O teu corpo, a tua casa"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Começar!",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "sectionContents",
+        "alias": "sectionContents",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# A tua reação ao stress"
+              },
+              {
+                "component": "Text",
+                "content": "Agora é hora de descrever uma situação stressante ou difícil que tenhas vivenciado na semana passada. Uma situação em que tenhas perdido o teu amigo ou a tua amiga interior ou então não os tenhas ouvido."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "stressfulSituationVideos"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "id": "stressfulSituationVideos",
+        "alias": "stressfulSituationVideos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "António Casalinho",
+                "duration": 275,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357324/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L2V1_zmkiug.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_L2v1_bms65x.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Leonor",
+                "duration": 91,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358579/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L2V1_xmbn4z.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379529/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/O_Corpo_-_video_1_kim823.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Daniela",
+                "duration": 69,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357779/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L2V1_nftyfa.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375117/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_O_Corpo_-_Video_1_qjcfyk.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358312/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L2V1_zcrz76.mp4",
+                "duration": 87,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379399/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/O_Corpo_-_video_1_lgjznq.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercício"
+              },
+              {
+                "component": "Text",
+                "content": "## A minha situação stressante - parte 1"
+              },
+              {
+                "component": "Text",
+                "content": "* Onde estavas?\n* Quem estava lá?\n* Porque razão estavas lá?\n* O que aconteceu que te deixou com stress?"
+              },
+              {
+                "component": "Quote",
+                "content": "Eu estava sozinho/a em casa a fazer os trabalhos de casa de matemática. Cometi vários erros e senti-me estúpido/a e lento/a e que ia baixar a minha nota."
+              },
+              {
+                "component": "Text",
+                "content": "Anota a tua resposta onde só tu possas vê-la."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercício"
+              },
+              {
+                "component": "Text",
+                "content": "## A minha situação stressante - parte 2"
+              },
+              {
+                "component": "Text",
+                "content": "Como te sentiste no teu **corpo**?\n\nExemplos comuns são músculos **tensos**, **tremores**, transpiração, náusea e **coração acelerado**."
+              },
+              {
+                "component": "Quote",
+                "content": "Eu estava a transpirar a sentir-me mal."
+              },
+              {
+                "component": "Text",
+                "content": "Anota a tua resposta onde só tu possas vê-la."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Já fiz",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercício"
+              },
+              {
+                "component": "Text",
+                "content": "## A minha situação stressante - parte 3"
+              },
+              {
+                "component": "Text",
+                "content": "Que **sentimentos** tiveste?\n\nSenti medo, raiva, frustração, vergonha ou talvez tristeza? Que sentimento foi **mais forte**?"
+              },
+              {
+                "component": "Quote",
+                "content": "Eu estava com medo e com raiva de mim mesma/o. Principalmente com medo, talvez."
+              },
+              {
+                "component": "Text",
+                "content": "Anota a tua resposta onde só tu possas vê-la."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Feito",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Subtitle",
+                "content": "Exercício"
+              },
+              {
+                "component": "Text",
+                "content": "## A minha situação stressante - parte 4"
+              },
+              {
+                "component": "Text",
+                "content": "Se fechares os olhos e pensares na situação, **onde** era **mais forte** essa sensação no teu corpo?\n\nNo peito, cabeça, estômago ou noutro sítio?\n\nPodes **descrever** a experiência no teu corpo?"
+              },
+              {
+                "component": "Quote",
+                "content": "Parecia mais no estômago. Pesado, como um grande globo frio."
+              },
+              {
+                "component": "Text",
+                "content": "Anota a tua resposta onde só tu podes vê-la."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Já acabei",
+                "sectionId": "section7"
+              }
+            ]
+          }
+        ],
+        "id": "section6",
+        "alias": "section6",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Que bom que ousaste enfrentar os teus sentimentos e experiências numa situação difícil."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte",
+                "conversationId": "kroppen-2"
               }
             ]
           }

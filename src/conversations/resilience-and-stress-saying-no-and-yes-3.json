@@ -1,0 +1,211 @@
+{
+  "en": {
+    "id": "resilience-and-stress-saying-no-and-yes-3",
+    "alias": "resilience-and-stress-saying-no-and-yes-3",
+    "root": "section8",
+    "sections": [
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "editorialWithImage",
+        "title": "Saying no",
+        "content": "Here’s some advice you might find useful if you want to practice saying no:\n\n* Start with a **thank you**, and then a no: *“Oh, that sounds fun. Thank you for inviting me! Unfortunately, I can't come\".*\n* If you’re unsure, ask for some **time** to think: \"*Is it OK if I answer tomorrow?*\"\n* Try to be **honest** instead of telling a white lie: \"*Thank you for asking. It seems exciting, but I don't really feel like it right now\".*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628510559/Stress/Yesandno_uh8gzb.png"
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "Examine what you want",
+        "content": "One reason we don't set boundaries is that **we don't know what we want**. So we do what others suggest. That’s why understanding what you want is important.\n\nSo now it's over to you. Let’s look inwards and find an area where it would be useful for you to set up **boundaries**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm ready",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-4"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-saying-no-and-yes-3",
+    "alias": "resilience-and-stress-saying-no-and-yes-3",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "video",
+        "title": "Att säga ja men mena nej",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_attsaganejochja_ovning2.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622488787/Hantera%20Stress%20Adult/attsa%CC%88gajaochnej_o%CC%88vning2_euxzpo.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "editorialWithImage",
+        "title": "Säga nej",
+        "content": "Här är några råd som kan vara användbara om du vill öva på att säga nej: \n\n* Inled med ett **tack**, och sedan ett nej: ”*Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.*”\n* Om du är osäker, be om lite **betänketid**: \"*Funkar det om jag svarar imorgon*?\"\n* Försök vara **ärlig** istället för att dra en vit lögn: \"*Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu\".*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section11"
+          }
+        ],
+        "topImageUri": ""
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "editorialWithImage",
+        "title": "Undersök vad du vill",
+        "content": "En anledning till att vi inte sätter gränser är att vi ibland **inte själva vet vad vi vill.** Så vi gör det som andra föreslår. Ett viktigt steg är därför att undersöka vad du vill.\n\nSå, nu är det upp till dig. Du ska få blicka inåt och fundera på ett område där du skulle vilja sätta tydligare **gränser**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är redo",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-4"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-saying-no-and-yes-3",
+    "alias": "resilience-and-stress-saying-no-and-yes-3",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "A ratoeira do sim",
+        "content": "Um problema comum quando estamos stressados é dizer sim a demasiadas coisas.\n\nFazemos isso por todos os tipos de razões: talvez tenhamos expectativas muito altas, tenhamos medo de perder alguma coisa ou apenas achemos difícil desiludir as outras pessoas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "editorialWithImage",
+        "title": "A ratoeira do sim",
+        "content": "O dizer sim a muitas coisas pode limitar as ações que podemos realizar para viver de acordo com os nossos valores.\n\nA capacidade de dizer não é uma competência muito importante nas relações, especialmente em alturas de stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "editorialWithImage",
+        "title": "Dizer não",
+        "content": "Aqui estão alguns conselhos que podem ser úteis se quiseres praticar o dizer não:\n\n• Agradece e depois diz não: “Oh, parece divertido. Agradeço o convite e lamento não poder ir”.\n\n• Em caso de dúvida, pede tempo para pensar: \"Obrigada/o por perguntares, posso dar-te uma resposta amanhã?\"\n\n• Tenta ser honesta/o em vez de usares uma mentira inocente: \"Oh, obrigada/o por perguntares, parece interessante, mas não estou realmente disposta/o a isso agora.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "13b6393c-f189-4656-ac77-aaa1da317233"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "13b6393c-f189-4656-ac77-aaa1da317233",
+        "alias": "section9a",
+        "title": "Aqui estão alguns conselhos...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9",
+            "conversationId": ""
+          }
+        ],
+        "description": "“Saber dizer não ou saber pedir mais tempo, (…) sem me sentir culpado por isso ou sem que isso afecte a minha auto-estima.”",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543793/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L6thumbnaildizersimenao_ethqkn.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621806987/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L6_Stress_and_resilience_V1_9-16_n8zlg2.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "alias": "section9",
+        "type": "editorialWithImage",
+        "title": "Saberes o que queres",
+        "content": "Uma razão pela qual não estabelecemos limites é porque às vezes não sabemos o que queremos. Aceitamos as sugestões das outras pessoas.\n\nUm passo importante é saberes o que queres quando surgem situações em que podes ser questionada/o ou podes ter dificuldade em recusar.\n\nVamos olhar para o nosso interior e encontrar uma área onde seria útil definir limites.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "alias": "section10",
+        "type": "writing",
+        "title": "Os teus limites",
+        "question": "",
+        "longDescription": "1. Pensa numa situação em que disseste sim a alguma coisa, embora realmente não o quisesses fazer. Descreve o que aconteceu e se isso te impediu de fazer outra coisa que valorizavas mais.\n2. Tenta pensar em alguma coisa na tua vida em que seria útil dizer não. Faz planos concretos sobre como desejas responder quando receberes a pergunta. Além disso, pensa ao que passarás a poder dizer sim como resultado deste não.\n\nEscreve a tua resposta numa folha de papel e guarda-a. Vais poder partilhá-la com o teu grupo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "alias": "section11",
+        "type": "audio",
+        "title": "A respiração como âncora",
+        "description": "Antes de prosseguires, experimenta esta meditação que te vai ajudar a sentires-te mais consciente e presente, preparando-te para a próxima fase desta lição.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429299/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_10_-_Breathing_Anchor_r7zkxc.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-4",
+            "sectionId": "section12"
+          }
+        ],
+        "duration": "06:01"
+      }
+    ]
+  }
+}

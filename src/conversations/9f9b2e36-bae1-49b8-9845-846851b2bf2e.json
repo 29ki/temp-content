@@ -1,0 +1,45 @@
+{
+  "en": {
+    "id": "9f9b2e36-bae1-49b8-9845-846851b2bf2e",
+    "alias": "sleep-day-1",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to the sleep challenge",
+        "task": {
+          "days": 0,
+          "hours": 12,
+          "minutes": 15,
+          "id": "sleep-day-1",
+          "title": "Day 1",
+          "body": "Today switch off your mobile phone before going to bed."
+        },
+        "sharingWall": {
+          "question": "How did you feel switching off that mobile phone",
+          "exampleText": "I felt...."
+        },
+        "followUp": {
+          "days": 0,
+          "hours": 20,
+          "minutes": 0,
+          "id": "followupsleepDay1",
+          "title": "Check-in",
+          "body": "SO how did it go?"
+        },
+        "lessonlastDay": false,
+        "alias": "sleep-day-1",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "a0a0087a-d6e6-4701-a376-c55fac2948fc"
+      }
+    ],
+    "root": "scheduleTask"
+  },
+  "sv": {
+    "id": "9f9b2e36-bae1-49b8-9845-846851b2bf2e",
+    "alias": "sleep-day-1"
+  },
+  "pt": {
+    "id": "9f9b2e36-bae1-49b8-9845-846851b2bf2e",
+    "alias": "sleep-day-1"
+  }
+}

@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-insideoutside-5",
-    "alias": "relationships-insideoutside-5",
+    "alias": "YA building relationships 4: insideoutside-5",
     "root": "1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Now you can practice getting closer to others by using all the skills you've learned. These are the steps you can use to build your friendships:\n\nPause\n\nAware\n\nAllow\n\nInside-outside vision"
+                "content": "Now you can practice getting closer to others by using all the skills you've learned. These are the steps you can use to build your friendships:\n\n* Pause\n* Let values guide your behaviors\n* Be aware\n* Practice allowing\n* Use inside-outside vision"
               }
             ]
           },
@@ -24,7 +23,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-insideoutside-5",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +39,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Remember to **pause** before jumping in.\n\nUse your inner **awareness** to know how you feel and to guess how others might be feeling.\n\nIf you have strong feelings or thoughts while with others, **allow** them to pass and act based on what you care about with friendships. Remember what you care about from the first friendship challenge."
+                "content": "Remember to **pause** before doing anything else.\n\nUse your inner awareness to understand how you feel on the **inside**, and to try to understand how **others** feel.\n\nIf you have **strong** thoughts and feelings when you are with others, **allow** them to pass and then act based on how you **want** to be as a friend. Remember what you **value** in friends."
               }
             ]
           },
@@ -51,7 +49,6 @@
               {
                 "component": "Button",
                 "content": "I'm ready",
-                "conversationId": "relationships-insideoutside-5",
                 "sectionId": "3"
               }
             ]
@@ -68,7 +65,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Remember that we all mind-read to guess what others are thinking and feeling. \n\nWe assume others know what is happening inside us, and we assume we are right about what is happening inside them. **Inside-outside vision** is about reality-checking those guesses and seeing that we are all vulnerable inside."
+                "content": "Remember that we all use **mind-reading** to try to **understand** what others are thinking and feeling. We assume that others can see what is going on inside us, and we also assume that we are always right when it comes to guessing what others feel.\n\n**Inside-outside vision** is about reconciling our guesses with **reality**. It is also understanding that all people are **vulnerable** on the inside – even if it is not always **noticeable**."
               }
             ]
           },
@@ -87,9 +84,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-insideoutside-5",
-    "alias": "relationships-insideoutside-5",
+    "alias": "YA building relationships 4: insideoutside-5",
     "root": "1",
     "sections": [
       {
@@ -101,7 +97,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Nu kan du öva på att komma närmre andra genom att använda alla färdigheter du lärt dig. Dessa är stegen du kan använda för att bygga dina vänskaper:\n\nPausa\n\nMedveten\n\nTillåta\n\nInsidan-utsidan-kollen"
+                "content": "Nu kan du öva på att komma närmre andra genom att använda alla färdigheter du lärt dig. Det här är stegen du kan använda för att bygga dina relationer:\n\nPausa\n\nVärderingar\n\nMedveten\n\nTillåtande\n\nInsidan-utsidan-kollen"
               }
             ]
           },
@@ -111,7 +107,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-insideoutside-5",
                 "sectionId": "2"
               }
             ]
@@ -128,7 +123,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Kom ihåg att **pausa** innan du gör någonting annat.\n\nAnvänd din inre medvetenhet för att förstå hur du känner dig på insidan, och för att försöka förstå hur andra mår.\n\nOm du har starka tankar och känslor när du är med andra, tillåt dem att passera och agera sedan utifrån hur du vill vara som vän. Kom ihåg vad det är du värdesätter hos vänner."
+                "content": "Kom ihåg att **pausa** innan du gör någonting annat.\n\nSpana inåt för att förstå hur du känner dig på **insidan**, och för att försöka förstå hur andra mår.\n\nOm du har **starka** tankar och känslor när du är med andra, tillåt dem att **passera** och agera sedan utifrån hur du **vill** vara som vän. Kom ihåg vad det är du **värdesätter** hos vänner."
               }
             ]
           },
@@ -137,8 +132,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är redo",
-                "conversationId": "relationships-insideoutside-5",
+                "content": "Jag är klar",
                 "sectionId": "3"
               }
             ]
@@ -155,7 +149,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Kom ihåg att vi alla använder tankeläsning för att försöka förstå vad andra tänker och känner. Vi antar att andra kan se vad det är som pågår inom oss, och vi antar också att vi alltid har rätt när det kommer till att gissa vad andra känner. \n\n**Insidan-utsidan-kollen** handlar om att stämma av våra gissningar med verkligheten. Det är också att förstå att alla människor är sårbara på insidan - även om det inte alltid märks."
+                "content": "Kom ihåg att vi alla använder **tankeläsning** för att **försöka** förstå vad andra tänker och känner. Vi antar att andra kan se vad det är som pågår inom oss, och vi antar också att vi alltid har rätt när det kommer till att gissa vad andra känner. \n\n**Insidan-utsidan-kollen** handlar om att stämma av våra gissningar med **verkligheten**. Det är också att förstå att alla människor är sårbara på insidan - även om det inte alltid **märks**."
               }
             ]
           },
@@ -165,6 +159,90 @@
               {
                 "component": "LessonCompleteButton",
                 "content": "Jag är klar"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-insideoutside-5",
+    "alias": "YA building relationships 4: insideoutside-5",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora podes praticar o ficar mais próxima/o dos outros usando todas as competências que aprendeste. Estes são os passos que podes usar para construir as tuas amizades:\n\n* Pausa\n* Deixa os valores guiarem os teus comportamentos\n* Estar consciente\n* Praticar o aceitar  \n* Usa a visão de dentro para fora"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Lembra-te de **fazer uma pausa** antes de fazeres outra coisa qualquer.\n\nUsa a tua consciência interior para entender como te sentes **por dentro** e tenta entender como os **outros** se sentem.\n\nSe tens pensamentos e sentimentos **fortes** quando estás com outras pessoas, **permite** que eles passem e age depois com base no/a amigo/a que **queres** **ser**. Lembra-te do que **valorizas** nos amigos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Estou pronta/o",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Lembra-te de que todos nós usamos a **leitura de pensamentos** para tentar **entender** o que os outros estão a pensar e sentir. Assumimos que os outros podem ver o que está a acontecer dentro de nós, e também assumimos que estamos sempre certos quando se trata de adivinhar o que os outros sentem.\n\nA **visão de dentro para fora** concilia as nossas suposições com a **realidade**. É também entender que todas as pessoas são **vulneráveis** por dentro – mesmo que nem sempre seja **percetível**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Concluído "
               }
             ]
           }

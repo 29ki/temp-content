@@ -1,0 +1,520 @@
+{
+  "en": {
+    "segments": ["YOUNG_ADULTS"],
+
+    "name": "Deal with stress",
+    "about": {
+      "courseValue": "## What will I learn?\n\n* Understand how stress works \n* What happens in the body when I'm stressed\n* Become better at dealing with stress\n* How to recover and rest\n* Do more of what makes me feel good",
+      "howThisWorks": "* Five lessons about stress\n* Read and learn\n* Written exercises\n* Meditations\n* Hear from others and share your own thoughts - if you want to",
+      "body": "",
+      "createdBy": {
+        "text": "",
+        "profiles": []
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648561281/New_images/courses%20young%20adults/Dealing_with_stress_pvqffa.png"
+    },
+    "cta": "What would your life be like if stress was less of a problem? \\\n\\\nMany people experience stress in their everyday life and find it difficult to manage all the demands — all the things they \"must\" and \"should\" do. Learning how to deal with stress can help us in various situations.\n\nLearn how to change the things you can control and find new ways to deal with what you can't.",
+    "duration": {
+      "type": "lesson",
+      "count": 5
+    },
+
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "id": "97613b42-cf84-4e19-aba1-22179e172912",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "48ec4724-3d1a-46bd-9c2d-7f3798cc5776",
+        "name": "What is stress",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Learn how stress works and make life less stressful",
+        "conversations": [
+          {
+            "conversationId": "what-is-stress-1",
+            "title": "What is stress",
+            "id": "b92aa4a2-7fc9-4140-a372-aa6975346398"
+          },
+          {
+            "conversationId": "what-is-stress-2",
+            "title": "Positive and negative stress",
+            "id": "01ed8cbc-3d52-4d32-8818-9779142483d5"
+          },
+          {
+            "conversationId": "what-is-stress-3",
+            "title": "A stressful period",
+            "id": "eb47a9f0-6a2f-4959-87fa-9827d88c4608"
+          },
+          {
+            "conversationId": "what-is-stress-4",
+            "title": "Recovery",
+            "id": "e8ff2ff6-30ad-486f-bbef-c2c53ae0bfeb"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "dec05c39-044f-439d-9417-68a783b577a4",
+        "name": "Being here and now",
+        "description": "Worry less about the future and focus on the now instead.",
+        "conversations": [
+          {
+            "title": "Being here and now",
+            "conversationId": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
+            "id": "ab19d076-67b6-4f26-9c98-f7304c2996c9"
+          },
+          {
+            "title": "Focus exercise",
+            "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+            "id": "b593ca28-fdf4-49cc-9479-f72ef105d347"
+          },
+          {
+            "title": "Become less impulsive",
+            "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+            "id": "f4298973-0380-4c83-9aab-013faaa1b258"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/here-now_lesson.png"
+        },
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "44075a09-68db-40be-a34e-6a59cd162599",
+        "name": "Change what's not working",
+        "conversations": [
+          {
+            "title": "Change or accept?",
+            "conversationId": "bde7c256-0426-4496-aa72-4a934281ad31",
+            "id": "10b6afae-295a-49fb-afef-f9ba0801cb78"
+          },
+          {
+            "title": "Problem solving under stress",
+            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+            "id": "4626330a-6c7b-4ee9-8520-a93fccde3e11"
+          }
+        ],
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Find ways to make your life less stressful",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/change_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "a9b6e7f5-196f-4539-82b5-b0d805483b38",
+        "name": "Saying no — and yes",
+        "conversations": [
+          {
+            "title": "Saying no – and yes",
+            "conversationId": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
+            "id": "485e229c-897c-4870-8bd3-a3f304346c09"
+          },
+          {
+            "title": "Your limits",
+            "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+            "id": "f6ef4ce1-2c98-443e-8e1a-78aebe313c0e"
+          },
+          {
+            "title": "Saying yes to what you want",
+            "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+            "id": "bae5a66b-8064-4d01-a08c-3985e7fbfdfe"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_lesson.png"
+        },
+        "description": "Learn to set healthy boundaries.",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "a575d5a4-5464-4a35-b037-82c0a142c076",
+        "conversations": [
+          {
+            "conversationId": "6b897f77-80e7-4427-9343-8f64702323fa",
+            "title": "A less stressful life",
+            "id": "e3995901-4dab-432a-99d6-4ac085f0bd8f"
+          },
+          {
+            "title": "Practice",
+            "conversationId": "95bcceaf-37fe-4414-84a3-694991aac799",
+            "id": "08d8b2e1-05df-4f36-8cf4-f0957c389b43"
+          }
+        ],
+        "name": "Continue dealing with stress",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/outro_lession.png"
+        },
+        "duration": {
+          "count": 10,
+          "type": "minute"
+        },
+        "description": "Choose what you'd like to keep working on to deal with stress."
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_header.png"
+    }
+  },
+  "sv": {
+    "segments": ["YOUNG_ADULTS"],
+
+    "name": "Hantera stress",
+    "about": {
+      "howThisWorks": "* Fem lektioner om stress\n* Läs och lär\n* Skriftliga övningar\n* Meditationer\n* Ta del av andras erfarenheter och dela med dig av dina egna upplevelser — om du vill",
+      "courseValue": "## Vad kommer jag lära mig?\n\n* Förstå hur stress fungerar\n* Vad som händer i kroppen när vi är stressade\n* Hantera stress bättre\n* Hur du kan återhämta dig\n* Göra mer av det du mår bra av",
+      "body": ""
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648561281/New_images/courses%20young%20adults/Dealing_with_stress_pvqffa.png"
+    },
+    "cta": "Hur skulle ditt liv se ut om det var mindre stressigt? \\\n\\\nMånga känner stress i sin vardag och har svårt att få ihop alla krav, måsten och borden. Att lära sig hantera stress kan hjälpa oss i många olika situationer.\n\nLär dig förändra det du kan kontrollera och hitta nya sätt att hantera sakerna du inte kan påverka.",
+    "duration": {
+      "type": "lesson",
+      "count": 5
+    },
+
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "id": "97613b42-cf84-4e19-aba1-22179e172912",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "48ec4724-3d1a-46bd-9c2d-7f3798cc5776",
+        "name": "Stress – så funkar det",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Lär dig hur stress fungerar och få ett mindre stressigt liv",
+        "conversations": [
+          {
+            "conversationId": "what-is-stress-1",
+            "title": "Vad är stress"
+          },
+          {
+            "conversationId": "what-is-stress-2",
+            "title": "Positiv och negativ stress"
+          },
+          {
+            "conversationId": "what-is-stress-3",
+            "title": "En stressig period"
+          },
+          {
+            "conversationId": "what-is-stress-4",
+            "title": "Återhämtning"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "dec05c39-044f-439d-9417-68a783b577a4",
+        "name": "Att vara här och nu",
+        "description": "Oroa dig mindre för framtiden och fokusera istället på nuet.",
+        "conversations": [
+          {
+            "title": "Att vara här och nu",
+            "conversationId": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49"
+          },
+          {
+            "title": "Fokusövning",
+            "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec"
+          },
+          {
+            "title": "Bli mindre impulsiv",
+            "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d"
+          }
+        ],
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/here-now_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "44075a09-68db-40be-a34e-6a59cd162599",
+        "name": "Förändra det som inte fungerar",
+        "conversations": [
+          {
+            "title": "Påverka eller acceptera?",
+            "conversationId": "bde7c256-0426-4496-aa72-4a934281ad31"
+          },
+          {
+            "title": "Problemlösning vid stress",
+            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111"
+          }
+        ],
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Hitta lösningar för att göra ditt liv mindre stressigt.",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/change_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "a9b6e7f5-196f-4539-82b5-b0d805483b38",
+        "name": "Att säga nej — och ja",
+        "conversations": [
+          {
+            "title": "Att säga nej — och ja",
+            "conversationId": "303402e4-5fca-4e20-bbf1-0859242e2ea0"
+          },
+          {
+            "title": "Dina gränser",
+            "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e"
+          },
+          {
+            "title": "Att säga ja till det du vill",
+            "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe"
+          }
+        ],
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Lär dig sätta hälsosamma gränser.",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "a575d5a4-5464-4a35-b037-82c0a142c076",
+        "conversations": [
+          {
+            "title": "Ett mindre stressigt liv",
+            "conversationId": "6b897f77-80e7-4427-9343-8f64702323fa",
+            "id": "ecdb05a0-1a1c-48a2-9dea-7bc3368a7c2a"
+          },
+          {
+            "title": "Öva",
+            "conversationId": "95bcceaf-37fe-4414-84a3-694991aac799",
+            "id": "b2bf64eb-873e-4810-8eeb-b5b15b3add56"
+          }
+        ],
+        "name": "Fortsätt hantera stress",
+        "duration": {
+          "count": 10,
+          "type": "minute"
+        },
+        "description": "Välj vad du vill fortsätta arbeta med för att hantera stress.",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/outro_lession.png"
+        }
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_header.png"
+    }
+  },
+  "pt": {
+    "segments": ["YOUNG_ADULTS", "ADULTS"],
+    "author": {
+      "nickname": "Zicky Té e Rita Rocha",
+      "name": "Zicky Té e Rita Rocha"
+    },
+    "name": "Lidar com o stress",
+    "about": {
+      "courseValue": "## O que vou aprender?\n\n* Vou entender como o stress funciona\n* O que acontece no meu corpo quando estou com stress\n* A lidar melhor com o stress\n* Como recuperar e descansar\n* A fazer mais aquilo que me faz sentir bem",
+      "howThisWorks": "* Cinco lições sobre stress\n* Lê e aprende\n* Exercícios escritos\n* Meditações\n* Escuta o que os outros dizem e partilha o que pensas - se quiseres",
+      "body": "Muitas pessoas sentem stress na sua vida quotidiana e acham difícil gerir todos os objetivos, todas as coisas que \"têm de\" e \"devem\" fazer. Aprender a lidar com o stress pode ajudar-nos em várias situações.\n\nAprende a mudar as coisas que podes controlar e encontra novas formas de lidar com o que não podes.",
+      "createdBy": {
+        "text": "",
+        "profiles": []
+      }
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650462820/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/20220420_Menu_Zicky_T%C3%A9_e_Rita_v2_znnphg.jpg"
+    },
+    "cta": "Como seria a tua vida se o stress fosse um problema menor?",
+    "duration": {
+      "type": "lesson",
+      "count": 5
+    },
+
+    "tags": ["9e879ce3-5754-493c-8da6-6d09c1e6a05e"],
+    "id": "97613b42-cf84-4e19-aba1-22179e172912",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "48ec4724-3d1a-46bd-9c2d-7f3798cc5776",
+        "name": "O que é o stress",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Fica a saber como o stress funciona e torna a tua vida menos stressante",
+        "conversations": [
+          {
+            "conversationId": "what-is-stress-1",
+            "title": "O que é o stress",
+            "id": "b92aa4a2-7fc9-4140-a372-aa6975346398"
+          },
+          {
+            "conversationId": "what-is-stress-2",
+            "title": "Stress positivo e negativo ",
+            "id": "01ed8cbc-3d52-4d32-8818-9779142483d5"
+          },
+          {
+            "conversationId": "what-is-stress-3",
+            "title": "Um período stressante",
+            "id": "eb47a9f0-6a2f-4959-87fa-9827d88c4608"
+          },
+          {
+            "conversationId": "what-is-stress-4",
+            "title": "Recuperação",
+            "id": "e8ff2ff6-30ad-486f-bbef-c2c53ae0bfeb"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/stress_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "dec05c39-044f-439d-9417-68a783b577a4",
+        "name": "Estar aqui e agora",
+        "description": "Preocupa-te menos com o futuro e em vez disso, concentra-te no agora.",
+        "conversations": [
+          {
+            "title": "Estar aqui e agora",
+            "conversationId": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
+            "id": "ab19d076-67b6-4f26-9c98-f7304c2996c9"
+          },
+          {
+            "title": "Exercício de foco",
+            "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+            "id": "b593ca28-fdf4-49cc-9479-f72ef105d347"
+          },
+          {
+            "title": "Torna-te menos impulsiva/o",
+            "conversationId": "9eea2a9f-cebf-4947-a7f8-f2483ff5f98d",
+            "id": "f4298973-0380-4c83-9aab-013faaa1b258"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/here-now_lesson.png"
+        },
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "44075a09-68db-40be-a34e-6a59cd162599",
+        "name": "Muda o que não está a funcionar",
+        "conversations": [
+          {
+            "title": "Mudar ou aceitar?",
+            "conversationId": "bde7c256-0426-4496-aa72-4a934281ad31",
+            "id": "10b6afae-295a-49fb-afef-f9ba0801cb78"
+          },
+          {
+            "title": "Resolver problemas sob stress",
+            "conversationId": "9de539c0-b496-45e1-8efd-6a5c02fc6111",
+            "id": "4626330a-6c7b-4ee9-8520-a93fccde3e11"
+          }
+        ],
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        },
+        "description": "Encontra formas de tornares a tua vida menos stressante",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/change_lesson.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "a9b6e7f5-196f-4539-82b5-b0d805483b38",
+        "name": "Dizer não - e sim",
+        "conversations": [
+          {
+            "title": "Dizer não - e sim",
+            "conversationId": "303402e4-5fca-4e20-bbf1-0859242e2ea0",
+            "id": "485e229c-897c-4870-8bd3-a3f304346c09"
+          },
+          {
+            "title": "Os teus limites",
+            "conversationId": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+            "id": "f6ef4ce1-2c98-443e-8e1a-78aebe313c0e"
+          },
+          {
+            "title": "Dizer sim ao que tu queres",
+            "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+            "id": "bae5a66b-8064-4d01-a08c-3985e7fbfdfe"
+          }
+        ],
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/yes-no_lesson.png"
+        },
+        "description": "Aprende a estabelecer limites saudáveis",
+        "duration": {
+          "count": 15,
+          "type": "minute"
+        }
+      },
+      {
+        "wip": false,
+        "id": "a575d5a4-5464-4a35-b037-82c0a142c076",
+        "conversations": [
+          {
+            "conversationId": "6b897f77-80e7-4427-9343-8f64702323fa",
+            "title": "Uma vida menos stressante",
+            "id": "e3995901-4dab-432a-99d6-4ac085f0bd8f"
+          },
+          {
+            "title": "Prática",
+            "conversationId": "95bcceaf-37fe-4414-84a3-694991aac799",
+            "id": "08d8b2e1-05df-4f36-8cf4-f0957c389b43"
+          }
+        ],
+        "name": "Continuar a lidar com o stress ",
+        "card": {
+          "image": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/outro_lession.png"
+        },
+        "duration": {
+          "count": 10,
+          "type": "minute"
+        },
+        "description": "Escolhe aquilo que gostarias de continuar a desenvolver para lidares com o stress."
+      }
+    ],
+
+    "wip": false,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650387384/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/novacapaZickyRita_cou2c5.jpg"
+    }
+  }
+}

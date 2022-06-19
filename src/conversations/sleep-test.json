@@ -1,0 +1,638 @@
+{
+  "en": {
+    "id": "sleep-test",
+    "alias": "sleep test",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795938/New_images/test/1024x1024/sleep_asnpcb.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# How do you sleep?"
+              },
+              {
+                "component": "Text",
+                "content": "Everyone has a hard time sleeping occasionally. A temporary lack of sleep can affect us in various ways, but it's when our problems become long-term that there may be a need to take action for a change.\n\nThis test will help detect current symptoms but isn't diagnostic. The questions focus on potential sleep difficulties during the last **two weeks**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Start test",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "QuestionnaireSet",
+            "scoreCategoryMethod": "threshold",
+            "calcType": "sum",
+            "hideSubScores": true,
+            "saveScore": true,
+            "sets": [
+              {
+                "options": [
+                  {
+                    "label": "None",
+                    "score": 0
+                  },
+                  {
+                    "label": "Mild",
+                    "score": 1
+                  },
+                  {
+                    "label": "Moderate",
+                    "score": 2
+                  },
+                  {
+                    "label": "Severe",
+                    "score": 3
+                  },
+                  {
+                    "label": "Very Severe",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "Please rate the current severity of your difficulty falling asleep:"
+                  },
+                  {
+                    "question": "Please rate the current severity of your difficulty staying asleep:"
+                  },
+                  {
+                    "question": "Please rate the current severity of your problem of waking up too early:"
+                  }
+                ]
+              },
+              {
+                "options": [
+                  {
+                    "label": "Very satisfied",
+                    "score": 0
+                  },
+                  {
+                    "label": "Satisfied",
+                    "score": 1
+                  },
+                  {
+                    "label": "Moderately satisfied",
+                    "score": 2
+                  },
+                  {
+                    "label": "Dissatisfied",
+                    "score": 3
+                  },
+                  {
+                    "label": "Very dissatisfied",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "How satisfied/dissatisfied are you with your current sleep pattern?"
+                  }
+                ]
+              },
+              {
+                "options": [
+                  {
+                    "label": "Not at all",
+                    "score": 0
+                  },
+                  {
+                    "label": "A Little",
+                    "score": 1
+                  },
+                  {
+                    "label": "Somewhat",
+                    "score": 2
+                  },
+                  {
+                    "label": "Much",
+                    "score": 3
+                  },
+                  {
+                    "label": "Very Much",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "How noticeable to others do you think your sleep problem is in terms of impairing the quality of your life?"
+                  },
+                  {
+                    "question": "How worried/distressed are you about your current sleep problem?"
+                  },
+                  {
+                    "question": "To what extent do you consider your sleep problem to interfere with your daily functioning (e.g. daytime fatigue, mood, ability to function at work/daily chores, concentration, memory, mood, etc.) currently?"
+                  }
+                ]
+              }
+            ],
+            "scores": [
+              {
+                "score": 0,
+                "label": "Minimal",
+                "description": "Your scores indicate that it's unlikely that you have significant sleep problems for now. It seems that you currently sleep well and feel rested when waking up.\n\nRemember that you're the expert on yourself and your experiences. If you'd like to work on improving your sleep, check out our related exercises and meditations."
+              },
+              {
+                "score": 8,
+                "label": "Low",
+                "description": "Your scores indicate that you may suffer from some sleep difficulties right now. It's perfectly normal to have difficulties with sleep from time to time, and it may be a good idea to expand your toolbox to improve sleep when you're in need.\n\nRemember that you're the expert on yourself and your experiences. If you'd like to work on improving your sleep, check out our related exercises and meditations."
+              },
+              {
+                "score": 15,
+                "label": "Moderate",
+                "description": "Your score on the test indicates that you are experiencing sleep difficulties. It's normal to have a hard time sleeping from time to time, but problems over a longer period of time — also called insomnia — can be tough on your physical and mental health.\n\n One way to make a change to your current situation is to increase your knowledge about sleep and expand your sleep toolbox. check out our related exercises and meditations."
+              },
+              {
+                "score": 22,
+                "label": "High",
+                "description": "Your score suggests that you may have severe sleep difficulties. Sleep problems over a longer period of time — also called insomnia — can be tough on both your body and mind.\n\nRemember that you're the expert on your life. One suggestion is that you increase your knowledge about sleep and expand your sleep toolbox in order to improve your sleep quality. To help you with that, check out our related exercises and meditations. If you've been experiencing severe problems for a longer period of time, we recommend you seek professional help."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continue",
+                "sectionId": "b7fe3091-fa0c-422d-80a7-269c88da7aab"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3 ",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "b7fe3091-fa0c-422d-80a7-269c88da7aab",
+        "alias": "sleep test sharing wall",
+        "question": "What feelings did the test result evoke in you?",
+        "exampleText": "Made me feel calm, seems like I’m better off than I thought."
+      }
+    ]
+  },
+  "sv": {
+    "id": "sleep-test",
+    "alias": "sleep test",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795938/New_images/test/1024x1024/sleep_asnpcb.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Hur sover du?"
+              },
+              {
+                "component": "Text",
+                "content": "Alla har vi svårt att sova ibland. Tillfällig sömnbrist kan påverka oss på olika sätt, men det är när våra problem blir långvariga som det kan vara läge att göra något åt saken.\n\nDet här testet hjälper dig upptäcka aktuella symtom men ställer ingen diagnos. Frågorna handlar om olika sorters svårigheter med sömnen under de senaste **två veckorna**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Starta testet",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "QuestionnaireSet",
+            "scoreCategoryMethod": "threshold",
+            "calcType": "sum",
+            "hideSubScores": true,
+            "saveScore": true,
+            "sets": [
+              {
+                "options": [
+                  {
+                    "label": "Inga",
+                    "score": 0
+                  },
+                  {
+                    "label": "Små",
+                    "score": 1
+                  },
+                  {
+                    "label": "Ganska stora",
+                    "score": 2
+                  },
+                  {
+                    "label": "Stora",
+                    "score": 3
+                  },
+                  {
+                    "label": "Mycket",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "Skatta svårighetsgraden av dina nuvarande sömnproblem gällande svårigheter att somna in:"
+                  },
+                  {
+                    "question": "Skatta svårighetsgraden av dina nuvarande sömnproblem gällande problem med att du vaknar under natten:"
+                  },
+                  {
+                    "question": "Skatta svårighetsgraden av dina nuvarande sömnproblem gällande problem med att du vaknar för tidigt:"
+                  }
+                ]
+              },
+              {
+                "options": [
+                  {
+                    "label": "Mycket nöjd",
+                    "score": 0
+                  },
+                  {
+                    "label": "Nöjd",
+                    "score": 1
+                  },
+                  {
+                    "label": "Varken nöjd eller missnöjd",
+                    "score": 2
+                  },
+                  {
+                    "label": "Missnöjd",
+                    "score": 3
+                  },
+                  {
+                    "label": "Mycket missnöjd",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "Hur nöjd/missnöjd är du med ditt nuvarande sömnmönster?"
+                  }
+                ]
+              },
+              {
+                "options": [
+                  {
+                    "label": "Inte alls",
+                    "score": 0
+                  },
+                  {
+                    "label": "Lite",
+                    "score": 1
+                  },
+                  {
+                    "label": "En del",
+                    "score": 2
+                  },
+                  {
+                    "label": "Mycket",
+                    "score": 3
+                  },
+                  {
+                    "label": "Väldigt mycket",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "I vilken utsträckning anser du att dina sömnproblem försämrar din dagliga funktionsförmåga (t.ex. trött under dagen, förmåga att fungera på arbetet och med vardagsysslor, koncentration, minne, humör o.s.v.)?"
+                  },
+                  {
+                    "question": "Hur märkbart är det för andra att dina sömnproblem sänker din livskvalitet?"
+                  },
+                  {
+                    "question": "Hur bekymrad är du över dina nuvarande sömnproblem?"
+                  }
+                ]
+              }
+            ],
+            "scores": [
+              {
+                "score": 0,
+                "label": "Minimala",
+                "description": "Dina poäng indikerar att det är osannolikt att du har sömnproblem just nu. Det verkar som att du för närvarande sover gott och känner dig utvilad när du vaknar.\n\nKom ihåg att du är expert på dig själv och dina erfarenheter. Om du vill jobba på att förbättra din sömn erbjuder vi övningar och meditationer."
+              },
+              {
+                "score": 8,
+                "label": "Låg",
+                "description": "Dina poäng indikerar att du kan lida av vissa sömnsvårigheter just nu. Det är helt normalt att sova dåligt ibland. Därför kan det vara en bra idé att utöka din verktygslåda för att kunna sova bättre när du befinner dig i sådana perioder.\n\nKom ihåg att du är expert på dig själv och dina erfarenheter. Om du vill arbeta med att förbättra din sömn erbjuder vi övningar och meditationer."
+              },
+              {
+                "score": 15,
+                "label": "Medel",
+                "description": "Din poäng på testet indikerar att du har sömnsvårigheter just nu. Det är normalt att ha svårt att sova då och då, men problem under en längre tid — även kallat insomni — kan vara påfrestande för din fysiska och psykiska hälsa.\n\nEtt sätt att förändra din nuvarande situation är att öka din kunskap om sömn och samtidigt utöka din verktygslåda för att kunna sova bättre. Vi erbjuder övningar och meditationer för att öka din sömnkvalitet."
+              },
+              {
+                "score": 22,
+                "label": "Hög",
+                "description": "Dina poäng tyder på att du kan ha allvarliga sömnsvårigheter just nu. Sömnproblem under en längre tid — även kallat insomni — kan vara påfrestande för din fysiska och psykiska hälsa.\n\nKom ihåg att du är expert på ditt liv. Ett förslag är att du ökar din kunskap om sömn och utökar din verktygslåda för att förbättra din sömnkvalitet, till exempel genom att testa våra relaterade övningar och meditationer. Om du har upplevt allvarliga problem med sömnen under en längre period rekommenderar vi att du söker professionell hjälp."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Fortsätt",
+                "sectionId": "b7fe3091-fa0c-422d-80a7-269c88da7aab"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "b7fe3091-fa0c-422d-80a7-269c88da7aab",
+        "alias": "sleep test sharing wall",
+        "question": "Vad väckte testresultatet för känslor hos dig?",
+        "exampleText": "Jag känner mig rätt lugn. Verkar som att jag inte sover så illa trots allt."
+      }
+    ]
+  },
+  "pt": {
+    "id": "sleep-test",
+    "alias": "sleep test",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652795938/New_images/test/1024x1024/sleep_asnpcb.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Como é o teu sono?"
+              },
+              {
+                "component": "Text",
+                "content": "Ocasionalmente todas as pessoas sentem dificuldades em dormir. A falta temporária de sono pode afetar-nos de várias formas, mas quando os nossos problemas se prolongam no tempo podemos sentir a necessidade urgente de fazer uma mudança.\n\nEste teste vai ajudar-te a identificar alguns sintomas atuais, mas não é um diagnóstico. As perguntas focam-se em potenciais dificuldades relacionadas com o sono durante as últimas **duas semanas**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Iniciar o teste",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "next": {
+              "sectionId": "section3"
+            },
+            "component": "QuestionnaireSet",
+            "scoreCategoryMethod": "threshold",
+            "calcType": "sum",
+            "hideSubScores": true,
+            "saveScore": true,
+            "sets": [
+              {
+                "options": [
+                  {
+                    "label": "Nenhuma",
+                    "score": 0
+                  },
+                  {
+                    "label": "Ligeira",
+                    "score": 1
+                  },
+                  {
+                    "label": "Moderada",
+                    "score": 2
+                  },
+                  {
+                    "label": "Grave",
+                    "score": 3
+                  },
+                  {
+                    "label": "Muito grave",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "Como classificas em termos de gravidade a tua dificuldade atual em adormecer?"
+                  },
+                  {
+                    "question": " Como classificas em termos de gravidade a tua dificuldade atual em manter o sono?"
+                  },
+                  {
+                    "question": " Como classificas em termos de gravidade o teu problema atual de acordar muito cedo?"
+                  }
+                ]
+              },
+              {
+                "options": [
+                  {
+                    "label": "Muito satisfeita/o",
+                    "score": 0
+                  },
+                  {
+                    "label": "Satisfeita/o",
+                    "score": 1
+                  },
+                  {
+                    "label": "Moderadamente satisfeita/o",
+                    "score": 2
+                  },
+                  {
+                    "label": "Insatisfeita/o",
+                    "score": 3
+                  },
+                  {
+                    "label": "Muito insatisfeita/o",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "Quão satisfeita/o ou insatisfeita/o estás em relação ao teu atual padrão de sono?"
+                  }
+                ]
+              },
+              {
+                "options": [
+                  {
+                    "label": "Nada",
+                    "score": 0
+                  },
+                  {
+                    "label": "Um pouco",
+                    "score": 1
+                  },
+                  {
+                    "label": "De alguma forma",
+                    "score": 2
+                  },
+                  {
+                    "label": "Muito",
+                    "score": 3
+                  },
+                  {
+                    "label": "Completamente",
+                    "score": 4
+                  }
+                ],
+                "questions": [
+                  {
+                    "question": "Quão percetível achas que é para os outros o teu problema de sono em termos de consequências negativas na tua qualidade de vida?"
+                  },
+                  {
+                    "question": "Quão preocupada/o estás com o teu problema de sono atual?"
+                  },
+                  {
+                    "question": "Até que ponto consideras que o teu problema de sono interfere no teu funcionamento diário (por exemplo, fadiga diurna, humor, capacidade de funcionar no trabalho/tarefas diárias, concentração, memória, humor, etc.) atualmente?"
+                  }
+                ]
+              }
+            ],
+            "scores": [
+              {
+                "score": 0,
+                "label": "Mínimo",
+                "description": "As tuas pontuações indicam que é pouco provável que tenhas problemas de sono significativos neste momento. Parece que atualmente dormes bem e que te sentes descansada/o ao acordar.\n\nLembra-te de que tu és a/o especialista em ti mesma/o e nas tuas experiências. Se quiseres trabalhar para melhorar o teu sono, a 29k FJN oferece exercícios e meditações."
+              },
+              {
+                "score": 8,
+                "label": "Baixo",
+                "description": "As tuas pontuações indicam que neste momento podes sofrer de algumas dificuldades para dormir. É perfeitamente normal ter dificuldades para dormir de vez em quando, e pode ser uma boa ideia expandires a tua caixa de ferramentas para melhorares o sono quando precisares.\n\nLembra-te de que tu és a/o especialista em ti mesma/o e nas tuas experiências. Se queres trabalhar para melhorar o teu sono, a 29k FJN oferece-te exercícios e meditações."
+              },
+              {
+                "score": 15,
+                "label": "Moderado",
+                "description": "A tua pontuação no teste indica que estás a passar por dificuldades de sono. É normal ter problemas em dormir de vez em quando, mas quando se prolongam durante um longo período de tempo - também chamado de insónia – podem ter consequências na tua saúde física e mental. Podes fazer uma mudança na tua situação atual aumentando o teu conhecimento sobre o sono e expandindo a tua caixa de ferramentas para o sono. A 29k FJN oferece exercícios e meditações para aumentar a qualidade do teu sono."
+              },
+              {
+                "score": 22,
+                "label": "Alto",
+                "description": "A tua pontuação sugere que podes ter graves dificuldades para dormir. Problemas de sono que se prolongam durante um longo período de tempo, também chamados de insónia, podem ser difíceis para o corpo e para a mente.\n\nLembra-te de que tu és a/o especialista na tua vida. Uma sugestão é que aumentes o teu conhecimento sobre o sono e expandas a tua caixa de ferramentas do sono para melhorar a tua qualidade de sono. Para te ajudar nisso, a 29k FJN oferece exercícios e meditações. Se estiveres a passar por problemas graves por um longo período de tempo, recomendamos que procures ajuda profissional."
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "QuestionnaireResult",
+            "id": "answers"
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "b7fe3091-fa0c-422d-80a7-269c88da7aab"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "b7fe3091-fa0c-422d-80a7-269c88da7aab",
+        "alias": "sleep test sharing wall",
+        "question": "Que sentimentos surgiram quando viste o resultado do teste?",
+        "exampleText": "Fiquei mais calma/o, parece que estou melhor do que pensava."
+      }
+    ]
+  }
+}

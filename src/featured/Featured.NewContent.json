@@ -1,0 +1,86 @@
+{
+  "en": {
+    "newContent": [
+      {
+        "type": "challenge",
+        "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
+      },
+      {
+        "type": "single",
+        "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db"
+      },
+      {
+        "type": "single",
+        "id": "747e192f-c800-4c7d-8ba7-1f8789f07599"
+      },
+      {
+        "type": "single",
+        "id": "68f40033-6954-4955-b2fb-55625cc593d2"
+      },
+      {
+        "type": "challenge",
+        "id": "ed75387d-132d-4eb6-b58e-7769e7db5339"
+      },
+      {
+        "type": "challenge",
+        "id": "a1135753-16ff-4b62-8e69-ffd2a7e0505c"
+      },
+      {
+        "type": "exercise",
+        "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f"
+      }
+    ]
+  },
+  "sv": {
+    "newContent": [
+      {
+        "type": "challenge",
+        "id": "829349ce-d0e7-41c1-aa23-3370e305a1fa"
+      },
+      {
+        "type": "single",
+        "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db"
+      },
+      {
+        "type": "single",
+        "id": "747e192f-c800-4c7d-8ba7-1f8789f07599"
+      },
+      {
+        "type": "single",
+        "id": "68f40033-6954-4955-b2fb-55625cc593d2"
+      },
+      {
+        "type": "challenge",
+        "id": "ed75387d-132d-4eb6-b58e-7769e7db5339"
+      },
+      {
+        "type": "challenge",
+        "id": "a1135753-16ff-4b62-8e69-ffd2a7e0505c"
+      },
+      {
+        "type": "exercise",
+        "id": "56f7331c-1754-4c6c-9c16-a7871f9b253f"
+      }
+    ]
+  },
+  "pt": {
+    "newContent": [
+      {
+        "type": "course",
+        "id": "34028e3d-b2ef-441e-8c5f-cbd297673681"
+      },
+      {
+        "type": "exercise",
+        "id": "ccc0dd08-549f-4120-a194-07d258b3093f"
+      },
+      {
+        "type": "single",
+        "id": "0e17b6c7-3886-4dbc-a19e-551175ada895"
+      },
+      {
+        "type": "single",
+        "id": "3c2aa922-a9c3-4a81-a430-a96e68428bb5"
+      }
+    ]
+  }
+}

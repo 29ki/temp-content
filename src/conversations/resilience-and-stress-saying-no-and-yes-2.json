@@ -1,0 +1,256 @@
+{
+  "en": {
+    "id": "resilience-and-stress-saying-no-and-yes-2",
+    "alias": "resilience-and-stress-saying-no-and-yes-2",
+
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Healthy relationships",
+        "content": "When life is stressful we sometimes let relationships fade away. But **relationships** **matter**. \n\nThe most significant source of stress at work is having **too** **much** **to do**, but relationships are also **crucial**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "451dd7dc-b988-406b-bdd6-5e81e0dc17e1"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077784/Stress/nadine-shaabana--M_f3f8DGRg-unsplash_uixn8l.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "451dd7dc-b988-406b-bdd6-5e81e0dc17e1",
+        "content": "In fact, good relationships at work (and in general) can not only decrease our stress levels. \n\nGood relationships have also been shown to **strengthen** our **immune** **system** and even positively **affect** our **DNA**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "5452352b-fe68-4129-8a70-3fa65d8ae1be"
+          }
+        ],
+        "alias": "Relationships"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5452352b-fe68-4129-8a70-3fa65d8ae1be",
+        "content": "When we're **stressed**, we tend to say **yes** to **too** **many** things.\n\nBut we still do it. For all sorts of reasons. **High** **demands** on ourselves. **Fear** of missing out. **Difficulty** **dealing** with others getting **angry** or **disappointed**.",
+        "title": "The yes-trap",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Tell me more",
+            "sectionId": "9cd3757d-3221-4f6d-9717-4cd2b97b2540"
+          }
+        ],
+        "alias": "Yes-trap",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628088012/Illustrations_Exercises/Group_741_ixh8up.png"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9cd3757d-3221-4f6d-9717-4cd2b97b2540",
+        "content": "**Saying no** is an **important** **life** **skill**. While it may seem harsh and scary, saying no is also an act of self-care, especially when we’re stressed. \n\nBut often we **avoid** it. Or **get** **angry** when someone asks us for something we don't feel like doing.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Saying no"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Common traps",
+        "content": "**Avoidance** or **aggression** are common traps in **communicating** with the people around us. \n\nWhen we avoid something we usually **refrain** from saying anything, **leave** a situation or say that we **agree** — only to avoid conflict. And when we get very angry we may even be perceived as aggressive or threatening.\n\nWhile avoidance and anger can sometimes work in the short-term, they often don't work well in the long run.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "A more helpful communication style is often to **act** with **calmness** and **clarity**. \n\nFor example, this means:\n\n* Speaking in a normal conversation tone.\n* Maintaining relaxed and steady eye contact.\n* Being descriptive instead of accusatory when you address a problem.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continue",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-saying-no-and-yes-2",
+    "alias": "resilience-and-stress-saying-no-and-yes-2",
+
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Sunda relationer",
+        "content": "Att sätta **gränser** kan vara till hjälp både när vi har med andra människor att göra och när vi **navigerar** i vårt dagliga **liv**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Berätta mer",
+            "sectionId": "a6dfcc2f-13ad-4157-82e0-68659842af7e"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628077784/Stress/nadine-shaabana--M_f3f8DGRg-unsplash_uixn8l.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a6dfcc2f-13ad-4157-82e0-68659842af7e",
+        "content": "Stressiga perioder kan ibland kännas **ensamma**, och relationer tenderar att glida ner i **prioriteringslistan**. Men när vi är stressade är få saker i livet viktigare än **hälsosamma** **relationer.**\n\n**Forskning** visar att bra relationer kan hjälpa oss hantera **negativa** **effekter** av stress genom att **minska** våra **stressnivåer** och **stärka** vårt **immunförsvar.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "f2293230-dc5b-42a2-b72a-a76922949021"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f2293230-dc5b-42a2-b72a-a76922949021",
+        "content": "När vi är **stressade** är det vanligt att vi fortsätter säga **ja** till för **många** **saker**.\n\nVi fastnar i ja-fällan av flera anledningar. **Höga krav** på oss själva. **Rädsla** för att missa något. **Svårigheter** att **hantera** att andra blir **arga** eller **besvikna**.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Berätta mer",
+            "sectionId": "8a1b2367-9f48-4fa4-b712-f15eb995dbe5"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628088012/Illustrations_Exercises/Group_741_ixh8up.png"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8a1b2367-9f48-4fa4-b712-f15eb995dbe5",
+        "content": "Precis som att säga ja, är f**örmågan** att **säga nej** är en **viktig** **färdighet**. Trots att det kan kännas läskigt och ovant, så tar vi faktiskt **hand** om oss själva genom att sätta **gränser** — särskilt när vi är stressade.\n\nMen det händer ofta att vi **undviker** det, eller blir **arga** när någon ber oss om något som vi inte vill eller orkar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Vanliga fällor",
+        "content": "**Undvikande** eller **aggressivitet** är vanliga fällor när vi **kommunicerar** med människor i vår närhet.\n\nNär vi **undviker** brukar vi **låta** **bli** att säga någonting, **gå** därifrån eller **hålla** med — bara för att **slippa** **en** **konflikt**. När vi blir väldigt arga kan vi bli **aggressiva.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Trots att undvikande och ilska ibland kan fungera på **kort sikt**, blir det oftast inte särskilt bra i längden. \n\nVi riskerar att fastna i en **ohållbar** **situation** där vi gör saker vi egentligen inte vill göra, eller **skadar** **relationen** till någon som är viktig för oss.\n\nEtt **effektivare** sätt att **kommunicera** är oftast att agera med **lugn** och **tydlighet**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "fb176ef3-65bc-4e3d-b038-b2d4ebf71986"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fb176ef3-65bc-4e3d-b038-b2d4ebf71986",
+        "content": "Det innebär till exempel att:\n\n* Prata i normal **samtalston**.\n* Behålla **avslappnad** och stadig **ögonkontakt**.\n* Vara **beskrivande** snarare än **anklagande** när du diskuterar ett problem med någon annan.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-3",
+            "content": "Fortsätt"
+          }
+        ],
+        "alias": "Exempel"
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-saying-no-and-yes-2",
+    "alias": "resilience-and-stress-saying-no-and-yes-2",
+
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "editorialWithImage",
+        "title": "Relações saudáveis",
+        "content": "Quando a vida é stressante, por vezes deixamos esmorecer as nossas relações. Mas as relações são fundamentais.\n\nA fonte mais significativa de stress no trabalho é ter muito que fazer, mas as relações também são cruciais. Na verdade, ter boas relações no trabalho (e em geral) pode não diminuir apenas os nossos níveis de stress.\n\nAs boas relações também fortalecem o nosso sistema imunitário e podem até afetar positivamente o nosso ADN.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "type": "editorialWithImage",
+        "title": "Evitar o ato de evitar",
+        "content": "O ato de evitar ou a agressão são ratoeiras comuns na comunicação com as pessoas à nossa volta.\n\nO ato de evitar significa ter comportamentos como não dizer nada, ir embora ou concordar apenas para evitar conflitos.\n\nA agressão - como ameaçar ou ficar extremamente zangado - às vezes funciona, mas geralmente só a curto prazo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Agir com serenidade",
+        "content": "Um estilo de comunicação mais útil é agir frequentemente com serenidade e clareza.\n\nIsso significa, por exemplo, falar num tom de voz normal, manter um contacto visual relaxado e contínuo e descrever em vez de acusar quando abordas um problema.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-saying-no-and-yes-3",
+            "variant": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

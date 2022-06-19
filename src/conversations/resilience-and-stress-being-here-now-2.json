@@ -1,0 +1,268 @@
+{
+  "en": {
+    "id": "resilience-and-stress-being-here-now-2",
+    "alias": "resilience-and-stress-being-here-now-2",
+    "root": "fca963d6-3808-406e-bed7-5f7fe4131ccc",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "fca963d6-3808-406e-bed7-5f7fe4131ccc",
+        "alias": "Challenges",
+        "content": "When we are practicing mindfulness it's common to experience challenges with:\n\n1. Concentration\n2. Feeling uncomfortable",
+        "title": "Common challenges",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Read more",
+            "sectionId": "section5"
+          },
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Go to exercise",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "Challenges 1",
+        "type": "editorialWithImage",
+        "title": "I can't concentrate.",
+        "content": "It’s common to **lose** **focus.** We tend to get distracted because the brain is hardwired to process our experiences and make associations.\n\nRemember that wandering thoughts aren't the same as an inability to focus on the present. \n\nEvery time you **notice** that your mind has wondered, you have actually focused on what's going on in the moment!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "52869405-fc7e-4e82-a1ea-86d82a48a227"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "52869405-fc7e-4e82-a1ea-86d82a48a227",
+        "content": "Focusing on the here and now **isn't** the same thing as **relaxing**. It's about becoming **aware** of what you're experiencing.\n\nSometimes you may become more relaxed. Sometimes you may notice that you're tense and stressed. The goal is only to **notice** what's happening — not to change or get rid of what feels difficult.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Challenges 2",
+        "title": "It feels uncomfortable and I can’t relax."
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Focused attention is like a muscle that will get **stronger** through **practice**.\n\nPracticing being present when we aren’t stressed helps us be present in other, more **difficult situations**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's try it",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "It's time to train your mindfulness muscles by focusing your attention on the **here and now.**\n\nYour thoughts will likely wander off during this exercise. That's completely normal. When this happens, simply bring your attention back to the present moment.\n\nPress play to start.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/resilience/me-here-now-sturdy-as-an-oak.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section7"
+          }
+        ],
+        "duration": "08:10"
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "video",
+        "title": "Me, here, now",
+        "description": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "resilience-and-stress-being-here-now-3"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/me-here-now_poster.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/stressandresilience_lesson03.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "resilience-and-stress-being-here-now-2",
+    "alias": "resilience-and-stress-being-here-now-2",
+    "root": "47cc0ba2-e955-4175-b19d-c91cb56675a3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "47cc0ba2-e955-4175-b19d-c91cb56675a3",
+        "alias": "Utmaningar",
+        "content": "När vi tränar medveten närvaro är det vanligt att uppleva utmaningar med:\n\n1. Koncentrationen\n2. Att det känns obehagligt",
+        "title": "Vanliga utmaningar",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Läs mer",
+            "sectionId": "section5"
+          },
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Gå till övningen",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "alias": "Challenges 1",
+        "type": "editorialWithImage",
+        "title": "Jag kan inte koncentrera mig.",
+        "content": "Det är vanligt att vi **tappar** **fokus** och börjar tänka på annat. Vår hjärna är byggd för att processa intryck och skapa associationer. \n\nMen — att dina tankar vandrar iväg är inte samma sak som att du inte klarar av att fokusera på nuet. \n\nVarje gång du **lägger** **märke** till att dina tankar vandrat så har du faktiskt fokuserat på det som pågår i stunden!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "22290eb4-2b83-4887-8692-2c27b7df69aa"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "22290eb4-2b83-4887-8692-2c27b7df69aa",
+        "content": "Att fokusera på här och nu är **inte** samma sak som **avslappning**. Det handlar om att bli **medveten** om vad du upplever. \n\nIbland kanske du blir mer avslappnad. Ibland kanske du märker att du är spänd och stressad. Målet är att **lägga märke** till det som händer här och nu, inte att förändra eller bli av med sånt som känns jobbigt på insidan.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Challenges 2",
+        "title": "Det känns obehagligt och jag kan inte slappna av."
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "Fokuserad uppmärksamhet är en muskel som blir **starkare** genom **övning**.\n\nAtt öva på att vara här och nu när vi inte är stressade, hjälper oss vara närvarande även i **svårare** **situationer**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Testa på",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "audio",
+        "title": "Meditation",
+        "description": "Det är dags att träna dina medveten-närvaro-muskler genom att fokusera din uppmärksamhet på det som händer **här och nu.**\n\nDina tankar kommer förmodligen vandra iväg under den här övningen. Det är helt normalt. När det händer, för bara varsamt tillbaka ditt fokus till här och nu.\n\nTryck på play-knappen för att börja.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Tradet.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är färdig",
+            "conversationId": "resilience-and-stress-being-here-now-3"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-being-here-now-2",
+    "alias": "resilience-and-stress-being-here-now-2",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "alias": "section5",
+        "type": "editorialWithImage",
+        "title": "Os desafios comuns do mindfulness",
+        "content": "**Não me consigo concentrar:** \n\nAo praticar *mindfulness*, é comum perdermos o foco e deixarmos os nossos pensamentos vaguearem. O nosso cérebro está programado para fazer associações e processar coisas. A boa notícia é que sempre que percebes que os teus pensamentos estão noutro lugar, significa que estás atento.\n\n**É uma sensação desconfortável e não consigo relaxar:**\n\nO *mindfulness* não é o mesmo que relaxamento. É estar consciente do que estás a experienciar. Às vezes, estar atento fará com que te sintas mais relaxado; outras vezes, vais perceber como estás tenso e stressado. Ao fim e ao cabo, é o ato de estar presente que importa.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "type": "editorialWithImage",
+        "title": "Eu, aqui, agora",
+        "content": "A atenção direcionada é um músculo que fica mais forte com a prática.\n\nO próximo exercício vai ajudar-te a treinar os músculos do *mindfulness* ao focar a tua atenção no aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "alias": "section7",
+        "type": "video",
+        "title": "Eu, aqui, agora",
+        "description": "“Aceitar o momento presente é regressar à minha base, porque é lá que eu estou e é lá que tudo está.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543795/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L3P2Thumbnailestarpresenteaquieagora_pprhq7.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621807031/29k%20FJN/Courses/Stress%20and%20Resilience/Videos/L3_Stress_and_resilience_V1_9-16_mbtypg.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "alias": "section8",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Este exercício de meditação demora cerca de 6 minutos.\n\nÉ provável que os teus pensamentos se dispersem durante o exercício. Quando isso acontecer, traz simplesmente a tua atenção de volta ao momento presente.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621448724/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_19_-_Me_here_now_s1vzgy.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-being-here-now-3"
+          }
+        ],
+        "duration": "06:10"
+      }
+    ]
+  }
+}

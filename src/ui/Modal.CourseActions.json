@@ -1,0 +1,68 @@
+{
+  "en": {
+    "RESUME": {
+      "title": "Resume course",
+      "description": "",
+      "cta": "Resume"
+    },
+    "PAUSE": {
+      "title": "Pause course",
+      "description": "We will stop sending you notifications and reminding you about this course. You can resume the course again at any time.",
+      "cta": "Pause"
+    },
+    "LEAVE": {
+      "title": "Leave course",
+      "description": "All your progress will be lost and you'll be able to start all over again. This can not be undone.",
+      "cta": "Leave course"
+    },
+    "RESTART": {
+      "title": "Restart course",
+      "description": "All your progress will be lost and you'll be able to start all over again. This can not be undone.",
+      "cta": "Restart course"
+    }
+  },
+  "sv": {
+    "RESUME": {
+      "title": "Återuppta kursen",
+      "description": "",
+      "cta": "Återuppta"
+    },
+    "PAUSE": {
+      "title": "Pausa kursen",
+      "description": "Vi kommer sluta skicka meddelanden och påminna dig om den här kursen. Du kan återuppta kursen igen när du vill.",
+      "cta": "Pausa"
+    },
+    "LEAVE": {
+      "title": "Lämna kursen",
+      "description": "All historik kommer försvinna så du kan starta om från början. Är du säker?",
+      "cta": "Lämna kurs"
+    },
+    "RESTART": {
+      "title": "Starta om kursen",
+      "description": "All historik kommer försvinna så du kan starta om från början. Är du säker?",
+      "cta": "Starta om kurs"
+    }
+  },
+  "pt": {
+    "RESUME": {
+      "title": "Continuar o curso",
+      "description": "",
+      "cta": "Continuar"
+    },
+    "PAUSE": {
+      "title": "Pausar o curso",
+      "description": "Vamos deixar de enviar notificações e lembretes acerca deste curso. Podes recomeçar o curso quando quiseres.",
+      "cta": "Pausar"
+    },
+    "LEAVE": {
+      "title": "Desistir do curso",
+      "description": "Todo o teu progresso será perdido e poderás recomeçar o curso. Não poderás reverter esta ação.",
+      "cta": "Desistir"
+    },
+    "RESTART": {
+      "title": "Reiniciar o curso",
+      "description": "Todo o teu progresso será perdido e poderás recomeçar o curso. Não poderás reverter esta ação.",
+      "cta": "Reiniciar"
+    }
+  }
+}

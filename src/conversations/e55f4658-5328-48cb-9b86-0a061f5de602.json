@@ -1,0 +1,236 @@
+{
+  "en": {
+    "id": "e55f4658-5328-48cb-9b86-0a061f5de602",
+    "alias": "Nourishing relationships 3: Being there for others-3",
+    "root": "section6",
+    "sections": [
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "question": "",
+        "longDescription": "1. Think about a **situation** in your life when someone was **vulnerable** with you. \n2. How did you **respond**? Read through the following **statements** and **reflect** on your **response** in that situation.\n3. Write down your **reflections** and **ideas** on what you could've done **differently**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's go",
+            "sectionId": "b4b820cf-d2a6-4cb2-8064-af46a3dd1e74"
+          }
+        ],
+        "alias": "6"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b4b820cf-d2a6-4cb2-8064-af46a3dd1e74",
+        "content": "**Creating a safe space**\n\n* I was engaged and not distracted.\n* I listened fully without interrupting.\n* I let the other person lead the conversation and did not try to dominate.\n* I offered physical comfort (for example, a hug or a tap on one’s shoulder, if appropriate).",
+        "alias": "Creating a safe space",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "bc923654-4915-49f9-b3af-c815c2bd1ae4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "bc923654-4915-49f9-b3af-c815c2bd1ae4",
+        "content": "**Validating feelings**\n\n* I shared that I understood the person’s feelings.\n* I acknowledged the person’s needs.\n* I expressed my acceptance of the other person.\n* I joined them in displaying vulnerability by sharing a story from my own life.",
+        "alias": "Validating feelings",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "More",
+            "sectionId": "7dbf34b0-dac2-437a-b98c-e070a68f684f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7dbf34b0-dac2-437a-b98c-e070a68f684f",
+        "content": "**Offering support**\n\n* When being asked a question, I responded authentically.\n* I’ve expressed that I care about the person.\n* I’ve asked questions to show I want to know more about their situation.\n* If I was asked for something, I was able to help the person while taking my own needs into account.\n* If the person said no to something, I respected their choice.\n* If I did or said something that has hurt the person, I apologized for it without getting defensive or justifying myself.",
+        "alias": "Offering support",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "video",
+        "title": "My story",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section7"
+          }
+        ],
+        "alias": "5",
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson3.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/973c6250-9136-4f24-a212-10532e42e2b3/lesson3.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Exploring obstacles",
+        "content": "Even when we care about someone, we might find ourselves not responding well to their vulnerability.\n\nThis is often due to the fact that we:\n\n* Don’t **notice** when the other person is **vulnerable**.\n* **Forget** the importance of **compassion**.\n* Don’t feel **safe** ourselves.\n* **Worry** that we might say the **wrong** thing.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "fa807001-4bee-431f-a68c-27f5d23161b2",
+            "content": "Next"
+          }
+        ],
+        "alias": "7"
+      }
+    ]
+  },
+  "sv": {
+    "id": "e55f4658-5328-48cb-9b86-0a061f5de602",
+    "alias": "Nourishing relationships 3: Being there for others-3",
+    "root": "e8df3726-62e9-4010-a99a-8e1c681e2cbf",
+    "sections": [
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "e8df3726-62e9-4010-a99a-8e1c681e2cbf",
+        "alias": "Writing exercise",
+        "title": "Övning",
+        "longDescription": "1. Tänk på en **situation** när någon visade sig **sårbar**. \n2. Hur **bemötte** du den andra personen? Läs igenom **påståendena** här nedan och **fundera** på vad du gjorde i situationen. \n3. Skriv ner dina **tankar** och **idéer** om vad du kunde ha gjort **annorlunda**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "b3999415-9aaa-43a0-8a61-51e272bf2877"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b3999415-9aaa-43a0-8a61-51e272bf2877",
+        "alias": "Creating a safe space",
+        "content": " **Skapa en trygg plats** \n\n* Jag var närvarande och inte distraherad.\n* Jag lyssnade utan att avbryta.\n* Jag lät den andra personen leda samtalet, och försökte inte påpeka min egen åsikt.\n* Jag erbjöd kroppskontakt, till exempel en kram eller en klapp på ryggen när det var lämpligt.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "c6ca9efc-07cd-451b-8efd-e1bde507f0fd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "c6ca9efc-07cd-451b-8efd-e1bde507f0fd",
+        "alias": "Validating feelings",
+        "content": "**Validera, bekräfta känslor** \n\n* Jag bekräftade att jag förstod den andras känslor.\n* Jag försökte förstå den andra personens behov.\n* Jag uttryckte acceptans för den andras upplevelse och beteende.\n* Jag visade också sårbarhet genom att dela en svår situation från mitt eget liv.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Mer",
+            "sectionId": "0b744f8a-52d0-441f-a245-3c111f65f036"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0b744f8a-52d0-441f-a245-3c111f65f036",
+        "alias": "Offering support",
+        "content": "**Erbjuda stöd** \n\n* När jag fick en fråga svarade jag öppenhjärtigt.\n* Jag visade att jag bryr mig om personen.\n* Jag ställde frågor för att visa att jag ville förstå.\n* Jag kunde hjälpa till, samtidigt som jag tog hänsyn till mina egna behov.\n* Om den andra sa nej till något respekterade jag det.\n* Om jag gjorde eller sa något som sårade den andra, bad jag om ursäkt för det utan att bli defensiv eller förklarande.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Utforska hinder",
+        "content": "Även när vi bryr oss om någon kan det vara svårt att bemöta någon när de visar sårbarhet. Här är några vanliga skäl:\n\n1. Vi **märker** inte när den andra är sårbar.\n2. Vi **missar** hur viktigt det är med medkänsla.\n3. **Vi själva** känner oss inte trygga.\n4. Vi oroar oss för att **säga** **fel** **saker**.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "fa807001-4bee-431f-a68c-27f5d23161b2",
+            "content": "Nästa"
+          }
+        ],
+        "alias": "7"
+      }
+    ]
+  },
+  "pt": {
+    "id": "e55f4658-5328-48cb-9b86-0a061f5de602",
+    "alias": "Nourishing relationships 3: Being there for others-3",
+    "root": "section5",
+    "sections": [
+      {
+        "id": "section5",
+        "type": "video",
+        "title": "A minha história",
+        "description": "“É importante que sejamos completamente transparentes e sinceros, que nos ouçamos.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621406588/29k%20FJN/Courses/Nourishing%20Relationships/Photos/4nourishingrelationships_beingthere_jw8nbr.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621936300/29k%20FJN/Courses/Nourishing%20Relationships/Videos%20Final/L3_Nourishing_relationships_in_times_of_turmoil_V1_hmsvoy.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "Tira 5-10 min",
+        "question": "Pensa numa situação da tua vida em que alguém foi vulnerável contigo. Como é que reagiste?",
+        "longDescription": "Lê as frases abaixo e reflete sobre a tua reação. Escreve as tuas reflexões e ideias sobre o que poderias ter feito de forma diferente.\n\n**Criar um espaço seguro**\n\n* Eu estava envolvida/o e não estava distraída/o\n* Ouvi tudo sem interromper\n* Deixei a outra pessoa conduzir a conversa, sem tentar dominar\n* Ofereci conforto físico (por exemplo, um abraço ou um toque no ombro, se apropriado)\n\n**Validar os sentimentos**\n\n* Partilhei com a pessoa que compreendi os seus sentimentos\n* Os meus sentimentos e os da outra pessoa estavam em sintonia\n* Reconheci as necessidades da outra pessoa\n* Expressei a minha aceitação pela outra pessoa\n* Também partilhei a minha vulnerabilidade, contando uma história da minha própria vida.\n\n**Oferecer apoio**\n\n* Quando me fez uma pergunta, respondi genuinamente\n* Expressei que me preocupo com a pessoa\n* Fiz perguntas para mostrar que queria saber mais sobre a sua situação \n* Se me tivesse pedido alguma coisa, eu poderia ter ajudado essa pessoa, tendo em conta as minhas próprias necessidades\n* Se a pessoa disse não a alguma coisa, eu respeitei a sua escolha\n* Se fiz ou disse algo que magoou a pessoa, pedi desculpa por isso, sem ser defensiva/o ou sem me explicar demasiado",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Explorar obstáculos",
+        "content": "Mesmo quando nos preocupamos com alguém, podemos não reagir bem à sua vulnerabilidade.\n\nIsto é muitas vezes devido a:\n\n1. Não nos apercebermos quando a outra pessoa está vulnerável\n2. Desvalorizarmos o papel da compaixão\n3. Não nos sentirmos seguros\n4. Recearmos dizer a coisa errada\n\nNa meditação seguinte, serás acompanhada/o para te abrires um pouco mais.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "fa807001-4bee-431f-a68c-27f5d23161b2",
+            "content": "Continuar"
+          }
+        ]
+      }
+    ]
+  }
+}

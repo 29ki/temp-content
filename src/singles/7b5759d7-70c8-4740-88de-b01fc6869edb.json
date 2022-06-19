@@ -1,0 +1,103 @@
+{
+  "en": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "Breathing",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620635336/Illustrations_Meditations/Thumbnail_Breathing_anchor_1_j1kyar.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 6
+    },
+    "version": 1,
+    "tags": [
+      "Stress"
+    ],
+    "type": "meditation",
+    "id": "7b5759d7-70c8-4740-88de-b01fc6869edb",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": 3
+    },
+    "wip": false,
+    "stations": [
+      {
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "02d2d79d-525c-4cf6-bb78-f5de00495bf1",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620373988/Illustrations_Meditations/Header_Breathing_anchor_r6k0z3.png",
+            "title": "Breathing",
+            "description": "In this mindful meditation we will focus on the sensations of the breath, one breath at a time.\n\nPress play to start.\n\n*Created by Diana Winston for the [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/), ©2011- 2022 The UC Regents.*",
+            "buttonText": "Next",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1654678679/Meditations/01_Breathing_Meditation_adv8vy.mp3"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "a7150bf9-651e-4e85-8891-b9753a3f8dce",
+            "buttonText": "I'm done",
+            "question": "What did you notice during this meditation?",
+            "exampleText": "I noticed that my breath was shallow and that my body felt tense. This meditation helped me alleviate that tension."
+          }
+        ],
+        "id": "baaa3ba8-419f-4ad1-93dd-c32cdcbb11ab",
+        "name": "Breathing"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "duration": {
+      "type": "minute",
+      "count": 6
+    },
+    "type": "meditation",
+    "id": "7b5759d7-70c8-4740-88de-b01fc6869edb",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  },
+  "pt": {
+    "segments": [
+      "ALL"
+    ],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "duration": {
+      "type": "minute",
+      "count": 6
+    },
+    "type": "meditation",
+    "id": "7b5759d7-70c8-4740-88de-b01fc6869edb",
+    "difficulty": [
+      "Beginner"
+    ],
+    "description": "",
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  }
+}

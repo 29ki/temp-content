@@ -1,0 +1,287 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Acting wisely",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acting_wisely_xvnqd7.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "exercise",
+    "id": "4d7065a6-cbe6-48ef-a148-f75a3af79490",
+    "description": "",
+    "stations": [
+      {
+        "id": "4d7065a6-cbe6-48ef-a148-f75a3af79490",
+        "root": "section1",
+        "alias": "Exercise Acting wisely",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Acting wisely",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acting_wisely_xvnqd7.png",
+            "title": "Acting wisely",
+            "content": "*5 - 10 minutes*\n\nFeeling shame, insecurity and low self-esteem is very common.\n\nYou are not alone, whether by self judgement or feeling shame towards some external event, either way, it is ok.\n\nAllowing ourselves to experience what we’re feeling is a way to get a deeper understanding of ourselves.\n\nIn this exercise you'll learn to allow what's inside and act wisely.\n\n*Co-created by 6 psychologists and researchers.*",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "2",
+            "title": "",
+            "time": "",
+            "question": "Write down your answers",
+            "longDescription": "What triggered the emotion you are feeling, what was the situation?\n\n> I was at work and...",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "3",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "What impulse are you experiencing because of this feeling? (e.g. escape, defend myself)\n\n> I have an impulse of...\n  ",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "4",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Take a deep breath.\n\nWrite down what would be the wise and constructive thing to do.\n\nSlow down, look inwards and see what turns up.\n\n> To speak up\n\n> To accept my feelings and stay quiet\n  ",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "5",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Is there a difference between the impulse of what you want to do and what you believe is the wise and constructive way to act?\n\nWrite down how you want to act in this situation.\n\n> I would like to...",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/4d7065a6-cbe6-48ef-a148-f75a3af79490/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Well done!",
+            "content": "Learning to see the difference between what our impulses tell us to do and reflecting on the wise thing to do, gives us both a better understanding and more freedom to act in the ways we want to.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "6cfebd2d-f3d4-4f5b-9b64-7f7976f88053",
+            "alias": "sharing wall acting wisely",
+            "question": "How do you feel about the difference between acting wisely and acting impulsively?",
+            "exampleText": "Difficult. My impulse is easier to follow. "
+          }
+        ],
+        "name": "Acting wisely",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Skam",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acting_wisely_xvnqd7.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "exercise",
+    "id": "4d7065a6-cbe6-48ef-a148-f75a3af79490",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "4d7065a6-cbe6-48ef-a148-f75a3af79490",
+        "root": "section1",
+        "alias": "Exercise Acting wisely",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Skam",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acting_wisely_xvnqd7.png",
+            "title": "Skam",
+            "content": "* 5-10 minuter *\n\nAtt känna skam, osäkerhet och låg självkänsla är mycket vanligt.\n\nDu är inte ensam, vare sig genom självbedömning eller skam mot någon yttre händelse, hur som helst, det är ok.\n\nAtt låta oss själva uppleva vad vi känner är ett sätt att få en djupare förståelse för oss själva.\n\nLåt oss gå igenom några frågor och utforska hur skamkänslan manifesterar sig i dig just nu.\n\n* Skapades av 6 psykologer och forskare. *",
+            "buttonText": "Nu kör vi"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "",
+            "title": "",
+            "time": "",
+            "question": "Skriv ner dina svar",
+            "longDescription": "Vad utlöste känslorna du känner, vad var situationen?\n\n> Jag var på jobbet och ...",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Vilken impuls upplever du på grund av denna känsla? (t.ex. fly, försvara mig)\n\n> Jag har en impuls av ...\n  ",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Ta ett djupt andetag.\n\nSkriv ner vad som är klokt och konstruktivt att göra.\n\nSakta ner, titta inåt och se vad som dyker upp.\n\n> Att tala upp\n\n> Att acceptera mina känslor och vara tyst\n  ",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Finns det en skillnad mellan impulsen på vad du vill göra och vad du tror är det kloka och konstruktiva sättet att agera?\n\nSkriv ner hur du vill agera i denna situation.\n\n> Jag skulle vilja ...",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/4d7065a6-cbe6-48ef-a148-f75a3af79490/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Bra gjort!",
+            "content": "Att lära oss att se skillnaden mellan vad våra impulser säger att vi ska göra och att reflektera över det kloka att göra, ger oss både ett bättre engagemang och mer frihet att agera på det sätt vi vill",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Skam",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Age com sabedoria ",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acting_wisely_xvnqd7.png"
+    },
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "4c2079c6-9ce6-4183-96ba-7116d2a38607"
+    ],
+    "type": "exercise",
+    "id": "4d7065a6-cbe6-48ef-a148-f75a3af79490",
+    "description": "",
+    "stations": [
+      {
+        "id": "4d7065a6-cbe6-48ef-a148-f75a3af79490",
+        "root": "section1",
+        "alias": "Exercise Acting wisely",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Age com sabedoria ",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620653687/Illustrations_Exercises/Heading_Shame_exercise_adbqca.png",
+            "title": "Age com sabedoria",
+            "content": "*5 - 10 minutos*\n\nSentir vergonha, insegurança e baixa autoestima é muito comum.\n\nNão estás sozinha/o, quer seja por autocrítica ou por sentires vergonha de alguma situação, seja como for, está tudo bem.\n\nPermitirmo-nos experienciar o que estamos a sentir é uma forma de nos compreendermos melhor.\n\nVamos abordar algumas questões e explorar como o sentimento de vergonha está a manifestar-se dentro de ti neste preciso momento.\n\n*Cocriado por 6 psicólogos e investigadores.*",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "writing",
+            "alias": "2",
+            "title": "",
+            "time": "",
+            "question": "Escreve as tuas respostas",
+            "longDescription": "O que desencadeou a emoção que estás a sentir? Qual foi a situação?\n\n> Eu estava no trabalho e...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "writing",
+            "alias": "3",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Que impulso estás a experienciar por causa deste sentimento? (Exemplo, evitar, defender-me, entre outros) \n\n> Eu tenho um impulso de...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "4",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Respira fundo. \n\nEscreve o que seria sensato e construtivo fazer. \n\nAbranda, olha para dentro de ti e vê o que surge. \n\n> Falar, não ficar calado…\n>\n> Aceitar os meus sentimentos e ficar quieto…",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "5",
+            "title": "",
+            "time": "",
+            "question": "",
+            "longDescription": "Existe alguma diferença entre o impulso do que queres fazer e o que acreditas ser a forma mais sensata e construtiva de agir? \n\nEscreve como queres agir nesta situação. \n\n> Eu gostaria de...",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/4d7065a6-cbe6-48ef-a148-f75a3af79490/photo-1516472151647-6900f65d8975.jpg",
+            "title": "Parabéns!",
+            "content": "Aprender a ver a diferença entre o que os nossos impulsos nos dizem para fazer e refletir sobre a coisa mais sensata a fazer, dá-nos uma melhor compreensão e maior liberdade para agir da forma que quisermos.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "a319cdc3-f705-4637-9e5a-ed94eedad576",
+            "question": "O que pensas acerca da diferença entre atuar com sabedoria ou atuar impulsivamente? ",
+            "exampleText": "Tenho dificuldade em atuar com sabedoria. É muito fácil seguir os meus impulsos mais imediatos."
+          }
+        ],
+        "name": "Age com sabedoria",
+        "type": "station"
+      }
+    ]
+  }
+}

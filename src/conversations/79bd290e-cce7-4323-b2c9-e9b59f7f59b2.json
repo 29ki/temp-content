@@ -1,0 +1,317 @@
+{
+  "en": {
+    "id": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2",
+    "alias": "Leadership-scenarioplanning-4",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e2eaea6b-476c-459f-a7b7-61e1159bef36",
+        "alias": "Intro to exercise",
+        "content": "## This exercise will help you apply strategic planning in order to pursue your purpose.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Okay",
+            "sectionId": "0870fcc4-3e4d-44ce-9f34-1450dfcc79f6"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "0870fcc4-3e4d-44ce-9f34-1450dfcc79f6",
+        "alias": "Exercise ",
+        "title": "",
+        "question": "Imagine you could ask a real psychic 3 questions about the situation you’re in.",
+        "longDescription": "What **3 questions** would you like to ask them?\n\n1. ...\n2. ...\n3. ...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "161c098b-95a7-4247-b2f9-541d2c217215"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "161c098b-95a7-4247-b2f9-541d2c217215",
+        "alias": "Exercise 2",
+        "longDescription": "What **answers** can you see to the 3 questions you’ve asked?\n\n1. ...\n2. ...\n3. ...\n\nIf you could give it a name, what would this future scenario be called?",
+        "shortDescription": "The psychic gives you a vision and you can see a great future ahead.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "488e5a5c-c0ce-4dcf-a29a-d7e7007e334b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "488e5a5c-c0ce-4dcf-a29a-d7e7007e334b",
+        "title": "",
+        "alias": "Frank's Example",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "edea031f-5112-478b-90d4-99772b4a4ea0"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1623408188/Leadership/Question_6_hys95t.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575206/Leadership/Subtitles/lesson6_video1_eng_b4jjck.vtt"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "edea031f-5112-478b-90d4-99772b4a4ea0",
+        "alias": "Exercise 3",
+        "longDescription": "What answers can you see to the same 3 questions in **this case**?\n\n1. ...\n2. ...\n3. ...\n\nIf you could give it a name, what would this future scenario be called?",
+        "shortDescription": "Now imagine you hear another vision, only this time you can see a grim future ahead.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "conversationId": "",
+            "sectionId": "0b7d4193-d89f-4c82-a697-cd8c3cc8c1d1",
+            "content": "One last question"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "0b7d4193-d89f-4c82-a697-cd8c3cc8c1d1",
+        "alias": "Exercise 4",
+        "longDescription": "Equipped with these insights about the possible futures and your own wisdom, what do you see **the best way forward** in this situation?",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "44c08406-a10c-4ecd-a016-d9681961fa3f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "44c08406-a10c-4ecd-a016-d9681961fa3f",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Well done developing your **scenario planning skills!**\n\nThis week you've developed your ability to adapt to situations and pursue what makes sense and matters to you and your organization by:\n\n1. **Seeing multiple ways of pursuing goals** that make sense and matter to you and your organization\n2. **Tuning-in to what's most important to address in this situation,** give them names that capture them, and **use this awareness to engage with different possible ways it might pan out**\n3. **Using this enhanced awareness to help see and decide on the best way forward**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Thanks",
+            "sectionId": "a57427de-a4cc-495c-bd67-53f0f00119b4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a57427de-a4cc-495c-bd67-53f0f00119b4",
+        "alias": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "title": "Further reading",
+        "content": "1. Chen, P., Powers, J. T., Katragadda, K. R., Cohen, G. L., & Dweck, C. S. (2020). A strategic mindset: An orientation toward strategic behavior during goal pursuit. Proceedings of the National Academy of Sciences, 117(25), 14066-14072. doi:10.1073/pnas.2002529117\n2. Heijden, K. V. (2005). Chapter 9: The Practice of Scenario-based Planning. In Scenarios The Art of Strategic Conversation. Chichester, West Sussex, UK, ENG: John Wiley & Sons.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "b9019959-d3d3-4509-9dfc-ea8d9f7dbaa9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b9019959-d3d3-4509-9dfc-ea8d9f7dbaa9",
+        "alias": "Sharing Exercise",
+        "title": "Sharing Exercise",
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?**\n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "What happens next?",
+            "conversationId": "pl-6-listen-and-notice",
+            "sectionId": ""
+          }
+        ]
+      }
+    ],
+    "root": "e2eaea6b-476c-459f-a7b7-61e1159bef36"
+  },
+  "sv": {
+    "id": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2",
+    "alias": "Leadership-scenarioplanning-4"
+  },
+  "pt": {
+    "id": "79bd290e-cce7-4323-b2c9-e9b59f7f59b2",
+    "alias": "Leadership-scenarioplanning-4",
+    "root": "e2eaea6b-476c-459f-a7b7-61e1159bef36",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e2eaea6b-476c-459f-a7b7-61e1159bef36",
+        "alias": "Intro to exercise",
+        "content": "## Este exercício vai ajudar-te a aplicar o planeamento estratégico para alcançares o teu propósito.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos lá",
+            "sectionId": "0870fcc4-3e4d-44ce-9f34-1450dfcc79f6"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "0870fcc4-3e4d-44ce-9f34-1450dfcc79f6",
+        "alias": "Exercise ",
+        "title": "",
+        "question": "Imagina que podias fazer 3 perguntas a um médium, alguém que prevê o futuro, sobre a situação em que te encontras.",
+        "longDescription": "Quais são as **3 perguntas** que gostarias de lhe fazer?\n\n1. ...\n2. ...\n3. ...",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "161c098b-95a7-4247-b2f9-541d2c217215"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "161c098b-95a7-4247-b2f9-541d2c217215",
+        "alias": "Exercise 2",
+        "longDescription": "Que **respostas** consegues ver para as 3 perguntas que fizeste?\n\n1. ...\n2. ...\n3. ...\n\nSe pudesses dar-lhe um nome, como chamarias a esse cenário futuro?",
+        "shortDescription": "O médium dá-te uma visão e tu consegues ver um futuro brilhante pela frente.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "488e5a5c-c0ce-4dcf-a29a-d7e7007e334b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "488e5a5c-c0ce-4dcf-a29a-d7e7007e334b",
+        "title": "",
+        "alias": "AHO Example",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "edea031f-5112-478b-90d4-99772b4a4ea0"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179047/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_6._Amplia_estrat%C3%A9gia_com_planeamento_de_cen%C3%A1rios_-_video_1_butrp5.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179141/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L6V1_qwqv2n.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "edea031f-5112-478b-90d4-99772b4a4ea0",
+        "alias": "Exercise 3",
+        "longDescription": "Que respostas consegues ver para as mesmas 3 perguntas **neste caso**?\n\n1. ...\n2. ...\n3. ...\n\nSe pudesses dar-lhe um nome, como chamarias a esse cenário futuro?",
+        "shortDescription": "Agora imagina que ouves outra visão, só que desta vez vês um futuro sombrio à tua frente.",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "conversationId": "",
+            "sectionId": "0b7d4193-d89f-4c82-a697-cd8c3cc8c1d1",
+            "content": "Uma última questão"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "0b7d4193-d89f-4c82-a697-cd8c3cc8c1d1",
+        "alias": "Exercise 4",
+        "longDescription": "Munido destes *insights* sobre os possíveis futuros e do teu conhecimento próprio, o que vês como **o melhor caminho a seguir** nesta situação?",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "44099b98-f981-4613-a223-6ec5bd1f6f3b"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "44099b98-f981-4613-a223-6ec5bd1f6f3b",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos concluir",
+            "sectionId": "44c08406-a10c-4ecd-a016-d9681961fa3f"
+          }
+        ],
+        "alias": "AHO Video",
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652374297/29k%20FJN/Courses/Purposeful%20Leadership/Photos/li%C3%A7%C3%A3o_6_-_video_2_x1dscm.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179143/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L6V2_dxpvf0.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "44c08406-a10c-4ecd-a016-d9681961fa3f",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Parabéns por desenvolveres as tuas competências de planeamento de cenários!\n\nEsta semana, desenvolveste a tua capacidade de te adaptares às situações e perseguir o que faz sentido e é importante para ti e/ou para a tua organização ao:\n\n1. **Ver diferentes maneiras de alcançar objetivos** que fazem sentido e são importantes para ti e para a tua organização\n2. **Sintonizares-te com o que é mais importante nesta situação**, dar-lhes nomes que captem a sua essência e usar essa consciência para te envolveres em diferentes formas de atuação que a façam dar certo \n3. **Usando essa consciência apurada para te ajudar a ver e decidir sobre qual o melhor caminho a seguir**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminar",
+            "sectionId": "a57427de-a4cc-495c-bd67-53f0f00119b4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a57427de-a4cc-495c-bd67-53f0f00119b4",
+        "alias": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "title": "Leitura adicional",
+        "content": "1. Chen, P., Powers, J. T., Katragadda, K. R., Cohen, G. L., & Dweck, C. S. (2020). A strategic mindset: An orientation toward strategic behavior during goal pursuit. Proceedings of the National Academy of Sciences, 117(25), 14066-14072. doi:10.1073/pnas.2002529117\n2. Heijden, K. V. (2005). Chapter 9: The Practice of Scenario-based Planning. In Scenarios The Art of Strategic Conversation. Chichester, West Sussex, UK, ENG: John Wiley & Sons.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi!",
+            "sectionId": "b9019959-d3d3-4509-9dfc-ea8d9f7dbaa9"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b9019959-d3d3-4509-9dfc-ea8d9f7dbaa9",
+        "alias": "Sharing Exercise",
+        "title": "Exercício de partilha",
+        "content": "1. **Que ideias-chave te ajudaram a entender a tua situação, procurar um propósito ou ter sucesso esta semana?**\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, da prática das competências que aprendeste e percebendo quais ressoam em ti de forma diferente.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "O que acontece a seguir?",
+            "conversationId": "pl-6-listen-and-notice",
+            "sectionId": ""
+          }
+        ]
+      }
+    ]
+  }
+}

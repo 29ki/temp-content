@@ -2,169 +2,252 @@
   "en": {
     "id": "resilience-and-stress-a-new-life",
     "alias": "resilience-and-stress-a-new-life",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "A new life",
-        "content": "This may be the final lesson in this course, but it is the first step on the ongoing journey that is the rest of your life. \n\nIn this lesson you will turn what matters most to you into concrete action, that will make a change in the long term.",
+        "title": "",
+        "content": "Throughout this course you've become **equipped** with life-long **tools** for dealing with stress. \n\nBut the journey has only just **begun**! \n\nSince stress is a **natural** **reaction** to a perceived threat, the goal is not to be **completely** **free** from stress.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
+            "content": "More",
+            "sectionId": "63ad3519-0d84-48ea-a180-07fe571a2655"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628079091/Stress/paul-skorupskas-7KLa-xLbSXA-unsplash_dmvgr1.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "63ad3519-0d84-48ea-a180-07fe571a2655",
+        "content": "By practicing your new tools time and again, you're continuing to take steps towards the life you want to live.\n\nThis final lesson invites you to **reflect** on your **journey** thus far and **set** your **intentions** for how you want to continue going forward.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "alias": "Intro 2"
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Today’s lesson has three parts:\n\n* Meditation – A safe place\n* Me a year from now\n* Sharing\n\n### You’ll need:\n\n* 25 min undisturbed time\n* Pen and paper",
+        "content": "### Learn more about:\n\n* Reflecting on the process\n* Me a year from now\n* My plan\n\n### You’ll need:\n\n* 25 minutes of undisturbed time\n* Pen and paper",
         "buttons": [
           {
             "component": "Button",
-            "content": "Continue",
-            "sectionId": "section3"
+            "content": "Let's go",
+            "sectionId": "111b2e9e-12b6-46f8-964f-56374c87c97a"
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "111b2e9e-12b6-46f8-964f-56374c87c97a",
+        "content": "Therefore, it’s important to **stop** once in a while to **notice** how we're continually **changing**.\n\nThis can help us avoid incorrectly concluding that our work doesn't amount to anything.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "f71a904c-956f-4836-86af-064641ae0902"
+          }
+        ],
+        "alias": "Intro",
+        "title": "Over time, our lives transform."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f71a904c-956f-4836-86af-064641ae0902",
+        "content": "Now it’s your turn to look back and reflect on what this process has meant to you:\n\n* What is stress\n* A meaningful life\n* Being here and now\n* Act for change\n* Facing life\n* Saying no — and yes\n* The inner friend",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "74ea9ef5-5bfb-4d88-831c-cd821ad80cdd"
+          }
+        ],
+        "alias": "Repetition"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "74ea9ef5-5bfb-4d88-831c-cd821ad80cdd",
+        "longDescription": "Write down your answers.\n\n1. What are the most **important** **lessons** you want to carry with you?\n2. What **tools** help you deal with stress?\n3. Are you acting or feeling any differently now compared to before you took this course?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "section3"
+          }
+        ],
+        "alias": "Exercise",
+        "title": "Exercise"
       },
       {
         "id": "section3",
         "alias": "section3",
         "type": "audio",
-        "title": "A safe place-meditation",
-        "description": "This meditation can help you contact a safe place within that you can access whenever you want. It will also  prepare you for the next step of the exercise.",
+        "title": "A safe place",
+        "description": "This meditation can help you connect to a **safe place within.** A place that you can access whenever you want or need.\n\nIt also prepares you for the next step of the exercise.\n\nPress play to start.",
         "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/my-safe-place.mp3",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section4"
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Move on",
+            "conversationId": "resilience-and-stress-a-new-life-2"
           }
-        ]
-      },
-      {
-        "id": "section4",
-        "alias": "section4",
-        "type": "editorialWithImage",
-        "title": "Life from now on",
-        "content": "Previously you were asked to reflect on what matters most in your life. Now it is time to see how those values can be implemented in your life in a way that will make a real change.\n\nWhen we want to make life changes, we can look at them as a chain. We can start to reflect on our own deepest values, and then let that decide our goals and concrete actions.\n\nNow, think of an area in life where there is a need for change. The time span here is a year ahead, or more if you think it’s necessary.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "writing",
-        "title": "Me a year from now",
-        "time": "10 min",
-        "longDescription": "1. Think about an area in your life that needs change. Is there a specific value that could guide your way? \n\n2. Now, name a related goal you would like to complete in one year’s time. Remember good goals are specific and can be ticked off a list. Also, think about how reaching that goal would impact your life. \n\n3. Identify the specific behaviors you need to do, starting today, that will help you achieve one of your goals or sub-goals. Maybe you need to look something up online or phone a friend.\n\nWrite your answers down on a piece of paper as an instruction to yourself.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "editorialWithImage",
-        "title": "Your plan",
-        "content": "So, now you’ve made a plan for yourself. For where you want to be in a year, and what you need to do to get there. That’s great. Articulating specific behaviors towards long-term goals and values is one step closer to achieve them.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "writing",
-        "title": "Me a year from now",
-        "time": "5-10 min",
-        "longDescription": "1. Reflect about the value you choose to act on in the exercise you just did. Why did you pick this value? What will your life be like in a year if you ignore this value?  \n2. Which concrete steps will you take today or tomorrow on your way towards the goal you’ve set? \n3. Can you see any obstacles on your way to this goal? If these obstacles show up, how can you deal with them?\n\nWrite your answers down on a piece of paper, this is what you’ll be offered to share with your group.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "editorialWithImage",
-        "title": "Summary",
-        "content": "Good job completing **A new life**. \n\nIn this lesson you have learned how to take small steps towards goals, in the direction of something you value. The skill of breaking down values into concrete everyday steps is crucial when we want to make lasting changes in our lives.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "editorialWithImage",
-        "title": "# Well ~~done!~~",
-        "content": "You are now ready to share with your group. Remember the questions you are offered to share: \n\n1. Why did you pick this particular value to act on? What will happen if you ignore this value.\n2. Which steps will you take now?\n3. What obstacles can you see? How can you deal with them?",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Close"
-          }
-        ]
+        ],
+        "duration": "03:10"
       }
     ]
   },
   "sv": {
     "id": "resilience-and-stress-a-new-life",
     "alias": "resilience-and-stress-a-new-life",
-    "type": "lesson",
     "root": "section1",
     "sections": [
       {
         "id": "section1",
         "alias": "section1",
         "type": "editorialWithImage",
-        "title": "Ett nytt liv",
-        "content": "Det här må vara sista lektionen i kursen, men det är det första steget på den pågående resan som är resten av ditt liv.\n\nI den här lektionen kommer du att få omvandla det som är viktigast för dig till konkreta handlingar som i sin tur kommer leda till långsiktiga förändringar.",
+        "title": "",
+        "content": "Under kursens gång har du blivit **utrustad** med **verktyg** för att hantera stress. Verktyg du kan bära med dig under resten av ditt liv.\n\nMen resan har bara **börjat**!\n\nEftersom stress är en **naturlig** **reaktion** på ett upplevt hot, är målet inte att bli **helt** **fri** från stress.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Mer",
+            "sectionId": "dd34f215-6482-492c-81c1-b8eabf6094a6"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628079091/Stress/paul-skorupskas-7KLa-xLbSXA-unsplash_dmvgr1.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "dd34f215-6482-492c-81c1-b8eabf6094a6",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är redo",
             "sectionId": "section2"
           }
-        ]
+        ],
+        "content": "Genom att öva på dina verktyg om och om igen, fortsätter du ta steg mot det liv du vill leva.\n\nI den här sista lektionen uppmanar vi dig att **reflektera** över din **resa** hittills. Du kommer också få sätta **mål** för hur du vill fortsätta arbeta med att hantera stress framöver."
       },
       {
         "id": "section2",
         "alias": "section2",
         "type": "editorialWithImage",
         "title": "",
-        "content": "### Dagens lektion har tre delar:\n\n* Meditation - Min trygga plats\n* Jag ett år från idag\n* Delning\n\n### Du kommer att behöva:\n\n* 25 min ostörd tid\n* Penna och papper",
+        "content": "### Lär dig mer om:\n\n* Reflektera över din resa\n* Jag ett år från idag\n* Min plan\n\n### Du behöver:\n\n* 25 minuter\n* Penna och papper",
         "buttons": [
           {
             "component": "Button",
+            "content": "Sätt igång",
+            "sectionId": "579194fa-e1c6-47e7-b764-8013784fdcd4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "579194fa-e1c6-47e7-b764-8013784fdcd4",
+        "content": "Därför är det viktigt att **stanna** **upp**. För att hinna lägga **märke** till hur vi konstant **förändras**. \n\nDet kan hjälpa oss att inte **felaktigt** dra **slutsatsen** att allt jobb vi lagt ned inte lett till någon förändring.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "49c7fbcf-100b-471d-acc8-a5a7fc389045"
+          }
+        ],
+        "title": "Över tid förändras våra liv"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "49c7fbcf-100b-471d-acc8-a5a7fc389045",
+        "content": "Nu är det dags att titta tillbaka och **reflektera** över vad denna **process** har betytt för dig:\n\n* Vad är stress\n* Ett meningsfullt liv\n* Att vara här och nu\n* Förändra det som inte fungerar\n* Att möta livet\n* Att säga nej — och ja\n* Din inre vän",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
             "content": "Fortsätt",
+            "sectionId": "f95a9b3a-762e-42a9-abcb-a7748207a44f"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "f95a9b3a-762e-42a9-abcb-a7748207a44f",
+        "longDescription": "Skriv ned dina svar.\n\n1. Vilka är de **viktigaste** **lärdomarna** du vill ta med dig?\n2. Vilka **verktyg** hjälper dig hantera stress?\n3. Beter du dig eller fungerar du **annorlunda** på något sätt idag jämför med innan du tog kursen?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "section3"
+          }
+        ],
+        "title": "Övning"
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "type": "audio",
+        "title": "Min trygga plats",
+        "description": "Den här meditationen kan hjälpa dig nå en **trygg plats** inom dig. En plats du kan besöka när du vill och behöver. \n\nDen **förbereder** dig även för nästa steg i övningen.\n\nTryck på play-knappen för att börja.",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Min-trygga-plats.mp3",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Fortsätt",
+            "conversationId": "resilience-and-stress-a-new-life-2"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "resilience-and-stress-a-new-life",
+    "alias": "resilience-and-stress-a-new-life",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "type": "editorialWithImage",
+        "title": "Uma vida nova",
+        "content": "Esta pode ser a lição final deste curso, mas é o primeiro passo da caminhada que é o resto da tua vida.\n\nNesta lição, vais transformar o que é mais importante para ti em ações concretas, que levarão a uma mudança a longo prazo.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621543793/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/L8CAPAli%C3%A7%C3%A3oumavidanova_fno2le.jpg"
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "### A lição de hoje tem três partes:\n\n* Meditação - Um lugar seguro\n* Eu daqui a um ano\n* Partilhar\n\n### Vais precisar de:\n\n* 25 min sossegados sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
             "sectionId": "section3"
           }
         ]
@@ -173,143 +256,18 @@
         "id": "section3",
         "alias": "section3",
         "type": "audio",
-        "title": "Meditation - Min trygga plats",
-        "description": "Den här meditationen kan hjälpa dig att nå en trygg plats inom dig. En plats du kan besöka när du vill och behöver. Den förbereder dig även för nästa steg i övningen.",
-        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/courses/83a9946b-af74-4186-8483-330f6d6fa74a/Min-trygga-plats.mp3",
+        "title": "Meditação – O meu lugar seguro",
+        "description": "Esta meditação pode ajudar-te a entrar em contacto com um lugar seguro dentro de ti, ao qual podes aceder quando quiseres. Também te vai preparar para a próxima fase do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523405/29k%20FJN/Meditations/Joanna%20Final/My_Safe_Place_yidol7.mp3",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Continuar",
+            "conversationId": "resilience-and-stress-a-new-life-2",
             "sectionId": "section4"
           }
-        ]
-      },
-      {
-        "id": "section4",
-        "alias": "section4",
-        "type": "video",
-        "title": "Jag om ett år från idag",
-        "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/resilience/hanterastress_ettnyttliv_ovning.mp4",
-        "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/resilience/hanterastress_ettnyttliv_ovning.jpg",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Continue",
-            "sectionId": "section5"
-          }
-        ]
-      },
-      {
-        "id": "section5",
-        "alias": "section5",
-        "type": "editorialWithImage",
-        "title": "Livet från och med idag",
-        "content": "Du har fått reflektera över vad som är viktigast i ditt liv. Nu är det dags att se hur dessa livsvärden kan omsättas så att de leder till verklig förändring. \n\nNär vi vill göra livsförändringar kan vi se dem som länkar som sitter ihop och bildar en kedja. Vi kan börja med att reflektera över våra djupaste livsvärden, sätta upp mål och sedan konkreta handlingar. \n\nTänk nu på ett område i livet där det behövs en förändring. Tidshorisonten för att genomföra förändringen kan vara ett år eller längre.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section6"
-          }
-        ]
-      },
-      {
-        "id": "section6",
-        "alias": "section6",
-        "type": "writing",
-        "title": "Jag om ett år från idag",
-        "time": "10 minuter",
-        "longDescription": "1. Tänk på ett område i ditt liv som behöver förändring. Finns det ett specifikt livsvärde, en värdering som kan vägleda dig?\n2. Baserat på det livsvärdet, sätt ord på ett konkret mål du skulle vilja ha uppnått inom ett år. Kom ihåg att bra mål är specifika och kan bockas av. Fundera också på hur det skulle påverka ditt liv om du uppnår det här målet. \n3. Identifiera de specifika saker du behöver göra från och med idag som skulle kunna hjälpa dig att uppnå ett av dina mål eller delmål. Kanske behöver du kolla upp något på nätet eller diskutera med en vän. \n\nSkriv ner dina svar på ett papper och se pappret som en manual.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section7"
-          }
-        ]
-      },
-      {
-        "id": "section7",
-        "alias": "section7",
-        "type": "editorialWithImage",
-        "title": "Din plan",
-        "content": "Nu har du skapat en plan för dig själv. En plan för vad du vill ha uppnått om ett år och vad du behöver göra för att komma dit. Strålande! Att tydliggöra konkreta handlingar som hjälper dig nå dina långsiktiga mål och livsvärden är ett steg närmare mot att faktiskt uppnå dem.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section8"
-          }
-        ]
-      },
-      {
-        "id": "section8",
-        "alias": "section8",
-        "type": "writing",
-        "title": "Jag om ett år från idag",
-        "time": "5-10 min",
-        "longDescription": "1. Reflektera över det livsvärde du valde att agera på i övningen du just gjorde. Varför valde du det här livsvärdet? Hur skulle ditt liv se ut om ett år om du väljer att ignorera det här livsvärdet? \n2. Vilka konkreta steg kommer du att ta idag eller imorgon  mot det mål du har satt upp?\n3. Kan du förutse några hinder på väg mot det här målet? Om dessa hinder dyker upp, hur kan du hantera dem?\n\nSkriv ner dina svar på ett papper, det här är vad vi föreslår att du delar med din grupp.",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "section9"
-          }
-        ]
-      },
-      {
-        "id": "section9",
-        "alias": "section9",
-        "type": "editorialWithImage",
-        "title": "Sammanfattning",
-        "content": "Bra jobbat! Du är nu klar med **Ett nytt liv**.\n\nI den här lektionen har du lärt dig att ta små steg mot dina mål, i riktning mot något du tycker är viktigt, mot dina livsvärden. Förmågan att kunna bryta ner livsvärden i konkreta steg du kan ta i din vardag är avgörande när vi vill göra långsiktiga förändringar i våra liv.",
-        "buttons": [
-          {
-            "component": "SegmentButton",
-            "content": "Fortsätt",
-            "sectionId": "section10",
-            "segments": [
-              {
-                "segment": "8be51700-fd9d-43d3-a01a-3963782535df",
-                "content": "Fortsätt",
-                "sectionId": "a3dc4f9f-b3b9-4fd5-846c-c7d904cc1848"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "editorialWithImage",
-        "id": "a3dc4f9f-b3b9-4fd5-846c-c7d904cc1848",
-        "content": "Innan du avslutar den här kursen skulle vi vilja att du svarar på en enkät om din upplevelse av att gå den. Enkäten ligger utanför 29k-appen och sammanställs anonymt av Partsrådet.\n\n[~~Klicka här för att komma till enkäten~~](https://reply.surveygenerator.com/go.aspx?u=42333iPx5poP8DL5k9YQH)\n\nOm du besvarar enkäten så är det bara komma tillbaka till 29k-appen om du vill fortsätta jobba med dig själv.\n",
-        "alias": "Enkät - Partsrådet",
-        "nextSectionId": "section10",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Jag är klar",
-            "sectionId": "section10"
-          },
-          {
-            "component": "Button",
-            "content": "Jag vill inte svara",
-            "sectionId": "section10"
-          }
         ],
-        "title": "Hjälp oss bli bättre"
-      },
-      {
-        "id": "section10",
-        "alias": "section10",
-        "type": "editorialWithImage",
-        "title": "# Bra ~~jobbat!~~",
-        "content": "Du är nu redo att dela med din grupp. Det här är frågorna vi föreslår att du besvarar och tar med in i delningen:\n\n1. Varför valde att agera på just det här livsvärdet? Vad skulle hända om du struntade i det här livsvärdet? \n2. Vilka konkreta steg kommer du att ta nu?\n3. Vilka möjliga hinder kan du förutse? Hur kan du hantera dem?",
-        "buttons": [
-          {
-            "component": "LessonCompleteButton",
-            "content": "Stäng"
-          }
-        ]
+        "duration": "02:56"
       }
     ]
   }

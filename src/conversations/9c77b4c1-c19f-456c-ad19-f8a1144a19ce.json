@@ -1,0 +1,158 @@
+{
+  "en": {
+    "id": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce",
+    "alias": "Leadership-Interactforapurpose-2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "5301d555-f754-410f-95fe-4cf7f0e08a4b",
+        "alias": "Interpersonal Influence",
+        "title": "Interpersonal Influence",
+        "content": "> Skillfully adapting to a person and situation to pursue purpose\n\nThe first skill, **Interpersonal Influence**, involves skillfully adapting the way you interact with colleagues, clients, and others in order to pursue purpose and achieve your goals.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Tell me more",
+            "sectionId": "4afb0c60-d654-4d5a-8596-b5fdbcdbc2fd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4afb0c60-d654-4d5a-8596-b5fdbcdbc2fd",
+        "alias": "Interpersonal Influence 2",
+        "content": "Think of someone who adapts their communication when speaking to different people. Someone who communicates in other people's \"languages\" in order to better pursue a purpose, make sense of a situation or achieve a meaningful goal. \n\nThis level of **flexibility** is what interpersonal influence looks like in action.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Got it",
+            "sectionId": "d239ea31-839d-41d4-8ff5-94f024397580"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d239ea31-839d-41d4-8ff5-94f024397580",
+        "content": "By adapting how you to interact with others and speaking their language you'll gain a better understanding of yourself, your situation and the people in it. \n\nIn the words of Francis Bacon - '**knowledge is power'**. Knowing how to flexibly change the way you interact with people lets you know more about your situation and how to achieve your goals and lead in a way that makes sense and matters to you.",
+        "alias": "Interpersonal Influence 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Makes sense",
+            "sectionId": "ce7f3335-0d5a-4e2d-94d3-a6456386aab8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce7f3335-0d5a-4e2d-94d3-a6456386aab8",
+        "title": "Interpersonal Influence",
+        "alias": "Interpersonal Influence 4",
+        "content": "Using **interpersonal influence** to pursue purpose is more than just connecting with other people, or becoming a chameleon and matching the style of another person. \n\nIt's about being able to see ways that you can **adapt or tweak your usual style** to better connect with them in a way that helps you pursue purpose and achieve success.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "How can I use this skill in the real world?",
+            "sectionId": "375e87e6-a390-490b-9f7e-88c933d3ce7c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "375e87e6-a390-490b-9f7e-88c933d3ce7c",
+        "alias": "How can I use this skill in the real world?",
+        "content": "As you interact with others, tune in to your embodied experiences and use them as a GPS to skillfully navigate your interactions to pursue purpose.\n\nFor example:\n\n* **Tune in:** When you feel like someone doesn't fully understand what you're saying, try to say it again in a different way that you think might resonate better with them\n* **Know your audience:** When you use metaphors to help people make sense of a situation, choose metaphors that resonate with this person or group",
+        "title": "Using interpersonal influence ",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continue",
+            "conversationId": "a3f17325-278c-48ff-bd11-d9f5c0770bbd"
+          }
+        ]
+      }
+    ],
+    "root": "5301d555-f754-410f-95fe-4cf7f0e08a4b"
+  },
+  "sv": {
+    "id": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce",
+    "alias": "Leadership-Interactforapurpose-2"
+  },
+  "pt": {
+    "id": "9c77b4c1-c19f-456c-ad19-f8a1144a19ce",
+    "alias": "Leadership-Interactforapurpose-2",
+    "root": "5301d555-f754-410f-95fe-4cf7f0e08a4b",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "5301d555-f754-410f-95fe-4cf7f0e08a4b",
+        "alias": "Interpersonal Influence",
+        "title": "Influência interpessoal",
+        "content": "> Adaptando-te habilmente a uma pessoa e a uma situação para seguires um propósito.\n\nA primeira competência, a **Influência Interpessoal,** envolve adaptar habilmente a maneira como interages com colegas, clientes e outras pessoas, para seguires um propósito e atingires os teus objetivos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Contem mais",
+            "sectionId": "4afb0c60-d654-4d5a-8596-b5fdbcdbc2fd"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4afb0c60-d654-4d5a-8596-b5fdbcdbc2fd",
+        "alias": "Interpersonal Influence 2",
+        "content": "Pensa em alguém que adapta a sua comunicação ao falar com pessoas diferentes. Alguém que se comunica nas \"línguas\" de outras pessoas para melhor alcançar um propósito, dar sentido a uma situação ou concretizar um objetivo relevante.\n\nEsse nível de **flexibilidade** é a influência interpessoal em ação.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Percebi ",
+            "sectionId": "d239ea31-839d-41d4-8ff5-94f024397580"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d239ea31-839d-41d4-8ff5-94f024397580",
+        "content": "Ao adaptares a forma como interages com outras pessoas e ao falar a língua delas, vais obter uma melhor compreensão de ti mesmo(a, da tua situação e das pessoas que a integram.\n\nNas palavras de Francis Bacon - '**conhecimento é poder**'. Saber como mudar de forma flexível a maneira como interages com as pessoas permite que saibas mais sobre a tua situação, como atingires os teus objetivos e liderar de uma forma que faça sentido e seja relevante para ti.",
+        "alias": "Interpersonal Influence 3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Faz sentido ",
+            "sectionId": "ce7f3335-0d5a-4e2d-94d3-a6456386aab8"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ce7f3335-0d5a-4e2d-94d3-a6456386aab8",
+        "title": "Influência Interpessoal",
+        "alias": "Interpersonal Influence 4",
+        "content": "Usar a **influência interpessoal** para alcançar um propósito é mais do que apenas conectares-te com outras pessoas ou tornares-te um camaleão sempre a combinar com o estilo da outra pessoa.\n\nTrata-se de ser capaz de ver maneiras de **adaptares ou ajustares o teu estilo próprio** para te conectares melhor com os outros de uma forma que te ajude a perseguir um propósito e alcançar o sucesso.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Como posso usar esta competência no mundo real?",
+            "sectionId": "375e87e6-a390-490b-9f7e-88c933d3ce7c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "375e87e6-a390-490b-9f7e-88c933d3ce7c",
+        "alias": "How can I use this skill in the real world?",
+        "content": "Ao interagir com outras pessoas, sintoniza-te com as sensações no teu corpo e usa-as como um GPS para navegar habilmente nas tuas interações enquanto persegues um propósito.\n\nPor exemplo:\n\n* **Sintoniza-te**: quando sentires que alguém não entende totalmente o que estás a dizer, tenta dizer novamente de uma maneira diferente para que possam identificar-se melhor com o teu pensamento.\n* **Conhece o teu público:** ao usares metáforas para ajudar as pessoas a entender uma situação, escolhe metáforas que ressoem com essa pessoa ou grupo.",
+        "title": "Usando a influência interpessoal",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "a3f17325-278c-48ff-bd11-d9f5c0770bbd"
+          }
+        ]
+      }
+    ]
+  }
+}

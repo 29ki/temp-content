@@ -1,0 +1,342 @@
+{
+  "en": {
+    "id": "2b9e2672-2141-4396-892a-f761c3d1e187",
+    "alias": "Leadership-pursuegoals-4",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "dd0b8959-2a85-41b3-b22f-3af518527dfc",
+        "question": "",
+        "alias": "Q1",
+        "longDescription": "* Take a moment to describe your goal\n* Why is this goal important to you and your organization?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "039b1962-0a5d-4661-b7ca-0fc8975bf50e"
+          }
+        ],
+        "title": "Choose a work-related goal you wish to accomplish"
+      },
+      {
+        "type": "video",
+        "id": "039b1962-0a5d-4661-b7ca-0fc8975bf50e",
+        "alias": "Frank's example",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "ae28b5f1-d88f-4f81-8f1e-0ab8989da267"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622799191/Leadership/Question_5_firstvideo_qtpasw.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575205/Leadership/Subtitles/lesson5_video1_eng_rapn2a.vtt"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "ae28b5f1-d88f-4f81-8f1e-0ab8989da267",
+        "alias": "Q2",
+        "longDescription": "* What is the most important thing to you and your organization in this situation?\n*  What do you want to get out of this goal?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "5cd13d92-727a-4b54-91c1-7f715f9c10d7"
+          }
+        ],
+        "title": "",
+        "question": ""
+      },
+      {
+        "type": "writing",
+        "id": "5cd13d92-727a-4b54-91c1-7f715f9c10d7",
+        "alias": "Q3 ",
+        "longDescription": "* From your own point of view\n* From your stakeholders point of view (organization, colleagues, clients etc.)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "a5dd26d7-3c47-4abe-accf-f39c27770594"
+          }
+        ],
+        "title": "",
+        "question": "How do you want the outcome to feel?"
+      },
+      {
+        "type": "video",
+        "id": "a5dd26d7-3c47-4abe-accf-f39c27770594",
+        "alias": "Frank's example 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "d6fdf049-a40f-4129-9f2d-ab1fda105f84"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621259832/Leadership/Thumbnails/Video_1_Thumbnail_yiyvdh.png",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622799127/Leadership/Question_5_videotwo_zd6jyt.mp4",
+            "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1637575205/Leadership/Subtitles/lesson5_video2_eng_w8hk9u.vtt"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "d6fdf049-a40f-4129-9f2d-ab1fda105f84",
+        "alias": "Q4",
+        "longDescription": "* What steps can you take to achieve the desired outcome?\n* Can you think of other ways to achieve the same outcome that's even better for you and your stakeholders?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Just one more question",
+            "sectionId": "47580e51-5943-4a94-9bd1-1919a2b76744"
+          }
+        ],
+        "title": "",
+        "question": ""
+      },
+      {
+        "type": "writing",
+        "id": "47580e51-5943-4a94-9bd1-1919a2b76744",
+        "alias": "Q5",
+        "longDescription": "* Is there any particular attitude or quality you want to adopt while working towards this goal?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's wrap this up",
+            "sectionId": "f61f851a-8bb1-4f17-b62c-0c9cf9510687"
+          }
+        ],
+        "title": "",
+        "question": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f61f851a-8bb1-4f17-b62c-0c9cf9510687",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Congrats on working on seeing new ways to pursue goals that matter\n\nThis week you’ve learned to strategically pursue purpose by:\n\n1. Tuning-in to identify goals that matter to you and your organization\n2. Connecting to how and way it matters to pursue a particular goal\n3. Identifying the way you want the outcome to feel to help see how you want to pursue the goal",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Thanks",
+            "sectionId": "986e1f2b-c0bb-407f-b6f6-5482b68c0867"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "986e1f2b-c0bb-407f-b6f6-5482b68c0867",
+        "alias": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "title": "Further reading",
+        "content": "1. Bieleke, M., Keller, L., & Gollwitzer, P. M. (2020). If-then planning. European Review of Social Psychology, 32(1), 88-122. doi:10.1080/10463283.2020.1808936\n2. Gollwitzer, P. M., & Sheeran, P. (2006). Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes. Advances in Experimental Social Psychology Advances in Experimental Social Psychology Volume 38, 69-119. doi:10.1016/s0065-2601(06)38002-1",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Got it!",
+            "sectionId": "e37231fd-f0f5-442d-bc92-b3ac646453ff"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e37231fd-f0f5-442d-bc92-b3ac646453ff",
+        "alias": "Sharing Exercise",
+        "title": "Sharing Exercise",
+        "content": "1. **What key insights helped you make sense of your situation, pursue purpose, or succeed this week?**\n\n   Your insights can come from many places including the lesson itself, the exercise, the daily quest, trying out the skills you've learned, and noticing what resonates with you differently.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-5-focus-on-what-matters",
+            "content": "What happens next?",
+            "sectionId": ""
+          }
+        ]
+      }
+    ],
+    "root": "dd0b8959-2a85-41b3-b22f-3af518527dfc"
+  },
+  "sv": {
+    "id": "2b9e2672-2141-4396-892a-f761c3d1e187",
+    "alias": "Leadership-pursuegoals-4"
+  },
+  "pt": {
+    "id": "2b9e2672-2141-4396-892a-f761c3d1e187",
+    "alias": "Leadership-pursuegoals-4",
+    "sections": [
+      {
+        "type": "writing",
+        "id": "dd0b8959-2a85-41b3-b22f-3af518527dfc",
+        "question": "",
+        "alias": "Q1",
+        "longDescription": "* Tira um momento para descrever o teu objetivo\n* Por que razão esse objetivo é importante para ti e para a tua organização?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "039b1962-0a5d-4661-b7ca-0fc8975bf50e"
+          }
+        ],
+        "title": "Escolhe um objetivo profissional que queiras alcançar"
+      },
+      {
+        "type": "video",
+        "id": "039b1962-0a5d-4661-b7ca-0fc8975bf50e",
+        "alias": "AHO example",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "ae28b5f1-d88f-4f81-8f1e-0ab8989da267"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179046/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_5._Persegue_objetivos_relevantes_-_video_1_isnmql.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179151/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L5V1_szgtdb.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "ae28b5f1-d88f-4f81-8f1e-0ab8989da267",
+        "alias": "Q2",
+        "longDescription": "* O que é mais importante para ti e para a tua organização nesta situação?\n* O que desajas alcançar com este objetivo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Acabei ",
+            "sectionId": "5cd13d92-727a-4b54-91c1-7f715f9c10d7"
+          }
+        ],
+        "title": "",
+        "question": ""
+      },
+      {
+        "type": "writing",
+        "id": "5cd13d92-727a-4b54-91c1-7f715f9c10d7",
+        "alias": "Q3 ",
+        "longDescription": "* Do teu próprio ponto de vista\n* Do ponto de vista das partes interessadas (organização, colegas, clientes, etc.)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Terminei ",
+            "sectionId": "a5dd26d7-3c47-4abe-accf-f39c27770594"
+          }
+        ],
+        "title": "",
+        "question": "Como queres que o resultado se faça sentir?"
+      },
+      {
+        "type": "video",
+        "id": "a5dd26d7-3c47-4abe-accf-f39c27770594",
+        "alias": "AHO example 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "d6fdf049-a40f-4129-9f2d-ab1fda105f84"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652179048/29k%20FJN/Courses/Purposeful%20Leadership/Photos/Li%C3%A7%C3%A3o_5._Persegue_objetivos_relevantes_-_video2_udfnv8.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179129/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L5V2_d8ocbf.mp4",
+            "subtitleUri": ""
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "id": "d6fdf049-a40f-4129-9f2d-ab1fda105f84",
+        "alias": "Q4",
+        "longDescription": "* Que passos podes dar para alcançar o resultado desejado?\n* Consegues pensar noutras maneiras de alcançar o mesmo resultado, que sejam ainda melhores para ti e para os outros intervenientes?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Só mais uma questão ",
+            "sectionId": "47580e51-5943-4a94-9bd1-1919a2b76744"
+          }
+        ],
+        "title": "",
+        "question": ""
+      },
+      {
+        "type": "writing",
+        "id": "47580e51-5943-4a94-9bd1-1919a2b76744",
+        "alias": "Q5",
+        "longDescription": "* Existe alguma atitude ou qualidade particular que desejas adotar enquanto trabalhas para atingir esse objetivo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos concluir",
+            "sectionId": "f61f851a-8bb1-4f17-b62c-0c9cf9510687"
+          }
+        ],
+        "title": "",
+        "question": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f61f851a-8bb1-4f17-b62c-0c9cf9510687",
+        "alias": "Summary",
+        "title": "",
+        "content": "## Parabéns por trabalhares para descobrir novas maneiras de alcançar objetivos relevantes\n\nEsta semana, aprendeste a alcançar um propósito estratégico ao:\n\n1. Sintonizares-te para identificar objetivos relevantes para ti e para a tua organização\n2. Conectando-te ao 'como' e 'porquê', pelo qual é importante perseguir um determinado objetivo\n3. Identificando a maneira como queres que o resultado se faça sentir para te ajudar a ver como pretendes alcançar o mesmo",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Obrigada ",
+            "sectionId": "986e1f2b-c0bb-407f-b6f6-5482b68c0867"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "986e1f2b-c0bb-407f-b6f6-5482b68c0867",
+        "alias": "Further reading",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620370389/Illustrations_Meditations/Header_Chattering_monkey_xj0gtx.png",
+        "title": "Leituras adicionais ",
+        "content": "1. Bieleke, M., Keller, L., & Gollwitzer, P. M. (2020). If-then planning. European Review of Social Psychology, 32(1), 88-122. doi:10.1080/10463283.2020.1808936\n2. Gollwitzer, P. M., & Sheeran, P. (2006). Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes. Advances in Experimental Social Psychology Advances in Experimental Social Psychology Volume 38, 69-119. doi:10.1016/s0065-2601(06)38002-1",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Percebi! ",
+            "sectionId": "e37231fd-f0f5-442d-bc92-b3ac646453ff"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e37231fd-f0f5-442d-bc92-b3ac646453ff",
+        "alias": "Sharing Exercise",
+        "title": "Exercício de partilha ",
+        "content": "1. **Que ideias-chave te ajudaram a entender a tua situação, procurares um propósito ou ter sucesso esta semana?**\n   Os teus *insights* podem vir de muitos sítios, incluindo da lição em si, do exercício, do desafio diário, de praticar as competências que aprendeste e perceber quais ressoam em ti de forma diferente.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "pl-5-focus-on-what-matters",
+            "content": "O que acontece a seguir?",
+            "sectionId": ""
+          }
+        ]
+      }
+    ],
+    "root": "dd0b8959-2a85-41b3-b22f-3af518527dfc"
+  }
+}

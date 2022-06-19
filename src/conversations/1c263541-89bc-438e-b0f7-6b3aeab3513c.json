@@ -1,0 +1,211 @@
+{
+  "en": {
+    "id": "1c263541-89bc-438e-b0f7-6b3aeab3513c",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "cb032c02-e1f1-4f64-bd9c-fc6c733a2531",
+        "content": "Sometimes we find ourselves in situations we **did not expect**. It could be to do with personal issues, global events or both at the same time.\n\nWhen this happens, it's **normal to experience powerful emotions** such as anxiety.\n\nToday you'll start learning **psychological** **tools** that has been shown to reduce anxiety and stress, as well as feelings of being overwhelmed, .",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm ready",
+            "sectionId": "f466d82b-eefa-4d16-a04c-13ddd3651f8b"
+          }
+        ],
+        "alias": "Intro",
+        "title": "You are not alone",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f466d82b-eefa-4d16-a04c-13ddd3651f8b",
+        "content": "### Learn more about:\n\n* Mindful breathing\n* Don’t feed the monster\n* Snap out of the anxiety loop\n\n### You’ll need:\n\n* 20 minutes\n* Paper and pen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's go",
+            "sectionId": "b2940fb4-68c8-4bd9-a306-139977123776"
+          }
+        ],
+        "alias": "Table of content"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "b2940fb4-68c8-4bd9-a306-139977123776",
+        "alias": "writing exercise",
+        "longDescription": "Take a moment to **tune** **in** with yourself.\n\n* How are you **feeling** in this very moment? \n* What's on your **mind**? \n* How are you in your **body**? \n* How are you in your **life**?\n\nWrite down your answers.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "e142d6ed-420f-4d89-a24f-40abd92d779f"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6",
+            "content": "I'm done"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "",
+        "duration": "3:29",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/meditations/slow-full-breathing.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "e142d6ed-420f-4d89-a24f-40abd92d779f",
+        "description": "When we’re stressed and anxious, **mindful breathing** helps us wind down, connect to the present moment and gain clarity. \n\nPress **play** to start."
+      }
+    ],
+    "root": "cb032c02-e1f1-4f64-bd9c-fc6c733a2531"
+  },
+  "sv": {
+    "id": "1c263541-89bc-438e-b0f7-6b3aeab3513c",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "72df2ebb-da37-4661-80c3-9f69679939c5",
+        "alias": "Intro",
+        "content": "Ibland hamnar vi i situationer vi aldrig hade kunnat föreställa oss. Det kan vara personliga problem, allvarliga händelser i världen eller allt på samma gång. \n\nNär det händer är det vanligt att vi upplever starka känslor, som ångest.\n\nI den här lektionen lär du dig **psykologiska** **verktyg** som kan hjälpa till att hantera överväldigande känslor av stress och ångest.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är redo",
+            "sectionId": "4b42c952-536b-488b-9439-8845655cc348"
+          }
+        ],
+        "title": "Du är inte ensam",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/e8c4efdf-0824-486a-b9e9-427fc00b8d18/photo-1432713643391-77a1b3f57e84.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4b42c952-536b-488b-9439-8845655cc348",
+        "content": "### Lär dig mer om:\n\n* Medveten andning\n* Mata inte monstret\n* Ut ur ångestspiralen\n\n### Du behöver:\n\n* 20 minuter\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Sätt igång",
+            "sectionId": "deb43fea-53ed-4e0b-a503-728a43acee11"
+          }
+        ],
+        "alias": "Innehållslista"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "deb43fea-53ed-4e0b-a503-728a43acee11",
+        "longDescription": "Stanna till ett ögonblick och fokusera på det som pågår inuti dig.\n\n* Hur känns det för dig just här, just nu?\n* Vad tänker du på?\n* Vad händer i din kropp?\n* Hur är det i ditt liv?\n\nSkriv ned dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Klar",
+            "sectionId": "fe52c92d-daf0-448b-ad9f-bef67d0a180b"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "",
+        "duration": "4:15",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621585394/Meditations/slow_full_breathing_svenska_-_2021-05-20_08_va7svn.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "fe52c92d-daf0-448b-ad9f-bef67d0a180b",
+        "description": "När vi är stressade och oroliga kan **medveten andning** hjälpa oss att komma ned i varv, landa i nuet och få klarhet. \n\nTryck på play för att sätta igång."
+      }
+    ],
+    "root": "72df2ebb-da37-4661-80c3-9f69679939c5"
+  },
+  "pt": {
+    "id": "1c263541-89bc-438e-b0f7-6b3aeab3513c",
+    "alias": "Coping with crisis 1: Snap out of the anxiety loop 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "8cce5a29-7737-49b8-83b1-621e1b1ec65d",
+        "content": "Por vezes, encontramo-nos em situações que **nunca esperamos**. Podem ser provocadas por problemas pessoais, eventos globais ou ambos.\n\nQuando isso acontece, é **normal sentirmos emoções fortes**, como ansiedade.\n\nHoje vais começar a aprender a utilizar **ferramentas psicológicas** que comprovadamente reduzem a sobrecarga, a ansiedade e o stress.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "f84a08fd-c52b-411f-ad7c-8163a5cc0625"
+          }
+        ],
+        "alias": "Intro",
+        "title": "Não estás sozinha/o",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629882415/farrinni-0dso2fC54ug-unsplash_niwntf.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f84a08fd-c52b-411f-ad7c-8163a5cc0625",
+        "alias": "Conteúdos",
+        "content": "### Vais aprender a:\n\n* Respirar com atenção plena\n* Não alimentar o monstro da ansiedade\n* Sair do ciclo da ansiedade\n\n### Vais precisar de:\n\n* 20 min de sossego sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "58e36b2e-792d-4f4b-952f-527f6e9a8feb"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "58e36b2e-792d-4f4b-952f-527f6e9a8feb",
+        "alias": "Exercício",
+        "longDescription": "Reserva um momento para te **sintonizares** contigo.\n\n* Como te estás a **sentir** neste exato momento? \n* O que está na tua **mente**? \n* Como sentes o teu **corpo**? \n* Como te sentes com a tua **vida**?\n\nEscreve as tuas respostas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei",
+            "sectionId": "d9adbd99-973f-436c-af34-db232e2d48f7"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "61486062-f19e-4409-844d-55e6865828b6"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "",
+        "duration": "3:30",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429301/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_09_-_Slow_Full_Breathing_mdzzui.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d9adbd99-973f-436c-af34-db232e2d48f7",
+        "description": "Quando estamos stressados e/ou ansiosos, a **respiração consciente** ajuda-nos a acalmar, a ligarmo-nos ao momento presente e a ver com mais clareza.\n\nCarrega no play para começar."
+      }
+    ],
+    "root": "8cce5a29-7737-49b8-83b1-621e1b1ec65d"
+  }
+}

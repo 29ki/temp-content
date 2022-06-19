@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-2",
-    "alias": "relationships-thingsgowrong-2",
+    "alias": "YA building relationships 3: thingsgowrong-2",
     "root": "1",
     "sections": [
       {
@@ -14,7 +13,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Now you’ll practice your **aware** and **allow** skills, but with difficult thoughts and feelings. People often find this a lot harder.\n\nDon’t worry, it won't be *too* difficult. The most important part is that you give it a try. Why? Well, we learn best in small steps. Remember it’s necessary to learn how to walk before you can run a marathon."
+                "content": "Now you will practice being **aware** and **allowing** **–** but with **difficult** thoughts and feelings. It is common to find that it is **harder** than with positive emotions and thoughts. We'll take it in small steps."
               }
             ]
           },
@@ -24,7 +23,6 @@
               {
                 "component": "Button",
                 "content": "Let's go",
-                "conversationId": "relationships-thingsgowrong-2",
                 "sectionId": "2"
               }
             ]
@@ -37,9 +35,18 @@
         "alias": "2",
         "content": [
           {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Press play to do the exercise."
+              }
+            ]
+          },
+          {
             "component": "AudioPlayer",
             "content": {
-              "url": "awareandallowtake2",
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622469438/Building%20Relationships/aware_and_allow_2_-_2021-05-31_15_grbcje.mp3",
               "duration": 5
             }
           },
@@ -49,7 +56,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-thingsgowrong-2",
                 "sectionId": "3"
               }
             ]
@@ -66,7 +72,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Reflect** for a moment:\n\nWhat happened with your feelings?\n\nWhat happened with your thoughts?\n\n\n\nWrite it down somewhere only you can see."
+                "content": "Now we want you to think about the following:\n\n* What happened to your emotions when you did this exercise?\n* With your thoughts?\n\nWrite down your answer somewhere where only you can see them."
               }
             ]
           },
@@ -76,13 +82,13 @@
               {
                 "component": "Button",
                 "content": "I'm done",
-                "conversationId": "relationships-thingsgowrong-2",
                 "sectionId": "4"
               }
             ]
           }
         ],
-        "type": "defaultSection"
+        "type": "defaultSection",
+        "task": []
       },
       {
         "id": "4",
@@ -93,7 +99,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Good stuff!\n\n Here’s the thing – by just doing this practice and writing a few words, you’ve already gotten better at awareness and allowing."
+                "content": "# Good stuff!\n\nJust by expressing your experience you’ve already gotten better at being aware and allowing."
               }
             ]
           },
@@ -102,8 +108,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "See others' experiences",
-                "conversationId": "relationships-thingsgowrong-2",
+                "content": "See others' stories",
                 "sectionId": "5"
               }
             ]
@@ -120,9 +125,32 @@
             "component": "VideoStories",
             "content": [
               {
-                "videoUri": "https://drive.google.com/drive/folders/1Y5GGn2u8uodZU2duhMwhOCmxBkmaiURX?usp=sharing",
-                "duration": 1,
-                "imageUri": "t"
+                "title": "Emilia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_emilia.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_emilia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1631112633/Hantera%20Stress%20YA/subtitles/medvetenochtilla%CC%8Atande_emilia-en_rftyks_xuj07k.vtt",
+                "duration": 52
+              },
+              {
+                "title": "Sebastian",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sebastian.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sebastian.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1631113021/Hantera%20Stress%20YA/subtitles/medvetenochtilla%CC%8Atande_sebastian-en_wmfkvb_gszchb.vtt",
+                "duration": 48
+              },
+              {
+                "title": "Sofia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sofia.mp4",
+                "duration": 43,
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sofia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1631113157/Hantera%20Stress%20YA/subtitles/medvetenochtilla%CC%8Atande__sofia-en_b6seit_q2j03j.vtt"
+              },
+              {
+                "title": "Ummawa",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_ummawa.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_ummawa.jpg",
+                "duration": 58,
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1631113295/Hantera%20Stress%20YA/subtitles/medvetenochtilla%CC%8Atande_ummawa-en_iyqe7e_kaqpcj.vtt"
               }
             ]
           },
@@ -131,9 +159,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Go on",
-                "conversationId": "relationships-thingsgowrong-3",
-                "sectionId": "1"
+                "conversationId": "relationships-thingsgowrong-3"
               }
             ]
           }
@@ -142,9 +170,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-thingsgowrong-2",
-    "alias": "relationships-thingsgowrong-2",
+    "alias": "YA building relationships 3: thingsgowrong-2",
     "root": "1",
     "sections": [
       {
@@ -166,7 +193,6 @@
               {
                 "component": "Button",
                 "content": "Sätt igång",
-                "conversationId": "relationships-thingsgowrong-2",
                 "sectionId": "2"
               }
             ]
@@ -200,7 +226,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-thingsgowrong-2",
                 "sectionId": "3"
               }
             ]
@@ -227,7 +252,6 @@
               {
                 "component": "Button",
                 "content": "Gå vidare",
-                "conversationId": "relationships-thingsgowrong-2",
                 "sectionId": "4"
               }
             ]
@@ -254,7 +278,176 @@
               {
                 "component": "Button",
                 "content": "Se vad andra säger",
-                "conversationId": "relationships-thingsgowrong-2",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "defaultSection",
+        "id": "5",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_emilia.mp4",
+                "title": "Emilia",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_emilia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621600041/Building%20Relationships/subtitles/medvetenochtill%C3%A5tande_emilia_pzjcfz.vtt",
+                "duration": 52
+              },
+              {
+                "title": "Sebastian",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sebastian.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sebastian.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621600042/Building%20Relationships/subtitles/medvetenochtill%C3%A5tande_sebastian_rnjjxt.vtt",
+                "duration": 47
+              },
+              {
+                "title": "Sofia",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sofia.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sofia.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621600041/Building%20Relationships/subtitles/medvetenochtill%C3%A5tande__sofia_c0xad5.vtt",
+                "duration": 44
+              },
+              {
+                "title": "Ummawa",
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_ummawa.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_ummawa.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621600041/Building%20Relationships/subtitles/medvetenochtill%C3%A5tande_ummawa_zsvcnx.vtt",
+                "duration": 58
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Fortsätt",
+                "conversationId": "relationships-thingsgowrong-3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-thingsgowrong-2",
+    "alias": "YA building relationships 3: thingsgowrong-2",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora vais praticar estar **consciente** e **aceitar –** mas com pensamentos e sentimentos **difíceis**. É comum descobrir que é **mais difícil** do que com emoções e pensamentos positivos. Vamos guiar-te passo a passo."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vamos lá",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Carrega no play para fazer o exercício."
+              }
+            ]
+          },
+          {
+            "component": "AudioPlayer",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650893959/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Meditations%20Exercises%20Audio/Construir_Rela%C3%A7%C3%B5es_-_Quando_%C3%A9_dif%C3%ADcil_fgtniv.mp3",
+              "duration": 4
+            }
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora queremos que penses no seguinte:\n\n* O que aconteceu com as tuas emoções quando fizeste este exercício?\n* E com os teus pensamentos?\n\nAnota a tua resposta num sítio onde só tu possas vê-la."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Acabei",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection",
+        "task": []
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Excelente!\n\nSó por teres expressado a tua experiência, já melhoraste as tuas competências em estar consciente e aceitar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Vê outras histórias",
                 "sectionId": "5"
               }
             ]
@@ -271,24 +464,32 @@
             "component": "VideoStories",
             "content": [
               {
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_emilia.mp4",
-                "title": "Emilia",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_emilia.jpg"
+                "title": "Nenny",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359466/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Videos/Nenny_-_Construir_Rela%C3%A7%C3%B5es_L3V1_p0oskw.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362086/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Photos/Li%C3%A7%C3%A3o_3_-_quando_%C3%A9_dif%C3%ADcil_-_video_1_symwu8.jpg",
+                "subtitleUri": "",
+                "duration": 218
               },
               {
-                "title": "Sebastian",
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sebastian.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sebastian.jpg"
+                "title": "Ana",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360134/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Videos/Ana_-_Construir_Rela%C3%A7%C3%B5es_-_L3V1_fx8hsg.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650363528/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Photos/Quando_%C3%A9_dif%C3%ADcil_-_video_1_mgis0d.jpg",
+                "subtitleUri": "",
+                "duration": 76
               },
               {
-                "title": "Sofia",
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_sofia.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_sofia.jpg"
+                "title": "Afonso",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359311/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Videos/L3V1_-_Afonso_Almeida_-_Construir_Rela%C3%A7%C3%B5es-_oknvo3.mp4",
+                "duration": 170,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362609/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Photos/Afonso_Almeida_-_Quando_%C3%A9_dif%C3%ADcil_-_video_1_sehx5d.jpg",
+                "subtitleUri": ""
               },
               {
-                "title": "Ummawa",
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/3_medvetenochtillatande/3_ummawa.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/3_medvetenochtillatande/3_ummawa.jpg"
+                "title": "Isabel",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360069/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Videos/L3V1_-_Isabel_santos_-_Construir_Rela%C3%A7%C3%B5es_i5ugek.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362486/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Photos/Isabel_Santos_-_Quando_%C3%A9_dif%C3%ADcil_-_video_1_vd4kdm.jpg",
+                "duration": 156,
+                "subtitleUri": ""
               }
             ]
           },
@@ -297,9 +498,9 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Fortsätt",
-                "conversationId": "relationships-thingsgowrong-3",
-                "sectionId": "1"
+                "variant": "primary",
+                "content": "Continuar",
+                "conversationId": "relationships-thingsgowrong-3"
               }
             ]
           }

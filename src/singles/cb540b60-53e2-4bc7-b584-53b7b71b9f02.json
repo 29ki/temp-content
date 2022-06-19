@@ -1,0 +1,235 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Acting in a way I can be proud of",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919863/New_images/exercises%20png/act_for_yourself_i1axgp.png"
+    },
+    "duration": {
+      "count": 20,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "cb540b60-53e2-4bc7-b584-53b7b71b9f02",
+    "description": "Living for meaning, not fear.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "cb540b60-53e2-4bc7-b584-53b7b71b9f02",
+        "root": "section1",
+        "alias": "Exercise: Acting in a way I can be proud of",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Act for Change",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653688/Illustrations_Exercises/Heading_Acting_in_a_way_I_can_be_proud_of_o1hh1g.png",
+            "title": "Act for Change",
+            "content": "*20 minutes*\n\nWhen the world around you is changing so suddenly and unexpectedly, it makes sense to feel stressed, lonely, disconnected, or like you’re not settled or a part of things.\n\nThese thoughts and feelings can help you cut through the noise and show you how you can live a life that matters to you personally, rather than how you should be, or to escape how you feel, even in this difficult situation.",
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "content": "In different situations we can find ourselves acting more for how we feel we should be OR more for what matters to us. It’s very normal to find yourself at different points, in different situations.\n\nOn a scale of 1-7, where 1 stands for “Today, I have acted as I feel i should be” and 7 means “Today, I have acted for what mattered to me\".\nAsk yourself, where along that scale do you think you would place yourself right now based on what you’ve done today.",
+            "alias": "section2",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "content": "In every situation you face, you can ask yourself; if I do this, am I doing it because it could make sense and be important to me personally?\n\nOr am I doing this for other reasons such as:\n\n1. To please other people\n1. To do what’s expected of someone like me\n1. To try escape my feelings of worry, loneliness, anxiety or desperation",
+            "alias": "section3",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "content": "Tune-in to your current situation and how you feel about it.",
+            "alias": "section4",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "content": "If you acted for how you feel you should be in the situation you’re in today, what would that look like?\n\nWrite down a few points about what you think that might look like. What would you be doing?",
+            "alias": "section5",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "content": "If you acted for what matter to you in the situation you’re in today, what would that look like?\n\nWrite down a few points about what you think that might look like. What would you be doing?",
+            "alias": "section6",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done!",
+            "content": "Well done tuning-in to acting for what matters to you today!\n\nIf you acted more as you “should” be or to avoid your feelings how do you think that might make you feel? If you instead acted for what matters to you how would that make you feel? Would you feel the same in both cases or a little (or a lot!) differently?\n\nThe only way to really find out is to try doing this in your current situation and taking action get a sense where along the scale you’d put it between acting as you feel you should be (or to avoid) feeling and acting for what matters to you. Tune-in to how it feels to act in these different ways, and which helps you to live in a way that helps you make sense or is important to you in this difficult situation.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Acting in a way I can be proud of",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Handlar på ett sätt som jag kan vara stolt över i den här situationen",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919863/New_images/exercises%20png/act_for_yourself_i1axgp.png"
+    },
+    "duration": {
+      "count": 20,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "cb540b60-53e2-4bc7-b584-53b7b71b9f02",
+    "description": "Att leva för mening, inte rädsla.",
+    "wip": true,
+    "stations": [
+      {
+        "id": "cb540b60-53e2-4bc7-b584-53b7b71b9f02",
+        "root": "section1",
+        "alias": "Exercise: Acting in a way I can be proud of",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Lag för förändring",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653688/Illustrations_Exercises/Heading_Acting_in_a_way_I_can_be_proud_of_o1hh1g.png",
+            "title": "Lag för förändring",
+            "content": "*20 minuter*\n\nNär världen omkring dig förändras så plötsligt och oväntat är det vettigt att känna dig stressad, ensam, frånkopplad eller som om du inte är bosatt eller en del av saker.\n\nDessa tankar och känslor kan hjälpa dig att skära igenom bullret och visa dig hur du kan leva ett liv som är viktigt för dig personligen, snarare än hur du ska vara, eller att fly hur du känner, även i denna svåra situation.",
+            "buttonText": "Nu kör vi"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "content": "I olika situationer kan vi befinna oss mer för hur vi känner att vi ska vara ELLER mer för det som betyder något för oss. Det är väldigt normalt att befinna sig vid olika punkter, i olika situationer.\n\nPå en skala från 1-7, där 1 står för \"Idag har jag agerat som jag känner att jag borde vara\" och 7 betyder \"Idag har jag handlat för det som betydde mig\".\nFråga dig själv, var längs den skalan tror du att du skulle placera dig just nu baserat på vad du har gjort idag.",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "content": "I varje situation du möter kan du fråga dig själv; om jag gör det här, gör jag det för att det kan vara meningsfullt och vara viktigt för mig personligen?\n\nEller gör jag det av andra skäl som:\n\n1. Att behaga andra människor\n1. Att göra vad som förväntas av någon som jag\n1. För att försöka fly från mina känslor av oro, ensamhet, ångest eller desperation",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "content": "Anpassa din nuvarande situation och hur du känner för det.",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "content": "Om det handlade för hur du känner att du borde vara i den situation du befinner dig i dag, hur skulle det se ut?\n\nSkriv ner några punkter om hur du tror att det kan se ut. Vad skulle du göra?",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "content": "Om du handlade för det som spelade roll för dig i den situation du befinner dig i dag, hur skulle det se ut?\n\nSkriv ner några punkter om hur du tror att det kan se ut. Vad skulle du göra?",
+            "buttonText": "Fortsätta"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "",
+            "title": "Bra gjort!",
+            "content": "Bra gjort anpassning för att agera för det som betyder något för dig idag!\n\nOm du handlade mer som du \"borde\" vara eller för att undvika dina känslor hur tror du att det kan få dig att känna dig? Om du istället agerade för det som betyder något för dig, hur skulle det få dig att känna dig? Skulle du känna samma sak i båda fallen eller lite (eller mycket!) Annorlunda?\n\nDet enda sättet att verkligen ta reda på är att försöka göra detta i din nuvarande situation och att agera få en känsla av att längs skalan du skulle placera det mellan att agera som du känner att du borde vara (eller att undvika) känna och agera för det som betyder något till dig. Anpassa hur det känns att agera på dessa olika sätt, och som hjälper dig att leva på ett sätt som hjälper dig att ge mening eller är viktigt för dig i denna svåra situation.",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Handlar på ett sätt som jag kan vara stolt över i den här situationen",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Agir de uma forma que me possa orgulhar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1646919863/New_images/exercises%20png/act_for_yourself_i1axgp.png"
+    },
+    "duration": {
+      "count": 20,
+      "type": "minute"
+    },
+    "type": "exercise",
+    "id": "cb540b60-53e2-4bc7-b584-53b7b71b9f02",
+    "description": "Viver com significado e não com medo",
+    "wip": false,
+    "stations": [
+      {
+        "id": "cb540b60-53e2-4bc7-b584-53b7b71b9f02",
+        "root": "section1",
+        "alias": "Exercise: Acting in a way I can be proud of",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Agir para a mudança",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620653688/Illustrations_Exercises/Heading_Acting_in_a_way_I_can_be_proud_of_o1hh1g.png",
+            "title": "Agir para a mudança",
+            "content": "*20 minutos*\n\nQuando o mundo à tua volta está a mudar tão repentina e inesperadamente, é normal que te sintas stressada/o, sozinha/o, desligada/o, pouco estável ou integrada/o no que está a acontecer.\n\nEstes pensamentos e sentimentos podem ajudar-te a superar o ruído e a mostrar-te como podes viver uma vida que faz sentido para ti, em vez de viveres como os outros acham que é suposto viveres, ou a fugires ao que sentes mesmo nesta situação difícil.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "content": "Em diferentes situações, podemos aperceber-nos que estamos a agir mais pelo que achamos que devemos ser OU mais pelo que é importante para nós. É muito normal que nos encontremos em diferentes pontos em diferentes situações.\n\nNuma escala de 1 a 7, onde 1 significa \"Hoje agi como achei que deveria ser\" e 7 significa \"Hoje agi pelo que é importante para mim\".\n\nPergunta-te: Onde me posicionaria agora de acordo com esta escala face ao que fiz hoje?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "content": "Em cada situação que enfrentas, podes perguntar-te; “se eu fizer isto, estou a fazê-lo porque acho que pode fazer sentido e ser importante para mim?” \n\nOu estou a fazer isto por outras razões, tais como: \n\n1. Para agradar a outras pessoas.\n2. Para fazer o que se espera de alguém como eu. \n3. Para tentar fugir aos meus sentimentos de preocupação, solidão, ansiedade ou desespero.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "editorialWithImage",
+            "content": "Conecta-te com a tua situação actual e a como te sentes em relação a ela.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "editorialWithImage",
+            "content": "Se agisses como achas que deverias ser na situação em que te encontras hoje, como o farias?\n\nEscreve alguns pontos sobre como essa atuação poderia ser. O que estarias a fazer?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "editorialWithImage",
+            "content": "Se agisses pelo que é importante para ti na situação em que te encontras hoje, como o farias?\n\nEscreve alguns pontos sobre como essa atuação poderia ser. O que estarias a fazer?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Parabéns por te conectares para agir de acordo com o que é importante para ti hoje!\n\nSe agires mais como \"deves ser\" ou de forma a evitar os teus sentimentos, como achas que isso te pode fazer sentir? Se, em vez disso, agisses pelo que é importante para ti, como é que isso te faria sentir? Sentirias o mesmo em ambos os casos ou seria um pouco (ou muito!) diferente?\n\nA única forma de realmente descobrires é tentar aplicar estes conhecimentos à tua situação atual e agir. Descobre onde estás entre escolheres agir da forma que é esperado de ti (ou para evitar os sentimentos) ou agir consoante o que é importante para ti. Liga-te à sensação de agir destas diferentes maneiras. Qual contribui para viveres de uma forma que faça sentido ou que seja importante para ti nesta situação difícil?",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Agir de uma forma que me possa orgulhar",
+        "type": "station"
+      }
+    ]
+  }
+}

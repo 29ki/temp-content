@@ -1,0 +1,36 @@
+{
+  "en": {
+    "id": "de807bb3-381f-4f6b-a621-4f5b24a8a84e",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "166a797d-01f4-48f9-b089-c0b2387f6512",
+        "alias": "sleep test sharing wall",
+        "question": "What feelings did the test result evoke in you?",
+        "exampleText": "Made me feel calm, seems like I'm better off than I thought"
+      }
+    ],
+    "root": "166a797d-01f4-48f9-b089-c0b2387f6512",
+    "alias": "Sleep test sharing wall"
+  },
+  "sv": {
+    "id": "de807bb3-381f-4f6b-a621-4f5b24a8a84e",
+    "alias": "Sleep test sharing wall",
+    "root": "166a797d-01f4-48f9-b089-c0b2387f6512",
+    "sections": [
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "166a797d-01f4-48f9-b089-c0b2387f6512",
+        "alias": "sleep test sharing wall",
+        "question": "Vad väckte testresultatet för känslor hos dig?",
+        "exampleText": "Jag känner mig rätt lugn. Verkar som att jag inte sover så illa trots allt."
+      }
+    ]
+  },
+  "pt": {
+    "id": "de807bb3-381f-4f6b-a621-4f5b24a8a84e",
+    "alias": "Sleep test sharing wall"
+  }
+}

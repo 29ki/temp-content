@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "29k Group Principles",
+    "principles": [
+      {
+        "title": "Everything in your inner world is allowed",
+        "description": "Judging what you and others are feeling as being **good** or **bad** is a missed learning opportunity and can result in feelings of shame.\n\nInstead, celebrate flaws as opportunities for growth."
+      },
+      {
+        "title": "Listen to understand",
+        "description": "Everyone can contribute by **listening** and **being present**. Take responsibility for how you relate to everything.\n\nSee every trigger, blaming or judgemental thought as an opportunity to practice listening and compassion in yourself and others. By thinking that we already understand, we close ourselves to learning."
+      },
+      {
+        "title": "Show up and share",
+        "description": "Expressing how it feels to be you is often what is most healing. For you and others. Your fears and shame, dreams and inadequacies.\n\nYou take the group to a deeper level of openness and trust by choosing **vulnerability** and by **telling your stories.**"
+      }
+    ]
+  },
+  "sv": {
+    "title": "29k’s gruppregler",
+    "principles": [
+      {
+        "title": "Alla känslor är okej",
+        "description": "Känslor är varken **bra** eller **dåliga,** de är helt enkelt signaler som hjälper oss att fatta beslut i olika situationer. Du kan använda dina olika känslor för att lära dig mer om dig själv."
+      },
+      {
+        "title": "Lyssna för att förstå",
+        "description": "Bidra till gruppen genom att **vara närvarande** och **lyssna**. Ta ansvar för hur du reagerar på det som sägs.\n\nÖva på att bli bättre på att lyssna och visa medkänsla istället för att klandra eller döma. Sträva efter att förstå och lära dig mer om de andra i din grupp."
+      },
+      {
+        "title": "Dela med dig av dig själv",
+        "description": "Att berätta hur det känns att vara just du är ofta det som ger mest. För både dig själv och för andra. Med all din glädje och sorg, rädsla och skam, brister och drömmar.\n\nDu kan bidra till ett öppet klimat och djupare förtroende i gruppen genom att visa **sårbarhet** och **dela din historia** med de andra."
+      }
+    ]
+  },
+  "pt": {
+    "title": "29k FJN - Princípios dos Grupos",
+    "principles": [
+      {
+        "title": "Tudo é permitido no teu mundo interior",
+        "description": "Julgar o que tu ou os outros sentem como sendo **bom** ou **mau** é uma oportunidade de aprendizagem perdida e pode resultar em sentimentos de culpa. Em vez disso, celebra as imperfeições como oportunidades de crescimento."
+      },
+      {
+        "title": "Escuta para compreender",
+        "description": "Todos podem contribuir estando **presentes** e a **ouvir**. Assume a responsabilidade pela forma como te relacionas com tudo. Encara todos os pensamentos de julgamento e culpabilização como uma oportunidade de praticar ouvir e ser compassivo por ti e pelos outros. Ao pensarmos que percebemos tudo, fechamo-nos à aprendizagem e evolução."
+      },
+      {
+        "title": "Aparece e partilha",
+        "description": "Expressar o que sentes ao seres tu, é muitas vezes o que mais contribui para sarar. Para ti e para os outros. Os teus medos e vergonhas assim como os sonhos e desajustes. Transporta o grupo para um nível de abertura e confiança mais profundo, escolhendo falar das tuas **vulnerabilidades** e partilhando **as tuas histórias**."
+      }
+    ]
+  }
+}

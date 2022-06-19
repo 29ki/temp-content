@@ -1,0 +1,207 @@
+{
+  "en": {
+    "id": "38e77ead-b88a-40a8-ab37-a4683e3506aa",
+    "alias": "Navigating stormy seas 4 (Relationship values)",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Relationships - A cornerstone in life",
+        "content": "Our relationships can be very different depending on the persons they involve such as family members, friends, colleagues and romantic partners, among others. However one thing that all relationships have in common is that they can be a source of both joy and pain.\n\nIt’s likely that you’ve experienced these emotions with more frequency or intensity during this crisis. Maybe this has made you question what you want from your relationships and who you want to have in your life.\n\nWe’ll now take a look at the relationship values.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "title": "Exploring your relationship values",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_02_values_relationships.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Exercise - Part 1",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper. ",
+        "longDescription": "Time to dive into your relationship values! Write down a list of things you value in relationships.\n\nYou can use the following questions as your guide:\n\n* What kind and quality of relationships would you like to develop?\n* How would you like behave and treat others?\n* What role would you like to take?\n* What personal qualities would you like to develop?\n\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Exercise - Part 2",
+        "time": "Take 5-10 minutes",
+        "question": "For the following questions, write your answers down on a piece of paper.",
+        "longDescription": "On a scale of 1-5, how much do you feel that you live in line with each of your relationship values? (1 stands for “not at all in line” and 5 means “totally in line”).",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "38e77ead-b88a-40a8-ab37-a4683e3506aa",
+    "alias": "Navigating stormy seas 4 (Relationship values)",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Relationer – en av livets grundpelare",
+        "content": "Relationer är superviktiga för oss människor. De kan vara helt olika beroende på vilka personer de inbegriper – familjemedlemmar, vänner, kollegor eller romantiska partners. Men en sak alla relationer har gemensamt: de kan vara en källa till både glädje och smärta.\n\nDu kanske har upplevt både glädje och smärta oftare eller mer intensivt under den här krisen. Kanske har det fått dig att ifrågasätta vad du vill ha ut av dina relationer eller vem du vill ha i ditt liv.\n\nNu tar vi en titt på hur du vill vara i en relation.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "title": "Mina värderingar – relationer",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-2.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_02_values_relationships.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Övning – del 1",
+        "time": "Ta 5-10 minuter",
+        "question": "För följande frågor, skriv ner dina svar på ett papper.",
+        "longDescription": "Dags att dyka ner i dina relationsvärderingar! Skriv ner en lista över saker du värdesätter.\n\nDu kan använda följande frågor som guide:\n\n* Vad vill du stå för i relationer?\n* Hur vill du uppträda och behandla andra?\n* Vilken roll vill du ta?\n* Vilka personliga egenskaper vill du utveckla?\n\nExempel kan vara: Jag vill vara...\n\n...kärleksfull, varm och nära\n\n...generös\n\n...närvarande, finnas där när det behövs\n\n...uppriktig, berätta om mina tankar och känslor\n\n...aktiv tillsammans (plocka svamp, gå på klubb, spela padel)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Övning – del 2",
+        "time": "5-10 minuter",
+        "question": "",
+        "longDescription": "På en skala från 1-5, hur mycket känner du att du lever i linje med var och en av dina relationsvärderingar? (1 står för \"inte alls\" och 5 betyder \"helt i linje\").\n\nSkriv ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section11"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "38e77ead-b88a-40a8-ab37-a4683e3506aa",
+    "alias": "Navigating stormy seas 4 (Relationship values)",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "title": "Relações - A pedra angular da vida",
+        "content": "As nossas relações podem ser muito diferentes dependendo das pessoas envolvidas, como familiares, amigas, amigos, colegas, parceiras ou parceiros românticos, entre outros. No entanto, uma coisa que todas as relações têm em comum é que tanto podem ser uma fonte de alegria como uma fonte de dor.\n\nÉ provável que tenhas experienciado estas emoções com mais frequência ou intensidade ultimamente. Talvez isso te tenha feito questionar o que queres das tuas relações e quem desejas ter na tua vida.\n\nVamos agora dar uma vista de olhos aos valores das relações.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "video",
+        "title": "Os teus valores nas relações",
+        "description": "“Para mim, as ações é que contam (…). Para medir exatamente as pessoas é ver a coerência entre a palavra e a ação (…), mas em tudo na vida.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621855830/29k%20FJN/Courses/Meaning%20Making/Photos/L2P8NAVIGATINGSTORMYSEAS_d4r3l5.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622044018/29k%20FJN/Courses/Meaning%20Making/Videos/L2_Meaning_making_in_a_crisis_V2_1_bqshuk.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Exercício - Parte 1",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Está na altura de mergulhares nos teus valores das relações! Escreve uma lista de aspetos que valorizas nas relações.\n\nPodes basear-te nestas perguntas:\n\n* Que tipo e qual a qualidade das relações que gostarias de desenvolver?\n* Como gostarias de te comportar e de tratar os outros?\n* Que papel gostarias de desempenhar?\n* Que qualidades pessoais gostarias de desenvolver?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Exercício - Parte 2",
+        "time": "Tira 5-10 min",
+        "question": "Responde às perguntas seguintes numa folha de papel.",
+        "longDescription": "Numa escala de 1-5, quanto achas que vives em linha com cada um dos teus valores das relações? (1 significa “nada alinhada/o” e 5 significa “totalmente alinhada/o”). Escreve a pontuação junto a cada um dos teus valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      }
+    ]
+  }
+}

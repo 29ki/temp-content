@@ -1,0 +1,86 @@
+{
+  "en": {
+    "screenTitle__markdown": "# Create ~~group~~",
+    "groupName": "Name",
+    "groupDescription": {
+      "title": "Description",
+      "description": "Let others know what this group is about",
+      "placeholder": "This group is all about the good vibes..."
+    },
+    "courseWarning": "Please select a course",
+    "groupPrivacy": {
+      "title": "Private group",
+      "hide_group": "This group is private"
+    },
+    "groupLanguage": {
+      "title": "Language"
+    },
+    "textLengthWarning": "Please write at least {{textLength}} characters",
+    "groupTime": {
+      "title": "Day and time",
+      "description": "Decide to meet once a week at an agreed time. Which day and time is best for you?"
+    },
+    "timeWarning": "Please select a day and time",
+    "groupContext": {
+      "title": "More settings",
+      "description": "Pick a course and / or a sharing time"
+    },
+    "buttonText": "Next"
+  },
+  "sv": {
+    "screenTitle__markdown": "# Skapa ~~grupp~~",
+    "groupName": "Namn",
+    "groupDescription": {
+      "title": "Beskrivning",
+      "description": "Låt andra veta lite mer om den här gruppen",
+      "placeholder": "Denna grupp handlar om att..."
+    },
+    "courseWarning": "Välj en kurs",
+    "groupPrivacy": {
+      "title": "Privat grupp",
+      "hide_group": "Den här gruppen är privat"
+    },
+    "groupLanguage": {
+      "title": "Språk"
+    },
+    "textLengthWarning": "Skriv minst {{textLength}} tecken",
+    "groupTime": {
+      "title": "Dag och tid",
+      "description": "Gruppen möts en gång i veckan vid en bestämd tid. Vilken dag och vilken tid passar dig?"
+    },
+    "timeWarning": "Välj dag och tid",
+    "groupContext": {
+      "title": "Fler inställingar",
+      "description": "Pick a course and / or a sharing time"
+    },
+    "buttonText": "Nästa steg"
+  },
+  "pt": {
+    "screenTitle__markdown": "# Configura e descreve o teu ~~grupo~~",
+    "groupName": "Nome do Grupo",
+    "groupDescription": {
+      "title": "Descrição do grupo",
+      "description": "Descreve o teu grupo. Que tipo de lugar e ambiente imaginas para o teu grupo?",
+      "placeholder": "Este grupo tem tudo a ver com boas vibrações..."
+    },
+    "courseWarning": "Por favor seleciona um curso",
+    "groupPrivacy": {
+      "title": "Privacidade do grupo",
+      "hide_group": "Este grupo é privado"
+    },
+    "groupLanguage": {
+      "title": "Idioma"
+    },
+    "textLengthWarning": "Escreve pelo menos {{textLength}} caracteres",
+    "groupTime": {
+      "title": "Dia e hora",
+      "description": "Decide o dia e a hora mais convenientes para a sessão de partilha do grupo."
+    },
+    "timeWarning": "Por favor seleciona um dia e uma hora",
+    "groupContext": {
+      "title": "Mais configurações",
+      "description": "Escolhe um curso e / ou uma hora de partilha"
+    },
+    "buttonText": "Próximo"
+  }
+}

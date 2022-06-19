@@ -1,63 +1,57 @@
 {
   "en": {
-    "type": "lesson",
     "id": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
-    "alias": "Stress YA Att säga Nej och ja 2",
+    "alias": "Stress YA: Saying yes and no 2",
     "root": "0923429b-6f61-4b14-8e34-1f7e4e8d4554",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "0923429b-6f61-4b14-8e34-1f7e4e8d4554",
-        "alias": "Undersök vad du vill",
-        "title": "Vad vill du?",
-        "content": "Ett skäl till att vi inte sätter gränser är att vi ibland inte själva vet vad vi vill. Så vi gör det som andra föreslår. Ett viktigt steg är därför att undersöka vad *du vill*, särskilt i situationer där du vet att du har svårt att säga nej.\n\nSå, nu ska du få titta inåt och fundera på ett område där du skulle vilja sätta tydligare gränser. Situationer där det kan vara lätt att säga ja, fast du egentligen vill säga nej.",
+        "alias": "Understand what you want",
+        "title": "So what do you want?",
+        "content": "One reason we don't set boundaries is that **we don't know what we want**. So we do what others suggest. That’s why understanding what you want is important.\n\nNow it's over to you. It's time to dig into an area in your life where you’d like to set boundaries.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Jag är redo",
-            "sectionId": "96c9d572-4aa0-420e-a437-698c3a46361d"
-          }
-        ]
-      },
-      {
-        "type": "editorialWithImage",
-        "id": "96c9d572-4aa0-420e-a437-698c3a46361d",
-        "title": "Övning: Dina gränser",
-        "alias": "Övning: Dina gränser",
-        "content": "1. Tänk på en situation där du sa ja till något fast att du egentligen inte ville, och som kanske fick dig att må dåligt eller hindrade dig att göra något annat som du tycker är viktigt.\n\nSkriv ner ditt svar någonstans där bara du ser det.\n\n*Exempelvis: när du testade på någonting fastän du egentligen inte ville, när du föll för grupptryck, när du tog på dig att fixa någonting åt en annan person fast du inte hade tid för det.*",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Fortsätt",
-            "sectionId": "9e05d689-0f74-40db-9d60-8dadc4cddca0"
-          }
-        ]
-      },
-      {
-        "type": "editorialWithImage",
-        "id": "9e05d689-0f74-40db-9d60-8dadc4cddca0",
-        "content": "2. Tänk nu på en situation i ditt liv där du skulle vilja säga nej. Gör konkreta planer för hur du vill svara när du får frågan. \n\n3. Om du säger nej till det här, vilka andra saker skulle det bli lättare att säga ja till?\n\nSkriv ner dina svar någonstans där bara du ser det.",
-        "alias": "Övning: Dina gränser 2",
-        "title": "",
-        "buttons": [
-          {
-            "component": "Button",
-            "content": "Färdig",
-            "sectionId": "24e8b7d8-b563-47e2-a24c-6779a97f18ea"
+            "content": "Let's do this",
+            "sectionId": "530e3b0c-a945-4dd9-8994-f4dca7f20bc7"
           }
         ]
       },
       {
         "type": "defaultSection",
-        "id": "24e8b7d8-b563-47e2-a24c-6779a97f18ea",
-        "alias": "Att säga nej",
+        "id": "530e3b0c-a945-4dd9-8994-f4dca7f20bc7",
         "content": [
           {
-            "component": "TextGroup",
+            "component": "VideoStories",
             "content": [
               {
-                "component": "Text",
-                "content": "Det kan som sagt vara svårt att säga nej, därför har vi samlat några råd som kan vara användbara om du vill öva på att säga nej."
+                "title": "Amir",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067041/Hantera%20Stress%20YA/Lesson%204/amir1_cjghby.mp4",
+                "duration": 48,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067041/Hantera%20Stress%20YA/Lesson%204/amir1_cjghby.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758838/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-amir-EN_aebx7x.vtt"
+              },
+              {
+                "title": "Emilia",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067049/Hantera%20Stress%20YA/Lesson%204/emilia1_mgqlir.mp4",
+                "duration": 59,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067049/Hantera%20Stress%20YA/Lesson%204/emilia1_mgqlir.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758858/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-emilia-EN_btoixi.vtt"
+              },
+              {
+                "title": "Hillevi",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067033/Hantera%20Stress%20YA/Lesson%204/hillevi1_aew4qh.mp4",
+                "duration": 42,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067033/Hantera%20Stress%20YA/Lesson%204/hillevi1_aew4qh.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758877/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-hillevi-EN_pgldbb.vtt"
+              },
+              {
+                "title": "Julie",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067037/Hantera%20Stress%20YA/Lesson%204/julie1_z1dltp.mp4",
+                "duration": 39,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067037/Hantera%20Stress%20YA/Lesson%204/julie1_z1dltp.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623758898/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-julie-EN_iomlgd.vtt"
               }
             ]
           },
@@ -66,14 +60,69 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Visa mig",
+                "sectionId": "96c9d572-4aa0-420e-a437-698c3a46361d",
+                "content": "Next"
+              }
+            ]
+          }
+        ],
+        "alias": "Videos"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "96c9d572-4aa0-420e-a437-698c3a46361d",
+        "title": "Exercise",
+        "alias": "Exercise: Your boundaries",
+        "content": "Write down all your answers.\n\n1. Think of a situation when you **said yes** to something even though you really **meant** **no**. \n\n*For example: gave into peer pressure, took it upon yourself to fix something for another person even though you didn’t have the time.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "9e05d689-0f74-40db-9d60-8dadc4cddca0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9e05d689-0f74-40db-9d60-8dadc4cddca0",
+        "content": "2. Now think of a **situation** in your life where **you'd** **like** to say **no**. Make concrete plans. What exact words can you use to communicate 'no'? \n3. If you say **no** to this, what **other** **things** will be easier to say **yes** to?",
+        "alias": "Exercise: Your boundaries 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "24e8b7d8-b563-47e2-a24c-6779a97f18ea"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "24e8b7d8-b563-47e2-a24c-6779a97f18ea",
+        "alias": "Saying no",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Saying no can be difficult. So we’ve gathered some tips for you to help you practice."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Show me",
                 "sectionId": "f71e44a6-809c-4d50-96a5-a7e9e18570ae"
               },
               {
-                "component": "Button",
-                "content": "Hoppa över",
+                "component": "NextConversationButton",
+                "content": "Skip this",
                 "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
-                "sectionId": "root"
+                "variant": "primary"
               }
             ]
           }
@@ -82,49 +131,99 @@
       {
         "type": "editorialWithImage",
         "id": "f71e44a6-809c-4d50-96a5-a7e9e18570ae",
-        "content": "* Var lugn och tydlig. Det innebär till exempel att prata i normal ton. Behålla avslappnad ögonkontakt. Vara beskrivande snarare än anklaga när du tar upp ett problem.\n* Inled med ett tack, och sedan ett nej: ”Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.”\n* Om du är osäker, be om lite betänketid: \"Tack för att du frågar, funkar det om jag svarar imorgon?\"\n* Se om du kan vara lite mer ärlig istället för att dra en vit lögn: \"Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu.\"",
-        "alias": "x",
+        "content": "* Speak calmly and clearly. Maintain relaxed eye contact.\n* Be descriptive rather than accusatory when addressing an issue.\n* Start with a thank you, and then a no: *“Oh, that sounds fun. Thank you for inviting me! Unfortunately, I can't come. \"*\n* If you’re unsure, ask for some time to think: \"*Is it OK if I answer tomorrow?*\"\n* Try to be honest instead of telling a white lie: \"*Thank you for asking. It seems exciting, but I don't really feel like it right now*.\"",
+        "alias": "Show me",
         "buttons": [
           {
-            "component": "Button",
-            "content": "Fortsätt",
+            "component": "NextConversationButton",
+            "content": "Continue",
             "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
-            "sectionId": "root"
+            "variant": "primary"
           }
-        ]
+        ],
+        "title": "Saying no"
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
-    "alias": "Stress YA Att säga Nej och ja 2",
+    "alias": "Stress YA: Saying yes and no 2",
     "root": "a0e6973b-3430-47a7-a673-c5cd9c642ef7",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "a0e6973b-3430-47a7-a673-c5cd9c642ef7",
         "alias": "Undersök vad du vill",
-        "title": "Vad vill du?",
-        "content": "Ett skäl till att vi inte sätter gränser är att vi ibland inte själva vet vad vi vill. Så vi gör det som andra föreslår. Ett viktigt steg är därför att undersöka vad *du vill*, särskilt i situationer där du vet att du har svårt att säga nej.\n\nSå, nu ska du få titta inåt och fundera på ett område där du skulle vilja sätta tydligare gränser. Situationer där det kan vara lätt att säga ja, fast du egentligen vill säga nej.",
+        "title": "Vad vill du göra?",
+        "content": "Ett skäl till att vi inte sätter gränser är att vi ibland **inte själva vet vad vi vill.** Så vi gör det som andra föreslår. Ett viktigt steg är därför att undersöka vad du vill.\n\nSå, du ska nu få titta inåt och fundera på ett område där du skulle vilja sätta tydligare gränser.",
         "buttons": [
           {
             "component": "Button",
             "content": "Jag är redo",
-            "sectionId": "932ab8bd-8120-4181-87f7-7df489e9d832"
+            "sectionId": "6232b044-f1c0-4e24-84a9-87f318ce4baf"
           }
         ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "6232b044-f1c0-4e24-84a9-87f318ce4baf",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Amir",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067041/Hantera%20Stress%20YA/Lesson%204/amir1_cjghby.mp4",
+                "duration": 48,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067041/Hantera%20Stress%20YA/Lesson%204/amir1_cjghby.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607614/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-amir_nyxxhr.vtt"
+              },
+              {
+                "title": "Emilia",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067049/Hantera%20Stress%20YA/Lesson%204/emilia1_mgqlir.mp4",
+                "duration": 59,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067049/Hantera%20Stress%20YA/Lesson%204/emilia1_mgqlir.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607614/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-emilia_lt4qti.vtt"
+              },
+              {
+                "title": "Hillevi",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067033/Hantera%20Stress%20YA/Lesson%204/hillevi1_aew4qh.mp4",
+                "duration": 42,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067033/Hantera%20Stress%20YA/Lesson%204/hillevi1_aew4qh.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607614/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-hillevi_bfjv6s.vtt"
+              },
+              {
+                "title": "Julie",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067037/Hantera%20Stress%20YA/Lesson%204/julie1_z1dltp.mp4",
+                "duration": 39,
+                "imageUri": "https://res.cloudinary.com/twentyninek/video/upload/v1616067037/Hantera%20Stress%20YA/Lesson%204/julie1_z1dltp.png",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621607614/Hantera%20Stress%20YA/subtitles/Fra%CC%8Aga_4_del_1-julie_htfrsz.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "932ab8bd-8120-4181-87f7-7df489e9d832",
+                "content": "Fortsätt"
+              }
+            ]
+          }
+        ],
+        "alias": "Videos"
       },
       {
         "type": "editorialWithImage",
         "id": "932ab8bd-8120-4181-87f7-7df489e9d832",
         "alias": "Övning: Dina gränser",
-        "title": "Övning: Dina gränser",
-        "content": "1. Tänk på en situation där du sa ja till något fast att du egentligen inte ville, och som kanske fick dig att må dåligt eller hindrade dig att göra något annat som du tycker är viktigt.\n\nSkriv ner ditt svar någonstans där bara du ser det.\n\n*Exempelvis: när du testade på någonting fastän du egentligen inte ville, när du föll för grupptryck, när du tog på dig att fixa någonting åt en annan person fast du inte hade tid för det.*",
+        "title": "Övning",
+        "content": "Skriv ner alla dina svar.\n\n1. Tänk på en situation där du **sa ja** till något **fast** **du egentligen inte ville**.\n\n*Exempelvis: när du föll för grupptryck, när du tog på dig att fixa någonting åt en annan person fast du inte hade tid för det.*",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Färdig",
             "sectionId": "f6dc7042-3a42-4b44-b661-1457d8dd936f"
           }
         ]
@@ -133,11 +232,11 @@
         "type": "editorialWithImage",
         "id": "f6dc7042-3a42-4b44-b661-1457d8dd936f",
         "alias": "Övning: Dina gränser 2",
-        "content": "2. Tänk nu på en situation i ditt liv där du skulle vilja säga nej. Gör konkreta planer för hur du vill svara när du får frågan. \n\n3. Om du säger nej till det här, vilka andra saker skulle det bli lättare att säga ja till?\n\nSkriv ner dina svar någonstans där bara du ser det.",
+        "content": "2. Tänk nu på en situation i ditt liv där du skulle vilja säga nej. Gör konkreta planer. Vilka ord kan du använda för att kommunicera ditt \"nej\"?\n3. Om du säger **nej** till det här, vilka **andra** **saker** skulle det bli lättare att säga **ja** till?",
         "buttons": [
           {
             "component": "Button",
-            "content": "Färdig",
+            "content": "Klar",
             "sectionId": "4c8a23cf-9685-4005-b0c2-0c45b4dcc8fd"
           }
         ]
@@ -152,7 +251,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Det kan som sagt vara svårt att säga nej, därför har vi samlat några råd som kan vara användbara om du vill öva på att säga nej."
+                "content": "Det kan som sagt vara svårt att säga nej. Därför har vi samlat några råd som kan vara användbara om du vill öva på att säga nej."
               }
             ]
           },
@@ -165,9 +264,10 @@
                 "sectionId": "70fb88e0-f18c-4d99-ab53-459b8f4b1773"
               },
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Hoppa över",
-                "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe"
+                "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+                "variant": "primary"
               }
             ]
           }
@@ -183,7 +283,84 @@
             "content": [
               {
                 "component": "Text",
-                "content": "* Var lugn och tydlig. Det innebär till exempel att prata i normal ton. Behålla avslappnad ögonkontakt. Vara beskrivande snarare än anklaga när du tar upp ett problem.\n* Inled med ett tack, och sedan ett nej: ”Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.”\n* Om du är osäker, be om lite betänketid: \"Tack för att du frågar, funkar det om jag svarar imorgon?\"\n* Se om du kan vara lite mer ärlig istället för att dra en vit lögn: \"Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu.\""
+                "content": "## Säg nej\n\n* Tala lugnt och tydligt. Behåll avslappnad ögonkontakt. \n* Var beskrivande snarare än anklagande.\n* Inled med ett tack, och sedan ett nej: ”*Åh, det låter roligt. Tack för att du bjuder mig! Tyvärr kan jag inte komma.*”\n* Om du är osäker, be om lite betänketid: \"*Funkar det om jag svarar imorgon*?\"\n* Försök vara ärlig istället för att dra en vit lögn: \"*Åh, tack för att du frågar, det verkar spännande, men jag känner inte riktigt för det just nu\".*"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Fortsätt",
+                "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "d85cb08a-ee72-4583-9fe2-27967f2edc8e",
+    "alias": "Stress YA: Saying yes and no 2",
+    "root": "0923429b-6f61-4b14-8e34-1f7e4e8d4554",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "0923429b-6f61-4b14-8e34-1f7e4e8d4554",
+        "alias": "Entende o que queres",
+        "title": "Então o que queres?",
+        "content": "Uma razão pela qual não estabelecemos limites é porque **não sabemos o que queremos**. Então fazemos o que os outros sugerem. É por isso que entenderes o que queres é importante.\n\nAgora é contigo. É hora de mergulhares numa área da tua vida onde gostarias de estabelecer limites.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos fazer isto",
+            "sectionId": "530e3b0c-a945-4dd9-8994-f4dca7f20bc7"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "530e3b0c-a945-4dd9-8994-f4dca7f20bc7",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Rita Rocha",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360859/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Videos/Rita_Rocha_-_Lidar_com_o_Stress_L4V1_nfwdla.mp4",
+                "duration": 99,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366773/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Rocha/Photos/Rita_Rocha_-_Dizer_n%C3%A3o_e_sim_-_video_1_zlmrxs.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Zicky Té",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361636/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Videos/Zicky_T%C3%A9_-_Lidar_Com_o_Stress_-_Li%C3%A7%C3%A3o_4_Dizer_n%C3%A3o_e_sim_Video_1_yltszp.mp4",
+                "duration": 195,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366642/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Zicky%20T%C3%A9/Photos/Li%C3%A7%C3%A3o_4_-_dizer_n%C3%A3o_e_sim_-_video_1_hcnsfe.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rita",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360611/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Videos/Rita_-_Lidar_com_o_Stress_L4V1_ligonh.mp4",
+                "duration": 74,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366947/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rita%20Lopes/Photos/Dizer_n%C3%A3o_e_sim_-_video_1_ljvsur.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Rodrigo",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650361090/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Videos/L4V1_-_Rodrigo_Ara%C3%BAjo-_Lidar_com_o_Stress_ru8tgm.mp4",
+                "duration": 120,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650366867/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Rodrigo%20Ara%C3%BAjo/Photos/dizer_n%C3%A3o_e_sim_-_video_1_ybcyyz.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Francisca",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360475/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Videos/L4V1_-_Francisca_Costa_-_Lidar_com_o_stress_d6xplv.mp4",
+                "duration": 126,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650367026/29k%20FJN/Young%20Segment/Courses/Deal%20with%20stress/Francisca%20Costa/Photos/Dizer_que_n%C3%A3o_e_sim_-_video_1_eysvmq.jpg"
               }
             ]
           },
@@ -192,13 +369,88 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
+                "sectionId": "96c9d572-4aa0-420e-a437-698c3a46361d",
+                "content": "Seguinte "
+              }
+            ]
+          }
+        ],
+        "alias": "Videos"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "96c9d572-4aa0-420e-a437-698c3a46361d",
+        "title": "Exercício",
+        "alias": "Exercício: os teus limites ",
+        "content": "Anota todas as tuas respostas.\n\n1. Pensa numa situação em que **disseste sim** a algo quando realmente **querias dizer não**.\n\n*Por exemplo: cedeste à pressão das/os colegas, assumiste a responsabilidade de resolver algo a outra pessoa, mesmo que não tivesses tempo.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Já fiz",
+            "sectionId": "9e05d689-0f74-40db-9d60-8dadc4cddca0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "9e05d689-0f74-40db-9d60-8dadc4cddca0",
+        "content": "2. Agora pensa numa **situação** da tua vida em que gostarias **de dizer** não. Traça planos concretos. Que palavras exatas podes usar para comunicar 'não'?\n3. Se disseres **não** a essa situação, a que **outras** **coisas** será mais fácil dizeres **sim**?",
+        "alias": "Exercício: os teus limites 2",
+        "title": "",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Já fiz",
+            "sectionId": "24e8b7d8-b563-47e2-a24c-6779a97f18ea"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "24e8b7d8-b563-47e2-a24c-6779a97f18ea",
+        "alias": "Dizer não",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Dizer não pode ser difícil. Por isso, reunimos algumas dicas para te ajudar a praticar."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mostra-me",
+                "sectionId": "f71e44a6-809c-4d50-96a5-a7e9e18570ae"
+              },
+              {
+                "component": "NextConversationButton",
+                "content": "Ignorar",
                 "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
-                "sectionId": "root"
+                "variant": "primary"
               }
             ]
           }
         ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f71e44a6-809c-4d50-96a5-a7e9e18570ae",
+        "content": "* Fala com calma e clareza. Mantém contacto visual relaxado.\n* Sê descritiva/o em vez de acusatória/o ao abordar um problema.\n* Começa com um agradecimento e depois um não: *“Ah, isso parece divertido. Obrigada/o por me convidares! Infelizmente não posso ir.\"*\n* Se não tiveres a certeza, pede um tempo para pensar: \"não há problema em responder amanhã?\"\n* Tenta ser honesta/o em vez de contar uma mentira: \"*Obrigada/o por perguntares. Parece emocionante, mas não estou com vontade agora*.\"",
+        "alias": "Mostra-me",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "content": "Continuar",
+            "conversationId": "b69cf1c6-c319-4fb9-9eaa-fcb6023237fe",
+            "variant": "primary"
+          }
+        ],
+        "title": "Dizer não "
       }
     ]
   }

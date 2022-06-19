@@ -1,0 +1,296 @@
+{
+  "en": {
+    "id": "3bcf5236-edb2-4231-8b56-bdb8e345088f",
+    "alias": "Pt special Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "82c87910-2732-45a1-8c74-7c60e68063c6",
+        "alias": "Agir para mudar",
+        "title": "Agir para mudar",
+        "content": "Dar passos que **movem a tua vida numa direção com significado** é muito importante quando estás numa crise e a lidar com ansiedade.\n\nEsta lição ensina a **adotar medidas práticas** que podes utilizar em situações desafiantes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "19fcc3da-a5a0-4880-a2c7-430f34c008dc"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "19fcc3da-a5a0-4880-a2c7-430f34c008dc",
+        "content": "### Vais aprender mais acerca de:\n\n* Meditação\n* Resolução de problemas\n* Adotar medidas práticas\n\n### O que vais precisar:\n\n* 20 min de sossego sem interrupções\n* Caneta e papel",
+        "alias": "Today's lesson",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "656a0376-e640-472a-aebd-f8eae6825caf"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "656a0376-e640-472a-aebd-f8eae6825caf",
+        "alias": "Adotar medidas práticas",
+        "title": "Adotar medidas práticas",
+        "content": "Na nossa vida encontramos muitas situações difíceis, stressantes, dolorosas e sentimos frequentemente que **não temos outra escolha** para além de **aceitá-las**.\n\nIsto é particularmente verdade no meio de uma crise, quando a **ansiedade** parece uma nuvem negra de incerteza que nos deixa **paralisados**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0",
+        "alias": "Agir",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d77a8001-ba13-46de-9eac-aba6644c7b19"
+          }
+        ],
+        "content": "Mas na maioria das situações, não importa o quão desafiantes são, podes escolher **agir** e fazer alguma coisa.\n\nAo cismares e preocupares-te pode **parecer** que estás a **resolver o problema**, mas, na realidade, não progrides enquanto estiveres **preso** no **ciclo da ansiedade**."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d77a8001-ba13-46de-9eac-aba6644c7b19",
+        "alias": "Ajusta as tuas ações",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Próximo",
+            "sectionId": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d"
+          }
+        ],
+        "content": "Esta lição ensina-te a entrar em contacto com essa nuvem negra e a adotar ações concretas.\n\nEstas mudanças não têm de ser dramáticas. Muitas vezes, **pequenos ajustes** nas tuas **ações** são suficientes para um **impacto positivo** no teu bem-estar."
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "18ae1329-ec41-42f1-af35-1c2f1d596e8a"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620635336/Illustrations_Meditations/Thumbnail_Breathing_anchor_1_j1kyar.png",
+        "duration": "6:01",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429299/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_10_-_Breathing_Anchor_r7zkxc.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d",
+        "description": "Esta meditação vai ajudar-te a sentires-te mais **consciente** e **presente**, sendo uma preparação para o próximo exercício."
+      }
+    ],
+    "root": "82c87910-2732-45a1-8c74-7c60e68063c6"
+  },
+  "sv": {
+    "id": "3bcf5236-edb2-4231-8b56-bdb8e345088f",
+    "alias": "Pt special Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "82c87910-2732-45a1-8c74-7c60e68063c6",
+        "alias": "Agir para mudar",
+        "title": "Agir para mudar",
+        "content": "Dar passos que **movem a tua vida numa direção com significado** é muito importante quando estás numa crise e a lidar com ansiedade.\n\nEsta lição ensina a **adotar medidas práticas** que podes utilizar em situações desafiantes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "19fcc3da-a5a0-4880-a2c7-430f34c008dc"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "19fcc3da-a5a0-4880-a2c7-430f34c008dc",
+        "content": "### Vais aprender mais acerca de:\n\n* Meditação\n* Resolução de problemas\n* Adotar medidas práticas\n\n### O que vais precisar:\n\n* 20 min de sossego sem interrupções\n* Caneta e papel",
+        "alias": "Today's lesson",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "656a0376-e640-472a-aebd-f8eae6825caf"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "656a0376-e640-472a-aebd-f8eae6825caf",
+        "alias": "Adotar medidas práticas",
+        "title": "Adotar medidas práticas",
+        "content": "Na nossa vida encontramos muitas situações difíceis, stressantes, dolorosas e sentimos frequentemente que **não temos outra escolha** para além de **aceitá-las**.\n\nIsto é particularmente verdade no meio de uma crise, quando a **ansiedade** parece uma nuvem negra de incerteza que nos deixa **paralisados**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0",
+        "alias": "Agir",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d77a8001-ba13-46de-9eac-aba6644c7b19"
+          }
+        ],
+        "content": "Mas na maioria das situações, não importa o quão desafiantes são, podes escolher **agir** e fazer alguma coisa.\n\nAo cismares e preocupares-te pode **parecer** que estás a **resolver o problema**, mas, na realidade, não progrides enquanto estiveres **preso** no **ciclo da ansiedade**."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d77a8001-ba13-46de-9eac-aba6644c7b19",
+        "alias": "Ajusta as tuas ações",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Próximo",
+            "sectionId": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d"
+          }
+        ],
+        "content": "Esta lição ensina-te a entrar em contacto com essa nuvem negra e a adotar ações concretas.\n\nEstas mudanças não têm de ser dramáticas. Muitas vezes, **pequenos ajustes** nas tuas **ações** são suficientes para um **impacto positivo** no teu bem-estar."
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "18ae1329-ec41-42f1-af35-1c2f1d596e8a"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620635336/Illustrations_Meditations/Thumbnail_Breathing_anchor_1_j1kyar.png",
+        "duration": "6:01",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429299/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_10_-_Breathing_Anchor_r7zkxc.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d",
+        "description": "Esta meditação vai ajudar-te a sentires-te mais **consciente** e **presente**, sendo uma preparação para o próximo exercício."
+      }
+    ],
+    "root": "82c87910-2732-45a1-8c74-7c60e68063c6"
+  },
+  "pt": {
+    "id": "3bcf5236-edb2-4231-8b56-bdb8e345088f",
+    "alias": "Pt special Coping with crisis 3: Act for change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "82c87910-2732-45a1-8c74-7c60e68063c6",
+        "alias": "Agir para mudar",
+        "title": "Agir para mudar",
+        "content": "Dar passos que **movem a tua vida numa direção com significado** é muito importante quando estás numa crise e a lidar com ansiedade.\n\nEsta lição ensina a **adotar medidas práticas** que podes utilizar em situações desafiantes.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "19fcc3da-a5a0-4880-a2c7-430f34c008dc"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709101/cagatay-orhan-PYh4QCX_fmE-unsplash_f6ipy3.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "19fcc3da-a5a0-4880-a2c7-430f34c008dc",
+        "content": "### Vais aprender mais acerca de:\n\n* Meditação\n* Resolução de problemas\n* Adotar medidas práticas\n\n### O que vais precisar:\n\n* 20 min de sossego sem interrupções\n* Caneta e papel",
+        "alias": "Today's lesson",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "656a0376-e640-472a-aebd-f8eae6825caf"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "656a0376-e640-472a-aebd-f8eae6825caf",
+        "alias": "Adotar medidas práticas",
+        "title": "Adotar medidas práticas",
+        "content": "Na nossa vida encontramos muitas situações difíceis, stressantes, dolorosas e sentimos frequentemente que **não temos outra escolha** para além de **aceitá-las**.\n\nIsto é particularmente verdade no meio de uma crise, quando a **ansiedade** parece uma nuvem negra de incerteza que nos deixa **paralisados**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "232ed37b-4bbb-4c6e-8cab-725dcc0973c0",
+        "alias": "Agir",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "d77a8001-ba13-46de-9eac-aba6644c7b19"
+          }
+        ],
+        "content": "Mas na maioria das situações, não importa o quão desafiantes são, podes escolher **agir** e fazer alguma coisa.\n\nAo cismares e preocupares-te pode **parecer** que estás a **resolver o problema**, mas, na realidade, não progrides enquanto estiveres **preso** no **ciclo da ansiedade**."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "d77a8001-ba13-46de-9eac-aba6644c7b19",
+        "alias": "Ajusta as tuas ações",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Próximo",
+            "sectionId": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d"
+          }
+        ],
+        "content": "Esta lição ensina-te a entrar em contacto com essa nuvem negra e a adotar ações concretas.\n\nEstas mudanças não têm de ser dramáticas. Muitas vezes, **pequenos ajustes** nas tuas **ações** são suficientes para um **impacto positivo** no teu bem-estar."
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "18ae1329-ec41-42f1-af35-1c2f1d596e8a"
+          }
+        ],
+        "alias": "Meditação",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1620635336/Illustrations_Meditations/Thumbnail_Breathing_anchor_1_j1kyar.png",
+        "duration": "6:01",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429299/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_10_-_Breathing_Anchor_r7zkxc.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "d85c0bc2-83ca-4a1e-a86d-5d9900e7c82d",
+        "description": "Esta meditação vai ajudar-te a sentires-te mais **consciente** e **presente**, sendo uma preparação para o próximo exercício."
+      }
+    ],
+    "root": "82c87910-2732-45a1-8c74-7c60e68063c6"
+  }
+}

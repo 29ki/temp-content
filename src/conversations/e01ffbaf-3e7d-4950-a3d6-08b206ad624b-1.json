@@ -1,0 +1,64 @@
+{
+  "en": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Being intentional vs Being in control",
+        "content": "When our world suddenly stops, it’s normal to experience a range of powerful emotions. Living a value-driven life doesn’t come with a promise that we will be happy 100% of the time. All emotions come and go in waves, and happiness is no exception.\n\nInstead of chasing happiness, living a value-driven life requires being intentional about our actions, knowing that the actions themselves may change overtime. Being intentional means spending a lot of time and energy on **taking action** where it matters the most.\n\nIn contrast, being in control means spending a lot of time and energy on **optimising and eliminating** things we don’t like. And when our reality differs from our expectations, we’re prone to experience difficult emotions.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "alias": "Meaning-making in a crisis: Acceptance 2",
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Att vara avsiktlig vs att ha kontroll",
+        "content": "När världen plötsligt stannar är det vanligt att uppleva jobbiga känslor. Och då hamnar vi lätt i att vilja **kontrollera** dem, bli av med dem eller försöka minska dem. \n\nKontroll innebär att vi spenderar tid och energi på att **optimera** och **bli av med** saker som vi inte gillar. Och när verkligheten inte motsvarar våra förväntningar är det lätt att reagera med ännu mer ilska, ledsamhet eller irritation.\n\nI stället för att jaga lycka innebär ett liv där värderingar styr, att vi är **avsiktliga** med våra beteenden. Att vara avsiktlig är att ägna tid och energi åt det som **betyder** mest, även om det ibland innebär att vi på köpet upplever jobbiga känslor.\n\nAtt låta värderingar styra beteenden innebär inte att vi kommer att vara lyckliga 100% av tiden. Känslor är flyktiga och lycka är inget undantag.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section4"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "alias": "Meaning-making in a crisis: Acceptance 2",
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Ser intencional vs Estar no controlo",
+        "content": "Quando o nosso mundo colapsa de repente, é normal experienciarmos uma série de emoções poderosas. Viver uma vida orientada por valores não traz a promessa de que seremos felizes 100% do tempo. Todas as emoções vêm e vão como ondas, a felicidade não é exceção.\n\nEm vez de perseguir a felicidade, viver uma vida orientada por valores requer ser intencional com as nossas ações, sabendo que as próprias ações podem mudar com o tempo. Ser intencional significa gastar muito tempo e energia **agindo** onde é mais importante.\n\nEm contraste, estar no controlo significa gastar muito tempo e energia **otimizando e eliminando** as coisas de que não gostamos. E, quando a nossa realidade difere das nossas expetativas, ficamos mais propensos a experienciar emoções difíceis.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      }
+    ]
+  }
+}

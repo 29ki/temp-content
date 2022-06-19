@@ -1,0 +1,285 @@
+{
+  "en": {
+    "id": "514db0c6-204d-4b9a-94d7-4b208bcd1728",
+    "alias": "Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "1. What was your experience of using structured problem-solving?\n2. How was this different to what you would do normally?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "7c6088a6-822c-4c13-a8e3-92a5ef3e6fe2",
+            "content": "I'm done"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Evaluation",
+        "title": "",
+        "type": "writing",
+        "id": "a2c81839-8f53-4cd4-83d2-3859555012b9"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7c6088a6-822c-4c13-a8e3-92a5ef3e6fe2",
+        "alias": "Completion Screen",
+        "content": "In this short course you've become equipped with tools for coping with change.\n\nAs practice over time is crucial, we highly recommend that you continue practicing your tools over and over again. So, the next step on your path is to reflect on what you've learned and how that can help you going forward.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "301cc97c-6118-44fe-9c62-088d83ec7a9d",
+            "content": "Next "
+          }
+        ],
+        "title": "Keep practicing"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "301cc97c-6118-44fe-9c62-088d83ec7a9d",
+        "title": "Writing exercise",
+        "alias": "writing exercise number 2",
+        "shortDescription": "",
+        "longDescription": "Write down your answers.\n\n1. What tools help you cope with change?\n2. What, if anything, has changed for you since you've started this course?\n3. Why is it important to you to keep developing your toolkit for managing change?\n4. What are the most important lessons you want to carry with you?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "I'm done",
+            "sectionId": "97270851-ad3c-47f4-980f-b7806b287a41"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "97270851-ad3c-47f4-980f-b7806b287a41",
+        "exampleText": "That there are tools that can help me face difficult emotions. That dwelling isn't the same thing as problem solving. That I have the power within me to live a life that is meaningful to me.",
+        "alias": "Sharing wall",
+        "question": "What have you learned about yourself during this course?",
+        "nextSection": "f7702374-b24c-413e-a42e-1af13c9d1b3f"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f7702374-b24c-413e-a42e-1af13c9d1b3f",
+        "content": "Well done for completing **Act for change**!\n\nTo continue your practice, we recommend incorporating the tools you've found helpful into your life\n\nYou may also like to check out our other courses, for examples on values and self-compassion.\n\nFor the **research** behind this course, you’ll find references on our [website](https://29k.org/research).\n\nLove,\n\nThe 29k-team",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "What's next",
+            "sectionId": "0aa656f1-f0d5-462c-8399-c1c1cdf4189a"
+          }
+        ],
+        "alias": "well done",
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0aa656f1-f0d5-462c-8399-c1c1cdf4189a",
+        "alias": "Sharing question",
+        "title": "Sharing",
+        "content": "You are now ready for the next step — to share with your group.\n\nRemember the questions:\n\n1. How do you normally process difficult emotions? Do you open up to them or try to avoid, control or suppress them?\n2. Why is it important to you to keep working on coping with anxiety and worry?\n3. What are the most important lessons you want to carry with you?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Finish"
+          }
+        ]
+      }
+    ],
+    "root": "a2c81839-8f53-4cd4-83d2-3859555012b9"
+  },
+  "sv": {
+    "id": "514db0c6-204d-4b9a-94d7-4b208bcd1728",
+    "alias": "Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "1. Vad var din upplevelse av att använda strukturerad problemlösning?\n2. Hur skiljer det sig från hur du brukar göra när du stöter på problem?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "555e3800-122c-405c-be6b-aeb5fe9d4b21"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Utvärdering",
+        "title": "",
+        "type": "writing",
+        "id": "bd6f8113-f895-477c-b955-eead8071615b"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "555e3800-122c-405c-be6b-aeb5fe9d4b21",
+        "title": "Fortsätta träna",
+        "content": "Under den här korta kursen har du utforskat några verktyg för att hantera förändring.\n\nOm du vill befästa dina nya kunskaper kan du fortsätta träna på det du har lärt dig – mycket och ofta.\n\nNästa steg är att reflektera över vad du har lärt dig och hur det kan hjälpa dig vidare i livet.",
+        "alias": "completion screen",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "3bb3ca96-0214-46a0-b9f9-3f7c755df19e",
+            "content": "Nästa"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "3bb3ca96-0214-46a0-b9f9-3f7c755df19e",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Jag är klar",
+            "sectionId": "6aee5d42-6368-4bf6-b1a5-869b6528505a"
+          }
+        ],
+        "longDescription": "Skriv ned dina svar.\n\n1. Vilka verktyg kan hjälpa dig att hantera förändring?\n2. Vad, om något, har förändrats för dig sedan du började jobba med kursen?\n3. Varför kan det vara viktigt för dig att fortsätta att utveckla din verktygslåda för att hantera förändring?\n4. Vad är det viktigaste du har lärt dig under kursen?",
+        "title": "Övning",
+        "alias": "övning 2"
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "6aee5d42-6368-4bf6-b1a5-869b6528505a",
+        "nextSection": "fa8753bc-1d8b-424f-b33e-11f937a10f0f",
+        "question": "Vad har du lärt dig om dig själv under den här kursen?",
+        "exampleText": "Att jag kan hantera sånt som är svårt. Att älta inte är samma sak som att hantera ett problem. Att jag kan göra meningsfulla saker även i svåra situationer.",
+        "alias": "sharing wall"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "fa8753bc-1d8b-424f-b33e-11f937a10f0f",
+        "content": "Du är nu klar med **Agera för förändring** och hela den här kursen. \n\nFör att fortsätta träna rekommenderar vi att du regelbundet använder de verktyg du har lärt dig i vekrliga livet.\n\nDu kanske också vill kolla in våra andra kurser, till exempel om relationer eller självmedkänsla. \n\nForskningen bakom den här kursen hittar du på vår [hemsida](https://29k.org/research).\n\nKärlek,\n\n29k-teamet",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vad händer nu?",
+            "sectionId": "a2600cfe-422a-4f33-bd7f-5001f90fb98c"
+          }
+        ],
+        "alias": "bra jobbat"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a2600cfe-422a-4f33-bd7f-5001f90fb98c",
+        "content": "Du är nu redo för nästa viktiga steg – att dela med din grupp.\n\nKom ihåg frågorna:\n\n1. Hur bearbetar du vanligtvis svåra känslor? Öppnar du dig för dem eller försöker du undvika, kontrollera eller trycka undan dem?\n2. Varför är det viktigt för dig att fortsätta arbeta på att hantera oro och ångest?\n3. Vad är det viktigaste du tar med dig från kursen?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Avsluta"
+          }
+        ],
+        "alias": "Delning",
+        "title": "Delning"
+      }
+    ],
+    "root": "bd6f8113-f895-477c-b955-eead8071615b"
+  },
+  "pt": {
+    "id": "514db0c6-204d-4b9a-94d7-4b208bcd1728",
+    "alias": "Coping with crisis 3: Act for change 3",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "1. Como foi a tua experiência ao utilizar a resolução estruturada de problemas?\n2. De que forma foi diferente do que farias normalmente?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "7c6088a6-822c-4c13-a8e3-92a5ef3e6fe2",
+            "content": "Terminei"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "question": "",
+        "time": "",
+        "alias": "Avaliação",
+        "title": "",
+        "type": "writing",
+        "id": "a2c81839-8f53-4cd4-83d2-3859555012b9"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7c6088a6-822c-4c13-a8e3-92a5ef3e6fe2",
+        "alias": "Completion Screen",
+        "content": "Neste curso de curta duração, usaste e ficaste com um conjunto de ferramentas que te ajudam a lidar com a mudança.\n\nComo a prática ao longo do tempo é crucial, recomendamos que continues a utilizar estas ferramentas de forma contínua. O próximo passo nesta caminhada é refletires sobre o que aprendeste e como isso te pode ajudar a seguir em frente.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "301cc97c-6118-44fe-9c62-088d83ec7a9d",
+            "content": "Continuar"
+          }
+        ],
+        "title": "Continua a praticar"
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "301cc97c-6118-44fe-9c62-088d83ec7a9d",
+        "title": "Exercício 2",
+        "alias": "Exercício 2",
+        "shortDescription": "",
+        "longDescription": "Escreve as tuas respostas.\n\n1. Que ferramentas te ajudaram a lidar com a mudança?\n2. O que mudou para ti, se é que mudou, desde que iniciaste este curso?\n3. Por que é importante continuares a desenvolver o teu kit de ferramentas de gestão da mudança?\n4. Quais são as lições mais importantes que vais levar contigo?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Terminei",
+            "sectionId": "97270851-ad3c-47f4-980f-b7806b287a41"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "enableEarlySkip": true,
+        "id": "97270851-ad3c-47f4-980f-b7806b287a41",
+        "exampleText": "Que existem ferramentas que me podem ajudar a enfrentar emoções difíceis. Que tenho o poder para viver uma vida com mais significado para mim.",
+        "alias": "Sharing wall",
+        "question": "O que aprendeste acerca de ti durante este curso?",
+        "nextSection": "f7702374-b24c-413e-a42e-1af13c9d1b3f"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f7702374-b24c-413e-a42e-1af13c9d1b3f",
+        "content": "Parabéns por completares **Agir para mudar**!\n\nPara continuares a tua prática, recomendamos a incorporares no teu dia a dia as ferramentas que te foram mais úteis.\n\nTambém podes explorar outros conteúdos da aplicação como por exemplo os cursos de valores e autocompaixão.\n\nUm abraço da equipa 29k FJN",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "0aa656f1-f0d5-462c-8399-c1c1cdf4189a"
+          }
+        ],
+        "alias": "Parabéns",
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "0aa656f1-f0d5-462c-8399-c1c1cdf4189a",
+        "alias": "Questão de partilha",
+        "title": "Partilha",
+        "content": "Agora estás pronta/o para a próxima etapa — partilhar com o teu grupo.\n\nLembra-te das perguntas:\n\n1. Como processas normalmente as emoções difíceis? Abres-te para elas ou tentas evitá-las, controlá-las ou suprimi-las?\n2. Por que é importante continuares a trabalhar para lidar com a ansiedade e a preocupação?\n3. Quais são as lições mais importantes que queres levar contigo?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Terminar"
+          }
+        ]
+      }
+    ],
+    "root": "a2c81839-8f53-4cd4-83d2-3859555012b9"
+  }
+}

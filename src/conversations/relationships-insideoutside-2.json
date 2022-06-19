@@ -1,8 +1,7 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationships-insideoutside-2",
-    "alias": "relationships-insideoutside-2",
+    "alias": "YA building relationships 4: insideoutside-2",
     "root": "1",
     "sections": [
       {
@@ -10,11 +9,17 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621342209/Relationship%20Course%20YA/Heading_Relationships_inside_OUTSIDE_sqcaqu.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "Look at this picture. Focus on the guy in this image. Imagine that he came up to you. What would you think of him?\n\n(Buttons:)\n\nHe’s cool\n\nHe’s confident\n\nHe’s popular\n\nAll of the above\n\n\n\nADD PICTURE OF GUY -- CANT BE DONE UNTIL WE HAVE CLEARED OK ON PIC IN NOTION"
+                "content": "Look at this picture. Focus on the guy in this image. Imagine that he came up to you. What would you think of him?"
               }
             ]
           },
@@ -23,8 +28,22 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Next",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "He's cool",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "He's confident",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "He's popular",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "All of the above",
                 "sectionId": "2"
               }
             ]
@@ -41,7 +60,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "All of the above are correct. It’s likely you’d think he is both cool, confident and popular. Why? Because of how he *looks on the outside*. That’s all.\n\nNow, consider how you would feel if you met this guy. Intimidated? Nervous? Or confident to talk to him?"
+                "content": "All that above is true. It’s likely you’d think he is both cool, confident and popular. Why? Because of how he **looks on the outside**.\n\nNow, consider how you would feel if you met this guy. Intimidated? Nervous? Or confident enough to talk to him?"
               }
             ]
           },
@@ -50,8 +69,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Continue",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "Next",
                 "sectionId": "3"
               }
             ]
@@ -68,7 +86,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "It's likely that most of us would feel both intimated and nervous - perhaps even too shy to connect with him. We'd shy away because he seemed \"too cool\". Out of our league. This reaction is based on *our own feelings.*\n\nBut what if we are wrong?"
+                "content": "It is quite likely that most people would feel both scared and nervous – maybe even too shy to talk to him. We would withdraw because he seemed \"too cool\", someone who plays outside our league. This reaction is based on **our own feelings.** \n\nBut what if we're wrong?"
               }
             ]
           },
@@ -77,8 +95,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "More",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "Go on",
                 "sectionId": "4"
               }
             ]
@@ -91,11 +108,17 @@
         "alias": "4",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621342338/Relationship%20Course%20YA/Heading_Relationships_INSIDE_outside_1_qlyt5q.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "Now, look again. What does the **full** picture reveal?\n\nINSERT PICTURE WHEN CLEARED OK\n\nA. He feels sad but isn't showing it."
+                "content": "Now, look again. What does the **full** picture reveal?"
               }
             ]
           },
@@ -104,8 +127,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Next",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "He's heartbroken",
                 "sectionId": "5"
               }
             ]
@@ -122,7 +144,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "This is what we mean by inside-outside vision. From the *outside* this guy looks super funky and cool, but on the *inside* he’s feeling really low. \n\nOnly you can’t see he’s sad because he doesn’t *want* you to see it. He’s hiding it."
+                "content": "This is what we mean by inside-outside vision. From the **outside** this guy looks super funky and cool, but on the **inside** he’s feeling really low. \n\nOnly you can’t see he’s sad because he doesn’t **want** you to see it. He’s hiding his feelings."
               }
             ]
           },
@@ -132,7 +154,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "6"
               }
             ]
@@ -149,7 +170,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "The thing is, for various reasons, we all **hide our inner selves sometimes.** And because we don't share our true selves, it can influence our relationships.\n\nHave you done this too? Are there times when you feel low and yet put on a smile? Times when you feel anxious or annoyed but you never let on? If you said yes, then you are like most people."
+                "content": "The thing is, for various reasons, we all **hide our inner selves sometimes.** And because we don't share our true selves, it can affect our relationships.\n\nHave you done this too? Put on a smile when you were low?  Felt anxious or annoyed but not shown it? If the answer is yes, then you're like most of us."
               }
             ]
           },
@@ -159,7 +180,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "7"
               }
             ]
@@ -176,7 +196,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "On the *outside* we can *appear* to be happy and confident.\n\nBu on the *inside* we can be scared or sad.\n\nWe can even be angry."
+                "content": "On the **outside** we can **appear** to be happy and confident.\n\nBut on the **inside** we can be scared or sad.\n\nWe can even be angry."
               }
             ]
           },
@@ -186,7 +206,6 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "8"
               }
             ]
@@ -203,7 +222,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "The skill of inside-outside vision can both help us understand and be understood.\n\nWhen you become aware of that there's usually more to the picture than you can see at a first glance, it may also help you connect more with others. We all have our inner world hidden away. And you’ll learn how to reach out to others when you need help too."
+                "content": "The skill of inside-outside vision can help us both **understand** and be understood.\n\nWhen we practice understanding **more than we see** on the outside, it can help us get **closer** to other people. And the knowledge that we are all hiding parts of our inner world can also make us ask for help sometimes. \n\nIt is just as difficult for **others** to understand what is **going on inside** us as it is for us to understand what is going on inside **them**."
               }
             ]
           },
@@ -211,10 +230,10 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Let's go",
                 "conversationId": "relationships-insideoutside-3",
-                "sectionId": "1"
+                "variant": "primary"
               }
             ]
           }
@@ -224,9 +243,8 @@
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationships-insideoutside-2",
-    "alias": "relationships-insideoutside-2",
+    "alias": "YA building relationships 4: insideoutside-2",
     "root": "1",
     "sections": [
       {
@@ -234,11 +252,17 @@
         "alias": "1",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621342209/Relationship%20Course%20YA/Heading_Relationships_inside_OUTSIDE_sqcaqu.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "Kolla på den här bilden. Fokusera på killen. Föreställ dig att han kom fram till dig. Vad skulle du tänka om honom?\n\n(Knappar:)\n\nHan är cool\n\nHan är självsäker\n\nHan är populär\n\nAlla ovan\n\nADD PICTURE OF GUY -- CANT BE DONE UNTIL WE HAVE CLEARED OK ON PIC IN NOTION"
+                "content": "Kolla på den här bilden. Fokusera på killen. Föreställ dig att han kom fram till dig. Vad skulle du tänka om honom?"
               }
             ]
           },
@@ -247,8 +271,22 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "Han är cool",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "Han är självsäker",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "Han är populär",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "Allt ovan",
                 "sectionId": "2"
               }
             ]
@@ -265,7 +303,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Alla ovan stämmer. Med allra största säkerhet skulle du tycka att han verkade både cool, självsäker och populär. Varför? Därför att han *ser ut* att vara det på *utsidan*.\n\nTänk efter hur du skulle känna dig om du träffade den här killen. Rädd? Nervös? Eller självsäker nog för att prata med honom?"
+                "content": "Alla ovan stämmer. Med allra största säkerhet skulle du tycka att han verkade både cool, självsäker och populär. Varför? Därför att han *ser* **ut** att vara det på **utsidan**.\n\nTänk efter hur du skulle känna dig om du träffade den här killen. Rädd? Nervös? Eller självsäker nog för att prata med honom?"
               }
             ]
           },
@@ -275,7 +313,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "3"
               }
             ]
@@ -292,7 +329,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Det är ganska troligt att de flesta skulle känna sig både rädda och nervösa - kanske till och med för blyga för att prata med honom. Vi skulle dra oss undan för att han verkade \"för cool\", någon som spelade utanför vår liga. Den här reaktionen baseras oss på *våra egna känslor.*\n\nMen tänk om vi har fel?"
+                "content": "Det är ganska troligt att de flesta skulle känna sig både rädda och nervösa - kanske till och med för blyga för att prata med honom. Vi skulle dra oss undan för att han verkade \"för cool\", någon som spelade utanför vår liga. Den här reaktionen baseras oss på **våra egna känslor***.*\n\nMen tänk om vi har fel?"
               }
             ]
           },
@@ -301,8 +338,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Mer",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "Fortsätt",
                 "sectionId": "4"
               }
             ]
@@ -315,11 +351,17 @@
         "alias": "4",
         "content": [
           {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621342338/Relationship%20Course%20YA/Heading_Relationships_INSIDE_outside_1_qlyt5q.png"
+            }
+          },
+          {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "Kolla på bilden igen. Vad avslöjar **hela** bilden?\n\nINSERT PICTURE WHEN CLEARED OK\n\nA. Han känner sig ledsen men visar det inte för någon."
+                "content": "Kolla på bilden igen. Vad avslöjar **hela** bilden?"
               }
             ]
           },
@@ -328,8 +370,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
-                "conversationId": "relationships-insideoutside-2",
+                "content": "Han mår dåligt på insidan",
                 "sectionId": "5"
               }
             ]
@@ -346,7 +387,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Det är det vi menar med insidan-utsidan-kollen. Från *utsidan* ser den här killen hur cool och häftig ut som helst - men på *insidan* känner han sig riktigt nere.\n\nBara det att du inte kan se att han är ledsen, eftersom han *inte vill* att du ska se det. Han döljer sina känslor."
+                "content": "Det är det vi menar med insidan-utsidan-kollen. Från **utsidan** ser den här killen hur cool och häftig ut som helst - men på **insidan** känner han sig riktigt nere.\n\nBara det att du inte kan se att han är ledsen, eftersom han **inte vill** att du ska se det. Han döljer sina känslor."
               }
             ]
           },
@@ -356,7 +397,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "6"
               }
             ]
@@ -383,7 +423,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "7"
               }
             ]
@@ -400,7 +439,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "På *utsidan* kan vi *verka* starka och fulla av självförtroende.\n\nPå *insidan* kan vi vara rädda och ledsna.\n\nTill och med arga."
+                "content": "På **utsidan** kan vi **verka** starka och fulla av självförtroende.\n\nPå **insidan** kan vi vara rädda och ledsna.\n\nTill och med arga."
               }
             ]
           },
@@ -410,7 +449,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "relationships-insideoutside-2",
                 "sectionId": "8"
               }
             ]
@@ -427,7 +465,47 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Insidan-utsidan-kollen kan hjälpa oss att förstå och att bli förstådda.\n\nNär vi tränar på att förstå mer än det som syns på utsidan, kan det hjälpa oss att komma närmare andra personer. Och vetskapen om att vi alla gömmer undan delar av vår inre värld kan också få oss att be om hjälp ibland. Det är ju lika svårt för andra att förstå vad som pågår inuti oss, som det är för oss att förstå vad som pågår inuti dem."
+                "content": "Insidan-utsidan-kollen kan hjälpa oss att **förstå** och att bli förstådda.\n\nNär vi tränar på att förstå **mer än det som syns** på utsidan, kan det hjälpa oss att komma **närmare** andra personer. Och vetskapen om att vi alla gömmer undan delar av vår inre värld kan också få oss att be om hjälp ibland. Det är ju lika svårt för andra att förstå vad som pågår **inuti** **oss**, som det är för oss att förstå vad som pågår inuti **dem**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "conversationId": "relationships-insideoutside-3",
+                "content": "Sätt igång",
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationships-insideoutside-2",
+    "alias": "YA building relationships 4: insideoutside-2",
+    "root": "1",
+    "sections": [
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621342209/Relationship%20Course%20YA/Heading_Relationships_inside_OUTSIDE_sqcaqu.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Olha para esta fotografia. Concentra-te no rapaz nesta imagem. Imagina que te aparece à frente.  O que acharias dele?"
               }
             ]
           },
@@ -436,9 +514,212 @@
             "content": [
               {
                 "component": "Button",
-                "sectionId": "1",
+                "content": "É cool",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "É confiante",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "É popular",
+                "sectionId": "2"
+              },
+              {
+                "component": "Button",
+                "content": "Tudo o que está referido acima",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Tudo o que está acima é verdade. É provável que penses que ele é *cool*, confiante e popular. Porquê? Pelo seu **aspeto exterior**?\n\nAgora, pensa em como te sentirias se conhecesses este rapaz. Intimidada/o? Nervosa/o? Ou confiante o suficiente para falar com ele?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "É bem provável que a maioria das pessoas se sinta assustada e nervosa – talvez até tímida demais para falar com ele. Podíamos até retrair-nos porque ele parece \"muito *cool*\", alguém fora do nosso campeonato. Essa reação é baseada nos **nossos próprios sentimentos**.\n\nMas e se estivermos errados?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "Image",
+            "content": {
+              "url": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621342338/Relationship%20Course%20YA/Heading_Relationships_INSIDE_outside_1_qlyt5q.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Agora, olha de novo. O que é que a imagem **completa** revela?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Ele está de coração partido",
+                "sectionId": "5"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "5",
+        "alias": "5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "É isto que queremos dizer com visão de dentro para fora. Do **exterior** este rapaz parece super descontraído e *cool*, mas por **dentro** ele está a sentir-se muito em baixo.\n\nSó que tu não podes ver que ele está triste porque ele não **quer** que tu vejas. Ele está a esconder os seus sentimentos."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "6",
+        "alias": "6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "O problema é que, por vários motivos, todos nós **por vezes escondemos o nosso eu interior**. E porque não partilhamos o nosso verdadeiro eu, isso pode afetar as nossas relações.\n\nTu também tens feito isso? Colocas um sorriso quando estás em baixo? Sentes-te ansiosa/o ou irritada/o, mas não o demonstras? Se a resposta for sim, então és como a maioria de nós."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "7"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "7",
+        "alias": "7",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Por **fora**, podemos **parecer** felizes e confiantes.\n\nMas por dentro podemos estar com medo ou tristes.\n\nPodemos até estar a sentir raiva."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "8"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "8",
+        "alias": "8",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "A competência da visão de dentro para fora pode ajudar-nos a **compreender** e a sermos compreendidos.\n\nQuando praticamos compreender **mais do que vemos** do lado de fora, isso pode ajudar-nos a ficar **mais perto** das outras pessoas. E o conhecimento de que estamos todos a esconder partes do nosso mundo interior também pode fazer-nos pedir ajuda às vezes.\n\nÉ tão difícil para os **outros** entenderem o que **está a acontecer dentro** de nós como é para nós entendermos o que está a acontecer dentro dos **outros**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "content": "Vamos lá",
                 "conversationId": "relationships-insideoutside-3",
-                "content": "Sätt igång"
+                "variant": "primary"
               }
             ]
           }

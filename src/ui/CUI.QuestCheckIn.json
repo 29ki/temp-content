@@ -1,0 +1,191 @@
+{
+  "en": {
+    "q1": {
+      "paragraph1__markdown": "Now, let’s talk about how the today’s quest made you feel.",
+      "paragraph2__markdown": "Based upon your own experiences, please rate how true the following statements are to you.",
+      "question__markdown": "I am proud of the way I undertook this quest."
+    },
+    "q2": {
+      "initialDayQuestion__markdown": "I found this quest difficult to do.",
+      "question__markdown": "I found this quest less difficult to do than previous quests."
+    },
+    "q3": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt comfortable with how I’ve been living my life.",
+      "question__markdown": "Since last check-in, I have felt comfortable with how I’ve been living my life."
+    },
+    "q4": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt I’m looking forward to what the day will bring.",
+      "question__markdown": "Since last check-in, I have felt I’m looking forward to what the day will bring."
+    },
+    "q5": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt isolated.",
+      "question__markdown": "Since last check-in, I have felt isolated."
+    },
+    "q6": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt unable to be myself.",
+      "question__markdown": "Since last check-in, I have felt unable to be myself."
+    },
+    "followUpComplete": {
+      "title__markdown": "# Well done",
+      "paragraph1__markdown": "*Please note that during this test period the above answers won’t be stored.*",
+      "paragraph2__markdown": "*Still, checking in is a great chance for you to reflect and integrate what you’ve learned from today’s quest.*",
+      "complete__button": "I understand"
+    },
+    "q7": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt active and vigorous.",
+      "question__markdown": "Since last check-in, I have felt active and vigorous."
+    },
+    "q8": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt that I could be more open in what I say and do.",
+      "question__markdown": "Since last check-in, I have felt that I could be more open in what I say and do."
+    },
+    "followUp3": {
+      "answer1__button": "Not at all true",
+      "answer2__button": "Somewhat true",
+      "answer3__button": "Entirely true"
+    },
+    "followUp7": {
+      "answer1__button": "Never True",
+      "answer2__button": "Very Seldom True",
+      "answer3__button": "Seldom True",
+      "answer4__button": "Sometimes True",
+      "answer5__button": "Frequently True",
+      "answer6__button": "Almost Always True",
+      "answer7__button": "Always True"
+    },
+    "followUp": {
+      "title__markdown": "# Time to check-in",
+      "info__markdown": "Today’s quest was:",
+      "question": "Did you do it?",
+      "taskCompleted__button": "Yes",
+      "taskNotCompleted__button": "No",
+      "startTest__button": "Start test"
+    }
+  },
+  "sv": {
+    "q1": {
+      "paragraph1__markdown": "Now, let’s talk about how the today’s quest made you feel.",
+      "paragraph2__markdown": "Based upon your own experiences, please rate how true the following statements are to you.",
+      "question__markdown": "I am proud of the way I undertook this quest."
+    },
+    "q2": {
+      "initialDayQuestion__markdown": "I found this quest difficult to do.",
+      "question__markdown": "I found this quest less difficult to do than previous quests."
+    },
+    "q3": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt comfortable with how I’ve been living my life.",
+      "question__markdown": "Since last check-in, I have felt comfortable with how I’ve been living my life."
+    },
+    "q4": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt I’m looking forward to what the day will bring.",
+      "question__markdown": "Since last check-in, I have felt I’m looking forward to what the day will bring."
+    },
+    "q5": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt isolated.",
+      "question__markdown": "Since last check-in, I have felt isolated."
+    },
+    "q6": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt unable to be myself.",
+      "question__markdown": "Since last check-in, I have felt unable to be myself."
+    },
+    "followUpComplete": {
+      "title__markdown": "# Well done",
+      "paragraph1__markdown": "*Please note that during this test period the above answers won’t be stored.*",
+      "paragraph2__markdown": "*Still, checking in is a great chance for you to reflect and integrate what you’ve learned from today’s quest.*",
+      "complete__button": "I understand"
+    },
+    "q7": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt active and vigorous.",
+      "question__markdown": "Since last check-in, I have felt active and vigorous."
+    },
+    "q8": {
+      "initialDayQuestion__markdown": "During the last 24 hours, I have felt that I could be more open in what I say and do.",
+      "question__markdown": "Since last check-in, I have felt that I could be more open in what I say and do."
+    },
+    "followUp3": {
+      "answer1__button": "Not at all true",
+      "answer2__button": "Somewhat true",
+      "answer3__button": "Entirely true"
+    },
+    "followUp7": {
+      "answer1__button": "Never True",
+      "answer2__button": "Very Seldom True",
+      "answer3__button": "Seldom True",
+      "answer4__button": "Sometimes True",
+      "answer5__button": "Frequently True",
+      "answer6__button": "Almost Always True",
+      "answer7__button": "Always True"
+    },
+    "followUp": {
+      "title__markdown": "# Time to check-in",
+      "info__markdown": "Today’s quest was:",
+      "question": "Did you do it?",
+      "taskCompleted__button": "Yes",
+      "taskNotCompleted__button": "No",
+      "startTest__button": "Starta testet"
+    }
+  },
+  "pt": {
+    "q1": {
+      "paragraph1__markdown": "Agora, vamos falar sobre como o desafio de hoje te fez sentir.",
+      "paragraph2__markdown": "Com base nas tuas próprias experiências, avalia quão verdadeiras são para ti as seguintes afirmações.",
+      "question__markdown": "Sinto orgulho na forma como enfrentei este desafio."
+    },
+    "q2": {
+      "initialDayQuestion__markdown": "Achei este desafio difícil.",
+      "question__markdown": "Achei este desafio mais fácil do que os anteriores."
+    },
+    "q3": {
+      "initialDayQuestion__markdown": "Nas últimas 24 horas, senti-me confortável na forma como estou a viver a minha vida.",
+      "question__markdown": "Desde a última vez que entrei, tenho-me sentido confortável na forma como tenho vivido a minha vida."
+    },
+    "q4": {
+      "initialDayQuestion__markdown": "Nas últimas 24 horas, senti ansiedade pelo que o dia poderia vir a trazer.",
+      "question__markdown": "Desde a última vez que entrei, senti que ansiava pelo que o dia poderia vir a trazer."
+    },
+    "q5": {
+      "initialDayQuestion__markdown": "Nas últimas 24 horas, senti que estava muito só.",
+      "question__markdown": "Desde a última vez que entrei, senti que estava muito só."
+    },
+    "q6": {
+      "initialDayQuestion__markdown": "Nas últimas 24 horas, senti que não conseguia ser verdadeiramente eu.",
+      "question__markdown": "Desde a última vez que entrei, senti que não conseguia ser verdadeiramente eu."
+    },
+    "followUpComplete": {
+      "title__markdown": "# Parabéns",
+      "paragraph1__markdown": "*Reforçamos que as respostas acima não são gravadas.*",
+      "paragraph2__markdown": "*Ainda assim, o check-in é uma grande oportunidade para refletires e integrares o que aprendeste com o desafio de hoje.*",
+      "complete__button": "Compreendi"
+    },
+    "q7": {
+      "initialDayQuestion__markdown": "Nas últimas 24 horas, senti-me com energia e vigor.",
+      "question__markdown": "Desde a última vez que entrei, senti-me com energia e vigor."
+    },
+    "q8": {
+      "initialDayQuestion__markdown": "Nas últimas 24 horas, senti que podia ter mais abertura no que digo e no que faço.",
+      "question__markdown": "Desde a última vez que entrei, senti que podia ter mais abertura no que digo e no que faço."
+    },
+    "followUp3": {
+      "answer1__button": "Totalmente falso",
+      "answer2__button": "Em parte verdadeiro",
+      "answer3__button": "Totalmente verdadeiro"
+    },
+    "followUp7": {
+      "answer1__button": "Totalmente falso",
+      "answer2__button": "Muito raramente verdadeiro",
+      "answer3__button": "Raramente verdadeiro",
+      "answer4__button": "Por vezes verdadeiro",
+      "answer5__button": "Frequentemente verdadeiro",
+      "answer6__button": "Quase sempre verdadeiro",
+      "answer7__button": "Sempre verdadeiro"
+    },
+    "followUp": {
+      "title__markdown": "# Hora de fazer *check-in*",
+      "info__markdown": "O desafio de hoje foi:",
+      "question": "Fizeste o desafio?",
+      "taskCompleted__button": "Sim",
+      "taskNotCompleted__button": "Não",
+      "startTest__button": "Iniciar teste"
+    }
+  }
+}

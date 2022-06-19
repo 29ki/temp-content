@@ -1,0 +1,296 @@
+{
+  "en": {
+    "id": "8748d940-0475-45d5-91d4-1a5379ea2f96",
+    "alias": "Pt special Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ff67298a-c3d1-4d3a-956e-60ec2820d781",
+        "alias": "As nossas emoções não nos podem magoar",
+        "title": "As nossas emoções não nos podem magoar",
+        "content": "Mesmo as emoções mais intensas **vão e vêm** em ondas.\n\nQuando estamos a experienciar uma emoção forte, é natural sentirmo-nos ansiosos, assustados ou desconfortáveis. É também natural que de forma impulsiva tentemos **controlar**, **fugir** ou **escapar** dessas emoções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "3c41edb8-e115-4d5d-8a8b-42df0db6e207"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445207/laura-barry-nEw6iC2SOcM-unsplash_kn5lbn.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3c41edb8-e115-4d5d-8a8b-42df0db6e207",
+        "alias": "Evitar",
+        "content": "No entanto, **evitar** ou **lutar** com as nossas emoções é contraprodutivo.\n\nEmbora evitar as emoções nos possa ajudar a enfrentar uma situação aguda a **curto prazo**, a maior parte das vezes impede que nos sintamos realizados a **longo prazo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "ed24014c-88a6-4e57-a946-11c940a14c7f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ed24014c-88a6-4e57-a946-11c940a14c7f",
+        "alias": "Estratégia",
+        "content": "Ao **esperarmos** que o sentimento indesejado simplesmente se vá embora antes de fazermos as coisas que queremos, colocamos a nossa **vida em pausa**. Muitas vezes indefinidamente.\n\nA estratégia mais **útil** é **aceitarmos** os nossos sentimentos, sem julgamentos, focando-nos simultaneamente em dar passos pequenos, mas significativos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Compreendi",
+            "sectionId": "7693283c-b0be-4a42-8658-143f3f712a94"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7693283c-b0be-4a42-8658-143f3f712a94",
+        "alias": "A mão que cura",
+        "title": "",
+        "content": "Quando nos **abrimos** às **emoções difíceis**, muitas vezes elas aliviam **o controlo** sobre as nossas vidas.\n\nAgora vais praticar a tua **competência** de **enfrentar emoções difíceis**. Isso pode ajudar-te a sintonizar com o que estás a sentir e pensar, aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "b18c5916-4556-4465-a8ec-93f1f7b352a4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b18c5916-4556-4465-a8ec-93f1f7b352a4",
+        "alias": "Aceitar as emoções difíceis",
+        "title": "Aceitar as emoções difíceis",
+        "content": "**Abrirmo-nos** e **aceitarmos** as nossas emoções é uma **técnica** poderosa que podemos aprender e usar em qualquer situação difícil em que a vida nos coloque.\n\nLembra-te que as emoções não te podem magoar, mesmo que sejam muito fortes.\n\nFaz a meditação e segue as instruções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos experimentar",
+            "sectionId": "126b191e-c393-427c-a1ad-0c8b5c45bd4f"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944"
+          }
+        ],
+        "alias": "Meditação",
+        "duration": "3:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429298/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_07_-_Healing_hand_meditation_gcln6z.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "126b191e-c393-427c-a1ad-0c8b5c45bd4f",
+        "description": "Esta pequena meditação convida-te a criar espaço e a abrires-te com bondade e compaixão a emoções e sentimentos difíceis."
+      }
+    ],
+    "root": "ff67298a-c3d1-4d3a-956e-60ec2820d781"
+  },
+  "sv": {
+    "id": "8748d940-0475-45d5-91d4-1a5379ea2f96",
+    "alias": "Pt special Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ff67298a-c3d1-4d3a-956e-60ec2820d781",
+        "alias": "As nossas emoções não nos podem magoar",
+        "title": "As nossas emoções não nos podem magoar",
+        "content": "Mesmo as emoções mais intensas **vão e vêm** em ondas.\n\nQuando estamos a experienciar uma emoção forte, é natural sentirmo-nos ansiosos, assustados ou desconfortáveis. É também natural que de forma impulsiva tentemos **controlar**, **fugir** ou **escapar** dessas emoções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "3c41edb8-e115-4d5d-8a8b-42df0db6e207"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445207/laura-barry-nEw6iC2SOcM-unsplash_kn5lbn.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3c41edb8-e115-4d5d-8a8b-42df0db6e207",
+        "alias": "Evitar",
+        "content": "No entanto, **evitar** ou **lutar** com as nossas emoções é contraprodutivo.\n\nEmbora evitar as emoções nos possa ajudar a enfrentar uma situação aguda a **curto prazo**, a maior parte das vezes impede que nos sintamos realizados a **longo prazo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "ed24014c-88a6-4e57-a946-11c940a14c7f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ed24014c-88a6-4e57-a946-11c940a14c7f",
+        "alias": "Estratégia",
+        "content": "Ao **esperarmos** que o sentimento indesejado simplesmente se vá embora antes de fazermos as coisas que queremos, colocamos a nossa **vida em pausa**. Muitas vezes indefinidamente.\n\nA estratégia mais **útil** é **aceitarmos** os nossos sentimentos, sem julgamentos, focando-nos simultaneamente em dar passos pequenos, mas significativos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Compreendi",
+            "sectionId": "7693283c-b0be-4a42-8658-143f3f712a94"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7693283c-b0be-4a42-8658-143f3f712a94",
+        "alias": "A mão que cura",
+        "title": "",
+        "content": "Quando nos **abrimos** às **emoções difíceis**, muitas vezes elas aliviam **o controlo** sobre as nossas vidas.\n\nAgora vais praticar a tua **competência** de **enfrentar emoções difíceis**. Isso pode ajudar-te a sintonizar com o que estás a sentir e pensar, aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "b18c5916-4556-4465-a8ec-93f1f7b352a4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b18c5916-4556-4465-a8ec-93f1f7b352a4",
+        "alias": "Aceitar as emoções difíceis",
+        "title": "Aceitar as emoções difíceis",
+        "content": "**Abrirmo-nos** e **aceitarmos** as nossas emoções é uma **técnica** poderosa que podemos aprender e usar em qualquer situação difícil em que a vida nos coloque.\n\nLembra-te que as emoções não te podem magoar, mesmo que sejam muito fortes.\n\nFaz a meditação e segue as instruções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos experimentar",
+            "sectionId": "126b191e-c393-427c-a1ad-0c8b5c45bd4f"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944"
+          }
+        ],
+        "alias": "Meditação",
+        "duration": "3:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429298/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_07_-_Healing_hand_meditation_gcln6z.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "126b191e-c393-427c-a1ad-0c8b5c45bd4f",
+        "description": "Esta pequena meditação convida-te a criar espaço e a abrires-te com bondade e compaixão a emoções e sentimentos difíceis."
+      }
+    ],
+    "root": "ff67298a-c3d1-4d3a-956e-60ec2820d781"
+  },
+  "pt": {
+    "id": "8748d940-0475-45d5-91d4-1a5379ea2f96",
+    "alias": "Pt special Coping with crisis 2: Facing what we can't change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "ff67298a-c3d1-4d3a-956e-60ec2820d781",
+        "alias": "As nossas emoções não nos podem magoar",
+        "title": "As nossas emoções não nos podem magoar",
+        "content": "Mesmo as emoções mais intensas **vão e vêm** em ondas.\n\nQuando estamos a experienciar uma emoção forte, é natural sentirmo-nos ansiosos, assustados ou desconfortáveis. É também natural que de forma impulsiva tentemos **controlar**, **fugir** ou **escapar** dessas emoções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "3c41edb8-e115-4d5d-8a8b-42df0db6e207"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445207/laura-barry-nEw6iC2SOcM-unsplash_kn5lbn.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3c41edb8-e115-4d5d-8a8b-42df0db6e207",
+        "alias": "Evitar",
+        "content": "No entanto, **evitar** ou **lutar** com as nossas emoções é contraprodutivo.\n\nEmbora evitar as emoções nos possa ajudar a enfrentar uma situação aguda a **curto prazo**, a maior parte das vezes impede que nos sintamos realizados a **longo prazo**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "ed24014c-88a6-4e57-a946-11c940a14c7f"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ed24014c-88a6-4e57-a946-11c940a14c7f",
+        "alias": "Estratégia",
+        "content": "Ao **esperarmos** que o sentimento indesejado simplesmente se vá embora antes de fazermos as coisas que queremos, colocamos a nossa **vida em pausa**. Muitas vezes indefinidamente.\n\nA estratégia mais **útil** é **aceitarmos** os nossos sentimentos, sem julgamentos, focando-nos simultaneamente em dar passos pequenos, mas significativos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Compreendi",
+            "sectionId": "7693283c-b0be-4a42-8658-143f3f712a94"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7693283c-b0be-4a42-8658-143f3f712a94",
+        "alias": "A mão que cura",
+        "title": "",
+        "content": "Quando nos **abrimos** às **emoções difíceis**, muitas vezes elas aliviam **o controlo** sobre as nossas vidas.\n\nAgora vais praticar a tua **competência** de **enfrentar emoções difíceis**. Isso pode ajudar-te a sintonizar com o que estás a sentir e pensar, aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "b18c5916-4556-4465-a8ec-93f1f7b352a4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b18c5916-4556-4465-a8ec-93f1f7b352a4",
+        "alias": "Aceitar as emoções difíceis",
+        "title": "Aceitar as emoções difíceis",
+        "content": "**Abrirmo-nos** e **aceitarmos** as nossas emoções é uma **técnica** poderosa que podemos aprender e usar em qualquer situação difícil em que a vida nos coloque.\n\nLembra-te que as emoções não te podem magoar, mesmo que sejam muito fortes.\n\nFaz a meditação e segue as instruções.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos experimentar",
+            "sectionId": "126b191e-c393-427c-a1ad-0c8b5c45bd4f"
+          }
+        ]
+      },
+      {
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Estou pronta/o",
+            "conversationId": "e0047e26-d4a1-44f9-bdf3-49a7c86d8944"
+          }
+        ],
+        "alias": "Meditação",
+        "duration": "3:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621429298/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_07_-_Healing_hand_meditation_gcln6z.mp3",
+        "title": "Meditação",
+        "type": "audio",
+        "id": "126b191e-c393-427c-a1ad-0c8b5c45bd4f",
+        "description": "Esta pequena meditação convida-te a criar espaço e a abrires-te com bondade e compaixão a emoções e sentimentos difíceis."
+      }
+    ],
+    "root": "ff67298a-c3d1-4d3a-956e-60ec2820d781"
+  }
+}

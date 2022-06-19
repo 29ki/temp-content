@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-7-focus-on-the-why",
+    "alias": "pl-7-focus-on-the-why",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-7-focus-on-the-why",
+        "alias": "pl-7-focus-on-the-why",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Focus on the why",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-7-focus-on-the-why-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Focus on the why",
+          "body": "Today, ask a colleague who do they feel your organization impacts the most and why?"
+        },
+        "followUp": {
+          "id": "pl-7-focus-on-the-why-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in!"
+        },
+        "sharingWall": {
+          "question": "What new insights did you gain by talking to your colleague?",
+          "exampleText": "I discovered that the way me and my colleague feel about the impact of our work is very much aligned, even though our roles are different."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-7-focus-on-the-why",
+    "alias": "pl-7-focus-on-the-why",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-7-focus-on-the-why",
+        "alias": "pl-7-focus-on-the-why",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Focus on the why",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Focus on the why",
+          "body": "Today, ask a colleague who do they feel your organisation’s work impacts most and why?"
+        },
+        "followUp": {
+          "id": "pl-7-focus-on-the-why-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Time to check-in with today’s quest!"
+        },
+        "sharingWall": {
+          "question": "What was it like for you to do today’s quest?",
+          "exampleText": "..."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-7-focus-on-the-why",
+    "alias": "pl-7-focus-on-the-why",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-7-focus-on-the-why",
+        "alias": "pl-7-focus-on-the-why",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Foca-te no porquê",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-7-focus-on-the-why-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Foca-te no porquê",
+          "body": "Hoje pergunta a um ou vários colegas a quem acham que a vossa organização causa mais impacto e porquê?"
+        },
+        "followUp": {
+          "id": "pl-7-focus-on-the-why-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Vamos fazer o *check-in*!"
+        },
+        "sharingWall": {
+          "question": "Que insights novos ganhaste ao falar com os teus colegas?",
+          "exampleText": "Descobri que a forma como eu e os meus colegas nos sentimos sobre o impacto do nosso trabalho está muito alinhada, embora os nossos papéis sejam diferentes."
+        }
+      }
+    ]
+  }
+}

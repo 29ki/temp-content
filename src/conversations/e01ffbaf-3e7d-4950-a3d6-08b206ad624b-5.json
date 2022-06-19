@@ -1,0 +1,196 @@
+{
+  "en": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 6",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/b4ee034a-3bbc-4e1d-9b59-789f762c05bf/acceptance_small.png",
+        "title": "Introduction to exercise",
+        "content": "\nWhat prevents us from taking meaningful action in everyday life is almost never the situation itself, but our interpretation of it.\n\nImagine that we have two invisible controls inside us, like the volume and tone controls from an old ’70s stereo.\n\nThe left-hand “acceptance slider” represents your willingness to live with your emotions. You have complete control of this slider. For example, every time you accept a difficult emotion, it’s pushed all the way up to the top. And every time you get angry or frustrated with yourself for feeling a difficult emotion, the slider is set low. This is because you’re trying to fight, control or flee that emotion.\n\nThe slider to the right is the “difficult-emotions slider.” Unfortunately, you have no direct control over this one; it has a mind of its own.\n\nFor example, being required to stay in quarantine can make you feel lonely, invisible, worried, bored and so on.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "topImageUri": "",
+        "title": "The Acceptance Slider",
+        "content": "The acceptance slider has a secret in-built function.\n\nWhen the acceptance slider is all the way down, (e.g. when we judge or resist our emotions), the difficult-emotions slider goes all the way up. It can almost feel as if it gets stuck: no matter how hard we try to move the slider, it refuses to budge, only intensifying our emotions.\n\nOn the other hand, when we open to our emotions, no matter how difficult, we push the acceptance slider up again and experience the opposite effect - the difficult emotions slider gets unstuck and can move up freely again according to our actual feelings instead of our interpretations of those feelings.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let’s do this",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Exercise",
+        "time": "",
+        "question": "",
+        "longDescription": "Think about your day so far.\n* How often have you done anything to reduce, change, control or otherwise affect the experience of discomfort?\n* How often have you done something towards your core values?\n\nWrite down your answers.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Turn up your acceptance slider",
+        "time": "",
+        "question": "",
+        "longDescription": "Take a look at your own acceptance slider - where is it at right now?\n\nDecide how much you will turn it up. It doesn’t matter where you stand right now, the point is to increase your level of acceptance of difficult emotions.\n\nBy turning your acceptance slider up, you’re making an active choice to open up to all emotions. For example you choose to accept that you’re irritated, angry or sad about cancelling plans.\n\n* How does choosing to accept your emotions, instead of resisting them, affect you?\n\nWrite down your answers.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section11"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 6",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "editorialWithImage",
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/exercises/b4ee034a-3bbc-4e1d-9b59-789f762c05bf/acceptance_small.png",
+        "title": "De två spakarna",
+        "content": "Tänk dig att vi har två osynliga spakar på insidan, som volymkontrollerna på en gammal stereo.\nSpaken till höger representerar **svåra känslor.** Det är tyvärr svårt att dra i den här spaken. Vi kan sällan bestämma oss för att **inte** känna oss ensamma, osynliga, oroliga, uttråkade eller något annat om vi till exempel sitter i karantän. Men ofta lägger vi mycket kraft och energi på att försöka **påverka** volymen eller till och med **bli av med det** som känns jobbigt på insidan. \nHär kommer en viktig grej som du säkert känner igen: ju mer vi kämpar för att dra ner svåra känslor-spaken, desto hårdare verkar den **sitta fast**. Och desto mer intensiva kan just de känslor eller tankar som vi försöker **undvika** bli.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "topImageUri": "",
+        "title": "Acceptansknappen",
+        "content": "Ibland när vi befinner oss i en situation är det inte själva situationen, utan vår tolkning av den som hindrar oss från att göra det som är viktigt i stunden. Ofta känns det som att vi måste bli av med det jobbiga på insidan, innan vi kan ta tag i något viktigt som väntar. Det är här tricket med acceptans kommer in.\n\nDen vänstra spaken representerar acceptans eller villighet att ha jobbiga känslor. När vi försöker bekämpa, kontrollera eller undvika jobbiga känslor är vår villighet att ha dem nere på noll. Men acceptans-spaken har vi **full kontroll** över. När vi väljer att **acceptera** att något är **svårt** för oss eller innebär att en jobbig tanke kommer upp, skjutsar vi vår villighets-spak **hela vägen upp** till toppen. Och då händer det nåt med den högra spaken, den som reglerar svåra känslor: den kan **röra sig fritt** igen. Den sitter inte längre fast. \n\nAtt acceptera det som är jobbigt på insidan, gör det möjligt för oss välja beteenden i linje med våra värderingar, i stället för att slösa kraft på att påverka det vi inte kan påverka.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Okej",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "title": "Övning",
+        "time": "",
+        "question": "",
+        "longDescription": "Tänk på din dag hittills.\n\n* Hur ofta har du gjort något för att minska, undvika, kontrollera eller på annat sätt påverka en upplevelse av obehag på insidan?\n* Hur ofta har du gjort något i linje med dina värderingar?\n\nSkriv ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Dra upp din acceptans-spak",
+        "time": "",
+        "question": "",
+        "longDescription": "Ta en titt på din egen acceptans-spak, din villighet att **ha** det som är svårt på insidan – var står den just nu?\n\nBestäm hur mycket du ska dra upp den. Det spelar ingen roll var på skalan du är just nu, poängen är att **öka** din nivå av **acceptans** för att ha svåra känslor.\n\nGenom att höja din villighet gör du ett **aktivt** val att låta alla känslor finnas. Du väljer till exempel att acceptera att du är irriterad, arg eller ledsen över att avbryta planer.\n\n* Hur påverkar det dig att välja att **acceptera** dina känslor istället för att **undvika** dem?\n\nSkriv ner dina svar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section11"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "e01ffbaf-3e7d-4950-a3d6-08b206ad624b",
+    "alias": "Meaning-making in a crisis: Acceptance 6",
+    "root": "section7",
+    "sections": [
+      {
+        "id": "section7",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai ajudar-te a abrires-te às emoções difíceis e a criar espaço para os pensamentos e sentimentos indesejados.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621448721/29k%20FJN/Meditations/Pedro%20Final/Medita%C3%A7%C3%B5es_18_-_The_willingness_stance_rc9qk6.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621437591/29k%20FJN/Images/Slicers_awfezv.png",
+        "title": "Introdução ao exercício",
+        "content": "O que nos impede de realizar ações significativas na nossa vida quotidiana quase nunca é a situação em si, mas a nossa interpretação dela.\n\nImagina que temos dois reguladores invisíveis dentro de nós, como os reguladores de volume e tom de uma aparelhagem de som dos anos 70.\n\nO regulador da aceitação, à esquerda, representa a tua disposição para conviver com as tuas emoções. Tens controlo total deste regulador. Por exemplo, sempre que aceitas uma emoção difícil, ele é vai para o topo. E todas as vezes que ficas com raiva ou frustrada/o contigo por sentir uma emoção difícil, o regulador vem para baixo. Isto acontece porque estás a tentar lutar, controlar ou fugir dessa emoção.\n\nO regulador da direita é para regular as emoções difíceis. Infelizmente, não tens controlo direto sobre este regulador, tem vontade própria.\n\nPor exemplo, ser obrigada/o a ficar em quarentena pode fazer-te sentir sozinha/o, invisível, preocupada/o, entediada/o e assim por diante.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "topImageUri": "",
+        "title": "O regulador da aceitação",
+        "content": "O regulador da aceitação tem uma função secreta incorporada.\n\nQuando o regulador da aceitação está no mínimo (por exemplo, quando julgamos ou resistimos às nossas emoções), o regulador das emoções difíceis atinge o máximo. É quase como se estivesse preso: não importa o quanto tentemos mover o regulador, ele recusa-se a ceder, apenas intensificando as nossas emoções.\n\nPor outro lado, quando nos abrimos às nossas emoções, não importa o quão difícil isso seja, empurramos o regulador da aceitação para cima e experienciamos o efeito oposto - o regulador das emoções difíceis solta-se e pode mover-se livremente de acordo com os nossos sentimentos reais em vez das nossas interpretações desses sentimentos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos a isto",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "writing",
+        "title": "Exercício",
+        "time": "",
+        "question": "",
+        "longDescription": "Pensa no teu dia até este momento.\n\n* Quantas vezes fizeste alguma coisa para reduzir, alterar, controlar ou afetar os teus sentimentos de desconforto?\n* Quantas vezes fizeste alguma coisa em relação aos teus valores fundamentais?\n\nEscreve as tuas respostas.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ]
+      }
+    ]
+  }
+}

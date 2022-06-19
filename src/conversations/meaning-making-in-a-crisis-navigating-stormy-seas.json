@@ -1,0 +1,176 @@
+{
+  "en": {
+    "id": "meaning-making-in-a-crisis-navigating-stormy-seas",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Navigating stormy seas",
+        "content": "This lesson will help you define your values in different areas of life and evaluate where you’re at in terms of living in line with them.\n\n### Today’s lesson has five parts:\n\n* What are values?\n* Personal values\n* Relationship values\n* Work values\n* Sharing\n\n### You’ll need:\n\n* 40 min of undisturbed time\n* Pen and paper",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section2"
+          }
+        ],
+        "alias": "section1"
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Why are values important?",
+        "content": "Simply put, values are our heart’s deepest desires. They give us a sense of direction and guide our behavior. This is why some people talk about their values as a compass.\n\n### What’s a difference between values and goals?\n\nValues are something that you work on continuously, for example being an engaged and responsible co-worker. Goals can be checked off, like  “getting a promotion” or “buying a hat”.\n",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section3"
+          }
+        ],
+        "alias": "section2"
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Connecting to your values",
+        "content": "What do you value in life? It’s time to find out.\n\nThis exercise focuses on identifying values in 3 areas of your life: personal life, relationships with others and work. Being in a crisis or emotional turmoil might lead to you questioning everything and realising that your priorities have shifted.\n\nBegin by asking yourself:\n\n* Who do I want to be?\n* What do I want to stand for?\n* How do I want to relate to the world around me?\n\nYou will be encouraged to rate how much you live in line with these values.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "section3"
+      }
+    ],
+    "alias": "Navigating stormy seas 1 (Introduction)"
+  },
+  "sv": {
+    "id": "meaning-making-in-a-crisis-navigating-stormy-seas",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Navigera när det stormar",
+        "content": "Den här lektionen hjälper dig att definiera dina värderingar inom olika delar av livet och fundera på om du lever i linje med det som är viktigt för dig.\n\n### Dagens lektion har fem delar:\n\n* Vad är värderingar?\n* Vad är viktigt för dig som person?\n* Vad värderar du i relationer?\n* Vad är viktigt inom arbete/utbildning?\n* Gruppdelning\n\n### Du behöver:\n\n* 40 min ostörd tid\n* Papper och penna",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "Varför är värderingar viktiga?",
+        "content": "Enkelt uttryckt är värderingar våra innersta önskningar. De kan ge oss en känsla av riktning och hjälpa till att styra våra beteenden. Vi kan prata om värderingar som en kompass i livet.\n\n### Vad är skillnaden mellan värderingar och mål?\n\nVärderingar är något som vi aldrig blir färdiga med, till exempel att vara en engagerad kollega. Mål kan bockas av, som \"bli klar med rapporten innan midsommar\" eller \"köpa en bok\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Dina värderingar",
+        "content": "Att vara orolig eller att befinna sig i en kris kan leda till att vi ifrågasätter allt och inser att våra prioriteringar har förändrats.\n\nVad värdesätter du i livet? Dags att ta reda på det.\n\nI den här övningen får du identifiera värderingar inom tre områden i ditt liv: dig som person, relationer med andra, och arbete. \n\nInnan vi gör det kan du fundera på följande:\n\n* Vem vill jag vara?\n* Vad vill jag stå för?\n* Hur vill jag relatera till världen omkring mig?\n\nSkriv ner dina svar om du vill. I nästa steg hjälper vi dig att bli lite mer specifik.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "title": "Mina värderingar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/values/lesson_2/L2-1.jpg",
+            "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/values/lesson_2/S2_01_values_personal_life.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "writing",
+        "title": "Övning – del 1",
+        "time": "5-10 minuter",
+        "question": "Min värden – personliga",
+        "longDescription": "Skriv nu ner en lista över saker i livet som du värderar. Det kan vara olika aspekter av personlig utveckling, sånt du vill stå för, eller hur du vill behandla kropp och själ.\n\n* Vilka aktiviteter vill du börja med eller återuppta?\n* Hur vill du slappna av och njuta regelbundet på ett hälsosamt sätt?\n* Hur vill du behandla dig själv?",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ]
+      }
+    ],
+    "alias": "Navigating stormy seas 1 (Introduction)"
+  },
+  "pt": {
+    "id": "meaning-making-in-a-crisis-navigating-stormy-seas",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "title": "Navegar por mares tempestuosos",
+        "content": "Esta lição vai ajudar-te a definir os teus valores em áreas diferentes da tua vida e a avaliar como estás a viver relativamente a esses valores.\n\n### A lição de hoje tem cinco partes:\n\n* O que são valores?\n* Valores pessoais\n* Valores nas relações\n* Valores no trabalho\n* Partilha\n\n### Vais precisar de:\n\n* 40 min sossegados sem interrupções\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "title": "A importância dos valores",
+        "content": "De forma simples, os valores são os desejos mais profundos do nosso coração. Dão-nos uma sensação de direção e orientam o nosso comportamento. É por isso que algumas pessoas falam sobre os seus valores como uma bússola.\n\n### Qual é a diferença entre valores e objetivos?\n\nOs valores são algo em que trabalhamos de forma contínua, por exemplo, ser um/a colega de trabalho envolvido/a e responsável. Os objetivos podem ser marcados como concluídos, por exemplo “conseguir uma promoção” ou “comprar um boné”.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Conecta-te com os teus valores",
+        "content": "O que valorizas na tua vida? Está na altura de descobrires.\n\nEste exercício tem como objetivo a identificação dos teus valores em 3 áreas da tua vida: na vida pessoal, nas relações com os outros e no trabalho. Estar numa crise ou com dificuldades emocionais pode levar-te a questionar tudo e a perceber que as tuas prioridades mudaram.\n\nComeça por te perguntar:\n\n* Quem quero ser?\n* O que quero representar?\n* Como me quero relacionar com o mundo à minha volta?\n\nSerás desafiada/o a avaliar o quanto vives de acordo com esses valores.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      }
+    ],
+    "alias": "Navigating stormy seas 1 (Introduction)"
+  }
+}

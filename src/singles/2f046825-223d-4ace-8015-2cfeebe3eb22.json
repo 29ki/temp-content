@@ -1,0 +1,317 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Act for change",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/act_for_change_mlqemj.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "exercise",
+    "id": "2f046825-223d-4ace-8015-2cfeebe3eb22",
+    "description": "Identify what triggers stress or anxiety and identify concrete solutions.",
+    "stations": [
+      {
+        "id": "2f046825-223d-4ace-8015-2cfeebe3eb22",
+        "root": "section1",
+        "alias": "Exercise: Act for change",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Act for Change",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/act_for_change_mlqemj.png",
+            "title": "Act for change",
+            "content": "In this exercise, you’ll explore one thing that is currently **contributing** to your **anxiety** and **identify** what can be done about it; from brainstorming **solutions** to planning **concrete steps**.",
+            "infoItems": [],
+            "buttonText": "Let’s do this"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Define your triggers",
+            "title": "",
+            "content": "When it comes to **defining** the **problems** that are **causing** us **stress**, examples like “*I feel inadequate”* are too **vague**. \n\nBeing more **specific** might be **hard** at first — but examples like “*I can’t focus on my job because I keep getting interrupted*” are better as they **help** us **identify** potential **solutions**.",
+            "buttonText": "Continue"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "Write down all your answers.\n\n1. As precisely as possible, define a problem that’s **causing** you **stress** at the moment. Make sure you pick something you can realistically solve within a week.\n2. Take a moment to consider ALL possible **solutions** that come to mind. Yes — there’s even room for wild, crazy and funny solutions, so don’t hold back.",
+            "question": "",
+            "time": "",
+            "alias": "Step 1",
+            "title": "",
+            "type": "writing",
+            "id": "section3",
+            "buttonText": "I'm done"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "3. Now **give** each solution a **score** from 0 to 10 depending on how **helpful** you think it would be for solving your problem.\n4. Pick **a solution** and a **time** to **implement** it this week. Make sure your goal is achievable and measurable so that you know when you’ve reached it.",
+            "question": "",
+            "time": "",
+            "alias": "Step 2",
+            "title": "",
+            "type": "writing",
+            "id": "section4",
+            "buttonText": "I'm done"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "Once you've tried your solution, consider these questions:\n\n* Are you **satisfied** with your solution?\n* If yes, which area of your life has **improved** as a result?\n* If no, can you give it another go or try **another** **solution**?",
+            "question": "",
+            "time": "",
+            "alias": "Step 3",
+            "title": "",
+            "type": "writing",
+            "id": "section5",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "7a1ca046-4d81-42d8-b645-cc58611c7302",
+            "alias": "Sharing wall: act for change",
+            "exampleText": "I might be more relaxed on a daily basis and open to new challenges instead of avoiding them.",
+            "question": "How would your life look if you applied this method to other challenges you have?",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "",
+            "content": "Well done for your willingness to act for change!\n\nWe encounter many difficult, distressing and painful situations in life. It's common to feel like we have no choice but to accept them. But many of these are **situations** we **can** **change.**\n\nThese **changes** don’t have to be **drastic**. Sometimes **tweaking** your actions a little bit is enough to make a major difference in your life.",
+            "buttonText": "Finish"
+          }
+        ],
+        "name": "Act for change",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Skapa förändring",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/act_for_change_mlqemj.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "exercise",
+    "id": "2f046825-223d-4ace-8015-2cfeebe3eb22",
+    "description": " Identifiera vad som stressar dig och identifiera konkreta lösningar.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "2f046825-223d-4ace-8015-2cfeebe3eb22",
+        "root": "section1",
+        "alias": "Exercise: Act for change",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Hantera förändring",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/act_for_change_mlqemj.png",
+            "title": "Skapa förändring",
+            "content": "I den här övningen kommer du få **utforska** en situation som **stressar** dig just **nu** och **kartlägga** vad du kan göra annorlunda; från att komma på **lösningar** till att planera **konkreta** steg.",
+            "buttonText": "Sätt igång"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Definiera vad som triggar dig",
+            "title": "",
+            "content": "När det kommer till att **definiera** **problemen** som orsakar **stress**, är exempel som \"*Jag känner mig otillräcklig*\" för **vaga**. \n\nAtt vara mer **konkret** kan vara **svårt** — men exempel som ”*Jag kan inte fokusera på mina arbetsuppgifter eftersom jag ofta blir avbruten*” är bättre eftersom det **hjälper** oss **identifiera** potentiella **lösningar**.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "Skriv ner alla dina svar.\n\n1. **Definiera** ett problem som **stressar** dig just nu. Gärna ett problem som du kan lösa inom en vecka. Välj något som är lagom utmanande, och var så tydlig som möjligt.\n2. Överväg nu ALLA möjliga **lösningar** du kan komma på. Ja — det finns också plats för vilda, galna och roliga lösningar, så kör på.\n",
+            "question": "",
+            "time": "",
+            "alias": "",
+            "title": "",
+            "type": "writing",
+            "id": "section3",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "3. **Ge** varje förslag mellan noll och tio **poäng**, beroende på hur bra du tror att respektive förslag skulle kunna lösa problemet.\n4. Välj **en lösning** och en **tidpunkt** för att **testa** din lösning inom den närmaste veckan. Se till att ditt mål går att uppnå och är mätbart så att du vet om du lyckats.",
+            "question": "",
+            "time": "",
+            "alias": "Steg 2",
+            "title": "",
+            "type": "writing",
+            "id": "section4",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "När du har testat din lösning, tänk igenom dessa punkter:\n\n* Är du **nöjd** med din lösning?\n* Om ja, vilket område i ditt liv har blivit **bättre** och hur?\n* Om nej, kan du försöka igen eller testa en **annan** **lösning** från din lista?",
+            "question": "",
+            "time": "",
+            "alias": "Steg 3",
+            "title": "",
+            "type": "writing",
+            "id": "section5",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "e8bf17da-61f7-4fb4-9a48-d7c774273196",
+            "nextSection": "section7",
+            "question": "Hur skulle ditt liv se ut om du använde den här metoden till andra utmaningar du har?",
+            "exampleText": "Jag skulle vara mer avslappnad i mitt dagliga liv och öppen för nya utmaningar istället för att undvika dem. ",
+            "alias": "Sharing wall: act for change"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Bra gjort!",
+            "topImageUri": "",
+            "title": "",
+            "content": "Bra jobbat, du är nu färdig med övningen!\n\nI livet möter vi många **stressande** och **smärtsamma** situationer. Det är lätt hänt att vi känner att vi inte har något annat val än att acceptera dem. Men många av dessa situationer **kan** vi **förändra.**",
+            "buttonText": "Avsluta"
+          }
+        ],
+        "name": "Skapa förändring",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS",
+      "YOUNG_ADULTS"
+    ],
+    "name": "Agir para Mudar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/act_for_change_mlqemj.png"
+    },
+    "duration": {
+      "count": 15,
+      "type": "minute"
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e"
+    ],
+    "type": "exercise",
+    "id": "2f046825-223d-4ace-8015-2cfeebe3eb22",
+    "description": "Reconhece o que te provoca stress e ansiedade. Identifica soluções concretas.",
+    "stations": [
+      {
+        "id": "2f046825-223d-4ace-8015-2cfeebe3eb22",
+        "root": "section1",
+        "alias": "Exercise: Act for change",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Agir para mudar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/act_for_change_mlqemj.png",
+            "title": "Agir para mudar",
+            "content": "*20 minutos*\n\nUm problema devidamente definido é um problema meio resolvido. Neste exercício, vais explorar algo que está a contribuir para a tua ansiedade neste momento e identificar o que pode ser feito a esse respeito, desde o debate de ideias até ao planeamento de passos concretos.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Define os teus gatilhos ",
+            "title": "Define os teus gatilhos ",
+            "content": "Quando se trata de definir os gatilhos de ansiedade, exemplos como \"preocupo-me com o mundo\" são vagos e abstratos. Um exemplo mais concreto como \"preocupo-me em perder o meu rendimento se a economia colapsar\" ajuda-nos a identificar melhor soluções novas como \"certificar-me de que tenho direito ao subsídio de desemprego\" ou \"candidatar-me a um segundo emprego\". Tendo isto em consideração, vamos passar à definição de um aspeto da crise que te está a causar ansiedade neste momento.",
+            "buttonText": "Continuar"
+          },
+          {
+            "shortDescription": "Escreve a tua resposta num pedaço de papel e guarda-o, Vais precisar dele mais tarde. ",
+            "longDescription": "",
+            "question": "Define o mais concretamente possível um problema que está a contribuir para a tua ansiedade durante a crise atual. Certifica-te de que escolhes algo que não seja demasiado avassalador e que possas resolver realisticamente no espaço de uma semana.",
+            "time": "Tempo: 5-10 min",
+            "alias": "Passo 1",
+            "title": "Passo 1",
+            "type": "writing",
+            "id": "section3",
+            "buttonText": "Continuar"
+          },
+          {
+            "shortDescription": "Escreve as tuas ideias num pedaço de papel e guarda-o, vais precisar dele mais tarde. ",
+            "longDescription": "",
+            "question": "Agora dedica um momento a considerar TODAS as soluções possíveis que te vierem à cabeça. Sim! Até as soluções extravagantes e ridículas, por isso não te retraias. ",
+            "time": "Tempo: 5-10 min",
+            "alias": "Passo 2",
+            "title": "Passo 2",
+            "type": "writing",
+            "id": "section4",
+            "buttonText": "Continuar"
+          },
+          {
+            "shortDescription": "Escreve a tua pontuação ao lado das ideias e guarda o papel, vais precisar dele mais tarde. ",
+            "longDescription": "",
+            "question": "Dá uma pontuação de 0 a 10 a cada solução, dependendo de quão útil achas que seria na resolução do teu problema. ",
+            "time": "Tempo: 5-10 min",
+            "alias": "Passo 3",
+            "title": "Passo 3",
+            "type": "writing",
+            "id": "section5",
+            "buttonText": "Continuar"
+          },
+          {
+            "shortDescription": "",
+            "longDescription": "Certifica-te de que o teu objetivo é alcançável e mensurável para que saibas quando o atingiste.",
+            "question": "Com base nas tuas notas, escolhe uma solução e uma altura na próxima semana em que a possas implementar.",
+            "time": "Tempo: 5-10 min",
+            "alias": "Passo 4",
+            "title": "Passo 4",
+            "type": "writing",
+            "id": "section6",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "8f257682-c8b3-4be9-ba73-803f66482cd5",
+            "alias": "Sharing wall: act for change",
+            "question": "Como seria a tua vida se aplicasses este método a alguns dos teus outros desafios?",
+            "exampleText": "Provavelmente terias dias mais relaxados e estaria aberta/o a novos desafios em vez de os evitar",
+            "nextSection": "section7"
+          },
+          {
+            "id": "section7",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Parabéns pela tua determinação em agir para mudar! \n\nAssim que tiveres a oportunidade de implementar a tua solução, considera estes pontos: \n\n* Estás satisfeita/o com a forma como correu? \n* Se sim, que área da tua vida melhorou em virtude desta solução? \n* Se não, podes tentar de novo ou experimentar outra solução?",
+            "buttonText": "Terminar"
+          }
+        ],
+        "name": "Agir para Mudar",
+        "type": "station"
+      }
+    ]
+  }
+}

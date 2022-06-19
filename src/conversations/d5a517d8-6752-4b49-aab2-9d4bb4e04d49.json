@@ -1,27 +1,27 @@
 {
   "en": {
-    "type": "lesson",
     "id": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
-    "alias": "YA Stress - Här och nu",
+    "alias": "Stress YA - Being here and now 1",
     "sections": [
       {
         "type": "editorialWithImage",
         "id": "db26634e-367a-4145-980c-1efc32c1d8d5",
         "alias": "Being here and now",
         "title": "Being here and now",
-        "content": "När vi är stressade är det lätt hänt att vi hela tiden tänker på framtiden. Planerar vad som behöver göras. Oroar oss över hur vi ska hinna med allt.\n\nDet blir extra svårt att fokusera på det som händer här och nu när vi fastnar i framtiden.",
+        "content": "When we're stressed, it's easy to get stuck in thoughts about the **future**. We start **planning** what needs to get done. And **worry** about how we're going to find the time for it all.\n\nThis makes it even **harder** to **focus** on what's happening here and now.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Sätt igång",
+            "content": "Let's go",
             "sectionId": "ef7c3e5d-dfe1-4888-b9a1-aa268846ddb0"
           }
-        ]
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/here-now_header.png"
       },
       {
         "type": "editorialWithImage",
         "id": "ef7c3e5d-dfe1-4888-b9a1-aa268846ddb0",
-        "content": "**I den här lektionen får du lära dig mer om:** \n\n* Vara här och nu\n* Skapa distans till dina tankar\n* Fokusera på en sak i taget\n* Bli mindre impulsiv",
+        "content": "### **Learn more about:**\n\n* Being here and now\n* Creating distance to your thoughts\n* Focusing on one thing at a time\n* Becoming less impulsive",
         "buttons": [
           {
             "component": "Button",
@@ -29,31 +29,44 @@
             "sectionId": "3db91ac8-fd68-48f2-82e2-18e524b8fc8d"
           }
         ],
-        "alias": "Du kommer lära dig"
+        "alias": "You will learn"
       },
       {
         "type": "editorialWithImage",
         "id": "3db91ac8-fd68-48f2-82e2-18e524b8fc8d",
         "title": "",
-        "alias": "Tankar är bara tankar",
+        "alias": "Our thoughts",
         "buttons": [
           {
             "component": "Button",
             "content": "Continue",
-            "sectionId": "5eb9f026-9604-4d90-aca0-94c034506d15"
+            "sectionId": "8148f8fe-6886-410d-95e1-c94c2cc1304d"
           }
         ],
-        "content": "**Våra tankar**\n\nEn av hjärnans uppgifter är att skapa tankar. Den är superbra på att ge oss tips och varningar, lösa problem och upptäcka misstag. \n\nDet har nämligen varit viktigt för vår överlevnad att upptäcka faror. Därför har vår hjärna utvecklat ett smart sätt att fungera på: nämligen att fokusera på det som är negativt eller det som inte fungerar. \n\nNär vi är stressade fokuserar vi *ännu mer* på möjliga faror."
+        "content": "## Our thoughts\n\nOne of the brain's jobs is to **create** thoughts. In fact, human brain is great at creating tips, warnings, solving problems and discovering mistakes.\n\nThese skills have been essential to our **survival**. That's why our brain is so good at detecting what's not working and **spotting** **danger**. If you think of it, it's really smart of our brain to work in this way."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8148f8fe-6886-410d-95e1-c94c2cc1304d",
+        "alias": "Survival skills",
+        "content": "When we're stressed, we focus **even** **harder** on any possible **threats**.\n\nBut not everything we interpret as dangerous in the 21st century is actually so. And it can be **hard** for our brain to tell the **difference**. \n\nThat's when our negative thoughts can **hinder** us.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "More",
+            "sectionId": "5eb9f026-9604-4d90-aca0-94c034506d15"
+          }
+        ]
       },
       {
         "type": "editorialWithImage",
         "id": "5eb9f026-9604-4d90-aca0-94c034506d15",
-        "alias": "Tankar är bara tankar 2",
-        "content": "Ett annat problem med den här överlevnadsförmågan är att våra negativa tankar kan *hindra oss*. Det är vanligt att vi tolkar våra tankar **som om de vore verkliga**. \n\nOm vi får tanken \"jag klarar det inte\" kan det hända att vi tror att **tanken är sann**, att vi **känner** oss dåliga och dessutom börjar **bete** oss som om tanken vore sann.\n\nDet kan också leda till att vi blir *ännu mer* stressade. Det blir också svårare att hitta en lösning på vårat problem — eftersom vi *tror* på tanken att vi \"inte klarar av det\".",
+        "alias": "Our thoughts 2",
+        "content": "Let's take the common thought \"I can't do it\" as an example. \n\nYou may start **believing** it to be true, start **feeling** worthless and even start **behaving** as if this thought was **true**.\n\nThis in turn can make us feel even more stressed. **Finding a solution** to our problem gets **harder** since we believe in the idea that we \"can't do it.\"",
         "buttons": [
           {
             "component": "Button",
-            "content": "Nästa",
+            "content": "Next",
             "sectionId": "acb9f099-44e4-4154-81cb-275883d40504"
           }
         ],
@@ -62,12 +75,12 @@
       {
         "type": "editorialWithImage",
         "id": "acb9f099-44e4-4154-81cb-275883d40504",
-        "alias": "4",
-        "content": "**Tankar är bara tankar**\\\nNär vi övar förmågan att fokusera på det som sker *här och nu* kan vi istället skapa lite **avstånd** till våra tankar. \n\nDet kan hjälpa oss att lägga märke till att vi har oerhört många tankar varje dag, och att se tankar för vad de faktiskt är — tankar.",
+        "alias": "Thoughts are just thoughts",
+        "content": "## Thoughts are just thoughts\n\nBy practicing our ability to focus on what's happening here and now, we can create more **distance** from our thoughts and see them for what they really are — thoughts, not facts.",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt ",
+            "content": "Makes sense",
             "sectionId": "e8bea890-1cfd-427e-93aa-5fabaef269d5"
           }
         ]
@@ -75,14 +88,14 @@
       {
         "type": "defaultSection",
         "id": "e8bea890-1cfd-427e-93aa-5fabaef269d5",
-        "alias": "Vanliga utmaningar",
+        "alias": "Common challenges",
         "content": [
           {
             "component": "TextGroup",
             "content": [
               {
                 "component": "Text",
-                "content": "När vi försöker fokusera på det som händer i stunden, är det vanligt att uppleva utmaningar med:\n\n1. Koncentration \n2. Att det känns obehagligt"
+                "content": "When we try to focus on the here and now, it's **common** to experience **challenges** with: \n\n1. Concentration\n2. Feelings of discomfort"
               }
             ]
           },
@@ -91,14 +104,14 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Läs mer",
+                "content": "Read more",
                 "sectionId": "b16653bd-9d6d-4899-a1e0-ab35654f75b4"
               },
               {
-                "component": "Button",
-                "content": "Gå till övningen",
+                "component": "NextConversationButton",
+                "content": "Go to exercise",
                 "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
-                "sectionId": "root"
+                "variant": "primary"
               }
             ]
           }
@@ -107,12 +120,12 @@
       {
         "type": "editorialWithImage",
         "id": "b16653bd-9d6d-4899-a1e0-ab35654f75b4",
-        "content": "**Jag kan inte koncentrera mig**\\\nVår hjärna är specialist på att ta emot intryck och associera. När vi övar på att vara här och nu är det därför vanligt att vi tappar fokus och börjar tänka på annat. Vad vi ska äta till middag, eller vilka som kommer att vara med på festen i helgen.  \n\nMen — att dina tankar vandrar iväg är **inte** samma sak som att du inte klarar av att fokusera på nuet. Varje gång du lägger märke till att du vandrat iväg i tankar så har du faktiskt fokuserat på det som pågår i stunden!",
+        "content": "**I can't concentrate**\\\n\\\nWhen we practice being here and now, it's common that we **lose focus**. We start thinking about other things.\n\nRemember that thoughts wandering off isn't the same thing as not being able to focus on the present. \n\nEvery time you **notice** your mind has wondered, you have actually focused on what's going on in the moment!",
         "alias": "Read more",
         "buttons": [
           {
             "component": "Button",
-            "content": "Fortsätt",
+            "content": "Continue",
             "sectionId": "8db3ba93-443d-44bc-8181-5a595cc0ca1b"
           }
         ]
@@ -126,7 +139,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Det känns obehagligt och jag kan inte slappna av**\\\nAtt fokusera på här och nu är inte samma sak som avslappning. Istället handlar det om att vara medveten om *vad* du upplever. \n\nIbland kanske du blir mer avslappnad. Ibland kanske du märker att du är spänd och stressad. Målet är att lägga märke till det som händer här och nu, inte att förändra eller bli av med sånt som känns jobbigt på insidan."
+                "content": "**It feels uncomfortable**\n\nFocusing on the here and now **isn't** the same thing as **relaxing**. It's about becoming **aware** of what you're experiencing.\n\nSometimes you may become more relaxed. Sometimes you may notice that you're tense and stressed. The goal is to **notice** what's happening here and now - not to change or get rid of what feels difficult."
               }
             ]
           },
@@ -134,10 +147,11 @@
             "component": "ButtonGroup",
             "content": [
               {
-                "component": "Button",
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Next",
                 "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
-                "content": "Continue",
-                "sectionId": "root"
+                "sectionId": ""
               }
             ]
           }
@@ -148,9 +162,8 @@
     "root": "db26634e-367a-4145-980c-1efc32c1d8d5"
   },
   "sv": {
-    "type": "lesson",
     "id": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
-    "alias": "YA Stress - Här och nu",
+    "alias": "Stress YA - Being here and now 1",
     "root": "69813b4b-d39f-4faa-971c-1e6f00ba563c",
     "sections": [
       {
@@ -158,19 +171,20 @@
         "id": "69813b4b-d39f-4faa-971c-1e6f00ba563c",
         "alias": "Att vara här och nu",
         "title": "Att vara här och nu",
-        "content": "När vi är stressade är det lätt hänt att vi hela tiden tänker på framtiden. Planerar vad som behöver göras. Oroar oss över hur vi ska hinna med allt.\n\nDet blir extra svårt att fokusera på det som händer här och nu när vi fastnar i framtiden.",
+        "content": "När vi är stressade är det lätt hänt att vi hela tiden tänker på **framtiden**. Vi **planerar** vad som behöver göras. Och **oroar** oss över hur vi ska hinna med allt.\n\nDå blir det extra **svårt** att **fokusera** på det som händer här och nu.",
         "buttons": [
           {
             "component": "Button",
             "content": "Sätt igång",
             "sectionId": "77dd91ad-bc5a-41c1-98d0-f3532dc1b633"
           }
-        ]
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/here-now_header.png"
       },
       {
         "type": "editorialWithImage",
         "id": "77dd91ad-bc5a-41c1-98d0-f3532dc1b633",
-        "content": "**I den här lektionen får du lära dig mer om:** \n\n* Vara här och nu\n* Skapa distans till dina tankar\n* Fokusera på en sak i taget\n* Bli mindre impulsiv",
+        "content": "**Lär dig mer om:** \n\n* Vara här och nu\n* Skapa sund distans till dina tankar\n* Fokusera på en sak i taget\n* Bli mindre impulsiv",
         "buttons": [
           {
             "component": "Button",
@@ -184,8 +198,21 @@
         "type": "editorialWithImage",
         "id": "69f8bb5e-ecaf-42dc-baec-a25926b9d034",
         "title": "",
-        "alias": "Tankar är bara tankar",
-        "content": "**Våra tankar**\n\nEn av hjärnans uppgifter är att skapa tankar. Den är superbra på att lösa problem, upptäcka misstag och ge oss varningar. \n\nDet har varit viktigt för vår överlevnad att upptäcka faror. Därför har vår hjärna utvecklat ett smart sätt att fungera på: att fokusera på det som är negativt eller det som inte fungerar. \n\nNär vi är stressade fokuserar vi *ännu mer* på möjliga faror.",
+        "alias": "Våra tankar",
+        "content": "## Våra tankar\n\nEn av hjärnans uppgifter är att **skapa** tankar. Den är superbra på att lösa problem, upptäcka misstag och ge oss varningar. \n\nDet har varit viktigt för vår **överlevnad**. Därför har vår hjärna utvecklat ett smart sätt att fungera på: att fokusera på det som är **negativt** eller det som inte fungerar.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "8c3f0a95-7bf9-4bf0-b4f1-769bd97cd1f3"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8c3f0a95-7bf9-4bf0-b4f1-769bd97cd1f3",
+        "content": "När vi är stressade fokuserar vi **ännu** **mer** på möjliga **faror**.\n\nEtt annat problem med den här överlevnadsförmågan är att våra negativa tankar kan hindra oss. Det är nämligen vanligt att vi tolkar våra tankar **som om de vore verkliga**.",
+        "alias": "Överlevnadsförmåga",
         "buttons": [
           {
             "component": "Button",
@@ -197,8 +224,8 @@
       {
         "type": "editorialWithImage",
         "id": "b042c6c2-055b-4ecd-9bd7-7def47dee448",
-        "alias": "Tankar är bara tankar 2",
-        "content": "Ett annat problem med den här överlevnadsförmågan är att våra negativa tankar kan *hindra oss*. Det är vanligt att vi tolkar våra tankar **som om de vore verkliga**. \n\nOm vi får tanken \"jag klarar det inte\" kan det hända att vi **tror** på tanken, att vi **känner** oss dåliga och dessutom börjar **bete** oss som om tanken vore sann.\n\nDet kan leda till att vi blir *mer* stressade. Och att det blir svårare att hitta en lösning på vårat problem, eftersom vi *tror* på tanken att vi \"inte klarar av det\".",
+        "alias": "Våra tankar 2",
+        "content": "Låt oss använda den vanliga tanken \"Jag klarar det inte\" som exempel.\n\nDet kan hända att vi **tror** på tanken, att vi **känner** oss dåliga och dessutom börjar **bete** oss som om tanken vore **sann**.\n\nDet kan leda till att vi blir mer stressade. Och att det blir **svårare** att hitta en **lösning** på vårat problem, eftersom vi *tror* på tanken att vi \"inte klarar av det\".",
         "buttons": [
           {
             "component": "Button",
@@ -211,8 +238,8 @@
       {
         "type": "editorialWithImage",
         "id": "36a3852d-b955-45fc-8cff-81a0f2cf2407",
-        "alias": "4",
-        "content": "**Tankar är bara tankar**\\\n\\\nNär vi övar vår förmåga att fokusera på det som sker *här och nu* kan vi istället skapa lite **avstånd** till våra tankar. \n\nDet kan hjälpa oss att lägga märke till att vi har oerhört många tankar varje dag, och att se tankar för vad de faktiskt är — tankar.",
+        "alias": "Tankar är bara tankar",
+        "content": "## Tankar är bara tankar\n\nNär vi övar vår förmåga att fokusera på det som sker här och nu kan vi istället skapa lite **avstånd** till våra tankar. \n\nDet kan hjälpa oss lägga märke till att vi har oerhört många tankar varje dag. Och att se tankar för vad de faktiskt är — bara tankar.",
         "buttons": [
           {
             "component": "Button",
@@ -230,7 +257,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "När vi försöker fokusera på det som händer i stunden, är det vanligt att uppleva utmaningar med:\n\n1. Koncentrationen\n2. Att det känns obehagligt"
+                "content": "När vi försöker fokusera på det som händer i stunden, är det **vanligt** att uppleva **utmaningar** med:\n\n1. Koncentrationen\n2. Att det känns obehagligt"
               }
             ]
           },
@@ -243,9 +270,10 @@
                 "sectionId": "f7663986-6a66-4f5b-89f2-8d57196c5206"
               },
               {
-                "component": "Button",
+                "component": "NextConversationButton",
                 "content": "Gå till övningen",
-                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec"
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+                "variant": "primary"
               }
             ]
           }
@@ -261,7 +289,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Jag kan inte koncentrera mig**\\\n\\\nVår hjärna är specialist på att ta emot intryck och dra liknelser. När vi övar på att vara här och nu är det därför vanligt att vi *tappar fokus*. Vi börjar tänka på annat. Vad vi ska äta till middag. Vilka som kommer att vara med på festen i helgen.  \n\nMen — att dina tankar vandrar iväg är *inte* samma sak som att du inte klarar av att fokusera på nuet. Varje gång du lägger märke till att dina tankar vandrat så har du faktiskt fokuserat på det som pågår i stunden!"
+                "content": "**Jag kan inte koncentrera mig**\\\n\\\nNär vi övar på att vara här och nu är det därför vanligt att vi **tappar fokus**. Vi börjar tänka på annat. \n\nMen — att dina tankar vandrar iväg är inte samma sak som att du inte klarar av att fokusera på nuet. \n\nVarje gång du lägger märke till att dina tankar vandrat så har du faktiskt fokuserat på det som pågår i stunden!"
               }
             ]
           },
@@ -277,7 +305,7 @@
             ]
           }
         ],
-        "alias": "Vanliga utmaningar"
+        "alias": "Läs mer"
       },
       {
         "type": "defaultSection",
@@ -288,7 +316,123 @@
             "content": [
               {
                 "component": "Text",
-                "content": "**Det känns obehagligt**\\\n\\\nAtt fokusera på här och nu är inte samma sak som avslappning. Istället handlar det om att vara medveten om *vad* du upplever. \n\nIbland kanske du blir mer avslappnad. Ibland kanske du märker att du är spänd och stressad. Målet är att lägga märke till det som händer här och nu, inte att förändra eller bli av med sånt som känns jobbigt på insidan."
+                "content": "**Det känns obehagligt**\\\n\\\nAtt fokusera på här och nu är **inte** samma sak som **avslappning**. Det handlar om att bli **medveten** om vad du upplever. \n\nIbland kanske du blir mer avslappnad. Ibland kanske du märker att du är spänd och stressad. Målet är att **lägga märke** till det som händer här och nu, inte att förändra eller bli av med sånt som känns jobbigt på insidan."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+                "content": "Fortsätt",
+                "variant": "primary"
+              }
+            ]
+          }
+        ],
+        "alias": "Read more 2"
+      }
+    ]
+  },
+  "pt": {
+    "id": "d5a517d8-6752-4b49-aab2-9d4bb4e04d49",
+    "alias": "Stress YA - Being here and now 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "db26634e-367a-4145-980c-1efc32c1d8d5",
+        "alias": "Estar aqui e agora",
+        "title": "Estar aqui e agora",
+        "content": "Quando estamos stressadas/os, é fácil ficarmos imersas/os em pensamentos sobre o **futuro**. Começamos a **planear** tudo o que tem de ser feito. E a **preocuparmo-nos** sobre como vamos arranjar tempo para isso tudo.\n\nIsso torna ainda mais **difícil** **focarmo-nos** no que está a acontecer aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vamos lá",
+            "sectionId": "ef7c3e5d-dfe1-4888-b9a1-aa268846ddb0"
+          }
+        ],
+        "topImageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/ya_stress/here-now_header.png"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "ef7c3e5d-dfe1-4888-b9a1-aa268846ddb0",
+        "content": "### **Aprender mais sobre:**\n\n* Estar aqui e agora\n* Criar distância em relação aos teus pensamentos\n* Focar numa coisa de cada vez\n* Tornares-te menos impulsiva/o",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "3db91ac8-fd68-48f2-82e2-18e524b8fc8d"
+          }
+        ],
+        "alias": "Vais aprender a "
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3db91ac8-fd68-48f2-82e2-18e524b8fc8d",
+        "title": "",
+        "alias": "Os nossos pensamentos",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "8148f8fe-6886-410d-95e1-c94c2cc1304d"
+          }
+        ],
+        "content": "## Os nossos pensamentos\n\nUma das tarefas do cérebro é **criar** pensamentos. Na verdade, o cérebro humano é ótimo a criar dicas, avisos, resolver problemas e descobrir erros.\n\nEssas habilidades foram essenciais para a nossa **sobrevivência**. É por isso que o nosso cérebro é tão bom a detetar o que não está a funcionar e a **descobrir** o **perigo**. Se pensares nisso, é realmente muito inteligente da parte do nosso cérebro trabalhar dessa maneira."
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "8148f8fe-6886-410d-95e1-c94c2cc1304d",
+        "alias": "Competências de sobrevivência",
+        "content": "Quando estamos stressadas/os, focamos **ainda** **mais** em qualquer potencial **ameaça**.\n\nMas nem tudo o que interpretamos como perigoso no século XXI é assim de facto. E pode ser **difícil** para o nosso cérebro perceber a **diferença**.\n\nÉ aí que os nossos pensamentos negativos podem **atrapalhar**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Mais ",
+            "sectionId": "5eb9f026-9604-4d90-aca0-94c034506d15"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5eb9f026-9604-4d90-aca0-94c034506d15",
+        "alias": "Os nossos pensamentos 2",
+        "content": "Vamos pegar neste pensamento comum \"eu não consigo fazer isto\" como exemplo.\n\nPodes começar a **acreditar** que é verdade, começar a **sentires-te** inútil e até mesmo começar a **comportares-te** como se esse pensamento fosse **verdadeiro**.\n\nIsso, por sua vez, pode fazer-nos sentir ainda mais stressados. **Encontrar uma solução** para o nosso problema fica **mais difícil**, pois acreditamos na ideia de que \"não conseguimos fazer isso\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Seguinte",
+            "sectionId": "acb9f099-44e4-4154-81cb-275883d40504"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "acb9f099-44e4-4154-81cb-275883d40504",
+        "alias": "Os pensamentos são apenas pensamentos ",
+        "content": "## Os pensamentos são apenas pensamentos\n\nAo praticar a nossa capacidade de focar no que está a acontecer aqui e agora, podemos criar mais **distância** dos nossos pensamentos e vê-los como realmente são - pensamentos, não factos.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Faz sentido ",
+            "sectionId": "e8bea890-1cfd-427e-93aa-5fabaef269d5"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "e8bea890-1cfd-427e-93aa-5fabaef269d5",
+        "alias": "Desafios comuns",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Quando nos concentramos no aqui e agora, é **comum** sentirmo-nos **desafiados** em termos de:\n\n1. Concentração\n2. Sentimentos de desconforto"
               }
             ]
           },
@@ -297,14 +441,61 @@
             "content": [
               {
                 "component": "Button",
+                "content": "Ler mais",
+                "sectionId": "b16653bd-9d6d-4899-a1e0-ab35654f75b4"
+              },
+              {
+                "component": "NextConversationButton",
+                "content": "Ir para o exercício",
                 "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
-                "content": "Fortsätt"
+                "variant": "primary"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "b16653bd-9d6d-4899-a1e0-ab35654f75b4",
+        "content": "**Não consigo concentrar-me**\\\n\\\nQuando praticamos estar aqui e agora, é comum **perdermos o foco**. Começarmos a pensar em outras coisas.\n\nLembra-te de que pensamentos a divagar não é a mesma coisa que não ser capaz de se concentrar no presente.\n\nDe cada vez que **percebes** que a tua mente vagueia, é sinal de que realmente te concentraste no que está a acontecer no momento!",
+        "alias": "Ler mais",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "8db3ba93-443d-44bc-8181-5a595cc0ca1b"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "8db3ba93-443d-44bc-8181-5a595cc0ca1b",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "**É desconfortável**\n\nConcentrares-te no aqui e agora **não é** a mesma coisa que **relaxar**. Trata-se de te tornares **consciente** do que estás a vivenciar.\n\nÀs vezes podes ficar mais relaxado. Às vezes podes perceber que estás tensa/o e stressada/o. O objetivo é **perceber** o que está a acontecer aqui e agora - e não alterar ou livrar-se do que parece difícil."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte",
+                "conversationId": "84ccc6d5-4853-4db5-a1fe-49e1720616ec",
+                "sectionId": ""
               }
             ]
           }
         ],
-        "alias": "Read more 2"
+        "alias": "Ler mais 2"
       }
-    ]
+    ],
+    "root": "db26634e-367a-4145-980c-1efc32c1d8d5"
   }
 }

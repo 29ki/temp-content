@@ -1,0 +1,20 @@
+{
+  "en": {
+    "heading__markdown": "# ~~Hi~~, welcome to 29k!",
+    "body": "This is a place where you get to grow as a person. Together with other people.",
+    "signUp_button": "Get started",
+    "signIn_button": "Already a user"
+  },
+  "sv": {
+    "heading__markdown": "# ~~Hej~~, välkommen till 29k!",
+    "signUp_button": "Kom igång",
+    "body": "Det här är en plats där du kan utvecklas som människa. Tillsammans med andra.",
+    "signIn_button": "Redan användare"
+  },
+  "pt": {
+    "heading__markdown": "# ~~Olá~~, estamos muito felizes por estares connosco na 29k FJN!",
+    "body": "Aqui podes crescer e desenvolver-te como pessoa. Juntamente com os outros membros.",
+    "signUp_button": "Quero começar",
+    "signIn_button": "Já fiz o meu registo"
+  }
+}

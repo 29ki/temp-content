@@ -1,0 +1,26 @@
+{
+  "en": {
+    "tab": {
+      "home": "Home",
+      "discover": "Discover",
+      "sharing": "Share",
+      "profile": "Profile"
+    }
+  },
+  "sv": {
+    "tab": {
+      "home": "Hem",
+      "discover": "Upptäck",
+      "sharing": "Dela",
+      "profile": "Profil"
+    }
+  },
+  "pt": {
+    "tab": {
+      "home": "Início",
+      "discover": "Explorar",
+      "sharing": "Partilhar",
+      "profile": "Perfil"
+    }
+  }
+}

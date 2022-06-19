@@ -1,0 +1,357 @@
+{
+  "en": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Wired for negativity",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/wired_to_negativity_kvfvp1.png"
+    },
+    "time": "10 minutes",
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "a51726af-47ef-4416-84c3-905fc4039a19",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "c8fd3250-94d7-4fbb-b270-019615c0440c",
+    "description": "Become aware of difficult thoughts in order to address your actual needs.",
+    "stations": [
+      {
+        "id": "c8fd3250-94d7-4fbb-b270-019615c0440c",
+        "root": "section1",
+        "alias": "Exercise: Wired for negativity",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Wired for negativity",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/wired_to_negativity_kvfvp1.png",
+            "title": "Wired for negativity",
+            "content": "*10 minutes*\n\nAs humans, we’re hardwired for negativity. This means that we are naturally more likely to remember and dwell on threatening events than to cherish the positive ones.\n\nOne way this can manifest itself is through negative self-talk, such as disapproving, judging, dwelling, condemning or focusing on one’s faults.",
+            "buttonText": "Got it"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Wired for negativity",
+            "topImageUri": "",
+            "title": "",
+            "content": "While negative self-talk is commonplace, it depletes our well-being. This can make us feel vulnerable, especially during a challenging situation or in difficult circumstances.",
+            "buttonText": "Got it"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Wired for negativity",
+            "title": "",
+            "content": "Think of it as adding an extra layer of intensity to your existing experience of the situation itself. For example:\n\n* Things turn out differently to what you’ve expected and you draw a conclusion that it was your or someone else’s fault\n* Your rights are restricted and you feel like you have no control over your life\n* You feel stressed and think that something is wrong with you.",
+            "buttonText": "Let's do this"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "Grab a pen and a paper and think of the challenging circumstances you’re facing right now.\n\nIn a few words, describe what is challenging for you about this situation.",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "How are you treating yourself while you’re facing this challenge?\n\nWhat are you saying, thinking, doing or not doing to yourself? Try to be as detailed as possible.",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "What effect do the things you’re saying, thinking, doing or not doing have on you while you’re facing this challenge?",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section7",
+            "type": "writing",
+            "alias": "Exercise",
+            "title": "Exercise",
+            "time": "",
+            "question": "",
+            "longDescription": "Coming back to the situation itself, what are your actual needs while facing this challenge?\n\nIs what you need different to what you’re saying, thinking, doing or not doing? If so, in what way?",
+            "buttonText": "Continue"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Reflection",
+            "topImageUri": "",
+            "title": "Reflection",
+            "content": "Looking back at your answers, consider:\n\n* When facing challenging situations, what impact do my negative thoughts have on me?\n* What can I learn from this exercise when it comes to meeting my own needs in challenging situations?",
+            "buttonText": "I'm done"
+          },
+          {
+            "id": "section9",
+            "type": "editorialWithImage",
+            "alias": "Well done!",
+            "topImageUri": "",
+            "title": "Well done!",
+            "content": "Well done for completing this exercise.\n\nOur natural bias for negativity can add to the severity of the challenge we’re facing and distract us from the experience itself and therefore from our needs.\n\nKeep noticing when you get on the negativity train and how it affects your experience of the situation as well as your well-being. As soon as you notice the negative thoughts creeping in, see them as an invitation to explore your actual needs and gently bring your focus back to how you can meet them.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "4fe6a6e0-da89-4582-90ea-4baa89b867bc",
+            "exampleText": "I tend to get anxious in groups and shame myself for this challenge, so I've begun to avoid gatherings.",
+            "alias": "sharing wall Bias for negativity",
+            "question": "How does the bias for negativity affect you?"
+          }
+        ],
+        "name": "Wired for negativity",
+        "type": "station"
+      }
+    ]
+  },
+  "sv": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Påverkad av negativa tankar",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/wired_to_negativity_kvfvp1.png"
+    },
+    "time": "10 minuter",
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "a51726af-47ef-4416-84c3-905fc4039a19",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "c8fd3250-94d7-4fbb-b270-019615c0440c",
+    "description": "Bli medveten om dina negativa tankar och förstå vad du egentligen behöver.",
+    "wip": false,
+    "stations": [
+      {
+        "id": "c8fd3250-94d7-4fbb-b270-019615c0440c",
+        "root": "section1",
+        "alias": "Exercise: Wired for negativity",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Fast i negativa tankar",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/wired_to_negativity_kvfvp1.png",
+            "title": "Fast i negativa tankar",
+            "content": "Människan är konstruerad för att tänka negativt. Det innebär att vi oftare minns och ältar negativa och svåra händelser, än att glädjas åt de som är positiva.\n\nVår negativa läggning blir tydlig när vi är självkritiska. Då dömer vi oss själva och ältar tankar kring något vi sagt, gjort eller kanske bara kring hur vi tycker att vi är.",
+            "buttonText": "Berätta mer"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Fast i negativa tankar",
+            "topImageUri": "",
+            "title": "",
+            "content": "Trots att självkritiska tankar är vardagsmat för många av oss, har de en avgörande betydelse för hur vi mår. I tuffa situationer kan de göra att vi känner oss mer ensamma, utsatta och får svårare att hitta lösningar.",
+            "buttonText": "Nästa"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Fast i negativa tankar",
+            "title": "",
+            "content": "Det är som att dina tankar försvårar en redan utmanande situation, till exempel:\n\n* Något gick inte som planerat och du tänker att det var ditt eller kanske någon annans fel.\n* Du har begränsade valmöjligheter i en situation och du tänker att du helt saknar kontroll över ditt liv.\n* Du känner dig stressad och tänker att något måste vara fel med dig.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Övning",
+            "title": "Övning",
+            "time": "",
+            "question": "",
+            "longDescription": "1. Tänk på en utmanande situation som du står inför just nu. Skriv ner vad det är som är utmanande för just dig i den här situationen.\n2. Hur behandlar du dig själv i den här utmanande situationen? Vad säger du till dig själv? Vad tänker du? Vad gör du? Vad gör du inte?",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Övning",
+            "title": "Övning",
+            "time": "",
+            "question": "",
+            "longDescription": "3. Hur påverkar de här orden, tankarna och handlingarna dig?\n4. Om du tänker efter, vad är det egentligen du behöver i den här situationen? Skiljer sig dina behov från det du faktiskt säger, tänker eller gör mot dig själv? Om ja, på vilket sätt?",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Dags för reflektion",
+            "topImageUri": "",
+            "title": "Dags för reflektion",
+            "content": "Ta en titt på det du skrivit och fundera på:\n\n* Hur påverkas jag av mina negativa tankar?\n* Vad kan den här övningen lära mig om mina behov när jag befinner mig i en utmanande situation?",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "id": "section9",
+            "type": "editorialWithImage",
+            "alias": "",
+            "topImageUri": "",
+            "title": "Bra jobbat, du är nu färdig med övningen!",
+            "content": "Tendensen att fastna i negativa tankar kan göra många situationer svårare än de behöver vara. Våra tankar distraherar oss så mycket att vi riskerar att missa våra egentliga behov.\n\nVar uppmärksam på när du hamnar i en negativ tankespiral. Öva på att lägga märke till hur det påverkar din upplevelse och hur du mår. Så fort en negativ tanke smyger sig på, se det som en möjlighet att utforska vad det är du egentligen behöver — och ta hand om det istället!",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "sharingExercise",
+            "previewSharings": true,
+            "enableEarlySkip": true,
+            "id": "4fe6a6e0-da89-4582-90ea-4baa89b867bc",
+            "exampleText": "Jag blir ofta nervös när jag ska prata inför många människor. Då skäms jag över att jag är nervös och därför har jag börjat undvika sådana situationer.",
+            "alias": "Reflektionsövning negativa tankar",
+            "question": "Hur påverkas du av dina negativa tankar?"
+          }
+        ],
+        "name": "Fast i negativa tankar",
+        "type": "station"
+      }
+    ]
+  },
+  "pt": {
+    "segments": [
+      "ADULTS"
+    ],
+    "name": "Moldados para o negativo",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/wired_to_negativity_kvfvp1.png"
+    },
+    "time": "10 minutes",
+    "duration": {
+      "count": 10,
+      "type": "minute"
+    },
+    "tags": [
+      "a51726af-47ef-4416-84c3-905fc4039a19",
+      "f4066bf3-5ded-4cf5-bd17-cc2800911e90"
+    ],
+    "type": "exercise",
+    "id": "c8fd3250-94d7-4fbb-b270-019615c0440c",
+    "description": "Torna-te consciente dos pensamentos difíceis para responderes às tuas necessidades atuais",
+    "stations": [
+      {
+        "id": "c8fd3250-94d7-4fbb-b270-019615c0440c",
+        "root": "section1",
+        "alias": "Exercise: Wired for negativity",
+        "sections": [
+          {
+            "id": "section1",
+            "type": "editorialWithImage",
+            "alias": "Moldados para o negativo",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652781086/New_images/exercises%20png/1024x1024/wired_to_negativity_kvfvp1.png",
+            "title": "Moldados para o negativo",
+            "content": "*10 minutos*\n\nComo humanos, estamos moldados para o que é negativo. Isto quer dizer que temos naturalmente mais propensão para nos lembrarmos e debruçarmos sobre acontecimentos que nos ameaçam, do que valorizarmos os mais positivos.\n\nUma das formas como isso se manifesta é através dos diálogos internos negativos, quando nos dirigimos a nós para desaprovar, julgar, deter, condenar ou focar nas falhas.",
+            "buttonText": "Vamos a isto"
+          },
+          {
+            "id": "section2",
+            "type": "editorialWithImage",
+            "alias": "Moldados para o negativo",
+            "topImageUri": "",
+            "title": "Moldados para o negativo",
+            "content": "Embora estes diálogos internos negativos sejam comuns acabam por debilitar o nosso bem-estar. Podem fazer-nos sentir vulneráveis, especialmente durante uma situação desafiante ou em circunstâncias difíceis.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section3",
+            "type": "editorialWithImage",
+            "alias": "Moldados para o negativo",
+            "title": "Moldados para o negativo",
+            "content": "Acrescenta uma camada extra de intensidade à tua experiência na situação propriamente dita. Por exemplo:\n\n* As coisas acabam por ser diferentes do que esperavas e tiras a conclusão de que a culpa foi tua ou de outra pessoa.\n* Os teus direitos estão restringidos e sentes que não tens controlo sobre a tua vida.\n* Sentes-te stressada/o e pensas que algo está errado contigo.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section4",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Com uma caneta e papel para fazeres o exercício, pensa nas circunstâncias desafiantes em que te encontras neste momento.\n\nEm poucas palavras, descreve o que é desafiante para ti sobre esta situação.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section5",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Como te estás a tratar enquanto enfrentas este desafio?\n\nO que estás a dizer, pensar, fazer ou não fazer a ti própria/o? Tenta ser o mais detalhado possível.",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section6",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Que efeito têm em ti as coisas que estás a dizer, pensar, fazer ou não fazer enquanto enfrentas este desafio?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section7",
+            "type": "writing",
+            "alias": "Exercício",
+            "title": "Exercício",
+            "time": "",
+            "question": "",
+            "longDescription": "Voltando à situação em si, quais são as tuas necessidades reais enquanto enfrentas este desafio?\n\nO que precisas é diferente do que estás a dizer, pensar, fazer ou não fazer? Se sim, de que forma?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section8",
+            "type": "editorialWithImage",
+            "alias": "Reflexão",
+            "topImageUri": "",
+            "title": "Reflexão",
+            "content": "Olhando para as tuas respostas, considera:\n\n* Quando enfrento situações desafiantes, que impacto têm em mim os pensamentos negativos?\n* O que posso aprender com este exercício quando se trata de satisfazer as minhas próprias necessidades em situações desafiantes?",
+            "buttonText": "Continuar"
+          },
+          {
+            "id": "section9",
+            "type": "editorialWithImage",
+            "alias": "Parabéns!",
+            "topImageUri": "",
+            "title": "Parabéns!",
+            "content": "Parabéns por teres concluído este exercício.\n\nA nossa tendência natural para o que é negativo pode aumentar a intensidade do desafio que enfrentamos e distrair-nos da experiência em si e, consequentemente, das nossas necessidades.\n\nAo embarcares no comboio negativo, tens de te dar conta de como isso afeta a tua experiência da situação, bem como do teu bem-estar. Assim que reparares que os pensamentos negativos se aproximam, considera-os um convite para explorares as tuas necessidades reais e cuidadosamente te concentrares na forma de as satisfazer.",
+            "buttonText": "Continuar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "d6dab9fc-27a1-482f-9533-e02257f8c4d2",
+            "alias": "sharing wall Bias for negativity",
+            "question": "Como é que a tendência para o negativo te afeta?",
+            "exampleText": "Como costumo ficar ansiosa/o em grupos comecei a evitar reuniões e eventos da empresa."
+          }
+        ],
+        "name": "Moldados para o negativo",
+        "type": "station"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "en": {
+    "id": "670ddee4-070e-4819-a3f6-0919db42b44d",
+    "alias": "Nourishing relationships 2: Reframing vulnerability-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Defenses to openness",
+        "content": "In tough times, feeling **vulnerable** is perfectly **normal**.\n\nMany of us were hurt in the past when trying to be our true selves or are scared to get hurt if we show vulnerability. \n\nThat's why we tend to **protect** **ourselves** by developing so-called **defense** **mechanisms**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "4b21a351-396a-46cf-8f46-243c69661647"
+          }
+        ],
+        "alias": "3",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629877872/jens-lelie-u0vgcIOQG08-unsplash_wpyc47.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "4b21a351-396a-46cf-8f46-243c69661647",
+        "content": "A common defense mechanism is staying **superficial** in conversations. Another one is **avoiding** meaningful **connections** by only engaging in small talk or switching subjects. \n\nThe problem is that while doing the above to **protect** ourselves, it **prevents** us from **revealing** what we really **feel**, **think**, **need** or **value** — and from really getting close to others.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "1b70302c-299d-47f1-8242-92a54021cba9",
+            "content": "More mechanisms"
+          }
+        ],
+        "alias": "Defense mechanism I"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b70302c-299d-47f1-8242-92a54021cba9",
+        "content": "Other common defense mechanisms are:\n\n* **People-pleasing:** not speaking your truth; saying yes to everything.\n* **Being cynical or critical:** hiding your joy, love and appreciation for things.\n* **Always being OK:** not showing that you’re upset or worried; keeping secrets.\n* **Distancing:** keeping people at a distance; blaming; judging.",
+        "alias": "Defense mechanism II",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Next",
+            "sectionId": "de473250-ae07-4704-ac97-fe89955f7ae9"
+          }
+        ]
+      },
+      {
+        "type": "sharingExercise",
+        "id": "de473250-ae07-4704-ac97-fe89955f7ae9",
+        "alias": "Sharing question",
+        "question": "Do you recognise any of these defense mechanisms in yourself?",
+        "exampleText": "I just realised that I use both people-pleasing and always being OK as a way to avoid sharing my true experiences. For the same reason I also often shift focus back to the other person.",
+        "nextSection": "section4"
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "*\"Vulnerability is not winning or losing; it’s having the courage to show up and be seen when we have no control over the outcome\",* Brené Brown.\n\nThis doesn’t mean you have to **reveal** everything that’s on your mind. In fact, **courage** is about **opening** **up** and taking small risks, even if they feel uncomfortable.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "03490810-525e-45f6-934e-10f1ab70a071",
+            "content": "Let's try it"
+          }
+        ],
+        "alias": "Courage"
+      }
+    ]
+  },
+  "sv": {
+    "id": "670ddee4-070e-4819-a3f6-0919db42b44d",
+    "alias": "Nourishing relationships 2: Reframing vulnerability-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Hinder för att öppna sig",
+        "content": "I tuffa tider är det vanligt att känna sig **extra** **sårbar**.\n\nMånga av oss har blivit sårade tidigare när vi försökt vara oss själva, eller är rädda för att bli sårade om vi visar sårbarhet.\n\nDärför försöker vi ofta **skydda** **oss** själva genom att utveckla så kallade **försvarsmekanismer**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "3ca32f47-a9c2-451d-a3c9-6c7341873213"
+          }
+        ],
+        "alias": "3",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629877872/jens-lelie-u0vgcIOQG08-unsplash_wpyc47.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3ca32f47-a9c2-451d-a3c9-6c7341873213",
+        "content": "En vanlig försvarsmekanism är att alltid vara relativt **ytlig** i samtal. En annan är att **byta ämne** så fort något känsligt kommer upp.\n\nProblemet är att samtidigt som vi gör ovanstående för att **skydda** oss själva, så **hindrar** det oss från att berätta vad vi verkligen **känner**, **tycker**, **behöver** eller **värdesätter** – och från att verkligen komma andra nära.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Fler exempel",
+            "sectionId": "28c56dae-cee5-4db3-bff6-7e941033b686"
+          }
+        ],
+        "alias": "Defense mechanism I"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "28c56dae-cee5-4db3-bff6-7e941033b686",
+        "content": "Andra vanliga försvarsmekanismer är:\n\n* **Att vara tillmötesgående** - inte berätta vad vi känner, säga ja till allt\n* **Att vara cynisk eller kritisk** - dölja glädje, kärlek och uppskattning för saker\n* **Att alltid vara OK** - inte visa när vi är upprörda eller oroliga, ha hemligheter\n* **Distansera** – hålla människor på avstånd, skylla på andra, vara dömande",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Nästa",
+            "sectionId": "63367ea4-0e02-405e-9fc3-985305b88eec"
+          }
+        ],
+        "alias": "Defense mechanism II"
+      },
+      {
+        "type": "sharingExercise",
+        "id": "63367ea4-0e02-405e-9fc3-985305b88eec",
+        "alias": "Sharing question",
+        "nextSection": "section4",
+        "question": "Vilka av försvarsmekanismerna känner du igen hos dig själv?",
+        "exampleText": "Jag insåg precis att jag är överdrivet tillmötesgående och sällan visar när jag är upprörd som ett sätt att undvika att dela min upplevelse. Av samma anledning flyttar jag ofta fokus tillbaka till den andra personen."
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "title": "",
+        "content": "> *\"Sårbarhet är inte att vinna eller förlora; det har att ha modet att våga visa oss även när vi inte har kontroll över resultatet\"* \n\nBrené Brown\n\nDet betyder inte att du måste **avslöja** allt du tänker och känner. **Mod** handlar om att **öppna** sig och ta små risker, även när en känner sig obekväm.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "03490810-525e-45f6-934e-10f1ab70a071",
+            "content": "Testa"
+          }
+        ],
+        "alias": "Mod"
+      }
+    ]
+  },
+  "pt": {
+    "id": "670ddee4-070e-4819-a3f6-0919db42b44d",
+    "alias": "Nourishing relationships 2: Reframing vulnerability-2",
+    "root": "section3",
+    "sections": [
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "title": "Defesas contra a abertura",
+        "content": "Em tempos difíceis, sentirmo-nos vulneráveis é perfeitamente normal. Mas, como muitos de nós fomos magoados no passado quando tentámos ser nós próprios, tendemos a proteger-nos, construindo uma parede à nossa volta.\n\nUm mecanismo de proteção muito comum é ser superficial nas conversas e evitar conversas com significado, usando conversa de circunstância ou mudando de assunto. Estes comportamentos impedem-nos de abrandar, de revelar o que realmente sentimos, pensamos, precisamos ou valorizamos.\n\nOutros mecanismos de defesa comuns são:\n\n* **Agradar às pessoas** - não dizer a tua verdade e dizer sim a tudo\n* **Ser cética/o ou crítica/o**- esconder a tua alegria, amor e apreço pelas coisas\n* **Estar sempre bem -** não mostrar que estás chateada/o ou preocupada/o, guardar segredos\n* **Distanciar** - manter as pessoas à distância; culpar, julgar",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "title": "O meu significado de vulnerabilidade",
+        "description": "\"Estes anos todos vi tanta vulnerabilidade evitável (...) que parte é da nossa inteira responsabilidade.\"",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "03490810-525e-45f6-934e-10f1ab70a071",
+            "content": "Continuar"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448952/29k%20FJN/Courses/Nourishing%20Relationships/Photos%20Final%20(Use%20This%20One)/L3P5beingthere_a74doq.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622222090/29k%20FJN/Courses/Nourishing%20Relationships/Videos%20Final/L2_Vulnerabilidade_V2_ubbubv.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

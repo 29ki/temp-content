@@ -1,0 +1,509 @@
+{
+  "en": {
+    "messages": {
+      "onRamp1": {
+        "body__markdown": "Hey Everyone! Tomorrow you have a scheduled <!course:{{courseId}}|{{courseName}}> video sharing. A reminder:\n\n1. Complete <!lesson:{{lessonId}}|{{lessonName}}> to be ready\n2. If you can't make the sharing, be sure to let the others know\n3. Be available and ready with your written exercises in a quiet place \n\nRemember, group sharing is important for your personal growth. And it means just as much to the others.",
+        "notification": "Hey Everyone! Tomorrow you have a scheduled <!course:{{courseId}}|{{courseName}}> video sharing. A reminder:\n\n1. Complete <!lesson:{{lessonId}}|{{lessonName}}> to be ready\n2. If you can't make the sharing, be sure to let the others know\n3. Be available and ready with your written exercises in a quiet place \n\nRemember, group sharing is important for your personal growth. And it means just as much to the others."
+      },
+      "onRamp2": {
+        "body__markdown": "3 hours left until your <!course:{{courseId}}|{{courseName}}> sharing! Make sure you've completed <!lesson:{{lessonId}}|{{lessonName}}>, and be ready to take the video call in a quiet place, so you can truly be present.",
+        "notification": "3 hours left until your <!course:{{courseId}}|{{courseName}}> sharing! Make sure you've completed <!lesson:{{lessonId}}|{{lessonName}}>, and be ready to take the video call in a quiet place, so you can truly be present."
+      },
+      "groupLanguageUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> just updated this group's language. [Change](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> just updated this group's language"
+      },
+      "sharingDidHappenWithTopic": {
+        "body__markdown": "Thinking back on the latest sharing you had together. What was your biggest take away?",
+        "notification": "What was your biggest take away from your latest sharing?"
+      },
+      "joiningSharing": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> just started the group's video sharing. [Join](29k:group:video)",
+        "notification": "<!user:{{userId}}|{{userName}}> just started the group's video sharing"
+      },
+      "groupSetToPrivate": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> just changed the group to private. [Change](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> just changed the group to private."
+      },
+      "lessonCompletionContent": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> just completed <!content:{{contentId}}|{{contentName}}> to be ready for the upcoming sharing.",
+        "notification": "<!user:{{userId}}|{{userName}}> just completed <!content:{{contentId}}|{{contentName}}> to be ready for the upcoming sharing."
+      },
+      "groupSetToPublic": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> just changed the group to public. [Change](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> just changed the group to public."
+      },
+      "groupCreated": {
+        "body__markdown": "Thank you for creating a space where you and others can grow.\n\nThe next step is for others to join. Maybe you know someone you would like to invite?",
+        "notification": "Thank you for creating a space where you and others can grow. The next step is for others to join. Maybe you know someone you would like to invite?"
+      },
+      "leftGroupDueToInactivity": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> has been removed from this group due to inactivity.",
+        "notification": "<!user:{{userId}}|{{userName}}> has been removed from this group due to inactivity."
+      },
+      "sharingDidHappenWithoutTopic": {
+        "body__markdown": "Your next sharing is planned for <!date:{{date}}|{{dateString}}>.\n\nWhat would you like to work on?\n\nOnce you've agreed, update your [group settings](29k:group:settings).",
+        "notification": "What would you like to work on for your next sharing?"
+      },
+      "onRamp2Empty": {
+        "body__markdown": "3 hours left until your sharing.\n\nBe ready to take the call in a quiet place. Bring your notes and maybe a phone charger.",
+        "notification": "3 hours left until your sharing.\n\nBe ready to take the call in a quiet place. Bring your notes and maybe a phone charger."
+      },
+      "onRamp1Empty": {
+        "body__markdown": "You have a sharing planned for tomorrow.\n\nIf you for any reason can't make the sharing, be sure to let the others know.\n\nYou're in this together!",
+        "notification": "You have a sharing planned for tomorrow.\n\nIf you for any reason can't make the sharing, be sure to let the others know.\n\nYou're in this together!"
+      },
+      "groupTimeUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> just updated this group's sharing time. [Change](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> just updated this group's sharing time"
+      },
+      "groupNameUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> named the group {{name}}. [Change](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> named the group {{name}}"
+      },
+      "sharingDidNotHappen": {
+        "body__markdown": "It seems your sharing didn't happen when planned. When would you like to meet instead?\n\nAgree within the group and then update the date and time in [settings](29k:group:settings).",
+        "notification": "It seems your sharing didn't happen when planned."
+      },
+      "groupIsPublic": {
+        "body__markdown": "Your group is public. If you don't want new members to join, consider making it private. [Change](29k:group:settings)",
+        "notification": "Your group is public. If you don't want new members to join, consider making it private."
+      },
+      "timeAndTopicNotSet": {
+        "body__markdown": "Time to plan your sharing.\n\nWhat 29k theme, course or challenge would you like to work on together?\n\nWhat times would work for you?\n\nOnce you've agreed, update your [group settings](29k:group:settings).",
+        "notification": "Time to plan your sharing."
+      },
+      "subsequentJoins": {
+        "body__markdown": "Welcome <!user:{{userId}}|{{userName}}> who just joined your group!",
+        "notification": "<!user:{{userId}}|{{userName}}> just joined your sharing group"
+      },
+      "lessonCompletion": {
+        "body__markdown": "Great. {{userName}} just completed <!lesson:{{lessonId}}|{{lessonName}}> to be ready for the upcoming sharing.",
+        "notification": "{{userName}} just completed <!lesson:{{lessonId}}|{{lessonName}}>"
+      },
+      "sharingAboutToBeginPush": {
+        "title": "Your group sharing is ready to begin",
+        "body": "Your group sharing is ready to begin, please open the app and start the group video call. Your group is waiting!"
+      },
+      "courseCompletion": {
+        "body__markdown": "You made it to the end of <!course:{{courseId}}|{{courseName}}>! Keep letting your group know how these tools help you in everyday life.\n\nWe hope you can lean on each other in tough times or when you’ve overcome an inner obstacle.",
+        "notification": "You made it to the end of <!course:{{courseId}}|{{courseName}}>! Keep letting your group know how these tools help you in everyday life.\n\nWe hope you can lean on each other in tough times or when you’ve overcome an inner obstacle."
+      },
+      "onRamp2Content": {
+        "body__markdown": "3 hours left until your sharing about <!content:{{contentId}}|{{contentName}}>.\n\nBe ready to take the call in a quiet place. Bring your notes and maybe a phone charger.",
+        "notification": "3 hours left until your sharing about <!content:{{contentId}}|{{contentName}}>.\n\nBe ready to take the call in a quiet place. Bring your notes and maybe a phone charger."
+      },
+      "groupIsFull": {
+        "body__markdown": "Your group is full!"
+      },
+      "leftGroup": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> left your sharing group.",
+        "notification": "<!user:{{userId}}|{{userName}}> left your sharing group"
+      },
+      "onRamp1Content": {
+        "body__markdown": "You have a sharing planned for tomorrow.\n\nHave you completed <!content:{{contentId}}|{{contentName}}>?\n\nIf you for any reason can't make the sharing, be sure to let the others know.\n\nYou're in this together!",
+        "notification": "You have a sharing planned for tomorrow.\n\nHave you completed <!content:{{contentId}}|{{contentName}}>?\n\nIf you for any reason can't make the sharing, be sure to let the others know.\n\nYou're in this together!"
+      },
+      "onRamp1Course": {
+        "body__markdown": "Hey Everyone! Tomorrow you have a scheduled <!course:{{courseId}}|{{courseName}}> video sharing. A reminder:\n\n1. Complete <!lesson:{{lessonId}}|{{lessonName}}> to be ready\n2. If you can't make the sharing, be sure to let the others know\n3. Be available and ready with your written exercises in a quiet place \n\nRemember, group sharing is important for your personal growth. And it means just as much to the others.",
+        "notification": "Hey Everyone! Tomorrow you have a scheduled <!course:{{courseId}}|{{courseName}}> video sharing. A reminder:\n\n1. Complete <!lesson:{{lessonId}}|{{lessonName}}> to be ready\n2. If you can't make the sharing, be sure to let the others know\n3. Be available and ready with your written exercises in a quiet place \n\nRemember, group sharing is important for your personal growth. And it means just as much to the others."
+      },
+      "timeNotSet": {
+        "body__markdown": "This group has decided to work on <!content:{{contentId}}|{{contentName}}> together.\n\nWhen would you like to have your sharing about that?\n\nOnce you've agreed, update your [group settings](29k:group:settings).",
+        "notification": "When would you like to have your sharing?"
+      },
+      "onRamp2Course": {
+        "body__markdown": "3 hours left until your <!course:{{courseId}}|{{courseName}}> sharing! Make sure you've completed <!lesson:{{lessonId}}|{{lessonName}}>, and be ready to take the video call in a quiet place, so you can truly be present.",
+        "notification": "3 hours left until your <!course:{{courseId}}|{{courseName}}> sharing! Make sure you've completed <!lesson:{{lessonId}}|{{lessonName}}>, and be ready to take the video call in a quiet place, so you can truly be present."
+      },
+      "sharingAboutToBegin": {
+        "body__markdown": "Your group sharing is ready to begin, please open the app and start the group video call. Your group is waiting!",
+        "notification": "Your group sharing is ready to begin, please open the app and start the group video call. Your group is waiting!"
+      },
+      "timeAndTopicSet": {
+        "body__markdown": "This group has decided to work on <!content:{{contentId}}|{{contentName}}> at <!date:{{date}}|{{dateString}}> together.\n\nFor the best sharing experience, everyone in the group should do the same lesson, meditation, exercise or test before the sharing.\n\nIf you can't make it to the sharing or would like to work on something else, let the others know."
+      },
+      "topicNotSet": {
+        "body__markdown": "Your sharing is planned for <!date:{{date}}|{{dateString}}>.\n\nFor the best sharing experience, everyone in the group should do the same lesson, meditation, exercise or test before the sharing.\n\nWhat would you like to work on?\n\nOnce you've agreed, update your [group settings](29k:group:settings).",
+        "notification": "What would you like to work on for your planned sharing?"
+      }
+    },
+    "qa": {
+      "choices": {
+        "choice_yes": "Yes",
+        "choice_no": "No"
+      },
+      "courseCompletion": {
+        "question": {
+          "body__markdown": "Hope your <!lesson:{{lessonId}}|{{lessonName}}> sharing was good. Ready to complete the course?",
+          "notification": "Hope your <!lesson:{{lessonId}}|{{lessonName}}> sharing was good. Ready to complete the course?"
+        },
+        "answer": {
+          "body__markdown_yes": "<!user:{{userId}}|{{userName}}> said “Yes” when asked if <!lesson:{{lessonId}}|{{lessonName}}> has been completed.",
+          "body__markdown_no": "<!user:{{userId}}|{{userName}}> replied “No” when asked if <!course:{{courseId}}|{{courseName}}> is complete. The sharing for <!lesson:{{lessonId}}|{{lessonName}}> has been postponed to next week.",
+          "notification_yes": "Done with <!course:{{courseId}}|{{courseName}}>. Congratulations!",
+          "notification_no": "<!lesson:{{lessonId}}|{{lessonName}}> was postponed to next week."
+        }
+      },
+      "courseProgress": {
+        "question": {
+          "body__markdown": "Hope your sharing about <!lesson:{{lessonId}}|{{lessonName}}> was good. Are you ready to move on to the next lesson?",
+          "notification": "Are you ready to move on to the next lesson?"
+        },
+        "answer": {
+          "body__markdown_yes": "<!user:{{userId}}|{{userName}}> replied “Yes” to move the group on to the next lesson.",
+          "body__markdown_no": "<!user:{{userId}}|{{userName}}> said “No” to move the group forward to the next lesson. The sharing for <!lesson:{{lessonId}}|{{lessonName}}> was postponed to next week.",
+          "notification_yes": "<!user:{{userId}}|{{userName}}> replied “Yes” to move the group to the next lesson.",
+          "notification_no": "Sharing for <!lesson:{{lessonId}}|{{lessonName}}> has been postponed to next week."
+        },
+        "answeredNo": {
+          "body_markdown": "<!user:{{userId}}|{{userName}}> said “No” to move the group forward to the next lesson. The sharing for <!lesson:{{lessonId}}|{{lessonName}}> was postponed to next week."
+        }
+      }
+    },
+    "status": {
+      "changeSharingLesson": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> changed the group to <!lesson:{{lessonId}}|{{lessonName}}>. [Change](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> changed the group to <!lesson:{{lessonId}}|{{lessonName}}>"
+      }
+    }
+  },
+  "sv": {
+    "messages": {
+      "onRamp1": {
+        "body__markdown": "Hej allihopa! I morgon har ni ett schemalagt gruppsamtal om <!course:{{courseId}}|{{courseName}}>. För att ni ska vara redo:\n\n1. Gör klart <!lesson:{{lessonId}}|{{lessonName}}>\n2. Informera de andra om du inte kommer kunna vara med\n3. Var tillgänglig på en lugn plats med dina skriftliga övningar nära till hands\n\nKom ihåg att dela med sig i en grupp är inte bara viktigt för din personliga utveckling, utan är lika viktigt för andras.",
+        "notification": "Hej allihopa! I morgon har ni ett schemalagt gruppsamtal om <!course:{{courseId}}|{{courseName}}>. För att ni ska vara redo:\n\n1. Gör klart <!lesson:{{lessonId}}|{{lessonName}}>\n2. Informera de andra om du inte kommer kunna vara med\n3. Var tillgänglig på en lugn plats med dina skriftliga övningar nära till hands\n\nKom ihåg att dela med sig i en grupp är inte bara viktigt för din personliga utveckling, utan är lika viktigt för andras."
+      },
+      "onRamp2": {
+        "body__markdown": "3 timmar kvar till gruppsamtalet om <!course:{{courseId}}|{{courseName}}>! Se till att du har gjort klart <!lesson:{{lessonId}}|{{lessonName}}> och var tillgänglig för samtalet på en lugn plats så att du verkligen kan vara närvarande.",
+        "notification": "3 timmar kvar till gruppsamtalet om <!course:{{courseId}}|{{courseName}}>! Se till att du har gjort klart <!lesson:{{lessonId}}|{{lessonName}}> och var tillgänglig för samtalet på en lugn plats så att du verkligen kan vara närvarande."
+      },
+      "groupLanguageUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> uppdaterade just språket för denna grupp. [Ändra](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> uppdaterade språket"
+      },
+      "sharingDidHappenWithTopic": {
+        "body__markdown": "Tänk tillbaks på det senaste gruppsamtalet ni hade. Vad uppskattade du allra mest?",
+        "notification": "Vad uppskattade du i ert senaste gruppsamtal?"
+      },
+      "joiningSharing": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> startade precis gruppsamtalet. [Gå med](29k:group:video)",
+        "notification": "<!user:{{userId}}|{{userName}}> startade precis ett gruppsamtal"
+      },
+      "groupSetToPrivate": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> ändrade gruppen till att vara privat. [Ändra](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> ändrade gruppen till att vara privat."
+      },
+      "lessonCompletionContent": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> avslutade precis <!content:{{contentId}}|{{contentName}}> och är redo för det kommande gruppsamtalet.",
+        "notification": "<!user:{{userId}}|{{userName}}> avslutade precis <!content:{{contentId}}|{{contentName}}> och är redo för det kommande gruppsamtalet."
+      },
+      "groupSetToPublic": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> ändrade gruppen till att vara publik. [Ändra](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> ändrade gruppen till att vara publik."
+      },
+      "groupCreated": {
+        "body__markdown": "Tack för att du skapar en plats där du och andra kan utvecklas.\n\nNästa steg är för andra att gå med i din grupp. Kanske känner du någon du skulle vilja bjuda in?",
+        "notification": "Tack för att du skapar en plats där du och andra kan utvecklas. Nästa steg är för andra att gå med i din grupp. Kanske känner du någon du skulle vilja bjuda in?"
+      },
+      "leftGroupDueToInactivity": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> har tagits bort från denna grupp på grund av inaktivitet.",
+        "notification": "<!user:{{userId}}|{{userName}}> har tagits bort från denna grupp på grund av inaktivitet."
+      },
+      "sharingDidHappenWithoutTopic": {
+        "body__markdown": "Ni har ett gruppsamtal planerat <!date:{{date}}|{{dateString}}>.\n\nVad vill ni jobba på inför det tillfället?\n\nUppdatera era [gruppinställningar](29k:group:settings) när ni kommit överens.",
+        "notification": "Vad vill ni utforska tillsammans i nästa gruppsamtal?"
+      },
+      "onRamp2Empty": {
+        "body__markdown": "3 timmar kvar till gruppsamtalet.\n\nFörbered för att ta samtalet på en lugn plats. Ta med dina anteckningar och kanske en laddare till din telefon.",
+        "notification": "3 timmar kvar till gruppsamtalet.\n\nFörbered för att ta samtalet på en lugn plats. Ta med dina anteckningar och kanske en laddare till din telefon."
+      },
+      "onRamp1Empty": {
+        "body__markdown": "I morgon har ni ett schemalagt gruppsamtal.\n\nBerätta för de andra om du av någon anledning inte kan vara med.\n\nNi gör det här ihop!",
+        "notification": "I morgon har ni ett schemalagt gruppsamtal.\n\nBerätta för de andra om du av någon anledning inte kan vara med.\n\nNi gör det här ihop!"
+      },
+      "groupTimeUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> uppdaterade just tiden för detta gruppsamtal. [Ändra](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> uppdaterade gruppsamtalstiden"
+      },
+      "groupNameUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> ändrade namn på gruppen till {{name}}. [Ändra](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> gav gruppen namnet {{name}}"
+      },
+      "sharingDidNotHappen": {
+        "body__markdown": "Det verkar som ert gruppsamtal inte blev av. När skulle ni vilja träffas istället?\n\nKom överens i gruppen och uppdatera datum och tid i era [gruppinställningar](29k:group:settings).",
+        "notification": "Det verkar som ert gruppsamtal inte blev av. När skulle ni vilja träffas istället?"
+      },
+      "groupIsPublic": {
+        "body__markdown": "Din grupp är publik. Om du inte vill att nya medlemmar går med kan du välja att göra den privat. [Ändra](29k:group:settings)",
+        "notification": "Din grupp är publik. Om du inte vill att nya medlemmar går med kan du välja att göra den privat."
+      },
+      "timeAndTopicNotSet": {
+        "body__markdown": "Dags att planera ert gruppsamtal.\n\nVilket tema, ämne eller utmaning vill ni utforska tillsammans?\n\nVilken tid passar er?\n\nNär ni enats uppdaterar ni era [gruppinställningar](29k:group:settings).",
+        "notification": "Dags att planera ert gruppsamtal."
+      },
+      "subsequentJoins": {
+        "body__markdown": "Säg hej till <!user:{{userId}}|{{userName}}> som just har gått med i din grupp!",
+        "notification": "<!user:{{userId}}|{{userName}}> gick precis med i din grupp"
+      },
+      "lessonCompletion": {
+        "body__markdown": "Bra! {{userName}} avslutade precis <!lesson:{{lessonId}}|{{lessonName}}> och är redo för det kommande gruppsamtalet.",
+        "notification": "{{userName}} blev just klar med <!lesson:{{lessonId}}|{{lessonName}}>"
+      },
+      "sharingAboutToBeginPush": {
+        "title": "Ditt gruppsamtal är redo att börja.",
+        "body": "Ditt gruppsamtal är redo att börja, öppna appen och starta samtalet. Din grupp väntar!"
+      },
+      "courseCompletion": {
+        "body__markdown": "Grattis till slutförd <!course:{{courseId}}|{{courseName}}>! Fortsätt gärna att dela med dig med din grupp om hur verktygen hjälper dig i vardagen.\n\nVi hoppas att ni kan luta er mot varandra i svåra tider, eller när ni har uthärdat en inre svårighet.",
+        "notification": "Grattis till slutförd <!course:{{courseId}}|{{courseName}}>! Fortsätt gärna att dela med dig med din grupp om hur verktygen hjälper dig i vardagen.\n\nVi hoppas att ni kan luta er mot varandra i svåra tider, eller när ni har uthärdat en inre svårighet."
+      },
+      "onRamp2Content": {
+        "body__markdown": "3 timmar kvar till gruppsamtalet om <!content:{{contentId}}|{{contentName}}>.\n\nFörbered för att ta samtalet på en lugn plats. Ta med dina anteckningar och kanske en laddare till din telefon.",
+        "notification": "3 timmar kvar till gruppsamtalet om <!content:{{contentId}}|{{contentName}}>.\n\nFörbered för att ta samtalet på en lugn plats. Ta med dina anteckningar och kanske en laddare till din telefon."
+      },
+      "groupIsFull": {
+        "body__markdown": "Er grupp är nu full!"
+      },
+      "leftGroup": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> har lämnat din grupp.",
+        "notification": "<!user:{{userId}}|{{userName}}> har lämnat din grupp."
+      },
+      "onRamp1Content": {
+        "body__markdown": "I morgon har ni ett schemalagt gruppsamtal.\n\nHar du gjort klart <!content:{{contentId}}|{{contentName}}>?\n\nBerätta för de andra om du av någon anledning inte kan vara med.\n\nNi gör det här ihop!",
+        "notification": "I morgon har ni ett schemalagt gruppsamtal.\n\nHar du gjort klart <!content:{{contentId}}|{{contentName}}>?\n\nBerätta för de andra om du av någon anledning inte kan vara med.\n\nNi gör det här ihop!"
+      },
+      "onRamp1Course": {
+        "body__markdown": "Hej allihopa! I morgon har ni ett schemalagt gruppsamtal om <!course:{{courseId}}|{{courseName}}>. För att ni ska vara redo:\n\n1. Gör klart <!lesson:{{lessonId}}|{{lessonName}}>\n2. Informera de andra om du inte kommer kunna vara med\n3. Var tillgänglig på en lugn plats med dina skriftliga övningar nära till hands\n\nKom ihåg att dela med sig i en grupp är inte bara viktigt för din personliga utveckling, utan är lika viktigt för andras.",
+        "notification": "Hej allihopa! I morgon har ni ett schemalagt gruppsamtal om <!course:{{courseId}}|{{courseName}}>. För att ni ska vara redo:\n\n1. Gör klart <!lesson:{{lessonId}}|{{lessonName}}>\n2. Informera de andra om du inte kommer kunna vara med\n3. Var tillgänglig på en lugn plats med dina skriftliga övningar nära till hands\n\nKom ihåg att dela med sig i en grupp är inte bara viktigt för din personliga utveckling, utan är lika viktigt för andras."
+      },
+      "timeNotSet": {
+        "body__markdown": "I den här gruppen har ni bestämt er för att utforska <!content:{{contentId}}|{{contentName}}> tillsammans.\n\nNär vill ni ha ert gruppsamtal om det?\n\nNär ni enats uppdaterar ni era [gruppinställningar](29k:group:settings).",
+        "notification": "När vill ni ha ert gruppsamtal?"
+      },
+      "onRamp2Course": {
+        "body__markdown": "3 timmar kvar till gruppsamtalet om <!course:{{courseId}}|{{courseName}}>! Se till att du har gjort klart <!lesson:{{lessonId}}|{{lessonName}}> och var tillgänglig för samtalet på en lugn plats så att du verkligen kan vara närvarande.",
+        "notification": "3 timmar kvar till gruppsamtalet om <!course:{{courseId}}|{{courseName}}>! Se till att du har gjort klart <!lesson:{{lessonId}}|{{lessonName}}> och var tillgänglig för samtalet på en lugn plats så att du verkligen kan vara närvarande."
+      },
+      "sharingAboutToBegin": {
+        "body__markdown": "Ditt gruppsamtal är redo att börja, öppna appen och starta samtalet. Din grupp väntar!",
+        "notification": "Ditt gruppsamtal är redo att börja, öppna appen och starta samtalet. Din grupp väntar!"
+      },
+      "timeAndTopicSet": {
+        "body__markdown": "I den här gruppen har ni bestämt er för att utforska <!content:{{contentId}}|{{contentName}}> i ett gruppsamtal <!date:{{date}}|{{dateString}}> tillsammans.\n\nFör att ni ska få en så bra upplevelse som möjligt ska alla i gruppen ha gjort samma lektion, meditation, övning eller test innan samtalet.\n\nMeddela övriga i gruppen om du inte har möjlighet att delta då eller vill föreslå ett annat ämne."
+      },
+      "topicNotSet": {
+        "body__markdown": "Ni har ett gruppsamtal inbokat <!date:{{date}}|{{dateString}}>.\n\nFör att ni ska få en så bra upplevelse som möjligt ska alla i gruppen ha gjort samma lektion, meditation, övning eller test innan samtalet.\n\nVad väljer ni att jobba på?\n\nNär ni enats uppdaterar ni era [gruppinställningar](29k:group:settings).",
+        "notification": "Vad vill ni utforska tillsammans i nästa gruppsamtal?"
+      }
+    },
+    "qa": {
+      "choices": {
+        "choice_yes": "Ja",
+        "choice_no": "Nej"
+      },
+      "courseCompletion": {
+        "question": {
+          "body__markdown": "Hoppas att ert samtal om <!lesson:{{lessonId}}|{{lessonName}}> var bra. Redo att göra klart <!course:{{courseId}}|{{courseName}}>?",
+          "notification": "Hoppas att ert samtal om <!lesson:{{lessonId}}|{{lessonName}}> var bra. Redo att göra klart <!course:{{courseId}}|{{courseName}}>?"
+        },
+        "answer": {
+          "body__markdown_yes": "<!user:{{userId}}|{{userName}}> svarade ”Ja” om huruvida <!lesson:{{lessonId}}|{{lessonName}}> är genomförd.",
+          "body__markdown_no": "<!user:{{userId}}|{{userName}}> svarade ”Nej” om huruvida <!course:{{courseId}}|{{courseName}}> är klar. Gruppsamtalet för <!lesson:{{lessonId}}|{{lessonName}}> har skjutits upp till nästa vecka.",
+          "notification_yes": "Klar med <!course:{{courseId}}|{{courseName}}>. Grattis!",
+          "notification_no": "<!lesson:{{lessonId}}|{{lessonName}}> sköts upp till nästa vecka."
+        }
+      },
+      "courseProgress": {
+        "question": {
+          "body__markdown": "Hoppas att ert samtal om <!lesson:{{lessonId}}|{{lessonName}}> var bra. Är ni redo att gå vidare till nästa lektion?",
+          "notification": "Är ni redo att gå vidare till nästa lektion?"
+        },
+        "answer": {
+          "body__markdown_yes": "<!user:{{userId}}|{{userName}}> svarade ”Ja” för att gruppen ska gå vidare till nästa lektion.",
+          "body__markdown_no": "<!user:{{userId}}|{{userName}}> svarade ”Nej” för att gruppen ska gå vidare till nästa lektion. Samtalet för <!lesson:{{lessonId}}|{{lessonName}}> har skjutits upp till nästa vecka.",
+          "notification_yes": "<!user:{{userId}}|{{userName}}> svarade ”Ja” om att gå vidare till nästa lektion.",
+          "notification_no": "Samtalet för <!lesson:{{lessonId}}|{{lessonName}}> har skjutits upp till nästa vecka."
+        },
+        "answeredNo": {
+          "body_markdown": "<!user:{{userId}}|{{userName}}> svarade ”Nej” för att gruppen ska gå vidare till nästa lektion. Samtalet för <!lesson:{{lessonId}}|{{lessonName}}> har skjutits upp till nästa vecka."
+        }
+      }
+    },
+    "status": {
+      "changeSharingLesson": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> bytte lektion till <!lesson:{{lessonId}}|{{lessonName}}>. [Ändra](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> bytte lektion till <!lesson:{{lessonId}}|{{lessonName}}>"
+      }
+    }
+  },
+  "pt": {
+    "messages": {
+      "onRamp1": {
+        "body__markdown": "Olá a todos! Amanhã temos agendada uma sessão de partilha por vídeo do curso <!course:{{courseId}}|{{courseName}}>. Para relembrar:\n\n1. Completa a lição <!lesson:{{lessonId}}|{{lessonName}}> para te preparares para a sessão\n2. Se não puderes fazer a partilha, avisa por favor os outros membros do grupo\n3. Está disponível e preparada/o num local sossegado, com as notas dos teus exercícios \n\nLembra-te de que as partilhas em grupo são fundamentais para o teu desenvolvimento pessoal. E são igualmente importantes para os outros membros do grupo.",
+        "notification": "Olá a todos! Amanhã temos agendada uma sessão de partilha por vídeo do curso <!course:{{courseId}}|{{courseName}}>. Para relembrar:\n\n1. Completa a lição <!lesson:{{lessonId}}|{{lessonName}}> para te preparares para a sessão\n2. Se não puderes fazer a partilha, avisa por favor os outros membros do grupo\n3. Está disponível e preparada/o num local sossegado, com as notas dos teus exercícios \n\nLembra-te de que as partilhas em grupo são fundamentais para o teu desenvolvimento pessoal. E são igualmente importantes para os outros membros do grupo."
+      },
+      "onRamp2": {
+        "body__markdown": "Faltam 3 horas para a tua sessão de partilha do curso <!course:{{courseId}}|{{courseName}}>! Garante que completaste a lição <!lesson:{{lessonId}}|{{lessonName}}> e tens tudo preparado para fazer a videochamada num local sossegado que te permita estar totalmente presente.",
+        "notification": "Faltam 3 horas para a tua sessão de partilha do curso <!course:{{courseId}}|{{courseName}}>! Garante que completaste a lição <!lesson:{{lessonId}}|{{lessonName}}> e tens tudo preparado para fazer a videochamada num local sossegado que te permita estar totalmente presente."
+      },
+      "groupLanguageUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> acabou de atualizar o idioma deste grupo [Atualizar](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> acabou de atualizar o idioma deste grupo"
+      },
+      "sharingDidHappenWithTopic": {
+        "body__markdown": "Pensa na tua última partilha. Qual foi a tua maior aprendizagem?",
+        "notification": "Qual foi a maior aprendizagem da tua última partilha?"
+      },
+      "joiningSharing": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> iniciou a sessão de partilha por vídeo. [Junta-te](29k:group:video)!",
+        "notification": "<!user:{{userId}}|{{userName}}> acabou de iniciar a sessão de partilha por vídeo"
+      },
+      "groupSetToPrivate": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> alterou o grupo para privado. \\[Atualizar](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> alterou o grupo para privado."
+      },
+      "lessonCompletionContent": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> acabaste de completar a lição <!content:{{contentId}}|{{contentName}}> para estares preparada/o para a próxima sessão de partilha.",
+        "notification": "<!user:{{userId}}|{{userName}}> acabaste de completar a lição <!content:{{contentId}}|{{contentName}}> para estares preparada/o para a próxima sessão de partilha."
+      },
+      "groupSetToPublic": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> alterou o grupo para público. \\[Atualizar](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> alterou o grupo para público."
+      },
+      "groupCreated": {
+        "body__markdown": "Obrigado por criares um espaço de partilha onde tu e os outros podem crescer.\n\nO próximo passo é garantir que outras pessoas participem. Conheces alguém que gostarias de convidar?",
+        "notification": "Obrigado por criares um espaço de partilha onde tu e os outros podem crescer. O próximo passo é garantir que outras pessoas participem. Conheces alguém que gostarias de convidar?"
+      },
+      "leftGroupDueToInactivity": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> foi removido deste grupo devido à inatividade.",
+        "notification": "<!user:{{userId}}|{{userName}}> foi removido deste grupo devido à inatividade."
+      },
+      "sharingDidHappenWithoutTopic": {
+        "body__markdown": "A tua próxima partilha está agendada para <!date:{{date}}|{{dateString}}>.\n\nNo que gostarias de trabalhar?\n\nDepois de chegarem a um consenso, atualiza as [configurações do grupo](29k:group:settings).",
+        "notification": "No que gostarias de trabalhar na tua próxima partilha?"
+      },
+      "onRamp2Empty": {
+        "body__markdown": "Faltam 3 horas para a tua sessão de partilha.\n\nProcura um lugar tranquilo para atenderes a chamada. Tem as tuas notas contigo e talvez um carregador de telemóvel.",
+        "notification": "Faltam 3 horas para a tua sessão de partilha. Procura um lugar tranquilo para atenderes a chamada. Tem as tuas notas contigo e talvez um carregador de telemóvel."
+      },
+      "onRamp1Empty": {
+        "body__markdown": "Tens uma partilha de vídeo planeada para amanhã.\n\nSe por algum motivo não puderes fazer a partilha, não te esqueças de avisar os outros membros do grupo.\n\nEstão todos juntos nisto!",
+        "notification": "Tens uma partilha de vídeo planeada para amanhã. Se por algum motivo não puderes fazer a partilha, não te esqueças de avisar os outros membros do grupo. Estão todos juntos nisto!"
+      },
+      "groupTimeUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> atualizou o horário da sessão de partilha do grupo. [Atualizar](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> acabou de atualizar o horário da sessão de partilha"
+      },
+      "groupNameUpdated": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> chamou ao grupo {{name}}. [Atualizar](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> chamou ao grupo {{name}}"
+      },
+      "sharingDidNotHappen": {
+        "body__markdown": "Parece que a tua partilha não aconteceu quando tinhas planeado. Em que outra data gostarias de marcar encontro?\n\nEntra em acordo com o grupo e, em seguida, atualiza a data e a hora nas [configurações](29k:group:settings).",
+        "notification": "Parece que a tua partilha não aconteceu quando tinhas planeado. Em que outra data gostarias de marcar encontro?"
+      },
+      "groupIsPublic": {
+        "body__markdown": "O teu grupo é público. Se não quiseres que novos membros se juntem, podes optar por torná-lo privado. [Atualizar](29k:group:settings)",
+        "notification": "O teu grupo é público. Se não quiseres que novos membros se juntem, podes optar por torná-lo privado."
+      },
+      "timeAndTopicNotSet": {
+        "body__markdown": "Está na hora de planeares a tua partilha.\n\nEm que tema, curso ou desafio da 29k FJN gostarias de trabalhar em conjunto?\n\nQuais os horários que funcionariam melhor para ti?\n\nDepois de concordarem, atualiza as [configurações do grupo](29k:group:settings).",
+        "notification": "Está na hora de planeares a tua partilha."
+      },
+      "subsequentJoins": {
+        "body__markdown": "Dá as boas-vindas ao membro <!user:{{userId}}|{{userName}}> que acabou de se juntar ao grupo!\n\nToca na fotografia de perfil do membro do grupo para veres a sua apresentação.",
+        "notification": "<!user:{{userId}}|{{userName}}> acabou de se juntar ao teu grupo de partilha"
+      },
+      "lessonCompletion": {
+        "body__markdown": "Excelente. {{userName}} acabou de completar a lição <!lesson:{{lessonId}}|{{lessonName}}> para estar preparada/o para a próxima sessão de partilha.",
+        "notification": "{{userName}} acabou de completar a lição <!lesson:{{lessonId}}|{{lessonName}}>"
+      },
+      "sharingAboutToBeginPush": {
+        "title": "A sessão de partilha de grupo está pronta para começar.",
+        "body": "A sessão de partilha de grupo está pronta para começar. Por favor, abre a app e inicia a videochamada. O teu grupo está a aguardar!"
+      },
+      "courseCompletion": {
+        "body__markdown": "Completaste o curso <!course:{{courseId}}|{{courseName}}>! Partilha com o teu grupo a forma como estas ferramentas são importantes e te ajudam no dia-a-dia.\n\nEsperamos que possam confiar uns nos outros nos tempos difíceis ou quando tiverem de ultrapassar desafios pessoais complexos.",
+        "notification": "Completaste o curso <!course:{{courseId}}|{{courseName}}>! Partilha com o teu grupo a forma como estas ferramentas são importantes e te ajudam no dia-a-dia.\n\nEsperamos que possam confiar uns nos outros nos tempos difíceis ou quando tiverem de ultrapassar desafios pessoais complexos."
+      },
+      "onRamp2Content": {
+        "body__markdown": "Faltam 3 horas para a tua sessão de partilha relativa a <!content:{{contentId}}|{{contentName}}>.\n\nProcura um lugar tranquilo para atenderes a chamada. Tem as tuas notas contigo e talvez um carregador de telemóvel.",
+        "notification": "Faltam 3 horas para a tua sessão de partilha relativa a <!content:{{contentId}}|{{contentName}}>. Procura um lugar tranquilo para atenderes a chamada. Tem as tuas notas contigo e talvez um carregador de telemóvel."
+      },
+      "groupIsFull": {
+        "body__markdown": "O teu grupo está completo!"
+      },
+      "leftGroup": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> saiu do teu grupo de partilha.",
+        "notification": "<!user:{{userId}}|{{userName}}> saiu do teu grupo de partilha"
+      },
+      "onRamp1Content": {
+        "body__markdown": "Tens uma partilha de vídeo planeada para amanhã.\n\nJá completaste <!content:{{contentId}}|{{contentName}}>?\n\nSe por algum motivo não puderes fazer a partilha, não te esqueças de avisar os outros membros do grupo.\n\nEstão todos juntos nisto!",
+        "notification": "Tens uma partilha agendada para amanhã. Conseguiste completar <!content:{{contentId}}|{{contentName}}>? Se por algum motivo não puderes fazer a partilha, não te esqueças de avisar os outros membros do grupo.Estão todos juntos nisto!"
+      },
+      "onRamp1Course": {
+        "body__markdown": "Olá a todos! Amanhã temos agendada uma sessão de partilha por vídeo do curso <!course:{{courseId}}|{{courseName}}>. Para relembrar:\n\n1. Completa a lição <!lesson:{{lessonId}}|{{lessonName}}> para te preparares para a sessão\n2. Se não puderes fazer a partilha, avisa por favor os outros membros do grupo\n3. Está disponível e preparada/o num local sossegado, com as notas dos teus exercícios \n\nLembra-te de que as partilhas em grupo são fundamentais para o teu desenvolvimento pessoal. E são igualmente importantes para os outros membros do grupo.",
+        "notification": "Olá a todos! Amanhã temos agendada uma sessão de partilha por vídeo do curso <!course:{{courseId}}|{{courseName}}>. Para relembrar:\n\n1. Completa a lição <!lesson:{{lessonId}}|{{lessonName}}> para te preparares para a sessão\n2. Se não puderes fazer a partilha, avisa por favor os outros membros do grupo\n3. Está disponível e preparada/o num local sossegado, com as notas dos teus exercícios \n\nLembra-te de que as partilhas em grupo são fundamentais para o teu desenvolvimento pessoal. E são igualmente importantes para os outros membros do grupo."
+      },
+      "timeNotSet": {
+        "body__markdown": "Este grupo decidiu trabalhar em conjunto no tópico <!content:{{contentId}}|{{contentName}}>.\n\nQuando gostarias de ter a tua partilha acerca do tópico?\n\nDepois de concordarem, atualiza as [configurações do grupo](29k:group:settings).",
+        "notification": "Quando gostarias de fazer a tua partilha?"
+      },
+      "onRamp2Course": {
+        "body__markdown": "Faltam 3 horas para a tua sessão de partilha do curso <!course:{{courseId}}|{{courseName}}>! Garante que completaste a lição <!lesson:{{lessonId}}|{{lessonName}}> e tens tudo preparado para fazer a videochamada num local sossegado que te permita estar totalmente presente.",
+        "notification": "Faltam 3 horas para a tua sessão de partilha do curso <!course:{{courseId}}|{{courseName}}>! Garante que completaste a lição <!lesson:{{lessonId}}|{{lessonName}}> e tens tudo preparado para fazer a videochamada num local sossegado que te permita estar totalmente presente."
+      },
+      "sharingAboutToBegin": {
+        "body__markdown": "A sessão de partilha de grupo está pronta para começar. Por favor, abre a app e inicia a videochamada. O teu grupo está a aguardar!",
+        "notification": "A sessão de partilha de grupo está pronta para começar. Por favor, abre a app e inicia a videochamada. O teu grupo está a aguardar!"
+      },
+      "timeAndTopicSet": {
+        "body__markdown": "Este grupo decidiu trabalhar em conjunto no tópico <!content:{{contentId}}|{{contentName}}> em <!date:{{date}}|{{dateString}}>.\n\nPara uma melhor experiência durante a partilha, todos os elementos do grupo devem fazer a mesma lição, meditação, exercício ou teste antes da sessão.\n\nSe não puderes participar na partilha ou quiseres trabalhar noutro tema, não te esqueças de avisar os outros elementos do grupo."
+      },
+      "topicNotSet": {
+        "body__markdown": "A tua partilha está planeada para <!date:{{date}}|{{dateString}}>.\n\nPara uma melhor experiência durante a partilha, todos os elementos do grupo devem fazer a mesma lição, meditação, exercício ou teste antes da sessão.\n\nNo que gostarias de trabalhar?\n\nDepois de concordarem, atualiza as [configurações do grupo](29k:group:settings).",
+        "notification": "No que gostarias de trabalhar para a partilha que tens planeada?"
+      }
+    },
+    "qa": {
+      "choices": {
+        "choice_yes": "Sim",
+        "choice_no": "Não"
+      },
+      "courseCompletion": {
+        "question": {
+          "body__markdown": "Esperamos que a sessão de partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> tenha sido boa. Agora completa o curso!",
+          "notification": "Esperamos que a sessão de partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> tenha sido boa. Agora completa o curso!"
+        },
+        "answer": {
+          "body__markdown_yes": "<!user:{{userId}}|{{userName}}> respondeu “Sim” relativamente à conclusão da lição <!lesson:{{lessonId}}|{{lessonName}}>.",
+          "body__markdown_no": "<!user:{{userId}}|{{userName}}> respondeu “Não” relativamente à conclusão do curso <!course:{{courseId}}|{{courseName}}>. A partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> foi adiada para a próxima semana.",
+          "notification_yes": "Terminaste o curso <!course:{{courseId}}|{{courseName}}>. Parabéns!",
+          "notification_no": "<!lesson:{{lessonId}}|{{lessonName}}> foi adiada para a próxima semana."
+        }
+      },
+      "courseProgress": {
+        "question": {
+          "body__markdown": "Esperamos que a sessão de partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> tenha sido boa. Vamos iniciar a próxima lição?",
+          "notification": "Vamos iniciar a próxima lição?"
+        },
+        "answer": {
+          "body__markdown_yes": "<!user:{{userId}}|{{userName}}> respondeu “Sim” relativamente a adiar a sessão do grupo para a próxima lição.",
+          "body__markdown_no": "<!user:{{userId}}|{{userName}}> respondeu “Não” relativamente a adiar a sessão do grupo para a próxima lição. A sessão de partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> foi adiada para a próxima semana.",
+          "notification_yes": "<!user:{{userId}}|{{userName}}> respondeu “Sim” relativamente a adiar a sessão do grupo para a próxima lição.",
+          "notification_no": "A sessão de partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> foi adiada para a próxima semana."
+        },
+        "answeredNo": {
+          "body_markdown": "<!user:{{userId}}|{{userName}}> respondeu “Não” relativamente a adiar a sessão do grupo para a próxima lição. A sessão de partilha da lição <!lesson:{{lessonId}}|{{lessonName}}> foi adiada para a próxima semana."
+        }
+      }
+    },
+    "status": {
+      "changeSharingLesson": {
+        "body__markdown": "<!user:{{userId}}|{{userName}}> alterou a sessão do grupo para a lição <!lesson:{{lessonId}}|{{lessonName}}>. [Alterar](29k:group:settings)",
+        "notification": "<!user:{{userId}}|{{userName}}> alterou a sessão do grupo para a lição <!lesson:{{lessonId}}|{{lessonName}}>"
+      }
+    }
+  }
+}

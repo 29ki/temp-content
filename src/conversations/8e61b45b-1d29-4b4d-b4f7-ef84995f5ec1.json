@@ -1,0 +1,305 @@
+{
+  "en": {
+    "id": "8e61b45b-1d29-4b4d-b4f7-ef84995f5ec1",
+    "alias": "Pt special Coping with crisis 2: Facing what we can't change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "404f56c2-95c5-418c-8467-fa054e2ffe4e",
+        "alias": "Enfrentar a vida",
+        "title": "Enfrentar a vida",
+        "content": "Muitas vezes, esperamos que a vida aconteça sem problemas e sem dor.\n\nMas isso não é a **realidade** para a maioria de nós. Todos passamos por **crises** em alguns momentos da nossa vida.\n\nNesta lição, veremos como a nossa **disposição** para enfrentar os **desafios inevitáveis** da vida pode aumentar a nossa capacidade de lidar com eles.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "1b482000-3f52-4b6f-b74f-80671c0db26c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445074/julien-di-majo-cwL_DmFQTMI-unsplash_ube8by.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b482000-3f52-4b6f-b74f-80671c0db26c",
+        "content": "### A lição de hoje tem três partes:\n\n* A dor natural\n* A mão que cura\n* Continuar a tua prática\n\n### Vais precisar de:\n\n* 20 min de sossego sem interrupções \n* Papel e caneta",
+        "alias": "A lição de hoje",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5b999a51-314c-41f2-8f42-997dc09f34ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5b999a51-314c-41f2-8f42-997dc09f34ca",
+        "alias": "A dor natural",
+        "title": "A dor natural",
+        "content": "Nenhum nível de planeamento pode **evitar** ou nos pode preparar para **acontecimentos angustiantes** ou prevenir a dor emocional que se segue.\n\nEm algum momento seremos afetados por momentos de tristeza, solidão, conflito ou outras situações que nos causam angústia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a85bf400-133e-404d-85ea-ede3b0fe1cad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a85bf400-133e-404d-85ea-ede3b0fe1cad",
+        "alias": "Emoções",
+        "content": "Qualquer emoção - como raiva ou tristeza - é uma reação **completamente normal**. E as emoções por si só **não nos podem magoar**.\n\nO que **podemos** mudar, no entanto, é a forma como **respondemos** às nossas **emoções.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "60bcf3b3-7c46-4235-9812-77b41fda4947"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60bcf3b3-7c46-4235-9812-77b41fda4947",
+        "alias": "Aceita as emoções",
+        "content": "**Aceitar** as nossas emoções **em vez** de as tentar controlar vai permitir que estejam presentes durante algum tempo na nossa vida mas sem deixarmos que a **dominem.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "5a13e806-d6e9-4622-89ab-e54f4e58adfa"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "5a13e806-d6e9-4622-89ab-e54f4e58adfa",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“A felicidade mais profunda é a aceitação completa da realidade tal como ela é, com tudo de bom e de mau que ela contém.”",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "8748d940-0475-45d5-91d4-1a5379ea2f96"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334354/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L3p4facingwhatcopingwithanxiety_pipkdv.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334279/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L3_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_hkvcc2.mp4"
+          }
+        ]
+      }
+    ],
+    "root": "404f56c2-95c5-418c-8467-fa054e2ffe4e"
+  },
+  "sv": {
+    "id": "8e61b45b-1d29-4b4d-b4f7-ef84995f5ec1",
+    "alias": "Pt special Coping with crisis 2: Facing what we can't change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "404f56c2-95c5-418c-8467-fa054e2ffe4e",
+        "alias": "Enfrentar a vida",
+        "title": "Enfrentar a vida",
+        "content": "Muitas vezes, esperamos que a vida aconteça sem problemas e sem dor.\n\nMas isso não é a **realidade** para a maioria de nós. Todos passamos por **crises** em alguns momentos da nossa vida.\n\nNesta lição, veremos como a nossa **disposição** para enfrentar os **desafios inevitáveis** da vida pode aumentar a nossa capacidade de lidar com eles.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "1b482000-3f52-4b6f-b74f-80671c0db26c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445074/julien-di-majo-cwL_DmFQTMI-unsplash_ube8by.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b482000-3f52-4b6f-b74f-80671c0db26c",
+        "content": "### A lição de hoje tem três partes:\n\n* A dor natural\n* A mão que cura\n* Continuar a tua prática\n\n### Vais precisar de:\n\n* 20 min de sossego sem interrupções \n* Papel e caneta",
+        "alias": "A lição de hoje",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5b999a51-314c-41f2-8f42-997dc09f34ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5b999a51-314c-41f2-8f42-997dc09f34ca",
+        "alias": "A dor natural",
+        "title": "A dor natural",
+        "content": "Nenhum nível de planeamento pode **evitar** ou nos pode preparar para **acontecimentos angustiantes** ou prevenir a dor emocional que se segue.\n\nEm algum momento seremos afetados por momentos de tristeza, solidão, conflito ou outras situações que nos causam angústia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a85bf400-133e-404d-85ea-ede3b0fe1cad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a85bf400-133e-404d-85ea-ede3b0fe1cad",
+        "alias": "Emoções",
+        "content": "Qualquer emoção - como raiva ou tristeza - é uma reação **completamente normal**. E as emoções por si só **não nos podem magoar**.\n\nO que **podemos** mudar, no entanto, é a forma como **respondemos** às nossas **emoções.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "60bcf3b3-7c46-4235-9812-77b41fda4947"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60bcf3b3-7c46-4235-9812-77b41fda4947",
+        "alias": "Aceita as emoções",
+        "content": "**Aceitar** as nossas emoções **em vez** de as tentar controlar vai permitir que estejam presentes durante algum tempo na nossa vida mas sem deixarmos que a **dominem.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "5a13e806-d6e9-4622-89ab-e54f4e58adfa"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "5a13e806-d6e9-4622-89ab-e54f4e58adfa",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“A felicidade mais profunda é a aceitação completa da realidade tal como ela é, com tudo de bom e de mau que ela contém.”",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "8748d940-0475-45d5-91d4-1a5379ea2f96"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334354/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L3p4facingwhatcopingwithanxiety_pipkdv.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334279/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L3_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_hkvcc2.mp4"
+          }
+        ]
+      }
+    ],
+    "root": "404f56c2-95c5-418c-8467-fa054e2ffe4e"
+  },
+  "pt": {
+    "id": "8e61b45b-1d29-4b4d-b4f7-ef84995f5ec1",
+    "alias": "Pt special Coping with crisis 2: Facing what we can't change 1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "404f56c2-95c5-418c-8467-fa054e2ffe4e",
+        "alias": "Enfrentar a vida",
+        "title": "Enfrentar a vida",
+        "content": "Muitas vezes, esperamos que a vida aconteça sem problemas e sem dor.\n\nMas isso não é a **realidade** para a maioria de nós. Todos passamos por **crises** em alguns momentos da nossa vida.\n\nNesta lição, veremos como a nossa **disposição** para enfrentar os **desafios inevitáveis** da vida pode aumentar a nossa capacidade de lidar com eles.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Estou pronta/o",
+            "sectionId": "1b482000-3f52-4b6f-b74f-80671c0db26c"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629445074/julien-di-majo-cwL_DmFQTMI-unsplash_ube8by.jpg"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "1b482000-3f52-4b6f-b74f-80671c0db26c",
+        "content": "### A lição de hoje tem três partes:\n\n* A dor natural\n* A mão que cura\n* Continuar a tua prática\n\n### Vais precisar de:\n\n* 20 min de sossego sem interrupções \n* Papel e caneta",
+        "alias": "A lição de hoje",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos lá",
+            "sectionId": "5b999a51-314c-41f2-8f42-997dc09f34ca"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5b999a51-314c-41f2-8f42-997dc09f34ca",
+        "alias": "A dor natural",
+        "title": "A dor natural",
+        "content": "Nenhum nível de planeamento pode **evitar** ou nos pode preparar para **acontecimentos angustiantes** ou prevenir a dor emocional que se segue.\n\nEm algum momento seremos afetados por momentos de tristeza, solidão, conflito ou outras situações que nos causam angústia.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "a85bf400-133e-404d-85ea-ede3b0fe1cad"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "a85bf400-133e-404d-85ea-ede3b0fe1cad",
+        "alias": "Emoções",
+        "content": "Qualquer emoção - como raiva ou tristeza - é uma reação **completamente normal**. E as emoções por si só **não nos podem magoar**.\n\nO que **podemos** mudar, no entanto, é a forma como **respondemos** às nossas **emoções.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "60bcf3b3-7c46-4235-9812-77b41fda4947"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "60bcf3b3-7c46-4235-9812-77b41fda4947",
+        "alias": "Aceita as emoções",
+        "content": "**Aceitar** as nossas emoções **em vez** de as tentar controlar vai permitir que estejam presentes durante algum tempo na nossa vida mas sem deixarmos que a **dominem.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "5a13e806-d6e9-4622-89ab-e54f4e58adfa"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "5a13e806-d6e9-4622-89ab-e54f4e58adfa",
+        "alias": "A minha história",
+        "title": "A minha história",
+        "description": "“A felicidade mais profunda é a aceitação completa da realidade tal como ela é, com tudo de bom e de mau que ela contém.”",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Continuar",
+            "conversationId": "8748d940-0475-45d5-91d4-1a5379ea2f96"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1630334354/29k%20FJN/Courses/Coping%20with%20Anxiety/Thumbnails%209:16/L3p4facingwhatcopingwithanxiety_pipkdv.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1630334279/29k%20FJN/Courses/Coping%20with%20Anxiety/Videos%20New%20Format%209:16/L3_Coping_with_anxiety_and_worry_in_a_crisis_V1_-_9x16_hkvcc2.mp4"
+          }
+        ]
+      }
+    ],
+    "root": "404f56c2-95c5-418c-8467-fa054e2ffe4e"
+  }
+}

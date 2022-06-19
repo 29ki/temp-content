@@ -1,8 +1,179 @@
 {
   "en": {
     "id": "tacksamhet-3",
-    "alias": "tacksamhet-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 4-Gratitude-3",
+    "root": "section1",
+    "sections": [
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "HeaderImage",
+                "content": {
+                  "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_vad_sager.png"
+                }
+              },
+              {
+                "component": "Text",
+                "content": "# Letter of gratitude two"
+              },
+              {
+                "component": "Text",
+                "content": "What if we could appreciate ourselves the way we appreciate others?"
+              },
+              {
+                "component": "Text",
+                "content": "Gratitude to others can strengthen relationships and make others feel seen. Most of us aren't used to doing ourselves the same favor."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "See others explain",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "id": "section1",
+        "alias": "section1",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "Emelia, 17",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856889/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/emelia-tacksamhet2-en_b6uibp.vtt"
+              },
+              {
+                "title": "Isaac, 20",
+                "duration": 29,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856888/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/isaac-tacksamhet2-en_glaxf5.vtt"
+              },
+              {
+                "title": "Laila",
+                "duration": 41,
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.mp4",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623856888/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/laila-tacksamhet2-en_zwodsw.vtt"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "id": "section2",
+        "alias": "section2",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Letter of gratitude to yourself"
+              },
+              {
+                "component": "Text",
+                "content": "Now look inward in the same way you previously looked outwards. Choose a few things that you appreciate about yourself. It can be things you have done that you are proud of, decisions you have made that you feel grateful for, or something that you have accomplished."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "id": "section3",
+        "alias": "section3",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Now write a message of gratitude to yourself where you explain what you appreciate. Be kind to yourself, and remember to keep your grateful perspective throughout the message. Write or record this somewhere where only you can see it."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "I'm done",
+                "sectionId": "section5"
+              }
+            ]
+          }
+        ],
+        "id": "section4",
+        "alias": "section4",
+        "type": "defaultSection"
+      },
+      {
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "You have now written two messages of gratitude, one to someone else and one to yourself. Good work. If you feel ready for an extra challenge, you can read out or show that first message to the person you wrote it to."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Done",
+                "conversationId": "tacksamhet-3"
+              }
+            ]
+          }
+        ],
+        "id": "section5",
+        "alias": "section5",
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "sv": {
+    "id": "tacksamhet-3",
+    "alias": "YA Become friends: 4-Gratitude-3",
     "root": "section1",
     "sections": [
       {
@@ -36,7 +207,6 @@
               {
                 "component": "Button",
                 "content": "Se andra berätta",
-                "conversationId": "tacksamhet-3",
                 "sectionId": "section2"
               }
             ]
@@ -55,19 +225,22 @@
                 "title": "Emelia, 17",
                 "duration": 41,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943998/Become%20friends%20with%20yourself/subtitles/emelia-tacksamhet2_ilm5ky.vtt"
               },
               {
                 "title": "Isaac, 20",
                 "duration": 29,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621609428/Become%20friends%20with%20yourself/subtitles/isaac-tacksamhet2_fxgsq9.vtt"
               },
               {
                 "title": "Laila",
                 "duration": 41,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621609428/Become%20friends%20with%20yourself/subtitles/laila-tacksamhet2_a6yguq.vtt"
               }
             ]
           },
@@ -77,14 +250,13 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "tacksamhet-3",
                 "sectionId": "section3"
               }
             ]
           }
         ],
         "id": "section2",
-        "alias": "section2",
+        "alias": "section2 - Videos",
         "type": "defaultSection"
       },
       {
@@ -108,7 +280,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "tacksamhet-3",
                 "sectionId": "section4"
               }
             ]
@@ -135,7 +306,6 @@
               {
                 "component": "Button",
                 "content": "Jag är klar",
-                "conversationId": "tacksamhet-3",
                 "sectionId": "section5"
               }
             ]
@@ -173,10 +343,9 @@
       }
     ]
   },
-  "sv": {
+  "pt": {
     "id": "tacksamhet-3",
-    "alias": "tacksamhet-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 4-Gratitude-3",
     "root": "section1",
     "sections": [
       {
@@ -192,15 +361,15 @@
               },
               {
                 "component": "Text",
-                "content": "# Tacksamhetsbrev två"
+                "content": "# Carta de gratidão número dois"
               },
               {
                 "component": "Text",
-                "content": "Tänk om vi kunde uppskatta oss själva på samma sätt som vi uppskattar andra? "
+                "content": "E se nos pudéssemos apreciar a nós mesmos da mesma forma que apreciamos os outros?"
               },
               {
                 "component": "Text",
-                "content": "Tacksamhet mot andra kan stärka relationer och få andra att känna sig sedda. De flesta av oss har inte för vana att göra oss själva samma tjänst."
+                "content": "A gratidão aos outros pode fortalecer as relações e fazer com que os outros se sintam vistos. A maioria de nós não está habituado a fazer o mesmo favor a nós próprios."
               }
             ]
           },
@@ -209,8 +378,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Se andra berätta",
-                "conversationId": "tacksamhet-3",
+                "content": "Vê a partilha dos outros",
                 "sectionId": "section2"
               }
             ]
@@ -226,22 +394,31 @@
             "component": "VideoStories",
             "content": [
               {
-                "title": "Emelia, 17",
-                "duration": 41,
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/emelia_tacksamhet2.jpg"
+                "title": "António Casalinho",
+                "duration": 148,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357234/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L4V2_bc9i7l.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_L4V2_h1ffnx.jpg",
+                "subtitleUri": ""
               },
               {
-                "title": "Isaac, 20",
-                "duration": 29,
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/isaac_tacksamhet2.jpg"
+                "title": "Leonor",
+                "duration": 123,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358616/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L4V2_hlp5l1.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379529/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/Gratid%C3%A3o_-_video_2_ddbe52.jpg",
+                "subtitleUri": ""
               },
               {
-                "title": "Laila",
-                "duration": 41,
-                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/laila_tacksamhet2.jpg"
+                "title": "Daniela",
+                "duration": 130,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357834/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L4V2_brjdqa.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375119/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_Gratid%C3%A3o_-_Video_2_ay5zca.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358403/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L4V2_zge1zi.mp4",
+                "duration": 212,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379400/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/Gratid%C3%A3o_-_video_2_e35qla.jpg"
               }
             ]
           },
@@ -250,8 +427,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
-                "conversationId": "tacksamhet-3",
+                "content": "Seguinte ",
                 "sectionId": "section3"
               }
             ]
@@ -268,11 +444,11 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Tacksamhetsbrev till dig själv"
+                "content": "# Carta de gratidão a ti"
               },
               {
                 "component": "Text",
-                "content": "Vänd nu samma blick inåt som du förut riktade utåt. Välj ut några saker som du uppskattar med dig själv. Det kan vara saker du har gjort som du är stolt över, beslut du har fattat som du känner dig tacksam för, eller något som du har åstadkommit."
+                "content": "Agora olha para dentro da mesma forma que olhavas para fora anteriormente. Escolhe algumas coisas que aprecias em ti. Podem ser coisas que fizeste das quais te orgulhas, decisões que tomaste pelas quais agradeces ou algo que concretizaste."
               }
             ]
           },
@@ -281,8 +457,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Nästa",
-                "conversationId": "tacksamhet-3",
+                "content": "Continuar",
                 "sectionId": "section4"
               }
             ]
@@ -299,7 +474,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Formulera nu ett tacksamhetsmeddelande till dig själv där du berättar vad du uppskattar med dig själv. Var snäll mot dig själv, och kom ihåg att hålla ditt tacksamma perspektiv genom hela meddelandet. Skriv eller spela in någonstans där bara du kan se det."
+                "content": "Agora escreve uma mensagem de gratidão para ti, onde explicas o que aprecias. Sê gentil contigo e lembra-te de manter a tua perspectiva de gratidão ao longo da mensagem. Escreve ou grava isso em algum lugar onde só tu possas ver."
               }
             ]
           },
@@ -308,8 +483,7 @@
             "content": [
               {
                 "component": "Button",
-                "content": "Jag är klar",
-                "conversationId": "tacksamhet-3",
+                "content": "Já fiz!",
                 "sectionId": "section5"
               }
             ]
@@ -326,7 +500,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Du har nu formulerat två tacksamhetsmeddelanden, ett till någon annan och ett till dig själv. Bra jobbat. Om du känner dig redo för en extra utmaning kan du läsa upp eller visa ditt första tacksamhetsmeddelande, det till någon annan, för den du gjorde det till."
+                "content": "Já escreveste duas mensagens de gratidão, uma para outra pessoa e outra para ti. Bom trabalho. Se te sentires com energia para um desafio extra, podes ler ou mostrar essa primeira mensagem à pessoa para quem a escreveste."
               }
             ]
           },
@@ -335,7 +509,7 @@
             "content": [
               {
                 "component": "LessonCompleteButton",
-                "content": "Avsluta",
+                "content": "Concluído",
                 "conversationId": "tacksamhet-3"
               }
             ]

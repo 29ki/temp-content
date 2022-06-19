@@ -1,0 +1,14 @@
+{
+  "en": {
+    "title": "Language",
+    "text__markdown": "Specify what language you will be using in this group.\n\nNote that most of our users speak English, Swedish or Portuguese."
+  },
+  "sv": {
+    "title": "Språk",
+    "text__markdown": "Välj vilket språk gruppen ska använda.\n\nTänk på att de flesta av våra nuvarande användare pratar engelska, svenska eller protugisiska."
+  },
+  "pt": {
+    "title": "Idioma",
+    "text__markdown": "Escolhe o teu idioma preferido para as sessões de partilha.\n\nTem em atenção que a maioria dos utilizadores atuais fala inglês, sueco e português."
+  }
+}

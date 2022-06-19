@@ -1,0 +1,20 @@
+{
+  "en": {
+    "id": "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+    "tag": "Sleep",
+    "description": "Sleep is one of the most important ways we recover and is influenced by our behaviors, biological and environmental factors.\n\nEveryone has a hard time sleeping occasionally. A temporary lack of sleep can affect us in various ways, but it's when our problems become long-term that we may feel an urgent need to make a change.",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1618470345/Categories/stressres_nrmozw.png"
+  },
+  "sv": {
+    "id": "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+    "tag": "Sömn",
+    "description": "Sömn är ett av människans viktigaste sätt att återhämta sig. Sömnen påverkas främst av våra beteenden., biologiska faktorer och vår miljö.\n\nAlla har vi svårt att sova ibland. Tillfällig sömnbrist kan påverka oss på olika sätt, men det är ofta när vi får långvariga problem som vi kan känna ett behov av att göra något åt saken.",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1618470345/Categories/stressres_nrmozw.png"
+  },
+  "pt": {
+    "id": "225763ad-ca6f-4b97-9521-782f80dd8b2a",
+    "tag": "Sono",
+    "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1618470345/Categories/stressres_nrmozw.png",
+    "description": "O sono é uma das formas mais importantes de recuperação sendo influenciado pelos nossos comportamentos, fatores biológicos e ambientais.\n\nTodas as pessoas sentem dificuldades em dormir, numa ou noutra altura. A falta temporária de sono pode afetar-nos de várias formas, mas quando o problema se prolonga no tempo podemos sentir a necessidade urgente de fazer uma mudança."
+  }
+}

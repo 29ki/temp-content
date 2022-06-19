@@ -1,8 +1,7 @@
 {
   "en": {
     "id": "kritikern-och-kompisen-3",
-    "alias": "kritikern-och-kompisen-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-3",
     "root": "section1",
     "sections": [
       {
@@ -24,11 +23,11 @@
               },
               {
                 "component": "Text",
-                "content": "Imagine that you have a friend who is in the same situation as you just described, that the friend does not live up to the high demands he has on himself."
+                "content": "Imagine that you have a friend in the **same situation** as you just described, and that this friend does not live up to his or her own **high demands**."
               },
               {
                 "component": "Text",
-                "content": "Think about what you would say to your friend."
+                "content": "Think about what **you** would say to your **friend**."
               }
             ]
           },
@@ -38,7 +37,6 @@
               {
                 "component": "Button",
                 "content": "What do others say?",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section2"
               }
             ]
@@ -57,19 +55,22 @@
                 "title": "",
                 "duration": 41,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623855747/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/sharings2.1-en_jsyd7f.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 44,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623855755/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/sharings2.2-en_svxgzw.vtt"
               },
               {
                 "title": "Isaac, 20",
                 "duration": 61,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623855743/Become%20friends%20with%20yourself/subtitles/subtitles%20Eng/sharings2-en_r116yt.vtt"
               }
             ]
           },
@@ -79,7 +80,6 @@
               {
                 "component": "Button",
                 "content": "Move on",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section3"
               }
             ]
@@ -96,15 +96,15 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Our inner friend"
+                "content": "# The inner friend"
               },
               {
                 "component": "Text",
-                "content": "What many do not know is that we also have our own inner friend. A friend who is on our side and wants us well."
+                "content": "What many do not know is that we all have our own inner friend. A friend who is on our side and wants us well."
               },
               {
                 "component": "Text",
-                "content": "Our inner critic is often self-reliant, while it can take some time to find his own inner friend."
+                "content": "Our inner critic is often self-reliant, while it can take some time to find our own inner friend."
               }
             ]
           },
@@ -114,7 +114,6 @@
               {
                 "component": "Button",
                 "content": "continue",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section4"
               }
             ]
@@ -144,7 +143,7 @@
                   },
                   {
                     "component": "Text",
-                    "content": "Now think back to the situation that made your inner critic start to gape."
+                    "content": "Now think back to the situation that made your inner critic start to rant."
                   },
                   {
                     "component": "Text",
@@ -152,7 +151,7 @@
                   },
                   {
                     "component": "Quote",
-                    "content": "A best friend would say that it's okay to make a mistake and that he likes me anyway."
+                    "content": "A best friend would say that it's okay to make a mistake and that he or she likes me anyway."
                   },
                   {
                     "component": "Text",
@@ -167,9 +166,8 @@
             "content": [
               {
                 "component": "Button",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section5",
-                "content": "I'm finished"
+                "content": "I'm done"
               }
             ]
           }
@@ -185,7 +183,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Our inner friend accepts all our mistakes and mistakes. That we are not perfect. You have now explored your inner friend and thought about what he would say to you in difficult situations."
+                "content": "Our inner friend accepts all our faults and mistakes. That we are not perfect. You have now explored your inner friend and thought about what it would say to you in difficult situations."
               }
             ]
           },
@@ -195,7 +193,6 @@
               {
                 "component": "Button",
                 "content": "Next",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section6"
               }
             ]
@@ -212,7 +209,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Good job with the critic & friend."
+                "content": "Good job with the critic & the friend."
               },
               {
                 "component": "Text",
@@ -237,8 +234,7 @@
   },
   "sv": {
     "id": "kritikern-och-kompisen-3",
-    "alias": "kritikern-och-kompisen-3",
-    "type": "lesson",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-3",
     "root": "section1",
     "sections": [
       {
@@ -274,7 +270,6 @@
               {
                 "component": "Button",
                 "content": "Vad säger andra?",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section2"
               }
             ]
@@ -284,7 +279,7 @@
       },
       {
         "id": "section2",
-        "alias": "section2",
+        "alias": "section2 - Videos",
         "content": [
           {
             "component": "VideoStories",
@@ -293,19 +288,22 @@
                 "title": "",
                 "duration": 41,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.1.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943805/Become%20friends%20with%20yourself/subtitles/sharings2.1_flcxpy.vtt"
               },
               {
                 "title": "Emelia, 17",
                 "duration": 44,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943805/Become%20friends%20with%20yourself/subtitles/sharings2.2_i39bxp.vtt"
               },
               {
                 "title": "Isaac, 20",
                 "duration": 61,
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.mp4",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/sharings2.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621943805/Become%20friends%20with%20yourself/subtitles/sharings2_jfep1h.vtt"
               }
             ]
           },
@@ -315,7 +313,6 @@
               {
                 "component": "Button",
                 "content": "Gå vidare",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section3"
               }
             ]
@@ -350,7 +347,6 @@
               {
                 "component": "Button",
                 "content": "Fortsätt",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section4"
               }
             ]
@@ -403,7 +399,6 @@
             "content": [
               {
                 "component": "Button",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section5",
                 "content": "Jag är klar"
               }
@@ -431,7 +426,6 @@
               {
                 "component": "Button",
                 "content": "Nästa",
-                "conversationId": "kritikern-och-kompisen-3",
                 "sectionId": "section6"
               }
             ]
@@ -462,6 +456,245 @@
               {
                 "component": "LessonCompleteButton",
                 "content": "Avsluta",
+                "conversationId": "kritikern-och-kompisen-3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      }
+    ]
+  },
+  "pt": {
+    "id": "kritikern-och-kompisen-3",
+    "alias": "YA Become friends: 1-thecriticandthebuddy-3",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "alias": "section1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/exercise_vad_sager.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# O que dizes a um amigo ou a uma amiga?"
+              },
+              {
+                "component": "Text",
+                "content": "Imagina que tens um amigo ou uma amiga na **mesma situação** que acabaste de descrever e que esse amigo ou essa amiga não vive de acordo com as suas próprias **exigências elevadas**."
+              },
+              {
+                "component": "Text",
+                "content": "Pensa no que **tu** dirias ao teu **amigo** ou à tua **amiga**."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "O que os outros dizem?",
+                "sectionId": "section2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section2",
+        "alias": "section2",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "title": "António Casalinho",
+                "duration": 60,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357188/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Videos/Antonio_Casalinho_-_L1V2_c6cmdh.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650384265/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Ant%C3%B3nio%20Casalinho/Photos/Casalinho_L1V2_qevhhb.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Leonor",
+                "duration": 62,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358564/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Videos/Leonor_-_Torna-te_teu_amigo_L1V2_sfiorl.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379536/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Leonor%20Coelho/Photos/O_critico_e_o_amigo_-_video_2_jljlbz.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Daniela",
+                "duration": 54,
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650357772/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Videos/Daniela_Marques_-_Torna-te_teu_amigo_-_L1V2_dzl0yi.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650375117/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Daniela%20Marques/Photos/Daniela_Marques_-_S%C3%AA_teu_amigo_-_video_2_c9k8lx.jpg",
+                "subtitleUri": ""
+              },
+              {
+                "title": "Filipe",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650358342/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Videos/Filipe_-_Torna-te_teu_amigo_-_L1V2_zrusxi.mp4",
+                "duration": 128,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650379400/29k%20FJN/Young%20Segment/Courses/Become%20friends%20with%20yourself/Filipe%20Rocha/Photos/O_critico_e_o_amigo_-_video_2_wm38eg.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section3",
+        "alias": "section3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# O amigo ou a amiga interior"
+              },
+              {
+                "component": "Text",
+                "content": "O que muitos não sabem é que todos nós temos o nosso próprio amigo ou a nossa própria amiga interior. Um amigo ou uma amiga que está ao nosso lado e nos quer bem."
+              },
+              {
+                "component": "Text",
+                "content": "O nosso crítico interior costuma ser autossuficiente, embora possa levar algum tempo até encontrarmos o nosso próprio amigo ou a nossa própria amiga interior."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "section4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section4",
+        "alias": "section4",
+        "content": [
+          {
+            "component": "Exercise",
+            "exerciseId": "what-would-your-best-friend-say",
+            "exerciseTitle": "O que diria um melhor amigo ou uma melhor amiga?",
+            "content": [
+              {
+                "component": "TextGroup",
+                "content": [
+                  {
+                    "component": "Subtitle",
+                    "content": "Exercício"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "# O que diria um melhor amigo ou uma melhor amiga?"
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Agora pensa na situação que fez o teu crítico interior começar a implicar."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "O que te diria nesta situação um melhor amigo ou uma melhor amiga - alguém que realmente se importa contigo?"
+                  },
+                  {
+                    "component": "Quote",
+                    "content": "Um melhor amigo ou uma melhor amiga diria que não há problema em cometer um erro e que ele ou ela gosta de mim de qualquer maneira."
+                  },
+                  {
+                    "component": "Text",
+                    "content": "Escreve a tua resposta onde só tu possas vê-la."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "sectionId": "section5",
+                "content": "Já acabei"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section5",
+        "alias": "section5",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "O nosso amigo ou a nossa amiga interior aceita todas as nossas falhas e erros. Sabe que não somos perfeitos. Tu já analisaste o teu amigo interior ou a tua amiga interior e pensaste no que te diria em situações difíceis?"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "section6"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "section6",
+        "alias": "section6",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Bom trabalho com o crítico e o amigo ou amiga."
+              },
+              {
+                "component": "Text",
+                "content": "Em situações em que percebes que o teu crítico interior está a começar a implicar, podes ajudar-te pensando também no que o teu amigo ou a tua amiga interior diria."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "LessonCompleteButton",
+                "content": "Terminar",
                 "conversationId": "kritikern-och-kompisen-3"
               }
             ]

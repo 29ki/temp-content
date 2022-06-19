@@ -2,64 +2,108 @@
   "en": {
     "id": "alive-day-1",
     "alias": "alive-day-1",
-    "type": "lesson",
     "root": "welcome",
     "sections": [
       {
-        "id": "alive-day-1",
-        "alias": "alive-day-1",
-        "nextConversationId": "alive-day-2",
-        "type": "microInterventionDay",
         "welcomeHeading": "Welcome to Day 1",
-        "lessonlastDay": false,
-        "initialDay": true,
         "task": {
           "id": "aliveDay1rev1",
           "days": 1,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 1 Mission",
-          "body": "Over the next few hours, what action can you take to feel more connected to even one other person (e.g. by listening to them)?"
+          "title": "Alive Day 1 Quest",
+          "body": "Over the next few hours, do something that will make you feel more connected to another person (e.g. by listening to them)?"
+        },
+        "sharingWall": {
+          "question": "How did today’s quest make you feel?",
+          "exampleText": "It made me feel connected to both myself and others"
         },
         "followUp": {
+          "id": "followUpDay1",
           "days": 0,
           "hours": 18,
           "minutes": 0,
           "title": "Alive Day 1 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "body": "Time to check-in with today’s quest!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-1",
+        "nextConversationId": "alive-day-2",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "alive-day-1"
       }
     ]
   },
   "sv": {
     "id": "alive-day-1",
     "alias": "alive-day-1",
-    "type": "lesson",
     "root": "welcome",
     "sections": [
       {
-        "id": "alive-day-1",
-        "alias": "alive-day-1",
-        "nextConversationId": "alive-day-2",
-        "type": "microInterventionDay",
-        "welcomeHeading": "Welcome to Day 1",
-        "lessonlastDay": false,
-
-        "initialDay": true,
+        "welcomeHeading": "Välkommen till dag 1",
         "task": {
           "days": 1,
           "hours": 8,
           "minutes": 15,
-          "title": "Alive Day 1",
-          "body": "Over the next few hours, what action can you take to feel more connected to even one other person (e.g. by listening to them)?"
+          "title": "Uppdrag dag 1",
+          "body": "Under de kommande timmarna, vad skulle du kunna göra för att känna samhörighet med en annan person (till exempel genom att lyssna på dem)?",
+          "id": "aliveDay1rev1swe"
+        },
+        "sharingWall": {
+          "question": "Hur kände det att göra dagens uppdrag?",
+          "exampleText": "Det fick mig att känna mig närvarande."
         },
         "followUp": {
+          "id": "followUpDay1",
           "days": 0,
           "hours": 18,
           "minutes": 0,
-          "title": "Alive Day 1 Check-in",
-          "body": "Time to check-in with your today’s mission!"
-        }
+          "title": "Uppdrag dag 1 Check-in",
+          "body": "Dags att checka in med dagens uppdrag!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-1",
+        "nextConversationId": "alive-day-2",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "alive-day-1"
+      }
+    ]
+  },
+  "pt": {
+    "id": "alive-day-1",
+    "alias": "alive-day-1",
+    "root": "welcome",
+    "sections": [
+      {
+        "welcomeHeading": "Welcome to Day 1",
+        "task": {
+          "id": "aliveDay1rev1",
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Desafio ALIVE dia 1",
+          "body": "Durante as próximas horas, faz uma coisa que te deixe mais conectada/o com outra pessoa (por exemplo, ouve essa pessoa com toda a atenção)."
+        },
+        "sharingWall": {
+          "question": "O que te fez sentir o desafio de hoje?",
+          "exampleText": "Fez-me sentir conectada/o comigo e com os outros"
+        },
+        "followUp": {
+          "id": "followUpDay1",
+          "days": 0,
+          "hours": 18,
+          "minutes": 0,
+          "title": "Check-in Dia 1 Alive",
+          "body": "Está na altura de fazeres *check-in* no desafio de hoje!"
+        },
+        "lessonlastDay": false,
+        "alias": "alive-day-1",
+        "nextConversationId": "alive-day-2",
+        "initialDay": true,
+        "type": "microInterventionDay",
+        "id": "alive-day-1"
       }
     ]
   }

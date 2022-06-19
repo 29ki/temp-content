@@ -1,0 +1,215 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "90th Birthday",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/90th_Birthday_zbuu0v.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 11
+    },
+    "version": 1,
+    "type": "exercise",
+    "id": "b31a79c3-94df-4ff3-beb4-84e17b96fa53",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-b31a79c3-94df-4ff3-beb4-84e17b96fa53",
+        "name": "90th Birthday",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "b3cc42ff-db2f-48fa-9c44-1ba2b1adf5c2",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/90th_Birthday_zbuu0v.png",
+            "title": "",
+            "content": "Although our values may change over time, living in line with them involves mindfully acting according to what's most important to us in the long run.\n\nThat's why the first step is about connecting to yourself and your values.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "20eb233a-5144-4b9f-b9b9-91d9298c1736",
+            "content": "**Learn more about**\n\n* Your core values\n\n**You'll need:**\n\n* 11 minutes\n* Pen & paper",
+            "buttonText": "Let's go"
+          },
+          {
+            "type": "audio",
+            "id": "1cdcf6a8-c34c-4288-b44c-34bb04fec63d",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620303395/Illustrations_Meditations/Heading_Slow_full_breathing_jplpve.png",
+            "title": "Who are you at 90?",
+            "buttonText": "Next",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1649185113/Meditations/1-_Who_Are_You_At_Ninety_ed_k8glgq.mp3"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "81f5b096-359a-4f73-9ef3-fa65fb3013bb",
+            "content": "### You’re turning 90.\n\nTake a few moments to picture yourself at that party. Someone close to you gives a speech in your honor.\n\n* What would you want them to say about you? \n* What would make you proud to hear? \n\nWrite down your answers.",
+            "title": "Imagine it’s your birthday party many years from now. ",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "f85d3244-0847-4e30-a4ca-d92b1d7eb9ea",
+            "question": "How would you like to be remembered by the time you’re 90?",
+            "exampleText": "I would like to be remembered as being someone who has been loving, brave and trustworthy",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "bd12400e-e483-4ac6-b601-c0a57ba17ccc",
+            "content": "### Visualizing our future can guide us in the present moment by shining a light on what’s important in the long run.\n\nThis can be extra helpful when we’re under pressure, because during stressful times we tend to be short-sighted and out of touch with what truly matters.",
+            "title": "",
+            "buttonText": "Finish",
+            "infoItems": [
+              {
+                "title": "More",
+                "description": "We also tend to prioritise responsibilities we believe others expect from us. For example, we may work longer hours or try to stay on top of the latest news.\n\nAt the same time, we forget about or ignore the things that give our lives meaning, energy and joy."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "90-årsdag",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/90th_Birthday_zbuu0v.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 11
+    },
+    "type": "exercise",
+    "id": "b31a79c3-94df-4ff3-beb4-84e17b96fa53",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-b31a79c3-94df-4ff3-beb4-84e17b96fa53",
+        "name": "90-årsdag",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "b3cc42ff-db2f-48fa-9c44-1ba2b1adf5c2",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/90th_Birthday_zbuu0v.png",
+            "title": "",
+            "content": "Även om våra värderingar kan förändras över tid kan de alltid hjälpa oss att agera medvetet och göra det som är viktigast för oss på längre sikt.\n\nDet är därför det första steget är att få kontakt med dig själv och dina värderingar.",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "20eb233a-5144-4b9f-b9b9-91d9298c1736",
+            "content": "**Du lär dig:**\n\n* Dina värderingar\n\n**Du behöver:**\n\n* 11 minuter\n* Penna och papper",
+            "buttonText": "Nu kör vi!"
+          },
+          {
+            "type": "audio",
+            "id": "cf3d82d7-a862-45ec-a4dd-da1bda73d15b",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1620303395/Illustrations_Meditations/Heading_Slow_full_breathing_jplpve.png",
+            "buttonText": "Nästa",
+            "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1649185680/Meditations/Mo%CC%88t_din_inre_90-a%CC%8Aring_redigerad_DE20161227_1_aljgti.mp3"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "81f5b096-359a-4f73-9ef3-fa65fb3013bb",
+            "content": "### Du fyller 90.\n\nTesta om du kan skapa en bild av dig själv sittande på festen, mitt bland alla gäster.\n\n* Någon som står dig nära håller tal. Vad vill du att hen ska säga om dig? \n* Vad skulle göra dig stolt att få höra? \n\nSkriv ned dina svar.",
+            "title": "Föreställ dig din egen födelsedag, en som ligger långt in i framtiden. ",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "f85d3244-0847-4e30-a4ca-d92b1d7eb9ea",
+            "question": "Hur skulle du vilja bli ihågkommen på din 90-års dag?",
+            "exampleText": "Jag skulle vilja bli ihågkommen som någon som har varit kärleksfull, modig och pålitlig.",
+            "buttonText": "Jag är klar"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "bd12400e-e483-4ac6-b601-c0a57ba17ccc",
+            "content": "### Att föreställa sig framtiden kan vägleda oss i nuet genom att visa vad som är viktigt i det långa loppet.\n\nNär vi befinner oss i pressade situationer är det ett bra trick att ta till, eftersom det brukar vara svårt att tänka längre än näsan räcker när vi är stressade. Vi är ofta kortsiktiga och har inte kontakt med det som verkligen är viktigt.",
+            "title": "",
+            "buttonText": "Avsluta",
+            "infoItems": [
+              {
+                "title": "Mer",
+                "description": "Vi brukar också prioritera att ta ansvar för sånt som vi tror att andra förväntar sig av oss. Vi kanske jobbar över eller försöker hålla örnkoll på vad som händer i världen. \n\nSamtidigt glömmer vi bort eller struntar i sånt som ger livet mening, energi och glädje."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": false
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781495/New_images/exercises%20png/1024x1024/90th_Birthday_zbuu0v.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 11
+    },
+    "type": "exercise",
+    "id": "b31a79c3-94df-4ff3-beb4-84e17b96fa53",
+    "difficulty": "Beginner",
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-b31a79c3-94df-4ff3-beb4-84e17b96fa53",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "bbbb0b19-7f70-443c-b8c6-df01b00698b6",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "b3cc42ff-db2f-48fa-9c44-1ba2b1adf5c2",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "43c494c2-0d6d-4a7a-a07a-c1b667f2f025",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

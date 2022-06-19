@@ -1,0 +1,14 @@
+{
+  "en": {
+    "placeholder": "Write your feedback here",
+    "message__markdown": "#### Thanks, your feedback is valuable to us!"
+  },
+  "sv": {
+    "placeholder": "Skriv din feedback här",
+    "message__markdown": "#### Tack, din feedback är värdefull!"
+  },
+  "pt": {
+    "placeholder": "Escreve o teu comentário aqui",
+    "message__markdown": "#### Obrigado, os teus comentários são muito importantes para nós!"
+  }
+}

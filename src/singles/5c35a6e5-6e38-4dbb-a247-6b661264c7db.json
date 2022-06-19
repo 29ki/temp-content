@@ -1,0 +1,211 @@
+{
+  "en": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": true
+    },
+    "name": "Bring your feelings along",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652084211/Illustrations_Meditations/bringing_your_feelings_along_w42i4g.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 8
+    },
+    "version": 1,
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-5c35a6e5-6e38-4dbb-a247-6b661264c7db",
+        "name": "Bring your feelings along",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "3a79fe95-3a0c-448b-b3ed-038c5a7387b6",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652084211/Illustrations_Meditations/bringing_your_feelings_along_w42i4g.png",
+            "title": "",
+            "content": "In the middle of experiencing powerful emotions, it’s natural to feel anxious, scared or uncomfortable.\n\nIt’s also common to **impulsively want to control, flee or escape those emotions**. While this can help us cope with a situation in the short run, it often stops us from feeling fulfilled in the long run.",
+            "buttonText": "Show me an alternative"
+          },
+          {
+            "type": "video",
+            "id": "08507e76-6be0-4088-b531-4af82e6580e5",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1635344352/The%20Word%20But/jenny_thewordand_zg3mb6.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635345473/The%20Word%20But/IMG-2799_ahfhyy.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1635344310/The%20Word%20But/jenny_thewordand_english_sl2mpo.vtt"
+              }
+            ],
+            "buttonText": "Continue"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "5359c3f3-0799-4da3-a245-f94378421c02",
+            "question": "Imagine you switched from using 'BUT' to using 'AND'. What impact could this have in your life?",
+            "exampleText": "I would still be able to go outside and meet friends when I feel anxious.",
+            "buttonText": "Continue"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "030429ce-b23d-4d50-bfcf-9566feadc5d4",
+            "content": "When we wait for our unwanted feelings to simply go away so that we can finally do the things we want, **we consequently put our life on hold.**\n\nSometimes for a very long time.",
+            "buttonText": "Next"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5996f3bb-6681-44e8-9072-c3fea3718d5b",
+            "alias": "Outro",
+            "topImageUri": "",
+            "title": "",
+            "content": "A more **helpful strategy is to open up to our feelings with acceptance** and intentionally choose our actions.\n\nThis allows us to spend time and energy on the things that are important to us - even when that comes with difficult emotions.",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": true
+    },
+    "name": "Agera oavsett känsla",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652084225/Illustrations_Meditations/swe_bringing_your_feelings_along_ogyf3l.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 8
+    },
+    "tags": [
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6",
+      "9f02a381-9950-4f53-9a10-5f8365c456a1"
+    ],
+    "type": "exercise",
+    "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": false,
+    "stations": [
+      {
+        "id": "conversation-5c35a6e5-6e38-4dbb-a247-6b661264c7db",
+        "name": "Agera oavsett känsla",
+        "type": "station",
+        "sections": [
+          {
+            "type": "editorialWithImage",
+            "id": "3a79fe95-3a0c-448b-b3ed-038c5a7387b6",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652084225/Illustrations_Meditations/swe_bringing_your_feelings_along_ogyf3l.png",
+            "title": "",
+            "content": "När vi upplever starka känslor är det naturligt att vi känner oss ångestfyllda, rädda eller obekväma. \n\nDet är också vanligt att vi försöker **kontrollera, undvika eller fly från våra känslor**. Att undvika känslor kan visserligen hjälpa oss hantera en situation på kort sikt, men hindrar oss ofta från att känna oss tillfreds med våra liv på lång sikt.",
+            "buttonText": "Visa ett alternativ"
+          },
+          {
+            "type": "video",
+            "id": "08507e76-6be0-4088-b531-4af82e6580e5",
+            "videos": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1635344352/The%20Word%20But/jenny_thewordand_zg3mb6.mp4",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1635345473/The%20Word%20But/IMG-2799_ahfhyy.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1635344379/The%20Word%20But/jenny_thewordand_swedish_m8uwsa.vtt"
+              }
+            ],
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "sharingExercise",
+            "enableEarlySkip": true,
+            "id": "5359c3f3-0799-4da3-a245-f94378421c02",
+            "question": "Föreställ dig att du slutar använda ordet ”MEN” och i stället använder ”OCH”. Vilken påverkan skulle det kunna få i ditt liv?",
+            "exampleText": "Jag skulle kunna gå ut och träffa mina vänner även när jag har ångest.",
+            "buttonText": "Fortsätt"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "030429ce-b23d-4d50-bfcf-9566feadc5d4",
+            "content": "När vi **väntar på att oönskade känslor ska försvinna så att vi äntligen kan göra det vi vill**, pausar vi ofta våra liv. \n\nIbland under väldigt lång tid.",
+            "buttonText": "Nästa"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "5996f3bb-6681-44e8-9072-c3fea3718d5b",
+            "alias": "Outro",
+            "topImageUri": "",
+            "title": "",
+            "content": "En mer **användbar strategi är att tillåta våra känslor** och medvetet välja hur vi vill agera. \n\nPå så sätt kan vi lägga tid och energi på det som är viktigt för oss — även när det innefattar svåra känslor.",
+            "buttonText": "Avsluta"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "segments": ["ALL"],
+    "reflections": {
+      "hideOnHome": true
+    },
+    "name": "<<Name>>",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1625133546/hitta%20lugnet.png"
+    },
+    "duration": {
+      "type": "minute",
+      "count": 8
+    },
+    "type": "exercise",
+    "id": "5c35a6e5-6e38-4dbb-a247-6b661264c7db",
+    "difficulty": ["Beginner"],
+    "description": "",
+    "wip": true,
+    "stations": [
+      {
+        "id": "conversation-5c35a6e5-6e38-4dbb-a247-6b661264c7db",
+        "name": "<<Name>>",
+        "type": "station",
+        "sections": [
+          {
+            "type": "audio",
+            "id": "a918d443-9a36-4edb-ae2d-df18626b77d8",
+            "alias": "Meditation introduction",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "description": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "I'm done"
+          },
+          {
+            "type": "editorialWithImage",
+            "id": "3a79fe95-3a0c-448b-b3ed-038c5a7387b6",
+            "alias": "Exercise introduction",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1628579304/Badges/Exercise_badge_w_whitespace.png",
+            "title": "<Station name>",
+            "content": "<One sentence describing what the user will gain from this exercise.>",
+            "buttonText": "Got it"
+          },
+
+          {
+            "type": "editorialWithImage",
+            "id": "5996f3bb-6681-44e8-9072-c3fea3718d5b",
+            "alias": "Outro",
+            "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1630400385/Badges/youre-done_lppk7z.png",
+            "title": "You're done",
+            "content": "<Key takeaway>\n\nYou're now ready to move on to <what's next>",
+            "buttonText": "Finish"
+          }
+        ]
+      }
+    ]
+  }
+}

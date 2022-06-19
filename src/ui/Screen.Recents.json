@@ -1,0 +1,41 @@
+{
+  "en": {
+    "screenTitle": "Recents",
+    "empty__markdown": "Your recent meditations, exercises and tests will show up here.",
+    "sectionTitles": {
+      "exercise": "Exercises",
+      "course": "Courses",
+      "meditation": "Meditations",
+      "test": "Tests",
+      "lesson": "Lessons",
+      "challenge": "Challenges",
+      "checkin": "Check-ins"
+    }
+  },
+  "sv": {
+    "screenTitle": "Senaste",
+    "empty__markdown": "Dina senaste meditationer, övningar och tester kommer att dyka upp här.",
+    "sectionTitles": {
+      "exercise": "Övningar",
+      "course": "Kurser",
+      "meditation": "Meditationer",
+      "test": "Tester",
+      "lesson": "Lektioner",
+      "challenge": "Utmaningar",
+      "checkin": "Check-ins"
+    }
+  },
+  "pt": {
+    "screenTitle": "Recentes",
+    "empty__markdown": "As tuas meditações, exercícios e testes mais recentes vão aparecer aqui.",
+    "sectionTitles": {
+      "exercise": "Exercícios",
+      "course": "Cursos",
+      "meditation": "Meditações",
+      "test": "Testes",
+      "lesson": "Lições",
+      "challenge": "Desafios",
+      "checkin": "Check-ins"
+    }
+  }
+}

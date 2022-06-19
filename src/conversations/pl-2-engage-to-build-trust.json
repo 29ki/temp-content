@@ -1,0 +1,103 @@
+{
+  "en": {
+    "id": "pl-2-engage-to-build-trust",
+    "alias": "pl-2-engage-to-build-trust",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-2-engage-to-build-trust",
+        "alias": "pl-2-engage-to-build-trust",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Engage to build trust",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-2-engage-to-build-trust-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Engage to build trust",
+          "body": "Today, as you’re interacting with others to get a task done (e.g., a work meeting, taking in the post, speaking to clients), engage with them in a way that helps you to build trust."
+        },
+        "followUp": {
+          "id": "pl-2-engage-to-build-trust-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "Have you noticed any difference in how you engage with others this week?",
+          "exampleText": "I realized that when I open up to people more, they tend to do the same."
+        }
+      }
+    ]
+  },
+  "sv": {
+    "id": "pl-2-engage-to-build-trust",
+    "alias": "pl-2-engage-to-build-trust",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-2-engage-to-build-trust",
+        "alias": "pl-2-engage-to-build-trust",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Envolve-te para construir confiança",
+        "lessonlastDay": true,
+        "task": {
+          "days": 1,
+          "hours": 8,
+          "minutes": 15,
+          "title": "Envolve-te para construir confiança",
+          "body": "Hoje, ao interagir com outras pessoas para realizar uma tarefa (i.e, uma reunião de \ntrabalho, assumindo o teu posto, falar com clientes), interage com eles de uma forma que te ajude a construir confiança"
+        },
+        "followUp": {
+          "id": "pl-2-engage-to-build-trust-rev1",
+          "days": 0,
+          "hours": 10,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Hora de fazer o check-in da missão de hoje!"
+        },
+        "sharingWall": {
+          "question": "Como foi para ti fazer a missão de hoje?",
+          "exampleText": "Percebi que quando me abro mais com as pessoas, elas tendem a fazer o mesmo."
+        }
+      }
+    ]
+  },
+  "pt": {
+    "id": "pl-2-engage-to-build-trust",
+    "alias": "pl-2-engage-to-build-trust",
+    "root": "scheduleTask",
+    "sections": [
+      {
+        "id": "pl-2-engage-to-build-trust",
+        "alias": "pl-2-engage-to-build-trust",
+        "type": "microInterventionDay",
+        "welcomeHeading": "Engage to build trust",
+        "lessonlastDay": true,
+        "task": {
+          "id": "pl-2-engage-to-build-trust-rev1",
+          "days": 1,
+          "hours": 9,
+          "minutes": 0,
+          "title": "Envolve-te para criar confiança",
+          "body": "Hoje, quando interagires com os outros para executar uma tarefa (por exemplo, uma reunião, receber o correio, falar com clientes), envolve-te de uma forma que te ajude a criar confiança."
+        },
+        "followUp": {
+          "id": "pl-2-engage-to-build-trust-rev1",
+          "days": 0,
+          "hours": 16,
+          "minutes": 0,
+          "title": "Check-in",
+          "body": "Let's check-in"
+        },
+        "sharingWall": {
+          "question": "Notaste alguma diferença na forma como te envolveste com os outros esta semana?",
+          "exampleText": "Percebi que quando me abro mais, as outras pessoas têm tendência a fazer o mesmo."
+        }
+      }
+    ]
+  }
+}

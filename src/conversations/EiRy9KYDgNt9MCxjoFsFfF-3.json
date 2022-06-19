@@ -1,0 +1,298 @@
+{
+  "en": {
+    "id": "EiRy9KYDgNt9MCxjoFsFfF-3",
+    "alias": "Self compassion 1 - Inner critic 3",
+    "type": "lesson",
+    "root": "section6",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "03:32",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/inner_critic/yogagirl_meditation_Lesson_01_Hearing_your_inner_voice.mp3",
+        "title": "Hearing your inner voice",
+        "type": "audio",
+        "id": "section6",
+        "description": ""
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Imagine that you have an inner friend",
+        "topImageUri": "",
+        "title": "Imagine that you have an inner friend",
+        "content": "Your friend is your inner **ally**, someone who **knows** your weaknesses and strengths, who is **loving** and **doesn’t judge**. A friend who **understands** your personal history and **sees** the things that are out of your control.\n\nSomeone who's always **on your side**. Someone who supports you and **believes in you**, unconditionally.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "What would they sound like?",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "shortDescription": "Think back to the feeling of not being enough",
+        "longDescription": "#### What would a loving friend say to you in this situation?\n\n> \"I deeply care about you, and that’s why I’d like to help you make a change.\"\n>\n> \"I love you and I don’t want you to suffer.\"\n\nWrite a message to yourself from your inner friend",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "I'm done",
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-4"
+          }
+        ],
+        "question": "",
+        "time": "5-10 min",
+        "alias": "Finding your inner friend",
+        "title": "Finding your inner friend",
+        "type": "writing",
+        "id": "section8"
+      }
+    ]
+  },
+  "sv": {
+    "id": "EiRy9KYDgNt9MCxjoFsFfF-3",
+    "alias": "Self compassion 1 - Inner critic 3",
+    "type": "lesson",
+    "root": "section6",
+    "sections": [
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "section4"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "6:17",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646880/Meditations/14_Swe_Hear_your_inner_voice_mmg9uf.wav",
+        "title": "Lyssna till din inre röst",
+        "type": "audio",
+        "id": "section6",
+        "description": "I den här meditationen får du lyssna inåt. Tryck på play för att sätta igång."
+      },
+      {
+        "id": "section4",
+        "type": "editorialWithImage",
+        "alias": "Imagine that you have an inner friend",
+        "topImageUri": "",
+        "title": "Föreställ dig en inre vän",
+        "content": "Tänk dig nu **vad du skulle säga till en vän** som befann sig i samma situation som du beskrev i övningen med den inre kritikern. \n\nEn vän som känner till dina svagheter och styrkor, som är **kärleksfull och inte dömer**. En vän som förstår din personliga historia och ser sådant du inte kan kontrollera.\n\nNågon som alltid är på din sida. Någon som stöttar dig och tror på dig helt villkorslöst.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vad skulle hen säga?",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "shortDescription": "Tänk tillbaka på samma känsla av att inte räcka till.",
+        "longDescription": "#### Vad skulle en vän som älskar dig säga i den här situationen?\n\n*Jag bryr mig mycket om dig och därför vill jag hjälpa dig att göra en förändring*\n\n*Jag älskar dig och jag vill inte att du ska ha det svårt*\n\nSkriv ett meddelande till dig själv från din inre vän.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "EiRy9KYDgNt9MCxjoFsFfF-4"
+          }
+        ],
+        "question": "",
+        "time": "5-10 min",
+        "alias": "Finding your inner friend",
+        "title": "Hitta din inre vän",
+        "type": "writing",
+        "id": "section8"
+      }
+    ]
+  },
+  "pt": {
+    "id": "EiRy9KYDgNt9MCxjoFsFfF-3",
+    "alias": "Self compassion 1 - Inner critic 3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Ajuda-nos a melhorar",
+        "title": "Ajuda-nos a melhorar",
+        "content": "O teu contributo é fundamental para **melhorarmos de forma contínua os nossos cursos**. Nesse sentido, a Escola de Medicina da Universidade do Minho em parceria com a FJN pretende avaliar o impacto dos cursos disponíveis na app 29K FJN.\n\nPara participar terás que clicar no link abaixo e responder a um questionário breve (**2 minutos**) no início e no final de cada curso. Este questionário é **confidencial**. \n\nDesde já obrigado pela tua ajuda. Não te esqueças de regressar aqui.\n\n[LINK](https://saudemental.p5.pt/profile/29k--fjn--emuminho?tt=FJjyv44HKrNhJkXozL6gQA)",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "A crítica ou o crítico interior ",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448851/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L1P1innercriticautocompaixao_lqwd9j.jpg",
+        "title": "A crítica ou o crítico interior ",
+        "content": "Hoje é o primeiro passo da tua caminhada rumo a uma relação mais construtiva e afetuosa contigo. Nesta primeira lição, terás uma ideia do que é a autocompaixão e de como te pode ajudar na tua vida.\n\n### A Investigação\n\nEste curso é inspirado no curso *Mindful Self-Compassion* desenvolvido pela Dra. Kristen Neff e pelo Dr. Cris Germer. Os psicólogos da 29k desenharam este curso em colaboração com professores e investigadores do *Center for Mindful Self-Compassion.*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "editorialWithImage",
+        "alias": "O que é a crítica ou o crítico interior?",
+        "title": "O que é a crítica ou o crítico interior?",
+        "content": "No nosso dia-a-dia, queremos constantemente atingir a perfeição nos diversos papéis que desempenhamos. Queremos ser amigas, amigos perfeitos. Temos de ser companheiras, companheiros afetuosos e perfeitos. Como colegas de trabalho, queremos ser atentos, excelentes, perfeitos.\n\nAcabamos eventualmente por não conseguir fazer tudo e depois julgamo-nos por não sermos melhores ou por não fazermos mais.\n\nA linguagem que usamos para connosco nestas situações é, na maioria das vezes, crítica, contundente e cheia de julgamento, muitas vezes usamos palavras e expressões como \"*tens de fazer\",* \"*deves fazer\"* ou \"*tens de ter\"*.\n\nReferimo-nos a esta voz como a crítica ou o crítico interior.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "video",
+        "alias": "Descobre a tua crítica ou o teu crítico interior",
+        "title": "Descobre a tua crítica ou o teu crítico interior",
+        "description": "“Tenho de ter esta capacidade para me encantar comigo, até nas minhas falhas.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448851/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L1P3innercriticautocompaixao_scodk8.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1622374550/29k%20FJN/Courses/Self%20Compassion/Videos%2020210530%20Update/FL_-_L1_Self_compassion_V1_iyomgc.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "editorialWithImage",
+        "alias": "A crítica ou o crítico interior",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448852/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L1P4innercriticautocompaixao_br4xg7.jpg",
+        "title": "A crítica ou o crítico interior",
+        "content": "A maioria das pessoas nunca se apercebe da sua pior crítica ou do seu pior crítico.\n\nMuitas vezes, essa voz controla as nossas vidas. Impede-nos de avançar e corta a ligação connosco próprios.\n\nComecemos então por olhar para dentro de nós e por encontrar a nossa própria crítica ou crítico interior.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "writing",
+        "alias": "Encontra a tua crítica ou crítico interior",
+        "title": "Encontra a tua crítica ou crítico interior",
+        "time": "Tira 5-10 min",
+        "question": "Para o exercício seguinte, escreve a tua resposta numa folha de papel e guarda-a. Vais precisar dela mais tarde.",
+        "longDescription": "Primeiro, pensa numa situação em que te sintas desajustada/o e descreve-a da forma mais objetiva possível. Por exemplo:\n\n> “Eu sinto-me desajustada/o quando me olho ao espelho de manhã”\n\nDepois escreve o que diz a tua crítica ou crítico interior. Tenta ser o mais específica/o possível, como por exemplo:\n\n> “Vais-te atrasar. És sempre demasiado otimista. Tenho a certeza de que os vais desiludir\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Esta meditação vai preparar-te para o próximo passo do exercício.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523406/29k%20FJN/Meditations/Joanna%20Final/Hearing_Your_Inner_Voice_3m_jnxfu3.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "A/o Amiga/o Interior",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448851/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L1P7innercriticautocompaixao_qa6us0.jpg",
+        "title": "A/o Amiga/o Interior",
+        "content": "Primeiro, pensa sobre a situação que descreveste anteriormente.\n\nAgora imagina como responderias a uma amiga ou a um amigo na mesma situação. Alguém que conhece bem as tuas fraquezas e os teus pontes fortes, que é amável e que não te julga. Uma amiga ou um amigo que compreende a tua história de vida e que vê as coisas que estão fora do teu controlo.\n\nA tua tarefa é explorar o que essa amiga ou esse amigo te diria na mesma situação.\n\n### A maioria das pessoas não sabe que ela/e existe\n\nImagina ter uma amiga ou amigo ou aliada/o interior. Alguém que está sempre contigo, ao teu lado, está no teu interior. Alguém que te apoia e acredita em ti incondicionalmente.\n\nEste próximo passo é um exercício para olhar para dentro e deixar sair esta voz.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "writing",
+        "alias": "Encontrar a/o aliada/o e amiga/o",
+        "title": "Encontrar a/o aliada/o e amiga/o",
+        "time": "Tira 5-10 min",
+        "question": "Pensa de novo em como é sentires-te desaquada/o. O que é que uma amiga ou amigo que te ama profundamente te diria nesta situação?",
+        "longDescription": "Escreve o que uma amiga ou um amigo te diria. Tenta ser o mais específica/o possível, por exemplo:\n\n“Eu preocupo-me muito contigo e é por isso que gostaria de te ajudar a fazer uma mudança”\n\n“Eu gosto de ti e não quero que sofras”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section10"
+          }
+        ]
+      },
+      {
+        "id": "section10",
+        "type": "video",
+        "alias": "Descobre a tua amiga ou amigo interior",
+        "title": "Descobre a tua amiga ou amigo interior",
+        "description": "“E nós somos a única companhia que temos até ao último suspiro.”",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section11"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448852/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L1P9innercriticautocompaixao_zjbbah.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895789/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L1_Self_compassion_V2_why1q3.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section11",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a sessão **A** **Crítica Interior**, onde aprendeste mais sobre: \n\n* A/o crítica/o interior\n* A/o aliada/o interior\n\nQuando notares que a tua crítica ou o teu crítico interior a aparecer, podes lembrar-te do que diria a tua aliada ou o teu aliado interior.",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

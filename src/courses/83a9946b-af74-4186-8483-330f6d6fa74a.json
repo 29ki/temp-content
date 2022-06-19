@@ -1,0 +1,788 @@
+{
+  "en": {
+    "segments": ["ADULTS", "8be51700-fd9d-43d3-a01a-3963782535df"],
+    "name": "Dealing with stress",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Dealing_with_stress_qdzelw.png"
+    },
+    "about": {
+      "body": "What would life look like if it was less stressful? In this course you'll get to explore ways to improve your ability to deal with stress and live a life that is more meaningful to you.\n\nIt will provide you with tools to change what is causing you stress. Change what you can and find new ways to relate to that which you can't affect.",
+      "howThisWorks": "* This course takes eight weeks to complete\n* One lesson per week \n* One video sharing per week",
+      "courseValue": "#### What will I learn?\n\n* Reduce stress \n* Increase your ability to handle challenges\n* Lead a more meaningful life",
+      "createdBy": {
+        "text": "This course has been co-created by researchers and psychologists at 29k and the Karolinska Institute.",
+        "profiles": [
+          {
+            "name": "Fredrik Livheim, PhD",
+            "linkUri": "https://livskompass.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517825/Stress/fredrik_ijwwtj.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "cta": "This course is designed to help you take crucial steps towards a less stressful life by working through exercises drawn from the leading research on stress and resilience.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Dealing_with_stress_qdzelw.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "lesson"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "83a9946b-af74-4186-8483-330f6d6fa74a",
+    "lessons": [
+      {
+        "id": "99a9ad92-e872-439c-9527-9794ea22a946",
+        "name": "What is stress",
+        "index": 0,
+        "description": "Take your first steps towards a less stressful life.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-first-steps",
+            "title": "How stress works"
+          },
+          {
+            "title": "Focus on the present moment",
+            "conversationId": "resilience-and-stress-first-steps-2"
+          },
+          {
+            "title": "Recovery",
+            "conversationId": "resilience-and-stress-first-steps-3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528825/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/What%20is%20stress.png"
+        }
+      },
+      {
+        "id": "7568d3bc-874c-4bf8-991e-f6065485fb9e",
+        "name": "A meaningful life",
+        "index": 1,
+        "description": "Explore what you really value in life.",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-a-meaningful-life",
+            "title": "Balance"
+          },
+          {
+            "title": "What gives your life meaning",
+            "conversationId": "resilience-and-stress-a-meaningful-life-2"
+          },
+          {
+            "title": "Your life values",
+            "conversationId": "resilience-and-stress-a-meaningful-life-3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528821/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/A%20meaningful%20life.png"
+        }
+      },
+      {
+        "id": "700cc0de-24cb-4e37-a606-875d482c22d7",
+        "name": "Being here and now",
+        "description": "Become present and practice letting go of your thoughts.",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-being-here-now",
+            "title": "Being in the present moment"
+          },
+          {
+            "title": "Common challenges",
+            "conversationId": "resilience-and-stress-being-here-now-2"
+          },
+          {
+            "title": "Me, here, now",
+            "conversationId": "resilience-and-stress-being-here-now-3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528821/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Being%20here%20and%20now.png"
+        }
+      },
+      {
+        "id": "51e0e9f2-f88a-4b5d-8bcc-00c693010475",
+        "name": "Act for change",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Change your life to make it more meaningful and less stressful.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-act-for-change",
+            "title": "Change what isn't working"
+          },
+          {
+            "conversationId": "resilience-and-stress-act-for-change-2",
+            "title": "Stress and control"
+          },
+          {
+            "conversationId": "resilience-and-stress-act-for-change-3",
+            "title": "Problem-solving"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650529030/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Act%20for%20change.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "6e823568-3329-457a-bdb9-7ba2b03401bd",
+        "name": "Facing life",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Learn to face the inevitable difficult moments in life.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-facing-life",
+            "title": "Facing life"
+          },
+          {
+            "conversationId": "resilience-and-stress-facing-life-2",
+            "title": "Natural stress"
+          },
+          {
+            "conversationId": "resilience-and-stress-facing-life-3",
+            "title": "Rest in difficult emotions"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528822/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Facing%20life.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "57ea1568-b05c-43d7-b1b3-85f8f61458e5",
+        "name": "Saying no — and yes",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Increase resilience through healthy relationship boundaries.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes",
+            "title": "Saying no — and yes"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-2",
+            "title": "Healthy relationships"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-3",
+            "title": "The yes-trap"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-4",
+            "title": "Your boundaries"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528822/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Saying%20no%20-%20and%20yes.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "27f4f490-1fbe-4ad0-ac3b-46d0ba72df30",
+        "name": "Your inner friend",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Manage stress by being kinder to yourself.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend",
+            "title": "Your inner friend"
+          },
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend-2",
+            "title": "Find focus through breathing"
+          },
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend-3",
+            "title": "A letter to yourself"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528827/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Your%20inner%20friend.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "b3afc34b-ced6-48fd-9785-af1ae97010e0",
+        "name": "A new life",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Make lasting changes in your life.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-a-new-life",
+            "title": "Reflecting on the process"
+          },
+          {
+            "conversationId": "resilience-and-stress-a-new-life-2",
+            "title": "Me a year from now"
+          },
+          {
+            "conversationId": "resilience-and-stress-a-new-life-3",
+            "title": "My plan"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528825/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/A%20new%20life.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 118,
+      "rating": 4
+    },
+    "wip": false
+  },
+  "sv": {
+    "segments": ["ADULTS", "8be51700-fd9d-43d3-a01a-3963782535df"],
+    "name": "Hantera stress",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Dealing_with_stress_qdzelw.png"
+    },
+    "about": {
+      "body": "Hur skulle livet se ut om det var mindre stressigt? I den här kursen kommer du få utforska hur du kan hantera stress bättre och leva livet mer så som du vill att det ska se ut. \n\nDu kommer även få förändra det du kan och hitta nya sätt att förhålla dig till sådant du inte kan påverka.",
+      "howThisWorks": "* Den här kursen tar åtta veckor att genomföra\n* En lektion per vecka\n* En gruppdelning per vecka",
+      "courseValue": "#### Vad kommer jag lära mig?\n\n* Hantera stress\n* Öka din förmåga att hantera utmaningar\n* Leva ett mer meningsfullt liv",
+      "createdBy": {
+        "text": "Denna kurs har skapats av forskare och psykologer vid 29k och Karolinska Institutet.",
+        "profiles": [
+          {
+            "name": "Fredrik Livheim, PhD",
+            "linkUri": "https://livskompass.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517825/Stress/fredrik_ijwwtj.jpg"
+          },
+          {
+            "name": "Björn Hedensjö",
+            "linkUri": "https://bjornhedensjo.se/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517870/Stress/bjo%CC%88rn_hmqjty.jpg"
+          },
+          {
+            "name": "Daniel Ek",
+            "linkUri": "https://www.hjarnkraft.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628517924/Stress/daniel_yby8ul.jpg"
+          },
+          {
+            "name": "Jacqueline Levi",
+            "linkUri": "https://psykologipodden.libsyn.com/",
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628518106/Stress/jack_mkcldo.jpg"
+          }
+        ]
+      }
+    },
+    "cta": "Den här kursen är utformad för att hjälpa dig ta avgörande steg mot ett mindre stressigt liv genom att arbeta med övningar från den ledande forskningen om stress.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1648546689/New_images/courses%20png/Dealing_with_stress_qdzelw.png"
+    },
+    "duration": {
+      "count": 8,
+      "type": "lesson"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "83a9946b-af74-4186-8483-330f6d6fa74a",
+    "lessons": [
+      {
+        "id": "99a9ad92-e872-439c-9527-9794ea22a946",
+        "name": "Vad är stress",
+        "index": 0,
+        "description": "Ta dina första steg mot ett mindre stressigt liv.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-first-steps",
+            "title": "Hur stress fungerar"
+          },
+          {
+            "title": "Fokus på här och nu",
+            "conversationId": "resilience-and-stress-first-steps-2"
+          },
+          {
+            "title": "Återhämtning",
+            "conversationId": "resilience-and-stress-first-steps-3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528825/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/What%20is%20stress.png"
+        }
+      },
+      {
+        "id": "7568d3bc-874c-4bf8-991e-f6065485fb9e",
+        "name": "Ett meningsfullt liv",
+        "index": 1,
+        "description": "Utforska vad som verkligen är viktigt för dig i livet.",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-a-meaningful-life",
+            "title": "Balans"
+          },
+          {
+            "title": "Vad som är meningsfullt i ditt liv",
+            "conversationId": "resilience-and-stress-a-meaningful-life-2"
+          },
+          {
+            "title": "Dina livsvärden",
+            "conversationId": "resilience-and-stress-a-meaningful-life-3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528821/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/A%20meaningful%20life.png"
+        }
+      },
+      {
+        "id": "700cc0de-24cb-4e37-a606-875d482c22d7",
+        "name": "Att vara här och nu",
+        "description": "Bli närvarande och öva på att släppa taget om dina tankar.",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-being-here-now",
+            "title": "Att vara i nuet"
+          },
+          {
+            "title": "Vanliga utmaningar",
+            "conversationId": "resilience-and-stress-being-here-now-2"
+          },
+          {
+            "title": "Jag, här, nu",
+            "conversationId": "resilience-and-stress-being-here-now-3"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528821/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Being%20here%20and%20now.png"
+        }
+      },
+      {
+        "id": "51e0e9f2-f88a-4b5d-8bcc-00c693010475",
+        "name": "Förändra det som inte fungerar",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Förändra ditt liv för att göra det mindre stressigt och mer meningsfullt.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-act-for-change",
+            "title": "Förändra det som inte fungerar"
+          },
+          {
+            "conversationId": "resilience-and-stress-act-for-change-2",
+            "title": "Stress och kontroll"
+          },
+          {
+            "conversationId": "resilience-and-stress-act-for-change-3",
+            "title": "Problemlösning"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650529030/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Act%20for%20change.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "6e823568-3329-457a-bdb9-7ba2b03401bd",
+        "name": "Att möta livet",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Lär dig hantera de oundvikliga svåra stunderna i livet.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-facing-life",
+            "title": "Att möta livet"
+          },
+          {
+            "conversationId": "resilience-and-stress-facing-life-2",
+            "title": "Naturlig stress"
+          },
+          {
+            "conversationId": "resilience-and-stress-facing-life-3",
+            "title": "Vila i svåra känslor"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528822/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Facing%20life.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "57ea1568-b05c-43d7-b1b3-85f8f61458e5",
+        "name": "Att säga nej — och ja",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Hantera stress genom att sätta hälsosamma gränser i dina relationer. ",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes",
+            "title": "Att säga nej — och ja"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-2",
+            "title": "Sunda relationer"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-3",
+            "title": "Ja-fällan"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-4",
+            "title": "Dina gränser"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528822/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Saying%20no%20-%20and%20yes.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "27f4f490-1fbe-4ad0-ac3b-46d0ba72df30",
+        "name": "Din inre vän",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Hantera stress genom att bli snällare mot dig själv.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend",
+            "title": "Din inre vän"
+          },
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend-2",
+            "title": "Hitta fokus genom andningen"
+          },
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend-3",
+            "title": "Skriva ett brev till dig själv"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528827/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/Your%20inner%20friend.png"
+        }
+      },
+      {
+        "wip": false,
+        "id": "b3afc34b-ced6-48fd-9785-af1ae97010e0",
+        "name": "Ett nytt liv",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Gör långsiktiga förändringar i ditt liv.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-a-new-life",
+            "title": "Reflektera över din resa"
+          },
+          {
+            "conversationId": "resilience-and-stress-a-new-life-2",
+            "title": "Jag ett år från idag"
+          },
+          {
+            "conversationId": "resilience-and-stress-a-new-life-3",
+            "title": "Min plan"
+          }
+        ],
+        "card": {
+          "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1650528825/New_images/courses%20png/Dealing%20With%20Stress%20-%20lesson%20illustrations/A%20new%20life.png"
+        }
+      }
+    ],
+    "rating": {
+      "count": 118,
+      "rating": 4
+    }
+  },
+  "pt": {
+    "segments": ["ADULTS", "8be51700-fd9d-43d3-a01a-3963782535df"],
+    "author": {
+      "nickname": "José Neves",
+      "name": "José Neves"
+    },
+    "name": "Stress e Resiliência",
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621844608/29k%20FJN/Courses/Stress%20and%20Resilience/Photos/1coursecoverB_t3wowd.jpg"
+    },
+    "about": {
+      "body": "Como seria a vida se fosse menos stressante? Este curso ajuda-te a viver uma vida com mais significado e a tornares-te mais resiliente.\n\nVai-te preparar para lidares melhor com as causas do stress e vai-te dar força para te relacionares de forma diferente com o stress.",
+      "howThisWorks": "#### Como funciona este curso?\n\n* Tem a duração de 8 semanas\n* Uma lição por semana\n* Uma partilha de vídeo por semana",
+      "courseValue": "#### O que vais aprender?\n\n* A reduzir o stress\n* A ser mais resiliente\n* A ter uma vida com mais significado",
+      "createdBy": {
+        "profiles": [
+          {
+            "name": "Com José Neves"
+          }
+        ]
+      }
+    },
+    "cta": "Dá o primeiro passo para seres mais resiliente e para uma vida menos stressante removendo as causas do stress e relacionando-te de uma forma diferente com o que não consegues mudar.",
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621958192/29k%20FJN/Courses/Menu%20Thumbnails/Menu_JN_Stress_Resilience_final_woigmo.jpg"
+    },
+    "duration": {
+      "count": 8,
+      "type": "lesson"
+    },
+    "tags": [
+      "9e879ce3-5754-493c-8da6-6d09c1e6a05e",
+      "d7b109a7-1a99-4fbb-a5bc-812daea428d6"
+    ],
+    "id": "83a9946b-af74-4186-8483-330f6d6fa74a",
+    "lessons": [
+      {
+        "id": "99a9ad92-e872-439c-9527-9794ea22a946",
+        "name": "Os primeiros passos",
+        "index": 0,
+        "description": "Aprende como o stress funciona para teres uma vida menos stressante.",
+        "duration": {
+          "count": 20,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-first-steps",
+            "title": "Os primeiros passos"
+          },
+          {
+            "title": "Introdução ao exercício",
+            "conversationId": "resilience-and-stress-first-steps-2"
+          },
+          {
+            "title": "Exercício",
+            "conversationId": "resilience-and-stress-first-steps-3"
+          }
+        ]
+      },
+      {
+        "id": "7568d3bc-874c-4bf8-991e-f6065485fb9e",
+        "name": "Uma vida com significado",
+        "index": 1,
+        "description": "Entra em contacto com o que realmente valorizas na vida",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-a-meaningful-life",
+            "title": "Uma vida com significado"
+          },
+          {
+            "title": "O que dá significado à tua vida?",
+            "conversationId": "resilience-and-stress-a-meaningful-life-2"
+          },
+          {
+            "title": "Exercício de modelação pessoal",
+            "conversationId": "resilience-and-stress-a-meaningful-life-3"
+          }
+        ]
+      },
+      {
+        "id": "700cc0de-24cb-4e37-a606-875d482c22d7",
+        "name": "Estar presente, aqui e agora",
+        "description": "Torna-te consciente do que está a acontecer agora.",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-being-here-now",
+            "title": "Estar aqui e agora"
+          },
+          {
+            "title": "Os desafios comuns do mindfulness",
+            "conversationId": "resilience-and-stress-being-here-now-2"
+          },
+          {
+            "title": "Eu, aqui, agora",
+            "conversationId": "resilience-and-stress-being-here-now-3"
+          }
+        ]
+      },
+      {
+        "id": "51e0e9f2-f88a-4b5d-8bcc-00c693010475",
+        "name": "Agir pela mudança",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Muda a tua vida para que tenha mais significado e seja menos stressante.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-act-for-change",
+            "title": "Agir pela mudança"
+          },
+          {
+            "conversationId": "resilience-and-stress-act-for-change-2",
+            "title": "Resolução de problemas perante o stress"
+          },
+          {
+            "conversationId": "resilience-and-stress-act-for-change-3",
+            "title": "Exercício 1-4"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "6e823568-3329-457a-bdb9-7ba2b03401bd",
+        "name": "Enfrentar a vida",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Aprende a enfrentar os momentos inevitáveis e difíceis.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-facing-life",
+            "title": "Enfrentar a vida"
+          },
+          {
+            "conversationId": "resilience-and-stress-facing-life-2",
+            "title": "O stress natural"
+          },
+          {
+            "conversationId": "resilience-and-stress-facing-life-3",
+            "title": "Descansa nas emoções difíceis"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "57ea1568-b05c-43d7-b1b3-85f8f61458e5",
+        "name": "Dizer não – e sim",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Aumenta a tua resiliência estabelecendo limites saudáveis nas relações.",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes",
+            "title": "Dizer não – e sim"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-2",
+            "title": "Relações saudáveis"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-3",
+            "title": "A ratoeira do sim"
+          },
+          {
+            "conversationId": "resilience-and-stress-saying-no-and-yes-4",
+            "title": "Dizer sim ao que queres"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "27f4f490-1fbe-4ad0-ac3b-46d0ba72df30",
+        "name": "O teu amigo interior",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Aprende a aumentar a tua resiliência sendo mais amigo de ti própria/o",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend",
+            "title": "O teu amigo interior"
+          },
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend-2",
+            "title": "A tua voz interior"
+          },
+          {
+            "conversationId": "resilience-and-stress-the-inner-friend-3",
+            "title": "A tua carta de amor"
+          }
+        ]
+      },
+      {
+        "wip": false,
+        "id": "b3afc34b-ced6-48fd-9785-af1ae97010e0",
+        "name": "Uma vida nova",
+        "duration": {
+          "count": 25,
+          "type": "minute"
+        },
+        "description": "Fazer mudanças duradouras na tua vida",
+        "conversations": [
+          {
+            "conversationId": "resilience-and-stress-a-new-life",
+            "title": "Uma vida nova"
+          },
+          {
+            "conversationId": "resilience-and-stress-a-new-life-2",
+            "title": "A vida a partir de agora"
+          },
+          {
+            "conversationId": "resilience-and-stress-a-new-life-3",
+            "title": "Eu daqui a um ano"
+          }
+        ]
+      }
+    ],
+    "rating": {
+      "count": 118,
+      "rating": 4
+    },
+    "wip": false
+  }
+}

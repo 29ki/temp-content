@@ -1,0 +1,185 @@
+{
+  "en": {
+    "exerciseSharing": {
+      "heading__markdown": "## Share and ~~grow~~",
+      "body__markdown": "Take a moment to reflect. \nHere’s what other people shared about why they are grateful",
+      "continue_button": "Let's try sharing",
+      "skip_button": "Skip"
+    },
+    "splash": {
+      "heading__markdown": "# ~~Hi~~, welcome to 29k!",
+      "body__markdown": "29k is a non-profit foundation that supports lasting growth. This app is free and always will be.",
+      "existing_user_button": "Already a user",
+      "new_user_button": "Get started"
+    },
+    "ageGate": {
+      "heading__markdown": "## How old are ~~you?~~",
+      "body__markdown": "We tailor our content to give you the best experience.",
+      "normal_button": "21 years old or more",
+      "young_adults_button": "15-20 years old",
+      "too_young_button": "14 years old or less"
+    },
+    "languageQuery": {
+      "heading__markdown": "## Choose ~~language~~",
+      "body__markdown": "We see that you prefer English as a language.\n\nRight now, a limited part of our courses and exercises are available in English. If you want to see everything 29k has to offer, you can change to **Swedish** in your profile.",
+      "setLanguage_button": "Let’s switch to {{language}}",
+      "keepLanguage_button": "I'll keep English",
+      "quit_button": "No thanks, I'll wait "
+    },
+    "exerciseInput": {
+      "heading__markdown": "## What are you grateful for and ~~why~~?",
+      "input_placeholder": "I'm grateful for...",
+      "input_template": "I'm grateful for",
+      "characterCount": "{{count}} characters left",
+      "skip_button": "Skip"
+    },
+    "tooYoungDeadend": {
+      "heading__markdown": "## ~~Under 15?~~",
+      "intro__markdown": "This app is only available for people 15 and older",
+      "body__markdown": "If you’re looking for support, we can warmly recommend Ungdomsmottagningen (UMO) where you can call, email or chat.",
+      "link_button": "Take me to UMO",
+      "link_url": "https://www.umo.se/att-ta-hjalp/hit-kan-du-ringa-maila-eller-chatta"
+    },
+    "introductionYoungAdults": {
+      "heading__markdown": "## A place to create ~~lasting change~~",
+      "body__markdown": "Live a happier and more meaningful life through support proven to work.\n* Practice relating to stress, relationships, self-compassion & more\n* Find support through exercises and meditations.",
+      "continue_button": "Let's go!"
+    },
+    "displayNameScreen": {
+      "heading__markdown": "## What should we call ~~you?~~",
+      "placeholder": "Your nickname"
+    },
+    "introduction": {
+      "heading__markdown": "## A place to create ~~lasting change~~",
+      "body__markdown": "Live a happier and more meaningful life through support proven to work.\n* Join courses that improve stress, relationships & more\n* Practice with others in live video-sharings or on your own.\n* Find support through exercises, meditations and peers",
+      "continue_button": "Let's go!"
+    },
+    "exerciseDone": {
+      "heading__markdown": "## Thanks for ~~sharing~~",
+      "body__markdown": "Sharing your emotions and your experiences with others is a critical part of personal growth.",
+      "continue_button": "Next"
+    }
+  },
+  "sv": {
+    "exerciseSharing": {
+      "heading__markdown": "## Dela med dig och ~~utvecklas~~",
+      "body__markdown": "Ta en stund och reflektera. Här är några exempel på vad andra har delat om vad de är tacksamma för.",
+      "continue_button": "Testa att dela",
+      "skip_button": "Hoppa över"
+    },
+    "splash": {
+      "heading__markdown": "# ~~Hej~~, välkommen till 29k!",
+      "body__markdown": "29k är en ideell stiftelse som stöder hållbar personlig utveckling. Appen är och kommer alltid att vara gratis.",
+      "existing_user_button": "Redan användare",
+      "new_user_button": "Kom igång"
+    },
+    "ageGate": {
+      "heading__markdown": "## Hur gammal är ~~du?~~",
+      "body__markdown": "Vi anpassar innehållet för att ge dig den bästa upplevelsen.",
+      "normal_button": "21 år eller äldre",
+      "young_adults_button": "15-20 år",
+      "too_young_button": "14 år eller yngre"
+    },
+    "languageQuery": {
+      "heading__markdown": "## Välj ~~språk~~",
+      "body__markdown": "Vi ser att du föredrar svenska som språk.\n\nJust nu är en begränsad del av våra kurser och övningar tillgängliga på svenska. Om du vill se allt 29k har att erbjuda kan du ändra till **engelska** i din profil.",
+      "setLanguage_button": "Jag byter till {{language}}",
+      "keepLanguage_button": "Jag behåller Svenska",
+      "quit_button": "Nej tack, jag väntar"
+    },
+    "exerciseInput": {
+      "heading__markdown": "## Vad är du tacksam för och ~~varför?~~",
+      "input_placeholder": "Jag är tacksam för...",
+      "input_template": "Jag är tacksam för",
+      "characterCount": "{{count}} tecken kvar",
+      "skip_button": "Hoppa över"
+    },
+    "tooYoungDeadend": {
+      "heading__markdown": "## Till dig som är ~~under 15~~",
+      "intro__markdown": "Den här appen är tillgänglig för personer som är 15 år och äldre.",
+      "body__markdown": "Om du söker stöd finns det en lista hos Ungdomsmottagningen (UMO) med ställen dit du kan ringa, maila eller chatta med.",
+      "link_button": "Ta mig till UMO",
+      "link_url": "https://www.umo.se/att-ta-hjalp/hit-kan-du-ringa-maila-eller-chatta"
+    },
+    "introductionYoungAdults": {
+      "heading__markdown": "## En plats för hållbar ~~förändring~~",
+      "body__markdown": "Lev ett lyckligare och mer meningsfullt liv med hjälp av stöd som fungerar.\n* Gör övningar som handlar om stress, relationer, självmedkänsla & mer\n* Få stöd genom övningar och meditationer",
+      "continue_button": "Nu kör vi!"
+    },
+    "displayNameScreen": {
+      "heading__markdown": "## Vad ska vi kalla ~~dig?~~",
+      "placeholder": "Ditt namn"
+    },
+    "introduction": {
+      "heading__markdown": "## En plats för hållbar ~~förändring~~",
+      "body__markdown": "Lev ett lyckligare och mer meningsfullt liv med hjälp av stöd som fungerar.\n* Gå med i kurser om stress, relationer och mer\n* Öva tillsammans med andra genom videodelning eller på egen hand,\n* Få stöd genom övningar, meditationer och från andra",
+      "continue_button": "Nu kör vi!"
+    },
+    "exerciseDone": {
+      "heading__markdown": "## Tack för du ~~delade~~",
+      "body__markdown": "Att dela med sig av känslor och erfarenheter till andra är en viktig del av personlig utveckling.",
+      "continue_button": "Fortsätt"
+    }
+  },
+  "pt": {
+    "exerciseSharing": {
+      "heading__markdown": "## Partilha e ~~cresce~~",
+      "body__markdown": "Tira um momento para refletir. \nAqui está o que as outras pessoas partilharam acerca das razões pelas quais estão gratas.",
+      "continue_button": "Partilha também",
+      "skip_button": "Agora não"
+    },
+    "splash": {
+      "heading__markdown": "# ~~Olá~~, obrigada por estares com a 29k FJN!",
+      "body__markdown": "A Fundação José Neves e a 29k são fundações sem fins lucrativos que apoiam o desenvolvimento pessoal de forma contínua e segura. Esta app é **totalmente gratuita e assim continuará**.",
+      "existing_user_button": "Já fiz o meu registo",
+      "new_user_button": "Quero começar"
+    },
+    "ageGate": {
+      "heading__markdown": "## Que idade ~~tens?~~",
+      "body__markdown": "Ajustámos os nossos conteúdos para teres a melhor experiência possível.",
+      "normal_button": "21 anos ou mais",
+      "young_adults_button": "15-20 anos",
+      "too_young_button": "14 anos ou menos"
+    },
+    "languageQuery": {
+      "heading__markdown": "## Escolhe o teu ~~idioma~~",
+      "body__markdown": "Parece-nos que o teu idioma preferido é o português.\n\nNem todos os nossos cursos e exercícios foram traduzidos para português. Recomendamos que mudes o teu idioma para **inglês**.\n\n*Podes alterar o idioma no teu perfil a qualquer momento.*",
+      "setLanguage_button": "Prefiro mudar para {{language}}",
+      "keepLanguage_button": "Prefiro manter em português",
+      "quit_button": "Não obrigada/o, vou esperar"
+    },
+    "exerciseInput": {
+      "heading__markdown": "## O que agradeces e porquê?",
+      "input_placeholder": "Gostava de agradecer por...",
+      "input_template": "Gostava de agradecer por",
+      "characterCount": "{{count}} caracteres restantes",
+      "skip_button": "Agora não"
+    },
+    "tooYoungDeadend": {
+      "heading__markdown": "## ~~Menos de 15 anos?~~",
+      "intro__markdown": "Esta app só está disponível para maiores de 15 anos",
+      "body__markdown": "A 29k FJN só está disponível para maiores de 15 anos. Se estás à procura de informação sobre saúde mental, recomendamos uma visita à página da [UNICEF](https://www.unicef.pt/coronavirus-para-os-jovens-como-lidar-com-a-ansiedade/). Para apoio psicológico especializado, podes visitar o site do [SNS24](https://www.sns24.gov.pt/guia/aconselhamento-psicologico-no-sns-24/) ou ligar através do número **808 24 24 24**.",
+      "link_button": "Leva-me lá",
+      "link_url": "https://www.unicef.pt/coronavirus-para-os-jovens-como-lidar-com-a-ansiedade/"
+    },
+    "introductionYoungAdults": {
+      "heading__markdown": "## Um lugar para criar uma ~~mudança duradoura~~",
+      "body__markdown": "Vive uma vida mais feliz e com mais significado utilizando práticas validadas e comprovadas.\n\n* Práticas relacionadas com stress, relações, autocompaixão e muito mais\n* Encontra apoio em exercícios, meditações, cursos e sessões de partilha",
+      "continue_button": "Vamos lá!"
+    },
+    "displayNameScreen": {
+      "heading__markdown": "## Como ~~te~~ devemos chamar?",
+      "placeholder": "Your nickname"
+    },
+    "introduction": {
+      "heading__markdown": "## Um lugar para criar uma ~~mudança duradoura~~",
+      "body__markdown": "Vive uma vida mais feliz e com mais significado utilizando práticas validadas e comprovadas.\n\n* Frequenta cursos que melhoram a gestão do stress, a autocompaixão, as relações e muito mais\n* Pratica em grupo (sessões de partilha de vídeo ao vivo) ou então em sessões individuais\n* Encontra apoio nos exercícios, meditações e nos outros utilizadores da 29k FJN",
+      "continue_button": "Vamos lá!"
+    },
+    "exerciseDone": {
+      "heading__markdown": "## Obrigada por ~~partilhares~~",
+      "body__markdown": "Partilhar as tuas emoções e experiências com os outros é um aspeto crítico para o teu desenvolvimento pessoal.",
+      "continue_button": "Próximo"
+    }
+  }
+}

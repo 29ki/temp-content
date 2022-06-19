@@ -1,0 +1,294 @@
+{
+  "en": {
+    "id": "MKHk4pfvEUJ3tQ8wvHtZFG-3",
+    "alias": "Self compassion - Gratitude 3",
+    "type": "lesson",
+    "root": "section4",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "#### Choose a person in your life that you appreciate, yet haven’t had a chance to express your gratitude towards.\n\n* Take a moment to reflect on what this person has done that has made you feel grateful. \n* Write a letter to of gratitude to them for what they've brought to your life.\n\n*Write this letter as if you were to hand it to them in person, for example, perhaps you’d start it off with “Dear ...,”*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "I'm done",
+            "sectionId": "section5"
+          }
+        ],
+        "question": "",
+        "time": "10-20 min",
+        "alias": "A letter of gratitude",
+        "title": "A letter of gratitude",
+        "type": "writing",
+        "id": "section4"
+      },
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "03:32",
+        "audioUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/audio/yg_self_compassion/inner_critic/yogagirl_inner-critic_meditation.mp3",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "section5",
+        "description": "Before you continue, take a moment to listen to this short meditation."
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "What if we could appreciate ourselves the same way we appreciate others?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642764042/jackson-david-SrunqRT0A34-unsplash_ejuyjn.jpg",
+        "title": "But what if we could appreciate ourselves the same way we appreciate others?",
+        "content": "Most people can see the **benefit** of expressing gratitude towards **others**, it grows and strengthens our **relationship** with them. \n\nHowever, we rarely express gratitude **inwards** and thus we miss out on these **benefits for ourselves.**",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Let's practice this",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "A letter of gratitude to yourself",
+        "title": "A letter of gratitude to yourself",
+        "time": "10-20 min",
+        "shortDescription": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Let's wrap this up",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-4"
+          }
+        ],
+        "longDescription": "#### Now let’s turn those grateful eyes inwards. \n\n* Start by choosing what you appreciate about yourself. Reflect on your accomplishments and choices you’ve made in your life that you’re grateful for. \n* Write a letter of gratitude towards yourself from this compassionate, grateful perspective."
+      }
+    ]
+  },
+  "sv": {
+    "id": "MKHk4pfvEUJ3tQ8wvHtZFG-3",
+    "alias": "Self compassion - Gratitude 3",
+    "type": "lesson",
+    "root": "section4",
+    "sections": [
+      {
+        "shortDescription": "",
+        "longDescription": "Välj en person i ditt liv som du uppskattar.\n\nFundera en stund över vad personen har gjort som har fått dig att känna dig tacksam. Skriv sedan ett brev till hen och **uttryck din tacksamhet för vad hen har bidragit med i ditt liv**.\n\nSkriv brevet som om du skulle lämna över det. Du kan till exempel börja med *Kära...*",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Jag är klar",
+            "sectionId": "section5"
+          }
+        ],
+        "question": "",
+        "time": "10-20 min",
+        "alias": "Ett tackbrev till någon annan",
+        "title": "Skriv ett tacksamhetsbrev",
+        "type": "writing",
+        "id": "section4"
+      },
+      {
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätt",
+            "sectionId": "section6"
+          }
+        ],
+        "alias": "Meditation",
+        "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1628579304/Badges/Meditation_badge_w_whitespace.png",
+        "duration": "05:20",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1639646877/Meditations/16_Swe_Observe_and_allow_mgsjmk.wav",
+        "title": "Meditation",
+        "type": "audio",
+        "id": "section5",
+        "description": "Innan vi fortsätter djupdyker vi i tacksamhet med den här meditationen."
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "Tänk om vi kunde uppskatta oss själva på samma sätt som vi uppskattar andra? ",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/v1642764042/jackson-david-SrunqRT0A34-unsplash_ejuyjn.jpg",
+        "title": "Att uppskatta sig själv som vi uppskattar andra",
+        "content": "De flesta kan se fördelen med att uttrycka tacksamhet mot andra – det förbättrar och stärker vår relation till dem. Men vi uttrycker sällan tacksamhet inåt – men faktum är att det är ett smart sätt att stärka relationen till oss själva också.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Vi testar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Ett tackbrev till dig själv",
+        "title": "Ett tackbrev till dig själv",
+        "time": "10-20 min",
+        "shortDescription": "",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Jag är klar",
+            "conversationId": "MKHk4pfvEUJ3tQ8wvHtZFG-4"
+          }
+        ],
+        "longDescription": "Vänd nu den tacksamma blicken inåt.\n\nBörja med att välja något hos dig själv som du uppskattar.\n\nReflektera sedan över saker du åstadkommit och val du har gjort i livet som du är tacksam för.\n\nNär du känner dig redo: skriv ett tackbrev **till dig själv ur detta självmedkännande**, tacksamma perspektiv."
+      }
+    ]
+  },
+  "pt": {
+    "id": "MKHk4pfvEUJ3tQ8wvHtZFG-3",
+    "alias": "Self compassion - Gratitude 3",
+    "type": "lesson",
+    "root": "section1",
+    "sections": [
+      {
+        "id": "section1",
+        "type": "editorialWithImage",
+        "alias": "Gratidão",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448860/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P1gratitudeautocompaixao_sebxgj.jpg",
+        "title": "Gratidão",
+        "content": "Nesta sessão, vais refletir sobre as coisas pelas quais deves agradecer na tua vida, em relação a ti e àqueles de quem gostas.\n\n### A investigação\n\nEsta sessão é inspirada no exercício de M. E. Seligman et al. \"A visita de agradecimento\".\n\n### A sessão de hoje consiste em três partes:\n\n* Uma carta de agradecimento a alguém que valorizas (Escrita)\n* Meditação\n* Uma carta de agradecimento a ti (Escrita)\n\n### Preparação para a sessão:\n\n* 40 min de tempo sem perturbações\n* Papel e caneta",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section2"
+          }
+        ]
+      },
+      {
+        "id": "section2",
+        "type": "editorialWithImage",
+        "alias": "O que agradeces?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P2gratitudeautocompaixao_ztv3yj.jpg",
+        "title": "O que agradeces?",
+        "content": "A vida pode voar sem sequer nos darmos conta. Com todos os nossos afazeres, distrações e escolhas, muitas vezes não fazemos uma pausa para perceber o que dá sentido às nossas vidas.\n\nPor vezes, tudo o que precisamos é de um momento para pôr em palavras aquilo que realmente apreciamos. Para reencontrar o sentido do momento presente, aqui e agora.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section3"
+          }
+        ]
+      },
+      {
+        "id": "section3",
+        "type": "video",
+        "alias": "Carta de agradecimento a quem valorizas",
+        "title": "Carta de agradecimento a quem valorizas",
+        "description": "“Amor, resiliência, compaixão, generosidade, eu aprendi isso com a minha mãe. A minha mãe é isso tudo.\"",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P3gratitudeautocompaixao_zdmnmc.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621895814/29k%20FJN/Courses/Self%20Compassion/Videos/FL_-_L6_Self_compassion_V1_rqvuff.mp4"
+          }
+        ]
+      },
+      {
+        "id": "section4",
+        "type": "writing",
+        "alias": "Carta de agradecimento a quem valorizas",
+        "title": "Carta de agradecimento a quem valorizas",
+        "time": "Tira 10-20 min",
+        "shortDescription": "Escolhe uma pessoa da tua vida que valorizas, mas pela qual não tenhas tido a oportunidade de expressar a tua gratidão. Dedica um momento a refletir sobre o que essa pessoa fez para te sentires grata/o. Depois escreve-lhe uma carta, expressando a tua gratidão pelo que essa pessoa trouxe à tua vida. Escreve esta carta como se a fosses entregar pessoalmente, por exemplo, podes começar com \"Querida/o...\".",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section5"
+          }
+        ]
+      },
+      {
+        "id": "section5",
+        "type": "audio",
+        "title": "Meditação",
+        "description": "Agora presta atenção ao que se passa dentro de ti através desta curta meditação.",
+        "audioUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1621523404/29k%20FJN/Meditations/Joanna%20Final/Inner_Critic_yunh3r.mp3",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section6"
+          }
+        ]
+      },
+      {
+        "id": "section6",
+        "type": "editorialWithImage",
+        "alias": "E se pudéssemos apreciar-nos da mesma forma que apreciamos os outros?",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1621448861/29k%20FJN/Courses/Self%20Compassion/Photos%20Final%20(Use%20This%20One)/L6P6gratitudeautocompaixao_eypwiv.jpg",
+        "title": "E se pudéssemos apreciar-nos da mesma forma que apreciamos os outros?",
+        "content": "A maioria das pessoas consegue ver os benefícios de expressar a gratidão aos outros, isso faz-nos crescer e fortalece a relação com os outros. No entanto, raramente expressamos gratidão para connosco, perdendo assim esses benefícios para nós próprios.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section7"
+          }
+        ]
+      },
+      {
+        "id": "section7",
+        "type": "writing",
+        "alias": "Uma carta de agradecimento a ti própria/o",
+        "title": "Uma carta de agradecimento a ti própria/o",
+        "time": "Tira 10-20 min",
+        "shortDescription": "Agora vamos mudar o foco da gratidão para dentro. Começa por escolher características tuas que aprecies mas pelas quais nunca tiveste oportunidade de expressar a tua gratidão. Agora reflete sobre as tuas conquistas e escolhas que fizeste na vida e pelas quais estás grata/o. Agora que já refletiste sobre estas áreas, escreve uma carta de gratidão para ti a partir desta perspetiva compassiva e agradecida.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section8"
+          }
+        ]
+      },
+      {
+        "id": "section8",
+        "type": "editorialWithImage",
+        "alias": "Parabéns!",
+        "title": "Parabéns!",
+        "content": "A tua ligação à gratidão pode fazer-te sentir poderosa/o, vulnerável e assustada/o. O próximo grande passo é ainda mais poderoso.\n\n### Deixa-os saber que agradeces\n\nSe for possível, o teu próximo desafio é expressar a tua gratidão à pessoa a quem escreveste a carta de agradecimento.\n\nRecomendamos que a encontres pessoalmente (ou como for possível) e a leias em voz alta.\n\nEsta é uma experiência muito forte.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section9"
+          }
+        ]
+      },
+      {
+        "id": "section9",
+        "type": "editorialWithImage",
+        "alias": "# ~~Parabéns!~~",
+        "title": "# ~~Parabéns!~~",
+        "content": "Parabéns por completares a lição **Gratidão**, fizeste algo maravilhoso pelo teu bem-estar.\n\nSe decidires participar numa partilha com o teu grupo, vais precisar de ter à mão os exercícios:\n\n* Uma carta de agradecimento a alguém de quem gostas\n* Uma carta de agradecimento a ti mesma/o",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

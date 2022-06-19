@@ -1,0 +1,279 @@
+{
+  "en": {
+    "id": "501950b9-690b-4334-a2a5-5f866cbdbd21",
+    "alias": "Leadership-coursesummary-3",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "3f0cfc9b-5a93-4e7d-b19a-a932ff390c1d",
+        "alias": "Recap",
+        "title": "",
+        "content": "Now let's take a moment to take stock of the wide range of skills you've developed throughout the course.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Let's recap",
+            "sectionId": "f3c4615b-b484-428c-a6f7-d342474d1e9e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f3c4615b-b484-428c-a6f7-d342474d1e9e",
+        "alias": "In lesson 1 you've learned",
+        "title": "In lesson 1 you've learned",
+        "content": "* A framework of behaviors that you can use to approach your work and life\n* How to tune-in to your embodied feelings and what makes sense and matters",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "f586d7c7-b16c-4574-8bc0-3bcafb409ae4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f586d7c7-b16c-4574-8bc0-3bcafb409ae4",
+        "alias": "In lesson 2 you've learned",
+        "title": "In lesson 2 you've learned",
+        "content": "* How to use the 4 core transformational leaderships skills to do what matters and achieve success",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "5166725e-ebad-4c66-9924-03217fdaef7c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5166725e-ebad-4c66-9924-03217fdaef7c",
+        "alias": "In lesson 3 you've learned",
+        "title": "In lesson 3 you've learned",
+        "content": "* How to cultivate trust to pursue purpose",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "30f09ea6-351d-4dfe-8c49-1b6b1f103de1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "30f09ea6-351d-4dfe-8c49-1b6b1f103de1",
+        "alias": "In lesson 4 you've learned",
+        "title": "In lesson 4 you've learned",
+        "content": "* To be more aware of how you relate to people and flexibly change how you relate to them",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "6b6b7ac9-f124-49ce-94ba-50a114386b56"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6b6b7ac9-f124-49ce-94ba-50a114386b56",
+        "alias": "In lesson 5 you've learned",
+        "title": "In lesson 5 you've learned",
+        "content": "* How to interact with people in socially skilled ways that allow to communicate sincerely, influence people, and build connections, in ways that help you achieve goals and pursue purpose",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continue",
+            "sectionId": "7bda7c2f-36c7-4281-8922-afa0667000f0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7bda7c2f-36c7-4281-8922-afa0667000f0",
+        "alias": "In lesson 6 you've learned",
+        "title": "In lesson 6 you've learned",
+        "content": "* To identify goals, and ways of pursuing them, that matter to you",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "f09b70df-54d5-4c52-86b8-e3586e2cc389",
+            "content": "Continue"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f09b70df-54d5-4c52-86b8-e3586e2cc389",
+        "alias": "In lesson 7 you've learned",
+        "title": "In lesson 7 you've learned",
+        "content": "* How to use scenario planning and strategic skills to succeed in ways that matter",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "cc3c8808-ec2f-4525-9089-181c72c5de0e",
+            "content": "One final practice"
+          }
+        ]
+      }
+    ],
+    "root": "3f0cfc9b-5a93-4e7d-b19a-a932ff390c1d"
+  },
+  "sv": {
+    "id": "501950b9-690b-4334-a2a5-5f866cbdbd21",
+    "alias": "Leadership-coursesummary-3"
+  },
+  "pt": {
+    "id": "501950b9-690b-4334-a2a5-5f866cbdbd21",
+    "alias": "Leadership-coursesummary-3",
+    "root": "3f0cfc9b-5a93-4e7d-b19a-a932ff390c1d",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "3f0cfc9b-5a93-4e7d-b19a-a932ff390c1d",
+        "alias": "Recap",
+        "title": "",
+        "content": "Agora vamos tirar um momento para fazer um balanço da ampla gama de competências que desenvolveste ao longo deste curso",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Vamos recapitular ",
+            "sectionId": "f3c4615b-b484-428c-a6f7-d342474d1e9e"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f3c4615b-b484-428c-a6f7-d342474d1e9e",
+        "alias": "In lesson 1 you've learned",
+        "title": "Na lição 1 aprendeste",
+        "content": "* Uma estrutura de comportamentos que podes usar para abordar o teu trabalho e a tua vida\n* Como sintonizares-te com as sensações no teu corpo que te informam do que faz sentido e verdadeiramente importa",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "fd2b5a82-ca86-4e8f-a6f4-c76af47aabaa"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "id": "fd2b5a82-ca86-4e8f-a6f4-c76af47aabaa",
+        "alias": "AHO Video",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "f586d7c7-b16c-4574-8bc0-3bcafb409ae4"
+          }
+        ],
+        "videos": [
+          {
+            "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1652374299/29k%20FJN/Courses/Purposeful%20Leadership/Photos/li%C3%A7%C3%A3o_8_-_video_2_obbtnp.jpg",
+            "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1652179128/29k%20FJN/Courses/Purposeful%20Leadership/Videos/Ant%C3%B3nio_Horta_Os%C3%B3rio_-_Lideran%C3%A7a_L8V2_huvlzi.mp4"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f586d7c7-b16c-4574-8bc0-3bcafb409ae4",
+        "alias": "In lesson 2 you've learned",
+        "title": "Na lição 2 aprendeste ",
+        "content": "* Como usar as 4 principais competências de liderança transformadora para fazer o \n  que importa e alcançar o sucesso",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "5166725e-ebad-4c66-9924-03217fdaef7c"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "5166725e-ebad-4c66-9924-03217fdaef7c",
+        "alias": "In lesson 3 you've learned",
+        "title": "Na lição 3 aprendeste ",
+        "content": "* Como cultivar confiança para alcançar um propósito",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "30f09ea6-351d-4dfe-8c49-1b6b1f103de1"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "30f09ea6-351d-4dfe-8c49-1b6b1f103de1",
+        "alias": "In lesson 4 you've learned",
+        "title": "Na lição 4 aprendeste ",
+        "content": "* A estar mais consciente da forma como te relacionas com as pessoas e a mudar de forma flexível a maneira como o fazes",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "6b6b7ac9-f124-49ce-94ba-50a114386b56"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "6b6b7ac9-f124-49ce-94ba-50a114386b56",
+        "alias": "In lesson 5 you've learned",
+        "title": "Na lição 5 aprendeste",
+        "content": "* Como interagir com as pessoas de maneiras socialmente hábeis que te permitem comunicar com sinceridade, influenciar pessoas e construir ligações, de formas que te ajudam a atingir objetivos e alcançar propósitos",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Continuar",
+            "sectionId": "7bda7c2f-36c7-4281-8922-afa0667000f0"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "7bda7c2f-36c7-4281-8922-afa0667000f0",
+        "alias": "In lesson 6 you've learned",
+        "title": "Na lição 6 aprendeste",
+        "content": "*  A identificar objetivos que são relevantes para ti e formas de alcançá-los",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "f09b70df-54d5-4c52-86b8-e3586e2cc389",
+            "content": "Continuar"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "f09b70df-54d5-4c52-86b8-e3586e2cc389",
+        "alias": "In lesson 7 you've learned",
+        "title": "Na lição 7 aprendeste ",
+        "content": "* Como usar o planeamento de cenários e competências estratégicas para ter sucesso de uma forma relevante",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "conversationId": "cc3c8808-ec2f-4525-9089-181c72c5de0e",
+            "content": "Uma prática final "
+          }
+        ]
+      }
+    ]
+  }
+}

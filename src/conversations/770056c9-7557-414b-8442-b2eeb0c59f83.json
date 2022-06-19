@@ -1,0 +1,128 @@
+{
+  "en": {
+    "id": "770056c9-7557-414b-8442-b2eeb0c59f83",
+    "alias": "Acting with purpose 2: Actions you are proud of 4",
+    "root": "section14",
+    "sections": [
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "title": "Act and evaluate",
+        "content": "As you face this choice, the way forward may not be automatically clear. Sometimes avoidance can be wise, and sometimes different values may pull your actions in opposite directions. The only way to find out which way to go is to try these actions in real life. We suggest you do that, and afterwards reflect on the results.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section15"
+          }
+        ],
+        "alias": "section14"
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "title": "Closing",
+        "content": "In this lesson you have\n\n* Tuned into how it feels to *not* act on values\n* Tuned into how it feels to act on values\n* Reflected on different emotional consequences of your actions in a choice you’re facing\n\nTuning into how it feels to act in different ways can help you live in a way that is important to you.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "section16"
+          }
+        ],
+        "alias": "section15"
+      },
+      {
+        "id": "section16",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "It’s time to share with your group, if you’re up for it. The sharing questions concern the choice you’re facing right now.\n\n* If you were to act on how you feel you *should* be or what is expected of you, what would that look like?\n* If you were to act from what matters to you, what would that look like?\n* What differences are there between these two lines of action?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ],
+        "alias": "section16"
+      }
+    ]
+  },
+  "sv": {
+    "id": "770056c9-7557-414b-8442-b2eeb0c59f83",
+    "alias": "Acting with purpose 2: Actions you are proud of 4",
+    "root": "section14",
+    "sections": [
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "title": "Handla och utvärdera",
+        "content": "När du står inför detta val kanske inte vägen framåt är automatiskt tydlig. Ibland kan undvikande vara klokt, och ibland kan olika värden dra dina handlingar i motsatta riktningar. Det enda sättet att ta reda på vilken väg att gå är att prova dessa åtgärder i verkliga livet. Vi föreslår att du gör det och efteråt funderar över resultaten.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "title": "Stängning",
+        "content": "I den här lektionen har du\n\n* Inriktad på hur det känns att  *inte*  agera på värden\n* Inriktad på hur det känns att agera på värden\n* Reflekteras över olika känslomässiga konsekvenser av dina handlingar i ett val du står inför\n\nAtt ställa in hur det känns att agera på olika sätt kan hjälpa dig att leva på ett sätt som är viktigt för dig.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Fortsätta",
+            "sectionId": "section16"
+          }
+        ]
+      },
+      {
+        "id": "section16",
+        "type": "editorialWithImage",
+        "title": "# Well ~~done!~~",
+        "content": "Det är dags att dela med din grupp om du är redo för det. Delningsfrågorna gäller det val du står inför just nu.\n\n* Om du skulle agera utifrån hur du känner att du  *borde*  vara eller vad som förväntas av dig, hur skulle det se ut?\n* Om du skulle agera utifrån det som är viktigt för dig, hur skulle det se ut?\n* Vilka skillnader finns det mellan dessa två handlingslinjer?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Close"
+          }
+        ],
+        "alias": "section16"
+      }
+    ]
+  },
+  "pt": {
+    "id": "770056c9-7557-414b-8442-b2eeb0c59f83",
+    "alias": "Acting with purpose 2: Actions you are proud of 4",
+    "root": "section14",
+    "sections": [
+      {
+        "id": "section14",
+        "type": "editorialWithImage",
+        "title": "Encerramento",
+        "content": "Nesta lição aprendeste a:\n\n* Como *não* agir segundo os valores\n* Como agir segundo os valores\n* Como olhar para uma escolha que tens de fazer\n\nSintonizares-te com a sensação de agir de maneiras diferentes pode ajudar-te a viver de uma forma que é importante para ti.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "section15"
+          }
+        ]
+      },
+      {
+        "id": "section15",
+        "type": "editorialWithImage",
+        "title": "# ~~Parabéns!~~",
+        "content": "Se estiveres preparado, chegou o momento da partilha com o teu grupo. As perguntas para partilhar dizem respeito às escolhas que enfrentas neste momento.\n\n* Como seria se tivesses de agir da forma como sentes que deverias ser? Ou, pelo que é esperado de ti?\n* Como seria se tivesses de agir de acordo com o que é importante para ti?\n* Que diferenças existem entre estas duas linhas de ação?",
+        "buttons": [
+          {
+            "component": "LessonCompleteButton",
+            "content": "Fechar"
+          }
+        ]
+      }
+    ]
+  }
+}

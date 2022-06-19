@@ -1,0 +1,41 @@
+{
+  "en": {
+    "screenTitle": "Favorites",
+    "empty__markdown": "You haven’t selected any favourite content yet.\n\nThat’s ok, love takes time.\n\n![](https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653660825/Favorites/love_your_self_fqmvlw.png)",
+    "sectionTitles": {
+      "exercise": "Exercises",
+      "course": "Courses",
+      "meditation": "Meditations",
+      "test": "Tests",
+      "lesson": "Lessons",
+      "challenge": "Challenges",
+      "checkin": "Check-ins"
+    }
+  },
+  "sv": {
+    "screenTitle": "Favoriter",
+    "empty__markdown": "Du har inte valt några favoriter än.\n\nDet är okej, kärlek tar tid.\n\n![](https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653660825/Favorites/love_your_self_fqmvlw.png)",
+    "sectionTitles": {
+      "exercise": "Övningar",
+      "course": "Kurser",
+      "meditation": "Meditationer",
+      "test": "Tester",
+      "lesson": "Lektioner",
+      "challenge": "Utmaningar",
+      "checkin": "Check-ins"
+    }
+  },
+  "pt": {
+    "screenTitle": "Favoritos",
+    "empty__markdown": "Ainda não selecionaste o teu conteúdo favorito.\n\nTudo bem, é uma escolha que pode demorar.\n\n![](https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1653660825/Favorites/love_your_self_fqmvlw.png)",
+    "sectionTitles": {
+      "exercise": "Exercícios",
+      "course": "Cursos",
+      "meditation": "Meditações",
+      "test": "Testes",
+      "lesson": "Lições",
+      "challenge": "Desafios",
+      "checkin": "Check-ins"
+    }
+  }
+}

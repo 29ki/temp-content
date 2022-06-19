@@ -1,10 +1,24 @@
 {
   "en": {
-    "type": "lesson",
     "id": "relationship-aoa-1",
-    "alias": "relationship-aoa-1",
+    "alias": "YA building relationships 2: aware-allow 1",
     "root": "1",
     "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e1462c9d-a22d-4083-a47b-a4114df4e5e9",
+        "alias": "section1a",
+        "content": "It is sometimes tricky to know what's true and what's fake news also when it comes to relationships. In this lesson you'll learn some smart strategies for being the friend you want to be. Hint: look inwards!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "1"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779725/Building%20Relationships/aware-allow_header_1_xwetiz.png",
+        "title": "Aware and allow"
+      },
       {
         "id": "1",
         "alias": "1",
@@ -12,7 +26,7 @@
           {
             "component": "HeaderImage",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779725/Building%20Relationships/aware-allow_header_1_xwetiz.png"
             }
           },
           {
@@ -20,7 +34,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "# Aware and allow\n\nWe’re glad to see you back here. In this challenge you will learn:\n\n* Truth versus idea\n* Friendship super skills\n* Aware and allow\n* Practice"
+                "content": "# Aware and allow\n\nWe’re glad to see you back here. In this lesson you'll learn:\n\n* Truth versus idea\n* Friendship super skills\n* Aware and allow\n* Practice"
               }
             ]
           },
@@ -30,8 +44,7 @@
               {
                 "component": "Button",
                 "content": "I'm ready",
-                "sectionId": "2",
-                "conversationId": "relationship-aoa-1"
+                "sectionId": "2"
               }
             ]
           }
@@ -47,7 +60,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "## Truth versus idea\n\nThe context around us often gives us ideas about how things should be – ideas that sometimes are mistaken for truths. Ideas on what you should and shouldn’t do with your thoughts and feelings could be helpful, but oftentimes they are not. \n\nInstead, they can make our lives harder."
+                "content": "## Truth versus idea\n\nPeople around us often gives us ideas about how things should be – ideas that sometimes are mistaken for truths. \n\nIdeas on what you should and shouldn’t do with your thoughts and feelings could be helpful, but oftentimes they are not. \n\nInstead, they can make our lives harder."
               }
             ]
           },
@@ -57,8 +70,7 @@
               {
                 "component": "Button",
                 "content": "Continue",
-                "sectionId": "3",
-                "conversationId": "relationship-aoa-1"
+                "sectionId": "3"
               }
             ]
           }
@@ -74,7 +86,7 @@
             "content": [
               {
                 "component": "Text",
-                "content": "Which of the following **are truths?**\n\n* It’s best to hide your thoughts and feelings from others\n* If you are sad, you should control that feeling\n* It’s best to tell others if they did something you don’t like\n* It’s best to be happy around others all of the time"
+                "content": "Which of the following **are truths?**\n\n* It’s best to **hide** your thoughts and feelings from others\n* If you are sad, you should **control** that feeling\n* It’s best to **tell** others if they did something you don’t like\n* It’s best to be **happy** around others all of the time"
               }
             ]
           },
@@ -84,8 +96,7 @@
               {
                 "component": "Button",
                 "content": "Show me!",
-                "sectionId": "4",
-                "conversationId": "relationship-aoa-1"
+                "sectionId": "4"
               }
             ]
           }
@@ -101,7 +112,64 @@
             "content": [
               {
                 "component": "Text",
-                "content": "In fact – they’re all *ideas*. But still most people are taught these ideas as truths. They’re everywhere.\n\nAt 29k, we use science to distinguish between truths and ideas. Not because ideas necessarily are bad – they’re great for entertaining stories and being creative. But psychologists have spent decades studying how to best handle thoughts and feelings. \n\nAlong the way they’ve discovered that a lot of the things we assume are truths, actually are *ideas*."
+                "content": "In fact – they’re all **ideas**. \n\nBut still most people are taught these ideas as truths. They’re everywhere. No wonder it gets confusing."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Next",
+                "sectionId": "e0564f19-8758-4a47-a426-88c2692ba099"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e0564f19-8758-4a47-a426-88c2692ba099",
+        "alias": "4b",
+        "content": "At 29k, we use **science** to distinguish between truths and ideas. Not because ideas necessarily are bad – they’re great for entertaining stories and being creative. But psychologists have spent decades studying how to **best** handle **thoughts** and **feelings**. \n\nAlong the way they’ve discovered that a lot of the things we assume are truths, actually are **ideas**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continue",
+            "sectionId": "91b2331b-5923-48a6-9dd1-dd47c3533123"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "91b2331b-5923-48a6-9dd1-dd47c3533123",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_amir.mp4",
+                "title": "Amir",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_amir.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623845752/Hantera%20Stress%20YA/subtitles/sanningelleride_amir-en_bllsbt.vtt",
+                "duration": 43
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_noa.mp4",
+                "title": "Noa",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_noa.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623845783/Hantera%20Stress%20YA/subtitles/sanningelleride_noa-en_y1hktd.vtt",
+                "duration": 56
+              },
+              {
+                "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_zara.mp4",
+                "title": "Zara",
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_zara.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1623845808/Hantera%20Stress%20YA/subtitles/sanningelleride_zara-en_vcqpvy.vtt",
+                "duration": 42
               }
             ]
           },
@@ -110,21 +178,19 @@
             "content": [
               {
                 "component": "NextConversationButton",
-                "content": "Got it!",
-                "conversationId": "relationship-aoa-2",
-                "sectionId": "root"
+                "variant": "primary",
+                "content": "Next",
+                "conversationId": "relationship-aoa-2"
               }
             ]
           }
-        ],
-        "type": "defaultSection"
+        ]
       }
     ]
   },
   "sv": {
-    "type": "lesson",
     "id": "relationship-aoa-1",
-    "alias": "relationship-aoa-1",
+    "alias": "YA building relationships 2: aware-allow 1",
     "root": "section1a",
     "sections": [
       {
@@ -135,7 +201,7 @@
           {
             "component": "HeaderImage",
             "content": {
-              "uri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/courses/fe91a529-e05c-4baf-97ab-336ed8f8c8bb/ta-hand-om-dig-sjalv_header.png"
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779725/Building%20Relationships/aware-allow_header_1_xwetiz.png"
             }
           },
           {
@@ -303,17 +369,23 @@
               {
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_amir.mp4",
                 "title": "Amir",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_amir.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_amir.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621599247/Building%20Relationships/subtitles/sanningelleride_amir_ry5mys.vtt",
+                "duration": 43
               },
               {
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_noa.mp4",
                 "title": "Noa",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_noa.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_noa.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621599247/Building%20Relationships/subtitles/sanningelleride_noa_rbl0hj.vtt",
+                "duration": 56
               },
               {
                 "videoUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/videos/2_sanningelleride/2_zara.mp4",
                 "title": "Zara",
-                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_zara.jpg"
+                "imageUri": "https://storage.googleapis.com/k-org-879a8.appspot.com/images/2_sanningelleride/2_zara.jpg",
+                "subtitleUri": "https://res.cloudinary.com/twentyninek/raw/upload/q_auto,t_global/v1621599247/Building%20Relationships/subtitles/sanningelleride_zara_dp2tre.vtt",
+                "duration": 42
               }
             ]
           },
@@ -322,9 +394,204 @@
             "content": [
               {
                 "component": "NextConversationButton",
+                "variant": "primary",
                 "content": "Gå vidare",
-                "conversationId": "relationship-aoa-2",
-                "sectionId": "root"
+                "conversationId": "relationship-aoa-2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "relationship-aoa-1",
+    "alias": "YA building relationships 2: aware-allow 1",
+    "root": "1",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "e1462c9d-a22d-4083-a47b-a4114df4e5e9",
+        "alias": "section1a",
+        "content": "Às vezes, é complicado distinguir as notícias verdadeiras das falsas (fake news), e o mesmo se aplica às relações. Nesta lição, vais aprender algumas estratégias inteligentes para seres a/o amiga/o que queres ser.\n\nDica: Olha para dentro de ti!",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "1"
+          }
+        ],
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779725/Building%20Relationships/aware-allow_header_1_xwetiz.png",
+        "title": "Consciência e aceitação"
+      },
+      {
+        "id": "1",
+        "alias": "1",
+        "content": [
+          {
+            "component": "HeaderImage",
+            "content": {
+              "uri": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1619779725/Building%20Relationships/aware-allow_header_1_xwetiz.png"
+            }
+          },
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "# Tomar consciência e aceitar\n\nEstamos felizes por te ver aqui de novo. Nesta lição vais aprender:\n\n* 'Verdade' versus 'ideia'\n* Super competências de amizade\n* Tomar consciência e aceitar\n* Prática"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Estou pronta/o",
+                "sectionId": "2"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "2",
+        "alias": "2",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "## 'Verdade' versus 'ideia'\n\nAs pessoas à nossa volta dão-nos muitas vezes ideias sobre como as coisas deveriam ser, ideias que, às vezes, são confundidas com verdades.\n\nIdeias sobre o que tu deves e não deves fazer com os teus pensamentos e sentimentos. Umas vezes podem ser úteis, mas muitas vezes não o são. Pelo contrário, podem tornar as nossas vidas mais difíceis."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Continuar",
+                "sectionId": "3"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "3",
+        "alias": "3",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Quais das seguintes afirmações **são verdades?**\n\n* É melhor **esconder** os teus pensamentos e sentimentos dos outros.\n* Se estás triste, deves **controlar** esse sentimento.\n* É melhor **falar** com os outros quando eles fizeram algo de que não gostas.\n* É melhor estar sempre **feliz** ao pé dos outros."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Mostrem-me!",
+                "sectionId": "4"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "id": "4",
+        "alias": "4",
+        "content": [
+          {
+            "component": "TextGroup",
+            "content": [
+              {
+                "component": "Text",
+                "content": "Na verdade, são apenas **ideias**!\n\nMas ainda assim, a maioria das pessoas toma essas ideias como verdades. E, estão em todo o lado. Não é à toa que ficamos confusas/os e indecisas/os."
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "Button",
+                "content": "Seguinte",
+                "sectionId": "e0564f19-8758-4a47-a426-88c2692ba099"
+              }
+            ]
+          }
+        ],
+        "type": "defaultSection"
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "e0564f19-8758-4a47-a426-88c2692ba099",
+        "alias": "4b",
+        "content": "Na 29k FJN, usamos a **ciência** para distinguir 'verdades' e 'ideias'. Não porque as ideias sejam necessariamente más, são ótimas para enriquecer histórias e aumentar a criatividade. Mas, os psicólogos passaram décadas a estudar a **melhor** forma de lidar com **pensamentos** e **sentimentos**.\n\nAo longo do caminho, descobriram que muitas das coisas que assumimos como verdades, na realidade, são **ideias**.",
+        "buttons": [
+          {
+            "component": "Button",
+            "content": "Continuar",
+            "sectionId": "91b2331b-5923-48a6-9dd1-dd47c3533123"
+          }
+        ]
+      },
+      {
+        "type": "defaultSection",
+        "id": "91b2331b-5923-48a6-9dd1-dd47c3533123",
+        "alias": "Videos",
+        "content": [
+          {
+            "component": "VideoStories",
+            "content": [
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359466/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Videos/Nenny_-_Construir_Rela%C3%A7%C3%B5es_L2V1_xwjudc.mp4",
+                "title": "Nenny",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362085/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Nenny/Photos/Li%C3%A7%C3%A3o2_-_estar_consciente_e_aceitar_-_video_1_izmulf.jpg",
+                "subtitleUri": "",
+                "duration": 283
+              },
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360138/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Videos/Ana_-_Construir_Rela%C3%A7%C3%B5es_-_L2V1_f7hozk.mp4",
+                "title": "Ana",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650363528/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Ana%20Lopes/Photos/Estar_consciente_e_aceitar_-_video_1_ph5nad.jpg",
+                "subtitleUri": "",
+                "duration": 149
+              },
+              {
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650359290/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Videos/L2V1_-_Afonso_Almeida_-_Construir_Rela%C3%A7%C3%B5es_wsapbf.mp4",
+                "title": "Afonso",
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362609/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Afonso%20Almeida/Photos/Afonso_Almeida_-_Estar_consciente_e_aceitar_-_video_1_nwmacn.jpg",
+                "subtitleUri": "",
+                "duration": 126
+              },
+              {
+                "title": "Isabel",
+                "videoUri": "https://res.cloudinary.com/twentyninek/video/upload/q_auto,t_global/v1650360075/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Videos/L2V1_-_Isabel_santos_-_Construir_Rela%C3%A7%C3%B5es_kxembu.mp4",
+                "duration": 201,
+                "imageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1650362486/29k%20FJN/Young%20Segment/Courses/Building%20relationships/Isabel%20Santos/Photos/Isabel_Santos_-_Estar_consciente_e_aceitar_-_video_1_xpsvkw.jpg"
+              }
+            ]
+          },
+          {
+            "component": "ButtonGroup",
+            "content": [
+              {
+                "component": "NextConversationButton",
+                "variant": "primary",
+                "content": "Seguinte",
+                "conversationId": "relationship-aoa-2"
               }
             ]
           }

@@ -1,0 +1,74 @@
+{
+  "en": {
+    "segments": ["ALL"],
+
+    "name": "TESTING course for lesson templates",
+    "about": {
+      "howThisWorks": "This course is only about TESTING and iterating on lesson templates."
+    },
+    "card": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1634211509/courses/lina-trochez-ktPKyUs3Qjs-unsplash_eoogij.jpg"
+    },
+    "cta": "Do this course with others",
+    "duration": {
+      "type": "week",
+      "count": 1
+    },
+
+    "lessonRefs": [
+      {
+        "refId": "4adff993-5048-4005-b741-bce64124c177"
+      }
+    ],
+    "tags": [],
+    "id": "68a04005-7cff-46a5-9bf6-7f33d6f79b10",
+    "lessons": [],
+    "difficulty": ["Beginner"],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true,
+    "header": {
+      "image": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1634211509/courses/lina-trochez-ktPKyUs3Qjs-unsplash_eoogij.jpg"
+    }
+  },
+  "sv": {
+    "segments": ["ALL"],
+
+    "duration": {
+      "type": "week",
+      "count": 1
+    },
+    "id": "68a04005-7cff-46a5-9bf6-7f33d6f79b10",
+    "lessons": [
+      {
+        "wip": false,
+        "id": "33a687d9-c8a1-4edd-ab00-523660fbe0e5"
+      }
+    ],
+    "difficulty": ["Beginner"],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  },
+  "pt": {
+    "segments": ["ALL"],
+
+    "duration": {
+      "type": "week",
+      "count": 1
+    },
+    "id": "68a04005-7cff-46a5-9bf6-7f33d6f79b10",
+    "lessons": [
+      {
+        "wip": false
+      }
+    ],
+    "difficulty": ["Beginner"],
+    "rating": {
+      "rating": 3
+    },
+    "wip": true
+  }
+}

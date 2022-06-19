@@ -1,0 +1,293 @@
+{
+  "en": {
+    "id": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3",
+    "alias": "UKR: Coping with crisis 3: Act for change 2",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "352044ba-ec33-4946-b6a5-a3e5a635831b",
+        "alias": "Define problems",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg",
+        "content": "**Правильно сформульована** проблема – це наполовину вирішена проблема. Але коли справа доходить до визначення ваших тригерів занепокоєння, приклади на кшталт «Я турбуюся про світ» є розпливчастими та абстрактними.\n\nБільш конкретний приклад, як-от *Я турбуюся про втрату свого доходу через падіння економіки*, є кориснішим, оскільки він допомагає нам визначити нові рішення та дії.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далі",
+            "sectionId": "3cb4b990-396c-4b40-bc17-25aa8385cdae"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3cb4b990-396c-4b40-bc17-25aa8385cdae",
+        "alias": "Identify solutions",
+        "content": "Як тільки ми визначили джерело занепокоєння, ми можемо перейти до пошуку різних рішень. Наприклад: *Урізноманітнити свій дохід, знайшовши підробіток.*\n\nТепер усе закінчено.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "42b7301e-0110-474b-a38b-19da1c0ec4a0"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "42b7301e-0110-474b-a38b-19da1c0ec4a0",
+        "title": "Вправа",
+        "alias": "Exercise",
+        "longDescription": "Запишіть свої відповіді.\n\n1. Якнайточніше визначте джерело занепокоєння у вашому житті просто зараз і те, як воно впливає на вас.\n\n2. Що знаходиться під вашим контролем у цій ситуації?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "d0c8eb9a-8af5-4d3b-b8db-c3b446021329"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "d0c8eb9a-8af5-4d3b-b8db-c3b446021329",
+        "longDescription": "3. Тепер знайдіть хвилинку, щоб розглянути альтернативні шляхи, які ви могли б обрати у поточній ситуації. Це можуть бути навіть дикі та шалені ідеї, тож не стримуйтесь.",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Готово",
+            "sectionId": "8679443b-223f-48a3-b69f-1ff5f5fa6d47"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "8679443b-223f-48a3-b69f-1ff5f5fa6d47",
+        "alias": "Exercise",
+        "longDescription": "4. Поруч із кожною ідеєю поставте оцінку від 0 до 10 залежно від того, наскільки ефективною вона сприймається.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "bb2cdb03-9296-48ba-87b9-5884c4ae9231",
+            "content": "Я закінчив"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "bb2cdb03-9296-48ba-87b9-5884c4ae9231",
+        "alias": "Exercise",
+        "longDescription": "5. Перегляньте свої ідеї та оцінки, які ви їм призначили. Яку ідею ви хотіли б втілити у життя?\n\n6. Знайдіть хвилинку, щоб спланувати, коли та як діятимете інакше. Чи є щось, що ви можете зробити вже зараз? Якщо ні, заплануйте  відповідні дії у вашому календарі.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далі",
+            "conversationId": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2"
+          }
+        ]
+      }
+    ],
+    "root": "352044ba-ec33-4946-b6a5-a3e5a635831b"
+  },
+  "sv": {
+    "id": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3",
+    "alias": "UKR: Coping with crisis 3: Act for change 2",
+    "root": "352044ba-ec33-4946-b6a5-a3e5a635831b",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "352044ba-ec33-4946-b6a5-a3e5a635831b",
+        "alias": "Define problems",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg",
+        "content": "**Правильно сформульована** проблема – це наполовину вирішена проблема. Але коли справа доходить до визначення ваших тригерів занепокоєння, приклади на кшталт «Я турбуюся про світ» є розпливчастими та абстрактними.\n\nБільш конкретний приклад, як-от *Я турбуюся про втрату свого доходу через падіння економіки*, є кориснішим, оскільки він допомагає нам визначити нові рішення та дії.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далі",
+            "sectionId": "3cb4b990-396c-4b40-bc17-25aa8385cdae"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3cb4b990-396c-4b40-bc17-25aa8385cdae",
+        "alias": "Identify solutions",
+        "content": "Як тільки ми визначили джерело занепокоєння, ми можемо перейти до пошуку різних рішень. Наприклад: *Урізноманітнити свій дохід, знайшовши підробіток.*\n\nТепер усе закінчено.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "42b7301e-0110-474b-a38b-19da1c0ec4a0"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "42b7301e-0110-474b-a38b-19da1c0ec4a0",
+        "title": "Вправа",
+        "alias": "Exercise",
+        "longDescription": "Запишіть свої відповіді.\n\n1. Якнайточніше визначте джерело занепокоєння у вашому житті просто зараз і те, як воно впливає на вас.\n\n2. Що знаходиться під вашим контролем у цій ситуації?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "d0c8eb9a-8af5-4d3b-b8db-c3b446021329"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "d0c8eb9a-8af5-4d3b-b8db-c3b446021329",
+        "longDescription": "3. Тепер знайдіть хвилинку, щоб розглянути альтернативні шляхи, які ви могли б обрати у поточній ситуації. Це можуть бути навіть дикі та шалені ідеї, тож не стримуйтесь.",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Готово",
+            "sectionId": "8679443b-223f-48a3-b69f-1ff5f5fa6d47"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "8679443b-223f-48a3-b69f-1ff5f5fa6d47",
+        "alias": "Exercise",
+        "longDescription": "4. Поруч із кожною ідеєю поставте оцінку від 0 до 10 залежно від того, наскільки ефективною вона сприймається.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "bb2cdb03-9296-48ba-87b9-5884c4ae9231",
+            "content": "Я закінчив"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "bb2cdb03-9296-48ba-87b9-5884c4ae9231",
+        "alias": "Exercise",
+        "longDescription": "5. Перегляньте свої ідеї та оцінки, які ви їм призначили. Яку ідею ви хотіли б втілити у життя?\n\n6. Знайдіть хвилинку, щоб спланувати, коли та як діятимете інакше. Чи є щось, що ви можете зробити вже зараз? Якщо ні, заплануйте  відповідні дії у вашому календарі.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далі",
+            "conversationId": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2"
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "id": "2bf2e13b-2ba7-45e2-894d-989d670a7aa3",
+    "alias": "UKR: Coping with crisis 3: Act for change 2",
+    "root": "352044ba-ec33-4946-b6a5-a3e5a635831b",
+    "sections": [
+      {
+        "type": "editorialWithImage",
+        "id": "352044ba-ec33-4946-b6a5-a3e5a635831b",
+        "alias": "Define problems",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1629709346/anton-darius-IuQKQxZs-TA-unsplash_byrkbl.jpg",
+        "content": "**Правильно сформульована** проблема – це наполовину вирішена проблема. Але коли справа доходить до визначення ваших тригерів занепокоєння, приклади на кшталт «Я турбуюся про світ» є розпливчастими та абстрактними.\n\nБільш конкретний приклад, як-от *Я турбуюся про втрату свого доходу через падіння економіки*, є кориснішим, оскільки він допомагає нам визначити нові рішення та дії.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Далі",
+            "sectionId": "3cb4b990-396c-4b40-bc17-25aa8385cdae"
+          }
+        ]
+      },
+      {
+        "type": "editorialWithImage",
+        "id": "3cb4b990-396c-4b40-bc17-25aa8385cdae",
+        "alias": "Identify solutions",
+        "content": "Як тільки ми визначили джерело занепокоєння, ми можемо перейти до пошуку різних рішень. Наприклад: *Урізноманітнити свій дохід, знайшовши підробіток.*\n\nТепер усе закінчено.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Починаймо",
+            "sectionId": "42b7301e-0110-474b-a38b-19da1c0ec4a0"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "42b7301e-0110-474b-a38b-19da1c0ec4a0",
+        "title": "Вправа",
+        "alias": "Exercise",
+        "longDescription": "Запишіть свої відповіді.\n\n1. Якнайточніше визначте джерело занепокоєння у вашому житті просто зараз і те, як воно впливає на вас.\n\n2. Що знаходиться під вашим контролем у цій ситуації?",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Я закінчив",
+            "sectionId": "d0c8eb9a-8af5-4d3b-b8db-c3b446021329"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "d0c8eb9a-8af5-4d3b-b8db-c3b446021329",
+        "longDescription": "3. Тепер знайдіть хвилинку, щоб розглянути альтернативні шляхи, які ви могли б обрати у поточній ситуації. Це можуть бути навіть дикі та шалені ідеї, тож не стримуйтесь.",
+        "alias": "Exercise",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "content": "Готово",
+            "sectionId": "8679443b-223f-48a3-b69f-1ff5f5fa6d47"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "8679443b-223f-48a3-b69f-1ff5f5fa6d47",
+        "alias": "Exercise",
+        "longDescription": "4. Поруч із кожною ідеєю поставте оцінку від 0 до 10 залежно від того, наскільки ефективною вона сприймається.",
+        "buttons": [
+          {
+            "component": "Button",
+            "variant": "default",
+            "sectionId": "bb2cdb03-9296-48ba-87b9-5884c4ae9231",
+            "content": "Я закінчив"
+          }
+        ]
+      },
+      {
+        "type": "writing",
+        "topImageUri": "https://res.cloudinary.com/twentyninek/image/upload/q_auto,t_global/v1617023623/Badges/exercise_badge_ltbfuq.png",
+        "id": "bb2cdb03-9296-48ba-87b9-5884c4ae9231",
+        "alias": "Exercise",
+        "longDescription": "5. Перегляньте свої ідеї та оцінки, які ви їм призначили. Яку ідею ви хотіли б втілити у життя?\n\n6. Знайдіть хвилинку, щоб спланувати, коли та як діятимете інакше. Чи є щось, що ви можете зробити вже зараз? Якщо ні, заплануйте  відповідні дії у вашому календарі.",
+        "buttons": [
+          {
+            "component": "NextConversationButton",
+            "variant": "primary",
+            "content": "Далі",
+            "conversationId": "eebc9b3e-cd21-4eb5-abe5-6b547b9016d2"
+          }
+        ]
+      }
+    ]
+  }
+}
