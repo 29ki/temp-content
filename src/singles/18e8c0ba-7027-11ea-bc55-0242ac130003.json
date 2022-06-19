@@ -3,11 +3,11 @@
     "segments": [
       "ADULTS"
     ],
-    "name": "Acceptance",
+    "name": "Acceptance!",
+    "time": "15 minutes",
     "card": {
       "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png"
     },
-    "time": "15 minutes",
     "duration": {
       "count": 15,
       "type": "minute"
@@ -140,10 +140,10 @@
       "ADULTS"
     ],
     "name": "Acceptans",
+    "time": "15 minuter",
     "card": {
       "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png"
     },
-    "time": "15 minuter",
     "duration": {
       "count": 15,
       "type": "minute"
@@ -277,10 +277,10 @@
       "ADULTS"
     ],
     "name": "Aceitação",
+    "time": "15 minutes",
     "card": {
       "image": "https://res.cloudinary.com/twentyninek/image/upload/f_auto,q_auto,t_global/v1652781082/New_images/exercises%20png/1024x1024/acceptance_y2qkmb.png"
     },
-    "time": "15 minutes",
     "duration": {
       "count": 15,
       "type": "minute"
